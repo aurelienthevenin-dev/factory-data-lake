@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0402,
+        "totalAssets": 0.1311,
+        "currentShares": 6799539,
+        "change": -15399,
+        "change_p": -0.226
+      },
+      "1": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 11.5885,
+        "totalAssets": 1.3641,
+        "currentShares": 6544423,
+        "change": 55230,
+        "change_p": 0.8511
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.4296,
+        "totalAssets": 0.0968,
+        "currentShares": 4195770,
+        "change": -67150,
+        "change_p": -1.5752
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.0024,
+        "totalAssets": 0.7152,
+        "currentShares": 3954512,
+        "change": 15825,
+        "change_p": 0.4018
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.4705,
+        "totalAssets": 0.0997,
+        "currentShares": 2524632,
+        "change": 528863,
+        "change_p": 26.4992
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.3855,
+        "totalAssets": 0.608,
+        "currentShares": 2476661,
+        "change": 268824,
+        "change_p": 12.1759
+      },
+      "6": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.23,
+        "totalAssets": 0.1092,
+        "currentShares": 2388838,
+        "change": 45550,
+        "change_p": 1.9438
+      },
+      "7": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.214,
+        "totalAssets": 1.582,
+        "currentShares": 2379816,
+        "change": 367756,
+        "change_p": 18.2776
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8673,
+        "totalAssets": 0.1098,
+        "currentShares": 1619293,
+        "change": -663137,
+        "change_p": -29.054
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1813,
+        "totalAssets": 0.1006,
+        "currentShares": 1231871,
+        "change": -191,
+        "change_p": -0.0155
+      },
+      "10": {
+        "name": "ALTAROCK PARTNERS LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7166,
+        "totalAssets": 25.2772,
+        "currentShares": 969400,
+        "change": -6992,
+        "change_p": -0.7161
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5652,
+        "totalAssets": 0.0705,
+        "currentShares": 883896,
+        "change": -63379,
+        "change_p": -6.6907
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3656,
+        "totalAssets": 0.1097,
+        "currentShares": 771208,
+        "change": -67278,
+        "change_p": -8.0237
+      },
+      "13": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3258,
+        "totalAssets": 0.1056,
+        "currentShares": 748713,
+        "change": 29025,
+        "change_p": 4.033
+      },
+      "14": {
+        "name": "Soroban Capital Partners LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3245,
+        "totalAssets": 6.8786,
+        "currentShares": 747970,
+        "change": 166865,
+        "change_p": 28.7151
+      },
+      "15": {
+        "name": "Edgewood Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0295,
+        "totalAssets": 3.682,
+        "currentShares": 581412,
+        "change": -55429,
+        "change_p": -8.7037
+      },
+      "16": {
+        "name": "WINDACRE PARTNERSHIP LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0024,
+        "totalAssets": 8.0737,
+        "currentShares": 566100,
+        "change": -46400,
+        "change_p": -7.5755
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.842,
+        "totalAssets": 0.1563,
+        "currentShares": 475489,
+        "change": 293821,
+        "change_p": 161.7351
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8304,
+        "totalAssets": 0.0791,
+        "currentShares": 468943,
+        "change": -8089,
+        "change_p": -1.6957
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8187,
+        "totalAssets": 0.0955,
+        "currentShares": 462337,
+        "change": -94062,
+        "change_p": -16.9055
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 5.1029,
+        "totalAssets": 2.1698,
+        "currentShares": 2881772,
+        "change": 106661,
+        "change_p": 3.8435
+      },
+      "1": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.914,
+        "totalAssets": 2.2813,
+        "currentShares": 2775111,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 4.7354,
+        "totalAssets": 1.0116,
+        "currentShares": 2674254,
+        "change": 13476,
+        "change_p": 0.5065
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.7115,
+        "totalAssets": 1.0532,
+        "currentShares": 2660778,
+        "change": -24780,
+        "change_p": -0.9227
+      },
+      "4": {
+        "name": "JPM High Quality High Yield-Composite",
+        "date": "2025-12-31",
+        "totalShares": 4.1369,
+        "totalAssets": 0.2014,
+        "currentShares": 2336281,
+        "change": -5930,
+        "change_p": -0.2532
+      },
+      "5": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 3.328,
+        "totalAssets": 2.5966,
+        "currentShares": 1879419,
+        "change": 21006,
+        "change_p": 1.1303
+      },
+      "6": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1756,
+        "totalAssets": 0.1041,
+        "currentShares": 1793391,
+        "change": 12033,
+        "change_p": 0.6755
+      },
+      "7": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 3.1216,
+        "totalAssets": 2.3347,
+        "currentShares": 1762870,
+        "change": -116549,
+        "change_p": -6.2013
+      },
+      "8": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.6109,
+        "totalAssets": 0.6482,
+        "currentShares": 1474445,
+        "change": 46276,
+        "change_p": 3.2402
+      },
+      "9": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5471,
+        "totalAssets": 0.1172,
+        "currentShares": 1438465,
+        "change": -9690,
+        "change_p": -0.6691
+      },
+      "10": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.7115,
+        "currentShares": 1219971,
+        "change": -4112,
+        "change_p": -0.3359
+      },
+      "11": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 2.0413,
+        "totalAssets": 5.0094,
+        "currentShares": 1152812,
+        "change": -131827,
+        "change_p": -10.2618
+      },
+      "12": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 1.9694,
+        "totalAssets": 5.0227,
+        "currentShares": 1112204,
+        "change": 20592,
+        "change_p": 1.8864
+      },
+      "13": {
+        "name": "Loomis Sayles MFD Class C",
+        "date": "2025-12-31",
+        "totalShares": 1.8557,
+        "totalAssets": 0.0536,
+        "currentShares": 1048000,
+        "change": -458153,
+        "change_p": -30.4188
+      },
+      "14": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 1.4322,
+        "totalAssets": 0.7555,
+        "currentShares": 808808,
+        "change": 50000,
+        "change_p": 6.5893
+      },
+      "15": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2856,
+        "totalAssets": 0.1168,
+        "currentShares": 726016,
+        "change": -396,
+        "change_p": -0.0545
+      },
+      "16": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 1.2713,
+        "totalAssets": 1.6756,
+        "currentShares": 717972,
+        "change": 1500,
+        "change_p": 0.2094
+      },
+      "17": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2691,
+        "totalAssets": 0.1247,
+        "currentShares": 716730,
+        "change": 1182,
+        "change_p": 0.1652
+      },
+      "18": {
+        "name": "Capital Group Growth Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.2687,
+        "totalAssets": 1.7425,
+        "currentShares": 716472,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 1.1956,
+        "totalAssets": 0.5658,
+        "currentShares": 675223,
+        "change": -133585,
+        "change_p": -16.5163
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 36.8952,
+    "ForwardPE": 29.0698,
+    "PriceSalesTTM": 7.1177,
+    "PriceBookMRQ": 9.5527,
+    "EnterpriseValue": 93352620802,
+    "EnterpriseValueRevenue": 10.2473,
+    "EnterpriseValueEbitda": 20.1713
+  },
+  "Highlights": {
+    "MarketCapitalization": 64841818112,
+    "MarketCapitalizationMln": 64841.8181,
+    "EBITDA": 4643999744,
+    "PERatio": 36.8952,
+    "PEGRatio": 2.8787,
+    "WallStreetTargetPrice": 1537.1428,
+    "BookValue": -164.367,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 31.12,
+    "EPSEstimateCurrentYear": 39.0882,
+    "EPSEstimateNextYear": 45.939,
+    "EPSEstimateNextQuarter": 9.1957,
+    "EPSEstimateCurrentQuarter": 8.0413,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2224,
+    "OperatingMarginTTM": 0.456,
+    "ReturnOnAssetsTTM": 0.1178,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 9109999616,
+    "RevenuePerShareTTM": 156.596,
+    "QuarterlyRevenueGrowthYOY": 0.139,
+    "GrossProfitTTM": 5438000128,
+    "DilutedEpsTTM": 31.12,
+    "QuarterlyEarningsGrowthYOY": -0.129
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 46.92,
+    "TotalEsgPercentile": 90.82,
+    "EnvironmentScore": 16.93,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 24.75,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 13.75,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TDG",
+    "Type": "Common Stock",
+    "Name": "Transdigm Group Incorporated",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000L8CBX4",
+    "ISIN": "US8936411003",
+    "LEI": "88Q84GB3X55CF5OC7582",
+    "PrimaryTicker": "TDG.US",
+    "CUSIP": "893641100",
+    "CIK": "0001260221",
+    "EmployerIdNumber": "41-2101738",
+    "FiscalYearEnd": "September",
+    "IPODate": "2006-03-15",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power & Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, cargo loading and handling systems, delivery systems, and electronic components. Its Airframe segment provides engineered latching and locking devices, engineered rods, engineered connectors and elastomer sealing solutions, cockpit security components and systems, cockpit displays, lavatory components, seat belts and safety restraints, engineered and customized interior surfaces and related components, thermal protection and insulation products, lighting and control technology, parachutes, specialized flight, wind tunnel and jet engine testing services and equipment, and testing and instrumentation solutions, as well as engineered audio, radio, and antenna systems. The Non-Aviation segment offers seat belts and safety restraints; mechanical/electromechanical actuators and controls; hydraulic/electromechanical actuators and fuel valves; refueling systems; and turbine controls. It serves engine and power system and subsystem suppliers, airlines, third party maintenance suppliers, military buying agencies, and repair depots; airframe manufacturers, cabin system and subsystem suppliers, airlines, and third party maintenance suppliers; and off-road vehicle and subsystem suppliers, child restraint system suppliers, and satellite and space system suppliers, as well as manufacturers of heavy equipment. The company was formerly known as TD Holding Corporation and changed its name to TransDigm Group Incorporated in 2006. The company was founded in 1993 and is headquartered in Cleveland, Ohio.",
+    "Address": "1350 Euclid Avenue, Cleveland, OH, United States, 44115",
+    "AddressData": {
+      "Street": "1350 Euclid Avenue",
+      "City": "Cleveland",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44115"
+    },
+    "Listings": {
+      "0": {
+        "Code": "T7D",
+        "Exchange": "F",
+        "Name": "TransDigm Group Incorporated"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Michael J. Lisman",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1984"
+      },
+      "1": {
+        "Name": "Ms. Sarah L. Wynne",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Joel B. Reiss",
+        "Title": "Co-Chief Operating Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Patrick Joseph Murphy",
+        "Title": "Co-Chief Operating Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Ms. Liza  Sabol",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Armani  Vadiee",
+        "Title": "General Counsel, Chief Compliance Officer & Secretary",
+        "YearBorn": "1981"
+      },
+      "6": {
+        "Name": "Mr. Kevin  McHenry",
+        "Title": "Executive Vice President",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Paula  Wheeler",
+        "Title": "Executive Vice President",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Jason  Marlin",
+        "Title": "Executive Vice President",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Alex  Feil",
+        "Title": "Executive Vice President",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "216 706 2960",
+    "WebURL": "https://www.transdigm.com",
+    "LogoURL": "/img/logos/US/tdg.png",
+    "FullTimeEmployees": 16500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 56473563,
+    "SharesFloat": 56195148,
+    "PercentInsiders": 0.39699999999999996,
+    "PercentInstitutions": 97.723,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0244
+  }
+}

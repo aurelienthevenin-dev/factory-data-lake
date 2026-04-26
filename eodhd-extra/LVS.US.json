@@ -1,0 +1,566 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.1128,
+        "totalAssets": 0.0383,
+        "currentShares": 40565535,
+        "change": -1661632,
+        "change_p": -3.935
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.1121,
+        "totalAssets": 0.0257,
+        "currentShares": 27288726,
+        "change": -14467,
+        "change_p": -0.053
+      },
+      "2": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.4461,
+        "totalAssets": 0.195,
+        "currentShares": 16232863,
+        "change": -17808593,
+        "change_p": -52.3144
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.2067,
+        "totalAssets": 0.0843,
+        "currentShares": 14644179,
+        "change": -1239581,
+        "change_p": -7.8041
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1535,
+        "totalAssets": 0.0267,
+        "currentShares": 14290778,
+        "change": -1101665,
+        "change_p": -7.1572
+      },
+      "5": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.371,
+        "totalAssets": 0.3107,
+        "currentShares": 9098518,
+        "change": 6279390,
+        "change_p": 222.7423
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2509,
+        "totalAssets": 0.0332,
+        "currentShares": 8301257,
+        "change": -53527,
+        "change_p": -0.6407
+      },
+      "7": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.2336,
+        "totalAssets": 0.3121,
+        "currentShares": 8186257,
+        "change": 3018704,
+        "change_p": 58.4165
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0346,
+        "totalAssets": 0.0582,
+        "currentShares": 6865559,
+        "change": -3037060,
+        "change_p": -30.6693
+      },
+      "9": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0016,
+        "totalAssets": 0.0641,
+        "currentShares": 6646825,
+        "change": -3021938,
+        "change_p": -31.2546
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8448,
+        "totalAssets": 0.039,
+        "currentShares": 5605957,
+        "change": 2522099,
+        "change_p": 81.7839
+      },
+      "11": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 0.75,
+        "totalAssets": 0.1776,
+        "currentShares": 4977297,
+        "change": 4950587,
+        "change_p": 18534.5826
+      },
+      "12": {
+        "name": "Jane Street Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6804,
+        "totalAssets": 0.0444,
+        "currentShares": 4515007,
+        "change": 2460481,
+        "change_p": 119.7591
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.556,
+        "totalAssets": 0.0504,
+        "currentShares": 3689576,
+        "change": -33918,
+        "change_p": -0.9109
+      },
+      "14": {
+        "name": "ARGA Investment Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.5132,
+        "totalAssets": 6.0442,
+        "currentShares": 3405478,
+        "change": -1004771,
+        "change_p": -22.7826
+      },
+      "15": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.5076,
+        "totalAssets": 0.0329,
+        "currentShares": 3368422,
+        "change": -5144811,
+        "change_p": -60.4331
+      },
+      "16": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 0.4689,
+        "totalAssets": 0.1664,
+        "currentShares": 3111899,
+        "change": -1566732,
+        "change_p": -33.487
+      },
+      "17": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.4579,
+        "totalAssets": 0.0099,
+        "currentShares": 3038443,
+        "change": -724609,
+        "change_p": -19.2559
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.3731,
+        "totalAssets": 0.017,
+        "currentShares": 2476109,
+        "change": -167574,
+        "change_p": -6.3387
+      },
+      "19": {
+        "name": "Balyasny Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.3422,
+        "totalAssets": 0.1876,
+        "currentShares": 2271010,
+        "change": -273767,
+        "change_p": -10.758
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4469,
+        "totalAssets": 0.0259,
+        "currentShares": 9602180,
+        "change": -22008,
+        "change_p": -0.2287
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1601,
+        "totalAssets": 0.0292,
+        "currentShares": 7698500,
+        "change": -124899,
+        "change_p": -1.5965
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.9843,
+        "totalAssets": 0.1771,
+        "currentShares": 6531717,
+        "change": -81406,
+        "change_p": -1.231
+      },
+      "3": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.9667,
+        "totalAssets": 0.2933,
+        "currentShares": 6414987,
+        "change": -8396908,
+        "change_p": -56.6903
+      },
+      "4": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.6338,
+        "totalAssets": 0.0713,
+        "currentShares": 4206033,
+        "change": -48669,
+        "change_p": -1.1439
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5856,
+        "totalAssets": 0.0291,
+        "currentShares": 3886032,
+        "change": -2112,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.5835,
+        "totalAssets": 0.0293,
+        "currentShares": 3871986,
+        "change": 6391,
+        "change_p": 0.1653
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5333,
+        "totalAssets": 0.0293,
+        "currentShares": 3539246,
+        "change": -8624,
+        "change_p": -0.2431
+      },
+      "8": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4777,
+        "totalAssets": 1.2497,
+        "currentShares": 3170000,
+        "change": -660000,
+        "change_p": -17.2324
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4776,
+        "totalAssets": 0.2002,
+        "currentShares": 3169386,
+        "change": 9301,
+        "change_p": 0.2943
+      },
+      "10": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.4626,
+        "totalAssets": 1.0235,
+        "currentShares": 3070000,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3466,
+        "totalAssets": 0.4241,
+        "currentShares": 2299777,
+        "change": -226504,
+        "change_p": -8.9659
+      },
+      "12": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3097,
+        "totalAssets": 0.5946,
+        "currentShares": 2055023,
+        "change": -3535,
+        "change_p": -0.1717
+      },
+      "13": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.3014,
+        "totalAssets": 0.2984,
+        "currentShares": 2000000,
+        "change": -3713687,
+        "change_p": -64.9963
+      },
+      "14": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2584,
+        "totalAssets": 1.4994,
+        "currentShares": 1714496,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2566,
+        "totalAssets": 0.0291,
+        "currentShares": 1703114,
+        "change": -21842,
+        "change_p": -1.2662
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.2432,
+        "totalAssets": 0.0288,
+        "currentShares": 1613942,
+        "change": -7900,
+        "change_p": -0.4871
+      },
+      "17": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2405,
+        "totalAssets": 0.4051,
+        "currentShares": 1596095,
+        "change": -21372,
+        "change_p": -1.3213
+      },
+      "18": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.2122,
+        "totalAssets": 0.1466,
+        "currentShares": 1408113,
+        "change": -168503,
+        "change_p": -10.6876
+      },
+      "19": {
+        "name": "Neuberger Large Cap Value Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.2118,
+        "totalAssets": 1.0601,
+        "currentShares": 1405848,
+        "change": -276322,
+        "change_p": -16.4265
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.1341,
+    "ForwardPE": 16.129,
+    "PriceSalesTTM": 2.5506,
+    "PriceBookMRQ": 21.6824,
+    "EnterpriseValue": 47439677722,
+    "EnterpriseValueRevenue": 3.3783,
+    "EnterpriseValueEbitda": 9.6886
+  },
+  "Highlights": {
+    "MarketCapitalization": 35045679104,
+    "MarketCapitalizationMln": 35045.6791,
+    "EBITDA": 4833999872,
+    "PERatio": 19.1341,
+    "PEGRatio": 0.9299,
+    "WallStreetTargetPrice": 69.7211,
+    "BookValue": 2.356,
+    "DividendShare": 1.1,
+    "DividendYield": 0.0212,
+    "EarningsShare": 2.76,
+    "EPSEstimateCurrentYear": 3.3085,
+    "EPSEstimateNextYear": 3.6676,
+    "EPSEstimateNextQuarter": 0.7635,
+    "EPSEstimateCurrentQuarter": 0.758,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1341,
+    "OperatingMarginTTM": 0.2544,
+    "ReturnOnAssetsTTM": 0.09,
+    "ReturnOnEquityTTM": 0.7326,
+    "RevenueTTM": 13740000256,
+    "RevenuePerShareTTM": 20.198,
+    "QuarterlyRevenueGrowthYOY": 0.253,
+    "GrossProfitTTM": 10689999872,
+    "DilutedEpsTTM": 2.76,
+    "QuarterlyEarningsGrowthYOY": 0.73
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.23,
+    "TotalEsgPercentile": 17.25,
+    "EnvironmentScore": 1.94,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 9.6,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 6.19,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "Yes"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LVS",
+    "Type": "Common Stock",
+    "Name": "Las Vegas Sands Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000JWD753",
+    "ISIN": "US5178341070",
+    "LEI": "549300DUOO1KXOHPM605",
+    "PrimaryTicker": "LVS.US",
+    "CUSIP": "517834107",
+    "CIK": "0001300514",
+    "EmployerIdNumber": "27-0099920",
+    "FiscalYearEnd": "December",
+    "IPODate": "2004-12-15",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Resorts & Casinos",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Casinos & Gaming",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Las Vegas Sands Corp., together with its subsidiaries, owns, develops, and operates integrated resorts in Macao and Singapore. It owns and operates The Venetian Macao Resort Hotel, The Londoner Macao, The Parisian Macao, The Plaza Macao and Four Seasons Hotel Macao, and The Sands Macao in Macao, the People's Republic of China; and Marina Bay Sands in Singapore. The company's integrated resorts feature accommodations, gaming, entertainment and retail malls, convention and exhibition facilities, celebrity chef restaurants, and other amenities. The company was founded in 1988 and is based in Las Vegas, Nevada.",
+    "Address": "5420 S. Durango Dr, Las Vegas, NV, United States, 89113",
+    "AddressData": {
+      "Street": "5420 S. Durango Dr",
+      "City": "Las Vegas",
+      "State": "NV",
+      "Country": "United States",
+      "ZIP": "89113"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Patrick  Dumont",
+        "Title": "Chairman, CEO, President & Treasurer",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Randy A. Hyzak",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. D. Zachary Hudson J.D.",
+        "Title": "Executive VP, Global General Counsel & Secretary",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Robert Glen Goldstein",
+        "Title": "Senior Advisor",
+        "YearBorn": "1956"
+      },
+      "4": {
+        "Name": "Mr. Daniel J. Briggs",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Ronald  Reese",
+        "Title": "Senior Vice President of Global Communications, Corporate Affairs & Public Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "702 923 9000",
+    "WebURL": "https://www.sands.com",
+    "LogoURL": "/img/logos/US/LVS.png",
+    "FullTimeEmployees": 41000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 663618211,
+    "SharesFloat": 311898974,
+    "PercentInsiders": 58.443,
+    "PercentInstitutions": 42.536,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0816
+  }
+}

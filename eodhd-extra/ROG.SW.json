@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 20.106,
+    "ForwardPE": 14.6199,
+    "PriceSalesTTM": 4.0474,
+    "PriceBookMRQ": 7.0825,
+    "EnterpriseValue": 258044558673,
+    "EnterpriseValueRevenue": 4.0729,
+    "EnterpriseValueEbitda": 11.8887
+  },
+  "Highlights": {
+    "MarketCapitalization": 256427556864,
+    "MarketCapitalizationMln": 256427.5569,
+    "EBITDA": 24043999232,
+    "PERatio": 20.106,
+    "PEGRatio": 0.7739,
+    "WallStreetTargetPrice": 364.7895,
+    "BookValue": 42.485,
+    "DividendShare": 9.8,
+    "DividendYield": 0.0306,
+    "EarningsShare": 16.03,
+    "EPSEstimateCurrentYear": 20.1463,
+    "EPSEstimateNextYear": 21.742,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2033,
+    "OperatingMarginTTM": 0.2999,
+    "ReturnOnAssetsTTM": 0.1294,
+    "ReturnOnEquityTTM": 0.3727,
+    "RevenueTTM": 63355998208,
+    "RevenuePerShareTTM": 79.593,
+    "QuarterlyRevenueGrowthYOY": -0.004,
+    "GrossProfitTTM": 47194001408,
+    "DilutedEpsTTM": 16.03,
+    "QuarterlyEarningsGrowthYOY": 1.713
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.6,
+    "TotalEsgPercentile": 36.48,
+    "EnvironmentScore": 1.33,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 14.22,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 10.05,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ROG",
+    "Type": "Common Stock",
+    "Name": "Roche Holding AG",
+    "Exchange": "SW",
+    "CurrencyCode": "CHF",
+    "CurrencyName": "Swiss Franc",
+    "CurrencySymbol": "CHF",
+    "CountryName": "Switzerland",
+    "CountryISO": "CH",
+    "OpenFigi": "BBG000BNV243",
+    "ISIN": "CH0012032048",
+    "LEI": "549300U41AUUVOAAOB37",
+    "PrimaryTicker": "ROG.SW",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Pharmaceuticals",
+    "GicSubIndustry": "Pharmaceuticals",
+    "Description": "Roche Holding AG engages in the pharmaceuticals and diagnostics businesses in Europe, North America, Latin America, Asia, Africa, Australia, and New Zealand. The company offers pharma solutions in the therapeutic areas of anaemia, blood and solid tumors, dermatology, haematology, infectious diseases, inflammatory and autoimmune, neurological disorders, ophthalmology, respiratory disorders, and transplantation. It also provides in vitro tests for the diagnosis of various diseases, such as cancer, diabetes, Covid-19, hepatitis, human papillomavirus, and others; diagnostic instruments; and digital health solutions. The company was founded in 1896 and is based in Basel, Switzerland.",
+    "Address": "Grenzacherstrasse 124, Basel, Switzerland, 4070",
+    "AddressData": {
+      "Street": "Grenzacherstrasse 124",
+      "City": "Basel",
+      "Country": "Switzerland",
+      "ZIP": "4070"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Severin  Schwan Ph.D.",
+        "Title": "Executive Chairman",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Dr. Thomas  Schinecker",
+        "Title": "Group Chief Executive Officer",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Dr. Alan  Hippe",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Dr. Bruno  Eschli",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Ms. Claudia  Bockstiegel",
+        "Title": "General Counsel",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Ms. Pascale  Schmidt",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Dr. Nina  Schwab-Hautzinger",
+        "Title": "Head of Group Communications",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Ms. Maria Cristina A. Wilbur",
+        "Title": "Chief People Officer",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Dr. Nicolas  Dunant",
+        "Title": "Head of Group Media Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Boris L.  Zaitra",
+        "Title": "Head of Corporate Business Development",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "41 61 688 88 80",
+    "WebURL": "https://www.roche.com",
+    "LogoURL": "/img/logos/SW/ROG.png",
+    "FullTimeEmployees": 103249,
+    "UpdatedAt": "2026-03-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 688926637,
+    "SharesFloat": 721792276,
+    "PercentInsiders": 0,
+    "PercentInstitutions": 41.933,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

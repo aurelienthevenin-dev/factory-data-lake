@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2859,
+        "totalAssets": 0.3323,
+        "currentShares": 124986171,
+        "change": 2210950,
+        "change_p": 1.8008
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.5151,
+        "totalAssets": 0.2963,
+        "currentShares": 101151945,
+        "change": 2802425,
+        "change_p": 2.8495
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.7798,
+        "totalAssets": 0.5295,
+        "currentShares": 91254030,
+        "change": -21452803,
+        "change_p": -19.0342
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.6569,
+        "totalAssets": 2.5777,
+        "currentShares": 76140352,
+        "change": -57410,
+        "change_p": -0.0753
+      },
+      "4": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.6377,
+        "totalAssets": 5.3199,
+        "currentShares": 62421841,
+        "change": 62042825,
+        "change_p": 16369.4475
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.48,
+        "totalAssets": 0.3023,
+        "currentShares": 60299904,
+        "change": 30346113,
+        "change_p": 101.3098
+      },
+      "6": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.3071,
+        "totalAssets": 1.2797,
+        "currentShares": 44512309,
+        "change": -10387516,
+        "change_p": -18.9209
+      },
+      "7": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 2.7914,
+        "totalAssets": 3.7196,
+        "currentShares": 37571811,
+        "change": -2527555,
+        "change_p": -6.3032
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2526,
+        "totalAssets": 0.3426,
+        "currentShares": 30319882,
+        "change": 677071,
+        "change_p": 2.2841
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.205,
+        "totalAssets": 0.3007,
+        "currentShares": 29678515,
+        "change": 749482,
+        "change_p": 2.5908
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.0956,
+        "totalAssets": 0.3201,
+        "currentShares": 28205871,
+        "change": -136289,
+        "change_p": -0.4809
+      },
+      "11": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6197,
+        "totalAssets": 1.3646,
+        "currentShares": 21800188,
+        "change": 625994,
+        "change_p": 2.9564
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2832,
+        "totalAssets": 0.3389,
+        "currentShares": 17271681,
+        "change": 1112237,
+        "change_p": 6.8829
+      },
+      "13": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1455,
+        "totalAssets": 0.6433,
+        "currentShares": 15417875,
+        "change": -157992,
+        "change_p": -1.0143
+      },
+      "14": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0522,
+        "totalAssets": 0.8375,
+        "currentShares": 14162409,
+        "change": -1706461,
+        "change_p": -10.7535
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9253,
+        "totalAssets": 0.2666,
+        "currentShares": 12453885,
+        "change": -125744,
+        "change_p": -0.9996
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7717,
+        "totalAssets": 0.296,
+        "currentShares": 10386947,
+        "change": -27399,
+        "change_p": -0.2631
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7681,
+        "totalAssets": 0.2325,
+        "currentShares": 10338102,
+        "change": 925494,
+        "change_p": 9.8325
+      },
+      "18": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6981,
+        "totalAssets": 1.9848,
+        "currentShares": 9395871,
+        "change": -788,
+        "change_p": -0.0084
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6944,
+        "totalAssets": 0.245,
+        "currentShares": 9345856,
+        "change": -1064232,
+        "change_p": -10.2231
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1677,
+        "totalAssets": 0.4119,
+        "currentShares": 42636281,
+        "change": 223799,
+        "change_p": 0.5277
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5395,
+        "totalAssets": 0.4634,
+        "currentShares": 34180701,
+        "change": -306261,
+        "change_p": -0.888
+      },
+      "2": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.9268,
+        "totalAssets": 4.265,
+        "currentShares": 25934534,
+        "change": -2209177,
+        "change_p": -7.8496
+      },
+      "3": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 1.8726,
+        "totalAssets": 3.8625,
+        "currentShares": 25204600,
+        "change": -1931500,
+        "change_p": -7.1178
+      },
+      "4": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3364,
+        "totalAssets": 1.5844,
+        "currentShares": 17988021,
+        "change": -3256356,
+        "change_p": -15.3281
+      },
+      "5": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3201,
+        "totalAssets": 1.852,
+        "currentShares": 17768090,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2819,
+        "totalAssets": 0.4622,
+        "currentShares": 17254429,
+        "change": -9396,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2677,
+        "totalAssets": 0.4615,
+        "currentShares": 17063003,
+        "change": 28125,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.2478,
+        "totalAssets": 1.6248,
+        "currentShares": 16795029,
+        "change": -1192992,
+        "change_p": -6.6321
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.156,
+        "totalAssets": 0.4616,
+        "currentShares": 15559204,
+        "change": -38269,
+        "change_p": -0.2454
+      },
+      "10": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.9416,
+        "totalAssets": 1.4736,
+        "currentShares": 12674017,
+        "change": -5094073,
+        "change_p": -28.6698
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9217,
+        "totalAssets": 1.0603,
+        "currentShares": 12405719,
+        "change": -82256,
+        "change_p": -0.6587
+      },
+      "12": {
+        "name": "iShares US Aerospace & Defense ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.853,
+        "totalAssets": 16.5538,
+        "currentShares": 11481575,
+        "change": -93800,
+        "change_p": -0.8103
+      },
+      "13": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.7007,
+        "totalAssets": 1.6645,
+        "currentShares": 9431257,
+        "change": -16503277,
+        "change_p": -63.6344
+      },
+      "14": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.6887,
+        "totalAssets": 1.4747,
+        "currentShares": 9269116,
+        "change": -3118425,
+        "change_p": -25.1739
+      },
+      "15": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6067,
+        "totalAssets": 2.728,
+        "currentShares": 8165452,
+        "change": -994936,
+        "change_p": -10.8613
+      },
+      "16": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.573,
+        "totalAssets": 2.7931,
+        "currentShares": 7712489,
+        "change": -200250,
+        "change_p": -2.5307
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5619,
+        "totalAssets": 0.4622,
+        "currentShares": 7562488,
+        "change": -32245,
+        "change_p": -0.4246
+      },
+      "18": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5542,
+        "totalAssets": 5.1197,
+        "currentShares": 7458865,
+        "change": -51672,
+        "change_p": -0.688
+      },
+      "19": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.5512,
+        "totalAssets": 3.1187,
+        "currentShares": 7418732,
+        "change": 211601,
+        "change_p": 2.936
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.6942,
+    "ForwardPE": 26.3852,
+    "PriceSalesTTM": 2.5967,
+    "PriceBookMRQ": 3.643,
+    "EnterpriseValue": 273577338640,
+    "EnterpriseValueRevenue": 3.0272,
+    "EnterpriseValueEbitda": 17.7291
+  },
+  "Highlights": {
+    "MarketCapitalization": 234673045504,
+    "MarketCapitalizationMln": 234673.0455,
+    "EBITDA": 15262999552,
+    "PERatio": 32.6942,
+    "PEGRatio": 2.5149,
+    "WallStreetTargetPrice": 215.0641,
+    "BookValue": 48.607,
+    "DividendShare": 2.72,
+    "DividendYield": 0.0152,
+    "EarningsShare": 5.33,
+    "EPSEstimateCurrentYear": 6.8655,
+    "EPSEstimateNextYear": 7.5329,
+    "EPSEstimateNextQuarter": 1.6581,
+    "EPSEstimateCurrentQuarter": 1.5221,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0803,
+    "OperatingMarginTTM": 0.1318,
+    "ReturnOnAssetsTTM": 0.0405,
+    "ReturnOnEquityTTM": 0.1157,
+    "RevenueTTM": 90372997120,
+    "RevenuePerShareTTM": 67.236,
+    "QuarterlyRevenueGrowthYOY": 0.087,
+    "GrossProfitTTM": 18267000832,
+    "DilutedEpsTTM": 5.33,
+    "QuarterlyEarningsGrowthYOY": 0.325
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.67,
+    "TotalEsgPercentile": 56.36,
+    "EnvironmentScore": 8.49,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 13.59,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 12.6,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "Yes"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "RTX",
+    "Type": "Common Stock",
+    "Name": "Raytheon Technologies Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BW8S60",
+    "ISIN": "US75513E1010",
+    "LEI": "I07WOS4YJ0N7YRFE7309",
+    "PrimaryTicker": "RTX.US",
+    "CUSIP": "75513E101",
+    "CIK": "0000101829",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "RTX Corporation, an aerospace and defense company, provides systems and services for commercial, military, and government customers worldwide. It operates through three segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon. The Collins segment offers aerospace and defense products, and aftermarket services for civil and military aircraft manufacturers and commercial airlines, as well as regional, business, and general aviation, defense, and commercial space operations. This segment designs, manufactures, and supplies electric power generation and management and distribution, environmental control, flight control, air data and aircraft sensing, engine control, and engine nacelle systems, as well as engine components; cabin interiors, including seating, oxygen, food and beverage preparation, storage and galley, lavatory, and wastewater management systems; connected aviation solutions and services; and systems solutions for connected battlespace, test and training range systems, crew escape systems, and simulation and training. It also provides spare parts, overhaul and repair, engineering and technical support, training and fleet management solutions, and asset and information management services. The Pratt & Whitney segment supplies aircraft engines for commercial, military, business jet, and general aviation customers; and produces, sells, and services military and commercial auxiliary power units, as well as offers fleet management and aftermarket maintenance, repair, and overhaul services. The Raytheon segment provides defensive and offensive threat detection, tracking, and mitigation capabilities for government and commercial customers. This segment offers sensors, mission orchestration and satellite control products, and software. The company was formerly known as Raytheon Technologies Corporation and changed its name to RTX Corporation in July 2023. RTX Corporation was incorporated in 1934 and is headquartered in Arlington, Virginia.",
+    "Address": "1000 Wilson Boulevard, Arlington, VA, United States, 22209",
+    "AddressData": {
+      "Street": "1000 Wilson Boulevard",
+      "City": "Arlington",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "22209"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher T. Calio J.D.",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. Neil G. Mitchill Jr.",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Shane G. Eddy",
+        "Title": "President of Pratt & Whitney",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Philip J. Jasper",
+        "Title": "President of Raytheon",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. Troy D. Brunk",
+        "Title": "President of Collins Aerospace",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Ms. Robin L. Diamonte",
+        "Title": "Chief Investment Officer & VP of Pension Investments",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Ms. Amy L. Johnson",
+        "Title": "Senior VP & Controller",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Mr. Juan M. de Bedout",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Nathan  Ware",
+        "Title": "Vice President of Investor Relations.",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Ramsaran  Maharajh Jr., J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "781 522 3000",
+    "WebURL": "https://www.rtx.com",
+    "LogoURL": "/img/logos/US/RTX.png",
+    "FullTimeEmployees": 180000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1346683428,
+    "SharesFloat": 1252455989,
+    "PercentInsiders": 0.073,
+    "PercentInstitutions": 81.406,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0099
+  }
+}

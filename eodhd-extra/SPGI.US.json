@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.2623,
+        "totalAssets": 0.2301,
+        "currentShares": 30374366,
+        "change": 117728,
+        "change_p": 0.3891
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.547,
+        "totalAssets": 0.2155,
+        "currentShares": 25297306,
+        "change": -1192360,
+        "change_p": -4.5012
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7646,
+        "totalAssets": 0.238,
+        "currentShares": 14102389,
+        "change": 5418,
+        "change_p": 0.0384
+      },
+      "3": {
+        "name": "TCI Fund Management Limited",
+        "date": "2025-12-31",
+        "totalShares": 3.9835,
+        "totalAssets": 11.4849,
+        "currentShares": 11790310,
+        "change": 600440,
+        "change_p": 5.3659
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.7266,
+        "totalAssets": 0.2378,
+        "currentShares": 8070048,
+        "change": 74970,
+        "change_p": 0.9377
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3169,
+        "totalAssets": 0.2205,
+        "currentShares": 6857575,
+        "change": -6574,
+        "change_p": -0.0958
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.7894,
+        "totalAssets": 0.1748,
+        "currentShares": 5296334,
+        "change": -225424,
+        "change_p": -4.0825
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.6156,
+        "totalAssets": 0.4379,
+        "currentShares": 4781879,
+        "change": -1449765,
+        "change_p": -23.2646
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.551,
+        "totalAssets": 0.2566,
+        "currentShares": 4590579,
+        "change": 439268,
+        "change_p": 10.5814
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3153,
+        "totalAssets": 0.0568,
+        "currentShares": 3893030,
+        "change": 2258509,
+        "change_p": 138.1756
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1552,
+        "totalAssets": 0.0911,
+        "currentShares": 3419202,
+        "change": -711491,
+        "change_p": -17.2245
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0725,
+        "totalAssets": 0.1976,
+        "currentShares": 3174348,
+        "change": 1090,
+        "change_p": 0.0343
+      },
+      "12": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.0264,
+        "totalAssets": 0.2489,
+        "currentShares": 3037912,
+        "change": 922433,
+        "change_p": 43.604
+      },
+      "13": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9368,
+        "totalAssets": 0.2931,
+        "currentShares": 2772837,
+        "change": -667751,
+        "change_p": -19.408
+      },
+      "14": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9361,
+        "totalAssets": 0.2564,
+        "currentShares": 2770535,
+        "change": -12489,
+        "change_p": -0.4488
+      },
+      "15": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8411,
+        "totalAssets": 0.5146,
+        "currentShares": 2489468,
+        "change": 2428084,
+        "change_p": 3955.565
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8096,
+        "totalAssets": 0.1536,
+        "currentShares": 2396176,
+        "change": 32501,
+        "change_p": 1.375
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8065,
+        "totalAssets": 0.183,
+        "currentShares": 2387080,
+        "change": -67532,
+        "change_p": -2.7512
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7519,
+        "totalAssets": 0.1807,
+        "currentShares": 2225573,
+        "change": 39585,
+        "change_p": 1.8109
+      },
+      "19": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7334,
+        "totalAssets": 0.113,
+        "currentShares": 2170773,
+        "change": -923032,
+        "change_p": -29.8348
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1201,
+        "totalAssets": 0.1967,
+        "currentShares": 9235003,
+        "change": -570354,
+        "change_p": -5.8168
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.6325,
+        "totalAssets": 0.2329,
+        "currentShares": 7791520,
+        "change": -181205,
+        "change_p": -2.2728
+      },
+      "2": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3329,
+        "totalAssets": 0.2327,
+        "currentShares": 3945137,
+        "change": 6502,
+        "change_p": 0.1651
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3288,
+        "totalAssets": 0.2323,
+        "currentShares": 3932849,
+        "change": -2136,
+        "change_p": -0.0543
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1979,
+        "totalAssets": 0.2319,
+        "currentShares": 3545439,
+        "change": -8722,
+        "change_p": -0.2454
+      },
+      "5": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7067,
+        "totalAssets": 1.8433,
+        "currentShares": 2091586,
+        "change": 3531,
+        "change_p": 0.1691
+      },
+      "6": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5825,
+        "totalAssets": 0.2323,
+        "currentShares": 1723967,
+        "change": -32323,
+        "change_p": -1.8404
+      },
+      "7": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5802,
+        "totalAssets": 2.1899,
+        "currentShares": 1717245,
+        "change": -252778,
+        "change_p": -12.8312
+      },
+      "8": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5789,
+        "totalAssets": 0.6209,
+        "currentShares": 1713331,
+        "change": -8573,
+        "change_p": -0.4979
+      },
+      "9": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.5567,
+        "totalAssets": 0.2205,
+        "currentShares": 1647720,
+        "change": -1750763,
+        "change_p": -51.516
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5519,
+        "totalAssets": 0.23,
+        "currentShares": 1633467,
+        "change": -19040,
+        "change_p": -1.1522
+      },
+      "11": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5366,
+        "totalAssets": 0.3388,
+        "currentShares": 1588287,
+        "change": 718103,
+        "change_p": 82.5231
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4669,
+        "totalAssets": 0.2321,
+        "currentShares": 1382074,
+        "change": -10046,
+        "change_p": -0.7216
+      },
+      "13": {
+        "name": "Nicholas",
+        "date": "2025-12-31",
+        "totalShares": 0.4553,
+        "totalAssets": 1.6206,
+        "currentShares": 1347460,
+        "change": 1182720,
+        "change_p": 717.9313
+      },
+      "14": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.4539,
+        "totalAssets": 0.2532,
+        "currentShares": 1343406,
+        "change": 1343406,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4155,
+        "totalAssets": 0.2772,
+        "currentShares": 1229777,
+        "change": -24173,
+        "change_p": -1.9277
+      },
+      "16": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4155,
+        "totalAssets": 0.2772,
+        "currentShares": 1229777,
+        "change": 1229777,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4155,
+        "totalAssets": 0.2772,
+        "currentShares": 1229777,
+        "change": -24173,
+        "change_p": -1.9277
+      },
+      "18": {
+        "name": "Parnassus Core Equity Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.3761,
+        "totalAssets": 2.1241,
+        "currentShares": 1113315,
+        "change": -34119,
+        "change_p": -2.9735
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3734,
+        "totalAssets": 0.2311,
+        "currentShares": 1105279,
+        "change": -18888,
+        "change_p": -1.6802
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 29.7541,
+    "ForwardPE": 22.2717,
+    "PriceSalesTTM": 8.5102,
+    "PriceBookMRQ": 4.1746,
+    "EnterpriseValue": 141724929056,
+    "EnterpriseValueRevenue": 9.2413,
+    "EnterpriseValueEbitda": 18.4226
+  },
+  "Highlights": {
+    "MarketCapitalization": 130512855040,
+    "MarketCapitalizationMln": 130512.855,
+    "EBITDA": 7644000256,
+    "PERatio": 29.7541,
+    "PEGRatio": 1.548,
+    "WallStreetTargetPrice": 534.0476,
+    "BookValue": 104.173,
+    "DividendShare": 3.84,
+    "DividendYield": 0.0087,
+    "EarningsShare": 14.68,
+    "EPSEstimateCurrentYear": 19.633,
+    "EPSEstimateNextYear": 22.08,
+    "EPSEstimateNextQuarter": 4.918,
+    "EPSEstimateCurrentQuarter": 4.3361,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2915,
+    "OperatingMarginTTM": 0.3825,
+    "ReturnOnAssetsTTM": 0.0666,
+    "ReturnOnEquityTTM": 0.1309,
+    "RevenueTTM": 15335999488,
+    "RevenuePerShareTTM": 50.315,
+    "QuarterlyRevenueGrowthYOY": 0.09,
+    "GrossProfitTTM": 10773000192,
+    "DilutedEpsTTM": 14.68,
+    "QuarterlyEarningsGrowthYOY": 0.32
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 13.53,
+    "TotalEsgPercentile": 5.42,
+    "EnvironmentScore": 2.91,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 7.61,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 7.01,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SPGI",
+    "Type": "Common Stock",
+    "Name": "S&P Global Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BP1Q11",
+    "ISIN": "US78409V1044",
+    "LEI": "Y6X4K52KMJMZE7I7MY94",
+    "PrimaryTicker": "SPGI.US",
+    "CUSIP": "580645109",
+    "CIK": "0000064040",
+    "EmployerIdNumber": "13-1026995",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Financial Data & Stock Exchanges",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Financial Exchanges & Data",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "S&P Global Inc., together with its subsidiaries, provides benchmarks, data, analytics, and workflow solutions in the global capital, energy and commodity, and automotive markets. It operates through five segments: S&P Global Market Intelligence, S&P Global Ratings, S&P Global Energy, S&P Global Mobility, and S&P Dow Jones Indices. The S&P Global Market Intelligence segment provides multi-asset-class data and analytics integrated with purpose-built workflow solutions. This segment offers Data, Analytics & Insights, a desktop product suite that provides data, analytics, and third-party research for global finance and corporate professionals; research, reference data, market data, derived analytics, and valuation services; enterprise solutions, such as software and workflow solutions; and credit and risk solutions for selling Ratings' credit ratings and related data and research, analytics, and financial risk solutions. The S&P Global Ratings segment operates as an independent provider of credit ratings, research, and analytics offering investors information and independent benchmarks for their investment and financial decisions as well as access to the capital markets. The S&P Global Energy segment provides information and benchmark prices for the energy and commodity markets. The S&P Global Mobility segment offers solutions for the full automotive value chain, including vehicle manufacturers, automotive suppliers, mobility service providers, retailers, consumers, and finance and insurance companies. The S&P Dow Jones Indices segment operates as an index provider that maintains various valuation and index benchmarks for investment advisors, wealth managers, and institutional investors. It has operations in the United States, European region, Asia, and internationally. S&P Global Inc. was founded in 1860 and is headquartered in New York, New York.",
+    "Address": "55 Water Street, New York, NY, United States, 10041",
+    "AddressData": {
+      "Street": "55 Water Street",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10041"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Martina L. Cheung",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1976"
+      },
+      "1": {
+        "Name": "Mr. Saugata  Saha",
+        "Title": "Chief Enterprise Data Officer & President of S&P Global Market Intelligence",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Steven  Kemps CPA",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Eric Walter Aboaf",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. William  Eager",
+        "Title": "President of S&P Global Mobility",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Christopher  Craig",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Ms. Sally  Moore",
+        "Title": "Executive VP & Chief Client Officer",
+        "YearBorn": "1976"
+      },
+      "7": {
+        "Name": "Ms. Christina  Twomey",
+        "Title": "Senior VP & Chief Communications Officer",
+        "YearBorn": "1981"
+      },
+      "8": {
+        "Name": "Mr. Girish  Ganesan",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1981"
+      },
+      "9": {
+        "Name": "Mr. David  Ernsberger",
+        "Title": "President of S&P Global Energy",
+        "YearBorn": "1975"
+      }
+    },
+    "Phone": "212-438-1000",
+    "WebURL": "https://www.spglobal.com",
+    "LogoURL": "/img/logos/US/SPGI.png",
+    "FullTimeEmployees": 44500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 295979612,
+    "SharesFloat": 298088856,
+    "PercentInsiders": 0.332,
+    "PercentInstitutions": 89.239,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0102
+  }
+}

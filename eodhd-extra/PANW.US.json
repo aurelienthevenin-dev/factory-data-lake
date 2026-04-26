@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.376,
+        "totalAssets": 0.1814,
+        "currentShares": 67929063,
+        "change": 2659100,
+        "change_p": 4.074
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.836,
+        "totalAssets": 0.1976,
+        "currentShares": 55439906,
+        "change": 1732709,
+        "change_p": 3.2262
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.8841,
+        "totalAssets": 0.1922,
+        "currentShares": 31500416,
+        "change": 15883259,
+        "change_p": 101.7039
+      },
+      "3": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.7928,
+        "totalAssets": 0.3792,
+        "currentShares": 30759375,
+        "change": 180307,
+        "change_p": 0.5896
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.6667,
+        "totalAssets": 0.21,
+        "currentShares": 29736916,
+        "change": 505924,
+        "change_p": 1.7308
+      },
+      "5": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1528,
+        "totalAssets": 0.2411,
+        "currentShares": 17459010,
+        "change": 904439,
+        "change_p": 5.4634
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9715,
+        "totalAssets": 0.1811,
+        "currentShares": 15989257,
+        "change": 540756,
+        "change_p": 3.5004
+      },
+      "7": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.2232,
+        "totalAssets": 0.331,
+        "currentShares": 9920223,
+        "change": -5010485,
+        "change_p": -33.5583
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0035,
+        "totalAssets": 0.0764,
+        "currentShares": 8138673,
+        "change": 539425,
+        "change_p": 7.0984
+      },
+      "9": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9969,
+        "totalAssets": 0.2579,
+        "currentShares": 8084781,
+        "change": 1298111,
+        "change_p": 19.1274
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9475,
+        "totalAssets": 0.1514,
+        "currentShares": 7683841,
+        "change": 4381138,
+        "change_p": 132.6531
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9283,
+        "totalAssets": 0.1961,
+        "currentShares": 7528248,
+        "change": 36511,
+        "change_p": 0.4874
+      },
+      "12": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8902,
+        "totalAssets": 0.3482,
+        "currentShares": 7219205,
+        "change": -442067,
+        "change_p": -5.7702
+      },
+      "13": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.7636,
+        "totalAssets": 0.8291,
+        "currentShares": 6193015,
+        "change": 286052,
+        "change_p": 4.8426
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.73,
+        "totalAssets": 0.2618,
+        "currentShares": 5920436,
+        "change": -1497345,
+        "change_p": -20.1859
+      },
+      "15": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.7157,
+        "totalAssets": 0.2563,
+        "currentShares": 5804717,
+        "change": 1338539,
+        "change_p": 29.9706
+      },
+      "16": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6907,
+        "totalAssets": 0.8261,
+        "currentShares": 5601625,
+        "change": -257472,
+        "change_p": -4.3944
+      },
+      "17": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6887,
+        "totalAssets": 0.2612,
+        "currentShares": 5585298,
+        "change": -375506,
+        "change_p": -6.2996
+      },
+      "18": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.6881,
+        "totalAssets": 0.216,
+        "currentShares": 5580894,
+        "change": 788228,
+        "change_p": 16.4465
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6675,
+        "totalAssets": 0.2212,
+        "currentShares": 5413713,
+        "change": -26718,
+        "change_p": -0.4911
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.196,
+        "totalAssets": 0.2081,
+        "currentShares": 25919641,
+        "change": 3874306,
+        "change_p": 17.5743
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5375,
+        "totalAssets": 0.2319,
+        "currentShares": 20578849,
+        "change": 130136,
+        "change_p": 0.6364
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.1117,
+        "totalAssets": 0.7399,
+        "currentShares": 17125958,
+        "change": -57276,
+        "change_p": -0.3333
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2808,
+        "totalAssets": 0.2312,
+        "currentShares": 10386922,
+        "change": -5652,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2476,
+        "totalAssets": 0.2011,
+        "currentShares": 10118102,
+        "change": 1427910,
+        "change_p": 16.4313
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1555,
+        "totalAssets": 0.2311,
+        "currentShares": 9370735,
+        "change": -23030,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0975,
+        "totalAssets": 0.449,
+        "currentShares": 8900779,
+        "change": 1223265,
+        "change_p": 15.9331
+      },
+      "7": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7476,
+        "totalAssets": 1.1529,
+        "currentShares": 6062949,
+        "change": 16117,
+        "change_p": 0.2665
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6756,
+        "totalAssets": 0.7219,
+        "currentShares": 5479278,
+        "change": -6092,
+        "change_p": -0.1111
+      },
+      "9": {
+        "name": "First Trust NASDAQ Cybersecurity ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.617,
+        "totalAssets": 8.4559,
+        "currentShares": 5004160,
+        "change": 21489,
+        "change_p": 0.4313
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5614,
+        "totalAssets": 0.2313,
+        "currentShares": 4552749,
+        "change": 48260,
+        "change_p": 1.0714
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5319,
+        "totalAssets": 0.2289,
+        "currentShares": 4313656,
+        "change": 75400,
+        "change_p": 1.779
+      },
+      "12": {
+        "name": "iShares Expanded Tech-Software Sect ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4529,
+        "totalAssets": 5.4791,
+        "currentShares": 3673259,
+        "change": 125856,
+        "change_p": 3.5478
+      },
+      "13": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.45,
+        "totalAssets": 0.231,
+        "currentShares": 3649788,
+        "change": 79422,
+        "change_p": 2.2245
+      },
+      "14": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3981,
+        "totalAssets": 0.4627,
+        "currentShares": 3228674,
+        "change": 3075,
+        "change_p": 0.0953
+      },
+      "15": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3913,
+        "totalAssets": 0.7379,
+        "currentShares": 3173477,
+        "change": 13640,
+        "change_p": 0.4317
+      },
+      "16": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3599,
+        "totalAssets": 0.23,
+        "currentShares": 2918785,
+        "change": 431673,
+        "change_p": 17.3564
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3355,
+        "totalAssets": 0.2162,
+        "currentShares": 2720702,
+        "change": 40516,
+        "change_p": 1.5117
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3355,
+        "totalAssets": 0.2162,
+        "currentShares": 2720702,
+        "change": 40516,
+        "change_p": 1.5117
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3355,
+        "totalAssets": 0.2162,
+        "currentShares": 2720702,
+        "change": 2720702,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 99.1889,
+    "ForwardPE": 43.6681,
+    "PriceSalesTTM": 14.6355,
+    "PriceBookMRQ": 14.9551,
+    "EnterpriseValue": 136309310000,
+    "EnterpriseValueRevenue": 13.7777,
+    "EnterpriseValueEbitda": 61.5114
+  },
+  "Highlights": {
+    "MarketCapitalization": 144795926528,
+    "MarketCapitalizationMln": 144795.9265,
+    "EBITDA": 1536499968,
+    "PERatio": 99.1889,
+    "PEGRatio": 2.905,
+    "WallStreetTargetPrice": 206.1408,
+    "BookValue": 13.361,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.8,
+    "EPSEstimateCurrentYear": 3.6912,
+    "EPSEstimateNextYear": 2.2978,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.9389,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.1296,
+    "OperatingMarginTTM": 0.155,
+    "ReturnOnAssetsTTM": 0.0345,
+    "ReturnOnEquityTTM": 0.1626,
+    "RevenueTTM": 9893499904,
+    "RevenuePerShareTTM": 14.517,
+    "QuarterlyRevenueGrowthYOY": 0.149,
+    "GrossProfitTTM": 7271900160,
+    "DilutedEpsTTM": 1.8,
+    "QuarterlyEarningsGrowthYOY": 0.605
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.28,
+    "TotalEsgPercentile": 12.5,
+    "EnvironmentScore": 6.25,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 11.98,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 11.05,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PANW",
+    "Type": "Common Stock",
+    "Name": "Palo Alto Networks Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0014GJCT9",
+    "ISIN": "US6974351057",
+    "LEI": "549300QXR2YVZV231H43",
+    "PrimaryTicker": "PANW.US",
+    "CUSIP": "697435105",
+    "CIK": "0001327567",
+    "EmployerIdNumber": "20-2530195",
+    "FiscalYearEnd": "July",
+    "IPODate": "2012-07-20",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Systems Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Palo Alto Networks, Inc. provides cybersecurity solutions in the Americas, Europe, the Middle East, Africa, the Asia Pacific, and Japan. It offers Prisma Access, a secure access service edge solution; Strata Cloud Manager, a network security management solution; and Prisma AIRS to protect customers' entire AI ecosystem. It provides a comprehensive cloud native application protection platform; and Code to Cloud platform, as well as offers VM-Series and CN-Series virtual firewalls for inline network security on multi- and hybrid-cloud environments. It provides security operation solutions through the Cortex platform that includes Cortex XSIAM, an AI-driven security operations platform; Cortex XDR to prevent, detect, and respond to cybersecurity attacks; and Cortex XSOAR for security orchestration, automation, and response; and Cortex Xpanse for attack surface management, as well as offers threat intelligence and advisory services under the Unit 42 name. It provides subscription services covering the areas of threat prevention, malware and persistent threat, URL filtering, laptop and mobile device protection, DNS security, Internet of Things security, SaaS security API, and SaaS security inline; and threat intelligence, data loss prevention, services to resolve network disruptions, and sensitive data protection. It offers professional services, including architecture design and planning, implementation, configuration, and firewall migration; education services, such as certifications, as well as online and in-classroom training; and support services. It sells its products and services through its channel partners, as well as directly to enterprises, service providers, and government entities operating in various industries, including education, energy, financial services, government entities, healthcare, Internet and media, manufacturing, public sector, and telecommunications. The company was incorporated in 2005 and is headquartered in Santa Clara, California.",
+    "Address": "3000 Tannery Way, Santa Clara, CA, United States, 95054",
+    "AddressData": {
+      "Street": "3000 Tannery Way",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95054"
+    },
+    "Listings": {
+      "0": {
+        "Code": "5AP",
+        "Exchange": "F",
+        "Name": "Palo Alto Networks Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Nikesh  Arora C.F.A.",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. William D. Jenkins Jr.",
+        "Title": "President",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Nir  Zuk",
+        "Title": "Founder Emeritus & Advisor",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Dipak  Golechha",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Lee  Klarich",
+        "Title": "Executive VP, Chief Product Officer, CTO & Director",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Yuming  Mao",
+        "Title": "Founder & Chief Architect",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Josh D. Paul",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1976"
+      },
+      "7": {
+        "Name": "Ms. Meerah  Rajavel",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Mr. Hamza  Fodderwala",
+        "Title": "Senior VP of Investor Relations & Strategic Finance",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Bruce R. Byrd",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 753 4000",
+    "WebURL": "https://www.paloaltonetworks.com",
+    "LogoURL": "/img/logos/US/panw.png",
+    "FullTimeEmployees": 17027,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 811000000,
+    "SharesFloat": 809137440,
+    "PercentInsiders": 0.788,
+    "PercentInstitutions": 74.761,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0332
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.7333,
+        "totalAssets": 0.1554,
+        "currentShares": 198727768,
+        "change": 2743759,
+        "change_p": 1.4
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5964,
+        "totalAssets": 0.1386,
+        "currentShares": 175515165,
+        "change": 3288836,
+        "change_p": 1.9096
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.4419,
+        "totalAssets": 0.2329,
+        "currentShares": 172361328,
+        "change": 68400454,
+        "change_p": 65.7944
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.731,
+        "totalAssets": 0.1511,
+        "currentShares": 96595232,
+        "change": 1855238,
+        "change_p": 1.9582
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.4932,
+        "totalAssets": 0.5978,
+        "currentShares": 71322392,
+        "change": -1717931,
+        "change_p": -2.352
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5781,
+        "totalAssets": 0.1751,
+        "currentShares": 52638346,
+        "change": 6084046,
+        "change_p": 13.0687
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7681,
+        "totalAssets": 0.2083,
+        "currentShares": 36100698,
+        "change": 2526408,
+        "change_p": 7.5248
+      },
+      "7": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.5905,
+        "totalAssets": 0.3364,
+        "currentShares": 32473834,
+        "change": -105784,
+        "change_p": -0.3247
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3649,
+        "totalAssets": 0.0761,
+        "currentShares": 27867752,
+        "change": 1060057,
+        "change_p": 3.9543
+      },
+      "9": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2635,
+        "totalAssets": 0.73,
+        "currentShares": 25796905,
+        "change": 16332924,
+        "change_p": 172.5798
+      },
+      "10": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.2184,
+        "totalAssets": 1.0157,
+        "currentShares": 24875550,
+        "change": 2781230,
+        "change_p": 12.588
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2059,
+        "totalAssets": 0.1421,
+        "currentShares": 24621643,
+        "change": -257367,
+        "change_p": -1.0345
+      },
+      "12": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0672,
+        "totalAssets": 0.2134,
+        "currentShares": 21788946,
+        "change": -3420584,
+        "change_p": -13.5686
+      },
+      "13": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.0281,
+        "totalAssets": 0.1775,
+        "currentShares": 20991527,
+        "change": -11395497,
+        "change_p": -35.1854
+      },
+      "14": {
+        "name": "Independent Franchise Partners LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0201,
+        "totalAssets": 7.1449,
+        "currentShares": 20828148,
+        "change": 204797,
+        "change_p": 0.993
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8984,
+        "totalAssets": 0.1214,
+        "currentShares": 18342977,
+        "change": 757995,
+        "change_p": 4.3105
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8935,
+        "totalAssets": 0.2064,
+        "currentShares": 18242259,
+        "change": 98587,
+        "change_p": 0.5434
+      },
+      "17": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8788,
+        "totalAssets": 2.8975,
+        "currentShares": 17943503,
+        "change": 3041899,
+        "change_p": 20.4132
+      },
+      "18": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8633,
+        "totalAssets": 0.1252,
+        "currentShares": 17626080,
+        "change": -689393,
+        "change_p": -3.764
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8506,
+        "totalAssets": 0.2077,
+        "currentShares": 17366032,
+        "change": 290289,
+        "change_p": 1.7
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1689,
+        "totalAssets": 0.1965,
+        "currentShares": 64699711,
+        "change": 307443,
+        "change_p": 0.4775
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5399,
+        "totalAssets": 0.221,
+        "currentShares": 51857487,
+        "change": -501390,
+        "change_p": -0.9576
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2352,
+        "totalAssets": 3.2353,
+        "currentShares": 45636572,
+        "change": 75992,
+        "change_p": 0.1668
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2821,
+        "totalAssets": 0.2205,
+        "currentShares": 26176660,
+        "change": -14244,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2689,
+        "totalAssets": 0.2157,
+        "currentShares": 25907501,
+        "change": 42698,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1575,
+        "totalAssets": 0.2204,
+        "currentShares": 23632807,
+        "change": -58016,
+        "change_p": -0.2449
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9218,
+        "totalAssets": 0.5058,
+        "currentShares": 18821613,
+        "change": -150469,
+        "change_p": -0.7931
+      },
+      "7": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.729,
+        "totalAssets": 2.3246,
+        "currentShares": 14884562,
+        "change": 45120,
+        "change_p": 0.3041
+      },
+      "8": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6972,
+        "totalAssets": 1.0096,
+        "currentShares": 14234460,
+        "change": 2218070,
+        "change_p": 18.4587
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.562,
+        "totalAssets": 0.2205,
+        "currentShares": 11473653,
+        "change": -59664,
+        "change_p": -0.5173
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5324,
+        "totalAssets": 0.2182,
+        "currentShares": 10870995,
+        "change": 19000,
+        "change_p": 0.1751
+      },
+      "11": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5278,
+        "totalAssets": 1.2918,
+        "currentShares": 10776200,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4505,
+        "totalAssets": 0.2202,
+        "currentShares": 9197983,
+        "change": 56048,
+        "change_p": 0.6131
+      },
+      "13": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4067,
+        "totalAssets": 1.1504,
+        "currentShares": 8304755,
+        "change": 4556,
+        "change_p": 0.0549
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3968,
+        "totalAssets": 0.1885,
+        "currentShares": 8101749,
+        "change": -45700,
+        "change_p": -0.5609
+      },
+      "15": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3968,
+        "totalAssets": 0.1885,
+        "currentShares": 8101749,
+        "change": 8101749,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3968,
+        "totalAssets": 0.1885,
+        "currentShares": 8101749,
+        "change": -45700,
+        "change_p": -0.5609
+      },
+      "17": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3908,
+        "totalAssets": 0.543,
+        "currentShares": 7979154,
+        "change": -314982,
+        "change_p": -3.7976
+      },
+      "18": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3892,
+        "totalAssets": 0.3843,
+        "currentShares": 7945722,
+        "change": -3640804,
+        "change_p": -31.4227
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3604,
+        "totalAssets": 0.2194,
+        "currentShares": 7357960,
+        "change": -48231,
+        "change_p": -0.6512
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 17.0669,
+    "ForwardPE": 9.3985,
+    "PriceSalesTTM": 2.4872,
+    "PriceBookMRQ": 6.5232,
+    "EnterpriseValue": 156969226554,
+    "EnterpriseValueRevenue": 3.257,
+    "EnterpriseValueEbitda": 10.3066
+  },
+  "Highlights": {
+    "MarketCapitalization": 119870283776,
+    "MarketCapitalizationMln": 119870.2838,
+    "EBITDA": 19115999232,
+    "PERatio": 17.0669,
+    "PEGRatio": 23.4952,
+    "WallStreetTargetPrice": 63.04,
+    "BookValue": 9.073,
+    "DividendShare": 2.49,
+    "DividendYield": 0.0422,
+    "EarningsShare": 3.44,
+    "EPSEstimateCurrentYear": 6.265,
+    "EPSEstimateNextYear": 6.1402,
+    "EPSEstimateNextQuarter": 1.4155,
+    "EPSEstimateCurrentQuarter": 1.2049,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1464,
+    "OperatingMarginTTM": 0.2816,
+    "ReturnOnAssetsTTM": 0.1029,
+    "ReturnOnEquityTTM": 0.4044,
+    "RevenueTTM": 48193998848,
+    "RevenuePerShareTTM": 23.694,
+    "QuarterlyRevenueGrowthYOY": 0.013,
+    "GrossProfitTTM": 35000000512,
+    "DilutedEpsTTM": 3.44,
+    "QuarterlyEarningsGrowthYOY": 13.921
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.16,
+    "TotalEsgPercentile": 52.58,
+    "EnvironmentScore": 3.83,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 18.82,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 14.02,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BMY",
+    "Type": "Common Stock",
+    "Name": "Bristol-Myers Squibb Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DQLV23",
+    "ISIN": "US1101221083",
+    "LEI": "HLYYNH7UQUORYSJQCN42",
+    "PrimaryTicker": "BMY.US",
+    "CUSIP": "110122108",
+    "CIK": "0000014272",
+    "EmployerIdNumber": "22-0790350",
+    "FiscalYearEnd": "December",
+    "IPODate": "1972-01-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Pharmaceuticals",
+    "GicSubIndustry": "Pharmaceuticals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Bristol-Myers Squibb Company discovers, develops, licenses, manufactures, markets, distributes, and sells biopharmaceutical products worldwide. It offers products for oncology, hematology, immunology, cardiovascular, neuroscience, and other areas. The company's products include Opdivo for various anti-cancer indications; Opdivo Qvantig, a subcutaneous PD-1 inhibitor for solid tumorsr; Orencia for active rheumatoid arthritis and psoriatic arthritis; Yervoy for the treatment of patients with unresectable or metastatic melanoma; Reblozyl to treat anemia; Breyanzi for the treatment of patients with relapsed or refractory large B-cell lymphoma; Opdualag for the treatment of unresectable or metastatic melanoma; and Camzyos to treat symptomatic obstructive HCM to improve functional capacity and symptom. It also offers Zeposia to treat relapsing forms of multiple sclerosis; Abecma for the treatment of patients with relapsed or refractory multiple myeloma; Sotyktu for the treatment of moderate-to-severe plaque psoriasis; Krazati for the treatment of adult patients with KRASG12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC); and Cobenfy to treat schizophrenia. In addition, it offers Eliquis for a reduction in risk of stroke/systemic embolism in non-valvular atrial fibrillation and for the treatment of DVT/PE; Revlimid, an oral immunomodulatory drug to treat multiple myeloma; Pomalyst/Imnovid for multiple myeloma; Sprycel for Philadelphia chromosome-positive chronic myeloid leukemia; and Abraxane for the treatment of breast cancer. Further, it provides Augtyro for the treatment of locally advanced or metastatic ROS1-positive NSCLC; and NSCLC and pancreatic cancer. It sells products to wholesalers, distributors, specialty pharmacies, and to a lesser extent, retailers, hospitals, clinics, and government agencies. The company was formerly known as Bristol-Myers Company. The company was founded in 1887 and is headquartered in Princeton, New Jersey.",
+    "Address": "Route 206 & Province Line Road, Princeton, NJ, United States, 08543",
+    "AddressData": {
+      "Street": "Route 206 & Province Line Road",
+      "City": "Princeton",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "08543"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BMYB34",
+        "Exchange": "SA",
+        "Name": "Bristol-Myers Squibb Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Dr. Christopher S. Boerner Ph.D.",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. David V. Elkins",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Greg  Meyers",
+        "Title": "Executive VP and Chief Digital & Technology Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Adam  Lenkowsky",
+        "Title": "Executive VP & Chief Commercialization Officer",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Cristian  Massacesi M.D.",
+        "Title": "Executive VP, Chief Medical Officer & Head of Development",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Karin  Shanahan",
+        "Title": "Executive VP, Chief Supply Chain & Operations Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Charles E. Triano",
+        "Title": "SVP & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Cari  Gallman",
+        "Title": "Executive VP, General Counsel & Chief Policy Officer",
+        "YearBorn": "1980"
+      },
+      "8": {
+        "Name": "Ms. Ahn Amanda Poole",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Dr. Joseph J. Eiden Jr.",
+        "Title": "Head of Medical Affairs",
+        "YearBorn": "1949"
+      }
+    },
+    "Phone": "609 252 4621",
+    "WebURL": "https://www.bms.com",
+    "LogoURL": "/img/logos/US/bmy.png",
+    "FullTimeEmployees": 32500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2041735455,
+    "SharesFloat": 2033296806,
+    "PercentInsiders": 0.087,
+    "PercentInstitutions": 83.856,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0154
+  }
+}

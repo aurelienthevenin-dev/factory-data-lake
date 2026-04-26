@@ -1,0 +1,253 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 15.7204,
+    "ForwardPE": 15.083,
+    "PriceSalesTTM": 0.6411,
+    "PriceBookMRQ": 2.414,
+    "EnterpriseValue": 76668520877,
+    "EnterpriseValueRevenue": 0.9253,
+    "EnterpriseValueEbitda": 6.8375
+  },
+  "Highlights": {
+    "MarketCapitalization": 53488635904,
+    "MarketCapitalizationMln": 53488.6359,
+    "EBITDA": 7712999936,
+    "PERatio": 15.7204,
+    "PEGRatio": 2.736,
+    "WallStreetTargetPrice": 48.2778,
+    "BookValue": 19.859,
+    "DividendShare": 1.9,
+    "DividendYield": 0.0396,
+    "EarningsShare": 3.04,
+    "EPSEstimateCurrentYear": 3.259,
+    "EPSEstimateNextYear": 3.589,
+    "EPSEstimateNextQuarter": 0.6936,
+    "EPSEstimateCurrentQuarter": 0.9972,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.042,
+    "OperatingMarginTTM": 0.0518,
+    "ReturnOnAssetsTTM": 0.0478,
+    "ReturnOnEquityTTM": 0.1583,
+    "RevenueTTM": 83432996864,
+    "RevenuePerShareTTM": 73.578,
+    "QuarterlyRevenueGrowthYOY": -0.027,
+    "GrossProfitTTM": 14430999552,
+    "DilutedEpsTTM": 3.04,
+    "QuarterlyEarningsGrowthYOY": -0.038
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 17.55,
+    "TotalEsgPercentile": 12.55,
+    "EnvironmentScore": 3.29,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 8.94,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.32,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DHL",
+    "Type": "Common Stock",
+    "Name": "Deutsche Post AG",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0005552004",
+    "LEI": "8ER8GIG7CSMVD8VUFE78",
+    "PrimaryTicker": "DHL.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Air Freight & Logistics",
+    "GicSubIndustry": "Air Freight & Logistics",
+    "Description": "Deutsche Post AG operates as a mail and logistics company in Germany, rest of Europe, the Americas, the Asia Pacific, the Middle East, and Africa. The company operates through five segments: Express; Global Forwarding, Freight; Supply Chain; eCommerce; and Post & Parcel Germany. The Express segment offers time-definite courier and express services to business and private customers. The Global Forwarding, Freight segment provides air, ocean, and overland freight forwarding services; and offers multimodal and sector-specific solutions. The Supply Chain segment delivers customized logistics services and supply chain solutions to its customers based on modular components, including warehousing and transport and value-added services. The eCommerce segment provides parcel delivery and cross-border services. The Post & Parcel Germany segment transports, sorts, and delivers documents and goods; and additional services, such as registered mail, insured items, redirection, and storage, as well as export services. Deutsche Post AG was incorporated in 1995 and is headquartered in Bonn, Germany.",
+    "Address": "Charles-de-Gaulle-Str. 20, Bonn, Germany, 53113",
+    "AddressData": {
+      "Street": "Charles-de-Gaulle-Str. 20",
+      "City": "Bonn",
+      "Country": "Germany",
+      "ZIP": "53113"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DHL",
+        "Exchange": "BE",
+        "Name": "Deutsche Post AG"
+      },
+      "1": {
+        "Code": "DHL",
+        "Exchange": "STU",
+        "Name": "Deutsche Post AG"
+      },
+      "2": {
+        "Code": "DHL",
+        "Exchange": "DU",
+        "Name": "Deutsche Post AG"
+      },
+      "3": {
+        "Code": "DHL",
+        "Exchange": "HM",
+        "Name": "Deutsche Post AG"
+      },
+      "4": {
+        "Code": "DHL",
+        "Exchange": "HA",
+        "Name": "Deutsche Post AG"
+      },
+      "5": {
+        "Code": "DHL",
+        "Exchange": "F",
+        "Name": "Deutsche Post AG"
+      },
+      "6": {
+        "Code": "DHL",
+        "Exchange": "MU",
+        "Name": "Deutsche Post AG"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Dr. Tobias  Meyer C.F.A.",
+        "Title": "CEO of Global Business Services & Chairman of the Management Board",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Ms. Melanie  Kreis",
+        "Title": "CFO & Member of the Management Board",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Dr. Thomas  Ogilvie Ph.D.",
+        "Title": "Member of the Management Board",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. John  Pearson",
+        "Title": "Member of the Management Board",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Oscar  De Bok",
+        "Title": "Member of the Management Board",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Ms. Nikola  Hagleitner",
+        "Title": "Head of Post?&?Parcel Germany Division and Member of the Management Board",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. Pablo  Ciano",
+        "Title": "Member of the Management Board",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Mr. Hendrik  Venter",
+        "Title": "Member of the Management Board",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Mr. Martin  Ziegenbalg",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Michiel  Greeven",
+        "Title": "Executive Vice President of Sales Global & Europe- DHL Express",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "49 228 182 0",
+    "WebURL": "https://group.dhl.com",
+    "LogoURL": "/img/logos/XETRA/DHL.png",
+    "FullTimeEmployees": 485898,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1119243239,
+    "SharesFloat": 919088971,
+    "PercentInsiders": 17.733999999999998,
+    "PercentInstitutions": 40.611999999999995,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

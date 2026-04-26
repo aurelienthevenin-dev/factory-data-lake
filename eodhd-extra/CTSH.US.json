@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5897,
+        "totalAssets": 0.0725,
+        "currentShares": 60210005,
+        "change": -138437,
+        "change_p": -0.2294
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.5928,
+        "totalAssets": 0.0595,
+        "currentShares": 50659801,
+        "change": -117051,
+        "change_p": -0.2305
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.3167,
+        "totalAssets": 0.0799,
+        "currentShares": 39774190,
+        "change": 20683895,
+        "change_p": 108.3477
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.2583,
+        "totalAssets": 0.0585,
+        "currentShares": 25147894,
+        "change": -233678,
+        "change_p": -0.9207
+      },
+      "4": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.6861,
+        "totalAssets": 4.3803,
+        "currentShares": 17628679,
+        "change": -82189,
+        "change_p": -0.4641
+      },
+      "5": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 3.133,
+        "totalAssets": 0.6713,
+        "currentShares": 14983337,
+        "change": -1218305,
+        "change_p": -7.5196
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.0012,
+        "totalAssets": 0.0734,
+        "currentShares": 14353281,
+        "change": -44874,
+        "change_p": -0.3117
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.6209,
+        "totalAssets": 0.1325,
+        "currentShares": 12534198,
+        "change": 987395,
+        "change_p": 8.5512
+      },
+      "8": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8987,
+        "totalAssets": 0.1093,
+        "currentShares": 9080588,
+        "change": -751145,
+        "change_p": -7.64
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8629,
+        "totalAssets": 0.0362,
+        "currentShares": 8909414,
+        "change": 1108317,
+        "change_p": 14.2072
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7407,
+        "totalAssets": 0.0739,
+        "currentShares": 8324807,
+        "change": 2076881,
+        "change_p": 33.2411
+      },
+      "11": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.7171,
+        "totalAssets": 0.4954,
+        "currentShares": 8212204,
+        "change": -873794,
+        "change_p": -9.6169
+      },
+      "12": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6971,
+        "totalAssets": 1.1095,
+        "currentShares": 8116278,
+        "change": 8116278,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.4915,
+        "totalAssets": 0.0889,
+        "currentShares": 7133103,
+        "change": 6503526,
+        "change_p": 1032.9993
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4462,
+        "totalAssets": 0.0704,
+        "currentShares": 6916205,
+        "change": 1079357,
+        "change_p": 18.4921
+      },
+      "15": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.3969,
+        "totalAssets": 0.415,
+        "currentShares": 6680508,
+        "change": 2122600,
+        "change_p": 46.5696
+      },
+      "16": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.3291,
+        "totalAssets": 0.0974,
+        "currentShares": 6356349,
+        "change": 139437,
+        "change_p": 2.2429
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2927,
+        "totalAssets": 0.1077,
+        "currentShares": 6182099,
+        "change": -211257,
+        "change_p": -3.3043
+      },
+      "18": {
+        "name": "NATIONAL BANK OF CANADA /FI/",
+        "date": "2025-09-30",
+        "totalShares": 1.2003,
+        "totalAssets": 0.3833,
+        "currentShares": 5740282,
+        "change": 556241,
+        "change_p": 10.7299
+      },
+      "19": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 1.1829,
+        "totalAssets": 0.1276,
+        "currentShares": 5657349,
+        "change": 462649,
+        "change_p": 8.9062
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1766,
+        "totalAssets": 0.0467,
+        "currentShares": 15191856,
+        "change": -63181,
+        "change_p": -0.4142
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5462,
+        "totalAssets": 0.0525,
+        "currentShares": 12177318,
+        "change": -240034,
+        "change_p": -1.9331
+      },
+      "2": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 2.4321,
+        "totalAssets": 0.8067,
+        "currentShares": 11631677,
+        "change": -1071200,
+        "change_p": -8.4327
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.319,
+        "currentShares": 10331348,
+        "change": -158697,
+        "change_p": -1.5128
+      },
+      "4": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 0.1659,
+        "currentShares": 10037262,
+        "change": -33583,
+        "change_p": -0.3335
+      },
+      "5": {
+        "name": "Goldman Sachs GQG Ptnrs Intl Opps Instl",
+        "date": "2025-12-31",
+        "totalShares": 1.3283,
+        "totalAssets": 0.9562,
+        "currentShares": 6352733,
+        "change": 6352733,
+        "change_p": 0
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.0524,
+        "currentShares": 6147651,
+        "change": -3348,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2843,
+        "totalAssets": 0.0528,
+        "currentShares": 6142288,
+        "change": 10141,
+        "change_p": 0.1654
+      },
+      "8": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1651,
+        "totalAssets": 0.7808,
+        "currentShares": 5572003,
+        "change": 3060,
+        "change_p": 0.0549
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1552,
+        "totalAssets": 0.0521,
+        "currentShares": 5524753,
+        "change": -13622,
+        "change_p": -0.246
+      },
+      "10": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.104,
+        "totalAssets": 0.2964,
+        "currentShares": 5279819,
+        "change": 3279819,
+        "change_p": 163.991
+      },
+      "11": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9371,
+        "totalAssets": 0.226,
+        "currentShares": 4481885,
+        "change": -4541,
+        "change_p": -0.1012
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9243,
+        "totalAssets": 0.1202,
+        "currentShares": 4420217,
+        "change": -73402,
+        "change_p": -1.6335
+      },
+      "13": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8379,
+        "totalAssets": 1.2389,
+        "currentShares": 4007435,
+        "change": 2756,
+        "change_p": 0.0688
+      },
+      "14": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7503,
+        "totalAssets": 0.2611,
+        "currentShares": 3588243,
+        "change": 9609,
+        "change_p": 0.2685
+      },
+      "15": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.707,
+        "totalAssets": 0.6432,
+        "currentShares": 3381043,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.68,
+        "totalAssets": 1.139,
+        "currentShares": 3252138,
+        "change": -13584,
+        "change_p": -0.416
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 0.5493,
+        "currentShares": 3110943,
+        "change": 98571,
+        "change_p": 3.2722
+      },
+      "18": {
+        "name": "American Funds IS® Growth-Income 1",
+        "date": "2026-03-31",
+        "totalShares": 0.6203,
+        "totalAssets": 0.4459,
+        "currentShares": 2966435,
+        "change": -414608,
+        "change_p": -12.2627
+      },
+      "19": {
+        "name": "Pzena Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.5993,
+        "totalAssets": 2.6347,
+        "currentShares": 2865915,
+        "change": 245746,
+        "change_p": 9.379
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 12.0855,
+    "ForwardPE": 9.7561,
+    "PriceSalesTTM": 1.2486,
+    "PriceBookMRQ": 1.755,
+    "EnterpriseValue": 25589405292,
+    "EnterpriseValueRevenue": 1.2123,
+    "EnterpriseValueEbitda": 6.2935
+  },
+  "Highlights": {
+    "MarketCapitalization": 26356187136,
+    "MarketCapitalizationMln": 26356.1871,
+    "EBITDA": 3833999872,
+    "PERatio": 12.0855,
+    "PEGRatio": 0.903,
+    "WallStreetTargetPrice": 82.5989,
+    "BookValue": 31.347,
+    "DividendShare": 1.26,
+    "DividendYield": 0.0229,
+    "EarningsShare": 4.56,
+    "EPSEstimateCurrentYear": 5.6522,
+    "EPSEstimateNextYear": 6.1313,
+    "EPSEstimateNextQuarter": 1.3412,
+    "EPSEstimateCurrentQuarter": 1.3233,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1056,
+    "OperatingMarginTTM": 0.16,
+    "ReturnOnAssetsTTM": 0.1023,
+    "ReturnOnEquityTTM": 0.1516,
+    "RevenueTTM": 21108000768,
+    "RevenuePerShareTTM": 43.254,
+    "QuarterlyRevenueGrowthYOY": 0.049,
+    "GrossProfitTTM": 7117000192,
+    "DilutedEpsTTM": 4.56,
+    "QuarterlyEarningsGrowthYOY": 0.221
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.2,
+    "TotalEsgPercentile": 26.96,
+    "EnvironmentScore": 0.04,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 13.31,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 6.35,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CTSH",
+    "Type": "Common Stock",
+    "Name": "Cognizant Technology Solutions Corp Class A",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBDV81",
+    "ISIN": "US1924461023",
+    "LEI": "5493006IEVQEFQO40L83",
+    "PrimaryTicker": "CTSH.US",
+    "CUSIP": "192446102",
+    "CIK": "0001058290",
+    "EmployerIdNumber": "13-3728359",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-06-19",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "IT Services",
+    "GicSubIndustry": "IT Consulting & Other Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Cognizant Technology Solutions Corporation, a professional services company, provides consulting and technology, and outsourcing services in North America, Europe, and internationally. It operates through four segments: Financial Services; Health Sciences; Products and Resources; and Communications, Media and Technology. The company provides services including artificial intelligence (AI) and other technology services and solutions, consulting, application development, systems integration, quality engineering and assurance, engineering research and development, application maintenance, infrastructure, security, and business process services and automation. It also offers AI-led automation, which includes advisory, and process and IT automation solutions designed to simplify and accelerate automation adoption; business process outsourcing services, which help deliver business outcomes including revenue growth, increased customer and employee satisfaction, and cost savings; and Cognizant Moment, a digital experience service that uses AI to reimagine customer experiences and engineer strategies aimed at driving growth. In addition, the company develops, licenses, implements, and supports proprietary and third-party software products and platforms; and develops industry-specific products and services. It offers solution to healthcare providers and payers, life sciences companies, banking, capital markets, payments and insurance companies, manufacturers, automakers, retailers, consumer goods, travel and hospitality, communications, media and entertainment, education, information services, and technology companies, as well as businesses providing logistics, energy, and utility services. The company has a strategic partnership with Uniphore Technologies Inc. for the development of AI solutions that combine small language models and AI agents. Cognizant Technology Solutions Corporation was incorporated in 1988 and is headquartered in Teaneck, New Jersey.",
+    "Address": "300 Frank West Burr Boulevard, Teaneck, NJ, United States, 07666",
+    "AddressData": {
+      "Street": "300 Frank West Burr Boulevard",
+      "City": "Teaneck",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "07666"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ravi Kumar Singisetti",
+        "Title": "CEO & Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Jatin Pravinchandra Dalal C.F.A.",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. John Sunshin Kim",
+        "Title": "Chief Legal Officer, Chief Administrative Officer & Corporate Secretary",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Balu Ganesh Ayyar",
+        "Title": "President of Asia Pacific & Japan and Industry Solutions Group",
+        "YearBorn": "1962"
+      },
+      "4": {
+        "Name": "Mr. Surya  Gummadi",
+        "Title": "President of Americas",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Rajesh  Varrier",
+        "Title": "President of Operations & MD and Chairman of Cognizant India",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Ms. Alina  Kerdman",
+        "Title": "SVP, Controller & Chief Accounting Officer",
+        "YearBorn": "1982"
+      },
+      "7": {
+        "Name": "Mr. Tyler J. Scott",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Thea  Hayden",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Kathryn  Diaz",
+        "Title": "Senior VP & Chief People Officer",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "201 801 0233",
+    "WebURL": "https://www.cognizant.com",
+    "LogoURL": "/img/logos/US/CTSH.png",
+    "FullTimeEmployees": 351600,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 478246920,
+    "SharesFloat": 477079998,
+    "PercentInsiders": 0.11399999999999999,
+    "PercentInstitutions": 105.496,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0911
+  }
+}

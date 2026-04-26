@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 12.1405,
+    "ForwardPE": 10.2249,
+    "PriceSalesTTM": 3.1381,
+    "PriceBookMRQ": 1.4425,
+    "EnterpriseValue": 128285712384,
+    "EnterpriseValueRevenue": 6.798,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 146976964608,
+    "MarketCapitalizationMln": 146976.9646,
+    "EBITDA": null,
+    "PERatio": 12.1405,
+    "PEGRatio": 2.8399,
+    "WallStreetTargetPrice": 11.935,
+    "BookValue": 7.029,
+    "DividendShare": 0.24,
+    "DividendYield": 0.0232,
+    "EarningsShare": 0.84,
+    "EPSEstimateCurrentYear": 1.0184,
+    "EPSEstimateNextYear": 1.1936,
+    "EPSEstimateNextQuarter": 0.208,
+    "EPSEstimateCurrentQuarter": 0.2076,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3011,
+    "OperatingMarginTTM": 0.4369,
+    "ReturnOnAssetsTTM": 0.0075,
+    "ReturnOnEquityTTM": 0.1269,
+    "RevenueTTM": 46835998720,
+    "RevenuePerShareTTM": 3.145,
+    "QuarterlyRevenueGrowthYOY": -0.064,
+    "GrossProfitTTM": 46835998720,
+    "DilutedEpsTTM": 0.84,
+    "QuarterlyEarningsGrowthYOY": 0.253
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.47,
+    "TotalEsgPercentile": 61.14,
+    "EnvironmentScore": 0.24,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 16.32,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 10.4,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SAN",
+    "Type": "Common Stock",
+    "Name": "Banco Santander S.A.",
+    "Exchange": "MC",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Spain",
+    "CountryISO": "ES",
+    "OpenFigi": null,
+    "ISIN": "ES0113900J37",
+    "LEI": "5493006QMFDDMYWIAM13",
+    "PrimaryTicker": "SAN.MC",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-07-29",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments: Retail & Commercial Banking, Digital Consumer Bank, Corporate & Investment Banking, Wealth Management & Insurance, and Payments. It offers demand and time deposits, mutual funds, and current and savings accounts; mortgages, consumer finance, loans, and various financing solutions; and project finance, debt capital markets, global transaction banking, and corporate finance services. The company also provides credit and debit cards, real estate loans, microfinance, and auto loans; corporate and investment banking services; advice on mergers and acquisitions; wealth, asset, and risk management services; and digital payments and technology solutions. In addition, it is involved in the securitization, leasing, management of portfolios, e-commerce, air transport, aircraft rental, software, consulting, fund and investment management, renewable energy, vehicle rental, insurance, advertising, marketing, telemarketing, automotive, agricultural, factoring, securities brokerage and investment, pension fund management, trade intermediary, venture capital fund, renting, restaurant, electricity production, IT, internet, and financial advisory and other activities; management, and other real estate activities; and purchase and sale of vehicles. Further, the company offers mobile and online banking services. Banco Santander, S.A. was formerly known as Banco Santander Central Hispano SA and changed its name to Banco Santander, S.A. in February 2007. The company was incorporated in 1856 and is headquartered in Madrid, Spain.",
+    "Address": "Santander Group City, Madrid, Spain, 28660",
+    "AddressData": {
+      "Street": "Santander Group City",
+      "City": "Madrid",
+      "Country": "Spain",
+      "ZIP": "28660"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Ana Botin-Sanz de Sautuola y O'Shea",
+        "Title": "Executive Chair",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Hector Blas Grisi Checa",
+        "Title": "Group CEO & Executive Director",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. Jose Antonio Garcia-Cantera",
+        "Title": "Senior EVP & Group CFO",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Juan Maria Olaizola Bartolome",
+        "Title": "Senior EVP and Group Chief Operating & Technology Officer",
+        "YearBorn": "1962"
+      },
+      "4": {
+        "Name": "Mr. Kamran  Butt",
+        "Title": "Chief Investment Officer & Head of Product",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Manuel Antonio Amaral Franco Preto",
+        "Title": "Group Senior EVP & Chief Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. Jose Maria Linares Perou C.F.A.",
+        "Title": "Senior EVP and Global Head of Corporate & Investment Banking",
+        "YearBorn": "1971"
+      },
+      "7": {
+        "Name": "Ms. Begona  Morenes",
+        "Title": "Global Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Jaime  Perez Renovales",
+        "Title": "Senior EVP, Group Head of General Secretariat, General Counsel & Secretary of the Board",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Mr. David Arthur Hazell",
+        "Title": "Group Senior EVP & Chief Compliance Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "34 912 76 92 90",
+    "WebURL": "https://www.santander.com",
+    "LogoURL": "/img/logos/MC/SAN.png",
+    "FullTimeEmployees": 192241,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 14412333420,
+    "SharesFloat": 14467169088,
+    "PercentInsiders": 1.568,
+    "PercentInstitutions": 39.164,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

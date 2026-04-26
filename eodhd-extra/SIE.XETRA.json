@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 24.2373,
+    "ForwardPE": 22.1729,
+    "PriceSalesTTM": 2.3265,
+    "PriceBookMRQ": 2.8352,
+    "EnterpriseValue": 214402735284,
+    "EnterpriseValueRevenue": 2.6901,
+    "EnterpriseValueEbitda": 12.9509
+  },
+  "Highlights": {
+    "MarketCapitalization": 185422921728,
+    "MarketCapitalizationMln": 185422.9217,
+    "EBITDA": 11989999616,
+    "PERatio": 24.2373,
+    "PEGRatio": 4.1051,
+    "WallStreetTargetPrice": 270.6022,
+    "BookValue": 83.938,
+    "DividendShare": 5.35,
+    "DividendYield": 0.022,
+    "EarningsShare": 10.03,
+    "EPSEstimateCurrentYear": 11.3286,
+    "EPSEstimateNextYear": 12.7719,
+    "EPSEstimateNextQuarter": 2.5339,
+    "EPSEstimateCurrentQuarter": 2.2221,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0997,
+    "OperatingMarginTTM": 0.1303,
+    "ReturnOnAssetsTTM": 0.0363,
+    "ReturnOnEquityTTM": 0.1279,
+    "RevenueTTM": 79700000768,
+    "RevenuePerShareTTM": 101.708,
+    "QuarterlyRevenueGrowthYOY": 0.043,
+    "GrossProfitTTM": 30943000576,
+    "DilutedEpsTTM": 10.03,
+    "QuarterlyEarningsGrowthYOY": -0.446
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.65,
+    "TotalEsgPercentile": 58.14,
+    "EnvironmentScore": 14.13,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 8.09,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 16.94,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SIE",
+    "Type": "Common Stock",
+    "Name": "Siemens Aktiengesellschaft",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0007236101",
+    "LEI": "W38RGI023J3WT1HWRP32",
+    "PrimaryTicker": "SIE.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "September",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "Description": "Siemens Aktiengesellschaft, a technology company, focuses in the areas of automation and digitalization in Europe, Commonwealth of Independent States, Africa, the Middle East, the Americas, Asia, and Australia. It operates through Digital Industries, Smart Infrastructure, Mobility, Siemens Healthineers, and Siemens Financial Services (SFS) segments. The Digital Industries segment provides automation systems and software for factories, numerical control systems, servo motors, drives and inverters, and integrated automation systems for machine tools and production machines; process control systems, machine-to-machine communication products, sensors and radio frequency identification systems; production and product lifecycle management software, and simulation and testing of mechatronic system. The Smart Infrastructure segment offers products, systems, solutions, services, and software to support sustainable transition from fossil and renewable energy  sources; sustainable buildings and communities; and buildings, electrification, and electrical products. The Mobility segment provides rail passenger and freight transportation, such as metro systems, trams and light rail, and commuter trains, as well as trains and passenger coaches; locomotives and solutions for automated transportation and leasing; products and solutions for rail automation and electrification; maintenance and digital services; and digital and cloud-based solutions, and related services. The Siemens Healthineers segment develops, manufactures, and sells various diagnostic and therapeutic products and services; and provides clinical consulting and training services. The Siemens Financial Services segment offers debt and equity investments; leasing, lending, and working capital; structured, equipment, and project financing; and financial advisory services. The company was founded in 1847 and is headquartered in Munich, Germany.",
+    "Address": "Werner-von-Siemens-Straße 1, Munich, Germany, 80333",
+    "AddressData": {
+      "Street": "Werner-von-Siemens-Straße 1",
+      "City": "Munich",
+      "Country": "Germany",
+      "ZIP": "80333"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Roland  Busch Dipl.Phys.",
+        "Title": "President, CEO & Chairman of Management Board",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Ms. Veronika  Bienert",
+        "Title": "CFO & Member of Management Board",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Dr. Ralf P. Thomas",
+        "Title": "Member of the Managing Board",
+        "YearBorn": "1961"
+      },
+      "3": {
+        "Name": "Mr. Matthias Ernst Rebellius",
+        "Title": "Member of the Managing Board & CEO of Smart Infrastructure",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Cedrik  Neike",
+        "Title": "CEO of Digital Industries & Member of Managing Board",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Ms. Judith  Wiese",
+        "Title": "Chief People & Sustainability Officer and Member of Managing Board",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Dr. Peter  Koerte Ph.D.",
+        "Title": "CTO, Chief Strategy Officer & Member of the Management Board",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Dr. Andreas Christian Hoffmann",
+        "Title": "General Counsel, Head of the Legal & Compliance Department",
+        "YearBorn": "1964"
+      },
+      "8": {
+        "Name": "Mr. Hanno  Kunkel",
+        "Title": "Chief Compliance Officer and Head of the Global Compliance Organization & Human Rights Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Ms. Christiane Ribeiro Guimaraes Hofer",
+        "Title": "Global Head of Communications",
+        "YearBorn": "1978"
+      }
+    },
+    "Phone": "49 89 3803 5491",
+    "WebURL": "https://www.siemens.com",
+    "LogoURL": "/img/logos/XETRA/SIE.png",
+    "FullTimeEmployees": 317000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 762743366,
+    "SharesFloat": 780108000,
+    "PercentInsiders": 6.138,
+    "PercentInstitutions": 43.25,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

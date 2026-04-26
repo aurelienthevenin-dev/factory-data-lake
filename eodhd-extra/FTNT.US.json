@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.9666,
+        "totalAssets": 0.0849,
+        "currentShares": 73745561,
+        "change": -1835714,
+        "change_p": -2.4288
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3963,
+        "totalAssets": 0.0915,
+        "currentShares": 62126478,
+        "change": -1738122,
+        "change_p": -2.7216
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0086,
+        "totalAssets": 0.0865,
+        "currentShares": 29660558,
+        "change": 477397,
+        "change_p": 1.6359
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2943,
+        "totalAssets": 0.083,
+        "currentShares": 16975909,
+        "change": -205862,
+        "change_p": -1.1981
+      },
+      "4": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.9622,
+        "totalAssets": 0.1233,
+        "currentShares": 14518531,
+        "change": -1002659,
+        "change_p": -6.4599
+      },
+      "5": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8396,
+        "totalAssets": 0.2053,
+        "currentShares": 13611407,
+        "change": -945305,
+        "change_p": -6.4939
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4618,
+        "totalAssets": 0.1433,
+        "currentShares": 10816519,
+        "change": 1568337,
+        "change_p": 16.9583
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.454,
+        "totalAssets": 0.0548,
+        "currentShares": 10758494,
+        "change": 1387705,
+        "change_p": 14.8088
+      },
+      "8": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0979,
+        "totalAssets": 0.0791,
+        "currentShares": 8123382,
+        "change": 3078896,
+        "change_p": 61.0349
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0688,
+        "totalAssets": 0.0199,
+        "currentShares": 7908640,
+        "change": 4435767,
+        "change_p": 127.7262
+      },
+      "10": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.0687,
+        "totalAssets": 0.4564,
+        "currentShares": 7907686,
+        "change": 332024,
+        "change_p": 4.3828
+      },
+      "11": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.0448,
+        "totalAssets": 0.5074,
+        "currentShares": 7730954,
+        "change": 2166396,
+        "change_p": 38.932
+      },
+      "12": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.9333,
+        "totalAssets": 0.4726,
+        "currentShares": 6905674,
+        "change": -16357,
+        "change_p": -0.2363
+      },
+      "13": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9333,
+        "totalAssets": 0.1216,
+        "currentShares": 6905567,
+        "change": 790117,
+        "change_p": 12.92
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9209,
+        "totalAssets": 0.0733,
+        "currentShares": 6814245,
+        "change": -102267,
+        "change_p": -1.4786
+      },
+      "15": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9098,
+        "totalAssets": 0.1741,
+        "currentShares": 6732152,
+        "change": 1020515,
+        "change_p": 17.8673
+      },
+      "16": {
+        "name": "Fundsmith LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.8806,
+        "totalAssets": 3.0231,
+        "currentShares": 6516011,
+        "change": -1904081,
+        "change_p": -22.6135
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8601,
+        "totalAssets": 0.1162,
+        "currentShares": 6363994,
+        "change": -784250,
+        "change_p": -10.9712
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8397,
+        "totalAssets": 0.0559,
+        "currentShares": 6212812,
+        "change": -1887076,
+        "change_p": -23.2976
+      },
+      "19": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6974,
+        "totalAssets": 0.0988,
+        "currentShares": 5160348,
+        "change": 969899,
+        "change_p": 23.1455
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5414,
+        "totalAssets": 0.077,
+        "currentShares": 18804058,
+        "change": -1187149,
+        "change_p": -5.9384
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1752,
+        "totalAssets": 0.0924,
+        "currentShares": 16094600,
+        "change": -164321,
+        "change_p": -1.0107
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 0.342,
+        "currentShares": 15529269,
+        "change": -51944,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "First Trust NASDAQ Cybersecurity ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1602,
+        "totalAssets": 7.3944,
+        "currentShares": 8584852,
+        "change": 36868,
+        "change_p": 0.4313
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0982,
+        "totalAssets": 0.0922,
+        "currentShares": 8125678,
+        "change": -4428,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0872,
+        "totalAssets": 0.0849,
+        "currentShares": 8044277,
+        "change": 13264,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9938,
+        "totalAssets": 0.0924,
+        "currentShares": 7353559,
+        "change": -18032,
+        "change_p": -0.2446
+      },
+      "7": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9291,
+        "totalAssets": 0.1768,
+        "currentShares": 6874676,
+        "change": -574630,
+        "change_p": -7.7139
+      },
+      "8": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.8641,
+        "totalAssets": 0.2629,
+        "currentShares": 6393732,
+        "change": -475534,
+        "change_p": -6.9226
+      },
+      "9": {
+        "name": "Fundsmith Equity I Acc",
+        "date": "2025-12-31",
+        "totalShares": 0.8094,
+        "totalAssets": 2.2188,
+        "currentShares": 5988947,
+        "change": -82595,
+        "change_p": -1.3604
+      },
+      "10": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6931,
+        "totalAssets": 0.3444,
+        "currentShares": 5128207,
+        "change": -6641,
+        "change_p": -0.1293
+      },
+      "11": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.641,
+        "totalAssets": 0.4597,
+        "currentShares": 4742619,
+        "change": 12625,
+        "change_p": 0.2669
+      },
+      "12": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6073,
+        "totalAssets": 0.7899,
+        "currentShares": 4493432,
+        "change": -2781,
+        "change_p": -0.0619
+      },
+      "13": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5027,
+        "totalAssets": 2.5845,
+        "currentShares": 3719338,
+        "change": -1549,
+        "change_p": -0.0416
+      },
+      "14": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 0.5022,
+        "totalAssets": 2.6144,
+        "currentShares": 3716240,
+        "change": -219622,
+        "change_p": -5.58
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4813,
+        "totalAssets": 0.0922,
+        "currentShares": 3561371,
+        "change": -18205,
+        "change_p": -0.5086
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.456,
+        "totalAssets": 0.0913,
+        "currentShares": 3374236,
+        "change": 4700,
+        "change_p": 0.1395
+      },
+      "17": {
+        "name": "iShares Expanded Tech-Software Sect ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.393,
+        "totalAssets": 2.2109,
+        "currentShares": 2907882,
+        "change": 99636,
+        "change_p": 3.548
+      },
+      "18": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3889,
+        "totalAssets": 0.3411,
+        "currentShares": 2877417,
+        "change": 12276,
+        "change_p": 0.4285
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3858,
+        "totalAssets": 0.0921,
+        "currentShares": 2854934,
+        "change": 16393,
+        "change_p": 0.5775
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 34.8512,
+    "ForwardPE": 27.7008,
+    "PriceSalesTTM": 9.1778,
+    "PriceBookMRQ": 49.4837,
+    "EnterpriseValue": 58649875729,
+    "EnterpriseValueRevenue": 8.6255,
+    "EnterpriseValueEbitda": 23.8968
+  },
+  "Highlights": {
+    "MarketCapitalization": 62405152768,
+    "MarketCapitalizationMln": 62405.1528,
+    "EBITDA": 2226299904,
+    "PERatio": 34.8512,
+    "PEGRatio": 2.0091,
+    "WallStreetTargetPrice": 89,
+    "BookValue": 1.666,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.42,
+    "EPSEstimateCurrentYear": 2.9795,
+    "EPSEstimateNextYear": 3.3097,
+    "EPSEstimateNextQuarter": 0.653,
+    "EPSEstimateCurrentQuarter": 0.7434,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2726,
+    "OperatingMarginTTM": 0.3277,
+    "ReturnOnAssetsTTM": 0.1287,
+    "ReturnOnEquityTTM": 1.3572,
+    "RevenueTTM": 6799600128,
+    "RevenuePerShareTTM": 8.97,
+    "QuarterlyRevenueGrowthYOY": 0.148,
+    "GrossProfitTTM": 5470700032,
+    "DilutedEpsTTM": 2.42,
+    "QuarterlyEarningsGrowthYOY": -0.011
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.91,
+    "TotalEsgPercentile": 25.9,
+    "EnvironmentScore": 0.36,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 14.43,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 7.12,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FTNT",
+    "Type": "Common Stock",
+    "Name": "Fortinet Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCMBG4",
+    "ISIN": "US34959E1091",
+    "LEI": "549300O0QJWDBAS0QX03",
+    "PrimaryTicker": "FTNT.US",
+    "CUSIP": "34959E109",
+    "CIK": "0001262039",
+    "EmployerIdNumber": "77-0560389",
+    "FiscalYearEnd": "December",
+    "IPODate": "2009-11-18",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Systems Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Fortinet, Inc. provides cybersecurity and convergence of networking and security solutions worldwide. The company offers FortiOS, a unified operating system designed to address cybersecurity threats; FortiASIC application-specific integrated circuit (ASIC)-based security processing units; FortiCloud, a private cloud software as a service platform; FortiAI, which provides a dual-layered defense across the Fortinet Security Fabric; FortiEndpoint, which converges secure connectivity, endpoint protection, and capabilities into a single agent; and OT Security, which protect the engineered systems that underpin infrastructure and supply chains. It also provides secure networking solutions that focus on the convergence of networking and security; network firewall solutions comprising FortiGate data centers, hyperscale, and distributed firewalls; wireless local area network solutions; and secure connectivity solutions. In addition, the company offers the Fortinet Unified Secure Access Service Edge solutions that include firewall, software-defined wide-area network, secure web gateway, cloud access services broker, data loss prevention, and zero trust network access; and web application firewalls, cloud network security with virtualized firewalls, cloud-native firewalls, cloud-native application protection, and code security. Further, it provides AI-driven security operation solutions, which include a suite of cybersecurity solutions, as well as FortiEDR, FortiXDR, FortiNDR, FortiSandbox, FortiDeceptor, FortiDLP, and FortiRecon. Additionally, the company offers FortiGuard Labs, a cybersecurity threat intelligence and research organization; FortiGuard and Other Security Services, a suite of AI-powered security capabilities that consists of FortiGuard application, content, device, NOC/SOC, and web security services; and FortiCare technical support services. Fortinet, Inc. was incorporated in 2000 and is headquartered in Sunnyvale, California.",
+    "Address": "909 Kifer Road, Sunnyvale, CA, United States, 94086",
+    "AddressData": {
+      "Street": "909 Kifer Road",
+      "City": "Sunnyvale",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94086"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ken  Xie",
+        "Title": "Co-Founder, Chairman & CEO",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Michael  Xie",
+        "Title": "Co-Founder, President, CTO & Director",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. John  Whittle J.D.",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Ms. Christiane  Ohlgart",
+        "Title": "Chief Accounting Officer, CFO and Principal Financial & Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. Anthony  Luscri",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Russ  Schafer",
+        "Title": "Executive Vice President of Marketing",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Robert  May",
+        "Title": "Executive Vice President of Technology & Product Management",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Joe  Sarno",
+        "Title": "Executive Vice President of International Sales",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Carl  Windsor",
+        "Title": "Chief Information Security Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Trevor  Pagliara",
+        "Title": "Executive Vice President of US Sales",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 235 7700",
+    "WebURL": "https://www.fortinet.com",
+    "LogoURL": "/img/logos/US/ftnt.png",
+    "FullTimeEmployees": 15109,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 739923583,
+    "SharesFloat": 624732280,
+    "PercentInsiders": 17.434,
+    "PercentInstitutions": 71.8,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0317
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.823,
+        "totalAssets": 0.0243,
+        "currentShares": 4735743,
+        "change": -91185,
+        "change_p": -1.8891
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.8664,
+        "totalAssets": 0.0162,
+        "currentShares": 2945951,
+        "change": -617294,
+        "change_p": -17.3239
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.9189,
+        "totalAssets": 0.0166,
+        "currentShares": 1767008,
+        "change": 759263,
+        "change_p": 75.3428
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.4027,
+        "totalAssets": 0.0159,
+        "currentShares": 1454480,
+        "change": -63183,
+        "change_p": -4.1632
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.4006,
+        "totalAssets": 0.0262,
+        "currentShares": 1453212,
+        "change": 150393,
+        "change_p": 11.5437
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7354,
+        "totalAssets": 0.0229,
+        "currentShares": 1050543,
+        "change": 54686,
+        "change_p": 5.4914
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7324,
+        "totalAssets": 0.0518,
+        "currentShares": 1048755,
+        "change": 93753,
+        "change_p": 9.817
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5761,
+        "totalAssets": 0.032,
+        "currentShares": 954135,
+        "change": 79406,
+        "change_p": 9.0778
+      },
+      "8": {
+        "name": "Qube Research & Technologies",
+        "date": "2025-12-31",
+        "totalShares": 1.4858,
+        "totalAssets": 0.3231,
+        "currentShares": 899444,
+        "change": -42388,
+        "change_p": -4.5006
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4785,
+        "totalAssets": 0.0388,
+        "currentShares": 895017,
+        "change": 255511,
+        "change_p": 39.9544
+      },
+      "10": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.468,
+        "totalAssets": 0.5353,
+        "currentShares": 888674,
+        "change": 526859,
+        "change_p": 145.6156
+      },
+      "11": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4559,
+        "totalAssets": 0.1635,
+        "currentShares": 881360,
+        "change": 245242,
+        "change_p": 38.5529
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2136,
+        "totalAssets": 0.0529,
+        "currentShares": 734663,
+        "change": -21540,
+        "change_p": -2.8484
+      },
+      "13": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1613,
+        "totalAssets": 0.2574,
+        "currentShares": 703019,
+        "change": -12714,
+        "change_p": -1.7764
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0799,
+        "totalAssets": 0.0124,
+        "currentShares": 653747,
+        "change": 63991,
+        "change_p": 10.8504
+      },
+      "15": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.9684,
+        "totalAssets": 0.1507,
+        "currentShares": 586225,
+        "change": 242386,
+        "change_p": 70.494
+      },
+      "16": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9316,
+        "totalAssets": 0.2813,
+        "currentShares": 563947,
+        "change": 201925,
+        "change_p": 55.777
+      },
+      "17": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9218,
+        "totalAssets": 0.1185,
+        "currentShares": 558012,
+        "change": -46716,
+        "change_p": -7.7251
+      },
+      "18": {
+        "name": "Allianz Asset Management AG",
+        "date": "2025-12-31",
+        "totalShares": 0.7802,
+        "totalAssets": 0.1689,
+        "currentShares": 472283,
+        "change": -24458,
+        "change_p": -4.9237
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.6908,
+        "totalAssets": 0.031,
+        "currentShares": 418176,
+        "change": -34465,
+        "change_p": -7.6142
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.9202,
+        "totalAssets": 0.02,
+        "currentShares": 1162429,
+        "change": -1018,
+        "change_p": -0.0875
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.6276,
+        "totalAssets": 0.0238,
+        "currentShares": 985296,
+        "change": -10380,
+        "change_p": -1.0425
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.4003,
+        "totalAssets": 0.1755,
+        "currentShares": 847696,
+        "change": 11436,
+        "change_p": 1.3675
+      },
+      "3": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.8483,
+        "totalAssets": 0.74,
+        "currentShares": 513538,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8465,
+        "totalAssets": 0.2067,
+        "currentShares": 512454,
+        "change": 1572,
+        "change_p": 0.3077
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8217,
+        "totalAssets": 0.0238,
+        "currentShares": 497455,
+        "change": -276,
+        "change_p": -0.0555
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.8148,
+        "totalAssets": 0.0239,
+        "currentShares": 493255,
+        "change": 811,
+        "change_p": 0.1647
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7407,
+        "totalAssets": 0.0237,
+        "currentShares": 448405,
+        "change": -1078,
+        "change_p": -0.2398
+      },
+      "8": {
+        "name": "FullerThaler Behavioral Small-Cap Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6943,
+        "totalAssets": 1.3237,
+        "currentShares": 420289,
+        "change": 78308,
+        "change_p": 22.8983
+      },
+      "9": {
+        "name": "FullerThaler Beh Small-Cap Equity SMA",
+        "date": "2025-12-31",
+        "totalShares": 0.6943,
+        "totalAssets": 1.323,
+        "currentShares": 420289,
+        "change": 9400,
+        "change_p": 2.2877
+      },
+      "10": {
+        "name": "FullerThaler Behavioral Sm-Cp Eq R6",
+        "date": "2025-12-31",
+        "totalShares": 0.6943,
+        "totalAssets": 1.3237,
+        "currentShares": 420289,
+        "change": 78308,
+        "change_p": 22.8983
+      },
+      "11": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.641,
+        "totalAssets": 0.9271,
+        "currentShares": 388018,
+        "change": -41970,
+        "change_p": -9.7607
+      },
+      "12": {
+        "name": "Allianz Income and Growth IT H2 EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.5425,
+        "totalAssets": 0.2121,
+        "currentShares": 328395,
+        "change": 328395,
+        "change_p": 0
+      },
+      "13": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.5392,
+        "totalAssets": 1.0171,
+        "currentShares": 326392,
+        "change": 22115,
+        "change_p": 7.268
+      },
+      "14": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.5358,
+        "totalAssets": 1.0298,
+        "currentShares": 324372,
+        "change": 24720,
+        "change_p": 8.2496
+      },
+      "15": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.4763,
+        "totalAssets": 0.0616,
+        "currentShares": 288337,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4534,
+        "totalAssets": 0.4757,
+        "currentShares": 274446,
+        "change": 188,
+        "change_p": 0.0685
+      },
+      "17": {
+        "name": "Invesco Discovery Mid Cap Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.4505,
+        "totalAssets": 1.5567,
+        "currentShares": 272738,
+        "change": 1092,
+        "change_p": 0.402
+      },
+      "18": {
+        "name": "Invesco Mid Cap Growth",
+        "date": "2025-12-31",
+        "totalShares": 0.4487,
+        "totalAssets": 1.5796,
+        "currentShares": 271646,
+        "change": 166891,
+        "change_p": 159.3155
+      },
+      "19": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.4456,
+        "totalAssets": 0.1528,
+        "currentShares": 269761,
+        "change": 1244,
+        "change_p": 0.4633
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.2544,
+    "ForwardPE": 20.79,
+    "PriceSalesTTM": 2.874,
+    "PriceBookMRQ": 7.7785,
+    "EnterpriseValue": 23075384320,
+    "EnterpriseValueRevenue": 2.9459,
+    "EnterpriseValueEbitda": 16.1933
+  },
+  "Highlights": {
+    "MarketCapitalization": 22512238592,
+    "MarketCapitalizationMln": 22512.2386,
+    "EBITDA": 1367299968,
+    "PERatio": 25.2544,
+    "PEGRatio": 1.6768,
+    "WallStreetTargetPrice": 411.2625,
+    "BookValue": 47.663,
+    "DividendShare": 3.563,
+    "DividendYield": 0.0096,
+    "EarningsShare": 14.7,
+    "EPSEstimateCurrentYear": 16.2751,
+    "EPSEstimateNextYear": 18.0009,
+    "EPSEstimateNextQuarter": 2.1602,
+    "EPSEstimateCurrentQuarter": 5.8079,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1173,
+    "OperatingMarginTTM": 0.2009,
+    "ReturnOnAssetsTTM": 0.0957,
+    "ReturnOnEquityTTM": 0.3385,
+    "RevenueTTM": 7833099776,
+    "RevenuePerShareTTM": 127.731,
+    "QuarterlyRevenueGrowthYOY": 0.122,
+    "GrossProfitTTM": 5455699968,
+    "DilutedEpsTTM": 14.7,
+    "QuarterlyEarningsGrowthYOY": 0.249
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 14.58,
+    "TotalEsgPercentile": 8.84,
+    "EnvironmentScore": 4.83,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 7.38,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 7.37,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "RL",
+    "Type": "Common Stock",
+    "Name": "Ralph Lauren Corp Class A",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BS0ZF1",
+    "ISIN": "US7512121010",
+    "LEI": "HO1QNWM0IXBZ0QSMMO20",
+    "PrimaryTicker": "RL.US",
+    "CUSIP": "731572103",
+    "CIK": "0001037038",
+    "EmployerIdNumber": "13-2622036",
+    "FiscalYearEnd": "March",
+    "IPODate": "1997-06-11",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Manufacturing",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Textiles, Apparel & Luxury Goods",
+    "GicSubIndustry": "Apparel, Accessories & Luxury Goods",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ralph Lauren Corporation designs, markets, and distributes lifestyle products in North America, Europe, Asia, and internationally. It offers apparel, including a range of men's, women's, and children's clothing; footwear and accessories, which comprise casual shoes, dress shoes, boots, sneakers, sandals, eyewear, watches, fashion and fine jewelry, scarves, hats, gloves, and umbrellas, as well as leather goods comprising handbags, luggage, small leather goods, and belts; home products, such as bed and bath lines, furniture, fabric and wall coverings, lighting, dining, floor coverings, decorative accessories, and giftware; and fragrances. The company sells apparel and accessories under the Ralph Lauren Collection, Ralph Lauren Purple Label, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, Polo Golf Ralph Lauren, Ralph Lauren Golf, RLX Ralph Lauren, Polo Ralph Lauren Children, and Chaps brands; women's fragrances under the Ralph Lauren Collection, Woman by Ralph Lauren, Romance Collection, and Ralph Collection brand names; and men's fragrances under the Ralph's Club, Purple Label, Polo Blue, Polo Red, Polo Green, Polo Black, Polo 67, Safari, Polo Sport, and Big Pony Men's brand names. Its restaurant collection includes The Polo Bar in New York City; RL Restaurant in Chicago; Ralph's in Paris; The Bar at Ralph Lauren located in Milan; Ralph's Bar located in Chengdu, China; and Ralph's Coffee concept. The company sells its products to department stores, specialty stores, and golf and pro shops, as well as directly to consumers through its retail stores, concession-based shop-within-shops, and its digital commerce sites. It directly operates retail stores and concession-based shop-within-shops; and operates Ralph Lauren stores and shops through licensing partners. Ralph Lauren Corporation was founded in 1967 and is based in New York, New York.",
+    "Address": "650 Madison Avenue, New York, NY, United States, 10022",
+    "AddressData": {
+      "Street": "650 Madison Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10022"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ralph  Lauren",
+        "Title": "Executive Chairman & Chief Creative Officer",
+        "YearBorn": "1940"
+      },
+      "1": {
+        "Name": "Mr. Patrice Jean Louis Louvet",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. David  Lauren",
+        "Title": "Vice Chairman, Chief Branding & Innovation Officer and Strategic Advisor to the CEO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Justin  Picicci",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Ms. Halide  Alagoz",
+        "Title": "Chief Product & Merchandising Officer",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Robert  Ranftl",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Ms. Corinna Van der Ghinst",
+        "Title": "SVP, Global Head of Strategy & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Avery S. Fischer",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Ms. Katie  Ioanilli",
+        "Title": "Chief Global Impact & Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Iris  Langlois-Meurinne",
+        "Title": "Global Chief Marketing Officer",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "212 318 7000",
+    "WebURL": "https://www.corporate.ralphlauren.com",
+    "LogoURL": "/img/logos/US/rl.png",
+    "FullTimeEmployees": 15000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 38655137,
+    "SharesFloat": 38058637,
+    "PercentInsiders": 3.972,
+    "PercentInstitutions": 104.044,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.089
+  }
+}

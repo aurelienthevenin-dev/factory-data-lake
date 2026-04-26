@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.0028,
+        "totalAssets": 0.0362,
+        "currentShares": 14392082,
+        "change": 140450,
+        "change_p": 0.9855
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.0365,
+        "totalAssets": 0.0334,
+        "currentShares": 10002035,
+        "change": -310940,
+        "change_p": -3.015
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.8013,
+        "totalAssets": 0.0493,
+        "currentShares": 8634782,
+        "change": 4303122,
+        "change_p": 99.3412
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 6.3297,
+        "totalAssets": 0.1429,
+        "currentShares": 7005990,
+        "change": -188707,
+        "change_p": -2.6229
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7197,
+        "totalAssets": 0.0345,
+        "currentShares": 5223930,
+        "change": 38931,
+        "change_p": 0.7508
+      },
+      "5": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.5356,
+        "totalAssets": 0.7041,
+        "currentShares": 3913326,
+        "change": -123555,
+        "change_p": -3.0607
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7359,
+        "totalAssets": 0.0323,
+        "currentShares": 3028207,
+        "change": -8278,
+        "change_p": -0.2726
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0662,
+        "totalAssets": 0.0264,
+        "currentShares": 2286910,
+        "change": 141806,
+        "change_p": 6.6107
+      },
+      "8": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.9212,
+        "totalAssets": 0.2082,
+        "currentShares": 2126422,
+        "change": -217552,
+        "change_p": -9.2813
+      },
+      "9": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.7451,
+        "totalAssets": 0.0703,
+        "currentShares": 1931548,
+        "change": 24038,
+        "change_p": 1.2602
+      },
+      "10": {
+        "name": "Grantham, Mayo, Van Otterloo & Co., LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6408,
+        "totalAssets": 0.8055,
+        "currentShares": 1816060,
+        "change": 69660,
+        "change_p": 3.9888
+      },
+      "11": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.631,
+        "totalAssets": 0.0654,
+        "currentShares": 1805294,
+        "change": -31153,
+        "change_p": -1.6964
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.544,
+        "totalAssets": 0.0364,
+        "currentShares": 1708925,
+        "change": 645209,
+        "change_p": 60.6561
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5257,
+        "totalAssets": 0.0507,
+        "currentShares": 1688769,
+        "change": 30418,
+        "change_p": 1.8342
+      },
+      "14": {
+        "name": "EdgePoint Investment",
+        "date": "2025-12-31",
+        "totalShares": 1.5007,
+        "totalAssets": 2.3672,
+        "currentShares": 1661072,
+        "change": 811320,
+        "change_p": 95.4773
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4772,
+        "totalAssets": 0.0211,
+        "currentShares": 1635075,
+        "change": 35473,
+        "change_p": 2.2176
+      },
+      "16": {
+        "name": "Davis Selected Advisers",
+        "date": "2025-12-31",
+        "totalShares": 1.4364,
+        "totalAssets": 1.24,
+        "currentShares": 1589883,
+        "change": 228271,
+        "change_p": 16.7648
+      },
+      "17": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.195,
+        "totalAssets": 0.0246,
+        "currentShares": 1322663,
+        "change": -2961,
+        "change_p": -0.2234
+      },
+      "18": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0862,
+        "totalAssets": 0.0106,
+        "currentShares": 1202254,
+        "change": -11118,
+        "change_p": -0.9163
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.042,
+        "totalAssets": 0.0281,
+        "currentShares": 1153325,
+        "change": -25072,
+        "change_p": -2.1276
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1524,
+        "totalAssets": 0.0343,
+        "currentShares": 3489210,
+        "change": -26871,
+        "change_p": -0.7642
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5292,
+        "totalAssets": 0.0386,
+        "currentShares": 2799460,
+        "change": -61981,
+        "change_p": -2.1661
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1443,
+        "totalAssets": 0.2341,
+        "currentShares": 2373386,
+        "change": -44393,
+        "change_p": -1.8361
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.279,
+        "totalAssets": 0.0401,
+        "currentShares": 1415700,
+        "change": 2339,
+        "change_p": 0.1655
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2773,
+        "totalAssets": 0.0385,
+        "currentShares": 1413786,
+        "change": -768,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 1.1628,
+        "totalAssets": 1.6847,
+        "currentShares": 1287000,
+        "change": -173000,
+        "change_p": -11.8493
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1464,
+        "totalAssets": 0.0383,
+        "currentShares": 1268943,
+        "change": -3136,
+        "change_p": -0.2465
+      },
+      "7": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.1163,
+        "totalAssets": 0.5644,
+        "currentShares": 1235554,
+        "change": 23001,
+        "change_p": 1.8969
+      },
+      "8": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 1.0894,
+        "totalAssets": 0.5809,
+        "currentShares": 1205781,
+        "change": -26996,
+        "change_p": -2.1899
+      },
+      "9": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 1.0772,
+        "totalAssets": 0.5668,
+        "currentShares": 1192326,
+        "change": -51470,
+        "change_p": -4.1381
+      },
+      "10": {
+        "name": "T. Rowe Price US Dividend Growth Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0346,
+        "totalAssets": 0.8272,
+        "currentShares": 1145100,
+        "change": 105100,
+        "change_p": 10.1058
+      },
+      "11": {
+        "name": "T. Rowe Price Dividend Growth",
+        "date": "2026-03-31",
+        "totalShares": 1.0346,
+        "totalAssets": 0.99,
+        "currentShares": 1145100,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 1.0185,
+        "totalAssets": 1.2677,
+        "currentShares": 1127366,
+        "change": -32731,
+        "change_p": -2.8214
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9174,
+        "totalAssets": 0.0882,
+        "currentShares": 1015433,
+        "change": -20036,
+        "change_p": -1.935
+      },
+      "14": {
+        "name": "T. Rowe Price US Large-Cap Core Tr-E",
+        "date": "2025-12-31",
+        "totalShares": 0.8655,
+        "totalAssets": 0.8224,
+        "currentShares": 957973,
+        "change": -104969,
+        "change_p": -9.8753
+      },
+      "15": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.8502,
+        "totalAssets": 0.7925,
+        "currentShares": 941021,
+        "change": 123561,
+        "change_p": 15.1152
+      },
+      "16": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.8371,
+        "totalAssets": 0.5205,
+        "currentShares": 926526,
+        "change": -3948,
+        "change_p": -0.4243
+      },
+      "17": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.834,
+        "totalAssets": 0.5674,
+        "currentShares": 923088,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "T. Rowe Price US Large-Cap Core Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7844,
+        "totalAssets": 0.8381,
+        "currentShares": 868253,
+        "change": -106933,
+        "change_p": -10.9654
+      },
+      "19": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7824,
+        "totalAssets": 0.199,
+        "currentShares": 865997,
+        "change": 2620,
+        "change_p": 0.3035
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.0281,
+    "ForwardPE": 18.622,
+    "PriceSalesTTM": 1.9264,
+    "PriceBookMRQ": 2.9985,
+    "EnterpriseValue": 27739388119,
+    "EnterpriseValueRevenue": 2.4916,
+    "EnterpriseValueEbitda": 12.6407
+  },
+  "Highlights": {
+    "MarketCapitalization": 21726388224,
+    "MarketCapitalizationMln": 21726.3882,
+    "EBITDA": 2225999872,
+    "PERatio": 22.0281,
+    "PEGRatio": 1.5397,
+    "WallStreetTargetPrice": 222.5625,
+    "BookValue": 65.182,
+    "DividendShare": 3.26,
+    "DividendYield": 0.0163,
+    "EarningsShare": 8.91,
+    "EPSEstimateCurrentYear": 10.6676,
+    "EPSEstimateNextYear": 11.5617,
+    "EPSEstimateNextQuarter": 2.868,
+    "EPSEstimateCurrentQuarter": 2.3671,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0908,
+    "OperatingMarginTTM": 0.142,
+    "ReturnOnAssetsTTM": 0.0635,
+    "ReturnOnEquityTTM": 0.1454,
+    "RevenueTTM": 11278000128,
+    "RevenuePerShareTTM": 101.833,
+    "QuarterlyRevenueGrowthYOY": 0.092,
+    "GrossProfitTTM": 3752999936,
+    "DilutedEpsTTM": 8.91,
+    "QuarterlyEarningsGrowthYOY": 0.155
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.33,
+    "TotalEsgPercentile": 16.26,
+    "EnvironmentScore": 0.86,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 10.42,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 5.77,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DGX",
+    "Type": "Common Stock",
+    "Name": "Quest Diagnostics Incorporated",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BN84F3",
+    "ISIN": "US74834L1008",
+    "LEI": "8MCWUBXQ0WE04KMXBX50",
+    "PrimaryTicker": "DGX.US",
+    "CUSIP": "74834L100",
+    "CIK": "0001022079",
+    "EmployerIdNumber": "16-1387862",
+    "FiscalYearEnd": "December",
+    "IPODate": "1996-12-17",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Health Care Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Quest Diagnostics Incorporated provides diagnostic testing and services in the United States. The company develops and delivers diagnostic information services, such as routine, non-routine and advanced clinical testing, anatomic pathology testing, and other diagnostic information services. It also provides services under the Quest Diagnostics brand, as well as under the AmeriPath, Dermpath Diagnostics, ExamOne, and Quanum brands to physicians, hospitals, patients and consumers, health plans, government agencies, employers, retailers, pharmaceutical companies and insurers commercial clinical laboratories, and accountable care organizations through a network of laboratories, patient service centers, phlebotomists in physician offices, call centers and mobile phlebotomists, nurses, and other health and wellness professionals. In addition, the company offers risk assessment services for the life insurance industry; healthcare IT healthcare providers and payers; testing and medical director services at hospital laboratories; test offerings in cardiometabolic and endocrine; cancer; clinical drug monitoring and toxicology; infectious disease, including autoimmune; neurology diagnostics, including Alzheimer's disease; and women's health, such as prenatal genetic; workplace drug testing, testing urine, hair, and oral fluid specimens services; and employer population health services, including biometric screenings, flu shots, and related preventative services. Further, it provides population health solutions; extended care services; develops in vitro diagnostic tests; laboratory diagnostic information and digital health connectivity systems; underwriting support services, including data gathering, paramedical examinations, and clinical laboratory testing and analytics; and national specimen collection and health data solutions. Quest Diagnostics Incorporated was founded in 1967 and is headquartered in Secaucus, New Jersey.",
+    "Address": "500 Plaza Drive, Secaucus, NJ, United States, 07094",
+    "AddressData": {
+      "Street": "500 Plaza Drive",
+      "City": "Secaucus",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "07094"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. James E. Davis",
+        "Title": "Chairman, CEO & President",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Sam A. Samad",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Michael E. Prevoznik J.D.",
+        "Title": "Senior VP & General Counsel",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Ms. Catherine T. Doherty",
+        "Title": "Executive Vice President of Regional Businesses",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Karthik  Kuppusamy Ph.D.",
+        "Title": "Senior Vice President of Clinical Solutions",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Michael J. Deppe",
+        "Title": "Senior VP, Corporate Controller & Chief Accounting Officer",
+        "YearBorn": "1967"
+      },
+      "6": {
+        "Name": "Mr. Murali  Balakumar",
+        "Title": "Senior VP and Chief Information & Digital Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Dan  Haemmerle",
+        "Title": "Interim VP of Investor Relations & VP Finance",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Kristin Lee Wallace Esq.",
+        "Title": "Senior VP & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Garry  Clark",
+        "Title": "Senior VP and Chief Marketing & Communications Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "973 520 2700",
+    "WebURL": "https://www.questdiagnostics.com",
+    "LogoURL": "/img/logos/US/DGX.png",
+    "FullTimeEmployees": 57000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 110696429,
+    "SharesFloat": 110089813,
+    "PercentInsiders": 0.418,
+    "PercentInstitutions": 99.80499999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0377
+  }
+}

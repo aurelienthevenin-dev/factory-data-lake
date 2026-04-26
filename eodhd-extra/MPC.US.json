@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.0025,
+        "totalAssets": 0.0903,
+        "currentShares": 38291917,
+        "change": -52760,
+        "change_p": -0.1376
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6118,
+        "totalAssets": 0.0756,
+        "currentShares": 22416454,
+        "change": -1001490,
+        "change_p": -4.2766
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.0736,
+        "totalAssets": 0.1195,
+        "currentShares": 17886431,
+        "change": -554029,
+        "change_p": -3.0044
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6382,
+        "totalAssets": 0.0777,
+        "currentShares": 7769469,
+        "change": -151345,
+        "change_p": -1.9107
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.446,
+        "totalAssets": 0.2053,
+        "currentShares": 7203536,
+        "change": -2164683,
+        "change_p": -23.1067
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1278,
+        "totalAssets": 0.0731,
+        "currentShares": 6266235,
+        "change": -218421,
+        "change_p": -3.3683
+      },
+      "6": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.078,
+        "totalAssets": 1.0332,
+        "currentShares": 6119715,
+        "change": -185713,
+        "change_p": -2.9453
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.9136,
+        "totalAssets": 0.0325,
+        "currentShares": 5635398,
+        "change": 2271494,
+        "change_p": 67.5255
+      },
+      "8": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.7484,
+        "totalAssets": 0.178,
+        "currentShares": 5148905,
+        "change": -470493,
+        "change_p": -8.3727
+      },
+      "9": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.3691,
+        "totalAssets": 0.8288,
+        "currentShares": 4031962,
+        "change": 26380,
+        "change_p": 0.6586
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.179,
+        "totalAssets": 0.0288,
+        "currentShares": 3472013,
+        "change": -615069,
+        "change_p": -15.0491
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1625,
+        "totalAssets": 0.0844,
+        "currentShares": 3423526,
+        "change": -187258,
+        "change_p": -5.1861
+      },
+      "12": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1369,
+        "totalAssets": 0.1142,
+        "currentShares": 3348270,
+        "change": -62385,
+        "change_p": -1.8291
+      },
+      "13": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0756,
+        "totalAssets": 0.0653,
+        "currentShares": 3167689,
+        "change": -165281,
+        "change_p": -4.959
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9862,
+        "totalAssets": 0.0505,
+        "currentShares": 2904209,
+        "change": -269574,
+        "change_p": -8.4938
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.957,
+        "totalAssets": 0.0712,
+        "currentShares": 2818361,
+        "change": 11693,
+        "change_p": 0.4166
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.86,
+        "totalAssets": 0.0769,
+        "currentShares": 2532591,
+        "change": -33854,
+        "change_p": -1.3191
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7945,
+        "totalAssets": 0.0467,
+        "currentShares": 2339894,
+        "change": 98792,
+        "change_p": 4.4082
+      },
+      "18": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7621,
+        "totalAssets": 0.0994,
+        "currentShares": 2244349,
+        "change": -537272,
+        "change_p": -19.3151
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7018,
+        "totalAssets": 0.027,
+        "currentShares": 2066890,
+        "change": -362330,
+        "change_p": -14.9155
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.179,
+        "totalAssets": 0.1145,
+        "currentShares": 9361958,
+        "change": -143971,
+        "change_p": -1.5145
+      },
+      "1": {
+        "name": "Cushing Midstream Strategy",
+        "date": "2025-12-31",
+        "totalShares": 2.9939,
+        "totalAssets": 1.1326,
+        "currentShares": 8816956,
+        "change": 286501,
+        "change_p": 3.3586
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5503,
+        "totalAssets": 0.1289,
+        "currentShares": 7510668,
+        "change": -222470,
+        "change_p": -2.8768
+      },
+      "3": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3208,
+        "totalAssets": 3.8097,
+        "currentShares": 6834604,
+        "change": 69934,
+        "change_p": 1.0338
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1621,
+        "totalAssets": 0.7824,
+        "currentShares": 6367244,
+        "change": -166337,
+        "change_p": -2.5459
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.299,
+        "totalAssets": 0.1012,
+        "currentShares": 3825538,
+        "change": 6308,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2876,
+        "totalAssets": 0.1286,
+        "currentShares": 3791971,
+        "change": -2064,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1598,
+        "totalAssets": 0.1283,
+        "currentShares": 3415485,
+        "change": -8428,
+        "change_p": -0.2462
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.925,
+        "totalAssets": 0.2947,
+        "currentShares": 2724141,
+        "change": -74463,
+        "change_p": -2.6607
+      },
+      "9": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7721,
+        "totalAssets": 0.5916,
+        "currentShares": 2273944,
+        "change": -728027,
+        "change_p": -24.2516
+      },
+      "10": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6954,
+        "totalAssets": 0.2777,
+        "currentShares": 2047794,
+        "change": -453474,
+        "change_p": -18.1298
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.651,
+        "totalAssets": 1.3475,
+        "currentShares": 1917260,
+        "change": 41059,
+        "change_p": 2.1884
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5644,
+        "totalAssets": 0.1286,
+        "currentShares": 1662014,
+        "change": -40313,
+        "change_p": -2.3681
+      },
+      "13": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.5582,
+        "totalAssets": 1.0406,
+        "currentShares": 1644000,
+        "change": -926000,
+        "change_p": -36.0311
+      },
+      "14": {
+        "name": "Vanguard Energy ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5393,
+        "totalAssets": 2.9097,
+        "currentShares": 1588157,
+        "change": 86648,
+        "change_p": 5.7707
+      },
+      "15": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.5375,
+        "totalAssets": 1.2468,
+        "currentShares": 1582826,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5347,
+        "totalAssets": 0.1273,
+        "currentShares": 1574766,
+        "change": -27700,
+        "change_p": -1.7286
+      },
+      "17": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.5215,
+        "totalAssets": 1.6153,
+        "currentShares": 1535738,
+        "change": -44587,
+        "change_p": -2.8214
+      },
+      "18": {
+        "name": "Vanguard Energy Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5003,
+        "totalAssets": 3.9097,
+        "currentShares": 1473492,
+        "change": -22132,
+        "change_p": -1.4798
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4525,
+        "totalAssets": 0.1284,
+        "currentShares": 1332458,
+        "change": -17410,
+        "change_p": -1.2898
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.9546,
+    "ForwardPE": 6.3613,
+    "PriceSalesTTM": 0.4957,
+    "PriceBookMRQ": 3.7607,
+    "EnterpriseValue": 95799259725,
+    "EnterpriseValueRevenue": 0.7219,
+    "EnterpriseValueEbitda": 8.2034
+  },
+  "Highlights": {
+    "MarketCapitalization": 66008526848,
+    "MarketCapitalizationMln": 66008.5268,
+    "EBITDA": 9470999552,
+    "PERatio": 16.9546,
+    "PEGRatio": 0.854,
+    "WallStreetTargetPrice": 245.2353,
+    "BookValue": 58.692,
+    "DividendShare": 3.82,
+    "DividendYield": 0.0173,
+    "EarningsShare": 13.22,
+    "EPSEstimateCurrentYear": 21.4942,
+    "EPSEstimateNextYear": 19.6308,
+    "EPSEstimateNextQuarter": 2.1274,
+    "EPSEstimateCurrentQuarter": 2.7109,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0304,
+    "OperatingMarginTTM": 0.0629,
+    "ReturnOnAssetsTTM": 0.0478,
+    "ReturnOnEquityTTM": 0.2419,
+    "RevenueTTM": 133174001664,
+    "RevenuePerShareTTM": 436.636,
+    "QuarterlyRevenueGrowthYOY": -0.012,
+    "GrossProfitTTM": 13728000000,
+    "DilutedEpsTTM": 13.22,
+    "QuarterlyEarningsGrowthYOY": 3.507
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.2,
+    "TotalEsgPercentile": 51.4,
+    "EnvironmentScore": 13.08,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 7.62,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 5.51,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MPC",
+    "Type": "Common Stock",
+    "Name": "Marathon Petroleum Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG001DCCGR8",
+    "ISIN": "US56585A1025",
+    "LEI": "3BNYRYQHD39K4LCKQF12",
+    "PrimaryTicker": "MPC.US",
+    "CUSIP": "56585A102",
+    "CIK": "0001510295",
+    "EmployerIdNumber": "27-1284632",
+    "FiscalYearEnd": "December",
+    "IPODate": "2011-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Refining & Marketing",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Refining & Marketing",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company in the United States. The company operates through three segments: Refining & Marketing; Midstream; and Renewable Diesel. The Refining & Marketing segment refines crude oil and other feedstocks at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the United States; and purchases refined products and ethanol for resale and distributes refined products through transportation, storage, distribution, and marketing services. Its refined products include transportation fuels, such as reformulated gasolines and blend-grade gasolines; heavy fuel oil; and asphalt. This segment also manufactures propane and petrochemicals. The company sells refined products to wholesale marketing customers in the United States and internationally, buyers on the spot market, and independent entrepreneurs who operate primarily Marathon branded outlets, as well as through long-term fuel supply contracts to direct dealer locations primarily under the ARCO brand. The Midstream segment gathers, transports, stores, distributes, and markets crude oil and refined products, including renewable diesel and other hydrocarbon-based products through refining logistics assets, pipelines, terminals, towboats, and barges; gathers, processes, and transports natural gas; and transports, fractionates, stores, and markets natural gas liquids. The Renewable Diesel segment processes renewable feedstocks into renewable diesel, markets, and distributes renewable diesel through its Midstream segment and third parties. It sells renewable diesel to wholesale marketing customers, buyers on the spot market, and through long-term supply contracts to direct dealers under the ARCO brand. Marathon Petroleum Corporation was founded in 1887 and is headquartered in Findlay, Ohio.",
+    "Address": "539 South Main Street, Findlay, OH, United States, 45840-3229",
+    "AddressData": {
+      "Street": "539 South Main Street",
+      "City": "Findlay",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "45840-3229"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Maryann T. Mannen",
+        "Title": "President, CEO & Chairman of the Board",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Ms. Molly R. Benson",
+        "Title": "Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Rick D. Hessling",
+        "Title": "Chief Commercial Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Ms. Maria A. Khoury",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Ms. Kristina Anna Kazarian",
+        "Title": "Vice President of Finance & Investor Relations",
+        "YearBorn": "1983"
+      },
+      "5": {
+        "Name": "Mr. Marlon J. Sullivan",
+        "Title": "Senior VP of Communications & Chief Human Resources Officer",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Mr. Brian K. Partee",
+        "Title": "Chief Business Transformation Officer",
+        "YearBorn": "1974"
+      },
+      "7": {
+        "Name": "Mr. James R. Wilkins",
+        "Title": "Senior Vice President of Health, Environment, Safety & Security",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Mr. David R. Heppner",
+        "Title": "Chief Strategy Officer & Senior VP of Business Development",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Ehren D. Powell",
+        "Title": "Senior VP & Chief Digital Officer",
+        "YearBorn": "1980"
+      }
+    },
+    "Phone": "419 422 2121",
+    "WebURL": "https://www.marathonpetroleum.com",
+    "LogoURL": "/img/logos/US/MPC.png",
+    "FullTimeEmployees": 18500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 294496878,
+    "SharesFloat": 293920786,
+    "PercentInsiders": 0.318,
+    "PercentInstitutions": 77.678,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0249
+  }
+}

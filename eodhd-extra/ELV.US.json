@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.4794,
+        "totalAssets": 0.117,
+        "currentShares": 23019518,
+        "change": 20873,
+        "change_p": 0.0908
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3475,
+        "totalAssets": 0.1162,
+        "currentShares": 20533269,
+        "change": 120566,
+        "change_p": 0.5906
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.71,
+        "totalAssets": 0.1159,
+        "currentShares": 10346169,
+        "change": -222811,
+        "change_p": -2.1082
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.7739,
+        "totalAssets": 0.5093,
+        "currentShares": 8289976,
+        "change": 1668679,
+        "change_p": 25.2017
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.6581,
+        "totalAssets": 0.2018,
+        "currentShares": 5838911,
+        "change": -2246294,
+        "change_p": -27.7828
+      },
+      "5": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.618,
+        "totalAssets": 2.322,
+        "currentShares": 5750865,
+        "change": -18053,
+        "change_p": -0.3129
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3329,
+        "totalAssets": 0.1109,
+        "currentShares": 5124599,
+        "change": -19305,
+        "change_p": -0.3753
+      },
+      "7": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 2.2911,
+        "totalAssets": 2.6413,
+        "currentShares": 5032751,
+        "change": 455946,
+        "change_p": 9.9621
+      },
+      "8": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 2.1826,
+        "totalAssets": 2.1242,
+        "currentShares": 4794445,
+        "change": 1604821,
+        "change_p": 50.3138
+      },
+      "9": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8314,
+        "totalAssets": 2.4818,
+        "currentShares": 4022874,
+        "change": 24271,
+        "change_p": 0.607
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3742,
+        "totalAssets": 0.1132,
+        "currentShares": 3018586,
+        "change": 66152,
+        "change_p": 2.2406
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2217,
+        "totalAssets": 0.0525,
+        "currentShares": 2683650,
+        "change": -355815,
+        "change_p": -11.7065
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1825,
+        "totalAssets": 0.1322,
+        "currentShares": 2597488,
+        "change": 484303,
+        "change_p": 22.9182
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1817,
+        "totalAssets": 0.0569,
+        "currentShares": 2595732,
+        "change": 413143,
+        "change_p": 18.929
+      },
+      "14": {
+        "name": "Grantham, Mayo, Van Otterloo & Co., LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1523,
+        "totalAssets": 2.268,
+        "currentShares": 2531090,
+        "change": 7640,
+        "change_p": 0.3028
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1001,
+        "totalAssets": 0.0234,
+        "currentShares": 2416584,
+        "change": 942877,
+        "change_p": 63.9799
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0862,
+        "totalAssets": 0.1674,
+        "currentShares": 2386059,
+        "change": -593262,
+        "change_p": -19.9127
+      },
+      "17": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0748,
+        "totalAssets": 0.2669,
+        "currentShares": 2360858,
+        "change": -79772,
+        "change_p": -3.2685
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0369,
+        "totalAssets": 0.0942,
+        "currentShares": 2277649,
+        "change": -49779,
+        "change_p": -2.1388
+      },
+      "19": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 1.0358,
+        "totalAssets": 0.6553,
+        "currentShares": 2275342,
+        "change": 61472,
+        "change_p": 2.7767
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1918,
+        "totalAssets": 0.1028,
+        "currentShares": 7011302,
+        "change": 147885,
+        "change_p": 2.1547
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5584,
+        "totalAssets": 0.1156,
+        "currentShares": 5619802,
+        "change": 36295,
+        "change_p": 0.65
+      },
+      "2": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.3725,
+        "totalAssets": 1.6657,
+        "currentShares": 3015006,
+        "change": 1094068,
+        "change_p": 56.9549
+      },
+      "3": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.2951,
+        "totalAssets": 1.1555,
+        "currentShares": 2844869,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2917,
+        "totalAssets": 0.1154,
+        "currentShares": 2837371,
+        "change": -1548,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2875,
+        "totalAssets": 0.1208,
+        "currentShares": 2828270,
+        "change": 4662,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1631,
+        "totalAssets": 0.115,
+        "currentShares": 2554844,
+        "change": -6272,
+        "change_p": -0.2449
+      },
+      "7": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9709,
+        "totalAssets": 1.196,
+        "currentShares": 2132750,
+        "change": -139205,
+        "change_p": -6.1271
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9286,
+        "totalAssets": 0.2646,
+        "currentShares": 2039839,
+        "change": 4893,
+        "change_p": 0.2404
+      },
+      "9": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9048,
+        "totalAssets": 1.7576,
+        "currentShares": 1987633,
+        "change": 287347,
+        "change_p": 16.8999
+      },
+      "10": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.8121,
+        "totalAssets": 2.4339,
+        "currentShares": 1784000,
+        "change": 215000,
+        "change_p": 13.703
+      },
+      "11": {
+        "name": "Loomis Sayles Long Corp Disc Alpha",
+        "date": "2025-12-31",
+        "totalShares": 0.8067,
+        "totalAssets": 0.4595,
+        "currentShares": 1772000,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7344,
+        "totalAssets": 1.216,
+        "currentShares": 1613149,
+        "change": 4896,
+        "change_p": 0.3044
+      },
+      "13": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7174,
+        "totalAssets": 1.0063,
+        "currentShares": 1575784,
+        "change": -64398,
+        "change_p": -3.9263
+      },
+      "14": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.6888,
+        "totalAssets": 0.8654,
+        "currentShares": 1513108,
+        "change": -39287,
+        "change_p": -2.5307
+      },
+      "15": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6719,
+        "totalAssets": 1.2625,
+        "currentShares": 1475879,
+        "change": 1475879,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5661,
+        "totalAssets": 0.1153,
+        "currentShares": 1243429,
+        "change": 14868,
+        "change_p": 1.2102
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5626,
+        "totalAssets": 0.3082,
+        "currentShares": 1235755,
+        "change": 31288,
+        "change_p": 2.5977
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5363,
+        "totalAssets": 0.1142,
+        "currentShares": 1178134,
+        "change": -6560,
+        "change_p": -0.5537
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4538,
+        "totalAssets": 0.1152,
+        "currentShares": 996856,
+        "change": 26606,
+        "change_p": 2.7422
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 14.5961,
+    "ForwardPE": 13.5318,
+    "PriceSalesTTM": 0.3736,
+    "PriceBookMRQ": 1.7129,
+    "EnterpriseValue": 97053902128,
+    "EnterpriseValueRevenue": 0.4859,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 74868908032,
+    "MarketCapitalizationMln": 74868.908,
+    "EBITDA": 8541000192,
+    "PERatio": 14.5961,
+    "PEGRatio": 1.3262,
+    "WallStreetTargetPrice": 382.1905,
+    "BookValue": 198.809,
+    "DividendShare": 6.85,
+    "DividendYield": 0.0198,
+    "EarningsShare": 23.62,
+    "EPSEstimateCurrentYear": 26.3348,
+    "EPSEstimateNextYear": 29.1583,
+    "EPSEstimateNextQuarter": 6.2941,
+    "EPSEstimateCurrentQuarter": 10.8113,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0262,
+    "OperatingMarginTTM": 0.053,
+    "ReturnOnAssetsTTM": 0.0398,
+    "ReturnOnEquityTTM": 0.1209,
+    "RevenueTTM": 200416002048,
+    "RevenuePerShareTTM": 901.354,
+    "QuarterlyRevenueGrowthYOY": 0.026,
+    "GrossProfitTTM": 51889999872,
+    "DilutedEpsTTM": 23.62,
+    "QuarterlyEarningsGrowthYOY": -0.168
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 17.94,
+    "TotalEsgPercentile": 12.86,
+    "EnvironmentScore": 1.55,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 10.27,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.63,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ELV",
+    "Type": "Common Stock",
+    "Name": "Elevance Health Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCG930",
+    "ISIN": "US0367521038",
+    "LEI": "8MYN82XMYQH89CTMTH67",
+    "PrimaryTicker": "ELV.US",
+    "CUSIP": "03674B203",
+    "CIK": "0001156039",
+    "EmployerIdNumber": "35-2145715",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Managed Health Care",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Elevance Health, Inc., together with its subsidiaries, operates as a health benefits company in the United States. The company operates in four segments: Health Benefits, CarelonRx, Carelon Services, and Corporate & Other. It offers a variety of health plans and services to individual, employer group risk-based and fee-based, BlueCard, Medicare, Medicaid, and FEP members; health products; a broad array of fee-based administrative managed care services; and specialty and other insurance products and services, such as stop loss, dental, vision, and supplemental health insurance benefits. The company also operates in the pharmacy services business; and markets and offers pharmacy services, including home delivery and specialty pharmacies, claims adjudication, formulary management, pharmacy networks, rebate administration, a prescription drug database, and member services, as well as infusion services and injectable therapies through ambulatory infusion centers. In addition, it provides healthcare related services and capabilities, including specialty care enablement and utilization management support for specialized clinical domains; behavioral health and comprehensive care management services; palliative care services and management; virtual care; and payment integrity, subrogation, clinical data exchange through its HealthOS platform, research and data, reporting and clinical analytics, information technology, and business process support services, as well as manages home health, post-acute institutional management, and durable medical equipment costs; and supports plans in managing home and community-based services. The company provides its services under the Anthem Blue Cross and Blue Shield, Wellpoint, and Carelon brands. The company was formerly known as Anthem, Inc. and changed its name to Elevance Health, Inc. in June 2022. Elevance Health, Inc. was incorporated in 2001 and is based in Indianapolis, Indiana.",
+    "Address": "220 Virginia Avenue, Indianapolis, IN, United States, 46204",
+    "AddressData": {
+      "Street": "220 Virginia Avenue",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Country": "United States",
+      "ZIP": "46204"
+    },
+    "Listings": {
+      "0": {
+        "Code": "A58",
+        "Exchange": "F",
+        "Name": "Anthem Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Gail Koziara Boudreaux",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Mark Bradley Kaye",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1980"
+      },
+      "2": {
+        "Name": "Mr. Peter David Haytaian Esq.",
+        "Title": "Executive VP and President of Carelon & CarelonRx",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Charles Morgan Kendrick Jr.",
+        "Title": "EVP and President of Commercial & Specialty Health Benefits",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Felicia Farr Norwood",
+        "Title": "Executive VP & Chief Health Benefits Officer",
+        "YearBorn": "1960"
+      },
+      "5": {
+        "Name": "Mr. Scott Wayne Anglin",
+        "Title": "SVP, Treasurer & Chief Investment Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Ronald William Penczek",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Mr. Nathan Allen Rich",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Erin M. Wessling",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1978"
+      },
+      "9": {
+        "Name": "Ms. Julie  Goon",
+        "Title": "Senior Vice President of Public Affairs",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "833 401 1577",
+    "WebURL": "https://www.elevancehealth.com",
+    "LogoURL": "/img/logos/US/ELV.png",
+    "FullTimeEmployees": 96129,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 217162380,
+    "SharesFloat": 216660735,
+    "PercentInsiders": 0.194,
+    "PercentInstitutions": 94.827,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0228
+  }
+}

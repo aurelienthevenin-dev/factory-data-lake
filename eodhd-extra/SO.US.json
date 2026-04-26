@@ -1,0 +1,612 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 12.387,
+        "totalAssets": 0.3964,
+        "currentShares": 139639536,
+        "change": 70675510,
+        "change_p": 102.4817
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.5855,
+        "totalAssets": 0.1366,
+        "currentShares": 108057413,
+        "change": 1643090,
+        "change_p": 1.544
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.7013,
+        "totalAssets": 0.144,
+        "currentShares": 86817041,
+        "change": -357079,
+        "change_p": -0.4096
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.2448,
+        "totalAssets": 0.1943,
+        "currentShares": 59124923,
+        "change": 8388,
+        "change_p": 0.0142
+      },
+      "4": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.6496,
+        "totalAssets": 0.4879,
+        "currentShares": 41142076,
+        "change": 7593224,
+        "change_p": 22.6333
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.5746,
+        "totalAssets": 0.2943,
+        "currentShares": 29023250,
+        "change": 11496694,
+        "change_p": 65.5959
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4181,
+        "totalAssets": 0.147,
+        "currentShares": 27259125,
+        "change": 384860,
+        "change_p": 1.4321
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0408,
+        "totalAssets": 0.1023,
+        "currentShares": 23006431,
+        "change": -1498859,
+        "change_p": -6.1165
+      },
+      "8": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.446,
+        "totalAssets": 0.4584,
+        "currentShares": 16300985,
+        "change": -3509214,
+        "change_p": -17.7142
+      },
+      "9": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2386,
+        "totalAssets": 0.33,
+        "currentShares": 13963021,
+        "change": -52700,
+        "change_p": -0.376
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2384,
+        "totalAssets": 0.0801,
+        "currentShares": 13960682,
+        "change": 1099519,
+        "change_p": 8.5491
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1307,
+        "totalAssets": 0.1189,
+        "currentShares": 12745981,
+        "change": -100749,
+        "change_p": -0.7842
+      },
+      "12": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 0.9974,
+        "totalAssets": 0.1537,
+        "currentShares": 11244052,
+        "change": -8412251,
+        "change_p": -42.7967
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9379,
+        "totalAssets": 0.1282,
+        "currentShares": 10572493,
+        "change": -13340,
+        "change_p": -0.126
+      },
+      "14": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.9261,
+        "totalAssets": 0.1621,
+        "currentShares": 10440019,
+        "change": -8263339,
+        "change_p": -44.181
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8699,
+        "totalAssets": 0.2135,
+        "currentShares": 9806272,
+        "change": 53162,
+        "change_p": 0.5451
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7664,
+        "totalAssets": 0.0555,
+        "currentShares": 8639357,
+        "change": 270036,
+        "change_p": 3.2265
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7473,
+        "totalAssets": 0.1629,
+        "currentShares": 8424835,
+        "change": -107695,
+        "change_p": -1.2622
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6462,
+        "totalAssets": 0.1239,
+        "currentShares": 7284822,
+        "change": 141010,
+        "change_p": 1.9739
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6111,
+        "totalAssets": 0.0933,
+        "currentShares": 6889152,
+        "change": 78571,
+        "change_p": 1.1537
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1007,
+        "totalAssets": 0.169,
+        "currentShares": 34954451,
+        "change": 142593,
+        "change_p": 0.4096
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4873,
+        "totalAssets": 0.1902,
+        "currentShares": 28039177,
+        "change": -281737,
+        "change_p": -0.9948
+      },
+      "2": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.9794,
+        "totalAssets": 1.521,
+        "currentShares": 22313719,
+        "change": 11809952,
+        "change_p": 112.4354
+      },
+      "3": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.664,
+        "totalAssets": 7.4549,
+        "currentShares": 18758424,
+        "change": -16002,
+        "change_p": -0.0852
+      },
+      "4": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.4617,
+        "totalAssets": 0.6901,
+        "currentShares": 16477707,
+        "change": -976774,
+        "change_p": -5.5961
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2555,
+        "totalAssets": 0.1897,
+        "currentShares": 14153756,
+        "change": -7704,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.243,
+        "totalAssets": 0.1822,
+        "currentShares": 14012945,
+        "change": 23105,
+        "change_p": 0.1652
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1315,
+        "totalAssets": 0.1894,
+        "currentShares": 12755227,
+        "change": -31360,
+        "change_p": -0.2453
+      },
+      "8": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9659,
+        "totalAssets": 0.5271,
+        "currentShares": 10888442,
+        "change": -5589265,
+        "change_p": -33.9202
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.902,
+        "totalAssets": 0.4348,
+        "currentShares": 10168361,
+        "change": -92796,
+        "change_p": -0.9043
+      },
+      "10": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.8175,
+        "totalAssets": 0.3374,
+        "currentShares": 9215791,
+        "change": 3539435,
+        "change_p": 62.354
+      },
+      "11": {
+        "name": "Franklin Income A1",
+        "date": "2026-03-31",
+        "totalShares": 0.7984,
+        "totalAssets": 1.1124,
+        "currentShares": 9000000,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7815,
+        "totalAssets": 1.3995,
+        "currentShares": 8810208,
+        "change": -2364915,
+        "change_p": -21.1623
+      },
+      "13": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7504,
+        "totalAssets": 1.4725,
+        "currentShares": 8459789,
+        "change": -219653,
+        "change_p": -2.5307
+      },
+      "14": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6728,
+        "totalAssets": 6.7507,
+        "currentShares": 7585024,
+        "change": 372669,
+        "change_p": 5.1671
+      },
+      "15": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.6534,
+        "totalAssets": 1.6571,
+        "currentShares": 7365933,
+        "change": 366442,
+        "change_p": 5.2353
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5503,
+        "totalAssets": 0.1897,
+        "currentShares": 6203906,
+        "change": -35672,
+        "change_p": -0.5717
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5214,
+        "totalAssets": 0.1878,
+        "currentShares": 5877826,
+        "change": 8200,
+        "change_p": 0.1397
+      },
+      "18": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.4893,
+        "totalAssets": 1.6698,
+        "currentShares": 5515954,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.4886,
+        "totalAssets": 1.0601,
+        "currentShares": 5507947,
+        "change": -93106,
+        "change_p": -1.6623
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.8495,
+    "ForwardPE": 20.5761,
+    "PriceSalesTTM": 3.5662,
+    "PriceBookMRQ": 2.9394,
+    "EnterpriseValue": 178301128406,
+    "EnterpriseValueRevenue": 6.0333,
+    "EnterpriseValueEbitda": 12.4975
+  },
+  "Highlights": {
+    "MarketCapitalization": 105391652864,
+    "MarketCapitalizationMln": 105391.6529,
+    "EBITDA": 13927000064,
+    "PERatio": 23.8495,
+    "PEGRatio": 2.6746,
+    "WallStreetTargetPrice": 101.8684,
+    "BookValue": 32.179,
+    "DividendShare": 2.94,
+    "DividendYield": 0.0313,
+    "EarningsShare": 3.92,
+    "EPSEstimateCurrentYear": 4.5678,
+    "EPSEstimateNextYear": 4.9177,
+    "EPSEstimateNextQuarter": 1.2701,
+    "EPSEstimateCurrentQuarter": 0.5576,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1469,
+    "OperatingMarginTTM": 0.1274,
+    "ReturnOnAssetsTTM": 0.0328,
+    "ReturnOnEquityTTM": 0.1104,
+    "RevenueTTM": 29553000448,
+    "RevenuePerShareTTM": 26.793,
+    "QuarterlyRevenueGrowthYOY": 0.101,
+    "GrossProfitTTM": 14323999744,
+    "DilutedEpsTTM": 3.92,
+    "QuarterlyEarningsGrowthYOY": -0.221
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.08,
+    "TotalEsgPercentile": 63.54,
+    "EnvironmentScore": 12.26,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 11.85,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 4.97,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SO",
+    "Type": "Common Stock",
+    "Name": "Southern Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BT9DW0",
+    "ISIN": "US8425871071",
+    "LEI": "549300FC3G3YU2FBZD92",
+    "PrimaryTicker": "SO.US",
+    "CUSIP": "842587107",
+    "CIK": "0000092122",
+    "EmployerIdNumber": "58-0690070",
+    "FiscalYearEnd": "December",
+    "IPODate": "1981-12-31",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "The Southern Company, through its subsidiaries, engages in the sale of electricity. The company offers electric service to retail customers and wholesale customers; and energy-related products and services to natural gas choice markets. It also develops, constructs, acquires, owns, operates, and manages power generation assets, as well as battery energy storage projects; sells electricity at market-based rates in the wholesale market; and deploys microgrids for commercial, industrial, governmental, and utility customers. In addition, the company is involved in the distribution of natural gas in Illinois, Georgia, Virginia, and Tennessee; distributes energy and resilience solutions; and invests in telecommunications. The Southern Company was incorporated in 1945 and is headquartered in Atlanta, Georgia.",
+    "Address": "30 Ivan Allen Jr. Boulevard, NW, Atlanta, GA, United States, 30308",
+    "AddressData": {
+      "Street": "30 Ivan Allen Jr. Boulevard, NW",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30308"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SOJA",
+        "Exchange": "US",
+        "Name": "The Southern Company JR SUB NT 2015A"
+      },
+      "1": {
+        "Code": "SOJB",
+        "Exchange": "US",
+        "Name": "The Southern Company JR SUB NT 76"
+      },
+      "2": {
+        "Code": "SOJC",
+        "Exchange": "US",
+        "Name": "Southern Co"
+      },
+      "3": {
+        "Code": "SOJD",
+        "Exchange": "US",
+        "Name": "Southern Co"
+      },
+      "4": {
+        "Code": "SOLN",
+        "Exchange": "US",
+        "Name": "Southern Co"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher C. Womack",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. David P. Poroch",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Stanley W. Connally Jr.",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Daniel S. Tucker",
+        "Title": "Senior Advisor",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Ms. Kimberly Scheibe Greene",
+        "Title": "Chairman, President & CEO of Georgia Power",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. J. Jeffrey Peoples",
+        "Title": "Chairman, President & CEO of Alabama Power Company",
+        "YearBorn": "1960"
+      },
+      "6": {
+        "Name": "Mr. Matthew M. Kim",
+        "Title": "SVP, Comptroller & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Greg  MacLeod",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Sterling A. Spainhour Jr., J.D.",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Ms. Sloane N. Drake",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1977"
+      }
+    },
+    "Phone": "404 506 5000",
+    "WebURL": "https://www.southerncompany.com",
+    "LogoURL": "/img/logos/US/SO.png",
+    "FullTimeEmployees": 29502,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1127304104,
+    "SharesFloat": 1116917436,
+    "PercentInsiders": 0.097,
+    "PercentInstitutions": 72.462,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0241
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3529,
+        "totalAssets": 0.04,
+        "currentShares": 11352312,
+        "change": -91398,
+        "change_p": -0.7987
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.6082,
+        "totalAssets": 0.0477,
+        "currentShares": 9748971,
+        "change": 591309,
+        "change_p": 6.457
+      },
+      "2": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.7822,
+        "totalAssets": 0.9401,
+        "currentShares": 8989880,
+        "change": -4300000,
+        "change_p": -32.3554
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6289,
+        "totalAssets": 0.0412,
+        "currentShares": 4253980,
+        "change": 321737,
+        "change_p": 8.182
+      },
+      "4": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.3745,
+        "totalAssets": 0.5124,
+        "currentShares": 4020169,
+        "change": 496674,
+        "change_p": 14.0961
+      },
+      "5": {
+        "name": "Renaissance Technologies Corp",
+        "date": "2025-12-31",
+        "totalShares": 3.0243,
+        "totalAssets": 1.0475,
+        "currentShares": 2779351,
+        "change": -390920,
+        "change_p": -12.3308
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6341,
+        "totalAssets": 0.0363,
+        "currentShares": 2420750,
+        "change": -29184,
+        "change_p": -1.1912
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.4688,
+        "totalAssets": 0.0384,
+        "currentShares": 2268793,
+        "change": 9410,
+        "change_p": 0.4165
+      },
+      "8": {
+        "name": "Ninety One UK Limited",
+        "date": "2025-12-31",
+        "totalShares": 2.253,
+        "totalAssets": 1.0785,
+        "currentShares": 2070523,
+        "change": -2149615,
+        "change_p": -50.9371
+      },
+      "9": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.4607,
+        "totalAssets": 0.191,
+        "currentShares": 1342349,
+        "change": -38952,
+        "change_p": -2.82
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4014,
+        "totalAssets": 0.0335,
+        "currentShares": 1287918,
+        "change": 248273,
+        "change_p": 23.8806
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3538,
+        "totalAssets": 0.0548,
+        "currentShares": 1244148,
+        "change": -133037,
+        "change_p": -9.6601
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1417,
+        "totalAssets": 0.0375,
+        "currentShares": 1049235,
+        "change": 44743,
+        "change_p": 4.4543
+      },
+      "13": {
+        "name": "Point72 Asset Management, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.0661,
+        "totalAssets": 0.2662,
+        "currentShares": 979716,
+        "change": -28070,
+        "change_p": -2.7853
+      },
+      "14": {
+        "name": "Jacobs Levy Equity Management, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0576,
+        "totalAssets": 0.9118,
+        "currentShares": 971965,
+        "change": 138004,
+        "change_p": 16.548
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0457,
+        "totalAssets": 0.0286,
+        "currentShares": 960991,
+        "change": 71570,
+        "change_p": 8.0468
+      },
+      "16": {
+        "name": "Robeco Institutional Asset Management BV",
+        "date": "2025-12-31",
+        "totalShares": 1.0149,
+        "totalAssets": 0.3227,
+        "currentShares": 932690,
+        "change": -32910,
+        "change_p": -3.4082
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.859,
+        "totalAssets": 0.0066,
+        "currentShares": 789390,
+        "change": 395975,
+        "change_p": 100.6507
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7821,
+        "totalAssets": 0.0387,
+        "currentShares": 718734,
+        "change": 43126,
+        "change_p": 6.3833
+      },
+      "19": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 0.7746,
+        "totalAssets": 0.1327,
+        "currentShares": 711872,
+        "change": -220536,
+        "change_p": -23.6523
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8524,
+        "totalAssets": 0.0326,
+        "currentShares": 2621352,
+        "change": -15547,
+        "change_p": -0.5896
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2871,
+        "totalAssets": 0.0367,
+        "currentShares": 2101881,
+        "change": -43252,
+        "change_p": -2.0163
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.94,
+        "totalAssets": 0.2228,
+        "currentShares": 1782871,
+        "change": -30444,
+        "change_p": -1.6789
+      },
+      "3": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1896,
+        "totalAssets": 0.0854,
+        "currentShares": 1093233,
+        "change": -64148,
+        "change_p": -5.5425
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1553,
+        "totalAssets": 0.0323,
+        "currentShares": 1061756,
+        "change": 1754,
+        "change_p": 0.1655
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1542,
+        "totalAssets": 0.0366,
+        "currentShares": 1060703,
+        "change": -576,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0485,
+        "totalAssets": 0.1967,
+        "currentShares": 963571,
+        "change": -1042,
+        "change_p": -0.108
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0355,
+        "totalAssets": 0.0364,
+        "currentShares": 951628,
+        "change": -2352,
+        "change_p": -0.2465
+      },
+      "8": {
+        "name": "Ninety One Global Franchise",
+        "date": "2025-12-31",
+        "totalShares": 0.9963,
+        "totalAssets": 2.3978,
+        "currentShares": 915576,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Ninety One GSF Glb Frchs I Acc USD",
+        "date": "2025-12-31",
+        "totalShares": 0.9963,
+        "totalAssets": 2.3978,
+        "currentShares": 915576,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8017,
+        "totalAssets": 0.2145,
+        "currentShares": 736734,
+        "change": 2227,
+        "change_p": 0.3032
+      },
+      "11": {
+        "name": "BGF Systematic Glbl Eq Hi Inc A2",
+        "date": "2025-12-31",
+        "totalShares": 0.7583,
+        "totalAssets": 1.44,
+        "currentShares": 696848,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Calvert Equity A",
+        "date": "2026-02-28",
+        "totalShares": 0.7425,
+        "totalAssets": 3.6827,
+        "currentShares": 682388,
+        "change": 161856,
+        "change_p": 31.0943
+      },
+      "13": {
+        "name": "iShares MSCI USA Min Vol Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7092,
+        "totalAssets": 0.7184,
+        "currentShares": 651717,
+        "change": -804,
+        "change_p": -0.1232
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6831,
+        "totalAssets": 0.5336,
+        "currentShares": 627730,
+        "change": -64991,
+        "change_p": -9.382
+      },
+      "15": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6738,
+        "totalAssets": 0.1824,
+        "currentShares": 619216,
+        "change": 1647,
+        "change_p": 0.2667
+      },
+      "16": {
+        "name": "Trojan O Inc",
+        "date": "2026-02-28",
+        "totalShares": 0.5105,
+        "totalAssets": 1.4972,
+        "currentShares": 469171,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5061,
+        "totalAssets": 0.0366,
+        "currentShares": 465104,
+        "change": -7480,
+        "change_p": -1.5828
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4794,
+        "totalAssets": 0.0362,
+        "currentShares": 440563,
+        "change": -4160,
+        "change_p": -0.9354
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4056,
+        "totalAssets": 0.0366,
+        "currentShares": 372753,
+        "change": -1897,
+        "change_p": -0.5063
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 29.7459,
+    "ForwardPE": 29.4985,
+    "PriceSalesTTM": 14.7876,
+    "PriceBookMRQ": 10.819,
+    "EnterpriseValue": 25735400000,
+    "EnterpriseValueRevenue": 15.7276,
+    "EnterpriseValueEbitda": 22.1752
+  },
+  "Highlights": {
+    "MarketCapitalization": 24497201152,
+    "MarketCapitalizationMln": 24497.2012,
+    "EBITDA": 1152199936,
+    "PERatio": 29.7459,
+    "PEGRatio": 2.9762,
+    "WallStreetTargetPrice": 280.75,
+    "BookValue": -23.441,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 9.05,
+    "EPSEstimateCurrentYear": 9.3125,
+    "EPSEstimateNextYear": 10.0906,
+    "EPSEstimateNextQuarter": 2.3114,
+    "EPSEstimateCurrentQuarter": 2.2456,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.4984,
+    "OperatingMarginTTM": 0.6696,
+    "ReturnOnAssetsTTM": 0.5128,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 1656600064,
+    "RevenuePerShareTTM": 17.718,
+    "QuarterlyRevenueGrowthYOY": 0.076,
+    "GrossProfitTTM": 1460300032,
+    "DilutedEpsTTM": 9.05,
+    "QuarterlyEarningsGrowthYOY": 0.118
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.77,
+    "TotalEsgPercentile": 37.16,
+    "EnvironmentScore": 6.08,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 17,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 11.2,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "VRSN",
+    "Type": "Common Stock",
+    "Name": "VeriSign Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BGKHZ3",
+    "ISIN": "US92343E1029",
+    "LEI": "LMPL4N8ZOJRMF0KOF759",
+    "PrimaryTicker": "VRSN.US",
+    "CUSIP": "92343E102",
+    "CIK": "0001014473",
+    "EmployerIdNumber": "94-3221585",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-01-29",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "IT Services",
+    "GicSubIndustry": "Internet Services & Infrastructure",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "VeriSign, Inc., together with its subsidiaries, provides internet infrastructure and domain name registry services that enables internet navigation for various recognized domain names worldwide. The company provides root zone maintainer services, operating two of thirteen internet root servers; and offering registration services and authoritative resolution for the .com and .net domains, which supports global e-commerce. It operates directory for .name and .cc; and back-end systems for .edu, domain names. The company was incorporated in 1995 and is headquartered in Reston, Virginia.",
+    "Address": "12061 Bluemont Way, Reston, VA, United States, 20190",
+    "AddressData": {
+      "Street": "12061 Bluemont Way",
+      "City": "Reston",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "20190"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. D. James Bidzos",
+        "Title": "Executive Chairman, CEO & President",
+        "YearBorn": "1955"
+      },
+      "1": {
+        "Name": "Mr. John D. Calys",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1959"
+      },
+      "2": {
+        "Name": "Mr. Thomas C. Indelicarto J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Danny R. McPherson",
+        "Title": "Executive VP of Technology & Chief Security Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Dr. Burt  Kaliski Jr.",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. David  Atchley CFA",
+        "Title": "VP,  Treasury & Investor Relations",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. Ebrahim  Keshavarz",
+        "Title": "Senior Vice President of Marketing, Product & Channel Management",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Ellen  Petrocci",
+        "Title": "Senior VP of Human Resources & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Patrick S. Kane",
+        "Title": "Senior Vice President of Naming & Registry Services",
+        "YearBorn": "1962"
+      },
+      "9": {
+        "Name": "Mr. Scott T. Schnell",
+        "Title": "Senior VP & Executive Strategic Advisor",
+        "YearBorn": "1958"
+      }
+    },
+    "Phone": "703 948 3200",
+    "WebURL": "https://www.verisign.com",
+    "LogoURL": "/img/logos/US/VRSN.png",
+    "FullTimeEmployees": 926,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 91000000,
+    "SharesFloat": 91120456,
+    "PercentInsiders": 10.561,
+    "PercentInstitutions": 90.95100000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0285
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.1328,
+        "totalAssets": 0.0392,
+        "currentShares": 26401666,
+        "change": 7943,
+        "change_p": 0.0301
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.4804,
+        "totalAssets": 0.0371,
+        "currentShares": 20629947,
+        "change": -340333,
+        "change_p": -1.6229
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.4862,
+        "totalAssets": 0.0502,
+        "currentShares": 14114267,
+        "change": -396004,
+        "change_p": -2.7291
+      },
+      "3": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.0303,
+        "totalAssets": 0.1101,
+        "currentShares": 8770071,
+        "change": 6740172,
+        "change_p": 332.0447
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7103,
+        "totalAssets": 0.1284,
+        "currentShares": 8073846,
+        "change": 143109,
+        "change_p": 1.8045
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7904,
+        "totalAssets": 0.0382,
+        "currentShares": 6072142,
+        "change": -2248,
+        "change_p": -0.037
+      },
+      "6": {
+        "name": "Fayez Sarofim & Company",
+        "date": "2025-12-31",
+        "totalShares": 2.1765,
+        "totalAssets": 1.1638,
+        "currentShares": 4736286,
+        "change": -309150,
+        "change_p": -6.1273
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5576,
+        "totalAssets": 0.0548,
+        "currentShares": 3389420,
+        "change": -55300,
+        "change_p": -1.6054
+      },
+      "8": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.5077,
+        "totalAssets": 0.2441,
+        "currentShares": 3280854,
+        "change": 1832231,
+        "change_p": 126.4809
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3635,
+        "totalAssets": 0.0184,
+        "currentShares": 2967103,
+        "change": -54499,
+        "change_p": -1.8036
+      },
+      "10": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.2414,
+        "totalAssets": 0.0454,
+        "currentShares": 2701419,
+        "change": -1772081,
+        "change_p": -39.6129
+      },
+      "11": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.2339,
+        "totalAssets": 0.0432,
+        "currentShares": 2685105,
+        "change": -210461,
+        "change_p": -7.2684
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1622,
+        "totalAssets": 0.0332,
+        "currentShares": 2529116,
+        "change": 152451,
+        "change_p": 6.4145
+      },
+      "13": {
+        "name": "Provident Trust Company",
+        "date": "2025-12-31",
+        "totalShares": 1.1226,
+        "totalAssets": 4.1856,
+        "currentShares": 2442945,
+        "change": -116111,
+        "change_p": -4.5373
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1099,
+        "totalAssets": 0.0538,
+        "currentShares": 2415116,
+        "change": -408285,
+        "change_p": -14.4608
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9627,
+        "totalAssets": 0.0064,
+        "currentShares": 2094796,
+        "change": 1051406,
+        "change_p": 100.7683
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9591,
+        "totalAssets": 0.0448,
+        "currentShares": 2087054,
+        "change": -3195,
+        "change_p": -0.1529
+      },
+      "17": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9505,
+        "totalAssets": 0.057,
+        "currentShares": 2068316,
+        "change": 1014165,
+        "change_p": 96.2068
+      },
+      "18": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8908,
+        "totalAssets": 0.0997,
+        "currentShares": 1938380,
+        "change": -117583,
+        "change_p": -5.7191
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8607,
+        "totalAssets": 0.0425,
+        "currentShares": 1873009,
+        "change": -332687,
+        "change_p": -15.0831
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1769,
+        "totalAssets": 0.0312,
+        "currentShares": 6913127,
+        "change": 22366,
+        "change_p": 0.3246
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5575,
+        "totalAssets": 0.0353,
+        "currentShares": 5565349,
+        "change": -48215,
+        "change_p": -0.8589
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2512,
+        "totalAssets": 0.5176,
+        "currentShares": 4898644,
+        "change": 8096,
+        "change_p": 0.1655
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1648,
+        "totalAssets": 0.2137,
+        "currentShares": 4710753,
+        "change": -32403,
+        "change_p": -0.6832
+      },
+      "4": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.0595,
+        "totalAssets": 1.8124,
+        "currentShares": 4481595,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2763,
+        "totalAssets": 0.0351,
+        "currentShares": 2777350,
+        "change": 4585,
+        "change_p": 0.1654
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2707,
+        "totalAssets": 0.0346,
+        "currentShares": 2765139,
+        "change": -1500,
+        "change_p": -0.0542
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1732,
+        "totalAssets": 0.0354,
+        "currentShares": 2552989,
+        "change": -6223,
+        "change_p": -0.2432
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9563,
+        "totalAssets": 0.9071,
+        "currentShares": 2080979,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9262,
+        "totalAssets": 0.0805,
+        "currentShares": 2015483,
+        "change": -16028,
+        "change_p": -0.789
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8933,
+        "totalAssets": 0.2054,
+        "currentShares": 1943768,
+        "change": 5764,
+        "change_p": 0.2974
+      },
+      "11": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.7158,
+        "totalAssets": 1.2712,
+        "currentShares": 1557517,
+        "change": -741,
+        "change_p": -0.0476
+      },
+      "12": {
+        "name": "First Trust Capital Strength ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7011,
+        "totalAssets": 1.751,
+        "currentShares": 1525544,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6868,
+        "totalAssets": 0.2791,
+        "currentShares": 1494417,
+        "change": 2541,
+        "change_p": 0.1703
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6519,
+        "totalAssets": 0.368,
+        "currentShares": 1418544,
+        "change": 56470,
+        "change_p": 4.1459
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5667,
+        "totalAssets": 0.0352,
+        "currentShares": 1233256,
+        "change": -4363,
+        "change_p": -0.3525
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5363,
+        "totalAssets": 0.0348,
+        "currentShares": 1166941,
+        "change": 3600,
+        "change_p": 0.3095
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4537,
+        "totalAssets": 0.0351,
+        "currentShares": 987284,
+        "change": 7253,
+        "change_p": 0.7401
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4019,
+        "totalAssets": 0.0386,
+        "currentShares": 874529,
+        "change": -7108,
+        "change_p": -0.8062
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4019,
+        "totalAssets": 0.0386,
+        "currentShares": 874529,
+        "change": 874529,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 10.7208,
+    "ForwardPE": 9.8717,
+    "PriceSalesTTM": 2.9532,
+    "PriceBookMRQ": 1.9935,
+    "EnterpriseValue": 18718610095,
+    "EnterpriseValueRevenue": 2.559,
+    "EnterpriseValueEbitda": 6.0718
+  },
+  "Highlights": {
+    "MarketCapitalization": 21602299904,
+    "MarketCapitalizationMln": 21602.2999,
+    "EBITDA": 2844300032,
+    "PERatio": 10.7208,
+    "PEGRatio": 12.3437,
+    "WallStreetTargetPrice": 94.25,
+    "BookValue": 49.688,
+    "DividendShare": 5.08,
+    "DividendYield": 0.0511,
+    "EarningsShare": 9.24,
+    "EPSEstimateCurrentYear": 9.4581,
+    "EPSEstimateNextYear": 9.5599,
+    "EPSEstimateNextQuarter": 2.4752,
+    "EPSEstimateCurrentQuarter": 2.4644,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2853,
+    "OperatingMarginTTM": 0.3222,
+    "ReturnOnAssetsTTM": 0.1065,
+    "ReturnOnEquityTTM": 0.1879,
+    "RevenueTTM": 7314800128,
+    "RevenuePerShareTTM": 33.249,
+    "QuarterlyRevenueGrowthYOY": 0.06,
+    "GrossProfitTTM": 3750299904,
+    "DilutedEpsTTM": 9.24,
+    "QuarterlyEarningsGrowthYOY": 0.036
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.26,
+    "TotalEsgPercentile": 36.64,
+    "EnvironmentScore": 5.96,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 16.13,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 11.17,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TROW",
+    "Type": "Common Stock",
+    "Name": "T. Rowe Price Group Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BVMPN3",
+    "ISIN": "US74144T1088",
+    "LEI": "549300SIV6FPS9Y7IH33",
+    "PrimaryTicker": "TROW.US",
+    "CUSIP": "741477103",
+    "CIK": "0001113169",
+    "EmployerIdNumber": "52-2264646",
+    "FiscalYearEnd": "December",
+    "IPODate": "1989-09-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Asset Management & Custody Banks",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "T. Rowe Price Group, Inc. is a publicly owned investment manager. The firm provides its services to individuals, institutional investors, retirement plans, financial intermediaries, and institutions. It launches and manages equity and fixed income mutual funds. The firm invests in the public equity and fixed income markets across the globe. It employs fundamental and quantitative analysis with a bottom-up approach. The firm utilizes in-house and external research to make its investments. It employs socially responsible investing with a focus on environmental, social, and governance issues. It makes investment in late-stage venture capital transactions and usually invests between $3 million and $5 million. The firm was previously known as T. Rowe Group, Inc. and T. Rowe Price Associates, Inc. T. Rowe Price Group, Inc. was founded in 1937 and is based in Baltimore, Maryland, with additional offices in North America, Europe, Asia, Australia.",
+    "Address": "1307 Point Street, Baltimore, MD, United States, 21231",
+    "AddressData": {
+      "Street": "1307 Point Street",
+      "City": "Baltimore",
+      "State": "MD",
+      "Country": "United States",
+      "ZIP": "21231"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert W. Sharps C.F.A., CPA",
+        "Title": "President, CEO & Chair of the Board",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Glenn Russell August",
+        "Title": "Founder, VP & Director",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Ms. Jennifer Benson Dardis",
+        "Title": "VP, CFO & Treasurer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Sébastien  Page C.F.A.",
+        "Title": "Head of Global Multi-Asset, VP & Chief Investment Officer",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Eric Lanoue Veiel C.F.A.",
+        "Title": "Head of Global Investments & Chief Investment Officer",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Ms. Jessica M. Hiebler",
+        "Title": "Principal Accounting Officer, Controller & VP",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Mr. Ramon  Richards",
+        "Title": "CTO, Global Head of Technology, Data & Operations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Linsley  Carruth",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Mr. David  Oestreicher Esq., J.D.",
+        "Title": "General Counsel & Corporate Secretary",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Thomas  Pedersen",
+        "Title": "Managing Director of Sales & Client Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "410 345 2000",
+    "WebURL": "https://www.troweprice.com",
+    "LogoURL": "/img/logos/US/TROW.png",
+    "FullTimeEmployees": 7773,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 217605891,
+    "SharesFloat": 213763780,
+    "PercentInsiders": 1.78,
+    "PercentInstitutions": 87.027,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1289
+  }
+}

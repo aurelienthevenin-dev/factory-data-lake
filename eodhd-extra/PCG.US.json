@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9987,
+        "totalAssets": 0.0616,
+        "currentShares": 264237462,
+        "change": 2719807,
+        "change_p": 1.04
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.0059,
+        "totalAssets": 0.0524,
+        "currentShares": 198328901,
+        "change": -7817779,
+        "change_p": -3.7923
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.3712,
+        "totalAssets": 0.062,
+        "currentShares": 118286740,
+        "change": 992672,
+        "change_p": 0.8463
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.2562,
+        "totalAssets": 0.0948,
+        "currentShares": 115753262,
+        "change": -7528802,
+        "change_p": -6.107
+      },
+      "4": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 5.2497,
+        "totalAssets": 0.5991,
+        "currentShares": 115610105,
+        "change": -7810626,
+        "change_p": -6.3285
+      },
+      "5": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.3986,
+        "totalAssets": 0.6309,
+        "currentShares": 74844566,
+        "change": 28254553,
+        "change_p": 60.6451
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.072,
+        "totalAssets": 0.0306,
+        "currentShares": 67651798,
+        "change": 9865751,
+        "change_p": 17.0729
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8214,
+        "totalAssets": 0.0629,
+        "currentShares": 62134132,
+        "change": 1132249,
+        "change_p": 1.8561
+      },
+      "8": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.9201,
+        "totalAssets": 0.2213,
+        "currentShares": 42284395,
+        "change": 2207297,
+        "change_p": 5.5076
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6776,
+        "totalAssets": 0.0596,
+        "currentShares": 36944302,
+        "change": -551856,
+        "change_p": -1.4718
+      },
+      "10": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.6389,
+        "totalAssets": 0.125,
+        "currentShares": 36092371,
+        "change": -656841,
+        "change_p": -1.7874
+      },
+      "11": {
+        "name": "Third Point, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5575,
+        "totalAssets": 7.577,
+        "currentShares": 34300000,
+        "change": -15800000,
+        "change_p": -31.5369
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5038,
+        "totalAssets": 0.0569,
+        "currentShares": 33116646,
+        "change": 2874988,
+        "change_p": 9.5067
+      },
+      "13": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.4782,
+        "totalAssets": 0.0966,
+        "currentShares": 32552391,
+        "change": -36378413,
+        "change_p": -52.7753
+      },
+      "14": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2722,
+        "totalAssets": 0.1211,
+        "currentShares": 28016964,
+        "change": 14605629,
+        "change_p": 108.9051
+      },
+      "15": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2149,
+        "totalAssets": 1.4318,
+        "currentShares": 26754400,
+        "change": 17452310,
+        "change_p": 187.6171
+      },
+      "16": {
+        "name": "Sessa Capital, L.P",
+        "date": "2025-12-31",
+        "totalShares": 1.1161,
+        "totalAssets": 7.3832,
+        "currentShares": 24578101,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0748,
+        "totalAssets": 0.0844,
+        "currentShares": 23669127,
+        "change": 177751,
+        "change_p": 0.7567
+      },
+      "18": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0629,
+        "totalAssets": 0.0239,
+        "currentShares": 23408010,
+        "change": 1724356,
+        "change_p": 7.9523
+      },
+      "19": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 0.9654,
+        "totalAssets": 0.2285,
+        "currentShares": 21259243,
+        "change": -721226,
+        "change_p": -3.2812
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0882,
+        "totalAssets": 0.0599,
+        "currentShares": 68008595,
+        "change": 301258,
+        "change_p": 0.4449
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5414,
+        "totalAssets": 0.0691,
+        "currentShares": 55967823,
+        "change": -563456,
+        "change_p": -0.9967
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0998,
+        "totalAssets": 0.4089,
+        "currentShares": 46242276,
+        "change": -281571,
+        "change_p": -0.6052
+      },
+      "3": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.8103,
+        "totalAssets": 1.1671,
+        "currentShares": 39867593,
+        "change": -1629247,
+        "change_p": -3.9262
+      },
+      "4": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.7383,
+        "totalAssets": 1.3,
+        "currentShares": 38281889,
+        "change": -993967,
+        "change_p": -2.5307
+      },
+      "5": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7003,
+        "totalAssets": 2.7089,
+        "currentShares": 37444651,
+        "change": -31950,
+        "change_p": -0.0853
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.283,
+        "totalAssets": 0.0689,
+        "currentShares": 28253578,
+        "change": -15384,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2701,
+        "totalAssets": 0.0709,
+        "currentShares": 27971156,
+        "change": 46104,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1603,
+        "totalAssets": 0.0691,
+        "currentShares": 25551962,
+        "change": -62622,
+        "change_p": -0.2445
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8984,
+        "totalAssets": 0.154,
+        "currentShares": 19783773,
+        "change": -145219,
+        "change_p": -0.7287
+      },
+      "10": {
+        "name": "Franklin Utilities A1",
+        "date": "2026-03-31",
+        "totalShares": 0.7175,
+        "totalAssets": 3.5815,
+        "currentShares": 15800000,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Fidelity Low-Priced Stock",
+        "date": "2026-01-31",
+        "totalShares": 0.7137,
+        "totalAssets": 1.0198,
+        "currentShares": 15716318,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Pictet Glbl Sel Fd Glbl Utilities Eq P",
+        "date": "2025-12-31",
+        "totalShares": 0.7031,
+        "totalAssets": 3.4032,
+        "currentShares": 15483871,
+        "change": -170781,
+        "change_p": -1.0909
+      },
+      "13": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6875,
+        "totalAssets": 2.4529,
+        "currentShares": 15140429,
+        "change": 170992,
+        "change_p": 1.1423
+      },
+      "14": {
+        "name": "VanEck Uranium & Nuclear ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6586,
+        "totalAssets": 5.732,
+        "currentShares": 14504620,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6323,
+        "totalAssets": 0.7042,
+        "currentShares": 13924208,
+        "change": 564213,
+        "change_p": 4.2232
+      },
+      "16": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.605,
+        "totalAssets": 0.1217,
+        "currentShares": 13324185,
+        "change": -23371104,
+        "change_p": -63.6897
+      },
+      "17": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.5705,
+        "totalAssets": 0.4628,
+        "currentShares": 12562973,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5623,
+        "totalAssets": 0.0689,
+        "currentShares": 12383763,
+        "change": -62470,
+        "change_p": -0.5019
+      },
+      "19": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.5618,
+        "totalAssets": 0.1064,
+        "currentShares": 12372601,
+        "change": 489375,
+        "change_p": 4.1182
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 12.876,
+    "ForwardPE": 10.2354,
+    "PriceSalesTTM": 1.416,
+    "PriceBookMRQ": 1.1703,
+    "EnterpriseValue": 100452442172,
+    "EnterpriseValueRevenue": 3.8885,
+    "EnterpriseValueEbitda": 9.6081
+  },
+  "Highlights": {
+    "MarketCapitalization": 36578951168,
+    "MarketCapitalizationMln": 36578.9512,
+    "EBITDA": 10275000320,
+    "PERatio": 12.876,
+    "PEGRatio": 0.7308,
+    "WallStreetTargetPrice": 22.8438,
+    "BookValue": 14.086,
+    "DividendShare": 0.125,
+    "DividendYield": 0.0074,
+    "EarningsShare": 1.29,
+    "EPSEstimateCurrentYear": 1.6474,
+    "EPSEstimateNextYear": 1.8038,
+    "EPSEstimateNextQuarter": 0.3613,
+    "EPSEstimateCurrentQuarter": 0.4013,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1101,
+    "OperatingMarginTTM": 0.2285,
+    "ReturnOnAssetsTTM": 0.0251,
+    "ReturnOnEquityTTM": 0.0883,
+    "RevenueTTM": 25833000960,
+    "RevenuePerShareTTM": 11.753,
+    "QuarterlyRevenueGrowthYOY": 0.15,
+    "GrossProfitTTM": 10165999616,
+    "DilutedEpsTTM": 1.29,
+    "QuarterlyEarningsGrowthYOY": 0.41
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 46.8,
+    "TotalEsgPercentile": 92.28,
+    "EnvironmentScore": 8.8,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 28.37,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 12.13,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 5,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PCG",
+    "Type": "Common Stock",
+    "Name": "PG&E Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQWPC5",
+    "ISIN": "US69331C1080",
+    "LEI": "8YQ2GSDWYZXO2EDN3511",
+    "PrimaryTicker": "PCG.US",
+    "CUSIP": "69331C108",
+    "CIK": "0001004980",
+    "EmployerIdNumber": "94-3234914",
+    "FiscalYearEnd": "December",
+    "IPODate": "1972-06-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "PG&E Corporation, through its subsidiary, Pacific Gas and Electric Company, engages in the sale and delivery of electricity and natural gas to customers in northern and central California, the United States. It generates electricity using nuclear, hydroelectric, fossil fuel-fired, fuel cells, and photovoltaic sources. The company owns and operates interconnected transmission lines; electric transmission substations, distribution lines, switching and distribution substations; and natural gas transmission, storage, and distribution systems consisting of distribution pipelines, backbone and local transmission pipelines, and various storage facilities. It serves residential, commercial, industrial, and agricultural customers, as well as natural gas-fired electric generation facilities. The company was incorporated in 1995 and is based in Oakland, California.",
+    "Address": "300 Lakeside Drive, Oakland, CA, United States, 94612",
+    "AddressData": {
+      "Street": "300 Lakeside Drive",
+      "City": "Oakland",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94612"
+    },
+    "Listings": {
+      "0": {
+        "Code": "PCGU",
+        "Exchange": "US",
+        "Name": "PG&E Corp"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Patricia Kessler Poppe",
+        "Title": "CEO & Director",
+        "YearBorn": "1969"
+      },
+      "1": {
+        "Name": "Ms. Carolyn J. Burke",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Ajay  Waghray",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. John R. Simon",
+        "Title": "Executive VP, General Counsel and Chief Ethics & Compliance Officer",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Alejandro T. Vallejo",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Jason M. Glickman",
+        "Title": "Executive Vice President of Strategy & Growth",
+        "YearBorn": "1982"
+      },
+      "6": {
+        "Name": "Ms. Marlene M. Santos",
+        "Title": "Chief Transformation Officer & Executive VP of Enterprise Transformation Office",
+        "YearBorn": "1962"
+      },
+      "7": {
+        "Name": "Mr. Sumeet  Singh",
+        "Title": "CEO of Pacific Gas and Electric Company and Executive VP of Energy Delivery",
+        "YearBorn": "1979"
+      },
+      "8": {
+        "Name": "Ms. Stephanie N. Williams",
+        "Title": "VP & Controller",
+        "YearBorn": "1983"
+      },
+      "9": {
+        "Name": "Ms. Carla J. Peterman",
+        "Title": "President & Executive VP of Customer & Corporate Affairs",
+        "YearBorn": "1979"
+      }
+    },
+    "Phone": "415 973 1000",
+    "WebURL": "https://www.pgecorp.com",
+    "LogoURL": "/img/logos/US/pcg.png",
+    "FullTimeEmployees": 29010,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2202224728,
+    "SharesFloat": 2671446019,
+    "PercentInsiders": 0.21,
+    "PercentInstitutions": 99.465,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0
+  }
+}

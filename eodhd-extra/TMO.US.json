@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.1851,
+        "totalAssets": 0.2868,
+        "currentShares": 34133702,
+        "change": 288296,
+        "change_p": 0.8518
+      },
+      "1": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 8.4789,
+        "totalAssets": 2.6854,
+        "currentShares": 31509332,
+        "change": 31455105,
+        "change_p": 58006.3529
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9752,
+        "totalAssets": 0.2517,
+        "currentShares": 29637636,
+        "change": 2307628,
+        "change_p": 8.4436
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4088,
+        "totalAssets": 0.2758,
+        "currentShares": 16384131,
+        "change": -96834,
+        "change_p": -0.5876
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.9144,
+        "totalAssets": 0.2114,
+        "currentShares": 14546618,
+        "change": 5392550,
+        "change_p": 58.9088
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.4234,
+        "totalAssets": 0.3736,
+        "currentShares": 12721912,
+        "change": -155683,
+        "change_p": -1.2089
+      },
+      "6": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.961,
+        "totalAssets": 0.8672,
+        "currentShares": 11003814,
+        "change": 718669,
+        "change_p": 6.9874
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6353,
+        "totalAssets": 0.2893,
+        "currentShares": 9793347,
+        "change": 2199538,
+        "change_p": 28.9649
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2056,
+        "totalAssets": 0.2918,
+        "currentShares": 8196477,
+        "change": 26425,
+        "change_p": 0.3234
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7411,
+        "totalAssets": 0.3358,
+        "currentShares": 6470481,
+        "change": 911822,
+        "change_p": 16.4036
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.5945,
+        "totalAssets": 0.7167,
+        "currentShares": 5925671,
+        "change": 1028125,
+        "change_p": 20.9927
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4452,
+        "totalAssets": 0.1767,
+        "currentShares": 5370699,
+        "change": 1445375,
+        "change_p": 36.8218
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.427,
+        "totalAssets": 0.3287,
+        "currentShares": 5302863,
+        "change": -282434,
+        "change_p": -5.0567
+      },
+      "13": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9612,
+        "totalAssets": 0.3108,
+        "currentShares": 3571857,
+        "change": 1262967,
+        "change_p": 54.7002
+      },
+      "14": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 0.9503,
+        "totalAssets": 1.7674,
+        "currentShares": 3531593,
+        "change": 1027509,
+        "change_p": 41.0333
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9477,
+        "totalAssets": 0.2185,
+        "currentShares": 3521705,
+        "change": -84636,
+        "change_p": -2.3469
+      },
+      "16": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9333,
+        "totalAssets": 0.3522,
+        "currentShares": 3468240,
+        "change": 768780,
+        "change_p": 28.479
+      },
+      "17": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.8309,
+        "totalAssets": 0.5769,
+        "currentShares": 3087666,
+        "change": 150668,
+        "change_p": 5.13
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8253,
+        "totalAssets": 0.218,
+        "currentShares": 3066884,
+        "change": 471128,
+        "change_p": 18.1499
+      },
+      "19": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.7844,
+        "totalAssets": 0.3118,
+        "currentShares": 2914901,
+        "change": -247761,
+        "change_p": -7.8339
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1751,
+        "totalAssets": 0.2905,
+        "currentShares": 11799485,
+        "change": -87497,
+        "change_p": -0.7361
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5743,
+        "totalAssets": 0.3305,
+        "currentShares": 9566560,
+        "change": -97520,
+        "change_p": -1.0091
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2995,
+        "totalAssets": 0.3296,
+        "currentShares": 4829332,
+        "change": -2628,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2866,
+        "totalAssets": 0.3326,
+        "currentShares": 4781351,
+        "change": 7877,
+        "change_p": 0.165
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1716,
+        "totalAssets": 0.3292,
+        "currentShares": 4354066,
+        "change": -10731,
+        "change_p": -0.2459
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9237,
+        "totalAssets": 0.7476,
+        "currentShares": 3432682,
+        "change": -67168,
+        "change_p": -1.9192
+      },
+      "6": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7389,
+        "totalAssets": 3.4756,
+        "currentShares": 2746033,
+        "change": 8320,
+        "change_p": 0.3039
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5717,
+        "totalAssets": 0.3664,
+        "currentShares": 2124402,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5696,
+        "totalAssets": 0.3297,
+        "currentShares": 2116859,
+        "change": -11182,
+        "change_p": -0.5255
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.5625,
+        "totalAssets": 0.3354,
+        "currentShares": 2090506,
+        "change": -33896,
+        "change_p": -1.5956
+      },
+      "10": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5547,
+        "totalAssets": 0.734,
+        "currentShares": 2061202,
+        "change": 12500,
+        "change_p": 0.6101
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5397,
+        "totalAssets": 0.3263,
+        "currentShares": 2005565,
+        "change": 2760,
+        "change_p": 0.1378
+      },
+      "12": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.5146,
+        "totalAssets": 0.5873,
+        "currentShares": 1912235,
+        "change": 114150,
+        "change_p": 6.3484
+      },
+      "13": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.4605,
+        "totalAssets": 1.7733,
+        "currentShares": 1711441,
+        "change": 35435,
+        "change_p": 2.1143
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4566,
+        "totalAssets": 0.3293,
+        "currentShares": 1696947,
+        "change": 9750,
+        "change_p": 0.5779
+      },
+      "15": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4373,
+        "totalAssets": 0.5821,
+        "currentShares": 1625236,
+        "change": 14762,
+        "change_p": 0.9166
+      },
+      "16": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4361,
+        "totalAssets": 2.2641,
+        "currentShares": 1620718,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.4336,
+        "totalAssets": 0.5186,
+        "currentShares": 1611298,
+        "change": -449904,
+        "change_p": -21.8273
+      },
+      "18": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.4185,
+        "totalAssets": 0.29,
+        "currentShares": 1555237,
+        "change": 502449,
+        "change_p": 47.7256
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4011,
+        "totalAssets": 0.3725,
+        "currentShares": 1490443,
+        "change": -24777,
+        "change_p": -1.6352
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.8366,
+    "ForwardPE": 18.8324,
+    "PriceSalesTTM": 3.8621,
+    "PriceBookMRQ": 3.3392,
+    "EnterpriseValue": 214459269945,
+    "EnterpriseValueRevenue": 4.7201,
+    "EnterpriseValueEbitda": 18.2296
+  },
+  "Highlights": {
+    "MarketCapitalization": 174554267648,
+    "MarketCapitalizationMln": 174554.2676,
+    "EBITDA": 11264000000,
+    "PERatio": 25.8366,
+    "PEGRatio": 1.7282,
+    "WallStreetTargetPrice": 639.875,
+    "BookValue": 141.956,
+    "DividendShare": 1.29,
+    "DividendYield": 0.0028,
+    "EarningsShare": 18.18,
+    "EPSEstimateCurrentYear": 24.8828,
+    "EPSEstimateNextYear": 27.3401,
+    "EPSEstimateNextQuarter": 5.8102,
+    "EPSEstimateCurrentQuarter": 5.2428,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1515,
+    "OperatingMarginTTM": 0.1737,
+    "ReturnOnAssetsTTM": 0.0498,
+    "ReturnOnEquityTTM": 0.1352,
+    "RevenueTTM": 45197000704,
+    "RevenuePerShareTTM": 120.365,
+    "QuarterlyRevenueGrowthYOY": 0.062,
+    "GrossProfitTTM": 18470000640,
+    "DilutedEpsTTM": 18.18,
+    "QuarterlyEarningsGrowthYOY": 0.113
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 14.69,
+    "TotalEsgPercentile": 14.7,
+    "EnvironmentScore": 2.11,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 6.69,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 3.38,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TMO",
+    "Type": "Common Stock",
+    "Name": "Thermo Fisher Scientific Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BVDLH9",
+    "ISIN": "US8835561023",
+    "LEI": "HCHV7422L5HDJZCRFL38",
+    "PrimaryTicker": "TMO.US",
+    "CUSIP": "883556201",
+    "CIK": "0000097745",
+    "EmployerIdNumber": "04-2209186",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Life Sciences Tools & Services",
+    "GicSubIndustry": "Life Sciences Tools & Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Thermo Fisher Scientific Inc. provides life sciences solutions, analytical instruments, specialty diagnostics, and laboratory products and biopharma services in the North America, Europe, Asia-Pacific, and internationally. It operates through four segments: Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics, and Laboratory Products and Biopharma Services. The Life Sciences Solutions segment includes reagents, instruments, and consumables for biological and medical research; discovery and production of drugs and vaccines; and diagnosis of infections and diseases. Its Analytical Instruments segment provides instruments, consumables, software, and services for pharmaceutical, biotechnology, academic, government, environmental, and other research and industrial markets, as well as clinical laboratories. The Specialty Diagnostics segment offers clinical diagnostics products, such as liquid ready-to-use and lyophilized immunodiagnostic reagent kits, calibrators, controls, protein detection assays, and instruments; immunodiagnostic offerings comprising developing, manufacturing, and marketing of complete blood-test systems for the clinical diagnosis and monitoring of allergy, asthma and autoimmune diseases; microbiology offerings, such as dehydrated and prepared culture media, collection and transport systems, instrumentation and consumables to detect pathogens in blood, diagnostic and rapid direct specimen tests, quality-control products, and associated products; transplant diagnostics products, including human leukocyte antigen typing and testing for the organ transplant market; and healthcare market channel offerings. Its Laboratory Products and Biopharma Services segment provides laboratory products, research and safety market channel, and pharma services and clinical research. Thermo Fisher Scientific Inc. was founded in 1956 and is headquartered in Waltham, Massachusetts.",
+    "Address": "168 Third Avenue, Waltham, MA, United States, 02451",
+    "AddressData": {
+      "Street": "168 Third Avenue",
+      "City": "Waltham",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02451"
+    },
+    "Listings": {
+      "0": {
+        "Code": "TMOS34",
+        "Exchange": "SA",
+        "Name": "Thermo Fisher Scientific Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Marc N. Casper",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Gianluca  Pettiti",
+        "Title": "President, COO & President of Products and Technologies",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Mr. James R. Meyer",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Joseph R. Holmes",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "4": {
+        "Name": "Mr. Ryan J. Snyder",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Dr. Karen E. Nelson Ph.D.",
+        "Title": "Chief Scientific Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Rafael  Tejada",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Thomas Bailey Shropshire Jr.",
+        "Title": "Senior VP and General Counsel",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Sandy B. Pound",
+        "Title": "VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Alan J. Malus",
+        "Title": "Senior Vice President of Strategy & Corporate Development",
+        "YearBorn": "1960"
+      }
+    },
+    "Phone": "781 622 1000",
+    "WebURL": "https://www.thermofisher.com",
+    "LogoURL": "/img/logos/US/tmo.png",
+    "FullTimeEmployees": 125000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 371621362,
+    "SharesFloat": 371066280,
+    "PercentInsiders": 0.166,
+    "PercentInstitutions": 95.71499999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.011
+  }
+}

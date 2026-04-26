@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 20.7656,
+        "totalAssets": 0.3006,
+        "currentShares": 205943872,
+        "change": 95012894,
+        "change_p": 85.6505
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2545,
+        "totalAssets": 0.0802,
+        "currentShares": 121534530,
+        "change": -2355545,
+        "change_p": -1.9013
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.2051,
+        "totalAssets": 0.0779,
+        "currentShares": 91292292,
+        "change": -1328563,
+        "change_p": -1.4344
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.0974,
+        "totalAssets": 0.1022,
+        "currentShares": 60471824,
+        "change": -1175320,
+        "change_p": -1.9065
+      },
+      "4": {
+        "name": "Cardano",
+        "date": "2025-12-31",
+        "totalShares": 4.9763,
+        "totalAssets": 2.2724,
+        "currentShares": 49353310,
+        "change": 44887481,
+        "change_p": 1005.1321
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.7628,
+        "totalAssets": 0.2925,
+        "currentShares": 47234954,
+        "change": -311434,
+        "change_p": -0.655
+      },
+      "6": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 4.1098,
+        "totalAssets": 1.002,
+        "currentShares": 40759438,
+        "change": -3294050,
+        "change_p": -7.4774
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6431,
+        "totalAssets": 0.0734,
+        "currentShares": 26213363,
+        "change": 204534,
+        "change_p": 0.7864
+      },
+      "8": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.5972,
+        "totalAssets": 0.2165,
+        "currentShares": 25757875,
+        "change": -145366,
+        "change_p": -0.5612
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.2639,
+        "totalAssets": 0.1094,
+        "currentShares": 22452596,
+        "change": -49278,
+        "change_p": -0.219
+      },
+      "10": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.7044,
+        "totalAssets": 1.1525,
+        "currentShares": 16903794,
+        "change": -412564,
+        "change_p": -2.3825
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6162,
+        "totalAssets": 0.0473,
+        "currentShares": 16029201,
+        "change": 135884,
+        "change_p": 0.855
+      },
+      "12": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.6066,
+        "totalAssets": 0.1137,
+        "currentShares": 15933590,
+        "change": 956808,
+        "change_p": 6.3886
+      },
+      "13": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.263,
+        "totalAssets": 0.4927,
+        "currentShares": 12525649,
+        "change": 11243248,
+        "change_p": 876.7342
+      },
+      "14": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.2196,
+        "totalAssets": 0.4123,
+        "currentShares": 12095754,
+        "change": -813577,
+        "change_p": -6.3022
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1859,
+        "totalAssets": 0.1124,
+        "currentShares": 11760981,
+        "change": -48124,
+        "change_p": -0.4075
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1814,
+        "totalAssets": 0.0899,
+        "currentShares": 11716370,
+        "change": -1118164,
+        "change_p": -8.7122
+      },
+      "17": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1686,
+        "totalAssets": 0.0269,
+        "currentShares": 11589296,
+        "change": -1242056,
+        "change_p": -9.6799
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9419,
+        "totalAssets": 0.0582,
+        "currentShares": 9341142,
+        "change": -266167,
+        "change_p": -2.7705
+      },
+      "19": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9367,
+        "totalAssets": 0.7094,
+        "currentShares": 9289649,
+        "change": 871435,
+        "change_p": 10.3518
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1633,
+        "totalAssets": 0.0959,
+        "currentShares": 31372103,
+        "change": 176073,
+        "change_p": 0.5644
+      },
+      "1": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 3.0405,
+        "totalAssets": 1.1475,
+        "currentShares": 30154866,
+        "change": -2807900,
+        "change_p": -8.5184
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5374,
+        "totalAssets": 0.108,
+        "currentShares": 25164970,
+        "change": -216591,
+        "change_p": -0.8533
+      },
+      "3": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3086,
+        "totalAssets": 3.1909,
+        "currentShares": 22895976,
+        "change": 234330,
+        "change_p": 1.034
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1526,
+        "totalAssets": 0.6559,
+        "currentShares": 21348490,
+        "change": -98878,
+        "change_p": -0.461
+      },
+      "5": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.1074,
+        "totalAssets": 0.484,
+        "currentShares": 20900000,
+        "change": 2992494,
+        "change_p": 16.7108
+      },
+      "6": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0915,
+        "totalAssets": 0.3413,
+        "currentShares": 20742565,
+        "change": -69402,
+        "change_p": -0.3335
+      },
+      "7": {
+        "name": "JPMorgan US Equity L",
+        "date": "2026-02-28",
+        "totalShares": 1.4203,
+        "totalAssets": 2.7842,
+        "currentShares": 14086345,
+        "change": -156486,
+        "change_p": -1.0987
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.281,
+        "totalAssets": 0.1077,
+        "currentShares": 12704806,
+        "change": -6912,
+        "change_p": -0.0544
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2662,
+        "totalAssets": 0.1094,
+        "currentShares": 12557933,
+        "change": 20698,
+        "change_p": 0.1651
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1563,
+        "totalAssets": 0.1077,
+        "currentShares": 11467618,
+        "change": -28175,
+        "change_p": -0.2451
+      },
+      "11": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.0816,
+        "totalAssets": 0.4625,
+        "currentShares": 10726438,
+        "change": -2353557,
+        "change_p": -17.9936
+      },
+      "12": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0084,
+        "totalAssets": 0.2187,
+        "currentShares": 10001011,
+        "change": 487977,
+        "change_p": 5.1296
+      },
+      "13": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.9389,
+        "totalAssets": 1.8008,
+        "currentShares": 9311924,
+        "change": 9298888,
+        "change_p": 71332.3719
+      },
+      "14": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9334,
+        "totalAssets": 0.5171,
+        "currentShares": 9257282,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9334,
+        "totalAssets": 0.378,
+        "currentShares": 9257282,
+        "change": -220000,
+        "change_p": -2.3213
+      },
+      "16": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9209,
+        "totalAssets": 0.2471,
+        "currentShares": 9133560,
+        "change": -53364,
+        "change_p": -0.5809
+      },
+      "17": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.8195,
+        "totalAssets": 0.8484,
+        "currentShares": 8127441,
+        "change": -288197,
+        "change_p": -3.4245
+      },
+      "18": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8113,
+        "totalAssets": 2.4752,
+        "currentShares": 8045734,
+        "change": 5536,
+        "change_p": 0.0689
+      },
+      "19": {
+        "name": "American Funds IS® Growth-Income 1",
+        "date": "2026-03-31",
+        "totalShares": 0.6869,
+        "totalAssets": 1.0191,
+        "currentShares": 6812486,
+        "change": -1314955,
+        "change_p": -16.1792
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.0256,
+    "ForwardPE": 25.0627,
+    "PriceSalesTTM": 2.4654,
+    "PriceBookMRQ": 3.2816,
+    "EnterpriseValue": 65358431308,
+    "EnterpriseValueRevenue": 2.3432,
+    "EnterpriseValueEbitda": 12.8053
+  },
+  "Highlights": {
+    "MarketCapitalization": 68371755008,
+    "MarketCapitalizationMln": 68371.755,
+    "EBITDA": 4695000064,
+    "PERatio": 22.0256,
+    "PEGRatio": 3.4852,
+    "WallStreetTargetPrice": 63.4762,
+    "BookValue": 19.086,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 3.13,
+    "EPSEstimateCurrentYear": 2.3933,
+    "EPSEstimateNextYear": 2.8403,
+    "EPSEstimateNextQuarter": 0.5277,
+    "EPSEstimateCurrentQuarter": 0.4936,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0933,
+    "OperatingMarginTTM": 0.1251,
+    "ReturnOnAssetsTTM": 0.0554,
+    "ReturnOnEquityTTM": 0.1455,
+    "RevenueTTM": 27733000192,
+    "RevenuePerShareTTM": 28.07,
+    "QuarterlyRevenueGrowthYOY": 0.003,
+    "GrossProfitTTM": 6566000128,
+    "DilutedEpsTTM": 3.13,
+    "QuarterlyEarningsGrowthYOY": -0.256
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "BKR",
+    "Type": "Common Stock",
+    "Name": "Baker Hughes Co",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00GBVBK51",
+    "ISIN": "US05722G1004",
+    "LEI": "549300XU3XH6F05YEQ93",
+    "PrimaryTicker": "BKR.US",
+    "CUSIP": "05722G100",
+    "CIK": "0001701605",
+    "EmployerIdNumber": "81-4403168",
+    "FiscalYearEnd": "December",
+    "IPODate": "2017-07-05",
+    "InternationalDomestic": null,
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Energy Equipment & Services",
+    "GicSubIndustry": "Oil & Gas Equipment & Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Baker Hughes Company provides a portfolio of technologies and services to energy and industrial value chain. Its Oilfield Services & Equipment segment designs and manufactures exploration, appraisal, development, production, rejuvenation, and decommissioning products and related services for onshore and offshore oilfield operations. This segment also provides drilling services, drill bits, and drilling and completions fluids; completions, intervention, measurements, pressure pumping, and wireline services; artificial lift systems, and oilfield and industrial chemicals; subsea projects and services, flexible pipe systems, and surface pressure control systems; and integrated well services and solutions. It serves oil and natural gas companies; the United States and international independent oil and natural gas companies; national or state-owned oil companies; engineering, procurement, and construction contractors; geothermal companies; and other oilfield service companies. The company's Industrial & Energy Technology segment offers gas technology equipment, such as drivers, driven equipment, and turnkey solutions for the mechanical and electric-drive, compression, and power-generation applications; aftermarket support and uptime gas technology services; non-destructive testing technologies, software, and services; pre-commissioning and maintenance services; flow control and safety solutions; mechanical and electromechanical gear transmission systems; Cordant, a software solution to optimize assets, processes, and energy use; Bently Nevada, a sensing and protection hardware for rack-based vibrating monitoring equipment and sensors; and climate technology solutions. It serves industrial, upstream, midstream, downstream, onshore, offshore, and small-to-large scale customers. The company has a collaboration with Google Cloud to develop advanced AI-enabled power optimization and sustainability solutions for the global data center sector. The company was formerly known as Baker Hughes, a GE company and changed its name t",
+    "Address": "575 North Dairy Ashford Road, Houston, TX, United States, 77079-1121",
+    "AddressData": {
+      "Street": "575 North Dairy Ashford Road",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77079-1121"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Lorenzo  Simonelli",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. Ahmed  Moghal",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1982"
+      },
+      "2": {
+        "Name": "Ms. Georgia M. Magno",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Ms. Maria Claudia Borras",
+        "Title": "Chief Growth & Experience Officer and Interim EVP of Industrial & Energy Technology",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Amerino  Gatti",
+        "Title": "Executive Vice President of Oilfield Services & Equipment",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Ms. Rebecca L. Charlton",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1979"
+      },
+      "6": {
+        "Name": "Mr. Chase  Mulvehill",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Fernando  Contreras",
+        "Title": "VP, Chief Compliance Officer & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Adrienne M.. Lynch",
+        "Title": "Vice President of Brand & External Communications",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Muzzamil Khider Ahmed",
+        "Title": "Chief People & Culture Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "713 439 8600",
+    "WebURL": "https://www.bakerhughes.com",
+    "LogoURL": "/img/logos/US/BKR.png",
+    "FullTimeEmployees": 56000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 991757347,
+    "SharesFloat": 985953684,
+    "PercentInsiders": 0.152,
+    "PercentInstitutions": 102.47999999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0274
+  }
+}

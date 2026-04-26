@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.837,
+        "totalAssets": 0.0261,
+        "currentShares": 9276218,
+        "change": -113877,
+        "change_p": -1.2127
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.5654,
+        "totalAssets": 0.0145,
+        "currentShares": 6191145,
+        "change": -340245,
+        "change_p": -5.2094
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.6672,
+        "totalAssets": 0.0215,
+        "currentShares": 5344120,
+        "change": 3088227,
+        "change_p": 136.896
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.259,
+        "totalAssets": 0.0187,
+        "currentShares": 4016216,
+        "change": -106453,
+        "change_p": -2.5821
+      },
+      "4": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 4.0898,
+        "totalAssets": 0.2362,
+        "currentShares": 3856684,
+        "change": 396604,
+        "change_p": 11.4623
+      },
+      "5": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.9822,
+        "totalAssets": 0.3828,
+        "currentShares": 3755171,
+        "change": 565605,
+        "change_p": 17.733
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.999,
+        "totalAssets": 0.023,
+        "currentShares": 2827994,
+        "change": 131159,
+        "change_p": 4.8634
+      },
+      "7": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 2.2457,
+        "totalAssets": 0.3554,
+        "currentShares": 2117669,
+        "change": 2117669,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1466,
+        "totalAssets": 0.0242,
+        "currentShares": 2024240,
+        "change": -19736,
+        "change_p": -0.9656
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7097,
+        "totalAssets": 0.0341,
+        "currentShares": 1612262,
+        "change": 82939,
+        "change_p": 5.4232
+      },
+      "10": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4943,
+        "totalAssets": 0.912,
+        "currentShares": 1409153,
+        "change": -117465,
+        "change_p": -7.6945
+      },
+      "11": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.3733,
+        "totalAssets": 0.0378,
+        "currentShares": 1294981,
+        "change": 1249065,
+        "change_p": 2720.3262
+      },
+      "12": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.1795,
+        "totalAssets": 0.4539,
+        "currentShares": 1112241,
+        "change": 1112241,
+        "change_p": 0
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.0945,
+        "totalAssets": 0.0215,
+        "currentShares": 1032144,
+        "change": 397788,
+        "change_p": 62.7074
+      },
+      "14": {
+        "name": "Bessemer Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0672,
+        "totalAssets": 0.3003,
+        "currentShares": 1006377,
+        "change": 1005047,
+        "change_p": 75567.4436
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0089,
+        "totalAssets": 0.0388,
+        "currentShares": 951420,
+        "change": -80988,
+        "change_p": -7.8446
+      },
+      "16": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9767,
+        "totalAssets": 0.109,
+        "currentShares": 921022,
+        "change": 499368,
+        "change_p": 118.4308
+      },
+      "17": {
+        "name": "Stifel Financial Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8765,
+        "totalAssets": 0.1013,
+        "currentShares": 826546,
+        "change": 138463,
+        "change_p": 20.123
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8745,
+        "totalAssets": 0.0173,
+        "currentShares": 824688,
+        "change": 263965,
+        "change_p": 47.0758
+      },
+      "19": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 0.8704,
+        "totalAssets": 0.1194,
+        "currentShares": 820791,
+        "change": -523660,
+        "change_p": -38.9497
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 3.0257,
+        "totalAssets": 2.5718,
+        "currentShares": 2853222,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 3.0257,
+        "totalAssets": 2.4314,
+        "currentShares": 2853222,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5459,
+        "totalAssets": 0.0255,
+        "currentShares": 2400785,
+        "change": -6145,
+        "change_p": -0.2553
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0181,
+        "totalAssets": 0.0283,
+        "currentShares": 1903078,
+        "change": -31820,
+        "change_p": -1.6445
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.8531,
+        "totalAssets": 0.2229,
+        "currentShares": 1747471,
+        "change": 17475,
+        "change_p": 1.0101
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.1792,
+        "totalAssets": 0.3879,
+        "currentShares": 1111966,
+        "change": 977,
+        "change_p": 0.0879
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0192,
+        "totalAssets": 0.0283,
+        "currentShares": 961127,
+        "change": -528,
+        "change_p": -0.0549
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0152,
+        "totalAssets": 0.0298,
+        "currentShares": 957297,
+        "change": 1576,
+        "change_p": 0.1649
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9277,
+        "totalAssets": 0.0285,
+        "currentShares": 874803,
+        "change": -2107,
+        "change_p": -0.2403
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8755,
+        "totalAssets": 0.2051,
+        "currentShares": 825564,
+        "change": 2489,
+        "change_p": 0.3024
+      },
+      "10": {
+        "name": "UniGlobal Vorsorge",
+        "date": "2026-02-28",
+        "totalShares": 0.8699,
+        "totalAssets": 0.7028,
+        "currentShares": 820316,
+        "change": 820316,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Eaton Vance Atlanta Capital SMID-Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.656,
+        "totalAssets": 1.2862,
+        "currentShares": 618560,
+        "change": -86430,
+        "change_p": -12.2597
+      },
+      "12": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.6243,
+        "totalAssets": 0.747,
+        "currentShares": 588727,
+        "change": -2459,
+        "change_p": -0.4159
+      },
+      "13": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.5433,
+        "totalAssets": 1.0278,
+        "currentShares": 512348,
+        "change": 28109,
+        "change_p": 5.8048
+      },
+      "14": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5304,
+        "totalAssets": 0.5858,
+        "currentShares": 500144,
+        "change": -20253,
+        "change_p": -3.8918
+      },
+      "15": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.5191,
+        "totalAssets": 0.9573,
+        "currentShares": 489516,
+        "change": -32260,
+        "change_p": -6.1827
+      },
+      "16": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.5163,
+        "totalAssets": 0.6565,
+        "currentShares": 486844,
+        "change": -6127,
+        "change_p": -1.2429
+      },
+      "17": {
+        "name": "UniGlobal",
+        "date": "2026-02-28",
+        "totalShares": 0.4832,
+        "totalAssets": 0.4082,
+        "currentShares": 455682,
+        "change": 71154,
+        "change_p": 18.5042
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4462,
+        "totalAssets": 0.0283,
+        "currentShares": 420728,
+        "change": -4851,
+        "change_p": -1.1399
+      },
+      "19": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4437,
+        "totalAssets": 0.0755,
+        "currentShares": 418423,
+        "change": 2758,
+        "change_p": 0.6635
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 38.6009,
+    "ForwardPE": 34.8432,
+    "PriceSalesTTM": 1.9381,
+    "PriceBookMRQ": 6.6572,
+    "EnterpriseValue": 24736291450,
+    "EnterpriseValueRevenue": 2.079,
+    "EnterpriseValueEbitda": 28.1019
+  },
+  "Highlights": {
+    "MarketCapitalization": 23517628416,
+    "MarketCapitalizationMln": 23517.6284,
+    "EBITDA": 1607442304,
+    "PERatio": 38.6009,
+    "PEGRatio": 2.472,
+    "WallStreetTargetPrice": 230.8261,
+    "BookValue": 38.117,
+    "DividendShare": 1.77,
+    "DividendYield": 0.007,
+    "EarningsShare": 6.44,
+    "EPSEstimateCurrentYear": 7.3217,
+    "EPSEstimateNextYear": 9.0372,
+    "EPSEstimateNextQuarter": 1.6924,
+    "EPSEstimateCurrentQuarter": 1.4463,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0513,
+    "OperatingMarginTTM": 0.0677,
+    "ReturnOnAssetsTTM": 0.069,
+    "ReturnOnEquityTTM": 0.1668,
+    "RevenueTTM": 12134195200,
+    "RevenuePerShareTTM": 126.703,
+    "QuarterlyRevenueGrowthYOY": 0.046,
+    "GrossProfitTTM": 2288591104,
+    "DilutedEpsTTM": 6.44,
+    "QuarterlyEarningsGrowthYOY": 0.271
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.98,
+    "TotalEsgPercentile": 30.46,
+    "EnvironmentScore": 12.32,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.44,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 12.71,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "JBHT",
+    "Type": "Common Stock",
+    "Name": "JB Hunt Transport Services Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BMDBZ1",
+    "ISIN": "US4456581077",
+    "LEI": "549300XCD1MPI1C5GK90",
+    "PrimaryTicker": "JBHT.US",
+    "CUSIP": "445658107",
+    "CIK": "0000728535",
+    "EmployerIdNumber": "71-0335111",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Ground Transportation",
+    "GicSubIndustry": "Cargo Ground Transportation",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "J.B. Hunt Transport Services, Inc. provides surface transportation, delivery, and logistic services in the United States. It operates through five segments: Intermodal, Dedicated Contract Services, Integrated Capacity Solutions, Final Mile Services, and Truckload. The JBI segment offers intermodal freight solutions. It operates 124,838 pieces of company-owned trailing equipment; owns and maintains its chassis fleet of 104,474 units; and manages a fleet of 5,880 company-owned tractors, 308 independent contractor trucks, and 8,704 company drivers. The DCS segment designs, develops, and executes supply chain solutions that support various transportation networks. As of December 31, 2025, it operated 11,878 company-owned trucks, 761 customer-owned trucks, and a contractor trucks. It operates 26,767 owned pieces of trailing equipment and 5,218 customer-owned trailers. The ICS segment provides freight brokerage and transportation logistics solutions; flatbed, refrigerated, expedited, and less-than-truckload, as well as dry-van and intermodal solutions; online multimodal marketplace; and logistics management services for customers to outsource their transportation functions. The FMS segment delivers services through 1,085 company-owned trucks, 169 customer-owned trucks, and 39 independent contractor trucks; and 1,091 owned pieces of trailing equipment and 98 customer-owned trailers. The JBT segment provides dry-van freight services by utilizing tractors and trailers operating over roads and highways through two company-owned tractors and 12,658 company-owned trailers. It transports or arranges for the transportation of freight, such as general merchandise, specialty consumer items, appliances, home furnishings, forest, paper, rubber, plastic products, food, beverages, building materials, apparel, accessories, soaps, cosmetics, automotive parts, agricultural products, electronics, and chemicals. The company was incorporated in 1961 and is headquartered in Lowell, Arkansas.",
+    "Address": "615 J.B. Hunt Corporate Drive, Lowell, AR, United States, 72745-0130",
+    "AddressData": {
+      "Street": "615 J.B. Hunt Corporate Drive",
+      "City": "Lowell",
+      "State": "AR",
+      "Country": "United States",
+      "ZIP": "72745-0130"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John N. Roberts III",
+        "Title": "Executive Chairman",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Ms. Shelley  Simpson",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. A. Brad Delco",
+        "Title": "EVP of Finance & Chief Financial Officer",
+        "YearBorn": "1984"
+      },
+      "3": {
+        "Name": "Mr. Nicholas  Hobbs",
+        "Title": "COO, President of Highway & Final Mile Services and Executive VP",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. John  Kuhlow CPA",
+        "Title": "Senior VP of Finance & Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Darren P. Field",
+        "Title": "Executive VP & President of Intermodal",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Stuart L. Scott Jr.",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Ms. Jennifer R. Boattini",
+        "Title": "Senior VP of Legal & Litigation, General Counsel and Corporate Secretary",
+        "YearBorn": "1973"
+      },
+      "8": {
+        "Name": "Mr. Spencer  Frazier",
+        "Title": "Executive Vice President of Sales & Marketing",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Mr. David  Keefauver",
+        "Title": "Executive Vice President of People",
+        "YearBorn": "1974"
+      }
+    },
+    "Phone": "479 820 0000",
+    "WebURL": "https://www.jbhunt.com",
+    "LogoURL": "/img/logos/US/JBHT.png",
+    "FullTimeEmployees": 31750,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 94299000,
+    "SharesFloat": 74723471,
+    "PercentInsiders": 20.319000000000003,
+    "PercentInstitutions": 77.846,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0464
+  }
+}

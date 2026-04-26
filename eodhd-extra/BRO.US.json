@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.0834,
+        "totalAssets": 0.0435,
+        "currentShares": 37634847,
+        "change": 303955,
+        "change_p": 0.8142
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.1768,
+        "totalAssets": 0.0344,
+        "currentShares": 20973989,
+        "change": 457424,
+        "change_p": 2.2295
+      },
+      "2": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.2675,
+        "totalAssets": 0.1939,
+        "currentShares": 17886395,
+        "change": 407006,
+        "change_p": 2.3285
+      },
+      "3": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.5401,
+        "totalAssets": 0.7293,
+        "currentShares": 15416190,
+        "change": 1821229,
+        "change_p": 13.3964
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8641,
+        "totalAssets": 0.0427,
+        "currentShares": 13120826,
+        "change": 660005,
+        "change_p": 5.2966
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.103,
+        "totalAssets": 0.0428,
+        "currentShares": 10536563,
+        "change": -1416698,
+        "change_p": -11.852
+      },
+      "6": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 2.7785,
+        "totalAssets": 3.2414,
+        "currentShares": 9434802,
+        "change": 3358403,
+        "change_p": 55.2696
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3421,
+        "totalAssets": 0.039,
+        "currentShares": 7952957,
+        "change": 118225,
+        "change_p": 1.509
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.9098,
+        "totalAssets": 0.0553,
+        "currentShares": 6484778,
+        "change": 2572629,
+        "change_p": 65.76
+      },
+      "9": {
+        "name": "Parnassus Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8273,
+        "totalAssets": 1.2824,
+        "currentShares": 6204729,
+        "change": -630126,
+        "change_p": -9.2193
+      },
+      "10": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.4394,
+        "totalAssets": 0.0751,
+        "currentShares": 4887675,
+        "change": -1503371,
+        "change_p": -23.5231
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3826,
+        "totalAssets": 0.0267,
+        "currentShares": 4694589,
+        "change": -1026909,
+        "change_p": -17.9483
+      },
+      "12": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.3733,
+        "totalAssets": 0.0583,
+        "currentShares": 4663165,
+        "change": 4663165,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Van Lanschot Kempen Investment Management NV",
+        "date": "2025-12-31",
+        "totalShares": 1.3366,
+        "totalAssets": 3.0981,
+        "currentShares": 4538584,
+        "change": 2589048,
+        "change_p": 132.8033
+      },
+      "14": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.1572,
+        "totalAssets": 0.102,
+        "currentShares": 3929461,
+        "change": 1361934,
+        "change_p": 53.0446
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1379,
+        "totalAssets": 0.0109,
+        "currentShares": 3863678,
+        "change": 3149010,
+        "change_p": 440.6256
+      },
+      "16": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9438,
+        "totalAssets": 0.0572,
+        "currentShares": 3204876,
+        "change": 60882,
+        "change_p": 1.9365
+      },
+      "17": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8253,
+        "totalAssets": 0.3524,
+        "currentShares": 2802327,
+        "change": 57274,
+        "change_p": 2.0864
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7664,
+        "totalAssets": 0.0312,
+        "currentShares": 2602360,
+        "change": 83603,
+        "change_p": 3.3192
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7588,
+        "totalAssets": 0.0164,
+        "currentShares": 2576407,
+        "change": -126602,
+        "change_p": -4.6837
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 3.3393,
+        "totalAssets": 2.9529,
+        "currentShares": 11338811,
+        "change": -99988,
+        "change_p": -0.8741
+      },
+      "1": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 3.3363,
+        "totalAssets": 2.8204,
+        "currentShares": 11328820,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7094,
+        "totalAssets": 0.0301,
+        "currentShares": 9200068,
+        "change": 17067,
+        "change_p": 0.1859
+      },
+      "3": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.2748,
+        "totalAssets": 0.1911,
+        "currentShares": 7724283,
+        "change": 1648143,
+        "change_p": 27.1248
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.195,
+        "totalAssets": 0.0342,
+        "currentShares": 7453431,
+        "change": -101335,
+        "change_p": -1.3413
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.8409,
+        "totalAssets": 0.2051,
+        "currentShares": 6251080,
+        "change": -56341,
+        "change_p": -0.8932
+      },
+      "6": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4493,
+        "totalAssets": 0.1047,
+        "currentShares": 4921223,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.4493,
+        "totalAssets": 0.1167,
+        "currentShares": 4921223,
+        "change": 645516,
+        "change_p": 15.0973
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1084,
+        "totalAssets": 0.0341,
+        "currentShares": 3763575,
+        "change": -2052,
+        "change_p": -0.0545
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1005,
+        "totalAssets": 0.0358,
+        "currentShares": 3736719,
+        "change": 6165,
+        "change_p": 0.1653
+      },
+      "10": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0915,
+        "totalAssets": 0.1679,
+        "currentShares": 3706245,
+        "change": 3706245,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.0915,
+        "totalAssets": 0.1457,
+        "currentShares": 3706245,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.0076,
+        "totalAssets": 0.3119,
+        "currentShares": 3421405,
+        "change": 3421405,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0027,
+        "totalAssets": 0.0342,
+        "currentShares": 3404759,
+        "change": -8330,
+        "change_p": -0.2441
+      },
+      "14": {
+        "name": "Kempen Intl Fds MercLan Glbl Eq F",
+        "date": "2026-02-28",
+        "totalShares": 0.8183,
+        "totalAssets": 3.144,
+        "currentShares": 2778551,
+        "change": 458690,
+        "change_p": 19.7723
+      },
+      "15": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7876,
+        "totalAssets": 0.0773,
+        "currentShares": 2674381,
+        "change": 1323168,
+        "change_p": 97.9245
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7478,
+        "totalAssets": 0.1941,
+        "currentShares": 2539084,
+        "change": 7467,
+        "change_p": 0.2949
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6482,
+        "totalAssets": 0.4912,
+        "currentShares": 2200878,
+        "change": -208713,
+        "change_p": -8.6618
+      },
+      "18": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.6278,
+        "totalAssets": 0.0693,
+        "currentShares": 2131844,
+        "change": 385795,
+        "change_p": 22.0953
+      },
+      "19": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.6236,
+        "totalAssets": 1.2502,
+        "currentShares": 2117323,
+        "change": -1007,
+        "change_p": -0.0475
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.8544,
+    "ForwardPE": 14.881,
+    "PriceSalesTTM": 3.8927,
+    "PriceBookMRQ": 1.8281,
+    "EnterpriseValue": 29215950686,
+    "EnterpriseValueRevenue": 5.1668,
+    "EnterpriseValueEbitda": 14.5676
+  },
+  "Highlights": {
+    "MarketCapitalization": 22433681408,
+    "MarketCapitalizationMln": 22433.6814,
+    "EBITDA": 1982000000,
+    "PERatio": 20.8544,
+    "PEGRatio": 1.5098,
+    "WallStreetTargetPrice": 79.4667,
+    "BookValue": 37.342,
+    "DividendShare": 0.615,
+    "DividendYield": 0.0091,
+    "EarningsShare": 3.16,
+    "EPSEstimateCurrentYear": 4.5313,
+    "EPSEstimateNextYear": 4.9777,
+    "EPSEstimateNextQuarter": 1.4237,
+    "EPSEstimateCurrentQuarter": 0.8999,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1829,
+    "OperatingMarginTTM": 0.2317,
+    "ReturnOnAssetsTTM": 0.0424,
+    "ReturnOnEquityTTM": 0.1123,
+    "RevenueTTM": 5762999808,
+    "RevenuePerShareTTM": 18.59,
+    "QuarterlyRevenueGrowthYOY": 0.362,
+    "GrossProfitTTM": 2828000000,
+    "DilutedEpsTTM": 3.16,
+    "QuarterlyEarningsGrowthYOY": -0.162
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.06,
+    "TotalEsgPercentile": 38.94,
+    "EnvironmentScore": 0.82,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 10.66,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 16.22,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BRO",
+    "Type": "Common Stock",
+    "Name": "Brown & Brown Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BWSGF4",
+    "ISIN": "US1152361010",
+    "LEI": "549300PC8KTJ71XKFY89",
+    "PrimaryTicker": "BRO.US",
+    "CUSIP": "730444106",
+    "CIK": "0000079282",
+    "EmployerIdNumber": "59-0864469",
+    "FiscalYearEnd": "December",
+    "IPODate": "1992-03-03",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance Brokers",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Insurance Brokers",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Brown & Brown, Inc. markets and sells insurance products and services in the United States, the United Kingdom, and internationally. It operates through Retail and Specialty Distribution segments. The Retail segment provides property and casualty, employee benefits insurance products, personal insurance products, specialties insurance products, risk management strategies, loss control survey and analysis, consultancy, and claims processing services. This segment also offers non-insurance services and products through automobile and recreational vehicle dealer services businesses. It serves commercial, public and quasi-public entities, professional, and individual customers. The Specialty Distribution segment comprises wholesale brokerage and specialty businesses. This segment offers professional liability and related package insurance products for dentistry, legal, eyecare, insurance, insurance, financial, physicians, real estate title professionals, as well as supplementary insurance products related to weddings, events, medical facilities, and cyber liabilities. This segment also provides public entity-related and specialty programs through a network of independent agents; and program management services for insurance carrier partners. In addition, the company's wholesale brokerage businesses underwrite and place excess and surplus commercial and personal lines insurance through independent agents and brokers. Its programs businesses operate under the Arrowhead Programs' name. Brown & Brown, Inc. was founded in 1939 and is headquartered in Daytona Beach, Florida.",
+    "Address": "300 North Beach Street, Daytona Beach, FL, United States, 32114",
+    "AddressData": {
+      "Street": "300 North Beach Street",
+      "City": "Daytona Beach",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "32114"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BRO",
+        "Exchange": "F",
+        "Name": "BROOKEMONT CAPITAL"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. J. Powell Brown C.P.C.U.",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. R. Andrew Watts CPA",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Chris L. Walker",
+        "Title": "Executive VP & Chairman of Specialty Distribution Segment",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Mr. P. Barrett Brown",
+        "Title": "Executive VP & President of Retail Segment (Leave of Absence)",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Paul Michael Gallagher",
+        "Title": "Principal Accounting Officer & Controller",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Kiet  Tran",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Eileen  Akerson",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Jenny  Goco",
+        "Title": "Director of Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Julie L. Turpin",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1971"
+      },
+      "9": {
+        "Name": "Mr. J. Scott Penny C.I.C.",
+        "Title": "Executive VP & Chief Acquisitions Officer",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "386 252 9601",
+    "WebURL": "https://www.bbrown.com",
+    "LogoURL": "/img/logos/US/BRO.png",
+    "FullTimeEmployees": 22888,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 339559191,
+    "SharesFloat": 293373976,
+    "PercentInsiders": 13.077,
+    "PercentInstitutions": 83.299,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0723
+  }
+}

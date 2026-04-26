@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 11.9085,
+        "totalAssets": 0.033,
+        "currentShares": 24902207,
+        "change": -120673,
+        "change_p": -0.4823
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5992,
+        "totalAssets": 0.0235,
+        "currentShares": 24255320,
+        "change": 307905,
+        "change_p": 1.2858
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.3778,
+        "totalAssets": 0.0354,
+        "currentShares": 13336711,
+        "change": -294718,
+        "change_p": -2.162
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.5047,
+        "totalAssets": 0.0213,
+        "currentShares": 9419886,
+        "change": 4008456,
+        "change_p": 74.0739
+      },
+      "4": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.3799,
+        "totalAssets": 0.3216,
+        "currentShares": 9158839,
+        "change": 2160968,
+        "change_p": 30.8804
+      },
+      "5": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.5639,
+        "totalAssets": 0.0775,
+        "currentShares": 7452642,
+        "change": 160713,
+        "change_p": 2.204
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4874,
+        "totalAssets": 0.0214,
+        "currentShares": 5201566,
+        "change": -8400,
+        "change_p": -0.1612
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.1329,
+        "totalAssets": 0.0531,
+        "currentShares": 4460092,
+        "change": -88558,
+        "change_p": -1.9469
+      },
+      "8": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9325,
+        "totalAssets": 0.0729,
+        "currentShares": 4041078,
+        "change": 3027883,
+        "change_p": 298.845
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8858,
+        "totalAssets": 0.0324,
+        "currentShares": 3943459,
+        "change": 975276,
+        "change_p": 32.8577
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5171,
+        "totalAssets": 0.0145,
+        "currentShares": 3172383,
+        "change": 46070,
+        "change_p": 1.4736
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4854,
+        "totalAssets": 0.0436,
+        "currentShares": 3106189,
+        "change": 1725,
+        "change_p": 0.0556
+      },
+      "12": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 1.4805,
+        "totalAssets": 0.1571,
+        "currentShares": 3096015,
+        "change": 2449342,
+        "change_p": 378.7605
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3814,
+        "totalAssets": 0.0279,
+        "currentShares": 2888664,
+        "change": 150871,
+        "change_p": 5.5107
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2481,
+        "totalAssets": 0.0187,
+        "currentShares": 2609965,
+        "change": 49999,
+        "change_p": 1.9531
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1808,
+        "totalAssets": 0.0405,
+        "currentShares": 2469124,
+        "change": -533332,
+        "change_p": -17.7632
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9849,
+        "totalAssets": 0.0244,
+        "currentShares": 2059471,
+        "change": 26421,
+        "change_p": 1.2996
+      },
+      "17": {
+        "name": "Pacer Advisors, INC.",
+        "date": "2025-12-31",
+        "totalShares": 0.9504,
+        "totalAssets": 0.3398,
+        "currentShares": 1987386,
+        "change": -11500,
+        "change_p": -0.5753
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8392,
+        "totalAssets": 0.0238,
+        "currentShares": 1754844,
+        "change": 39026,
+        "change_p": 2.2745
+      },
+      "19": {
+        "name": "WORLDQUANT MILLENNIUM QUANTITATIVE STRATEGIES LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7688,
+        "totalAssets": 0.4175,
+        "currentShares": 1607701,
+        "change": 1190003,
+        "change_p": 284.8955
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0195,
+        "totalAssets": 0.0203,
+        "currentShares": 6314240,
+        "change": 8703,
+        "change_p": 0.138
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3729,
+        "totalAssets": 0.0224,
+        "currentShares": 4962014,
+        "change": -60906,
+        "change_p": -1.2126
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.198,
+        "totalAssets": 0.1776,
+        "currentShares": 4596333,
+        "change": 63615,
+        "change_p": 1.4035
+      },
+      "3": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.0883,
+        "totalAssets": 0.3312,
+        "currentShares": 4366864,
+        "change": 7268,
+        "change_p": 0.1667
+      },
+      "4": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.771,
+        "totalAssets": 1.0667,
+        "currentShares": 3703370,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3986,
+        "totalAssets": 0.3091,
+        "currentShares": 2924626,
+        "change": 13531,
+        "change_p": 0.4648
+      },
+      "6": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3148,
+        "totalAssets": 0.207,
+        "currentShares": 2749489,
+        "change": 8122,
+        "change_p": 0.2963
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1981,
+        "totalAssets": 0.0223,
+        "currentShares": 2505333,
+        "change": -1368,
+        "change_p": -0.0546
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1891,
+        "totalAssets": 0.0206,
+        "currentShares": 2486637,
+        "change": 4099,
+        "change_p": 0.1651
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0869,
+        "totalAssets": 0.0224,
+        "currentShares": 2272878,
+        "change": -5537,
+        "change_p": -0.243
+      },
+      "10": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0665,
+        "totalAssets": 0.308,
+        "currentShares": 2230202,
+        "change": -1380,
+        "change_p": -0.0618
+      },
+      "11": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9542,
+        "totalAssets": 0.2926,
+        "currentShares": 1995308,
+        "change": 1088,
+        "change_p": 0.0546
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9287,
+        "totalAssets": 0.6029,
+        "currentShares": 1942118,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Fidelity High Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8753,
+        "totalAssets": 1.3716,
+        "currentShares": 1830366,
+        "change": 9954,
+        "change_p": 0.5468
+      },
+      "14": {
+        "name": "Federated Hermes Strategic Value Div IS",
+        "date": "2025-12-31",
+        "totalShares": 0.6239,
+        "totalAssets": 0.9989,
+        "currentShares": 1304600,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6217,
+        "totalAssets": 1.182,
+        "currentShares": 1300075,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Janus Henderson Global Equity Income A",
+        "date": "2026-01-31",
+        "totalShares": 0.598,
+        "totalAssets": 1.0997,
+        "currentShares": 1250560,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5261,
+        "totalAssets": 0.0224,
+        "currentShares": 1100043,
+        "change": -8800,
+        "change_p": -0.7936
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4974,
+        "totalAssets": 0.0221,
+        "currentShares": 1040208,
+        "change": -1400,
+        "change_p": -0.1344
+      },
+      "19": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4919,
+        "totalAssets": 0.3111,
+        "currentShares": 1028709,
+        "change": -13780,
+        "change_p": -1.3218
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.994,
+    "ForwardPE": 9.4518,
+    "PriceSalesTTM": 0.3038,
+    "PriceBookMRQ": 4.3389,
+    "EnterpriseValue": 15035855279,
+    "EnterpriseValueRevenue": 0.3659,
+    "EnterpriseValueEbitda": 6.6851
+  },
+  "Highlights": {
+    "MarketCapitalization": 12666397696,
+    "MarketCapitalizationMln": 12666.3977,
+    "EBITDA": 2601999872,
+    "PERatio": 11.994,
+    "PEGRatio": 1.1818,
+    "WallStreetTargetPrice": 72.7368,
+    "BookValue": 14.175,
+    "DividendShare": 3.8,
+    "DividendYield": 0.0618,
+    "EarningsShare": 5.04,
+    "EPSEstimateCurrentYear": 6.3062,
+    "EPSEstimateNextYear": 6.6476,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.4662,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0256,
+    "OperatingMarginTTM": 0.0502,
+    "ReturnOnAssetsTTM": 0.0752,
+    "ReturnOnEquityTTM": 0.3704,
+    "RevenueTTM": 41691000832,
+    "RevenuePerShareTTM": 197.588,
+    "QuarterlyRevenueGrowthYOY": -0.01,
+    "GrossProfitTTM": 9372999680,
+    "DilutedEpsTTM": 5.04,
+    "QuarterlyEarningsGrowthYOY": 3.725
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.47,
+    "TotalEsgPercentile": 10.32,
+    "EnvironmentScore": 9.12,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 9.67,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 8.68,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BBY",
+    "Type": "Common Stock",
+    "Name": "Best Buy Co. Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCWCG1",
+    "ISIN": "US0865161014",
+    "LEI": "HL5XPTVRV0O8TUN5LL90",
+    "PrimaryTicker": "BBY.US",
+    "CUSIP": "08651F200",
+    "CIK": "0000764478",
+    "EmployerIdNumber": "41-0907483",
+    "FiscalYearEnd": "January",
+    "IPODate": "1985-04-19",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Discretionary Distribution & Retail",
+    "GicIndustry": "Specialty Retail",
+    "GicSubIndustry": "Computer & Electronics Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Best Buy Co., Inc. offers technology products and solutions in the United States, Canada, and internationally. The company provides computing and mobile phone products, such as desktops, notebooks, and peripherals; mobile phones comprising related mobile network carrier commissions; networking products; tablets covering e-readers; smartwatches; and consumer electronics consisting of digital imaging, health and fitness products, portable audio comprising headphones and portable speakers, and smart home products, as well as home theaters that includes home theater accessories, soundbars, and televisions. It also offers appliances, such as dishwashers, laundry, ovens, refrigerators, blenders, coffee makers, vacuums, and personal care; entertainment products consisting of drones, peripherals, gaming, toys, and virtual reality, as well as hardware and software, and augmented reality glasses and other software products; and other products, such as baby, food and beverage, luggage, and outdoor living products. In addition, the company provides delivery, installation, marketplace commissions, memberships, repair, set-up, technical support, health-related, and warranty-related services. It offers its products through stores and websites under the Best Buy, Best Buy Ads, Best Buy Business, Best Buy Essentials, Best Buy Health, Best Buy Marketplace, Geek Squad, Imagine That, Insignia, Lively, Jitterbug, My Best Buy, My Best Buy Memberships, Pacific Kitchen, Home, TechLiquidators, and Yardbird brand names, as well as domain names comprising bestbuy.com, lively.com, techliquidators.com, yardbird.com, bestbuy.ca, and techliquidators.ca. The company was formerly known as Sound of Music, Inc. Best Buy Co., Inc. was incorporated in 1966 and is headquartered in Richfield, Minnesota.",
+    "Address": "7601 Penn Avenue South, Richfield, MN, United States, 55423",
+    "AddressData": {
+      "Street": "7601 Penn Avenue South",
+      "City": "Richfield",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55423"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Corie Sue Barry",
+        "Title": "CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Matthew M. Bilunas",
+        "Title": "Senior EVP, Chief Financial & Enterprise Strategy Officer",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Ms. Kathleen M. Scarlett",
+        "Title": "Senior EVP, Chief Human Resources & Corporate Affairs Officer",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Jason J. Bonfig",
+        "Title": "Senior EVP, Chief Customer, Product & Fulfillment Officer",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Richard M. Schulze",
+        "Title": "Founder & Chairman Emeritus",
+        "YearBorn": "1941"
+      },
+      "5": {
+        "Name": "Mr. Mathew Raymond Watson",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Dr. Neal Joseph Sample Ph.D.",
+        "Title": "Executive VP, Chief Digital & Technology Officer",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Ms. Mollie  O'Brien",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Todd Gregory Hartman",
+        "Title": "Executive VP, Secretary, Chief Legal & Risk Officer",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Jeff  Haydock",
+        "Title": "Chief Communications & Public Affairs Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "612 291 1000",
+    "WebURL": "https://corporate.bestbuy.com",
+    "LogoURL": "/img/logos/US/BBY.png",
+    "FullTimeEmployees": 82000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 209112577,
+    "SharesFloat": 193803445,
+    "PercentInsiders": 7.568999999999999,
+    "PercentInstitutions": 100.69699999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.113
+  }
+}

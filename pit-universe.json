@@ -1,0 +1,4094 @@
+{
+  "GSPC.INDX": [
+    {
+      "code": "A",
+      "name": "Agilent Technologies Inc",
+      "startDate": "2000-06-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AAL",
+      "name": "American Airlines Group",
+      "startDate": "2015-03-23",
+      "endDate": "2024-09-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "AAP",
+      "name": "Advance Auto Parts Inc",
+      "startDate": "2015-07-09",
+      "endDate": "2023-08-25",
+      "isDelisted": 0
+    },
+    {
+      "code": "AAPL",
+      "name": "Apple Inc",
+      "startDate": "1982-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ABBV",
+      "name": "AbbVie Inc",
+      "startDate": "2013-01-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ABMD",
+      "name": "ABIOMED Inc",
+      "startDate": "2018-05-31",
+      "endDate": "2022-12-22",
+      "isDelisted": 1
+    },
+    {
+      "code": "ABNB",
+      "name": "Airbnb Inc",
+      "startDate": "2023-09-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ABT",
+      "name": "Abbott Laboratories",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ACGL",
+      "name": "Arch Capital Group Ltd",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ACN",
+      "name": "Accenture plc",
+      "startDate": "2011-07-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ADBE",
+      "name": "Adobe Systems Incorporated",
+      "startDate": "1997-05-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ADI",
+      "name": "Analog Devices Inc",
+      "startDate": "1999-10-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ADM",
+      "name": "Archer-Daniels-Midland Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ADP",
+      "name": "Automatic Data Processing Inc",
+      "startDate": "1981-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ADSK",
+      "name": "Autodesk Inc",
+      "startDate": "1989-12-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AEE",
+      "name": "Ameren Corp",
+      "startDate": "1991-09-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AEP",
+      "name": "American Electric Power Co Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AES",
+      "name": "The AES Corporation",
+      "startDate": "1998-10-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AFL",
+      "name": "Aflac Incorporated",
+      "startDate": "1999-05-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AGN",
+      "name": "Allergan plc",
+      "startDate": "2016-12-19",
+      "endDate": null,
+      "isDelisted": 1
+    },
+    {
+      "code": "AIG",
+      "name": "American International Group Inc",
+      "startDate": "1980-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AIRC",
+      "name": "Apartment Income REIT Corp",
+      "startDate": "2020-12-15",
+      "endDate": "2020-12-21",
+      "isDelisted": 1
+    },
+    {
+      "code": "AIZ",
+      "name": "Assurant Inc",
+      "startDate": "2007-04-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AJG",
+      "name": "Arthur J Gallagher & Co",
+      "startDate": "2016-05-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "startDate": "2007-07-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ALB",
+      "name": "Albemarle Corp",
+      "startDate": "2016-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ALGN",
+      "name": "Align Technology Inc",
+      "startDate": "2017-06-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ALK",
+      "name": "Alaska Air Group Inc",
+      "startDate": "2016-05-13",
+      "endDate": "2023-12-18",
+      "isDelisted": 0
+    },
+    {
+      "code": "ALL",
+      "name": "The Allstate Corporation",
+      "startDate": "1995-07-13",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ALLE",
+      "name": "Allegion PLC",
+      "startDate": "2013-12-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ALXN",
+      "name": "Alexion Pharmaceuticals Inc",
+      "startDate": "2012-05-25",
+      "endDate": "2021-07-21",
+      "isDelisted": 1
+    },
+    {
+      "code": "AMAT",
+      "name": "Applied Materials Inc",
+      "startDate": "1995-03-16",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AMCR",
+      "name": "Amcor PLC",
+      "startDate": "2019-06-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "startDate": "2017-03-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AME",
+      "name": "Ametek Inc",
+      "startDate": "2013-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AMGN",
+      "name": "Amgen Inc",
+      "startDate": "1992-01-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AMP",
+      "name": "Ameriprise Financial Inc",
+      "startDate": "2005-10-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AMT",
+      "name": "American Tower Corp",
+      "startDate": "2007-11-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AMTM",
+      "name": "Amentum Holdings Inc.",
+      "startDate": "2024-09-30",
+      "endDate": "2024-12-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "AMZN",
+      "name": "Amazon.com Inc",
+      "startDate": "2005-11-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ANET",
+      "name": "Arista Networks",
+      "startDate": "2018-08-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ANSS",
+      "name": "ANSYS Inc",
+      "startDate": "2017-06-19",
+      "endDate": "2025-07-18",
+      "isDelisted": 0
+    },
+    {
+      "code": "AON",
+      "name": "Aon PLC",
+      "startDate": "1996-04-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AOS",
+      "name": "Smith AO Corporation",
+      "startDate": "2017-07-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "APA",
+      "name": "APA Corporation",
+      "startDate": "1997-07-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "APD",
+      "name": "Air Products and Chemicals Inc",
+      "startDate": "1985-04-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "APH",
+      "name": "Amphenol Corporation",
+      "startDate": "2008-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "APO",
+      "name": "Apollo Global Management LLC Class A",
+      "startDate": "2024-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "APP",
+      "name": "Applovin Corp",
+      "startDate": "2025-09-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "APTV",
+      "name": "Aptiv PLC",
+      "startDate": "2012-12-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ARE",
+      "name": "Alexandria Real Estate Equities Inc",
+      "startDate": "2017-03-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ARES",
+      "name": "Ares Management LP",
+      "startDate": "2025-12-11",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ATO",
+      "name": "Atmos Energy Corporation",
+      "startDate": "2019-02-15",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ATVI",
+      "name": "Activision Blizzard Inc",
+      "startDate": "2015-08-31",
+      "endDate": "2023-10-18",
+      "isDelisted": 1
+    },
+    {
+      "code": "AVB",
+      "name": "AvalonBay Communities Inc",
+      "startDate": "2007-01-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AVGO",
+      "name": "Broadcom Inc",
+      "startDate": "2014-05-08",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AVY",
+      "name": "Avery Dennison Corp",
+      "startDate": "1987-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AWK",
+      "name": "American Water Works",
+      "startDate": "2016-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AXON",
+      "name": "Axon Enterprise Inc.",
+      "startDate": "2023-05-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AXP",
+      "name": "American Express Company",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "AZO",
+      "name": "AutoZone Inc",
+      "startDate": "1997-01-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BA",
+      "name": "The Boeing Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BAC",
+      "name": "Bank of America Corp",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BALL",
+      "name": "Ball Corporation",
+      "startDate": "1984-10-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BAX",
+      "name": "Baxter International Inc",
+      "startDate": "1972-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BBWI",
+      "name": "Bath & Body Works Inc.",
+      "startDate": "1983-09-30",
+      "endDate": "2024-10-01",
+      "isDelisted": 0
+    },
+    {
+      "code": "BBY",
+      "name": "Best Buy Co. Inc",
+      "startDate": "1999-06-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BDX",
+      "name": "Becton Dickinson and Company",
+      "startDate": "1972-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BEN",
+      "name": "Franklin Resources Inc",
+      "startDate": "1998-04-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BF-B",
+      "name": "Brown-Forman Corporation",
+      "startDate": "1982-10-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BG",
+      "name": "Bunge Limited",
+      "startDate": "2023-03-15",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BIIB",
+      "name": "Biogen Inc",
+      "startDate": "2003-11-13",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BIO",
+      "name": "Bio-Rad Laboratories Inc",
+      "startDate": "2020-06-22",
+      "endDate": "2024-09-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "BK",
+      "name": "The Bank of New York Mellon Corporation",
+      "startDate": "1995-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BKNG",
+      "name": "Booking Holdings Inc",
+      "startDate": "2009-11-06",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BKR",
+      "name": "Baker Hughes Co",
+      "startDate": "2017-07-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BLDR",
+      "name": "Builders FirstSource Inc",
+      "startDate": "2023-12-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BLK",
+      "name": "BlackRock Inc",
+      "startDate": "2011-04-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BR",
+      "name": "Broadridge Financial Solutions Inc",
+      "startDate": "2018-06-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BRK-B",
+      "name": "Berkshire Hathaway Inc",
+      "startDate": "2010-02-16",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BRO",
+      "name": "Brown & Brown Inc",
+      "startDate": "2021-09-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BSX",
+      "name": "Boston Scientific Corp",
+      "startDate": "1995-02-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BWA",
+      "name": "BorgWarner Inc",
+      "startDate": "2011-12-16",
+      "endDate": "2025-03-24",
+      "isDelisted": 0
+    },
+    {
+      "code": "BX",
+      "name": "Blackstone Group Inc",
+      "startDate": "2023-09-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "BXP",
+      "name": "Boston Properties Inc",
+      "startDate": "2006-04-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "C",
+      "name": "Citigroup Inc.",
+      "startDate": "1988-05-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CAG",
+      "name": "ConAgra Foods Inc",
+      "startDate": "1983-08-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CAH",
+      "name": "Cardinal Health Inc",
+      "startDate": "1997-05-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CARR",
+      "name": "Carrier Global Corp",
+      "startDate": "2020-04-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CAT",
+      "name": "Caterpillar Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CBOE",
+      "name": "Cboe Global Markets Inc",
+      "startDate": "2017-03-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CBRE",
+      "name": "CBRE Group Inc Class A",
+      "startDate": "2006-11-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CCI",
+      "name": "Crown Castle",
+      "startDate": "1997-06-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CCL",
+      "name": "Carnival Corporation",
+      "startDate": "1998-12-11",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CDNS",
+      "name": "Cadence Design Systems Inc",
+      "startDate": "2017-09-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CDW",
+      "name": "CDW Corp",
+      "startDate": "2019-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CE",
+      "name": "Celanese Corporation",
+      "startDate": "2018-12-24",
+      "endDate": "2025-03-24",
+      "isDelisted": 0
+    },
+    {
+      "code": "CEG",
+      "name": "Constellation Energy Corp",
+      "startDate": "2022-02-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CERN",
+      "name": "Cerner Corp",
+      "startDate": "2010-04-29",
+      "endDate": "2022-06-08",
+      "isDelisted": 1
+    },
+    {
+      "code": "CF",
+      "name": "CF Industries Holdings Inc",
+      "startDate": "2008-08-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "startDate": "2016-02-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CHD",
+      "name": "Church & Dwight Company Inc",
+      "startDate": "2015-12-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CHRW",
+      "name": "CH Robinson Worldwide Inc",
+      "startDate": "2007-03-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CHTR",
+      "name": "Charter Communications Inc",
+      "startDate": "2016-09-08",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CI",
+      "name": "Cigna Corp",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CIEN",
+      "name": "Ciena Corp",
+      "startDate": "2026-02-09",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CINF",
+      "name": "Cincinnati Financial Corporation",
+      "startDate": "1997-12-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CL",
+      "name": "Colgate-Palmolive Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CLX",
+      "name": "The Clorox Company",
+      "startDate": "1969-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CMA",
+      "name": "Comerica Incorporated",
+      "startDate": "1995-12-01",
+      "endDate": "2024-06-24",
+      "isDelisted": 1
+    },
+    {
+      "code": "CMCSA",
+      "name": "Comcast Corp",
+      "startDate": "2002-11-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CME",
+      "name": "CME Group Inc",
+      "startDate": "2006-08-11",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CMG",
+      "name": "Chipotle Mexican Grill Inc",
+      "startDate": "2011-04-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CMI",
+      "name": "Cummins Inc",
+      "startDate": "1965-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CMS",
+      "name": "CMS Energy Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CNC",
+      "name": "Centene Corp",
+      "startDate": "2016-03-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CNP",
+      "name": "CenterPoint Energy Inc",
+      "startDate": "1985-07-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "COF",
+      "name": "Capital One Financial Corporation",
+      "startDate": "1998-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "COIN",
+      "name": "Coinbase Global Inc",
+      "startDate": "2025-05-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "COO",
+      "name": "The Cooper Companies, Inc",
+      "startDate": "2016-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "COP",
+      "name": "ConocoPhillips",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "COR",
+      "name": "Cencora Inc.",
+      "startDate": "2001-08-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "COST",
+      "name": "Costco Wholesale Corp",
+      "startDate": "1993-10-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CPAY",
+      "name": "Corpay Inc",
+      "startDate": "2018-06-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CPB",
+      "name": "Campbell’s Co",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CPRT",
+      "name": "Copart Inc",
+      "startDate": "2018-07-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CPT",
+      "name": "Camden Property Trust",
+      "startDate": "2022-04-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CRH",
+      "name": "CRH PLC ADR",
+      "startDate": "2025-12-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CRL",
+      "name": "Charles River Laboratories",
+      "startDate": "2021-05-14",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CRM",
+      "name": "Salesforce.com Inc",
+      "startDate": "2008-09-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CRWD",
+      "name": "Crowdstrike Holdings Inc",
+      "startDate": "2024-06-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CSCO",
+      "name": "Cisco Systems Inc",
+      "startDate": "1993-12-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CSGP",
+      "name": "CoStar Group Inc",
+      "startDate": "2022-09-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CSX",
+      "name": "CSX Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CTAS",
+      "name": "Cintas Corporation",
+      "startDate": "2001-03-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CTLT",
+      "name": "Catalent Inc",
+      "startDate": "2020-09-21",
+      "endDate": "2024-12-23",
+      "isDelisted": 1
+    },
+    {
+      "code": "CTRA",
+      "name": "Coterra Energy Inc",
+      "startDate": "2008-06-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CTSH",
+      "name": "Cognizant Technology Solutions Corp Class A",
+      "startDate": "2006-11-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CTVA",
+      "name": "Corteva Inc",
+      "startDate": "2019-06-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CVNA",
+      "name": "Carvana Co",
+      "startDate": "2025-12-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CVS",
+      "name": "CVS Health Corp",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CVX",
+      "name": "Chevron Corp",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "CXO",
+      "name": "Concho Resources Inc",
+      "startDate": "2016-02-22",
+      "endDate": "2021-01-21",
+      "isDelisted": 1
+    },
+    {
+      "code": "CZR",
+      "name": "Caesars Entertainment Corporation",
+      "startDate": "2021-03-22",
+      "endDate": "2025-09-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "D",
+      "name": "Dominion Energy Inc",
+      "startDate": "2016-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DAL",
+      "name": "Delta Air Lines Inc",
+      "startDate": "2013-09-11",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DASH",
+      "name": "DoorDash, Inc. Class A Common Stock",
+      "startDate": "2025-03-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DAY",
+      "name": "Dayforce Inc.",
+      "startDate": "2021-09-20",
+      "endDate": "2026-02-09",
+      "isDelisted": 1
+    },
+    {
+      "code": "DD",
+      "name": "Dupont De Nemours Inc",
+      "startDate": "2019-04-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DDOG",
+      "name": "Datadog Inc",
+      "startDate": "2025-07-09",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DE",
+      "name": "Deere & Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DECK",
+      "name": "Deckers Outdoor Corporation",
+      "startDate": "2024-03-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DELL",
+      "name": "Dell Technologies Inc",
+      "startDate": "2024-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DFS",
+      "name": "Discover Financial Services",
+      "startDate": "2007-07-02",
+      "endDate": "2025-05-19",
+      "isDelisted": 1
+    },
+    {
+      "code": "DG",
+      "name": "Dollar General Corporation",
+      "startDate": "2012-12-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DGX",
+      "name": "Quest Diagnostics Incorporated",
+      "startDate": "2002-12-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DHI",
+      "name": "DR Horton Inc",
+      "startDate": "2005-06-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DHR",
+      "name": "Danaher Corporation",
+      "startDate": "1998-11-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DINO",
+      "name": "HF Sinclair Corp",
+      "startDate": "2018-06-18",
+      "endDate": "2021-06-04",
+      "isDelisted": 0
+    },
+    {
+      "code": "DIS",
+      "name": "Walt Disney Company",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DISH",
+      "name": "DISH Network Corporation",
+      "startDate": "2017-03-13",
+      "endDate": "2023-06-20",
+      "isDelisted": 1
+    },
+    {
+      "code": "DLR",
+      "name": "Digital Realty Trust Inc",
+      "startDate": "2016-05-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DLTR",
+      "name": "Dollar Tree Inc",
+      "startDate": "2011-12-16",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DOC",
+      "name": "Healthpeak Properties Inc",
+      "startDate": "2008-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DOV",
+      "name": "Dover Corporation",
+      "startDate": "1985-10-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DOW",
+      "name": "Dow Inc",
+      "startDate": "2019-04-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DPZ",
+      "name": "Domino's Pizza Inc Common Stock",
+      "startDate": "2020-05-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DRE",
+      "name": "Duke Realty Corporation",
+      "startDate": "2017-07-26",
+      "endDate": "2022-10-03",
+      "isDelisted": 1
+    },
+    {
+      "code": "DRI",
+      "name": "Darden Restaurants Inc",
+      "startDate": "1995-05-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DTE",
+      "name": "DTE Energy Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DTM",
+      "name": "DT Midstream Inc",
+      "startDate": "2021-07-01",
+      "endDate": "2021-07-02",
+      "isDelisted": 0
+    },
+    {
+      "code": "DUK",
+      "name": "Duke Energy Corporation",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DVA",
+      "name": "DaVita HealthCare Partners Inc",
+      "startDate": "2008-07-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DVN",
+      "name": "Devon Energy Corporation",
+      "startDate": "2000-08-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "DXC",
+      "name": "DXC Technology Co",
+      "startDate": "2017-04-04",
+      "endDate": "2023-10-03",
+      "isDelisted": 0
+    },
+    {
+      "code": "DXCM",
+      "name": "DexCom Inc",
+      "startDate": "2020-05-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EA",
+      "name": "Electronic Arts Inc",
+      "startDate": "2002-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EBAY",
+      "name": "eBay Inc",
+      "startDate": "2002-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ECL",
+      "name": "Ecolab Inc",
+      "startDate": "1989-01-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ED",
+      "name": "Consolidated Edison Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EFX",
+      "name": "Equifax Inc",
+      "startDate": "1997-06-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EG",
+      "name": "Everest Group Ltd",
+      "startDate": "2017-06-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EIX",
+      "name": "Edison International",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EL",
+      "name": "Estee Lauder Companies Inc",
+      "startDate": "2006-01-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ELV",
+      "name": "Elevance Health Inc",
+      "startDate": "2002-07-25",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EMBC",
+      "name": "Embecta Corp",
+      "startDate": "2022-04-01",
+      "endDate": "2022-04-04",
+      "isDelisted": 0
+    },
+    {
+      "code": "EME",
+      "name": "EMCOR Group Inc",
+      "startDate": "2025-09-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EMN",
+      "name": "Eastman Chemical Company",
+      "startDate": "1994-01-01",
+      "endDate": "2025-11-04",
+      "isDelisted": 0
+    },
+    {
+      "code": "EMR",
+      "name": "Emerson Electric Company",
+      "startDate": "1965-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ENPH",
+      "name": "Enphase Energy Inc",
+      "startDate": "2021-01-07",
+      "endDate": "2025-09-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "EOG",
+      "name": "EOG Resources Inc",
+      "startDate": "2000-11-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EPAM",
+      "name": "EPAM Systems Inc",
+      "startDate": "2021-12-14",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EQIX",
+      "name": "Equinix Inc",
+      "startDate": "2015-03-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EQR",
+      "name": "Equity Residential",
+      "startDate": "2001-12-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EQT",
+      "name": "EQT Corporation",
+      "startDate": "2022-10-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ERIE",
+      "name": "Erie Indemnity Company",
+      "startDate": "2024-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ES",
+      "name": "Eversource Energy",
+      "startDate": "2009-07-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ESS",
+      "name": "Essex Property Trust Inc",
+      "startDate": "2014-04-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ETN",
+      "name": "Eaton Corporation PLC",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ETR",
+      "name": "Entergy Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ETSY",
+      "name": "Etsy, Inc.",
+      "startDate": "2020-09-21",
+      "endDate": "2024-09-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "EVRG",
+      "name": "Evergy, Inc.",
+      "startDate": "2018-06-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EW",
+      "name": "Edwards Lifesciences Corp",
+      "startDate": "2011-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EXC",
+      "name": "Exelon Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EXE",
+      "name": "Expand Energy Corporation",
+      "startDate": "2025-03-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EXPD",
+      "name": "Expeditors International of Washington, Inc.",
+      "startDate": "2007-10-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EXPE",
+      "name": "Expedia Group Inc.",
+      "startDate": "2007-10-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "EXR",
+      "name": "Extra Space Storage Inc",
+      "startDate": "2016-01-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "F",
+      "name": "Ford Motor Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FANG",
+      "name": "Diamondback Energy Inc",
+      "startDate": "2018-12-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FAST",
+      "name": "Fastenal Company",
+      "startDate": "2008-09-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FBIN",
+      "name": "Fortune Brands Innovations Inc.",
+      "startDate": "2016-06-24",
+      "endDate": "2022-12-19",
+      "isDelisted": 0
+    },
+    {
+      "code": "FCX",
+      "name": "Freeport-McMoran Copper & Gold Inc",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FDS",
+      "name": "FactSet Research Systems Inc",
+      "startDate": "2021-12-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FDX",
+      "name": "FedEx Corporation",
+      "startDate": "1980-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FE",
+      "name": "FirstEnergy Corporation",
+      "startDate": "1997-11-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FFIV",
+      "name": "F5 Networks Inc",
+      "startDate": "2010-12-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FICO",
+      "name": "Fair Isaac Corporation",
+      "startDate": "2023-03-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FIS",
+      "name": "Fidelity National Information Services Inc",
+      "startDate": "2006-11-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FISV",
+      "name": "Fiserv, Inc. Common Stock",
+      "startDate": "2001-04-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FITB",
+      "name": "Fifth Third Bancorp",
+      "startDate": "1996-03-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FIX",
+      "name": "Comfort Systems USA Inc",
+      "startDate": "2025-12-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FMC",
+      "name": "FMC Corporation",
+      "startDate": "2009-08-19",
+      "endDate": "2025-03-24",
+      "isDelisted": 0
+    },
+    {
+      "code": "FOX",
+      "name": "Fox Corp Class B",
+      "startDate": "2019-03-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FOXA",
+      "name": "Fox Corp Class A",
+      "startDate": "2019-03-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FRC",
+      "name": "FIRST REP BK SAN FRANCISCO CALIF N",
+      "startDate": "2019-01-02",
+      "endDate": "2023-05-04",
+      "isDelisted": 1
+    },
+    {
+      "code": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "startDate": "2016-02-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FSLR",
+      "name": "First Solar Inc",
+      "startDate": "2022-12-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FTI",
+      "name": "TechnipFMC PLC",
+      "startDate": "2009-06-05",
+      "endDate": "2021-02-12",
+      "isDelisted": 0
+    },
+    {
+      "code": "FTNT",
+      "name": "Fortinet Inc",
+      "startDate": "2018-10-11",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "FTRE",
+      "name": "Fortrea Holdings Inc.",
+      "startDate": "2023-07-03",
+      "endDate": "2023-07-06",
+      "isDelisted": 0
+    },
+    {
+      "code": "FTV",
+      "name": "Fortive Corp",
+      "startDate": "2016-07-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GD",
+      "name": "General Dynamics Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GDDY",
+      "name": "Godaddy Inc",
+      "startDate": "2024-06-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GE",
+      "name": "GE Aerospace",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GEHC",
+      "name": "GE HealthCare Technologies Inc.",
+      "startDate": "2023-01-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GEN",
+      "name": "Gen Digital Inc.",
+      "startDate": "2003-03-25",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GEV",
+      "name": "GE Vernova LLC",
+      "startDate": "2024-04-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GILD",
+      "name": "Gilead Sciences Inc",
+      "startDate": "2004-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GIS",
+      "name": "General Mills Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GL",
+      "name": "Globe Life Inc",
+      "startDate": "1989-04-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GLW",
+      "name": "Corning Incorporated",
+      "startDate": "1995-02-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GM",
+      "name": "General Motors Company",
+      "startDate": "2013-06-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GNRC",
+      "name": "Generac Holdings Inc",
+      "startDate": "2021-03-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GOOG",
+      "name": "Alphabet Inc Class C",
+      "startDate": "2014-04-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GOOGL",
+      "name": "Alphabet Inc Class A",
+      "startDate": "2014-04-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GPC",
+      "name": "Genuine Parts Co",
+      "startDate": "1973-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GPN",
+      "name": "Global Payments Inc",
+      "startDate": "2016-04-25",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GRMN",
+      "name": "Garmin Ltd",
+      "startDate": "2012-12-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GS",
+      "name": "Goldman Sachs Group Inc",
+      "startDate": "2002-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "GWW",
+      "name": "WW Grainger Inc",
+      "startDate": "1981-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HAL",
+      "name": "Halliburton Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HAS",
+      "name": "Hasbro Inc",
+      "startDate": "1984-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HBAN",
+      "name": "Huntington Bancshares Incorporated",
+      "startDate": "1997-08-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HBI",
+      "name": "Hanesbrands Inc",
+      "startDate": "2015-03-23",
+      "endDate": "2021-12-20",
+      "isDelisted": 0
+    },
+    {
+      "code": "HCA",
+      "name": "HCA Holdings Inc",
+      "startDate": "2015-01-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HD",
+      "name": "The Home Depot Inc",
+      "startDate": "1988-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HES",
+      "name": "Hess Corporation",
+      "startDate": "1984-05-31",
+      "endDate": "2025-07-23",
+      "isDelisted": 1
+    },
+    {
+      "code": "HIG",
+      "name": "Hartford Financial Services Group",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HII",
+      "name": "Huntington Ingalls Industries Inc",
+      "startDate": "2018-01-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HLT",
+      "name": "Hilton Worldwide Holdings Inc",
+      "startDate": "2017-06-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HOLX",
+      "name": "Hologic Inc",
+      "startDate": "2016-03-30",
+      "endDate": "2026-04-09",
+      "isDelisted": 0
+    },
+    {
+      "code": "HON",
+      "name": "Honeywell International Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HOOD",
+      "name": "Robinhood Markets Inc",
+      "startDate": "2025-09-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HPE",
+      "name": "Hewlett Packard Enterprise Co",
+      "startDate": "2015-11-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HPQ",
+      "name": "HP Inc",
+      "startDate": "1974-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HRL",
+      "name": "Hormel Foods Corporation",
+      "startDate": "2009-03-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HSIC",
+      "name": "Henry Schein Inc",
+      "startDate": "2015-03-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HST",
+      "name": "Host Hotels & Resorts Inc",
+      "startDate": "2007-03-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HSY",
+      "name": "Hershey Co",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HUBB",
+      "name": "Hubbell Inc",
+      "startDate": "2023-10-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HUM",
+      "name": "Humana Inc",
+      "startDate": "2012-12-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "HWM",
+      "name": "Howmet Aerospace Inc",
+      "startDate": "2016-10-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IBKR",
+      "name": "Interactive Brokers Group Inc",
+      "startDate": "2025-08-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IBM",
+      "name": "International Business Machines",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ICE",
+      "name": "Intercontinental Exchange Inc",
+      "startDate": "2007-09-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IDXX",
+      "name": "IDEXX Laboratories Inc",
+      "startDate": "2017-01-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IEX",
+      "name": "IDEX Corporation",
+      "startDate": "2019-08-09",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IFF",
+      "name": "International Flavors & Fragrances Inc",
+      "startDate": "1976-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ILMN",
+      "name": "Illumina Inc",
+      "startDate": "2015-11-19",
+      "endDate": "2024-06-24",
+      "isDelisted": 0
+    },
+    {
+      "code": "INCY",
+      "name": "Incyte Corporation",
+      "startDate": "2017-02-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "INFO_old1",
+      "name": "Ihs Markit Ltd",
+      "startDate": "2017-06-02",
+      "endDate": "2022-03-02",
+      "isDelisted": 1
+    },
+    {
+      "code": "INTC",
+      "name": "Intel Corporation",
+      "startDate": "1976-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "INTU",
+      "name": "Intuit Inc",
+      "startDate": "2000-12-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "INVH",
+      "name": "Invitation Homes Inc",
+      "startDate": "2022-09-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IP",
+      "name": "International Paper",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IPG",
+      "name": "Interpublic Group of Companies Inc",
+      "startDate": "1992-10-01",
+      "endDate": "2025-11-28",
+      "isDelisted": 1
+    },
+    {
+      "code": "IPGP",
+      "name": "IPG Photonics Corporation",
+      "startDate": "2018-03-07",
+      "endDate": "2022-06-21",
+      "isDelisted": 0
+    },
+    {
+      "code": "IQV",
+      "name": "IQVIA Holdings Inc",
+      "startDate": "2017-08-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IRM",
+      "name": "Iron Mountain Incorporated",
+      "startDate": "2009-01-06",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ISRG",
+      "name": "Intuitive Surgical Inc",
+      "startDate": "2008-06-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IT",
+      "name": "Gartner Inc",
+      "startDate": "2017-04-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ITW",
+      "name": "Illinois Tool Works Inc",
+      "startDate": "1986-02-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "IVZ",
+      "name": "Invesco Plc",
+      "startDate": "2008-08-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "J",
+      "name": "Jacobs Solutions Inc.",
+      "startDate": "2007-10-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "JBHT",
+      "name": "JB Hunt Transport Services Inc",
+      "startDate": "2015-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "JBL",
+      "name": "Jabil Circuit Inc",
+      "startDate": "2023-12-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "JCI",
+      "name": "Johnson Controls International PLC",
+      "startDate": "2010-08-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "JKHY",
+      "name": "Jack Henry & Associates Inc",
+      "startDate": "2018-11-13",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "JNJ",
+      "name": "Johnson & Johnson",
+      "startDate": "1973-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "JNPR",
+      "name": "Juniper Networks Inc",
+      "startDate": "2006-06-02",
+      "endDate": "2025-07-09",
+      "isDelisted": 1
+    },
+    {
+      "code": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "startDate": "1975-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "K",
+      "name": "Kellanova",
+      "startDate": "1989-09-11",
+      "endDate": "2025-12-11",
+      "isDelisted": 1
+    },
+    {
+      "code": "KD",
+      "name": "Kyndryl Holdings Inc",
+      "startDate": "2021-11-04",
+      "endDate": "2021-11-05",
+      "isDelisted": 0
+    },
+    {
+      "code": "KDP",
+      "name": "Keurig Dr Pepper Inc",
+      "startDate": "2022-06-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KEY",
+      "name": "KeyCorp",
+      "startDate": "1994-03-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KEYS",
+      "name": "Keysight Technologies Inc",
+      "startDate": "2018-11-06",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KHC",
+      "name": "Kraft Heinz Co",
+      "startDate": "2012-10-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KIM",
+      "name": "Kimco Realty Corporation",
+      "startDate": "2006-04-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KKR",
+      "name": "KKR & Co LP",
+      "startDate": "2024-06-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KLAC",
+      "name": "KLA Corporation",
+      "startDate": "1997-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KLG",
+      "name": "WK Kellogg Co",
+      "startDate": "2023-10-02",
+      "endDate": "2023-10-03",
+      "isDelisted": 1
+    },
+    {
+      "code": "KMB",
+      "name": "Kimberly-Clark Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KMI",
+      "name": "Kinder Morgan Inc",
+      "startDate": "2012-05-25",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KMX",
+      "name": "CarMax Inc",
+      "startDate": "2010-06-28",
+      "endDate": "2025-10-31",
+      "isDelisted": 0
+    },
+    {
+      "code": "KO",
+      "name": "The Coca-Cola Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KR",
+      "name": "Kroger Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "KSU",
+      "name": "Kansas City Southern",
+      "startDate": "2013-05-24",
+      "endDate": "2021-12-14",
+      "isDelisted": 1
+    },
+    {
+      "code": "KVUE",
+      "name": "Kenvue Inc.",
+      "startDate": "2023-08-25",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "L",
+      "name": "Loews Corp",
+      "startDate": "1995-05-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LDOS",
+      "name": "Leidos Holdings Inc",
+      "startDate": "2019-08-09",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LEN",
+      "name": "Lennar Corporation",
+      "startDate": "2005-10-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LH",
+      "name": "Laboratory Corporation of America Holdings",
+      "startDate": "2004-11-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LHX",
+      "name": "L3Harris Technologies Inc",
+      "startDate": "2008-09-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LII",
+      "name": "Lennox International Inc",
+      "startDate": "2024-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LIN",
+      "name": "Linde plc Ordinary Shares",
+      "startDate": "1992-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LKQ",
+      "name": "LKQ Corporation",
+      "startDate": "2016-05-23",
+      "endDate": "2025-12-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "LLY",
+      "name": "Eli Lilly and Company",
+      "startDate": "1970-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LNT",
+      "name": "Alliant Energy Corp",
+      "startDate": "2016-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LOW",
+      "name": "Lowe's Companies Inc",
+      "startDate": "1984-02-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LRCX",
+      "name": "Lam Research Corp",
+      "startDate": "2012-06-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LULU",
+      "name": "Lululemon Athletica Inc.",
+      "startDate": "2023-10-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LUV",
+      "name": "Southwest Airlines Company",
+      "startDate": "1994-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LVS",
+      "name": "Las Vegas Sands Corp",
+      "startDate": "2019-10-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LW",
+      "name": "Lamb Weston Holdings Inc",
+      "startDate": "2018-12-03",
+      "endDate": "2026-03-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "LYB",
+      "name": "LyondellBasell Industries NV",
+      "startDate": "2012-09-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "LYV",
+      "name": "Live Nation Entertainment Inc",
+      "startDate": "2019-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MA",
+      "name": "Mastercard Inc",
+      "startDate": "2008-07-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MAA",
+      "name": "Mid-America Apartment Communities Inc",
+      "startDate": "2016-12-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MAR",
+      "name": "Marriott International Inc",
+      "startDate": "1998-05-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MAS",
+      "name": "Masco Corporation",
+      "startDate": "1981-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MBC",
+      "name": "MasterBrand Inc.",
+      "startDate": "2022-12-15",
+      "endDate": "2022-12-19",
+      "isDelisted": 0
+    },
+    {
+      "code": "MCD",
+      "name": "McDonald’s Corporation",
+      "startDate": "1970-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MCHP",
+      "name": "Microchip Technology Inc",
+      "startDate": "2007-09-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MCK",
+      "name": "McKesson Corporation",
+      "startDate": "1999-01-13",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MCO",
+      "name": "Moodys Corporation",
+      "startDate": "1998-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MDLZ",
+      "name": "Mondelez International Inc",
+      "startDate": "2012-10-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MDT",
+      "name": "Medtronic PLC",
+      "startDate": "1986-10-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MET",
+      "name": "MetLife Inc",
+      "startDate": "2000-12-11",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "META",
+      "name": "Meta Platforms Inc.",
+      "startDate": "2013-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MGM",
+      "name": "MGM Resorts International",
+      "startDate": "2017-07-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MHK",
+      "name": "Mohawk Industries Inc",
+      "startDate": "2013-12-23",
+      "endDate": "2025-12-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "MKC",
+      "name": "McCormick & Company Incorporated",
+      "startDate": "2003-03-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MKTX",
+      "name": "MarketAxess Holdings Inc",
+      "startDate": "2019-07-01",
+      "endDate": "2025-09-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "MLM",
+      "name": "Martin Marietta Materials Inc",
+      "startDate": "2014-07-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MMM",
+      "name": "3M Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MNST",
+      "name": "Monster Beverage Corp",
+      "startDate": "2012-06-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MO",
+      "name": "Altria Group",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MOH",
+      "name": "Molina Healthcare Inc",
+      "startDate": "2022-03-02",
+      "endDate": "2026-03-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "MOS",
+      "name": "The Mosaic Company",
+      "startDate": "2011-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MPC",
+      "name": "Marathon Petroleum Corp",
+      "startDate": "2011-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MPWR",
+      "name": "Monolithic Power Systems Inc",
+      "startDate": "2021-02-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MRK",
+      "name": "Merck & Company Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MRNA",
+      "name": "Moderna Inc",
+      "startDate": "2021-07-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MRO",
+      "name": "Marathon Oil Corporation",
+      "startDate": "1957-03-04",
+      "endDate": "2024-11-26",
+      "isDelisted": 1
+    },
+    {
+      "code": "MRP_old",
+      "name": "Millrose Properties Inc CL A",
+      "startDate": "2025-01-21",
+      "endDate": "2025-02-10",
+      "isDelisted": 1
+    },
+    {
+      "code": "MRSH",
+      "name": "Marsh & McLennan Companies, Inc.",
+      "startDate": "1987-08-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MS",
+      "name": "Morgan Stanley",
+      "startDate": "1993-07-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MSCI",
+      "name": "MSCI Inc",
+      "startDate": "2018-04-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MSFT",
+      "name": "Microsoft Corporation",
+      "startDate": "1994-06-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MSI",
+      "name": "Motorola Solutions Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MTB",
+      "name": "M&T Bank Corporation",
+      "startDate": "2004-02-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MTCH",
+      "name": "Match Group Inc",
+      "startDate": "2021-09-20",
+      "endDate": "2026-03-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "MTD",
+      "name": "Mettler-Toledo International Inc",
+      "startDate": "2016-09-06",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MU",
+      "name": "Micron Technology Inc",
+      "startDate": "1994-09-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "MXIM",
+      "name": "Maxim Integrated Products Inc",
+      "startDate": "2018-12-03",
+      "endDate": "2021-08-30",
+      "isDelisted": 1
+    },
+    {
+      "code": "NCLH",
+      "name": "Norwegian Cruise Line Holdings Ltd",
+      "startDate": "2017-10-13",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NDAQ",
+      "name": "Nasdaq Inc",
+      "startDate": "2008-10-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NDSN",
+      "name": "Nordson Corporation",
+      "startDate": "2022-02-15",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NEE",
+      "name": "Nextera Energy Inc",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NEM",
+      "name": "Newmont Goldcorp Corp",
+      "startDate": "1969-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NFLX",
+      "name": "Netflix Inc",
+      "startDate": "2010-12-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NI",
+      "name": "NiSource Inc",
+      "startDate": "2000-11-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NKE",
+      "name": "Nike Inc",
+      "startDate": "1988-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NLSN",
+      "name": "Nielsen Holdings PLC",
+      "startDate": "2013-07-09",
+      "endDate": "2022-10-12",
+      "isDelisted": 1
+    },
+    {
+      "code": "NOC",
+      "name": "Northrop Grumman Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NOW",
+      "name": "ServiceNow Inc",
+      "startDate": "2019-11-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NRG",
+      "name": "NRG Energy Inc.",
+      "startDate": "2010-01-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NSC",
+      "name": "Norfolk Southern Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NTAP",
+      "name": "NetApp Inc",
+      "startDate": "1999-06-25",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NTRS",
+      "name": "Northern Trust Corporation",
+      "startDate": "1998-01-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NUE",
+      "name": "Nucor Corp",
+      "startDate": "1985-04-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NVDA",
+      "name": "NVIDIA Corporation",
+      "startDate": "2001-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NVR",
+      "name": "NVR Inc",
+      "startDate": "2019-09-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NWS",
+      "name": "News Corp B",
+      "startDate": "2015-09-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NWSA",
+      "name": "News Corp A",
+      "startDate": "2013-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "NXPI",
+      "name": "NXP Semiconductors NV",
+      "startDate": "2021-03-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "O",
+      "name": "Realty Income Corporation",
+      "startDate": "2015-04-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ODFL",
+      "name": "Old Dominion Freight Line Inc",
+      "startDate": "2019-12-09",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "OGN",
+      "name": "Organon & Co",
+      "startDate": "2021-06-03",
+      "endDate": "2023-10-18",
+      "isDelisted": 0
+    },
+    {
+      "code": "OKE",
+      "name": "ONEOK Inc",
+      "startDate": "2010-03-15",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "OMC",
+      "name": "Omnicom Group Inc",
+      "startDate": "1997-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ON",
+      "name": "ON Semiconductor Corporation",
+      "startDate": "2022-06-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ONL",
+      "name": "Orion Office Reit Inc",
+      "startDate": "2021-11-15",
+      "endDate": "2021-11-16",
+      "isDelisted": 0
+    },
+    {
+      "code": "ORCL",
+      "name": "Oracle Corporation",
+      "startDate": "1989-08-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ORLY",
+      "name": "O’Reilly Automotive Inc",
+      "startDate": "2009-03-27",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "OTIS",
+      "name": "Otis Worldwide Corp",
+      "startDate": "2020-04-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "OXY",
+      "name": "Occidental Petroleum Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PANW",
+      "name": "Palo Alto Networks Inc",
+      "startDate": "2023-06-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PAYC",
+      "name": "Paycom Software, Inc.",
+      "startDate": "2020-01-28",
+      "endDate": "2026-03-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "PAYX",
+      "name": "Paychex Inc",
+      "startDate": "1998-10-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PCAR",
+      "name": "PACCAR Inc",
+      "startDate": "1980-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PCG",
+      "name": "PG&E Corp",
+      "startDate": "2022-10-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PEG",
+      "name": "Public Service Enterprise Group Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PENN",
+      "name": "Penn National Gaming Inc",
+      "startDate": "2021-03-22",
+      "endDate": "2022-09-19",
+      "isDelisted": 0
+    },
+    {
+      "code": "PEP",
+      "name": "PepsiCo Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PFE",
+      "name": "Pfizer Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PFG",
+      "name": "Principal Financial Group Inc",
+      "startDate": "2002-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PG",
+      "name": "Procter & Gamble Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PGR",
+      "name": "Progressive Corp",
+      "startDate": "1997-08-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PH",
+      "name": "Parker-Hannifin Corporation",
+      "startDate": "1985-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PHIN",
+      "name": "PHINIA Inc.",
+      "startDate": "2023-07-05",
+      "endDate": "2023-07-06",
+      "isDelisted": 0
+    },
+    {
+      "code": "PHM",
+      "name": "PulteGroup Inc",
+      "startDate": "1984-04-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PKG",
+      "name": "Packaging Corp of America",
+      "startDate": "2017-07-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PLD",
+      "name": "Prologis Inc",
+      "startDate": "2003-07-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "startDate": "2024-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PM",
+      "name": "Philip Morris International Inc",
+      "startDate": "2008-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PNC",
+      "name": "PNC Financial Services Group Inc",
+      "startDate": "1988-04-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PNR",
+      "name": "Pentair PLC",
+      "startDate": "2012-10-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PNW",
+      "name": "Pinnacle West Capital Corp",
+      "startDate": "1999-10-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PODD",
+      "name": "Insulet Corporation",
+      "startDate": "2023-03-15",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "POOL",
+      "name": "Pool Corporation",
+      "startDate": "2020-10-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PPG",
+      "name": "PPG Industries Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PPL",
+      "name": "PPL Corporation",
+      "startDate": "2001-10-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PRGO",
+      "name": "Perrigo Company PLC",
+      "startDate": "2011-12-16",
+      "endDate": "2021-09-20",
+      "isDelisted": 0
+    },
+    {
+      "code": "PRU",
+      "name": "Prudential Financial Inc",
+      "startDate": "2002-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PSA",
+      "name": "Public Storage",
+      "startDate": "2005-08-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PSKY",
+      "name": "Paramount Skydance Corporation Class B Common Stock",
+      "startDate": "1994-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PSX",
+      "name": "Phillips 66",
+      "startDate": "2012-05-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PTC",
+      "name": "PTC Inc",
+      "startDate": "2021-04-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PVH",
+      "name": "PVH Corp",
+      "startDate": "2013-02-14",
+      "endDate": "2022-09-19",
+      "isDelisted": 0
+    },
+    {
+      "code": "PWR",
+      "name": "Quanta Services Inc",
+      "startDate": "2009-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "PXD",
+      "name": "Pioneer Natural Resources Co",
+      "startDate": "2008-09-24",
+      "endDate": "2024-05-08",
+      "isDelisted": 1
+    },
+    {
+      "code": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "startDate": "2015-07-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "Q",
+      "name": "Qnity Electronics, Inc",
+      "startDate": "2025-11-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "QCOM",
+      "name": "Qualcomm Incorporated",
+      "startDate": "1999-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "QRVO",
+      "name": "Qorvo Inc",
+      "startDate": "2015-06-12",
+      "endDate": "2024-12-23",
+      "isDelisted": 0
+    },
+    {
+      "code": "RAL_old",
+      "name": "Ralston Purina Co",
+      "startDate": "2025-06-30",
+      "endDate": "2025-07-01",
+      "isDelisted": 1
+    },
+    {
+      "code": "RCL",
+      "name": "Royal Caribbean Cruises Ltd",
+      "startDate": "2014-12-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "REG",
+      "name": "Regency Centers Corporation",
+      "startDate": "2017-03-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "startDate": "2013-05-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RF",
+      "name": "Regions Financial Corporation",
+      "startDate": "1998-08-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RHI",
+      "name": "Robert Half International Inc",
+      "startDate": "2000-12-05",
+      "endDate": "2024-06-24",
+      "isDelisted": 0
+    },
+    {
+      "code": "RJF",
+      "name": "Raymond James Financial Inc.",
+      "startDate": "2017-03-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RL",
+      "name": "Ralph Lauren Corp Class A",
+      "startDate": "2007-02-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RMD",
+      "name": "ResMed Inc",
+      "startDate": "2017-07-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ROK",
+      "name": "Rockwell Automation Inc",
+      "startDate": "2000-03-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ROL",
+      "name": "Rollins Inc",
+      "startDate": "2018-10-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ROP",
+      "name": "Roper Technologies Inc",
+      "startDate": "2009-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ROST",
+      "name": "Ross Stores Inc",
+      "startDate": "2009-12-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RSG",
+      "name": "Republic Services Inc",
+      "startDate": "2008-12-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RTX",
+      "name": "Raytheon Technologies Corp",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "RVTY",
+      "name": "Revvity Inc.",
+      "startDate": "1985-05-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SBAC",
+      "name": "SBA Communications Corp",
+      "startDate": "2017-09-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SBNY",
+      "name": "Signature Bank",
+      "startDate": "2021-12-20",
+      "endDate": "2023-03-15",
+      "isDelisted": 0
+    },
+    {
+      "code": "SBUX",
+      "name": "Starbucks Corporation",
+      "startDate": "2000-06-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SCHW",
+      "name": "Charles Schwab Corp",
+      "startDate": "1997-06-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SEDG",
+      "name": "SolarEdge Technologies Inc",
+      "startDate": "2021-12-20",
+      "endDate": "2023-12-18",
+      "isDelisted": 0
+    },
+    {
+      "code": "SHW",
+      "name": "Sherwin-Williams Co",
+      "startDate": "1964-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SIVB",
+      "name": "SVB Financial Group",
+      "startDate": "2018-03-19",
+      "endDate": "2023-03-15",
+      "isDelisted": 1
+    },
+    {
+      "code": "SJM",
+      "name": "The J. M. Smucker Company",
+      "startDate": "2008-11-06",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SLB",
+      "name": "Schlumberger NV",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SLG",
+      "name": "SL Green Realty Corp",
+      "startDate": "2015-03-23",
+      "endDate": "2021-03-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "SLVM",
+      "name": "Sylvamo Corp",
+      "startDate": "2021-10-01",
+      "endDate": "2021-10-04",
+      "isDelisted": 0
+    },
+    {
+      "code": "SMCI",
+      "name": "Super Micro Computer Inc",
+      "startDate": "2024-03-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SNA",
+      "name": "Snap-On Inc",
+      "startDate": "1982-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SNDK",
+      "name": "Sandisk Corp",
+      "startDate": "2025-11-28",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SNPS",
+      "name": "Synopsys Inc",
+      "startDate": "2017-03-16",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SO",
+      "name": "Southern Company",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SOLS",
+      "name": "Solstice Advanced Materials, Inc",
+      "startDate": "2025-10-30",
+      "endDate": "2025-12-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "SOLV",
+      "name": "Solventum Corp.",
+      "startDate": "2024-04-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SPG",
+      "name": "Simon Property Group Inc",
+      "startDate": "2002-06-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SPGI",
+      "name": "S&P Global Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SRE",
+      "name": "Sempra Energy",
+      "startDate": "2017-03-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "STE",
+      "name": "STERIS plc",
+      "startDate": "2019-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "STLD",
+      "name": "Steel Dynamics Inc",
+      "startDate": "2022-12-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "STT",
+      "name": "State Street Corp",
+      "startDate": "2003-03-14",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "STX",
+      "name": "Seagate Technology PLC",
+      "startDate": "2012-07-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "STZ",
+      "name": "Constellation Brands Inc Class A",
+      "startDate": "2005-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SW",
+      "name": "Smurfit WestRock plc",
+      "startDate": "2024-07-08",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SWK",
+      "name": "Stanley Black & Decker Inc",
+      "startDate": "1982-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SWKS",
+      "name": "Skyworks Solutions Inc",
+      "startDate": "2015-03-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SYF",
+      "name": "Synchrony Financial",
+      "startDate": "2015-11-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SYK",
+      "name": "Stryker Corporation",
+      "startDate": "2000-12-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "SYY",
+      "name": "Sysco Corporation",
+      "startDate": "1986-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "T",
+      "name": "AT&T Inc",
+      "startDate": "1983-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TAP",
+      "name": "Molson Coors Brewing Co Class B",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TDG",
+      "name": "Transdigm Group Incorporated",
+      "startDate": "2016-06-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TDY",
+      "name": "Teledyne Technologies Incorporated",
+      "startDate": "2020-06-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TECH",
+      "name": "Bio-Techne Corp",
+      "startDate": "2021-08-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TEL",
+      "name": "TE Connectivity Ltd",
+      "startDate": "2011-10-14",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TER",
+      "name": "Teradyne Inc",
+      "startDate": "2020-09-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TFC",
+      "name": "Truist Financial Corp",
+      "startDate": "1997-12-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TFX",
+      "name": "Teleflex Incorporated",
+      "startDate": "2019-01-18",
+      "endDate": "2025-03-24",
+      "isDelisted": 0
+    },
+    {
+      "code": "TGT",
+      "name": "Target Corporation",
+      "startDate": "1976-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TJX",
+      "name": "The TJX Companies Inc",
+      "startDate": "1985-09-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TKO",
+      "name": "TKO Group Holdings, Inc.",
+      "startDate": "2025-03-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "startDate": "2004-08-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TMUS",
+      "name": "T-Mobile US Inc",
+      "startDate": "2019-07-15",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TPL",
+      "name": "Texas Pacific Land Trust",
+      "startDate": "2024-11-26",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TPR",
+      "name": "Tapestry Inc",
+      "startDate": "2004-09-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TRGP",
+      "name": "Targa Resources Inc",
+      "startDate": "2022-10-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TRMB",
+      "name": "Trimble Inc",
+      "startDate": "2021-01-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TROW",
+      "name": "T. Rowe Price Group Inc",
+      "startDate": "2019-07-29",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TRV",
+      "name": "The Travelers Companies Inc",
+      "startDate": "2002-08-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TSCO",
+      "name": "Tractor Supply Company",
+      "startDate": "2014-01-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TSLA",
+      "name": "Tesla Inc",
+      "startDate": "2020-12-21",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TSN",
+      "name": "Tyson Foods Inc",
+      "startDate": "2005-08-10",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TT",
+      "name": "Trane Technologies plc",
+      "startDate": "2010-11-17",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TTD",
+      "name": "Trade Desk Inc",
+      "startDate": "2025-07-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TTWO",
+      "name": "Take-Two Interactive Software Inc",
+      "startDate": "2018-03-19",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TWTR",
+      "name": "Twitter Inc",
+      "startDate": "2018-06-07",
+      "endDate": "2022-11-01",
+      "isDelisted": 1
+    },
+    {
+      "code": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "startDate": "2001-03-12",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TXT",
+      "name": "Textron Inc",
+      "startDate": "1978-12-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "TYL",
+      "name": "Tyler Technologies Inc",
+      "startDate": "2020-06-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UA",
+      "name": "Under Armour Inc C",
+      "startDate": "2016-04-08",
+      "endDate": "2022-06-21",
+      "isDelisted": 0
+    },
+    {
+      "code": "UAA",
+      "name": "Under Armour Inc A",
+      "startDate": "2014-05-01",
+      "endDate": "2022-06-21",
+      "isDelisted": 0
+    },
+    {
+      "code": "UAL",
+      "name": "United Airlines Holdings Inc",
+      "startDate": "2015-09-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UBER",
+      "name": "Uber Technologies Inc",
+      "startDate": "2023-12-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UDR",
+      "name": "UDR Inc",
+      "startDate": "2016-03-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UHS",
+      "name": "Universal Health Services Inc",
+      "startDate": "2014-09-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ULTA",
+      "name": "Ulta Beauty Inc",
+      "startDate": "2016-04-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "startDate": "1994-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UNP",
+      "name": "Union Pacific Corporation",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "UPS",
+      "name": "United Parcel Service Inc",
+      "startDate": "2002-07-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "URI",
+      "name": "United Rentals Inc",
+      "startDate": "2014-09-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "USB",
+      "name": "U.S. Bancorp",
+      "startDate": "1999-11-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "V",
+      "name": "Visa Inc. Class A",
+      "startDate": "2009-12-18",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VFC",
+      "name": "VF Corporation",
+      "startDate": "1979-06-30",
+      "endDate": "2024-04-03",
+      "isDelisted": 0
+    },
+    {
+      "code": "VICI",
+      "name": "VICI Properties Inc",
+      "startDate": "2022-06-08",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VLO",
+      "name": "Valero Energy Corporation",
+      "startDate": "2002-12-20",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VLTO",
+      "name": "Veralto Corporation",
+      "startDate": "2023-10-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VMC",
+      "name": "Vulcan Materials Company",
+      "startDate": "1999-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VNT",
+      "name": "Vontier Corp",
+      "startDate": "2020-10-09",
+      "endDate": "2021-03-22",
+      "isDelisted": 0
+    },
+    {
+      "code": "VRSK",
+      "name": "Verisk Analytics Inc",
+      "startDate": "2015-10-08",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VRSN",
+      "name": "VeriSign Inc",
+      "startDate": "2006-02-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VRTX",
+      "name": "Vertex Pharmaceuticals Inc",
+      "startDate": "2013-09-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VSCO",
+      "name": "Victoria's Secret & Co",
+      "startDate": "2021-08-03",
+      "endDate": "2021-08-04",
+      "isDelisted": 0
+    },
+    {
+      "code": "VSNT_old",
+      "name": "Versant Corp",
+      "startDate": "2026-01-05",
+      "endDate": "2026-01-06",
+      "isDelisted": 1
+    },
+    {
+      "code": "VST",
+      "name": "Vistra Energy Corp",
+      "startDate": "2024-05-08",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VTR",
+      "name": "Ventas Inc",
+      "startDate": "2009-03-03",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VTRS",
+      "name": "Viatris Inc",
+      "startDate": "2004-04-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "VZ",
+      "name": "Verizon Communications Inc",
+      "startDate": "1983-11-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WAT",
+      "name": "Waters Corporation",
+      "startDate": "2002-01-02",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WBA",
+      "name": "Walgreens Boots Alliance Inc",
+      "startDate": "1979-12-31",
+      "endDate": "2025-08-28",
+      "isDelisted": 1
+    },
+    {
+      "code": "WBD",
+      "name": "Warner Bros Discovery Inc",
+      "startDate": "2014-08-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WDAY",
+      "name": "Workday Inc",
+      "startDate": "2024-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WDC",
+      "name": "Western Digital Corporation",
+      "startDate": "2009-07-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WEC",
+      "name": "WEC Energy Group Inc",
+      "startDate": "2008-10-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WELL",
+      "name": "Welltower Inc",
+      "startDate": "2009-01-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WFC",
+      "name": "Wells Fargo & Company",
+      "startDate": "1976-06-30",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WHR",
+      "name": "Whirlpool Corporation",
+      "startDate": "1958-03-31",
+      "endDate": "2024-03-18",
+      "isDelisted": 0
+    },
+    {
+      "code": "WM",
+      "name": "Waste Management Inc",
+      "startDate": "1998-08-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WMB",
+      "name": "Williams Companies Inc",
+      "startDate": "1975-03-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WMT",
+      "name": "Walmart Inc.",
+      "startDate": "1982-08-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WRB",
+      "name": "W. R. Berkley Corp",
+      "startDate": "2019-12-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WSM",
+      "name": "Williams-Sonoma Inc",
+      "startDate": "2025-03-24",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WST",
+      "name": "West Pharmaceutical Services Inc",
+      "startDate": "2020-05-22",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WTW",
+      "name": "Willis Towers Watson PLC",
+      "startDate": "2016-01-05",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WY",
+      "name": "Weyerhaeuser Company",
+      "startDate": "1979-10-01",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "WYNN",
+      "name": "Wynn Resorts Limited",
+      "startDate": "2008-11-14",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "XEL",
+      "name": "Xcel Energy Inc",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "XOM",
+      "name": "Exxon Mobil Corp",
+      "startDate": "1957-03-04",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "XRAY",
+      "name": "Dentsply Sirona Inc",
+      "startDate": "2008-11-14",
+      "endDate": "2024-04-03",
+      "isDelisted": 0
+    },
+    {
+      "code": "XYL",
+      "name": "Xylem Inc",
+      "startDate": "2011-10-31",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "XYZ",
+      "name": "Block, Inc",
+      "startDate": "2025-07-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "YUM",
+      "name": "Yum! Brands Inc",
+      "startDate": "1997-10-06",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ZBH",
+      "name": "Zimmer Biomet Holdings Inc",
+      "startDate": "2001-08-07",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ZBRA",
+      "name": "Zebra Technologies Corporation",
+      "startDate": "2019-12-23",
+      "endDate": null,
+      "isDelisted": 0
+    },
+    {
+      "code": "ZIMV",
+      "name": "ZimVie Inc",
+      "startDate": "2022-03-01",
+      "endDate": "2022-03-02",
+      "isDelisted": 0
+    },
+    {
+      "code": "ZION",
+      "name": "Zions Bancorporation",
+      "startDate": "2001-06-22",
+      "endDate": "2024-03-18",
+      "isDelisted": 0
+    },
+    {
+      "code": "ZTS",
+      "name": "Zoetis Inc",
+      "startDate": "2013-06-24",
+      "endDate": null,
+      "isDelisted": 0
+    }
+  ],
+  "STOXX50E.INDX": [],
+  "SSMI.INDX": []
+}

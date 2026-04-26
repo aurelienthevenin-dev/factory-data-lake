@@ -1,0 +1,503 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.6621,
+        "totalAssets": 0.1978,
+        "currentShares": 38628336,
+        "change": 205712,
+        "change_p": 0.5354
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.2278,
+        "totalAssets": 0.13,
+        "currentShares": 22563043,
+        "change": 171108,
+        "change_p": 0.7642
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.0209,
+        "totalAssets": 0.2076,
+        "currentShares": 18190600,
+        "change": 57026,
+        "change_p": 0.3145
+      },
+      "3": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 4.6408,
+        "totalAssets": 0.9312,
+        "currentShares": 16813303,
+        "change": -9301118,
+        "change_p": -35.6168
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.9649,
+        "totalAssets": 0.2587,
+        "currentShares": 14364768,
+        "change": 1111061,
+        "change_p": 8.383
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2134,
+        "totalAssets": 0.1598,
+        "currentShares": 8018892,
+        "change": -78435,
+        "change_p": -0.9687
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9506,
+        "totalAssets": 0.1534,
+        "currentShares": 7067038,
+        "change": 23714,
+        "change_p": 0.3367
+      },
+      "7": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9267,
+        "totalAssets": 1.4804,
+        "currentShares": 6980223,
+        "change": 1064684,
+        "change_p": 17.9981
+      },
+      "8": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.8179,
+        "totalAssets": 0.0649,
+        "currentShares": 6586002,
+        "change": 3969483,
+        "change_p": 151.7085
+      },
+      "9": {
+        "name": "Coatue Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6305,
+        "totalAssets": 5.222,
+        "currentShares": 5907174,
+        "change": 181211,
+        "change_p": 3.1647
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1421,
+        "totalAssets": 0.1564,
+        "currentShares": 4137620,
+        "change": -71178,
+        "change_p": -1.6912
+      },
+      "11": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1402,
+        "totalAssets": 0.1454,
+        "currentShares": 4130795,
+        "change": -1751252,
+        "change_p": -29.7728
+      },
+      "12": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1269,
+        "totalAssets": 0.2554,
+        "currentShares": 4082831,
+        "change": 676302,
+        "change_p": 19.8531
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9791,
+        "totalAssets": 0.1839,
+        "currentShares": 3547390,
+        "change": -8055,
+        "change_p": -0.2266
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9394,
+        "totalAssets": 0.2009,
+        "currentShares": 3403354,
+        "change": -38925,
+        "change_p": -1.1308
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8618,
+        "totalAssets": 0.1314,
+        "currentShares": 3122251,
+        "change": 540,
+        "change_p": 0.0173
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7943,
+        "totalAssets": 0.0642,
+        "currentShares": 2877776,
+        "change": 106287,
+        "change_p": 3.835
+      },
+      "17": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.6474,
+        "totalAssets": 0.1127,
+        "currentShares": 2345331,
+        "change": 1425820,
+        "change_p": 155.0629
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6329,
+        "totalAssets": 0.1182,
+        "currentShares": 2292821,
+        "change": -413951,
+        "change_p": -15.2932
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6144,
+        "totalAssets": 0.1222,
+        "currentShares": 2225952,
+        "change": 47207,
+        "change_p": 2.1667
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7009,
+        "totalAssets": 0.1369,
+        "currentShares": 9785212,
+        "change": -97055,
+        "change_p": -0.9821
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1899,
+        "totalAssets": 0.1557,
+        "currentShares": 7934068,
+        "change": -98645,
+        "change_p": -1.228
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.097,
+        "totalAssets": 0.5717,
+        "currentShares": 7597329,
+        "change": -25413,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.9269,
+        "totalAssets": 0.9777,
+        "currentShares": 6981089,
+        "change": 1358708,
+        "change_p": 24.1661
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.8365,
+        "totalAssets": 0.935,
+        "currentShares": 6653653,
+        "change": -136458,
+        "change_p": -2.0097
+      },
+      "5": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5519,
+        "totalAssets": 0.9539,
+        "currentShares": 5622381,
+        "change": -1020270,
+        "change_p": -15.3594
+      },
+      "6": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4653,
+        "totalAssets": 6.1041,
+        "currentShares": 5308834,
+        "change": -4527,
+        "change_p": -0.0852
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1057,
+        "totalAssets": 0.1553,
+        "currentShares": 4006058,
+        "change": -2184,
+        "change_p": -0.0545
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.097,
+        "totalAssets": 0.175,
+        "currentShares": 3974281,
+        "change": 6550,
+        "change_p": 0.1651
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.0871,
+        "totalAssets": 0.3589,
+        "currentShares": 3938341,
+        "change": 1450877,
+        "change_p": 58.3276
+      },
+      "10": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9963,
+        "totalAssets": 1.1434,
+        "currentShares": 3609663,
+        "change": -549799,
+        "change_p": -13.218
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9963,
+        "totalAssets": 0.155,
+        "currentShares": 3609560,
+        "change": -8869,
+        "change_p": -0.2451
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7855,
+        "totalAssets": 0.3521,
+        "currentShares": 2845986,
+        "change": -62399,
+        "change_p": -2.1455
+      },
+      "13": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.7318,
+        "totalAssets": 0.6774,
+        "currentShares": 2651433,
+        "change": -958230,
+        "change_p": -26.5462
+      },
+      "14": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6866,
+        "totalAssets": 0.2616,
+        "currentShares": 2487464,
+        "change": -1531511,
+        "change_p": -38.107
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6466,
+        "totalAssets": 2.239,
+        "currentShares": 2342695,
+        "change": -251216,
+        "change_p": -9.6848
+      },
+      "16": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5856,
+        "totalAssets": 5.4633,
+        "currentShares": 2121689,
+        "change": 23959,
+        "change_p": 1.1421
+      },
+      "17": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.5546,
+        "totalAssets": 0.3645,
+        "currentShares": 2009129,
+        "change": 507827,
+        "change_p": 33.8258
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4846,
+        "totalAssets": 0.1554,
+        "currentShares": 1755718,
+        "change": -13701,
+        "change_p": -0.7743
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 42.3689,
+    "ForwardPE": 25.641,
+    "PriceSalesTTM": 4.4488,
+    "PriceBookMRQ": 7.3065,
+    "EnterpriseValue": 111420011121,
+    "EnterpriseValueRevenue": 4.3638,
+    "EnterpriseValueEbitda": 18.6978
+  },
+  "Highlights": {
+    "MarketCapitalization": 113590239232,
+    "MarketCapitalizationMln": 113590.2392,
+    "EBITDA": 5632000000,
+    "PERatio": 42.3689,
+    "PEGRatio": 3.7418,
+    "WallStreetTargetPrice": 371.9805,
+    "BookValue": 46.476,
+    "DividendShare": 1.551,
+    "DividendYield": 0.0053,
+    "EarningsShare": 7.4,
+    "EPSEstimateCurrentYear": 11.6366,
+    "EPSEstimateNextYear": 13.6802,
+    "EPSEstimateNextQuarter": 2.352,
+    "EPSEstimateCurrentQuarter": 2.2494,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0908,
+    "OperatingMarginTTM": 0.096,
+    "ReturnOnAssetsTTM": 0.0344,
+    "ReturnOnEquityTTM": 0.1636,
+    "RevenueTTM": 25532999680,
+    "RevenuePerShareTTM": 81.575,
+    "QuarterlyRevenueGrowthYOY": 0.129,
+    "GrossProfitTTM": 4693000192,
+    "DilutedEpsTTM": 7.4,
+    "QuarterlyEarningsGrowthYOY": -0.489
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "CEG",
+    "Type": "Common Stock",
+    "Name": "Constellation Energy Corp",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG014KFRNP7",
+    "ISIN": "US21037T1097",
+    "LEI": "549300F8Y20RYGNGV346",
+    "PrimaryTicker": "CEG.US",
+    "CUSIP": "21037T109",
+    "CIK": "0001868275",
+    "EmployerIdNumber": "87-1210716",
+    "FiscalYearEnd": "December",
+    "IPODate": "2022-02-02",
+    "InternationalDomestic": null,
+    "Sector": "Utilities",
+    "Industry": "Utilities - Independent Power Producers",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": null,
+    "IsDelisted": false,
+    "Description": "Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions. The company has approximately 31,676 megawatts of generating capacity consisting of nuclear, wind, solar, natural gas, and hydroelectric assets. It serves distribution utilities, municipalities, cooperatives, and commercial, industrial, public sector, and residential customers. The company was incorporated in 2021 and is headquartered in Baltimore, Maryland.",
+    "Address": "1310 Point Street, Baltimore, MD, United States, 21231-3380",
+    "AddressData": {
+      "Street": "1310 Point Street",
+      "City": "Baltimore",
+      "State": "MD",
+      "Country": "United States",
+      "ZIP": "21231-3380"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Joseph  Dominguez",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Bryan Craig Hanson",
+        "Title": "Senior Executive VP & Chief Generation Officer",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Ms. Kathleen L. Barron",
+        "Title": "Executive VP & Senior Advisor to the CEO",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. Daniel L. Eggers C.F.A.",
+        "Title": "Senior Executive Vice President of Finance & Data Economy",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Mr. James  McHugh",
+        "Title": "Senior Executive VP & Chief Commercial Officer",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Shane P. Smith",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Mr. Michael R. Koehler",
+        "Title": "Executive VP & Chief Administration Officer",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Tim  Flottemesch",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Matthew  Price",
+        "Title": "Executive VP, Chief Legal Officer & General Counsel",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Susie  Kutansky",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "833 883 0162",
+    "WebURL": "https://www.constellationenergy.com",
+    "LogoURL": "/img/logos/US/CEG.png",
+    "FullTimeEmployees": 15291,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 362294672,
+    "SharesFloat": 338841053,
+    "PercentInsiders": 0.35000000000000003,
+    "PercentInstitutions": 79.264,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0294
+  }
+}

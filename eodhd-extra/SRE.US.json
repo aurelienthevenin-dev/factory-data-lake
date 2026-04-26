@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.745,
+        "totalAssets": 0.0982,
+        "currentShares": 76734070,
+        "change": 1008476,
+        "change_p": 1.3318
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3129,
+        "totalAssets": 0.0958,
+        "currentShares": 60843957,
+        "change": -3072149,
+        "change_p": -4.8065
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 7.9252,
+        "totalAssets": 0.7167,
+        "currentShares": 51777703,
+        "change": -2293503,
+        "change_p": -4.2416
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 7.1393,
+        "totalAssets": 0.7217,
+        "currentShares": 46643525,
+        "change": -3762238,
+        "change_p": -7.4639
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.355,
+        "totalAssets": 0.1092,
+        "currentShares": 34986169,
+        "change": 606101,
+        "change_p": 1.7629
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.1923,
+        "totalAssets": 0.0562,
+        "currentShares": 20856014,
+        "change": 15802284,
+        "change_p": 312.6856
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.9203,
+        "totalAssets": 0.1039,
+        "currentShares": 19079308,
+        "change": -94707,
+        "change_p": -0.4939
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.7926,
+        "totalAssets": 0.0821,
+        "currentShares": 18244907,
+        "change": -811396,
+        "change_p": -4.2579
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1886,
+        "totalAssets": 0.0776,
+        "currentShares": 14298845,
+        "change": 116554,
+        "change_p": 0.8218
+      },
+      "9": {
+        "name": "Newport Trust Co.",
+        "date": "2025-12-31",
+        "totalShares": 1.7933,
+        "totalAssets": 2.475,
+        "currentShares": 11715950,
+        "change": -491932,
+        "change_p": -4.0296
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5948,
+        "totalAssets": 0.1477,
+        "currentShares": 10419115,
+        "change": 2984409,
+        "change_p": 40.1416
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5861,
+        "totalAssets": 0.0979,
+        "currentShares": 10362712,
+        "change": 1102468,
+        "change_p": 11.9054
+      },
+      "12": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5532,
+        "totalAssets": 0.0977,
+        "currentShares": 10147456,
+        "change": 1986559,
+        "change_p": 24.3424
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5354,
+        "totalAssets": 0.0612,
+        "currentShares": 10031322,
+        "change": -220693,
+        "change_p": -2.1527
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4486,
+        "totalAssets": 0.2124,
+        "currentShares": 9463947,
+        "change": 1014779,
+        "change_p": 12.0104
+      },
+      "15": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.4024,
+        "totalAssets": 0.2634,
+        "currentShares": 9162075,
+        "change": -236477,
+        "change_p": -2.5161
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0315,
+        "totalAssets": 0.0776,
+        "currentShares": 6739419,
+        "change": 65358,
+        "change_p": 0.9793
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9566,
+        "totalAssets": 0.1224,
+        "currentShares": 6250068,
+        "change": -53882,
+        "change_p": -0.8547
+      },
+      "18": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9225,
+        "totalAssets": 0.426,
+        "currentShares": 6026893,
+        "change": -4899707,
+        "change_p": -44.842
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7917,
+        "totalAssets": 0.1011,
+        "currentShares": 5172604,
+        "change": -937306,
+        "change_p": -15.3407
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.3217,
+        "totalAssets": 0.9202,
+        "currentShares": 21701827,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1725,
+        "totalAssets": 0.1009,
+        "currentShares": 20726707,
+        "change": 81337,
+        "change_p": 0.394
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.544,
+        "totalAssets": 0.1135,
+        "currentShares": 16620622,
+        "change": -164750,
+        "change_p": -0.9815
+      },
+      "3": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.8452,
+        "totalAssets": 0.5875,
+        "currentShares": 12055481,
+        "change": -9646346,
+        "change_p": -44.4495
+      },
+      "4": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.7306,
+        "totalAssets": 0.8323,
+        "currentShares": 11306276,
+        "change": -478582,
+        "change_p": -4.061
+      },
+      "5": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7019,
+        "totalAssets": 4.4487,
+        "currentShares": 11119164,
+        "change": -9486,
+        "change_p": -0.0852
+      },
+      "6": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3855,
+        "totalAssets": 0.7167,
+        "currentShares": 9052195,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2842,
+        "totalAssets": 0.1132,
+        "currentShares": 8390232,
+        "change": -4572,
+        "change_p": -0.0545
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2714,
+        "totalAssets": 0.1067,
+        "currentShares": 8306163,
+        "change": 13669,
+        "change_p": 0.1648
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1603,
+        "totalAssets": 0.1133,
+        "currentShares": 7580557,
+        "change": -18620,
+        "change_p": -0.245
+      },
+      "10": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.079,
+        "totalAssets": 0.3447,
+        "currentShares": 7049711,
+        "change": -43445,
+        "change_p": -0.6125
+      },
+      "11": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9667,
+        "totalAssets": 0.892,
+        "currentShares": 6315671,
+        "change": -1130406,
+        "change_p": -15.1812
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9233,
+        "totalAssets": 0.2597,
+        "currentShares": 6032297,
+        "change": -44429,
+        "change_p": -0.7311
+      },
+      "13": {
+        "name": "Franklin Income A1",
+        "date": "2026-03-31",
+        "totalShares": 0.6888,
+        "totalAssets": 0.5599,
+        "currentShares": 4500000,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6882,
+        "totalAssets": 4.0285,
+        "currentShares": 4496032,
+        "change": 50765,
+        "change_p": 1.142
+      },
+      "15": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6325,
+        "totalAssets": 3.4519,
+        "currentShares": 4132033,
+        "change": 2534,
+        "change_p": 0.0614
+      },
+      "16": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6098,
+        "totalAssets": 0.8842,
+        "currentShares": 3983907,
+        "change": 2176,
+        "change_p": 0.0546
+      },
+      "17": {
+        "name": "Franklin Utilities A1",
+        "date": "2026-03-31",
+        "totalShares": 0.6089,
+        "totalAssets": 4.9868,
+        "currentShares": 3977900,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Pictet Glbl Sel Fd Glbl Utilities Eq P",
+        "date": "2025-12-31",
+        "totalShares": 0.5761,
+        "totalAssets": 4.5705,
+        "currentShares": 3763537,
+        "change": -41510,
+        "change_p": -1.0909
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5628,
+        "totalAssets": 0.1132,
+        "currentShares": 3677125,
+        "change": -18953,
+        "change_p": -0.5128
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 33.8909,
+    "ForwardPE": 18.315,
+    "PriceSalesTTM": 4.4439,
+    "PriceBookMRQ": 1.942,
+    "EnterpriseValue": 96366460333,
+    "EnterpriseValueRevenue": 7.033,
+    "EnterpriseValueEbitda": 18.3067
+  },
+  "Highlights": {
+    "MarketCapitalization": 60890591232,
+    "MarketCapitalizationMln": 60890.5912,
+    "EBITDA": 5501000192,
+    "PERatio": 33.8909,
+    "PEGRatio": 0.8397,
+    "WallStreetTargetPrice": 104.4118,
+    "BookValue": 48.403,
+    "DividendShare": 2.58,
+    "DividendYield": 0.0275,
+    "EarningsShare": 2.75,
+    "EPSEstimateCurrentYear": 5.1126,
+    "EPSEstimateNextYear": 5.5312,
+    "EPSEstimateNextQuarter": 1.4901,
+    "EPSEstimateCurrentQuarter": 1.1722,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.134,
+    "OperatingMarginTTM": 0.2774,
+    "ReturnOnAssetsTTM": 0.0177,
+    "ReturnOnEquityTTM": 0.0519,
+    "RevenueTTM": 13701999616,
+    "RevenuePerShareTTM": 20.993,
+    "QuarterlyRevenueGrowthYOY": -0.002,
+    "GrossProfitTTM": 5642999808,
+    "DilutedEpsTTM": 2.75,
+    "QuarterlyEarningsGrowthYOY": -0.482
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.96,
+    "TotalEsgPercentile": 62.06,
+    "EnvironmentScore": 16.57,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 12.28,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 11.11,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SRE",
+    "Type": "Common Stock",
+    "Name": "Sempra Energy",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C2ZCH8",
+    "ISIN": "US8168511090",
+    "LEI": "PBBKGKLRK5S5C0Y4T545",
+    "PrimaryTicker": "SRE.US",
+    "CUSIP": "816851208",
+    "CIK": "0001032208",
+    "EmployerIdNumber": "33-0732627",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-06-29",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Multi-Utilities",
+    "GicSubIndustry": "Multi-Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Sempra engages in the regulated utilities business in the United States and Mexico. It operates through three segments: Sempra California, Sempra Texas Utilities, and Sempra Infrastructure. It also invests in and operates electric and gas utilities and other energy infrastructure that provides energy services to customers. The Sempra California segment provides natural gas and electric services to Southern California and part of central California. As of December 31, 2025, it offered electric services to approximately 3.6 million population and natural gas services to approximately 3.3 million population that covers 4,100 square miles. This segment owns and operates a natural gas distribution, transmission, and storage system that supplies natural gas. As of December 31, 2025, it served a population of 21.3 million covering an area of 24,000 square miles. The Sempra Texas Utilities segment engages in the regulated electricity transmission and distribution utility business. As of December 31, 2025, transmission system included approximately 18,418 circuit miles of transmission lines; 1,333 transmission and distribution substations; interconnection to 230 third-party generation facilities totaling 63,670 MW; and distribution system included more than 4.1 million points of delivery and consisted of 127,398 circuit miles of overhead and underground lines. The Sempra Infrastructure segment develops, constructs, operates, and invests in energy infrastructure to help enable the access to cleaner energy in markets in the United States, Mexico, and internationally. The company was formerly known as Sempra Energy and changed its name to Sempra in May 2023. Sempra was incorporated in 1996 and is headquartered in San Diego, California.",
+    "Address": "488 8th Avenue, San Diego, CA, United States, 92101",
+    "AddressData": {
+      "Street": "488 8th Avenue",
+      "City": "San Diego",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92101"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SREA",
+        "Exchange": "US",
+        "Name": "DBA Sempra 5.750% Junior Subordinated Notes due 2079"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jeffrey Walker Martin",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Ms. Karen L. Sedgwick",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Ms. Diana L. Day",
+        "Title": "Chief Legal Counsel & Corporate Secretary",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Justin Christopher Bird",
+        "Title": "Executive VP & CEO of Sempra Infrastructure",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Ms. Caroline A. Winn",
+        "Title": "Executive Vice President",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Ms. Dyan Z. Wold",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Ms. Louise  Bick",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Sandeep K. Mor",
+        "Title": "Senior Vice President of Corporate Development",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Lisa M. Larroque Alexander",
+        "Title": "Senior VP of Corporate Affairs and Human Resources",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Mr. Glen A. Donovan",
+        "Title": "Senior Vice President of Finance",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "619 696 2000",
+    "WebURL": "https://www.sempra.com",
+    "LogoURL": "/img/logos/US/sre.png",
+    "FullTimeEmployees": 15938,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 653332556,
+    "SharesFloat": 652153958,
+    "PercentInsiders": 0.10300000000000001,
+    "PercentInstitutions": 94.99300000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0172
+  }
+}

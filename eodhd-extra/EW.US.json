@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.1551,
+        "totalAssets": 0.0866,
+        "currentShares": 70079435,
+        "change": -283775,
+        "change_p": -0.4033
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.4172,
+        "totalAssets": 0.0739,
+        "currentShares": 54294173,
+        "change": -1353059,
+        "change_p": -2.4315
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.6927,
+        "totalAssets": 0.1168,
+        "currentShares": 50117052,
+        "change": 23343565,
+        "change_p": 87.1891
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4437,
+        "totalAssets": 0.0691,
+        "currentShares": 25619632,
+        "change": -14746,
+        "change_p": -0.0575
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.7801,
+        "totalAssets": 0.3256,
+        "currentShares": 21793949,
+        "change": 989533,
+        "change_p": 4.7564
+      },
+      "5": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.2973,
+        "totalAssets": 0.2652,
+        "currentShares": 19010227,
+        "change": 1423365,
+        "change_p": 8.0933
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8762,
+        "totalAssets": 0.0721,
+        "currentShares": 16582547,
+        "change": 2003735,
+        "change_p": 13.7442
+      },
+      "7": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3902,
+        "totalAssets": 0.7053,
+        "currentShares": 13780515,
+        "change": -178259,
+        "change_p": -1.277
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2175,
+        "totalAssets": 0.067,
+        "currentShares": 12784902,
+        "change": -52243,
+        "change_p": -0.407
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6352,
+        "totalAssets": 0.086,
+        "currentShares": 9427396,
+        "change": 2003278,
+        "change_p": 26.9834
+      },
+      "10": {
+        "name": "Ninety One UK Limited",
+        "date": "2025-12-31",
+        "totalShares": 1.3416,
+        "totalAssets": 1.4138,
+        "currentShares": 7734946,
+        "change": -8082198,
+        "change_p": -51.0977
+      },
+      "11": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.3411,
+        "totalAssets": 0.5693,
+        "currentShares": 7732010,
+        "change": -1508187,
+        "change_p": -16.322
+      },
+      "12": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2717,
+        "totalAssets": 0.8721,
+        "currentShares": 7332126,
+        "change": -25662,
+        "change_p": -0.3488
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.129,
+        "totalAssets": 0.0307,
+        "currentShares": 6509350,
+        "change": -985242,
+        "change_p": -13.146
+      },
+      "14": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0547,
+        "totalAssets": 0.218,
+        "currentShares": 6080938,
+        "change": 4301241,
+        "change_p": 241.6839
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0477,
+        "totalAssets": 0.0601,
+        "currentShares": 6040645,
+        "change": -70882,
+        "change_p": -1.1598
+      },
+      "16": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.0278,
+        "totalAssets": 0.4599,
+        "currentShares": 5925627,
+        "change": 2359128,
+        "change_p": 66.1469
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9686,
+        "totalAssets": 0.0943,
+        "currentShares": 5584646,
+        "change": 4108270,
+        "change_p": 278.2672
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9676,
+        "totalAssets": 0.1549,
+        "currentShares": 5578796,
+        "change": -584849,
+        "change_p": -9.4887
+      },
+      "19": {
+        "name": "Wellcome Trust Ltd",
+        "date": "2025-12-31",
+        "totalShares": 0.8326,
+        "totalAssets": 4.3929,
+        "currentShares": 4800000,
+        "change": 0,
+        "change_p": 0
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1995,
+        "totalAssets": 0.074,
+        "currentShares": 18446396,
+        "change": 92156,
+        "change_p": 0.5021
+      },
+      "1": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.597,
+        "totalAssets": 3.2197,
+        "currentShares": 14972830,
+        "change": 1855285,
+        "change_p": 14.1435
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5629,
+        "totalAssets": 0.0832,
+        "currentShares": 14775993,
+        "change": -151177,
+        "change_p": -1.0128
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1762,
+        "totalAssets": 0.5056,
+        "currentShares": 12546778,
+        "change": -65681,
+        "change_p": -0.5208
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2937,
+        "totalAssets": 0.0829,
+        "currentShares": 7458826,
+        "change": -4056,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2809,
+        "totalAssets": 0.0853,
+        "currentShares": 7385045,
+        "change": 12175,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1709,
+        "totalAssets": 0.0831,
+        "currentShares": 6750798,
+        "change": -16562,
+        "change_p": -0.2447
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9311,
+        "totalAssets": 0.1905,
+        "currentShares": 5367927,
+        "change": -34662,
+        "change_p": -0.6416
+      },
+      "8": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7662,
+        "totalAssets": 1.2108,
+        "currentShares": 4417623,
+        "change": -400600,
+        "change_p": -8.3143
+      },
+      "9": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7357,
+        "totalAssets": 0.8746,
+        "currentShares": 4241382,
+        "change": 12864,
+        "change_p": 0.3042
+      },
+      "10": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.6462,
+        "totalAssets": 0.945,
+        "currentShares": 3725474,
+        "change": 3720929,
+        "change_p": 81868.6249
+      },
+      "11": {
+        "name": "JPMorgan US Equity L",
+        "date": "2026-02-28",
+        "totalShares": 0.6219,
+        "totalAssets": 0.939,
+        "currentShares": 3585514,
+        "change": -135308,
+        "change_p": -3.6365
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5671,
+        "totalAssets": 0.083,
+        "currentShares": 3269441,
+        "change": -16179,
+        "change_p": -0.4924
+      },
+      "13": {
+        "name": "Harbor Capital Appreciation Instl",
+        "date": "2026-03-31",
+        "totalShares": 0.561,
+        "totalAssets": 1.1406,
+        "currentShares": 3234566,
+        "change": -66026,
+        "change_p": -2.0004
+      },
+      "14": {
+        "name": "BGF World Healthscience A2",
+        "date": "2025-12-31",
+        "totalShares": 0.5469,
+        "totalAssets": 1.9687,
+        "currentShares": 3152909,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5373,
+        "totalAssets": 0.0821,
+        "currentShares": 3097720,
+        "change": 4300,
+        "change_p": 0.139
+      },
+      "16": {
+        "name": "Ninety One Global Franchise",
+        "date": "2025-12-31",
+        "totalShares": 0.5155,
+        "totalAssets": 2.7311,
+        "currentShares": 2971955,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Ninety One GSF Glb Frchs I Acc USD",
+        "date": "2025-12-31",
+        "totalShares": 0.5155,
+        "totalAssets": 2.7311,
+        "currentShares": 2971955,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "UniGlobal",
+        "date": "2026-02-28",
+        "totalShares": 0.4902,
+        "totalAssets": 0.9379,
+        "currentShares": 2826408,
+        "change": -278,
+        "change_p": -0.0098
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4546,
+        "totalAssets": 0.0829,
+        "currentShares": 2620983,
+        "change": 15047,
+        "change_p": 0.5774
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 44.0576,
+    "ForwardPE": 26.8097,
+    "PriceSalesTTM": 7.9959,
+    "PriceBookMRQ": 4.4461,
+    "EnterpriseValue": 42441003765,
+    "EnterpriseValueRevenue": 6.9947,
+    "EnterpriseValueEbitda": 29.2717
+  },
+  "Highlights": {
+    "MarketCapitalization": 48515985408,
+    "MarketCapitalizationMln": 48515.9854,
+    "EBITDA": 1794499968,
+    "PERatio": 44.0576,
+    "PEGRatio": 2.049,
+    "WallStreetTargetPrice": 96.3333,
+    "BookValue": 17.802,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.91,
+    "EPSEstimateCurrentYear": 2.9707,
+    "EPSEstimateNextYear": 3.32,
+    "EPSEstimateNextQuarter": 0.6903,
+    "EPSEstimateCurrentQuarter": 0.6188,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1769,
+    "OperatingMarginTTM": 0.237,
+    "ReturnOnAssetsTTM": 0.0765,
+    "ReturnOnEquityTTM": 0.1035,
+    "RevenueTTM": 6067599872,
+    "RevenuePerShareTTM": 10.376,
+    "QuarterlyRevenueGrowthYOY": 0.133,
+    "GrossProfitTTM": 4733400064,
+    "DilutedEpsTTM": 1.91,
+    "QuarterlyEarningsGrowthYOY": -0.766
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.68,
+    "TotalEsgPercentile": 24.1,
+    "EnvironmentScore": 4.78,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 13.43,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 10.96,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EW",
+    "Type": "Common Stock",
+    "Name": "Edwards Lifesciences Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRXP69",
+    "ISIN": "US28176E1082",
+    "LEI": "YA13X31F3V31L8TMPR58",
+    "PrimaryTicker": "EW.US",
+    "CUSIP": "28176E108",
+    "CIK": "0001099800",
+    "EmployerIdNumber": "36-4316614",
+    "FiscalYearEnd": "December",
+    "IPODate": "2000-03-27",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Edwards Lifesciences Corporation provides products and technologies to treat advanced cardiovascular diseases in the United States, Europe, Japan, and internationally. It offers transcatheter heart valve replacement products for minimally invasive replacement of aortic heart valves under the Edwards SAPIEN family of valves system; and transcatheter heart valve repair and replacement products to treat mitral and tricuspid valve diseases under the PASCAL and EVOQUE brands. The company also provides surgical structural heart solutions, such as aortic surgical valve under the INSPIRIS brand name; INSPIRIS RESILIA aortic valve, which offers RESILIA tissue and VFit technology; KONECT RESILIA, a pre-assembled tissue valve conduit for complex combined procedures; and MITRIS RESILIA valve. It distributes its products through a direct sales force and independent distributors. Edwards Lifesciences Corporation was founded in 1958 and is headquartered in Irvine, California.",
+    "Address": "One Edwards Way, Irvine, CA, United States, 92614",
+    "AddressData": {
+      "Street": "One Edwards Way",
+      "City": "Irvine",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92614"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Bernard J. Zovighian",
+        "Title": "CEO & Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Scott B. Ullem",
+        "Title": "Corporate VP & CFO",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Donald E. Bobo Jr.",
+        "Title": "Corporate Vice President of Strategy & Corporate Development",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. Daveen  Chopra",
+        "Title": "Corporate Vice President of Transcatheter Mitral & Tricuspid Therapies",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Ms. Annette Maria Bruls",
+        "Title": "Corporate Vice President of EMEA, Canada, & Latin America",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Joseph  Nuzzolese",
+        "Title": "Corporate Vice President of Global Operations & Quality",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Andrew M. Dahl",
+        "Title": "Principal Accounting Officer, Senior VP & Corporate Controller",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Dr. Todd  Brinton FACC, M.D.",
+        "Title": "Corporate VP of Advanced Innovation & Technology and Chief Scientific Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Snehashish  Sarkar",
+        "Title": "Senior VP and Chief Information & Digital Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Mr. Mark D. Peterson",
+        "Title": "Corporate VP & General Counsel",
+        "YearBorn": "1963"
+      }
+    },
+    "Phone": "949 250 2500",
+    "WebURL": "https://www.edwards.com",
+    "LogoURL": "/img/logos/US/EW.png",
+    "FullTimeEmployees": 16000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 576541693,
+    "SharesFloat": 579016944,
+    "PercentInsiders": 0.17099999999999999,
+    "PercentInstitutions": 92.12,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0197
+  }
+}

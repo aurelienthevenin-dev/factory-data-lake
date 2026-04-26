@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.869,
+        "totalAssets": 0.0574,
+        "currentShares": 31441451,
+        "change": 1355841,
+        "change_p": 4.5066
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.7827,
+        "totalAssets": 0.0606,
+        "currentShares": 24426497,
+        "change": 767486,
+        "change_p": 3.2439
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.2378,
+        "totalAssets": 0.071,
+        "currentShares": 14450258,
+        "change": 350941,
+        "change_p": 2.4891
+      },
+      "3": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8646,
+        "totalAssets": 0.1034,
+        "currentShares": 12040818,
+        "change": 340235,
+        "change_p": 2.9078
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3457,
+        "totalAssets": 0.0369,
+        "currentShares": 8690146,
+        "change": 4643125,
+        "change_p": 114.7295
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1581,
+        "totalAssets": 0.058,
+        "currentShares": 7478732,
+        "change": 108011,
+        "change_p": 1.4654
+      },
+      "6": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8544,
+        "totalAssets": 0.2262,
+        "currentShares": 5517070,
+        "change": 1090336,
+        "change_p": 24.6307
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7596,
+        "totalAssets": 0.0472,
+        "currentShares": 4905387,
+        "change": -834558,
+        "change_p": -14.5395
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7519,
+        "totalAssets": 0.1084,
+        "currentShares": 4855154,
+        "change": 2191317,
+        "change_p": 82.2617
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.7472,
+        "totalAssets": 0.065,
+        "currentShares": 4824824,
+        "change": 515856,
+        "change_p": 11.9717
+      },
+      "10": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7208,
+        "totalAssets": 0.6053,
+        "currentShares": 4654615,
+        "change": -659348,
+        "change_p": -12.4078
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6259,
+        "totalAssets": 0.0259,
+        "currentShares": 4041679,
+        "change": 378021,
+        "change_p": 10.3181
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6108,
+        "totalAssets": 0.0609,
+        "currentShares": 3943942,
+        "change": -218439,
+        "change_p": -5.2479
+      },
+      "13": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.5948,
+        "totalAssets": 0.1251,
+        "currentShares": 3840921,
+        "change": 637189,
+        "change_p": 19.889
+      },
+      "14": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 0.4388,
+        "totalAssets": 0.7778,
+        "currentShares": 2833600,
+        "change": -49828,
+        "change_p": -1.7281
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.4315,
+        "totalAssets": 0.0505,
+        "currentShares": 2786465,
+        "change": -216138,
+        "change_p": -7.1984
+      },
+      "16": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.4206,
+        "totalAssets": 0.0599,
+        "currentShares": 2716211,
+        "change": -289565,
+        "change_p": -9.6336
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.4201,
+        "totalAssets": 0.0602,
+        "currentShares": 2712468,
+        "change": -646783,
+        "change_p": -19.2538
+      },
+      "18": {
+        "name": "Michael & Susan Dell Foundation",
+        "date": "2025-12-31",
+        "totalShares": 0.4154,
+        "totalAssets": 11.7051,
+        "currentShares": 2682335,
+        "change": 2258797,
+        "change_p": 533.3163
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.3682,
+        "totalAssets": 0.0732,
+        "currentShares": 2377706,
+        "change": -196375,
+        "change_p": -7.6289
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4785,
+        "totalAssets": 0.0785,
+        "currentShares": 9547241,
+        "change": -576242,
+        "change_p": -5.6921
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1716,
+        "totalAssets": 0.0873,
+        "currentShares": 7565876,
+        "change": -188054,
+        "change_p": -2.4253
+      },
+      "2": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.594,
+        "totalAssets": 0.0758,
+        "currentShares": 3835637,
+        "change": 6321,
+        "change_p": 0.1651
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5915,
+        "totalAssets": 0.0871,
+        "currentShares": 3819739,
+        "change": -2076,
+        "change_p": -0.0543
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5324,
+        "totalAssets": 0.0868,
+        "currentShares": 3437994,
+        "change": -8477,
+        "change_p": -0.246
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.4301,
+        "totalAssets": 0.202,
+        "currentShares": 2777615,
+        "change": -202591,
+        "change_p": -6.7979
+      },
+      "6": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4154,
+        "totalAssets": 0.3618,
+        "currentShares": 2682404,
+        "change": -3036,
+        "change_p": -0.1131
+      },
+      "7": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3453,
+        "totalAssets": 0.4341,
+        "currentShares": 2229773,
+        "change": 5948,
+        "change_p": 0.2675
+      },
+      "8": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.345,
+        "totalAssets": 0.9817,
+        "currentShares": 2228061,
+        "change": 2228061,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2593,
+        "totalAssets": 0.0871,
+        "currentShares": 1674378,
+        "change": -32159,
+        "change_p": -1.8845
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.2457,
+        "totalAssets": 0.0862,
+        "currentShares": 1586418,
+        "change": -20200,
+        "change_p": -1.2573
+      },
+      "11": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.2079,
+        "totalAssets": 0.087,
+        "currentShares": 1342295,
+        "change": -11158,
+        "change_p": -0.8244
+      },
+      "12": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.2018,
+        "totalAssets": 1.0242,
+        "currentShares": 1303395,
+        "change": -357366,
+        "change_p": -21.5182
+      },
+      "13": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.1893,
+        "totalAssets": 0.2251,
+        "currentShares": 1222488,
+        "change": -73801,
+        "change_p": -5.6933
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.1852,
+        "totalAssets": 0.0649,
+        "currentShares": 1195644,
+        "change": -20122,
+        "change_p": -1.6551
+      },
+      "15": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.1852,
+        "totalAssets": 0.0649,
+        "currentShares": 1195644,
+        "change": 1195644,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.1852,
+        "totalAssets": 0.0649,
+        "currentShares": 1195644,
+        "change": -20122,
+        "change_p": -1.6551
+      },
+      "17": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.1825,
+        "totalAssets": 0.2268,
+        "currentShares": 1178380,
+        "change": 3537,
+        "change_p": 0.3011
+      },
+      "18": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.1725,
+        "totalAssets": 2.9667,
+        "currentShares": 1113621,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.1662,
+        "totalAssets": 0.0866,
+        "currentShares": 1073446,
+        "change": -19519,
+        "change_p": -1.7859
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.8665,
+    "ForwardPE": 13.1062,
+    "PriceSalesTTM": 1.2375,
+    "PriceBookMRQ": 4.3902,
+    "EnterpriseValue": 119311400967,
+    "EnterpriseValueRevenue": 1.4134,
+    "EnterpriseValueEbitda": 13.5398
+  },
+  "Highlights": {
+    "MarketCapitalization": 140499288064,
+    "MarketCapitalizationMln": 140499.2881,
+    "EBITDA": 11457000448,
+    "PERatio": 24.8665,
+    "PEGRatio": 0.8298,
+    "WallStreetTargetPrice": 185.2174,
+    "BookValue": -3.788,
+    "DividendShare": 2.1,
+    "DividendYield": 0.0099,
+    "EarningsShare": 8.69,
+    "EPSEstimateCurrentYear": 9.8951,
+    "EPSEstimateNextYear": 11.4163,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 3.5128,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0523,
+    "OperatingMarginTTM": 0.0962,
+    "ReturnOnAssetsTTM": 0.0602,
+    "ReturnOnEquityTTM": 0.443,
+    "RevenueTTM": 113537998848,
+    "RevenuePerShareTTM": 168.204,
+    "QuarterlyRevenueGrowthYOY": 0.395,
+    "GrossProfitTTM": 22848999424,
+    "DilutedEpsTTM": 8.69,
+    "QuarterlyEarningsGrowthYOY": 0.573
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.01,
+    "TotalEsgPercentile": 12.72,
+    "EnvironmentScore": 4.6,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 9.27,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 11.13,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DELL",
+    "Type": "Common Stock",
+    "Name": "Dell Technologies Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00DW3SZS1",
+    "ISIN": "US24703L2025",
+    "LEI": "549300TJB5YBRUPOG437",
+    "PrimaryTicker": "DELL.US",
+    "CUSIP": "24703L202",
+    "CIK": "0001571996",
+    "EmployerIdNumber": "80-0890963",
+    "FiscalYearEnd": "January",
+    "IPODate": "1988-06-22",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Technology Hardware, Storage & Peripherals",
+    "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Dell Technologies Inc. designs, develops, manufactures, markets, sells, and supports various comprehensive and integrated solutions, products, and services in the Americas, Europe, the Middle East, Asia, and internationally. The company operates through Infrastructure Solutions Group (ISG) and Client Solutions Group (CSG) segments. The ISG segment provides modern and traditional storage solutions, including all-flash, purpose-built, hyper-converged infrastructure, software-defined storage, and general-purpose and AI-optimized servers. This segment also offers networking products and services comprising wide area network infrastructure, data center and edge networking switches, and cables and optics that help its business customers to transform and modernize their infrastructure and complementing its server and storage solutions; and software, peripherals, and services, including consulting and support, and deployment. The CSG segment provides notebooks, desktops, and workstations and branded peripherals that include displays, docking stations, keyboards, mice, webcam and audio devices, and third-party software and peripherals; and configuration, and extended warranties services. The company is involved in originating, collecting, and servicing customer financing arrangements and offers payment and consumption solutions and services, such utility, subscription, as-a-service, leases, and loans, as well as fixed-term leases and loans. It serves enterprises, governmental agencies and other public institutions, educational institutions, healthcare organizations, small and medium-sized businesses, and consumers. The company was formerly known as Denali Holding Inc. and changed its name to Dell Technologies Inc. in March 2013. Dell Technologies Inc. was founded in 1984 and is headquartered in Round Rock, Texas.",
+    "Address": "One Dell Way, Round Rock, TX, United States, 78682",
+    "AddressData": {
+      "Street": "One Dell Way",
+      "City": "Round Rock",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "78682"
+    },
+    "Listings": {
+      "0": {
+        "Code": "12DA",
+        "Exchange": "XETRA",
+        "Name": "DELL TECHS INC. C  DL-01"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Michael Saul Dell",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. William F. Scannell",
+        "Title": "President & Chief Customer Officer",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Mr. Jeffrey W. Clarke",
+        "Title": "COO & Vice Chairman",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Richard J. Rothberg Esq.",
+        "Title": "General Counsel & Secretary",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. David  Kennedy",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Richard Troy Sharp",
+        "Title": "Senior VP of Corporate Finance & Chief Accounting Officer",
+        "YearBorn": "1985"
+      },
+      "6": {
+        "Name": "Mr. Paul  Frantz",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Michael  Zimmerman",
+        "Title": "Vice President of Corporate Development",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Geraldine  Tunnell",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "1977"
+      },
+      "9": {
+        "Name": "Mr. Pete  Trizzino",
+        "Title": "President of Global Sales",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "800 289 3355",
+    "WebURL": "https://www.dell.com",
+    "LogoURL": "/img/logos/US/DELL.png",
+    "FullTimeEmployees": 97000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 325654621,
+    "SharesFloat": 300363434,
+    "PercentInsiders": 7.470000000000001,
+    "PercentInstitutions": 82.86,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0831
+  }
+}

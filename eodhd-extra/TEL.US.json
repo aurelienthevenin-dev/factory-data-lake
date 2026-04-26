@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.0937,
+        "totalAssets": 0.1267,
+        "currentShares": 38421283,
+        "change": 168142,
+        "change_p": 0.4396
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.0977,
+        "totalAssets": 0.08,
+        "currentShares": 20827190,
+        "change": -114939,
+        "change_p": -0.5488
+      },
+      "2": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 5.0689,
+        "totalAssets": 1.8266,
+        "currentShares": 14873850,
+        "change": -1165904,
+        "change_p": -7.2688
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4402,
+        "totalAssets": 0.0992,
+        "currentShares": 13028927,
+        "change": 100194,
+        "change_p": 0.775
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.1309,
+        "totalAssets": 0.2847,
+        "currentShares": 12121481,
+        "change": -253155,
+        "change_p": -2.0458
+      },
+      "5": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.2968,
+        "totalAssets": 0.3398,
+        "currentShares": 6739609,
+        "change": -288771,
+        "change_p": -4.1086
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1419,
+        "totalAssets": 0.088,
+        "currentShares": 6284933,
+        "change": 161967,
+        "change_p": 2.6452
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.0539,
+        "totalAssets": 0.0897,
+        "currentShares": 6026766,
+        "change": -248151,
+        "change_p": -3.9546
+      },
+      "8": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5563,
+        "totalAssets": 0.8318,
+        "currentShares": 4566738,
+        "change": -665523,
+        "change_p": -12.7196
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.4779,
+        "totalAssets": 0.1729,
+        "currentShares": 4336581,
+        "change": -505590,
+        "change_p": -10.4414
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4516,
+        "totalAssets": 0.1678,
+        "currentShares": 4259441,
+        "change": 122994,
+        "change_p": 2.9734
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4061,
+        "totalAssets": 0.1004,
+        "currentShares": 4126000,
+        "change": 514460,
+        "change_p": 14.2449
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1992,
+        "totalAssets": 0.0468,
+        "currentShares": 3518942,
+        "change": -112376,
+        "change_p": -3.0946
+      },
+      "13": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1008,
+        "totalAssets": 0.9288,
+        "currentShares": 3229986,
+        "change": -777620,
+        "change_p": -19.4036
+      },
+      "14": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.0582,
+        "totalAssets": 0.4138,
+        "currentShares": 3105167,
+        "change": 1721235,
+        "change_p": 124.3728
+      },
+      "15": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.0566,
+        "totalAssets": 0.1106,
+        "currentShares": 3100444,
+        "change": 473690,
+        "change_p": 18.0333
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0468,
+        "totalAssets": 0.0202,
+        "currentShares": 3071776,
+        "change": 1525484,
+        "change_p": 98.6543
+      },
+      "17": {
+        "name": "Baird Financial Group, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0138,
+        "totalAssets": 1.0551,
+        "currentShares": 2974966,
+        "change": 102354,
+        "change_p": 3.5631
+      },
+      "18": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0068,
+        "totalAssets": 0.1022,
+        "currentShares": 2954244,
+        "change": 292154,
+        "change_p": 10.9746
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9679,
+        "totalAssets": 0.1356,
+        "currentShares": 2840251,
+        "change": -15116,
+        "change_p": -0.5294
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1764,
+        "totalAssets": 0.0976,
+        "currentShares": 9320606,
+        "change": 18375,
+        "change_p": 0.1975
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5461,
+        "totalAssets": 0.1097,
+        "currentShares": 7471108,
+        "change": -95935,
+        "change_p": -1.2678
+      },
+      "2": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 2.4932,
+        "totalAssets": 1.3908,
+        "currentShares": 7315975,
+        "change": -621400,
+        "change_p": -7.8288
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.6667,
+        "currentShares": 6338906,
+        "change": -55239,
+        "change_p": -0.8639
+      },
+      "4": {
+        "name": "Dodge & Cox International Stock I",
+        "date": "2025-12-31",
+        "totalShares": 1.3826,
+        "totalAssets": 1.5011,
+        "currentShares": 4056985,
+        "change": -267700,
+        "change_p": -6.19
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.1095,
+        "currentShares": 3771733,
+        "change": -2052,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2759,
+        "totalAssets": 0.115,
+        "currentShares": 3743922,
+        "change": 6172,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1574,
+        "totalAssets": 0.1092,
+        "currentShares": 3396240,
+        "change": -8379,
+        "change_p": -0.2461
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.2512,
+        "currentShares": 2712019,
+        "change": -26836,
+        "change_p": -0.9798
+      },
+      "9": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.766,
+        "totalAssets": 0.3861,
+        "currentShares": 2247700,
+        "change": -2521,
+        "change_p": -0.112
+      },
+      "10": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7503,
+        "totalAssets": 0.5458,
+        "currentShares": 2201614,
+        "change": 5802,
+        "change_p": 0.2642
+      },
+      "11": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.7432,
+        "totalAssets": 1.0951,
+        "currentShares": 2180732,
+        "change": 257088,
+        "change_p": 13.3646
+      },
+      "12": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7427,
+        "totalAssets": 0.7931,
+        "currentShares": 2179332,
+        "change": -229468,
+        "change_p": -9.5262
+      },
+      "13": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.7287,
+        "totalAssets": 0.9829,
+        "currentShares": 2138399,
+        "change": -15299,
+        "change_p": -0.7104
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 1.1484,
+        "currentShares": 1908765,
+        "change": 72596,
+        "change_p": 3.9537
+      },
+      "15": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6075,
+        "totalAssets": 0.1869,
+        "currentShares": 1782732,
+        "change": 721875,
+        "change_p": 68.0464
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.1095,
+        "currentShares": 1653227,
+        "change": -13866,
+        "change_p": -0.8317
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.2926,
+        "currentShares": 1642973,
+        "change": 17366,
+        "change_p": 1.0683
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.1084,
+        "currentShares": 1566358,
+        "change": -1900,
+        "change_p": -0.1212
+      },
+      "19": {
+        "name": "T. Rowe Price US Lrg-Cap Core Gr Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4715,
+        "totalAssets": 0.4576,
+        "currentShares": 1383414,
+        "change": -45164,
+        "change_p": -3.1615
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.2226,
+    "ForwardPE": 20,
+    "PriceSalesTTM": 3.3693,
+    "PriceBookMRQ": 4.8064,
+    "EnterpriseValue": 67258893872,
+    "EnterpriseValueRevenue": 3.6453,
+    "EnterpriseValueEbitda": 14.4178
+  },
+  "Highlights": {
+    "MarketCapitalization": 62991536128,
+    "MarketCapitalizationMln": 62991.5361,
+    "EBITDA": 4730999808,
+    "PERatio": 22.2226,
+    "PEGRatio": 1.2626,
+    "WallStreetTargetPrice": 265,
+    "BookValue": 44.217,
+    "DividendShare": 2.84,
+    "DividendYield": 0.013,
+    "EarningsShare": 9.66,
+    "EPSEstimateCurrentYear": 11.2354,
+    "EPSEstimateNextYear": 12.5993,
+    "EPSEstimateNextQuarter": 2.7933,
+    "EPSEstimateCurrentQuarter": 2.6995,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1554,
+    "OperatingMarginTTM": 0.2049,
+    "ReturnOnAssetsTTM": 0.0955,
+    "ReturnOnEquityTTM": 0.2272,
+    "RevenueTTM": 18695999488,
+    "RevenuePerShareTTM": 63.484,
+    "QuarterlyRevenueGrowthYOY": 0.145,
+    "GrossProfitTTM": 6744000000,
+    "DilutedEpsTTM": 9.66,
+    "QuarterlyEarningsGrowthYOY": 71.5
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 14.63,
+    "TotalEsgPercentile": 8.16,
+    "EnvironmentScore": 7.71,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 10.01,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 10.91,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TEL",
+    "Type": "Common Stock",
+    "Name": "TE Connectivity Ltd",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000RGM5P1",
+    "ISIN": "IE000IVNQZ81",
+    "LEI": null,
+    "PrimaryTicker": "TEL.US",
+    "CUSIP": "H8912P106",
+    "CIK": "0001385157",
+    "EmployerIdNumber": "98-0518048",
+    "FiscalYearEnd": "September",
+    "IPODate": "2007-07-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Electronic Components",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Electronic Equipment, Instruments & Components",
+    "GicSubIndustry": "Electronic Manufacturing Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "TE Connectivity plc, together with its subsidiaries, manufactures and sells connectivity and sensor solutions in Europe, the Middle East, Africa, the Asia\"Pacific, and the Americas. The company operates through two reportable segments, Transportation Solutions and Industrial Solutions. It provides antennas, application tooling, cable assemblies, connectors, electromagnetic compatibility/electromagnetic interference solutions, energy and power, fiber optics, heat shrink tubing, identification and labeling, medical components, passive components, relays and contactors, sensors, switches, terminals and splices, wires and cables, and wire protection and management solutions. The company also offers training and other services, including 3D printing for production, back shells prototyping, electrical installation training, HarnWare software, machine tooling service and repair, medical device design services, microfluidic devices, and sensor manufacturing services as well as conducts automotive webinars. It serves 5G and wireless equipment, aerospace, appliances, automation and control, automotive, autosport, commercial and industrial vehicles, connected home, data centers and artificial intelligence, defense and military, energy solutions, e-mobility, industrial machinery, intelligent buildings, IoT connectivity, medical technologies, oil and gas/marine, personal electronics and wearable technology, rail, sensor applications, space, and other industries. The company was formerly known as Tyco Electronics Ltd. and changed its name to TE Connectivity plc in March 2011. TE Connectivity plc was founded in 1941 and is based in Ballybrit, Ireland.",
+    "Address": "Parkmore Business Park West, Ballybrit, Ireland, H91VN2T",
+    "AddressData": {
+      "Street": "Parkmore Business Park West",
+      "City": "Ballybrit",
+      "Country": "Ireland",
+      "ZIP": "H91VN2T"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Heath A. Mitts",
+        "Title": "CFO, Executive VP & Executive Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. John S. Jenkins Jr.",
+        "Title": "Executive VP &  General Counsel",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. Shadrak W. Kroeger",
+        "Title": "President of Industrial Solutions Segment",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Aaron Kyle Stucki",
+        "Title": "President of Transportation Solutions",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Jim  Tobojka",
+        "Title": "Senior Vice President of Operations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Tony  Leisher",
+        "Title": "SVP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Sujal  Shah",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Malavika  Sagar",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1982"
+      },
+      "8": {
+        "Name": "Mr. Eric J. Resch",
+        "Title": "Senior Vice President",
+        "YearBorn": "1957"
+      },
+      "9": {
+        "Name": "Ms. Jeanne  Quirk",
+        "Title": "Senior Vice President of Mergers & Acquisitions",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "353 9 137 8040",
+    "WebURL": "https://www.te.com",
+    "LogoURL": "/img/logos/US/TEL.png",
+    "FullTimeEmployees": 90000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 292140932,
+    "SharesFloat": 291609236,
+    "PercentInsiders": 0.11900000000000001,
+    "PercentInstitutions": 94.758,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0317
+  }
+}

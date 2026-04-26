@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.9617,
+        "totalAssets": 0.0659,
+        "currentShares": 18882403,
+        "change": -158037,
+        "change_p": -0.83
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4281,
+        "totalAssets": 0.0588,
+        "currentShares": 12277966,
+        "change": -162268,
+        "change_p": -1.3044
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4956,
+        "totalAssets": 0.0622,
+        "currentShares": 6549164,
+        "change": -66688,
+        "change_p": -1.008
+      },
+      "3": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.1253,
+        "totalAssets": 0.2236,
+        "currentShares": 4552916,
+        "change": -492643,
+        "change_p": -9.7639
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9537,
+        "totalAssets": 0.0637,
+        "currentShares": 4302906,
+        "change": 51218,
+        "change_p": 1.2047
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5878,
+        "totalAssets": 0.0383,
+        "currentShares": 2313138,
+        "change": -347095,
+        "change_p": -13.0475
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4475,
+        "totalAssets": 0.0909,
+        "currentShares": 2108763,
+        "change": -75021,
+        "change_p": -3.4354
+      },
+      "7": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1655,
+        "totalAssets": 0.0595,
+        "currentShares": 1697882,
+        "change": -17379,
+        "change_p": -1.0132
+      },
+      "8": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.0417,
+        "totalAssets": 0.2657,
+        "currentShares": 1517592,
+        "change": 1072394,
+        "change_p": 240.8802
+      },
+      "9": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9703,
+        "totalAssets": 0.1109,
+        "currentShares": 1413477,
+        "change": 787949,
+        "change_p": 125.9654
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8477,
+        "totalAssets": 0.0101,
+        "currentShares": 1234928,
+        "change": 702218,
+        "change_p": 131.8199
+      },
+      "11": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7575,
+        "totalAssets": 0.0413,
+        "currentShares": 1103459,
+        "change": 35816,
+        "change_p": 3.3547
+      },
+      "12": {
+        "name": "Swedbank AB",
+        "date": "2025-12-31",
+        "totalShares": 0.7568,
+        "totalAssets": 0.2569,
+        "currentShares": 1102476,
+        "change": 559765,
+        "change_p": 103.1424
+      },
+      "13": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.7448,
+        "totalAssets": 0.225,
+        "currentShares": 1084996,
+        "change": 294124,
+        "change_p": 37.1898
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.7098,
+        "totalAssets": 0.0267,
+        "currentShares": 1034037,
+        "change": -153761,
+        "change_p": -12.945
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6813,
+        "totalAssets": 0.053,
+        "currentShares": 992527,
+        "change": 34317,
+        "change_p": 3.5814
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.6731,
+        "totalAssets": 0.0496,
+        "currentShares": 980544,
+        "change": 134410,
+        "change_p": 15.8852
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6723,
+        "totalAssets": 0.0289,
+        "currentShares": 979419,
+        "change": 118628,
+        "change_p": 13.7813
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6224,
+        "totalAssets": 0.0539,
+        "currentShares": 906744,
+        "change": -133344,
+        "change_p": -12.8205
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.5996,
+        "totalAssets": 0.0375,
+        "currentShares": 873530,
+        "change": 339774,
+        "change_p": 63.6572
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1758,
+        "totalAssets": 0.052,
+        "currentShares": 4626461,
+        "change": 10403,
+        "change_p": 0.2254
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5466,
+        "totalAssets": 0.0585,
+        "currentShares": 3709869,
+        "change": -44554,
+        "change_p": -1.1867
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.3555,
+        "currentShares": 3147002,
+        "change": -25468,
+        "change_p": -0.8028
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.0584,
+        "currentShares": 1872643,
+        "change": -1020,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2751,
+        "totalAssets": 0.0636,
+        "currentShares": 1857602,
+        "change": 3064,
+        "change_p": 0.1652
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1999,
+        "totalAssets": 0.1235,
+        "currentShares": 1747933,
+        "change": -59023,
+        "change_p": -3.2664
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1607,
+        "totalAssets": 0.0584,
+        "currentShares": 1690840,
+        "change": -4165,
+        "change_p": -0.2457
+      },
+      "7": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7606,
+        "totalAssets": 0.8513,
+        "currentShares": 1108045,
+        "change": -103912,
+        "change_p": -8.5739
+      },
+      "8": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7309,
+        "totalAssets": 0.6155,
+        "currentShares": 1064774,
+        "change": 3232,
+        "change_p": 0.3045
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.0584,
+        "currentShares": 820712,
+        "change": -5727,
+        "change_p": -0.693
+      },
+      "10": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.156,
+        "currentShares": 815666,
+        "change": 11669,
+        "change_p": 1.4514
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0578,
+        "currentShares": 777659,
+        "change": -440,
+        "change_p": -0.0565
+      },
+      "12": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5062,
+        "totalAssets": 0.8341,
+        "currentShares": 737411,
+        "change": 508,
+        "change_p": 0.0689
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4962,
+        "totalAssets": 0.1903,
+        "currentShares": 722876,
+        "change": 2096,
+        "change_p": 0.2908
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.0583,
+        "currentShares": 657979,
+        "change": 2500,
+        "change_p": 0.3814
+      },
+      "15": {
+        "name": "iShares US Medical Devices ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4333,
+        "totalAssets": 4.4345,
+        "currentShares": 631254,
+        "change": 4216,
+        "change_p": 0.6724
+      },
+      "16": {
+        "name": "First Trust Capital Strength ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4329,
+        "totalAssets": 1.8027,
+        "currentShares": 630698,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3975,
+        "totalAssets": 0.0602,
+        "currentShares": 579053,
+        "change": -8459,
+        "change_p": -1.4398
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3975,
+        "totalAssets": 0.0602,
+        "currentShares": 579053,
+        "change": -8459,
+        "change_p": -1.4398
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3975,
+        "totalAssets": 0.0602,
+        "currentShares": 579053,
+        "change": 579053,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.7458,
+    "ForwardPE": 18.5874,
+    "PriceSalesTTM": 5.9331,
+    "PriceBookMRQ": 5.0591,
+    "EnterpriseValue": 31408517803,
+    "EnterpriseValueRevenue": 5.8184,
+    "EnterpriseValueEbitda": 15.0354
+  },
+  "Highlights": {
+    "MarketCapitalization": 32027398144,
+    "MarketCapitalizationMln": 32027.3981,
+    "EBITDA": 2024966016,
+    "PERatio": 21.7458,
+    "PEGRatio": 1.3523,
+    "WallStreetTargetPrice": 292.3333,
+    "BookValue": 43.394,
+    "DividendShare": 2.26,
+    "DividendYield": 0.0103,
+    "EarningsShare": 10.11,
+    "EPSEstimateCurrentYear": 11.0246,
+    "EPSEstimateNextYear": 12.1813,
+    "EPSEstimateNextQuarter": 2.7724,
+    "EPSEstimateCurrentQuarter": 2.7241,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2753,
+    "OperatingMarginTTM": 0.3516,
+    "ReturnOnAssetsTTM": 0.1475,
+    "ReturnOnEquityTTM": 0.2568,
+    "RevenueTTM": 5398118912,
+    "RevenuePerShareTTM": 36.896,
+    "QuarterlyRevenueGrowthYOY": 0.11,
+    "GrossProfitTTM": 3318460928,
+    "DilutedEpsTTM": 10.11,
+    "QuarterlyEarningsGrowthYOY": 0.145
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.05,
+    "TotalEsgPercentile": 50.28,
+    "EnvironmentScore": 7.42,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 14,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 12.64,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "RMD",
+    "Type": "Common Stock",
+    "Name": "ResMed Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000L4M7F1",
+    "ISIN": "US7611521078",
+    "LEI": "529900T3QE5253CCXF22",
+    "PrimaryTicker": "RMD.US",
+    "CUSIP": "761152107",
+    "CIK": "0000943819",
+    "EmployerIdNumber": "98-0152841",
+    "FiscalYearEnd": "June",
+    "IPODate": "1995-06-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "ResMed Inc. develops, manufactures, distributes, and markets medical devices and cloud-based software applications to diagnose, treat, and manage respiratory disorders in the United States and internationally. The company operates in two segments, Sleep and Breathing Health, and Residential Care Software. It offers sleep recorders for the diagnosis and titration of sleep apnea in sleep clinics, hospitals, and at home, including ApneaLink Air, a portable diagnostic device that measures oximetry, respiratory effort, pulse, nasal flow, and snoring; NightOwl, a portable, cloud-connected, and disposable diagnostic device that measures AHI based on derived peripheral arterial tone, actigraphy, and oximetry; and EasyCare Tx, a sleep lab solution. The company also provides AirView, a cloud-based system that enables remote monitoring and changing of patients' device settings; myAir, a personalized therapy management application for patients with sleep apnea that provides support, education, and troubleshooting tools for increased patient engagement and improved compliance; and connectivity module which provides a cellular connection between compatible ventilation devices and AirView system. In addition, the company offers Brightree solutions which are solutions and services for organizations in home medical equipment and pharmacy, orthotic and prosthetic, and home infusion; HEALTHCAREfirst solutions that offers electronic health record, software, billing and coding services, and advanced analytics that enables home health and hospice agencies to optimize clinical, financial and administrative processes; MatrixCare EHR software as a service solutions used by skilled nursing and senior living providers, life plan communities, and home health and hospice sectors; and MEDIFOX DAN software solutions that is used by residential care providers, such as home health and nursing home providers. ResMed Inc. was founded in 1989 and is headquartered in San Diego, California.",
+    "Address": "9001 Spectrum Center Boulevard, San Diego, CA, United States, 92123",
+    "AddressData": {
+      "Street": "9001 Spectrum Center Boulevard",
+      "City": "San Diego",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92123"
+    },
+    "Listings": {
+      "0": {
+        "Code": "RMD",
+        "Exchange": "AU",
+        "Name": "Resmed Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Michael J. Farrell BE, MBA, SM",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Dr. Peter C. Farrell A.M., B.E., BE (Hons), Ph.D., ScD",
+        "Title": "Founder, Chair Emeritus & Non-Executive Director",
+        "YearBorn": "1942"
+      },
+      "2": {
+        "Name": "Mr. Brett A. Sandercock",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. Michael J. Rider",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1958"
+      },
+      "4": {
+        "Name": "Mr. Justin  Leong",
+        "Title": "Chief Product Officer",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Alastair  Robertson",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Sallilyn  Schwartz",
+        "Title": "Chief Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Jim  Ellis",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Yvonne-Katrin  Pucknat",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "1976"
+      },
+      "9": {
+        "Name": "Ms. Vered  Keisar",
+        "Title": "Chief People Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "858-836-5000",
+    "WebURL": "https://www.resmed.com",
+    "LogoURL": "/img/logos/US/RMD.png",
+    "FullTimeEmployees": 10600,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 145678401,
+    "SharesFloat": 144788306,
+    "PercentInsiders": 0.504,
+    "PercentInstitutions": 68.82000000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0909
+  }
+}

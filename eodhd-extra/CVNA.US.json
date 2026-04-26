@@ -1,0 +1,494 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 58.6847,
+        "totalAssets": 0.1027,
+        "currentShares": 16783101,
+        "change": 3328115,
+        "change_p": 24.7352
+      },
+      "1": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 57.0622,
+        "totalAssets": 0.6586,
+        "currentShares": 16319076,
+        "change": 127129,
+        "change_p": 0.7851
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 44.6987,
+        "totalAssets": 0.1445,
+        "currentShares": 12783270,
+        "change": 9520855,
+        "change_p": 291.8346
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 34.3277,
+        "totalAssets": 0.0648,
+        "currentShares": 9817286,
+        "change": 335850,
+        "change_p": 3.5422
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 20.847,
+        "totalAssets": 0.1283,
+        "currentShares": 5961989,
+        "change": 247649,
+        "change_p": 4.3338
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 19.9343,
+        "totalAssets": 0.4441,
+        "currentShares": 5700953,
+        "change": 1711144,
+        "change_p": 42.8879
+      },
+      "6": {
+        "name": "GREENOAKS CAPITAL PARTNERS LLC",
+        "date": "2025-12-31",
+        "totalShares": 14.8105,
+        "totalAssets": 59.9613,
+        "currentShares": 4235613,
+        "change": -1028306,
+        "change_p": -19.535
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 13.5695,
+        "totalAssets": 0.1008,
+        "currentShares": 3880711,
+        "change": 1382852,
+        "change_p": 55.3615
+      },
+      "8": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 10.3152,
+        "totalAssets": 0.0386,
+        "currentShares": 2950020,
+        "change": 184974,
+        "change_p": 6.6897
+      },
+      "9": {
+        "name": "Exor Investments (UK) LLP",
+        "date": "2025-12-31",
+        "totalShares": 9.9834,
+        "totalAssets": 20.998,
+        "currentShares": 2855140,
+        "change": -3331932,
+        "change_p": -53.8531
+      },
+      "10": {
+        "name": "Sands Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 8.5407,
+        "totalAssets": 3.1355,
+        "currentShares": 2442534,
+        "change": 751019,
+        "change_p": 44.3992
+      },
+      "11": {
+        "name": "SPRUCE HOUSE INVESTMENT MANAGEMENT LLC",
+        "date": "2025-12-31",
+        "totalShares": 7.9549,
+        "totalAssets": 27.8422,
+        "currentShares": 2275000,
+        "change": -1334288,
+        "change_p": -36.9682
+      },
+      "12": {
+        "name": "Coatue Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 6.8473,
+        "totalAssets": 2.068,
+        "currentShares": 1958229,
+        "change": -44979,
+        "change_p": -2.2453
+      },
+      "13": {
+        "name": "Lone Pine Capital LLC",
+        "date": "2025-12-31",
+        "totalShares": 6.2217,
+        "totalAssets": 5.5169,
+        "currentShares": 1779328,
+        "change": 14037,
+        "change_p": 0.7952
+      },
+      "14": {
+        "name": "KPS Global Asset Management UK Ltd",
+        "date": "2025-12-31",
+        "totalShares": 5.245,
+        "totalAssets": 77.4555,
+        "currentShares": 1500000,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 5.0527,
+        "totalAssets": 0.0859,
+        "currentShares": 1445018,
+        "change": 710582,
+        "change_p": 96.7521
+      },
+      "16": {
+        "name": "Renaissance Technologies Corp",
+        "date": "2025-12-31",
+        "totalShares": 4.9212,
+        "totalAssets": 0.9214,
+        "currentShares": 1407398,
+        "change": 394286,
+        "change_p": 38.9183
+      },
+      "17": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 4.6382,
+        "totalAssets": 0.0303,
+        "currentShares": 1326454,
+        "change": 33914,
+        "change_p": 2.6238
+      },
+      "18": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.472,
+        "totalAssets": 0.0734,
+        "currentShares": 1278944,
+        "change": 472701,
+        "change_p": 58.6301
+      },
+      "19": {
+        "name": "Whale Rock Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.7442,
+        "totalAssets": 5.7786,
+        "currentShares": 1070802,
+        "change": 503091,
+        "change_p": 88.6174
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 18.2422,
+        "totalAssets": 0.5353,
+        "currentShares": 5217042,
+        "change": 2855128,
+        "change_p": 120.882
+      },
+      "1": {
+        "name": "Sosin Partners, LP",
+        "date": "2025-12-31",
+        "totalShares": 16.1203,
+        "totalAssets": 83.249,
+        "currentShares": 4610200,
+        "change": -279474,
+        "change_p": -5.7156
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 15.0629,
+        "totalAssets": 0.0678,
+        "currentShares": 4307815,
+        "change": 57999,
+        "change_p": 1.3647
+      },
+      "3": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 14.4514,
+        "totalAssets": 1.4848,
+        "currentShares": 4132914,
+        "change": 2619175,
+        "change_p": 173.0269
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 12.5919,
+        "totalAssets": 0.0796,
+        "currentShares": 3601115,
+        "change": -36508,
+        "change_p": -1.0036
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 10.2428,
+        "totalAssets": 0.4634,
+        "currentShares": 2929299,
+        "change": 9159,
+        "change_p": 0.3136
+      },
+      "6": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 8.2588,
+        "totalAssets": 0.2967,
+        "currentShares": 2361914,
+        "change": 165985,
+        "change_p": 7.5588
+      },
+      "7": {
+        "name": "Fidelity Advisor Growth Opps M",
+        "date": "2026-02-28",
+        "totalShares": 6.6758,
+        "totalAssets": 2.1977,
+        "currentShares": 1909200,
+        "change": 1036300,
+        "change_p": 118.7192
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 6.3545,
+        "totalAssets": 0.0793,
+        "currentShares": 1817299,
+        "change": -984,
+        "change_p": -0.0541
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 6.2932,
+        "totalAssets": 0.0803,
+        "currentShares": 1799785,
+        "change": 2967,
+        "change_p": 0.1651
+      },
+      "10": {
+        "name": "T. Rowe Price Blue Chip Growth Tr-T2",
+        "date": "2026-03-31",
+        "totalShares": 5.8779,
+        "totalAssets": 3.4742,
+        "currentShares": 1681013,
+        "change": -1351,
+        "change_p": -0.0803
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 5.7534,
+        "totalAssets": 0.0796,
+        "currentShares": 1645393,
+        "change": -4018,
+        "change_p": -0.2436
+      },
+      "12": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 5.6162,
+        "totalAssets": 0.328,
+        "currentShares": 1606160,
+        "change": 862345,
+        "change_p": 115.9354
+      },
+      "13": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 5.5858,
+        "totalAssets": 0.158,
+        "currentShares": 1597472,
+        "change": 10328,
+        "change_p": 0.6507
+      },
+      "14": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 5.5337,
+        "totalAssets": 0.3597,
+        "currentShares": 1582581,
+        "change": 1314931,
+        "change_p": 491.2875
+      },
+      "15": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 5.293,
+        "totalAssets": 0.6637,
+        "currentShares": 1513739,
+        "change": 647682,
+        "change_p": 74.7851
+      },
+      "16": {
+        "name": "T. Rowe Price US Growth Stock Composite",
+        "date": "2025-12-31",
+        "totalShares": 4.4742,
+        "totalAssets": 1.0831,
+        "currentShares": 1279562,
+        "change": -133605,
+        "change_p": -9.4543
+      },
+      "17": {
+        "name": "T. Rowe Price Growth Stock",
+        "date": "2026-03-31",
+        "totalShares": 4.1492,
+        "totalAssets": 0.8453,
+        "currentShares": 1186623,
+        "change": 7200,
+        "change_p": 0.6105
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 48.2975,
+    "ForwardPE": 59.1716,
+    "PriceSalesTTM": 2.8785,
+    "PriceBookMRQ": 16.9997,
+    "EnterpriseValue": 61203891022,
+    "EnterpriseValueRevenue": 3.0117,
+    "EnterpriseValueEbitda": 26.1681
+  },
+  "Highlights": {
+    "MarketCapitalization": 58495893504,
+    "MarketCapitalizationMln": 58495.8935,
+    "EBITDA": 2159000064,
+    "PERatio": 48.2975,
+    "PEGRatio": -0.13,
+    "WallStreetTargetPrice": 425.3182,
+    "BookValue": 24.193,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 8.47,
+    "EPSEstimateCurrentYear": 7.1397,
+    "EPSEstimateNextYear": 9.6819,
+    "EPSEstimateNextQuarter": 1.5393,
+    "EPSEstimateCurrentQuarter": 1.1569,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0692,
+    "OperatingMarginTTM": 0.0757,
+    "ReturnOnAssetsTTM": 0.1086,
+    "ReturnOnEquityTTM": 0.6795,
+    "RevenueTTM": 20322000896,
+    "RevenuePerShareTTM": 147.652,
+    "QuarterlyRevenueGrowthYOY": 0.58,
+    "GrossProfitTTM": 4192000000,
+    "DilutedEpsTTM": 8.47,
+    "QuarterlyEarningsGrowthYOY": 9.467
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "CVNA",
+    "Type": "Common Stock",
+    "Name": "Carvana Co",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00GCTWDJ3",
+    "ISIN": "US1468691027",
+    "LEI": "5493003WEAK2PJ5WS063",
+    "PrimaryTicker": "CVNA.US",
+    "CUSIP": "146869102",
+    "CIK": "0001690820",
+    "EmployerIdNumber": "81-4549921",
+    "FiscalYearEnd": "December",
+    "IPODate": "2017-04-28",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto & Truck Dealerships",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Discretionary Distribution & Retail",
+    "GicIndustry": "Specialty Retail",
+    "GicSubIndustry": "Automotive Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Carvana Co., together with its subsidiaries, operates an e-commerce platform for buying and selling used cars. It provides vehicle acquisition, inspection and reconditioning, online search and shopping experience, financing, complementary products, logistics network and distinctive fulfillment experience, and post-sale customer support services. The company also operates auction sites. Carvana Co. was founded in 2012 and is based in Tempe, Arizona.",
+    "Address": "300 East Rio Salado Parkway, Tempe, AZ, United States, 85281",
+    "AddressData": {
+      "Street": "300 East Rio Salado Parkway",
+      "City": "Tempe",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85281"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ernest C. Garcia III",
+        "Title": "Co-Founder, President, CEO & Chairman",
+        "YearBorn": "1983"
+      },
+      "1": {
+        "Name": "Mr. Benjamin  Huston J.D.",
+        "Title": "Co-Founder & COO",
+        "YearBorn": "1983"
+      },
+      "2": {
+        "Name": "Mr. Mark  Jenkins Ph.D.",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Mr. Daniel  Gill",
+        "Title": "Chief Product Officer",
+        "YearBorn": "1983"
+      },
+      "4": {
+        "Name": "Mr. Thomas  Taira",
+        "Title": "President of Special Projects",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Ryan S. Keeton",
+        "Title": "Co-Founder & Chief Brand Officer",
+        "YearBorn": "1978"
+      },
+      "6": {
+        "Name": "Mr. Stephen R. Palmer",
+        "Title": "Vice President of Accounting & Finance",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Mr. Michael  McKeever",
+        "Title": "Head of Capital Markets, Investor Relations and Treasury",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Paul  Breaux J.D.",
+        "Title": "VP, General Counsel, Secretary & Chief Compliance Officer",
+        "YearBorn": "1984"
+      },
+      "9": {
+        "Name": "Ms. Christina  Keiser",
+        "Title": "Executive Vice President of Strategy",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "602 922 9866",
+    "WebURL": "https://www.carvana.com",
+    "LogoURL": "/img/logos/US/CVNA.png",
+    "FullTimeEmployees": 23100,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 142993769,
+    "SharesFloat": 139981388,
+    "PercentInsiders": 2.133,
+    "PercentInstitutions": 104.761,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.135
+  }
+}

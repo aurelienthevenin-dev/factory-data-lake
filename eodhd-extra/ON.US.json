@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.0948,
+        "totalAssets": 0.1639,
+        "currentShares": 59372112,
+        "change": -877931,
+        "change_p": -1.4571
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.9832,
+        "totalAssets": 0.0401,
+        "currentShares": 51066453,
+        "change": -232424,
+        "change_p": -0.4531
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2181,
+        "totalAssets": 0.0347,
+        "currentShares": 40190466,
+        "change": -3794829,
+        "change_p": -8.6275
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.6896,
+        "totalAssets": 0.0447,
+        "currentShares": 30245488,
+        "change": 16886025,
+        "change_p": 126.3975
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8714,
+        "totalAssets": 0.0328,
+        "currentShares": 19160395,
+        "change": -231210,
+        "change_p": -1.1923
+      },
+      "5": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 3.8652,
+        "totalAssets": 0.3422,
+        "currentShares": 15202747,
+        "change": -480175,
+        "change_p": -3.0618
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7988,
+        "totalAssets": 0.0367,
+        "currentShares": 11008373,
+        "change": -165682,
+        "change_p": -1.4827
+      },
+      "7": {
+        "name": "Slate Path Capital LP",
+        "date": "2025-12-31",
+        "totalShares": 2.6645,
+        "totalAssets": 7.6541,
+        "currentShares": 10480200,
+        "change": 10480200,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.2135,
+        "totalAssets": 0.0986,
+        "currentShares": 8706210,
+        "change": -3499786,
+        "change_p": -28.6727
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.076,
+        "totalAssets": 0.0273,
+        "currentShares": 8165391,
+        "change": 434957,
+        "change_p": 5.6266
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8914,
+        "totalAssets": 0.0578,
+        "currentShares": 7439519,
+        "change": 634381,
+        "change_p": 9.3221
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.874,
+        "totalAssets": 0.022,
+        "currentShares": 7371136,
+        "change": -1140696,
+        "change_p": -13.4013
+      },
+      "12": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6179,
+        "totalAssets": 0.5845,
+        "currentShares": 6363805,
+        "change": 474725,
+        "change_p": 8.0611
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6115,
+        "totalAssets": 0.0421,
+        "currentShares": 6338441,
+        "change": -254569,
+        "change_p": -3.8612
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5535,
+        "totalAssets": 0.0354,
+        "currentShares": 6110525,
+        "change": 1744281,
+        "change_p": 39.9492
+      },
+      "15": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.2191,
+        "totalAssets": 0.0513,
+        "currentShares": 4795100,
+        "change": -2497537,
+        "change_p": -34.2474
+      },
+      "16": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 1.2014,
+        "totalAssets": 0.2126,
+        "currentShares": 4725516,
+        "change": -339086,
+        "change_p": -6.6952
+      },
+      "17": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.0426,
+        "totalAssets": 0.1835,
+        "currentShares": 4100943,
+        "change": 674408,
+        "change_p": 19.6819
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0337,
+        "totalAssets": 0.0314,
+        "currentShares": 4065961,
+        "change": -1882520,
+        "change_p": -31.6471
+      },
+      "19": {
+        "name": "Citigroup Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0214,
+        "totalAssets": 0.0883,
+        "currentShares": 4017345,
+        "change": -508539,
+        "change_p": -11.2362
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Fidelity Select Semiconductors",
+        "date": "2026-02-28",
+        "totalShares": 6.4683,
+        "totalAssets": 5.1751,
+        "currentShares": 25441608,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Fidelity Select Technology",
+        "date": "2026-02-28",
+        "totalShares": 4.6629,
+        "totalAssets": 4.4619,
+        "currentShares": 18340605,
+        "change": 500,
+        "change_p": 0.0027
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1831,
+        "totalAssets": 0.0388,
+        "currentShares": 12520021,
+        "change": -195794,
+        "change_p": -1.5398
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5502,
+        "totalAssets": 0.0437,
+        "currentShares": 10030820,
+        "change": -322923,
+        "change_p": -3.1189
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1641,
+        "totalAssets": 0.2652,
+        "currentShares": 8511848,
+        "change": -233668,
+        "change_p": -2.6719
+      },
+      "5": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 1.9091,
+        "totalAssets": 1.9996,
+        "currentShares": 7509031,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 1.9091,
+        "totalAssets": 1.783,
+        "currentShares": 7509031,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7784,
+        "totalAssets": 2.1411,
+        "currentShares": 6994911,
+        "change": -125114,
+        "change_p": -1.7572
+      },
+      "8": {
+        "name": "Fidelity Advisor Technology I",
+        "date": "2025-10-31",
+        "totalShares": 1.4033,
+        "totalAssets": 3.0098,
+        "currentShares": 5519520,
+        "change": 58415,
+        "change_p": 1.0697
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3019,
+        "totalAssets": 0.0454,
+        "currentShares": 5120768,
+        "change": 8446,
+        "change_p": 0.1652
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2878,
+        "totalAssets": 0.0436,
+        "currentShares": 5065133,
+        "change": -2760,
+        "change_p": -0.0545
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1561,
+        "totalAssets": 0.0433,
+        "currentShares": 4547194,
+        "change": -11221,
+        "change_p": -0.2462
+      },
+      "12": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.0758,
+        "totalAssets": 2.0388,
+        "currentShares": 4231550,
+        "change": -250000,
+        "change_p": -5.5784
+      },
+      "13": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.0758,
+        "totalAssets": 2.0388,
+        "currentShares": 4231550,
+        "change": -250000,
+        "change_p": -5.5784
+      },
+      "14": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.0758,
+        "totalAssets": 2.0421,
+        "currentShares": 4231550,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "VanEck Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0047,
+        "totalAssets": 0.5686,
+        "currentShares": 3951567,
+        "change": -76014,
+        "change_p": -1.8873
+      },
+      "16": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9784,
+        "totalAssets": 0.1958,
+        "currentShares": 3848288,
+        "change": -4976,
+        "change_p": -0.1291
+      },
+      "17": {
+        "name": "Fidelity Advisor Semiconductors I",
+        "date": "2026-02-28",
+        "totalShares": 0.966,
+        "totalAssets": 4.8289,
+        "currentShares": 3799519,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9259,
+        "totalAssets": 0.0999,
+        "currentShares": 3641699,
+        "change": -103503,
+        "change_p": -2.7636
+      },
+      "19": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7516,
+        "totalAssets": 0.2171,
+        "currentShares": 2956335,
+        "change": 7882,
+        "change_p": 0.2673
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 339.3104,
+    "ForwardPE": 33.67,
+    "PriceSalesTTM": 6.4555,
+    "PriceBookMRQ": 5.0121,
+    "EnterpriseValue": 38916745154,
+    "EnterpriseValueRevenue": 6.4911,
+    "EnterpriseValueEbitda": 43.8153
+  },
+  "Highlights": {
+    "MarketCapitalization": 38703411200,
+    "MarketCapitalizationMln": 38703.4112,
+    "EBITDA": 1755500032,
+    "PERatio": 339.3104,
+    "PEGRatio": 0.3705,
+    "WallStreetTargetPrice": 70.7931,
+    "BookValue": 19.341,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.29,
+    "EPSEstimateCurrentYear": 2.9332,
+    "EPSEstimateNextYear": 4.0524,
+    "EPSEstimateNextQuarter": 0.6131,
+    "EPSEstimateCurrentQuarter": 0.6243,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0202,
+    "OperatingMarginTTM": 0.1914,
+    "ReturnOnAssetsTTM": 0.0502,
+    "ReturnOnEquityTTM": 0.015,
+    "RevenueTTM": 5995400192,
+    "RevenuePerShareTTM": 14.587,
+    "QuarterlyRevenueGrowthYOY": -0.112,
+    "GrossProfitTTM": 2297499904,
+    "DilutedEpsTTM": 0.29,
+    "QuarterlyEarningsGrowthYOY": -0.487
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.55,
+    "TotalEsgPercentile": 37.84,
+    "EnvironmentScore": 12.25,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 6.34,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 5.45,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ON",
+    "Type": "Common Stock",
+    "Name": "ON Semiconductor Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DV7MX4",
+    "ISIN": "US6821891057",
+    "LEI": "ZV20P4CNJVT8V1ZGJ064",
+    "PrimaryTicker": "ON.US",
+    "CUSIP": "682189105",
+    "CIK": "0001097864",
+    "EmployerIdNumber": "36-3840979",
+    "FiscalYearEnd": "December",
+    "IPODate": "2000-04-28",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "ON Semiconductor Corporation provides intelligent sensing and power solutions in Hong Kong, Singapore, the United Kingdom, the United States, and internationally. It operates through three segments: Power Solutions Group, Analog and Mixed-Signal Group, and Intelligent Sensing Group. The Power Solutions Group segment offers discrete, module, and integrated semiconductor devices designed to enable power conversion, including power switching, signal conditioning, and circuit protection technologies. Its Analog and Mixed-Signal Group segment designs and develops analog and mixed-signal solutions, including power management, sensor interface, connectivity, and standard products for automotive, industrial automation, AI data centers, computing, and mobile end markets. The Intelligent Sensing Group segment develops complementary metal-oxide-semiconductor image sensors, image signal processors, short-wave infrared sensors, and other products, as well as photon-counting technologies, including single-photon avalanche diode arrays and silicon photomultiplier devices for depth sensing, factory automation, safety systems, and robotics industries. ON Semiconductor Corporation was incorporated in 1992 and is headquartered in Scottsdale, Arizona.",
+    "Address": "5701 North Pima Road, Scottsdale, AZ, United States, 85250",
+    "AddressData": {
+      "Street": "5701 North Pima Road",
+      "City": "Scottsdale",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85250"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Hassane S. El-Khoury",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1980"
+      },
+      "1": {
+        "Name": "Mr. Thad  Trent",
+        "Title": "Executive VP, CFO, Treasurer & Principal Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Simon  Keeton",
+        "Title": "Group President of Power Solutions Group",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Sudhir  Gopalswamy",
+        "Title": "Group President of Intelligent Sensing & Analog and Mixed Signal Group",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Dr. Wei-Chung  Wang Ph.D.",
+        "Title": "Executive Vice President of Global Manufacturing & Operations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Parag  Agarwal",
+        "Title": "Vice President of Investor Relations & Corporate Development",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Paul  Dutton",
+        "Title": "Senior VP, Chief Legal Officer & Secretary",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Krystal  Heaton",
+        "Title": "Director & Head of Public Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Felicity  Carson",
+        "Title": "Senior VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Jon  Imperato",
+        "Title": "Senior Vice President of Sales & Applications",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "602 244 6600",
+    "WebURL": "https://www.onsemi.com",
+    "LogoURL": "/img/logos/US/ON.png",
+    "FullTimeEmployees": 22600,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 393327318,
+    "SharesFloat": 392267139,
+    "PercentInsiders": 0.346,
+    "PercentInstitutions": 111.26400000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1046
+  }
+}

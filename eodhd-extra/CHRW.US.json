@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3592,
+        "totalAssets": 0.034,
+        "currentShares": 14565409,
+        "change": 364163,
+        "change_p": 2.5643
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2494,
+        "totalAssets": 0.0225,
+        "currentShares": 9721915,
+        "change": -902921,
+        "change_p": -8.4982
+      },
+      "2": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 7.6996,
+        "totalAssets": 2.5672,
+        "currentShares": 9074016,
+        "change": -1490983,
+        "change_p": -14.1125
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.8327,
+        "totalAssets": 0.0317,
+        "currentShares": 6873877,
+        "change": -546891,
+        "change_p": -7.3697
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.6275,
+        "totalAssets": 0.1536,
+        "currentShares": 5453538,
+        "change": -1689759,
+        "change_p": -23.6552
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7137,
+        "totalAssets": 0.0359,
+        "currentShares": 4376652,
+        "change": 902497,
+        "change_p": 25.9775
+      },
+      "6": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.7788,
+        "totalAssets": 0.547,
+        "currentShares": 3274859,
+        "change": -456504,
+        "change_p": -12.2342
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7279,
+        "totalAssets": 0.0318,
+        "currentShares": 3214855,
+        "change": 16961,
+        "change_p": 0.5304
+      },
+      "8": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 2.5667,
+        "totalAssets": 0.4019,
+        "currentShares": 3024821,
+        "change": 2241,
+        "change_p": 0.0741
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.684,
+        "totalAssets": 0.0159,
+        "currentShares": 1984596,
+        "change": 103410,
+        "change_p": 5.4971
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6742,
+        "totalAssets": 0.0412,
+        "currentShares": 1973041,
+        "change": -429904,
+        "change_p": -17.8907
+      },
+      "11": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.644,
+        "totalAssets": 0.046,
+        "currentShares": 1937414,
+        "change": -76331,
+        "change_p": -3.7905
+      },
+      "12": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.5889,
+        "totalAssets": 0.2188,
+        "currentShares": 1872508,
+        "change": 322479,
+        "change_p": 20.8047
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5191,
+        "totalAssets": 0.0303,
+        "currentShares": 1790318,
+        "change": -3856,
+        "change_p": -0.2149
+      },
+      "14": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.4224,
+        "totalAssets": 0.1477,
+        "currentShares": 1676314,
+        "change": -489704,
+        "change_p": -22.6085
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2651,
+        "totalAssets": 0.0059,
+        "currentShares": 1490902,
+        "change": 710774,
+        "change_p": 91.1099
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2492,
+        "totalAssets": 0.0253,
+        "currentShares": 1472165,
+        "change": 232191,
+        "change_p": 18.7255
+      },
+      "17": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0761,
+        "totalAssets": 0.3598,
+        "currentShares": 1268215,
+        "change": -375109,
+        "change_p": -22.8262
+      },
+      "18": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.9963,
+        "totalAssets": 0.049,
+        "currentShares": 1174105,
+        "change": -106864,
+        "change_p": -8.3424
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9911,
+        "totalAssets": 0.0292,
+        "currentShares": 1167970,
+        "change": -4146,
+        "change_p": -0.3537
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 3.4867,
+        "totalAssets": 0.9662,
+        "currentShares": 4109110,
+        "change": -1644908,
+        "change_p": -28.5871
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1943,
+        "totalAssets": 0.0313,
+        "currentShares": 3764470,
+        "change": 27023,
+        "change_p": 0.723
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5635,
+        "totalAssets": 0.0353,
+        "currentShares": 3021066,
+        "change": -17772,
+        "change_p": -0.5848
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.324,
+        "totalAssets": 0.2738,
+        "currentShares": 2738884,
+        "change": 55895,
+        "change_p": 2.0833
+      },
+      "4": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4788,
+        "totalAssets": 0.4765,
+        "currentShares": 1742816,
+        "change": 19806,
+        "change_p": 1.1495
+      },
+      "5": {
+        "name": "First Trust RBA Amer Indl RenaisTM ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.307,
+        "totalAssets": 3.0501,
+        "currentShares": 1540324,
+        "change": 1018,
+        "change_p": 0.0661
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2907,
+        "totalAssets": 0.0351,
+        "currentShares": 1521118,
+        "change": -828,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2757,
+        "totalAssets": 0.0372,
+        "currentShares": 1503448,
+        "change": 2483,
+        "change_p": 0.1654
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.17,
+        "totalAssets": 0.0352,
+        "currentShares": 1378898,
+        "change": -3381,
+        "change_p": -0.2446
+      },
+      "9": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.9194,
+        "totalAssets": 1.0651,
+        "currentShares": 1083463,
+        "change": -31457,
+        "change_p": -2.8215
+      },
+      "10": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8485,
+        "totalAssets": 0.0994,
+        "currentShares": 1000000,
+        "change": 1000000,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.8485,
+        "totalAssets": 0.1079,
+        "currentShares": 1000000,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8381,
+        "totalAssets": 0.1923,
+        "currentShares": 987651,
+        "change": 2882,
+        "change_p": 0.2927
+      },
+      "13": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.7819,
+        "totalAssets": 1.3857,
+        "currentShares": 921503,
+        "change": -438,
+        "change_p": -0.0475
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.652,
+        "totalAssets": 0.6171,
+        "currentShares": 768399,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Allianz Income and Growth IT H2 EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.5756,
+        "totalAssets": 0.2193,
+        "currentShares": 678396,
+        "change": 678396,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5676,
+        "totalAssets": 0.0352,
+        "currentShares": 668957,
+        "change": -517,
+        "change_p": -0.0772
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5636,
+        "totalAssets": 0.094,
+        "currentShares": 664175,
+        "change": 15892,
+        "change_p": 2.4514
+      },
+      "18": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5593,
+        "totalAssets": 0.3895,
+        "currentShares": 659142,
+        "change": -4560,
+        "change_p": -0.6871
+      },
+      "19": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.5574,
+        "totalAssets": 0.0551,
+        "currentShares": 656864,
+        "change": 60402,
+        "change_p": 10.1267
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.8944,
+    "ForwardPE": 30.7692,
+    "PriceSalesTTM": 1.3375,
+    "PriceBookMRQ": 11.7266,
+    "EnterpriseValue": 22802319083,
+    "EnterpriseValueRevenue": 1.4094,
+    "EnterpriseValueEbitda": 25.4826
+  },
+  "Highlights": {
+    "MarketCapitalization": 21711171584,
+    "MarketCapitalizationMln": 21711.1716,
+    "EBITDA": 874992000,
+    "PERatio": 37.8944,
+    "PEGRatio": 2.776,
+    "WallStreetTargetPrice": 190.32,
+    "BookValue": 15.584,
+    "DividendShare": 2.49,
+    "DividendYield": 0.0136,
+    "EarningsShare": 4.83,
+    "EPSEstimateCurrentYear": 6.0254,
+    "EPSEstimateNextYear": 7.1589,
+    "EPSEstimateNextQuarter": 1.3025,
+    "EPSEstimateCurrentQuarter": 1.1262,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0362,
+    "OperatingMarginTTM": 0.0507,
+    "ReturnOnAssetsTTM": 0.1005,
+    "ReturnOnEquityTTM": 0.3291,
+    "RevenueTTM": 16232763392,
+    "RevenuePerShareTTM": 135.001,
+    "QuarterlyRevenueGrowthYOY": -0.065,
+    "GrossProfitTTM": 1388044032,
+    "DilutedEpsTTM": 4.83,
+    "QuarterlyEarningsGrowthYOY": -0.085
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.49,
+    "TotalEsgPercentile": 46.78,
+    "EnvironmentScore": 9.38,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 16.08,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 12.52,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CHRW",
+    "Type": "Common Stock",
+    "Name": "CH Robinson Worldwide Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BTCH57",
+    "ISIN": "US12541W2098",
+    "LEI": "529900WNWN5L0OVDHA79",
+    "PrimaryTicker": "CHRW.US",
+    "CUSIP": "12541W100",
+    "CIK": "0001043277",
+    "EmployerIdNumber": "41-1883630",
+    "FiscalYearEnd": "December",
+    "IPODate": "1997-10-15",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Air Freight & Logistics",
+    "GicSubIndustry": "Air Freight & Logistics",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "C.H. Robinson Worldwide, Inc., together with its subsidiaries, provides freight transportation and related logistics and supply chain services in the United States and internationally. It operates in two segments, North American Surface Transportation and Global Forwarding. The company offers transportation and logistics services, such as truckload; less than truckload transportation brokerage services, which include the shipment of single or multiple pallets of freight; intermodal transportation that comprises the shipment service of freight in containers or trailers by a combination of truck and rail; and non-vessel operating common carrier and freight forwarding services, as well as organizes indirect air carrier and freight forwarder providing door-to-door services. It also provides customs brokerage services; and other logistics services, such as fee-based managed, warehousing, supply chain consulting and optimization services, and other services. In addition, the company is involved in the buying, selling, and/or marketing of fresh fruits, vegetables, and other value-added perishable items under the Robinson Fresh trade name. Further, the company offers transportation management and other surface transportation services. It provides fresh produce to grocery retailers, restaurants, produce wholesalers. C.H. Robinson Worldwide, Inc. was founded in 1905 and is headquartered in Eden Prairie, Minnesota.",
+    "Address": "14701 Charlson Road, Eden Prairie, MN, United States, 55347",
+    "AddressData": {
+      "Street": "14701 Charlson Road",
+      "City": "Eden Prairie",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55347"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. David P. Bozeman",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Damon J. Lee",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Ms. Dorothy G. Capers",
+        "Title": "Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. Michael J. Short",
+        "Title": "President of Global Freight Forwarding",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Arun D. Rajan",
+        "Title": "Chief Strategy & Innovation Officer",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Mr. Michael W. Neill",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. Charles S. Ives",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Mr. Duncan  Burns",
+        "Title": "Chief Communications & Marketing Officer",
+        "YearBorn": "1977"
+      },
+      "8": {
+        "Name": "Ms. Angela K. Freeman",
+        "Title": "Chief Human Resources & ESG Officer",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Mr. Jordan T. Kass",
+        "Title": "President of Managed Services",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "952 937 8500",
+    "WebURL": "https://www.chrobinson.com",
+    "LogoURL": "/img/logos/US/CHRW.png",
+    "FullTimeEmployees": 11736,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 117850413,
+    "SharesFloat": 118138046,
+    "PercentInsiders": 0.395,
+    "PercentInstitutions": 104.103,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0724
+  }
+}

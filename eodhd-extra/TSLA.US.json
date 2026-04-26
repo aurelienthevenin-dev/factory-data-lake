@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.9002,
+        "totalAssets": 1.6882,
+        "currentShares": 258925024,
+        "change": 6538720,
+        "change_p": 2.5908
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.5095,
+        "totalAssets": 1.6095,
+        "currentShares": 206739699,
+        "change": 776922,
+        "change_p": 0.3772
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.0317,
+        "totalAssets": 1.7544,
+        "currentShares": 113762849,
+        "change": 344162,
+        "change_p": 0.3034
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.3792,
+        "totalAssets": 1.1894,
+        "currentShares": 89279010,
+        "change": 43263400,
+        "change_p": 94.019
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7509,
+        "totalAssets": 1.8159,
+        "currentShares": 65700975,
+        "change": 375946,
+        "change_p": 0.5755
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.1322,
+        "totalAssets": 2.5985,
+        "currentShares": 42484452,
+        "change": -1551497,
+        "change_p": -3.5233
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0522,
+        "totalAssets": 0.9054,
+        "currentShares": 39484462,
+        "change": 3393342,
+        "change_p": 9.4022
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.015,
+        "totalAssets": 1.8324,
+        "currentShares": 38086143,
+        "change": 814141,
+        "change_p": 2.1843
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9633,
+        "totalAssets": 0.9733,
+        "currentShares": 36146709,
+        "change": -7090349,
+        "change_p": -16.3988
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7457,
+        "totalAssets": 1.3314,
+        "currentShares": 27983601,
+        "change": 3638218,
+        "change_p": 14.9442
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7307,
+        "totalAssets": 1.5124,
+        "currentShares": 27419658,
+        "change": -2464745,
+        "change_p": -8.2476
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6989,
+        "totalAssets": 1.4919,
+        "currentShares": 26224278,
+        "change": -123955,
+        "change_p": -0.4704
+      },
+      "12": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5926,
+        "totalAssets": 0.4586,
+        "currentShares": 22236376,
+        "change": 21587163,
+        "change_p": 3325.128
+      },
+      "13": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5378,
+        "totalAssets": 2.0128,
+        "currentShares": 20181227,
+        "change": 1043213,
+        "change_p": 5.451
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5289,
+        "totalAssets": 0.5986,
+        "currentShares": 19846513,
+        "change": -6134966,
+        "change_p": -23.6128
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.5276,
+        "totalAssets": 1.9119,
+        "currentShares": 19798871,
+        "change": -4958581,
+        "change_p": -20.0286
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5258,
+        "totalAssets": 1.3787,
+        "currentShares": 19730256,
+        "change": 373949,
+        "change_p": 1.9319
+      },
+      "17": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.5183,
+        "totalAssets": 2.3767,
+        "currentShares": 19447743,
+        "change": 1056232,
+        "change_p": 5.743
+      },
+      "18": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.4348,
+        "totalAssets": 1.5732,
+        "currentShares": 16315731,
+        "change": -4190432,
+        "change_p": -20.435
+      },
+      "19": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.4177,
+        "totalAssets": 1.899,
+        "currentShares": 15674624,
+        "change": 7660340,
+        "change_p": 95.5836
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.3826,
+        "totalAssets": 1.6647,
+        "currentShares": 89405518,
+        "change": -14125,
+        "change_p": -0.0158
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.9086,
+        "totalAssets": 1.871,
+        "currentShares": 71617214,
+        "change": -655145,
+        "change_p": -0.9065
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 1.0112,
+        "totalAssets": 3.8012,
+        "currentShares": 37943872,
+        "change": -126936,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9634,
+        "totalAssets": 1.8662,
+        "currentShares": 36151733,
+        "change": -19680,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.953,
+        "totalAssets": 1.9215,
+        "currentShares": 35760044,
+        "change": 58948,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8691,
+        "totalAssets": 1.8645,
+        "currentShares": 32610576,
+        "change": -80164,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.791,
+        "totalAssets": 3.4723,
+        "currentShares": 29683162,
+        "change": -183209,
+        "change_p": -0.6134
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5623,
+        "totalAssets": 2.8245,
+        "currentShares": 21101101,
+        "change": -979281,
+        "change_p": -4.4351
+      },
+      "8": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.5615,
+        "totalAssets": 2.5563,
+        "currentShares": 21069181,
+        "change": -31920,
+        "change_p": -0.1513
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4223,
+        "totalAssets": 1.8664,
+        "currentShares": 15845306,
+        "change": -72040,
+        "change_p": -0.4526
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4001,
+        "totalAssets": 1.8472,
+        "currentShares": 15013140,
+        "change": 34160,
+        "change_p": 0.2281
+      },
+      "11": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3385,
+        "totalAssets": 1.8641,
+        "currentShares": 12702773,
+        "change": 84119,
+        "change_p": 0.6666
+      },
+      "12": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.297,
+        "totalAssets": 2.1616,
+        "currentShares": 11142968,
+        "change": 11142968,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.297,
+        "totalAssets": 2.1616,
+        "currentShares": 11142968,
+        "change": -117063,
+        "change_p": -1.0396
+      },
+      "14": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.297,
+        "totalAssets": 2.1616,
+        "currentShares": 11142968,
+        "change": -117063,
+        "change_p": -1.0396
+      },
+      "15": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2885,
+        "totalAssets": 18.9566,
+        "currentShares": 10825731,
+        "change": -142616,
+        "change_p": -1.3003
+      },
+      "16": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2846,
+        "totalAssets": 3.5491,
+        "currentShares": 10681103,
+        "change": 10175,
+        "change_p": 0.0954
+      },
+      "17": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.2815,
+        "totalAssets": 2.9193,
+        "currentShares": 10562820,
+        "change": -561883,
+        "change_p": -5.0508
+      },
+      "18": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.2815,
+        "totalAssets": 2.571,
+        "currentShares": 10562820,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.2707,
+        "totalAssets": 1.8558,
+        "currentShares": 10156166,
+        "change": -29844,
+        "change_p": -0.293
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 345.2293,
+    "ForwardPE": 178.5714,
+    "PriceSalesTTM": 14.439,
+    "PriceBookMRQ": 16.6864,
+    "EnterpriseValue": 1374736125070,
+    "EnterpriseValueRevenue": 14.0453,
+    "EnterpriseValueEbitda": 113.9253
+  },
+  "Highlights": {
+    "MarketCapitalization": 1413278859264,
+    "MarketCapitalizationMln": 1413278.8593,
+    "EBITDA": 11093999616,
+    "PERatio": 345.2293,
+    "PEGRatio": 5.472,
+    "WallStreetTargetPrice": 419.004,
+    "BookValue": 21.897,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.09,
+    "EPSEstimateCurrentYear": 2.0925,
+    "EPSEstimateNextYear": 2.6352,
+    "EPSEstimateNextQuarter": 0.4534,
+    "EPSEstimateCurrentQuarter": 0.3481,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0395,
+    "OperatingMarginTTM": 0.042,
+    "ReturnOnAssetsTTM": 0.0223,
+    "ReturnOnEquityTTM": 0.049,
+    "RevenueTTM": 97878999040,
+    "RevenuePerShareTTM": 30.312,
+    "QuarterlyRevenueGrowthYOY": 0.158,
+    "GrossProfitTTM": 18660999168,
+    "DilutedEpsTTM": 1.09,
+    "QuarterlyEarningsGrowthYOY": 0.083
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27.59,
+    "TotalEsgPercentile": 60.92,
+    "EnvironmentScore": 1.25,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 17.81,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 10.53,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TSLA",
+    "Type": "Common Stock",
+    "Name": "Tesla Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000N9MNX3",
+    "ISIN": "US88160R1014",
+    "LEI": "54930043XZGB27CTOV49",
+    "PrimaryTicker": "TSLA.US",
+    "CUSIP": "88160R101",
+    "CIK": "0001318605",
+    "EmployerIdNumber": "91-2197729",
+    "FiscalYearEnd": "December",
+    "IPODate": "2010-06-29",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Automobiles & Components",
+    "GicIndustry": "Automobiles",
+    "GicSubIndustry": "Automobile Manufacturers",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The company offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty maintenance services and collision, automotive insurance services, as well as part sales and retail merchandise sale. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. In addition, the company engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. Further, it provides services and repairs to its energy product customers, including under warranty and extended service plans; and various financing options to its residential customers; lithium-ion battery energy storage products, such as Powerwall and Megapack; energy generation products, including solar panels and solar roof; self-driving development and artificial intelligence software, vehicle control and infotainment software, and battery and powertrain. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas.",
+    "Address": "1 Tesla Road, Austin, TX, United States, 78725",
+    "AddressData": {
+      "Street": "1 Tesla Road",
+      "City": "Austin",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "78725"
+    },
+    "Listings": {
+      "0": {
+        "Code": "TSLA34",
+        "Exchange": "SA",
+        "Name": "Tesla Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Elon R. Musk",
+        "Title": "Co-Founder, Technoking of Tesla, CEO & Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Vaibhav  Taneja",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1978"
+      },
+      "2": {
+        "Name": "Mr. Xiaotong  Zhu",
+        "Title": "Senior Vice President of APAC & Global Vehicle Manufacturing",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Travis  Axelrod",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Brandon  Ehrhart",
+        "Title": "General Counsel & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Franz  von Holzhausen",
+        "Title": "Chief Designer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. John  Walker",
+        "Title": "Vice President of Sales - North America",
+        "YearBorn": "1963"
+      },
+      "7": {
+        "Name": "Mr. Rodney D. Westmoreland Jr.",
+        "Title": "Director of Construction Management",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Lars  Moravy",
+        "Title": "Vice President of Vehicle Engineering",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ashok  Elluswamy",
+        "Title": "Executive Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "512 516 8177",
+    "WebURL": "https://www.tesla.com",
+    "LogoURL": "/img/logos/US/TSLA.png",
+    "FullTimeEmployees": 134785,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 3755723871,
+    "SharesFloat": 2424044700,
+    "PercentInsiders": 11.129999999999999,
+    "PercentInstitutions": 44.984,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0197
+  }
+}

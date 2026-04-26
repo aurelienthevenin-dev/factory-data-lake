@@ -1,0 +1,518 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5124,
+        "totalAssets": 0.0185,
+        "currentShares": 12377575,
+        "change": -47149,
+        "change_p": -0.3795
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0992,
+        "totalAssets": 0.0185,
+        "currentShares": 8707871,
+        "change": 69269,
+        "change_p": 0.8019
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6433,
+        "totalAssets": 0.021,
+        "currentShares": 4992263,
+        "change": -34290,
+        "change_p": -0.6822
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.2333,
+        "totalAssets": 0.0182,
+        "currentShares": 3476283,
+        "change": -7928983,
+        "change_p": -69.5204
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.085,
+        "totalAssets": 0.0598,
+        "currentShares": 3316797,
+        "change": 73835,
+        "change_p": 2.2768
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.621,
+        "totalAssets": 0.0178,
+        "currentShares": 2817958,
+        "change": 14420,
+        "change_p": 0.5144
+      },
+      "6": {
+        "name": "Sands Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5652,
+        "totalAssets": 0.8632,
+        "currentShares": 2757969,
+        "change": 327067,
+        "change_p": 13.4546
+      },
+      "7": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.4571,
+        "totalAssets": 0.057,
+        "currentShares": 2641809,
+        "change": 725905,
+        "change_p": 37.8884
+      },
+      "8": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.3501,
+        "totalAssets": 0.0408,
+        "currentShares": 2526676,
+        "change": -1016744,
+        "change_p": -28.6939
+      },
+      "9": {
+        "name": "Brave Warrior Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2128,
+        "totalAssets": 5.7344,
+        "currentShares": 2379145,
+        "change": 573764,
+        "change_p": 31.7808
+      },
+      "10": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.8859,
+        "totalAssets": 0.1177,
+        "currentShares": 2027595,
+        "change": 134112,
+        "change_p": 7.0828
+      },
+      "11": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7418,
+        "totalAssets": 0.9873,
+        "currentShares": 1872708,
+        "change": 221641,
+        "change_p": 13.4241
+      },
+      "12": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7249,
+        "totalAssets": 0.0561,
+        "currentShares": 1854525,
+        "change": 1783164,
+        "change_p": 2498.7935
+      },
+      "13": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6657,
+        "totalAssets": 0.1909,
+        "currentShares": 1790854,
+        "change": -61438,
+        "change_p": -3.3169
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6552,
+        "totalAssets": 0.0131,
+        "currentShares": 1779563,
+        "change": 30480,
+        "change_p": 1.7426
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4378,
+        "totalAssets": 0.0295,
+        "currentShares": 1545870,
+        "change": -229477,
+        "change_p": -12.9258
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3903,
+        "totalAssets": 0.0054,
+        "currentShares": 1494750,
+        "change": 978586,
+        "change_p": 189.5882
+      },
+      "17": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.1914,
+        "totalAssets": 0.0198,
+        "currentShares": 1280988,
+        "change": 1010561,
+        "change_p": 373.6909
+      },
+      "18": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9878,
+        "totalAssets": 0.0117,
+        "currentShares": 1061995,
+        "change": -206274,
+        "change_p": -16.2642
+      },
+      "19": {
+        "name": "Public Sector Pension Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 0.9838,
+        "totalAssets": 0.3654,
+        "currentShares": 1057720,
+        "change": 176281,
+        "change_p": 19.9992
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1171,
+        "totalAssets": 0.0138,
+        "currentShares": 3351326,
+        "change": 26738,
+        "change_p": 0.8043
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.6183,
+        "totalAssets": 0.0163,
+        "currentShares": 2815031,
+        "change": -29480,
+        "change_p": -1.0364
+      },
+      "2": {
+        "name": "Sands Capital Global Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 2.2826,
+        "totalAssets": 1.6152,
+        "currentShares": 2454195,
+        "change": 280659,
+        "change_p": 12.9126
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.2565,
+        "totalAssets": 0.1202,
+        "currentShares": 2426112,
+        "change": 40371,
+        "change_p": 1.6922
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7725,
+        "totalAssets": 0.184,
+        "currentShares": 1905732,
+        "change": 5633,
+        "change_p": 0.2965
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4359,
+        "totalAssets": 0.2093,
+        "currentShares": 1543779,
+        "change": 11610,
+        "change_p": 0.7577
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3215,
+        "totalAssets": 0.0162,
+        "currentShares": 1420830,
+        "change": -768,
+        "change_p": -0.054
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3089,
+        "totalAssets": 0.0196,
+        "currentShares": 1407284,
+        "change": 2320,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.2081,
+        "totalAssets": 0.0695,
+        "currentShares": 1298908,
+        "change": 121000,
+        "change_p": 10.2724
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2073,
+        "totalAssets": 0.0164,
+        "currentShares": 1298034,
+        "change": -3136,
+        "change_p": -0.241
+      },
+      "10": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 1.1391,
+        "totalAssets": 0.5216,
+        "currentShares": 1224741,
+        "change": 311205,
+        "change_p": 34.066
+      },
+      "11": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.1182,
+        "totalAssets": 0.4983,
+        "currentShares": 1202220,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0956,
+        "totalAssets": 0.0749,
+        "currentShares": 1177908,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.04,
+        "totalAssets": 0.0301,
+        "currentShares": 1118157,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.04,
+        "totalAssets": 0.0342,
+        "currentShares": 1118157,
+        "change": -827315,
+        "change_p": -42.5252
+      },
+      "15": {
+        "name": "American Funds SMALLCAP World A",
+        "date": "2026-03-31",
+        "totalShares": 0.9759,
+        "totalAssets": 0.1068,
+        "currentShares": 1049241,
+        "change": 289013,
+        "change_p": 38.0166
+      },
+      "16": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.8298,
+        "totalAssets": 0.7967,
+        "currentShares": 892131,
+        "change": 139767,
+        "change_p": 18.577
+      },
+      "17": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7178,
+        "totalAssets": 0.5462,
+        "currentShares": 771705,
+        "change": 476,
+        "change_p": 0.0617
+      },
+      "18": {
+        "name": "Janus Henderson US Opportunistic Alpha",
+        "date": "2025-12-31",
+        "totalShares": 0.6491,
+        "totalAssets": 1.5348,
+        "currentShares": 697859,
+        "change": 36754,
+        "change_p": 5.5595
+      },
+      "19": {
+        "name": "Janus Henderson Contrarian D",
+        "date": "2026-01-31",
+        "totalShares": 0.6313,
+        "totalAssets": 1.7171,
+        "currentShares": 678709,
+        "change": -19150,
+        "change_p": -2.7441
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.1465,
+    "ForwardPE": 16.8067,
+    "PriceSalesTTM": 0.6373,
+    "PriceBookMRQ": 2.2268,
+    "EnterpriseValue": 14599202094,
+    "EnterpriseValueRevenue": 0.9618,
+    "EnterpriseValueEbitda": 10.6045
+  },
+  "Highlights": {
+    "MarketCapitalization": 9680685056,
+    "MarketCapitalizationMln": 9680.6851,
+    "EBITDA": 1377708032,
+    "PERatio": 23.1465,
+    "PEGRatio": 2.019,
+    "WallStreetTargetPrice": 118.0952,
+    "BookValue": 39.357,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 3.89,
+    "EPSEstimateCurrentYear": 5.6273,
+    "EPSEstimateNextYear": 7.3377,
+    "EPSEstimateNextQuarter": 0.8936,
+    "EPSEstimateCurrentQuarter": 1.2764,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0287,
+    "OperatingMarginTTM": 0.0184,
+    "ReturnOnAssetsTTM": 0.045,
+    "ReturnOnEquityTTM": 0.1006,
+    "RevenueTTM": 15190637568,
+    "RevenuePerShareTTM": 136.336,
+    "QuarterlyRevenueGrowthYOY": -0.121,
+    "GrossProfitTTM": 4615776768,
+    "DilutedEpsTTM": 3.89,
+    "QuarterlyEarningsGrowthYOY": -0.829
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "BLDR",
+    "Type": "Common Stock",
+    "Name": "Builders FirstSource Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKD3K9",
+    "ISIN": "US12008R1077",
+    "LEI": "549300W0SKP6L3H7DP63",
+    "PrimaryTicker": "BLDR.US",
+    "CUSIP": "12008R107",
+    "CIK": "0001316835",
+    "EmployerIdNumber": "52-2084569",
+    "FiscalYearEnd": "December",
+    "IPODate": "2005-06-22",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Building Products & Equipment",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Building Products",
+    "GicSubIndustry": "Building Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Builders FirstSource, Inc., together with its subsidiaries, provides building materials for professional builders in new residential construction and repair, and remodeling in the United States. It offers manufactured products, such as factory-built substitutes for job-site framing, wood floor and roof trusses, wall panels, and engineered wood; Ready-Frame, a whole house framing solution; manufactured and semi-custom modular homes, and built in a temperature-controlled facility under its Pine Grove Homes and Pleasant Valley Homes brand names; manufactured housing plans including ranch, community, and single-section homes; manufacturing, assembly, and distribution of windows; and the assembly and distribution of interior and exterior door units. The company also provides millwork, including interior trim and custom features under the Synboard brand name; specialty building products and services comprising vinyl, composite and wood siding, exterior trim, metal studs, cement, roofing, insulation, wallboard, ceilings, cabinets, and hardware; turn-key framing, shell construction, design assistance, and professional installation of products. In addition, it offers drafting, estimating, quoting, and virtual home design services to retailers, distributors, manufacturers, and homebuilders; dimensional lumber, plywood, and oriented strand board products used in on-site house framing. The company was formerly known as BSL Holdings, Inc. and changed its name to Builders FirstSource, Inc. in October 1999. Builders FirstSource, Inc. was incorporated in 1998 and is based in Irving, Texas.",
+    "Address": "6031 Connection Drive, Irving, TX, United States, 75039",
+    "AddressData": {
+      "Street": "6031 Connection Drive",
+      "City": "Irving",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75039"
+    },
+    "Listings": {
+      "0": {
+        "Code": "B1F",
+        "Exchange": "F",
+        "Name": "Builders FirstSource Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Peter M. Jackson CPA",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. Pete R. Beckmann",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1978"
+      },
+      "2": {
+        "Name": "Mr. Stephen J. Herron",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1959"
+      },
+      "3": {
+        "Name": "Ms. Gayatri  Narayan",
+        "Title": "President of Technology & Digital Solutions",
+        "YearBorn": "1978"
+      },
+      "4": {
+        "Name": "Mr. Michael  Hiller",
+        "Title": "Chief Talent Officer",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Mike  McCranie",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Heather Anne Kos CPA",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "1971"
+      },
+      "7": {
+        "Name": "Ms. Jami Beckmann Coulter",
+        "Title": "Senior Vice President of the Strategic Management Office",
+        "YearBorn": "1977"
+      },
+      "8": {
+        "Name": "Mr. Scott L. Robins",
+        "Title": "President of West Division",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Mr. Todd  Vance",
+        "Title": "President of East Division",
+        "YearBorn": "1966"
+      }
+    },
+    "Phone": "214 880 3500",
+    "WebURL": "https://www.bldr.com",
+    "LogoURL": "/img/logos/US/BLDR.png",
+    "FullTimeEmployees": 28000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 107515372,
+    "SharesFloat": 107408583,
+    "PercentInsiders": 2.582,
+    "PercentInstitutions": 97.812,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0787
+  }
+}

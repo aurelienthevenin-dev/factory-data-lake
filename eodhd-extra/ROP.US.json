@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.1879,
+        "totalAssets": 0.0805,
+        "currentShares": 12477100,
+        "change": 1384656,
+        "change_p": 12.4829
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9364,
+        "totalAssets": 0.0799,
+        "currentShares": 9148397,
+        "change": -200900,
+        "change_p": -2.1488
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8712,
+        "totalAssets": 0.0862,
+        "currentShares": 4986755,
+        "change": 46697,
+        "change_p": 0.9453
+      },
+      "3": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.8196,
+        "totalAssets": 0.1181,
+        "currentShares": 3910275,
+        "change": 247743,
+        "change_p": 6.7643
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.098,
+        "totalAssets": 0.0474,
+        "currentShares": 3171464,
+        "change": 2195821,
+        "change_p": 225.064
+      },
+      "5": {
+        "name": "WINDACRE PARTNERSHIP LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.0243,
+        "totalAssets": 14.7802,
+        "currentShares": 3096100,
+        "change": 3096100,
+        "change_p": 0
+      },
+      "6": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.9996,
+        "totalAssets": 0.1638,
+        "currentShares": 3070763,
+        "change": -1243363,
+        "change_p": -28.8207
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5803,
+        "totalAssets": 0.0723,
+        "currentShares": 2641573,
+        "change": 22335,
+        "change_p": 0.8527
+      },
+      "8": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.4942,
+        "totalAssets": 0.6423,
+        "currentShares": 2553409,
+        "change": 54221,
+        "change_p": 2.1695
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.4422,
+        "totalAssets": 0.1191,
+        "currentShares": 2500108,
+        "change": 621769,
+        "change_p": 33.1021
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.8046,
+        "totalAssets": 0.2297,
+        "currentShares": 1847398,
+        "change": 37766,
+        "change_p": 2.0869
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6385,
+        "totalAssets": 0.1318,
+        "currentShares": 1677331,
+        "change": 181243,
+        "change_p": 12.1145
+      },
+      "12": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5226,
+        "totalAssets": 0.2744,
+        "currentShares": 1558766,
+        "change": -1337033,
+        "change_p": -46.1715
+      },
+      "13": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4397,
+        "totalAssets": 0.4414,
+        "currentShares": 1473858,
+        "change": 565387,
+        "change_p": 62.235
+      },
+      "14": {
+        "name": "Mitsubishi UFJ Asset Management Co.,Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.2038,
+        "totalAssets": 0.3631,
+        "currentShares": 1232415,
+        "change": -152674,
+        "change_p": -11.0227
+      },
+      "15": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.1447,
+        "totalAssets": 0.184,
+        "currentShares": 1171883,
+        "change": 7444,
+        "change_p": 0.6393
+      },
+      "16": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.1358,
+        "totalAssets": 0.2837,
+        "currentShares": 1162768,
+        "change": 282845,
+        "change_p": 32.1443
+      },
+      "17": {
+        "name": "Flossbach von Storch AG",
+        "date": "2025-12-31",
+        "totalShares": 1.1183,
+        "totalAssets": 2.0199,
+        "currentShares": 1144835,
+        "change": 248674,
+        "change_p": 27.7488
+      },
+      "18": {
+        "name": "Swedbank AB",
+        "date": "2025-12-31",
+        "totalShares": 1.1066,
+        "totalAssets": 0.4878,
+        "currentShares": 1132849,
+        "change": 69124,
+        "change_p": 6.4983
+      },
+      "19": {
+        "name": "Akre Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0795,
+        "totalAssets": 5.3936,
+        "currentShares": 1105153,
+        "change": -51520,
+        "change_p": -4.4542
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1938,
+        "totalAssets": 0.058,
+        "currentShares": 3269535,
+        "change": -133637,
+        "change_p": -3.9268
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.6505,
+        "totalAssets": 0.0675,
+        "currentShares": 2713423,
+        "change": -55254,
+        "change_p": -1.9957
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.172,
+        "totalAssets": 0.3959,
+        "currentShares": 2223500,
+        "change": 1053772,
+        "change_p": 90.0869
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.1101,
+        "totalAssets": 0.206,
+        "currentShares": 2160212,
+        "change": -7224,
+        "change_p": -0.3333
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3383,
+        "totalAssets": 0.0673,
+        "currentShares": 1370060,
+        "change": -744,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3381,
+        "totalAssets": 0.064,
+        "currentShares": 1369816,
+        "change": 2258,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.2284,
+        "totalAssets": 1.8291,
+        "currentShares": 1257562,
+        "change": -34230,
+        "change_p": -2.6498
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2039,
+        "totalAssets": 0.0671,
+        "currentShares": 1232495,
+        "change": -3038,
+        "change_p": -0.2459
+      },
+      "8": {
+        "name": "Akre Focus ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0949,
+        "totalAssets": 6.041,
+        "currentShares": 1120874,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Morgan Stanley Glbl Franchise",
+        "date": "2025-12-31",
+        "totalShares": 0.935,
+        "totalAssets": 2.5616,
+        "currentShares": 957233,
+        "change": -284294,
+        "change_p": -22.8987
+      },
+      "10": {
+        "name": "MS INVF Global Brands A",
+        "date": "2025-12-31",
+        "totalShares": 0.935,
+        "totalAssets": 2.5768,
+        "currentShares": 957233,
+        "change": -190550,
+        "change_p": -16.6016
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9292,
+        "totalAssets": 0.1491,
+        "currentShares": 951283,
+        "change": -51099,
+        "change_p": -5.0978
+      },
+      "12": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8753,
+        "totalAssets": 0.2606,
+        "currentShares": 896109,
+        "change": -949,
+        "change_p": -0.1058
+      },
+      "13": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7813,
+        "totalAssets": 0.3357,
+        "currentShares": 799814,
+        "change": 2129,
+        "change_p": 0.2669
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.654,
+        "totalAssets": 0.6819,
+        "currentShares": 669533,
+        "change": 333638,
+        "change_p": 99.3281
+      },
+      "15": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 0.622,
+        "totalAssets": 0.772,
+        "currentShares": 636802,
+        "change": -573539,
+        "change_p": -47.3866
+      },
+      "16": {
+        "name": "iShares MSCI USA Min Vol Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5899,
+        "totalAssets": 0.9484,
+        "currentShares": 603863,
+        "change": -744,
+        "change_p": -0.1231
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5866,
+        "totalAssets": 0.0673,
+        "currentShares": 600568,
+        "change": -8939,
+        "change_p": -1.4666
+      },
+      "18": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.583,
+        "totalAssets": 0.1799,
+        "currentShares": 596865,
+        "change": 3702,
+        "change_p": 0.6241
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5559,
+        "totalAssets": 0.0666,
+        "currentShares": 569046,
+        "change": -4720,
+        "change_p": -0.8226
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.0737,
+    "ForwardPE": 17.0648,
+    "PriceSalesTTM": 4.4824,
+    "PriceBookMRQ": 1.9789,
+    "EnterpriseValue": 46259654941,
+    "EnterpriseValueRevenue": 5.8312,
+    "EnterpriseValueEbitda": 13.796
+  },
+  "Highlights": {
+    "MarketCapitalization": 36374581248,
+    "MarketCapitalizationMln": 36374.5812,
+    "EBITDA": 3194700032,
+    "PERatio": 22.0737,
+    "PEGRatio": 1.6104,
+    "WallStreetTargetPrice": 456.2544,
+    "BookValue": 186.506,
+    "DividendShare": 2.56,
+    "DividendYield": 0.007,
+    "EarningsShare": 16.01,
+    "EPSEstimateCurrentYear": 22.01,
+    "EPSEstimateNextYear": 23.4632,
+    "EPSEstimateNextQuarter": 5.2945,
+    "EPSEstimateCurrentQuarter": 4.9858,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2112,
+    "OperatingMarginTTM": 0.2719,
+    "ReturnOnAssetsTTM": 0.0432,
+    "ReturnOnEquityTTM": 0.0901,
+    "RevenueTTM": 8114999808,
+    "RevenuePerShareTTM": 76.108,
+    "QuarterlyRevenueGrowthYOY": 0.113,
+    "GrossProfitTTM": 5632099840,
+    "DilutedEpsTTM": 16.01,
+    "QuarterlyEarningsGrowthYOY": 0.592
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.84,
+    "TotalEsgPercentile": 25,
+    "EnvironmentScore": 2.63,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 15.72,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 6,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ROP",
+    "Type": "Common Stock",
+    "Name": "Roper Technologies Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000F1ZSN5",
+    "ISIN": "US7766961061",
+    "LEI": "54930003T4SXCIWVXY35",
+    "PrimaryTicker": "ROP.US",
+    "CUSIP": "776696106",
+    "CIK": "0000882835",
+    "EmployerIdNumber": "51-0263969",
+    "FiscalYearEnd": "December",
+    "IPODate": "1992-02-12",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Industrial Conglomerates",
+    "GicSubIndustry": "Industrial Conglomerates",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Roper Technologies, Inc. designs and develops vertical software and technology enabled products in the United States, Canada, Europe, Asia, and internationally. Its Application Software segment offers comprehensive management, diagnostic and laboratory information management, enterprise software and information solutions, K-12 school administration, transportation management, financial and compliance management, cloud-based and integrated payment processing, campus technology and payment, and cloud-based financial analytics, performance management software, and data solutions; cloud-based software for the property and casualty insurance industry; and foodservice technologies. The Network Software segment provides cloud-based data, collaboration, and estimating automation software; electronic marketplace; visual effects and 3D content software; cloud-based software and AI-enabled analytics solutions for the life insurance and financial services industries; supply chain software; health care services and software; data analytics and information; pharmacy software solutions;  and AI-enabled SaaS providing digital engagement, as well as church management and integrated giving solutions for faith-based organizations. The Technology Enabled Products segment offers ultrasound procedures accessories; dispensers and metering pumps; wireless sensor network and solutions; automated surgical scrub and linen dispensing equipment; water meters; optical and electromagnetic precision measurement systems; RFID card and credential readers; and medical devices. It distributes and sells its products through direct sales offices, manufacturers' representatives, resellers, and distributors. The company was formerly known as Roper Industries, Inc. and changed its name to Roper Technologies, Inc. in April 2015. Roper Technologies, Inc. was incorporated in 1981 and is based in Sarasota, Florida.",
+    "Address": "6496 University Parkway, Sarasota, FL, United States, 34240",
+    "AddressData": {
+      "Street": "6496 University Parkway",
+      "City": "Sarasota",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "34240"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Laurence Neil Hunn",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. Jason P. Conley CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. John K. Stipancich",
+        "Title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Zack  Moxcey",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Satish  Maripuri",
+        "Title": "Senior VP & Group Executive",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Harold C. Flynn Jr.",
+        "Title": "Senior VP & Group Executive",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Michael P. Corkery",
+        "Title": "Senior VP & Group Executive",
+        "YearBorn": "1963"
+      },
+      "7": {
+        "Name": "Ms. Janet  Glazer",
+        "Title": "Senior Vice President of Acquisition & Investment Development",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Jeffrey B. Paulsen",
+        "Title": "Senior VP & Group Executive",
+        "YearBorn": "1961"
+      },
+      "9": {
+        "Name": "Mr. Ondrej  Kruk",
+        "Title": "Senior VP & Group Executive",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "941 556 2601",
+    "WebURL": "https://www.ropertech.com",
+    "LogoURL": "/img/logos/US/ROP.png",
+    "FullTimeEmployees": 19400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 102372821,
+    "SharesFloat": 101854208,
+    "PercentInsiders": 0.375,
+    "PercentInstitutions": 101.394,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0428
+  }
+}

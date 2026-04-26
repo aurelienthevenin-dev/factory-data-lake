@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3977,
+        "totalAssets": 0.093,
+        "currentShares": 22109933,
+        "change": 110311,
+        "change_p": 0.5014
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.349,
+        "totalAssets": 0.1076,
+        "currentShares": 22006466,
+        "change": 454815,
+        "change_p": 2.1103
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.2956,
+        "totalAssets": 0.1502,
+        "currentShares": 15513596,
+        "change": -107409,
+        "change_p": -0.6876
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.2857,
+        "totalAssets": 0.1296,
+        "currentShares": 15492462,
+        "change": 7865712,
+        "change_p": 103.1332
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.0359,
+        "totalAssets": 0.1898,
+        "currentShares": 12834811,
+        "change": -1686059,
+        "change_p": -11.6113
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.7007,
+        "totalAssets": 0.1716,
+        "currentShares": 5742739,
+        "change": 222985,
+        "change_p": 4.0398
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6291,
+        "totalAssets": 0.1004,
+        "currentShares": 5590511,
+        "change": -14767,
+        "change_p": -0.2634
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.44,
+        "totalAssets": 0.4853,
+        "currentShares": 5188555,
+        "change": -186477,
+        "change_p": -3.4693
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.744,
+        "totalAssets": 0.0627,
+        "currentShares": 3708452,
+        "change": -422777,
+        "change_p": -10.2337
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6241,
+        "totalAssets": 0.0654,
+        "currentShares": 3453492,
+        "change": -47563,
+        "change_p": -1.3585
+      },
+      "10": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5806,
+        "totalAssets": 0.2045,
+        "currentShares": 3361112,
+        "change": 81497,
+        "change_p": 2.485
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4862,
+        "totalAssets": 0.1129,
+        "currentShares": 3160264,
+        "change": -36101,
+        "change_p": -1.1294
+      },
+      "12": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3499,
+        "totalAssets": 0.6666,
+        "currentShares": 2870373,
+        "change": -365072,
+        "change_p": -11.2835
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1727,
+        "totalAssets": 0.0774,
+        "currentShares": 2493756,
+        "change": -552565,
+        "change_p": -18.1388
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0555,
+        "totalAssets": 0.1361,
+        "currentShares": 2244418,
+        "change": -697899,
+        "change_p": -23.7194
+      },
+      "15": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8137,
+        "totalAssets": 0.135,
+        "currentShares": 1730356,
+        "change": 938828,
+        "change_p": 118.6096
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.805,
+        "totalAssets": 0.1101,
+        "currentShares": 1711785,
+        "change": 41769,
+        "change_p": 2.5011
+      },
+      "17": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8044,
+        "totalAssets": 0.2603,
+        "currentShares": 1710426,
+        "change": -74862,
+        "change_p": -4.1933
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7927,
+        "totalAssets": 0.0737,
+        "currentShares": 1685597,
+        "change": -340680,
+        "change_p": -16.8131
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7585,
+        "totalAssets": 0.0574,
+        "currentShares": 1612797,
+        "change": -103440,
+        "change_p": -6.0271
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.228,
+        "totalAssets": 0.1003,
+        "currentShares": 6864125,
+        "change": -190365,
+        "change_p": -2.6985
+      },
+      "1": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 2.5959,
+        "totalAssets": 3.8652,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5887,
+        "totalAssets": 0.1128,
+        "currentShares": 5504713,
+        "change": -232914,
+        "change_p": -4.0594
+      },
+      "3": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.7029,
+        "totalAssets": 1.9133,
+        "currentShares": 3621027,
+        "change": -147978,
+        "change_p": -3.9262
+      },
+      "4": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.6351,
+        "totalAssets": 1.9181,
+        "currentShares": 3477004,
+        "change": -90278,
+        "change_p": -2.5307
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.335,
+        "totalAssets": 0.117,
+        "currentShares": 2838753,
+        "change": 4679,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3071,
+        "totalAssets": 0.1126,
+        "currentShares": 2779456,
+        "change": -1512,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1772,
+        "totalAssets": 0.1123,
+        "currentShares": 2503204,
+        "change": -6174,
+        "change_p": -0.246
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9398,
+        "totalAssets": 0.2583,
+        "currentShares": 1998475,
+        "change": -77938,
+        "change_p": -3.7535
+      },
+      "9": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6952,
+        "totalAssets": 0.8934,
+        "currentShares": 1478260,
+        "change": 2508,
+        "change_p": 0.1699
+      },
+      "10": {
+        "name": "iShares U.S. Equity Fac Rotation Act ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6843,
+        "totalAssets": 1.4136,
+        "currentShares": 1455119,
+        "change": 846,
+        "change_p": 0.0582
+      },
+      "11": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6336,
+        "totalAssets": 1.9803,
+        "currentShares": 1347317,
+        "change": 928,
+        "change_p": 0.0689
+      },
+      "12": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.61,
+        "totalAssets": 0.1813,
+        "currentShares": 1297026,
+        "change": 47540,
+        "change_p": 3.8048
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5729,
+        "totalAssets": 0.1126,
+        "currentShares": 1218249,
+        "change": -44888,
+        "change_p": -3.5537
+      },
+      "14": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5694,
+        "totalAssets": 0.3009,
+        "currentShares": 1210741,
+        "change": -20110,
+        "change_p": -1.6338
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5428,
+        "totalAssets": 0.1114,
+        "currentShares": 1154293,
+        "change": -34800,
+        "change_p": -2.9266
+      },
+      "16": {
+        "name": "Fidelity Series Value Discovery",
+        "date": "2026-02-28",
+        "totalShares": 0.4947,
+        "totalAssets": 2.0235,
+        "currentShares": 1051870,
+        "change": 5500,
+        "change_p": 0.5256
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4593,
+        "totalAssets": 0.1125,
+        "currentShares": 976666,
+        "change": -25044,
+        "change_p": -2.5001
+      },
+      "18": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.4201,
+        "totalAssets": 0.6267,
+        "currentShares": 893207,
+        "change": -19999,
+        "change_p": -2.19
+      },
+      "19": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.4154,
+        "totalAssets": 0.6249,
+        "currentShares": 883240,
+        "change": -200980,
+        "change_p": -18.5368
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 9.034,
+    "ForwardPE": 10.8342,
+    "PriceSalesTTM": 1.3153,
+    "PriceBookMRQ": 2.0431,
+    "EnterpriseValue": 74005093499,
+    "EnterpriseValueRevenue": 1.5121,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 64373927936,
+    "MarketCapitalizationMln": 64373.9279,
+    "EBITDA": 10574000128,
+    "PERatio": 9.034,
+    "PEGRatio": 2.3596,
+    "WallStreetTargetPrice": 312.9091,
+    "BookValue": 150.452,
+    "DividendShare": 4.4,
+    "DividendYield": 0.0143,
+    "EarningsShare": 33.51,
+    "EPSEstimateCurrentYear": 28.0531,
+    "EPSEstimateNextYear": 28.4198,
+    "EPSEstimateNextQuarter": 4.8293,
+    "EPSEstimateCurrentQuarter": 7.0782,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1554,
+    "OperatingMarginTTM": 0.1874,
+    "ReturnOnAssetsTTM": 0.0444,
+    "ReturnOnEquityTTM": 0.2527,
+    "RevenueTTM": 48941998080,
+    "RevenuePerShareTTM": 221.182,
+    "QuarterlyRevenueGrowthYOY": 0.01,
+    "GrossProfitTTM": 16090999808,
+    "DilutedEpsTTM": 33.51,
+    "QuarterlyEarningsGrowthYOY": 3.576
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.43,
+    "TotalEsgPercentile": 28.18,
+    "EnvironmentScore": 1.05,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 8.75,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 11.14,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TRV",
+    "Type": "Common Stock",
+    "Name": "The Travelers Companies Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJ81C1",
+    "ISIN": "US89417E1091",
+    "LEI": "549300Y650407RU8B149",
+    "PrimaryTicker": "TRV.US",
+    "CUSIP": "792856205",
+    "CIK": "0000086312",
+    "EmployerIdNumber": "41-0518860",
+    "FiscalYearEnd": "December",
+    "IPODate": "1996-04-22",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Property & Casualty",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Property & Casualty Insurance",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Travelers Companies, Inc., through its subsidiaries, provides a range of commercial and personal property, and casualty insurance products and services to businesses, government units, associations, and individuals in the United States, Canada, and internationally. It operates through three segments: Business Insurance, Bond & Specialty Insurance, and Personal Insurance. The Business Insurance segment offers workers' compensation, commercial automobile and property, general liability, commercial multi-peril, employers' liability, public and product liability, professional indemnity, marine, aviation, commercial property and automobile, onshore and offshore energy, construction, terrorism, personal accident, and kidnap and ransom insurance products. This segment operates through select accounts, which serve small businesses; middle accounts that serve mid-sized businesses; national accounts, which serve large companies; and national property and others that serve large and mid-sized customers, commercial trucking industry, and agricultural businesses, as well as markets and distributes its products through brokers, wholesale agents, and program managers. The Bond & Specialty Insurance segment provides surety, fidelity, management and professional liability, and other property and casualty coverages and related risk management services through independent agencies and brokers. The Personal Insurance segment offers property and casualty insurance covering personal risks, primarily automobile and homeowners' insurance to individuals. The Travelers Companies, Inc. was founded in 1853 and is based in New York, New York.",
+    "Address": "485 Lexington Avenue, New York, NY, United States, 10017",
+    "AddressData": {
+      "Street": "485 Lexington Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10017"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Alan David Schnitzer J.D.",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Daniel Stephen Frey CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. Avrohom J. Kess",
+        "Title": "Vice Chairman & Chief Legal Officer",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Michael Frederick Klein",
+        "Title": "Executive VP & President of Personal Insurance",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. Gregory Cheshire Toczydlowski",
+        "Title": "Executive VP & President of Business Insurance",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Ms. Mojgan Mehdian Lefebvre",
+        "Title": "Executive VP, Chief Technology & Operations Officer",
+        "YearBorn": "1966"
+      },
+      "6": {
+        "Name": "Mr. David Donnay Rowland CFA",
+        "Title": "Executive VP & Co-Chief Investment Officer",
+        "YearBorn": "1966"
+      },
+      "7": {
+        "Name": "Mr. Daniel Tei-Hwa Yin",
+        "Title": "Executive VP & Co-Chief Investment Officer",
+        "YearBorn": "1966"
+      },
+      "8": {
+        "Name": "Mr. Paul Edward Munson",
+        "Title": "Senior VP of Finance, Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "1966"
+      },
+      "9": {
+        "Name": "Mr. Andy Francis Bessette",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1954"
+      }
+    },
+    "Phone": "(917) 778-6000",
+    "WebURL": "https://www.travelers.com",
+    "LogoURL": "/img/logos/US/trv.PNG",
+    "FullTimeEmployees": 34000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 212644693,
+    "SharesFloat": 211407101,
+    "PercentInsiders": 0.272,
+    "PercentInstitutions": 90.432,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0215
+  }
+}

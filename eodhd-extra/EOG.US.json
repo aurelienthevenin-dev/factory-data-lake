@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 12.3092,
+        "totalAssets": 0.2215,
+        "currentShares": 65942516,
+        "change": 35104990,
+        "change_p": 113.8385
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0455,
+        "totalAssets": 0.0819,
+        "currentShares": 53815556,
+        "change": 446341,
+        "change_p": 0.8363
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6048,
+        "totalAssets": 0.08,
+        "currentShares": 40739995,
+        "change": -13695,
+        "change_p": -0.0336
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.5801,
+        "totalAssets": 0.58,
+        "currentShares": 40607574,
+        "change": -14300375,
+        "change_p": -26.0443
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.6863,
+        "totalAssets": 0.1184,
+        "currentShares": 30462390,
+        "change": -306186,
+        "change_p": -0.9951
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.5581,
+        "totalAssets": 0.4733,
+        "currentShares": 24418380,
+        "change": -508279,
+        "change_p": -2.0391
+      },
+      "6": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7312,
+        "totalAssets": 0.3262,
+        "currentShares": 19988840,
+        "change": 371548,
+        "change_p": 1.894
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4354,
+        "totalAssets": 0.0842,
+        "currentShares": 13046709,
+        "change": 95260,
+        "change_p": 0.7355
+      },
+      "8": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.3762,
+        "totalAssets": 0.9785,
+        "currentShares": 7372292,
+        "change": 2809242,
+        "change_p": 61.565
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3647,
+        "totalAssets": 0.0496,
+        "currentShares": 7310990,
+        "change": -128448,
+        "change_p": -1.7266
+      },
+      "10": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2037,
+        "totalAssets": 0.1657,
+        "currentShares": 6448165,
+        "change": -2311852,
+        "change_p": -26.391
+      },
+      "11": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.192,
+        "totalAssets": 0.0766,
+        "currentShares": 6385648,
+        "change": -1560913,
+        "change_p": -19.6426
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1153,
+        "totalAssets": 0.0857,
+        "currentShares": 5974950,
+        "change": 49987,
+        "change_p": 0.8437
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0847,
+        "totalAssets": 0.128,
+        "currentShares": 5810982,
+        "change": -161705,
+        "change_p": -2.7074
+      },
+      "14": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.0407,
+        "totalAssets": 0.1968,
+        "currentShares": 5575035,
+        "change": -584246,
+        "change_p": -9.4856
+      },
+      "15": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9681,
+        "totalAssets": 0.145,
+        "currentShares": 5186343,
+        "change": 548334,
+        "change_p": 11.8226
+      },
+      "16": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.9389,
+        "totalAssets": 0.1703,
+        "currentShares": 5029987,
+        "change": -238017,
+        "change_p": -4.5182
+      },
+      "17": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.919,
+        "totalAssets": 0.1049,
+        "currentShares": 4923092,
+        "change": -164906,
+        "change_p": -3.2411
+      },
+      "18": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9026,
+        "totalAssets": 0.0368,
+        "currentShares": 4835363,
+        "change": -69461,
+        "change_p": -1.4162
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8762,
+        "totalAssets": 0.0829,
+        "currentShares": 4693879,
+        "change": 199376,
+        "change_p": 4.436
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 3.1847,
+        "totalAssets": 1.7419,
+        "currentShares": 17061078,
+        "change": 1071965,
+        "change_p": 6.7043
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1805,
+        "totalAssets": 0.1234,
+        "currentShares": 17038201,
+        "change": -120254,
+        "change_p": -0.7008
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5789,
+        "totalAssets": 0.1404,
+        "currentShares": 13815514,
+        "change": -143617,
+        "change_p": -1.0288
+      },
+      "3": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3466,
+        "totalAssets": 4.1488,
+        "currentShares": 12571148,
+        "change": 128626,
+        "change_p": 1.0338
+      },
+      "4": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2697,
+        "totalAssets": 2.1632,
+        "currentShares": 12159383,
+        "change": 20240,
+        "change_p": 0.1667
+      },
+      "5": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.0575,
+        "totalAssets": 0.6045,
+        "currentShares": 11022449,
+        "change": 5048106,
+        "change_p": 84.4964
+      },
+      "6": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.9287,
+        "totalAssets": 0.323,
+        "currentShares": 10332568,
+        "change": -65138,
+        "change_p": -0.6265
+      },
+      "7": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.7031,
+        "totalAssets": 0.6615,
+        "currentShares": 9123802,
+        "change": 2032915,
+        "change_p": 28.6694
+      },
+      "8": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.702,
+        "totalAssets": 0.4302,
+        "currentShares": 9117824,
+        "change": -1214744,
+        "change_p": -11.7565
+      },
+      "9": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 1.4758,
+        "totalAssets": 0.8264,
+        "currentShares": 7906123,
+        "change": 389856,
+        "change_p": 5.1868
+      },
+      "10": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 1.403,
+        "totalAssets": 0.5544,
+        "currentShares": 7516267,
+        "change": -962364,
+        "change_p": -11.3505
+      },
+      "11": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3236,
+        "totalAssets": 0.3576,
+        "currentShares": 7090887,
+        "change": -9824143,
+        "change_p": -58.0794
+      },
+      "12": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3018,
+        "totalAssets": 0.14,
+        "currentShares": 6974177,
+        "change": -3792,
+        "change_p": -0.0543
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.289,
+        "totalAssets": 0.1144,
+        "currentShares": 6905225,
+        "change": 11374,
+        "change_p": 0.165
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1783,
+        "totalAssets": 0.1404,
+        "currentShares": 6312457,
+        "change": -15484,
+        "change_p": -0.2447
+      },
+      "15": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9703,
+        "totalAssets": 0.6875,
+        "currentShares": 5198121,
+        "change": 2162083,
+        "change_p": 71.214
+      },
+      "16": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9586,
+        "totalAssets": 1.6956,
+        "currentShares": 5135120,
+        "change": 2822,
+        "change_p": 0.055
+      },
+      "17": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.9326,
+        "totalAssets": 1.4094,
+        "currentShares": 4996213,
+        "change": -57029,
+        "change_p": -1.1286
+      },
+      "18": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9256,
+        "totalAssets": 0.3176,
+        "currentShares": 4958373,
+        "change": -93284,
+        "change_p": -1.8466
+      },
+      "19": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.8635,
+        "totalAssets": 1.6223,
+        "currentShares": 4626167,
+        "change": -472241,
+        "change_p": -9.2625
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 14.6781,
+    "ForwardPE": 8.9206,
+    "PriceSalesTTM": 3.1482,
+    "PriceBookMRQ": 2.4039,
+    "EnterpriseValue": 76728276020,
+    "EnterpriseValueRevenue": 3.3978,
+    "EnterpriseValueEbitda": 6.9387
+  },
+  "Highlights": {
+    "MarketCapitalization": 71319846912,
+    "MarketCapitalizationMln": 71319.8469,
+    "EBITDA": 11724000256,
+    "PERatio": 14.6781,
+    "PEGRatio": 1.3312,
+    "WallStreetTargetPrice": 155.3448,
+    "BookValue": 55.486,
+    "DividendShare": 3.99,
+    "DividendYield": 0.0298,
+    "EarningsShare": 9.07,
+    "EPSEstimateCurrentYear": 14.7197,
+    "EPSEstimateNextYear": 13.937,
+    "EPSEstimateNextQuarter": 2.3497,
+    "EPSEstimateCurrentQuarter": 2.1958,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2198,
+    "OperatingMarginTTM": 0.1694,
+    "ReturnOnAssetsTTM": 0.082,
+    "ReturnOnEquityTTM": 0.1683,
+    "RevenueTTM": 22653999104,
+    "RevenuePerShareTTM": 41.72,
+    "QuarterlyRevenueGrowthYOY": 0,
+    "GrossProfitTTM": 14049999872,
+    "DilutedEpsTTM": 9.07,
+    "QuarterlyEarningsGrowthYOY": -0.417
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 50.76,
+    "TotalEsgPercentile": 99.2,
+    "EnvironmentScore": 28.68,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 17,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 13.05,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EOG",
+    "Type": "Common Stock",
+    "Name": "EOG Resources Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BZ9223",
+    "ISIN": "US26875P1012",
+    "LEI": "XWTZDRYZPBUHIQBKDB46",
+    "PrimaryTicker": "EOG.US",
+    "CUSIP": "293562104",
+    "CIK": "0000821189",
+    "EmployerIdNumber": "47-0684736",
+    "FiscalYearEnd": "December",
+    "IPODate": "1989-10-04",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Exploration & Production",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "EOG Resources, Inc., together with its subsidiaries, explores for, develops, produces, and markets crude oil, natural gas liquids, and natural gas in producing basins in the United States, the Republic of Trinidad and Tobago, and internationally. The company also offers crude oil and condensate, and gathering, processing and marketing. The company was formerly known as Enron Oil & Gas Company. EOG Resources, Inc. was incorporated in 1985 and is headquartered in Houston, Texas.",
+    "Address": "1111 Bagby Street, Houston, TX, United States, 77002",
+    "AddressData": {
+      "Street": "1111 Bagby Street",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77002"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ezra Y. Yacob",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Ms. Ann D. Janssen",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. Jeffrey R. Leitzell",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Michael P. Donaldson",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Laura B. Distefano",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Sandeep  Bhakhri",
+        "Title": "Senior VP and Chief Information & Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Pearce Wheless Hammond Jr., C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Lori A. Geiger",
+        "Title": "Vice President of Marketing",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Michele L. Hatz",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. John J. Boyd III",
+        "Title": "Senior Vice President of Operations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "713 651 7000",
+    "WebURL": "https://www.eogresources.com",
+    "LogoURL": "/img/logos/US/eog.png",
+    "FullTimeEmployees": 3400,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 535715814,
+    "SharesFloat": 534983952,
+    "PercentInsiders": 0.27899999999999997,
+    "PercentInstitutions": 95.52000000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0344
+  }
+}

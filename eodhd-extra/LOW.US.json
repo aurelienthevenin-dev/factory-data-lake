@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 13.4295,
+        "totalAssets": 0.5662,
+        "currentShares": 75213898,
+        "change": 43693695,
+        "change_p": 138.6212
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0401,
+        "totalAssets": 0.1966,
+        "currentShares": 56230787,
+        "change": 924625,
+        "change_p": 1.6718
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.9943,
+        "totalAssets": 0.1723,
+        "currentShares": 39172710,
+        "change": -122077,
+        "change_p": -0.3107
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.9149,
+        "totalAssets": 0.3385,
+        "currentShares": 27526663,
+        "change": 1747325,
+        "change_p": 6.778
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4703,
+        "totalAssets": 0.2182,
+        "currentShares": 25036276,
+        "change": 124501,
+        "change_p": 0.4998
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3795,
+        "totalAssets": 0.1976,
+        "currentShares": 13326581,
+        "change": 887579,
+        "change_p": 7.1355
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0655,
+        "totalAssets": 0.176,
+        "currentShares": 11568204,
+        "change": 311196,
+        "change_p": 2.7645
+      },
+      "7": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.8157,
+        "totalAssets": 0.4859,
+        "currentShares": 10169070,
+        "change": -94000,
+        "change_p": -0.9159
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.765,
+        "totalAssets": 0.1685,
+        "currentShares": 9885353,
+        "change": -280930,
+        "change_p": -2.7634
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4761,
+        "totalAssets": 0.2133,
+        "currentShares": 8267112,
+        "change": 273132,
+        "change_p": 3.4167
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2195,
+        "totalAssets": 0.2196,
+        "currentShares": 6830080,
+        "change": 103827,
+        "change_p": 1.5436
+      },
+      "11": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.1381,
+        "totalAssets": 0.4957,
+        "currentShares": 6374029,
+        "change": -228034,
+        "change_p": -3.454
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8625,
+        "totalAssets": 0.1913,
+        "currentShares": 4830373,
+        "change": 240123,
+        "change_p": 5.2312
+      },
+      "13": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8246,
+        "totalAssets": 0.252,
+        "currentShares": 4618511,
+        "change": -1297552,
+        "change_p": -21.9327
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8064,
+        "totalAssets": 0.1214,
+        "currentShares": 4516222,
+        "change": 235612,
+        "change_p": 5.5042
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.781,
+        "totalAssets": 0.1294,
+        "currentShares": 4374010,
+        "change": -559154,
+        "change_p": -11.3346
+      },
+      "16": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7668,
+        "totalAssets": 0.1936,
+        "currentShares": 4294776,
+        "change": 463012,
+        "change_p": 12.0835
+      },
+      "17": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.7598,
+        "totalAssets": 0.1798,
+        "currentShares": 4255397,
+        "change": 51086,
+        "change_p": 1.2151
+      },
+      "18": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.705,
+        "totalAssets": 0.2474,
+        "currentShares": 3948492,
+        "change": -632907,
+        "change_p": -13.8147
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6696,
+        "totalAssets": 0.2006,
+        "currentShares": 3750035,
+        "change": -72957,
+        "change_p": -1.9084
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1822,
+        "totalAssets": 0.2109,
+        "currentShares": 17822191,
+        "change": 80376,
+        "change_p": 0.453
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5503,
+        "totalAssets": 0.2372,
+        "currentShares": 14283356,
+        "change": -140415,
+        "change_p": -0.9735
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2874,
+        "totalAssets": 0.2366,
+        "currentShares": 7210463,
+        "change": -3924,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2744,
+        "totalAssets": 0.2521,
+        "currentShares": 7137208,
+        "change": 11771,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1627,
+        "totalAssets": 0.2366,
+        "currentShares": 6511753,
+        "change": -15974,
+        "change_p": -0.2447
+      },
+      "5": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 1.0159,
+        "totalAssets": 0.8873,
+        "currentShares": 5689897,
+        "change": 442630,
+        "change_p": 8.4354
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9257,
+        "totalAssets": 0.5428,
+        "currentShares": 5184772,
+        "change": -41945,
+        "change_p": -0.8025
+      },
+      "7": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7613,
+        "totalAssets": 1.8732,
+        "currentShares": 4263932,
+        "change": -174252,
+        "change_p": -3.9262
+      },
+      "8": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.731,
+        "totalAssets": 1.9361,
+        "currentShares": 4094338,
+        "change": -106306,
+        "change_p": -2.5307
+      },
+      "9": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.5941,
+        "totalAssets": 2.4904,
+        "currentShares": 3327343,
+        "change": 3324505,
+        "change_p": 117142.53
+      },
+      "10": {
+        "name": "JPMorgan US Equity L",
+        "date": "2026-02-28",
+        "totalShares": 0.5839,
+        "totalAssets": 2.6204,
+        "currentShares": 3270181,
+        "change": -36329,
+        "change_p": -1.0987
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5643,
+        "totalAssets": 0.2366,
+        "currentShares": 3160311,
+        "change": -16826,
+        "change_p": -0.5296
+      },
+      "12": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5608,
+        "totalAssets": 0.6322,
+        "currentShares": 3140825,
+        "change": 35775,
+        "change_p": 1.1522
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5347,
+        "totalAssets": 0.2342,
+        "currentShares": 2994434,
+        "change": 4840,
+        "change_p": 0.1619
+      },
+      "14": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5289,
+        "totalAssets": 3.2966,
+        "currentShares": 2961976,
+        "change": -38988,
+        "change_p": -1.2992
+      },
+      "15": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.4985,
+        "totalAssets": 1.6793,
+        "currentShares": 2791839,
+        "change": -226343,
+        "change_p": -7.4993
+      },
+      "16": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.4929,
+        "totalAssets": 1.5822,
+        "currentShares": 2760685,
+        "change": -442741,
+        "change_p": -13.8209
+      },
+      "17": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.4687,
+        "totalAssets": 0.3145,
+        "currentShares": 2625091,
+        "change": 81098,
+        "change_p": 3.1878
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4524,
+        "totalAssets": 0.2363,
+        "currentShares": 2533604,
+        "change": 15082,
+        "change_p": 0.5988
+      },
+      "19": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4477,
+        "totalAssets": 1.3532,
+        "currentShares": 2507579,
+        "change": 1377,
+        "change_p": 0.0549
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.6113,
+    "ForwardPE": 19.3798,
+    "PriceSalesTTM": 1.5867,
+    "PriceBookMRQ": 321.8177,
+    "EnterpriseValue": 181772905640,
+    "EnterpriseValueRevenue": 2.1066,
+    "EnterpriseValueEbitda": 14.5792
+  },
+  "Highlights": {
+    "MarketCapitalization": 136907374592,
+    "MarketCapitalizationMln": 136907.3746,
+    "EBITDA": 12400000000,
+    "PERatio": 20.6113,
+    "PEGRatio": 2.6213,
+    "WallStreetTargetPrice": 285.5758,
+    "BookValue": -17.677,
+    "DividendShare": 4.75,
+    "DividendYield": 0.0193,
+    "EarningsShare": 11.86,
+    "EPSEstimateCurrentYear": 12.2597,
+    "EPSEstimateNextYear": 12.9389,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.9426,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0771,
+    "OperatingMarginTTM": 0.0856,
+    "ReturnOnAssetsTTM": 0.1312,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 86286000128,
+    "RevenuePerShareTTM": 154.358,
+    "QuarterlyRevenueGrowthYOY": 0.109,
+    "GrossProfitTTM": 28885000192,
+    "DilutedEpsTTM": 11.86,
+    "QuarterlyEarningsGrowthYOY": -0.11
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.11,
+    "TotalEsgPercentile": 4.48,
+    "EnvironmentScore": 5.83,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 6.43,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 3.36,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LOW",
+    "Type": "Common Stock",
+    "Name": "Lowe's Companies Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BNDN65",
+    "ISIN": "US5486611073",
+    "LEI": "WAFCR4OKGSC504WU3E95",
+    "PrimaryTicker": "LOW.US",
+    "CUSIP": "548661107",
+    "CIK": "0000060667",
+    "EmployerIdNumber": "56-0578072",
+    "FiscalYearEnd": "January",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Home Improvement Retail",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Discretionary Distribution & Retail",
+    "GicIndustry": "Specialty Retail",
+    "GicSubIndustry": "Home Improvement Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Lowe's Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States and Canada. It provides a line of products for construction, maintenance, repair, remodeling, and decorating. The company also offers home improvement products, such as appliances, seasonal and outdoor living, lumber, lawn and garden, kitchens and bath, hardware, building materials, millwork, paint, rough plumbing, tools, electrical, flooring, and décor. In addition, it provides installation services through independent contractors in various product categories; and extended protection plans and repair services. Further, the company provides design, distribution, and installation services for interior surface finishes to home builders and property managers. It sells its national brand-name merchandise and private brand products to professional customers, individual homeowners, and renters. The company serves its products through Lowes.com website, mobile applications, retail home improvement stores and outlet stores, and its branches. Lowe's Companies, Inc. was founded in 1921 and is based in Mooresville, North Carolina.",
+    "Address": "1000 Lowes Boulevard, Mooresville, NC, United States, 28117",
+    "AddressData": {
+      "Street": "1000 Lowes Boulevard",
+      "City": "Mooresville",
+      "State": "NC",
+      "Country": "United States",
+      "ZIP": "28117"
+    },
+    "Listings": {
+      "0": {
+        "Code": "LOWC34",
+        "Exchange": "SA",
+        "Name": "Lowe's Companies Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Marvin R. Ellison",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Ms. Seemantini  Godbole",
+        "Title": "Executive VP and Chief Information & Digital Officer",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. William P. Boltz",
+        "Title": "Executive Vice President of Merchandising",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Joseph Michael McFarland III",
+        "Title": "Executive Vice President of Stores",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Dan Clayton Griggs Jr.",
+        "Title": "Senior VP of Tax & Chief Accounting Officer",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Ms. Kate  Pearlman",
+        "Title": "Vice President, Investor Relations & Treasurer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Juliette Williams Pryor J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Mr. Luis A. Avila Esq.",
+        "Title": "Senior VP of Corporate Governance & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Jennifer E. Wilson",
+        "Title": "Senior VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Janice M. Dupre",
+        "Title": "Executive Vice President of Human Resources",
+        "YearBorn": "1965"
+      }
+    },
+    "Phone": "704 758 1000",
+    "WebURL": "https://corporate.lowes.com",
+    "LogoURL": "/img/logos/US/LOW.png",
+    "FullTimeEmployees": 167000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 560062893,
+    "SharesFloat": 558820088,
+    "PercentInsiders": 0.11100000000000002,
+    "PercentInstitutions": 81.23,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0243
+  }
+}

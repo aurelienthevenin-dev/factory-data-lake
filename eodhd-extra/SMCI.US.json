@@ -1,0 +1,523 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.3296,
+        "totalAssets": 0.0289,
+        "currentShares": 68032047,
+        "change": -816730,
+        "change_p": -1.1863
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.7601,
+        "totalAssets": 0.0341,
+        "currentShares": 40593417,
+        "change": 567332,
+        "change_p": 1.4174
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.6963,
+        "totalAssets": 0.0369,
+        "currentShares": 22195837,
+        "change": -300679,
+        "change_p": -1.3366
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2996,
+        "totalAssets": 0.0249,
+        "currentShares": 13808499,
+        "change": 41314,
+        "change_p": 0.3001
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.9669,
+        "totalAssets": 0.017,
+        "currentShares": 11811038,
+        "change": 9451703,
+        "change_p": 400.6088
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8367,
+        "totalAssets": 0.032,
+        "currentShares": 11029121,
+        "change": -1421312,
+        "change_p": -11.4158
+      },
+      "6": {
+        "name": "Disciplined Growth Investors Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.605,
+        "totalAssets": 5.3991,
+        "currentShares": 9637492,
+        "change": 156048,
+        "change_p": 1.6458
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3681,
+        "totalAssets": 0.0621,
+        "currentShares": 8215031,
+        "change": -424753,
+        "change_p": -4.9162
+      },
+      "8": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.112,
+        "totalAssets": 0.0294,
+        "currentShares": 6677412,
+        "change": 2439473,
+        "change_p": 57.5627
+      },
+      "9": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8513,
+        "totalAssets": 0.0384,
+        "currentShares": 5111767,
+        "change": 970516,
+        "change_p": 23.4353
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8139,
+        "totalAssets": 0.0176,
+        "currentShares": 4887557,
+        "change": -2221889,
+        "change_p": -31.2526
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8002,
+        "totalAssets": 0.0295,
+        "currentShares": 4804997,
+        "change": -28090,
+        "change_p": -0.5812
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.777,
+        "totalAssets": 0.0146,
+        "currentShares": 4665832,
+        "change": 1597165,
+        "change_p": 52.0475
+      },
+      "13": {
+        "name": "BNP Paribas Arbitrage, SA",
+        "date": "2025-12-31",
+        "totalShares": 0.7508,
+        "totalAssets": 0.0598,
+        "currentShares": 4508440,
+        "change": 1415487,
+        "change_p": 45.7649
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6749,
+        "totalAssets": 0.0184,
+        "currentShares": 4052811,
+        "change": 3656,
+        "change_p": 0.0903
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.6614,
+        "totalAssets": 0.0244,
+        "currentShares": 3971392,
+        "change": 1031856,
+        "change_p": 35.1027
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6589,
+        "totalAssets": 0.0257,
+        "currentShares": 3956726,
+        "change": 63877,
+        "change_p": 1.6409
+      },
+      "17": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 0.6093,
+        "totalAssets": 0.0716,
+        "currentShares": 3658559,
+        "change": 2834987,
+        "change_p": 344.2306
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.556,
+        "totalAssets": 0.0348,
+        "currentShares": 3338667,
+        "change": -300531,
+        "change_p": -8.2582
+      },
+      "19": {
+        "name": "Clear Street Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.5128,
+        "totalAssets": 0.5033,
+        "currentShares": 3079500,
+        "change": 3079500,
+        "change_p": 0
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.69,
+        "totalAssets": 0.0184,
+        "currentShares": 16153020,
+        "change": 101927,
+        "change_p": 0.635
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1335,
+        "totalAssets": 0.0205,
+        "currentShares": 12811267,
+        "change": -87210,
+        "change_p": -0.6761
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.8317,
+        "totalAssets": 0.126,
+        "currentShares": 10998902,
+        "change": -29825,
+        "change_p": -0.2704
+      },
+      "3": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1843,
+        "totalAssets": 0.051,
+        "currentShares": 7111433,
+        "change": -238701,
+        "change_p": -3.2476
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0753,
+        "totalAssets": 0.0204,
+        "currentShares": 6456829,
+        "change": -3516,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0628,
+        "totalAssets": 0.0276,
+        "currentShares": 6381658,
+        "change": 10525,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.97,
+        "totalAssets": 0.0204,
+        "currentShares": 5824670,
+        "change": -14357,
+        "change_p": -0.2459
+      },
+      "7": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9105,
+        "totalAssets": 0.146,
+        "currentShares": 5467595,
+        "change": 16113,
+        "change_p": 0.2956
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8575,
+        "totalAssets": 0.0964,
+        "currentShares": 5149107,
+        "change": -5753,
+        "change_p": -0.1116
+      },
+      "9": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6449,
+        "totalAssets": 0.3018,
+        "currentShares": 3872577,
+        "change": -340588,
+        "change_p": -8.0839
+      },
+      "10": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6287,
+        "totalAssets": 0.102,
+        "currentShares": 3775041,
+        "change": 9954,
+        "change_p": 0.2644
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4731,
+        "totalAssets": 0.0205,
+        "currentShares": 2840917,
+        "change": -2195,
+        "change_p": -0.0772
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4473,
+        "totalAssets": 0.0202,
+        "currentShares": 2685879,
+        "change": 12800,
+        "change_p": 0.4788
+      },
+      "13": {
+        "name": "iShares Future AI & Tech ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4432,
+        "totalAssets": 2.9802,
+        "currentShares": 2661317,
+        "change": -22460,
+        "change_p": -0.8369
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3785,
+        "totalAssets": 0.0204,
+        "currentShares": 2272551,
+        "change": 20693,
+        "change_p": 0.9189
+      },
+      "15": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3337,
+        "totalAssets": 0.0253,
+        "currentShares": 2003822,
+        "change": -9070,
+        "change_p": -0.4506
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3337,
+        "totalAssets": 0.0253,
+        "currentShares": 2003822,
+        "change": -9070,
+        "change_p": -0.4506
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3337,
+        "totalAssets": 0.0253,
+        "currentShares": 2003822,
+        "change": 2003822,
+        "change_p": 0
+      },
+      "18": {
+        "name": "iShares Russell Mid-Cap ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3266,
+        "totalAssets": 0.0926,
+        "currentShares": 1961210,
+        "change": 792,
+        "change_p": 0.0404
+      },
+      "19": {
+        "name": "Fidelity Mid Cap Index",
+        "date": "2026-02-28",
+        "totalShares": 0.3121,
+        "totalAssets": 0.1242,
+        "currentShares": 1874226,
+        "change": 3944,
+        "change_p": 0.2109
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.2263,
+    "ForwardPE": 10.02,
+    "PriceSalesTTM": 0.6224,
+    "PriceBookMRQ": 2.2973,
+    "EnterpriseValue": 16881468216,
+    "EnterpriseValueRevenue": 0.6017,
+    "EnterpriseValueEbitda": 13.9592
+  },
+  "Highlights": {
+    "MarketCapitalization": 17462013952,
+    "MarketCapitalizationMln": 17462.014,
+    "EBITDA": 1096866048,
+    "PERatio": 21.2263,
+    "PEGRatio": 0.9132,
+    "WallStreetTargetPrice": 33.2,
+    "BookValue": 11.674,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.37,
+    "EPSEstimateCurrentYear": 2.2509,
+    "EPSEstimateNextYear": 2.9874,
+    "EPSEstimateNextQuarter": 0.5167,
+    "EPSEstimateCurrentQuarter": 0.4879,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0311,
+    "OperatingMarginTTM": 0.0374,
+    "ReturnOnAssetsTTM": 0.0342,
+    "ReturnOnEquityTTM": 0.1319,
+    "RevenueTTM": 28057104384,
+    "RevenuePerShareTTM": 47.032,
+    "QuarterlyRevenueGrowthYOY": 1.234,
+    "GrossProfitTTM": 2250259968,
+    "DilutedEpsTTM": 1.37,
+    "QuarterlyEarningsGrowthYOY": 0.192
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "SMCI",
+    "Type": "Common Stock",
+    "Name": "Super Micro Computer Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000MYZDJ3",
+    "ISIN": "US86800U3023",
+    "LEI": null,
+    "PrimaryTicker": "SMCI.US",
+    "CUSIP": "86800U104",
+    "CIK": "0001375365",
+    "EmployerIdNumber": "77-0353939",
+    "FiscalYearEnd": "June",
+    "IPODate": "2007-03-29",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Technology Hardware, Storage & Peripherals",
+    "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Super Micro Computer, Inc., together with its subsidiaries, develops and sells server and storage solutions based on modular and open-standard architecture in the United States, Asia, Europe, and internationally. The company provides liquid and air-cooled AI servers for training and inferencing with integrated graphics processing units (GPUs) or PCIe based architectures; SuperBlade, MicroBlade, FlexTwin, GrandTwin, and BigTwin blade and multi-node systems; SuperStorage systems; Hyper, CloudDC, and WIO and rackmount systems; embedded (5G/IoT/Edge) systems; and MicroCloud server systems. It also offers workstations and networking devices; and modular server subsystems and accessories, including server boards, chassis, power supplies, and other accessories. In addition, the company provides remote system management solutions, such as Server Management suite comprising Supermicro Server Manager, Supermicro Power Management software, Supermicro Update Manager, SuperCloud Composer, and SuperDoctor 5. Further, the company identifies service requirements; creates and executes project plans; conducts verification testing; offers training; and provides technical documentation. Additionally, it offers rack level services from design to deployment for full rack and cluster level deployments of AI and HPC datacenters; help desk services and on-site product support; and warranties, maintenance, and technical support services. The company serves enterprise data centers, cloud computing, artificial intelligence, 5G, and edge computing markets through direct and indirect sales force, distributors, value-added resellers, system integrators, and original equipment manufacturers. Super Micro Computer, Inc. was incorporated in 1993 and is headquartered in San Jose, California.",
+    "Address": "980 Rock Avenue, San Jose, CA, United States, 95131",
+    "AddressData": {
+      "Street": "980 Rock Avenue",
+      "City": "San Jose",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95131"
+    },
+    "Listings": {
+      "0": {
+        "Code": "MS5",
+        "Exchange": "F",
+        "Name": "Super Micro Computer Inc"
+      },
+      "1": {
+        "Code": "MS5",
+        "Exchange": "BE",
+        "Name": "Super Micro Computer Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Charles  Liang",
+        "Title": "Founder, Chairman of the Board, President & CEO",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Ms. Chiu-Chu  Liu Liang",
+        "Title": "Co-Founder, Senior VP & Director",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Mr. David E. Weigand",
+        "Title": "CFO, Company Secretary & Senior VP",
+        "YearBorn": "1959"
+      },
+      "3": {
+        "Name": "Mr. Don W. Clegg",
+        "Title": "Senior Vice President of Worldwide Sales",
+        "YearBorn": "1960"
+      },
+      "4": {
+        "Name": "Mr. Kenneth  Cheung",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Yitai  Hu",
+        "Title": "SVP of Corporate Development & General Counsel",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. DeAnna  Luna",
+        "Title": "Acting Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Vik  Malyala",
+        "Title": "Senior VP, MD & President of the EMEA Division",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Michael Thomas Staiger",
+        "Title": "Senior Vice President of Corporate Development",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Jin  Xiao",
+        "Title": "Senior Corporate Vice President of Engineering",
+        "YearBorn": "1964"
+      }
+    },
+    "Phone": "408 503 8000",
+    "WebURL": "https://www.supermicro.com",
+    "LogoURL": "/img/logos/US/SMCI.png",
+    "FullTimeEmployees": 6238,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 600481952,
+    "SharesFloat": 499575153,
+    "PercentInsiders": 13.854,
+    "PercentInstitutions": 56.675,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1933
+  }
+}

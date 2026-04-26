@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3267,
+        "totalAssets": 0.1551,
+        "currentShares": 41579918,
+        "change": -109715,
+        "change_p": -0.2632
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.986,
+        "totalAssets": 0.1859,
+        "currentShares": 36181423,
+        "change": 639920,
+        "change_p": 1.8005
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6711,
+        "totalAssets": 0.1924,
+        "currentShares": 18807802,
+        "change": 25395,
+        "change_p": 0.1352
+      },
+      "3": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.9942,
+        "totalAssets": 0.2142,
+        "currentShares": 12055983,
+        "change": 1417925,
+        "change_p": 13.3288
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8751,
+        "totalAssets": 0.1838,
+        "currentShares": 11576572,
+        "change": 136876,
+        "change_p": 1.1965
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0846,
+        "totalAssets": 0.3986,
+        "currentShares": 8393607,
+        "change": 372413,
+        "change_p": 4.6429
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.8315,
+        "totalAssets": 0.3324,
+        "currentShares": 7374504,
+        "change": 544210,
+        "change_p": 7.9676
+      },
+      "7": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.7727,
+        "totalAssets": 0.3983,
+        "currentShares": 7137540,
+        "change": -112169,
+        "change_p": -1.5472
+      },
+      "8": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6469,
+        "totalAssets": 0.3491,
+        "currentShares": 6631149,
+        "change": -477600,
+        "change_p": -6.7185
+      },
+      "9": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.6377,
+        "totalAssets": 0.6094,
+        "currentShares": 6593929,
+        "change": -541539,
+        "change_p": -7.5894
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5191,
+        "totalAssets": 0.2297,
+        "currentShares": 6116498,
+        "change": 11723,
+        "change_p": 0.192
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4489,
+        "totalAssets": 0.1161,
+        "currentShares": 5833763,
+        "change": -107306,
+        "change_p": -1.8062
+      },
+      "12": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.4426,
+        "totalAssets": 0.0511,
+        "currentShares": 5808498,
+        "change": 2995861,
+        "change_p": 106.5143
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2016,
+        "totalAssets": 0.2237,
+        "currentShares": 4837993,
+        "change": 261312,
+        "change_p": 5.7096
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0747,
+        "totalAssets": 0.1365,
+        "currentShares": 4327319,
+        "change": 254731,
+        "change_p": 6.2548
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0738,
+        "totalAssets": 0.2903,
+        "currentShares": 4323554,
+        "change": 136142,
+        "change_p": 3.2512
+      },
+      "16": {
+        "name": "Fundsmith LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0376,
+        "totalAssets": 6.2789,
+        "currentShares": 4177969,
+        "change": -133634,
+        "change_p": -3.0994
+      },
+      "17": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 0.9083,
+        "totalAssets": 0.7389,
+        "currentShares": 3657287,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Cardano",
+        "date": "2025-12-31",
+        "totalShares": 0.8849,
+        "totalAssets": 0.9267,
+        "currentShares": 3563180,
+        "change": 3223855,
+        "change_p": 950.0788
+      },
+      "19": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8773,
+        "totalAssets": 0.2959,
+        "currentShares": 3532545,
+        "change": 299493,
+        "change_p": 9.2635
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1751,
+        "totalAssets": 0.1301,
+        "currentShares": 12784492,
+        "change": -4215,
+        "change_p": -0.033
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5463,
+        "totalAssets": 0.1464,
+        "currentShares": 10252372,
+        "change": -150521,
+        "change_p": -1.4469
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2409,
+        "totalAssets": 2.2004,
+        "currentShares": 9023042,
+        "change": 14996,
+        "change_p": 0.1665
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 0.4627,
+        "currentShares": 8450607,
+        "change": -28251,
+        "change_p": -0.3332
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.146,
+        "currentShares": 5175940,
+        "change": -2820,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2783,
+        "totalAssets": 0.1473,
+        "currentShares": 5147110,
+        "change": 8478,
+        "change_p": 0.165
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1581,
+        "totalAssets": 0.1457,
+        "currentShares": 4662983,
+        "change": -11466,
+        "change_p": -0.2453
+      },
+      "7": {
+        "name": "Fundsmith Equity I Acc",
+        "date": "2025-12-31",
+        "totalShares": 0.9859,
+        "totalAssets": 4.7481,
+        "currentShares": 3969494,
+        "change": -51097,
+        "change_p": -1.2709
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.335,
+        "currentShares": 3721366,
+        "change": 1839067,
+        "change_p": 97.7032
+      },
+      "9": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8488,
+        "totalAssets": 0.6353,
+        "currentShares": 3417475,
+        "change": 746140,
+        "change_p": 27.9314
+      },
+      "10": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.744,
+        "totalAssets": 1.8805,
+        "currentShares": 2995866,
+        "change": -407057,
+        "change_p": -11.962
+      },
+      "11": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6634,
+        "totalAssets": 0.6162,
+        "currentShares": 2671335,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5635,
+        "totalAssets": 0.1461,
+        "currentShares": 2268859,
+        "change": -22792,
+        "change_p": -0.9946
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.3902,
+        "currentShares": 2254452,
+        "change": 22418,
+        "change_p": 1.0044
+      },
+      "14": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5595,
+        "totalAssets": 0.927,
+        "currentShares": 2252732,
+        "change": 550861,
+        "change_p": 32.368
+      },
+      "15": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 1.6176,
+        "currentShares": 2237422,
+        "change": -15504,
+        "change_p": -0.6882
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.1445,
+        "currentShares": 2149361,
+        "change": -6640,
+        "change_p": -0.308
+      },
+      "17": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5171,
+        "totalAssets": 0.9101,
+        "currentShares": 2082119,
+        "change": -1290,
+        "change_p": -0.0619
+      },
+      "18": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.4951,
+        "totalAssets": 1.1753,
+        "currentShares": 1993331,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "MS INVF Global Brands A",
+        "date": "2025-12-31",
+        "totalShares": 0.4665,
+        "totalAssets": 2.9288,
+        "currentShares": 1878531,
+        "change": -431611,
+        "change_p": -18.6833
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 18.8971,
+    "ForwardPE": 16.6113,
+    "PriceSalesTTM": 3.7301,
+    "PriceBookMRQ": 12.5038,
+    "EnterpriseValue": 81790585584,
+    "EnterpriseValueRevenue": 3.8554,
+    "EnterpriseValueEbitda": 12.5133
+  },
+  "Highlights": {
+    "MarketCapitalization": 79131697152,
+    "MarketCapitalizationMln": 79131.6972,
+    "EBITDA": 6188499968,
+    "PERatio": 18.8971,
+    "PEGRatio": 2.5403,
+    "WallStreetTargetPrice": 256.4667,
+    "BookValue": 15.864,
+    "DividendShare": 6.32,
+    "DividendYield": 0.0318,
+    "EarningsShare": 10.4,
+    "EPSEstimateCurrentYear": 10.966,
+    "EPSEstimateNextYear": 11.963,
+    "EPSEstimateNextQuarter": 3.2823,
+    "EPSEstimateCurrentQuarter": 2.5686,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1996,
+    "OperatingMarginTTM": 0.2628,
+    "ReturnOnAssetsTTM": 0.0471,
+    "ReturnOnEquityTTM": 0.7384,
+    "RevenueTTM": 21214300160,
+    "RevenuePerShareTTM": 52.323,
+    "QuarterlyRevenueGrowthYOY": 0.062,
+    "GrossProfitTTM": 10257399808,
+    "DilutedEpsTTM": 10.4,
+    "QuarterlyEarningsGrowthYOY": 0.115
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.82,
+    "TotalEsgPercentile": 10.16,
+    "EnvironmentScore": 4.57,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 11.57,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 9.68,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ADP",
+    "Type": "Common Stock",
+    "Name": "Automatic Data Processing Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000JG0547",
+    "ISIN": "US0530151036",
+    "LEI": "HGBOLILQXWER4SAL2I23",
+    "PrimaryTicker": "ADP.US",
+    "CUSIP": "053015103",
+    "CIK": "0000008670",
+    "EmployerIdNumber": "22-1467904",
+    "FiscalYearEnd": "June",
+    "IPODate": "1983-04-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Professional Services",
+    "GicSubIndustry": "Human Resource & Employment Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Automatic Data Processing, Inc. provides cloud-based human capital management (HCM) solutions worldwide. It operates in two segments, Employer Services and Professional Employer Organization (PEO). The Employer Services segment offers strategic, cloud-based platforms, and human resources (HR) outsourcing solutions. This segment's offerings include RUN Powered by ADP, a software platform for small business payroll, HR, and compliance; ADP Workforce Now, a HCM solution used across mid-sized and large businesses to manage employees; and ADP Lyric HCM, a solution for HR management, payroll, workforce management, talent, and data analytics. The PEO Services segment provides HR and employment administration outsourcing solutions under ADP TotalSource name to businesses through a co-employment model. The segment also provides guidance, user-friendly technology, comprehensive employee benefits, and a risk management, safety, and workers' compensation program. The company was founded in 1949 and is headquartered in Roseland, New Jersey.",
+    "Address": "One ADP Boulevard, Roseland, NJ, United States, 07068",
+    "AddressData": {
+      "Street": "One ADP Boulevard",
+      "City": "Roseland",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "07068"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AUD",
+        "Exchange": "F",
+        "Name": "Autodesk Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Maria  Black",
+        "Title": "President, CEO & DIrector",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. Joseph  DeSilva Jr.",
+        "Title": "Executive VP of North America & Chief of Operations",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. Michael Anthony Bonarti J.D.",
+        "Title": "Chief Administrative Officer",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Sreenivasa  Kutam",
+        "Title": "President of Global Product & Innovation",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Peter  Hadley",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. Jonathan  Lehberger",
+        "Title": "Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. Matthew John Keating C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. David  Kwon J.D.",
+        "Title": "Corporate VP, Chief Legal Officer & General Counsel",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Mr. David  Foskett",
+        "Title": "President of Global Sales",
+        "YearBorn": "1976"
+      },
+      "9": {
+        "Name": "Ms. Samantha  Orihuela",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "973 974 5000",
+    "WebURL": "https://www.adp.com",
+    "LogoURL": "/img/logos/US/adp.png",
+    "FullTimeEmployees": 67000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 402644364,
+    "SharesFloat": 401746467,
+    "PercentInsiders": 0.158,
+    "PercentInstitutions": 86.904,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0389
+  }
+}

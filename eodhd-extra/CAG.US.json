@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4359,
+        "totalAssets": 0.0149,
+        "currentShares": 59498126,
+        "change": -115521,
+        "change_p": -0.1938
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9566,
+        "totalAssets": 0.0137,
+        "currentShares": 42851777,
+        "change": -8641054,
+        "change_p": -16.7811
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1439,
+        "totalAssets": 0.0156,
+        "currentShares": 24610144,
+        "change": -1592248,
+        "change_p": -6.0767
+      },
+      "3": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.6833,
+        "totalAssets": 0.064,
+        "currentShares": 17622165,
+        "change": 2948081,
+        "change_p": 20.0904
+      },
+      "4": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.2581,
+        "totalAssets": 0.045,
+        "currentShares": 15587877,
+        "change": 3173767,
+        "change_p": 25.5658
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7033,
+        "totalAssets": 0.0138,
+        "currentShares": 12933629,
+        "change": 9136,
+        "change_p": 0.0707
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.6864,
+        "totalAssets": 0.0143,
+        "currentShares": 12852734,
+        "change": 3348416,
+        "change_p": 35.2305
+      },
+      "7": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.5355,
+        "totalAssets": 0.051,
+        "currentShares": 12130671,
+        "change": 1984873,
+        "change_p": 19.5635
+      },
+      "8": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 2.1746,
+        "totalAssets": 0.1055,
+        "currentShares": 10404020,
+        "change": 2669959,
+        "change_p": 34.5221
+      },
+      "9": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8903,
+        "totalAssets": 0.3044,
+        "currentShares": 9044000,
+        "change": -598900,
+        "change_p": -6.2108
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7588,
+        "totalAssets": 0.0156,
+        "currentShares": 8414552,
+        "change": -11174,
+        "change_p": -0.1326
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7006,
+        "totalAssets": 0.0173,
+        "currentShares": 8136269,
+        "change": 1565093,
+        "change_p": 23.8175
+      },
+      "12": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.458,
+        "totalAssets": 0.3607,
+        "currentShares": 6975548,
+        "change": 856318,
+        "change_p": 13.9939
+      },
+      "13": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3015,
+        "totalAssets": 0.0565,
+        "currentShares": 6226726,
+        "change": -1232928,
+        "change_p": -16.528
+      },
+      "14": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2967,
+        "totalAssets": 0.1515,
+        "currentShares": 6203800,
+        "change": -2143363,
+        "change_p": -25.6777
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2631,
+        "totalAssets": 0.0033,
+        "currentShares": 6042956,
+        "change": 3436875,
+        "change_p": 131.8791
+      },
+      "16": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.2183,
+        "totalAssets": 0.22,
+        "currentShares": 5828865,
+        "change": 71413,
+        "change_p": 1.2404
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.1654,
+        "totalAssets": 0.016,
+        "currentShares": 5575831,
+        "change": 2162014,
+        "change_p": 63.3313
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0977,
+        "totalAssets": 0.0141,
+        "currentShares": 5251787,
+        "change": 238015,
+        "change_p": 4.7472
+      },
+      "19": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.076,
+        "totalAssets": 0.0448,
+        "currentShares": 5148047,
+        "change": -486279,
+        "change_p": -8.6307
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1789,
+        "totalAssets": 0.012,
+        "currentShares": 15209075,
+        "change": 77795,
+        "change_p": 0.5141
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5461,
+        "totalAssets": 0.0135,
+        "currentShares": 12181486,
+        "change": -119294,
+        "change_p": -0.9698
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3059,
+        "totalAssets": 0.1044,
+        "currentShares": 11032456,
+        "change": 168193,
+        "change_p": 1.5481
+      },
+      "3": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.1372,
+        "totalAssets": 0.1885,
+        "currentShares": 10225263,
+        "change": 30130,
+        "change_p": 0.2955
+      },
+      "4": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.94,
+        "totalAssets": 0.6546,
+        "currentShares": 9281530,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.469,
+        "totalAssets": 0.1819,
+        "currentShares": 7028384,
+        "change": 51680,
+        "change_p": 0.7408
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2871,
+        "totalAssets": 0.0134,
+        "currentShares": 6158189,
+        "change": -3348,
+        "change_p": -0.0543
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2724,
+        "totalAssets": 0.0156,
+        "currentShares": 6087564,
+        "change": 9965,
+        "change_p": 0.164
+      },
+      "8": {
+        "name": "Invesco S&P 500® High Div Low Vol ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1837,
+        "totalAssets": 2.7103,
+        "currentShares": 5663197,
+        "change": -8550,
+        "change_p": -0.1507
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1699,
+        "totalAssets": 0.0135,
+        "currentShares": 5597031,
+        "change": -13622,
+        "change_p": -0.2428
+      },
+      "10": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0461,
+        "totalAssets": 0.5077,
+        "currentShares": 5005019,
+        "change": -2158,
+        "change_p": -0.0431
+      },
+      "11": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0455,
+        "totalAssets": 1.1135,
+        "currentShares": 5001893,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "DFA US Small Cap Value I",
+        "date": "2026-02-28",
+        "totalShares": 1.0027,
+        "totalAssets": 0.507,
+        "currentShares": 4797260,
+        "change": 535554,
+        "change_p": 12.5667
+      },
+      "13": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8048,
+        "totalAssets": 0.105,
+        "currentShares": 3850500,
+        "change": 473200,
+        "change_p": 14.0112
+      },
+      "14": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6875,
+        "totalAssets": 0.4148,
+        "currentShares": 3289328,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5624,
+        "totalAssets": 0.0134,
+        "currentShares": 2690619,
+        "change": -21492,
+        "change_p": -0.7924
+      },
+      "16": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.538,
+        "totalAssets": 0.3197,
+        "currentShares": 2574164,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.0133,
+        "currentShares": 2553612,
+        "change": 3700,
+        "change_p": 0.1451
+      },
+      "18": {
+        "name": "Dimensional US Small Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4635,
+        "totalAssets": 0.5116,
+        "currentShares": 2217722,
+        "change": 5912,
+        "change_p": 0.2673
+      },
+      "19": {
+        "name": "First Trust Value Line® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4584,
+        "totalAssets": 0.4267,
+        "currentShares": 2193064,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 7.9618,
+    "PriceSalesTTM": 0.6063,
+    "PriceBookMRQ": 0.8445,
+    "EnterpriseValue": 14171579417,
+    "EnterpriseValueRevenue": 1.2674,
+    "EnterpriseValueEbitda": 15.1115
+  },
+  "Highlights": {
+    "MarketCapitalization": 6779454464,
+    "MarketCapitalizationMln": 6779.4545,
+    "EBITDA": 1729400064,
+    "PERatio": null,
+    "PEGRatio": 10.8594,
+    "WallStreetTargetPrice": 16.2235,
+    "BookValue": 17.064,
+    "DividendShare": 1.4,
+    "DividendYield": 0.0972,
+    "EarningsShare": -0.1,
+    "EPSEstimateCurrentYear": 1.6999,
+    "EPSEstimateNextYear": 1.6986,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.4004,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": -0.0039,
+    "OperatingMarginTTM": 0.1057,
+    "ReturnOnAssetsTTM": 0.042,
+    "ReturnOnEquityTTM": -0.0051,
+    "RevenueTTM": 11181299712,
+    "RevenuePerShareTTM": 23.359,
+    "QuarterlyRevenueGrowthYOY": -0.019,
+    "GrossProfitTTM": 2714299904,
+    "DilutedEpsTTM": -0.1,
+    "QuarterlyEarningsGrowthYOY": 0.39
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 39.43,
+    "TotalEsgPercentile": 70.52,
+    "EnvironmentScore": 14.99,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 24.32,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 13.12,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CAG",
+    "Type": "Common Stock",
+    "Name": "ConAgra Foods Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BDXGP9",
+    "ISIN": "US2058871029",
+    "LEI": "54930035UDEIH090K650",
+    "PrimaryTicker": "CAG.US",
+    "CUSIP": "205887102",
+    "CIK": "0000023217",
+    "EmployerIdNumber": "47-0248710",
+    "FiscalYearEnd": "May",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Conagra Brands, Inc., together with its subsidiaries, operates as a consumer packaged goods food company primarily in the United States. The company operates in four segments: Grocery & Snacks, Refrigerated & Frozen, International, and Foodservice. The Grocery & Snacks segment primarily offers shelf stable food products through various retail channels. The Refrigerated & Frozen segment provides temperature-controlled food products through various retail channels. The International segment offers food products in various temperature states through retail and foodservice channels outside of the United States. The Foodservice segment offers branded and customized food products, including meals, entrees, sauces, and various custom-manufactured culinary products packaged for restaurants and other foodservice establishments. The company sells its products under the Birds Eye, Marie Callender's, Duncan Hines, Healthy Choice, Slim Jim, Reddi-wip, Angie's, BOOMCHICKAPOP brands. Conagra Brands, Inc. was incorporated in 1919 and is headquartered in Chicago, Illinois.",
+    "Address": "222 West Merchandise Mart Plaza, Chicago, IL, United States, 60654",
+    "AddressData": {
+      "Street": "222 West Merchandise Mart Plaza",
+      "City": "Chicago",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60654"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Sean M. Connolly",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. David S. Marberger CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. Thomas M. McGough",
+        "Title": "COO & Executive VP",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Alexandre O. Eboli",
+        "Title": "Executive VP & Chief Supply Chain Officer and Transformation Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Ms. Noelle  O'Mara",
+        "Title": "Executive VP and President of Refrigerated & Frozen",
+        "YearBorn": "1979"
+      },
+      "5": {
+        "Name": "Ms. Melissa  Napier",
+        "Title": "Senior VP, Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Ms. Tracy  Schaefer",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Carey L. Bartell",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Mr. Jonathan J. Harris",
+        "Title": "Executive VP and Chief Communications & Networking Officer",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Ms. Charisse  Brock",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1962"
+      }
+    },
+    "Phone": "312 549 5000",
+    "WebURL": "https://www.conagrabrands.com",
+    "LogoURL": "/img/logos/US/cag.png",
+    "FullTimeEmployees": 18300,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 478437156,
+    "SharesFloat": 474992408,
+    "PercentInsiders": 0.652,
+    "PercentInstitutions": 87.523,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1164
+  }
+}

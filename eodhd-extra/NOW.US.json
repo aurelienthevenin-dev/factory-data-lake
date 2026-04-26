@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.8405,
+        "totalAssets": 0.2265,
+        "currentShares": 101963384,
+        "change": 908764,
+        "change_p": 0.8993
+      },
+      "1": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2692,
+        "totalAssets": 0.2216,
+        "currentShares": 23512428,
+        "change": 224163,
+        "change_p": 0.9626
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.2564,
+        "totalAssets": 0.309,
+        "currentShares": 19182102,
+        "change": 691098,
+        "change_p": 3.7375
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5262,
+        "totalAssets": 0.1235,
+        "currentShares": 15813783,
+        "change": -1645692,
+        "change_p": -9.4258
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.6269,
+        "totalAssets": 0.4357,
+        "currentShares": 15805286,
+        "change": 9192815,
+        "change_p": 139.0224
+      },
+      "5": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2732,
+        "totalAssets": 0.2162,
+        "currentShares": 13192716,
+        "change": 600141,
+        "change_p": 4.7658
+      },
+      "6": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.0031,
+        "totalAssets": 0.2496,
+        "currentShares": 10393373,
+        "change": -84402,
+        "change_p": -0.8055
+      },
+      "7": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9198,
+        "totalAssets": 0.3823,
+        "currentShares": 9530753,
+        "change": -1236792,
+        "change_p": -11.4863
+      },
+      "8": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5624,
+        "totalAssets": 0.3017,
+        "currentShares": 9454699,
+        "change": 131080,
+        "change_p": 1.4059
+      },
+      "9": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8138,
+        "totalAssets": 0.7755,
+        "currentShares": 8432389,
+        "change": -2660746,
+        "change_p": -23.9855
+      },
+      "10": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.806,
+        "totalAssets": 0.4367,
+        "currentShares": 8351824,
+        "change": 71714,
+        "change_p": 0.8661
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.7942,
+        "totalAssets": 0.2209,
+        "currentShares": 8229232,
+        "change": -3207268,
+        "change_p": -28.0441
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7582,
+        "totalAssets": 0.1476,
+        "currentShares": 7855851,
+        "change": 1000496,
+        "change_p": 14.5944
+      },
+      "13": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 0.745,
+        "totalAssets": 1.0213,
+        "currentShares": 7719531,
+        "change": 683871,
+        "change_p": 9.7201
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7068,
+        "totalAssets": 0.1743,
+        "currentShares": 7323616,
+        "change": 133731,
+        "change_p": 1.86
+      },
+      "15": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.6883,
+        "totalAssets": 0.2969,
+        "currentShares": 7132376,
+        "change": -88129,
+        "change_p": -1.2205
+      },
+      "16": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6751,
+        "totalAssets": 0.288,
+        "currentShares": 6994746,
+        "change": 3716771,
+        "change_p": 113.3862
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6655,
+        "totalAssets": 0.2343,
+        "currentShares": 6895985,
+        "change": 91910,
+        "change_p": 1.3508
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.3192,
+        "totalAssets": 0.6772,
+        "currentShares": 6878445,
+        "change": -486948,
+        "change_p": -6.6113
+      },
+      "19": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.6495,
+        "totalAssets": 0.3357,
+        "currentShares": 6730205,
+        "change": -189460,
+        "change_p": -2.738
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2068,
+        "totalAssets": 0.174,
+        "currentShares": 33227543,
+        "change": 413949,
+        "change_p": 1.2615
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5707,
+        "totalAssets": 0.1957,
+        "currentShares": 26636185,
+        "change": -46801,
+        "change_p": -0.1754
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2976,
+        "totalAssets": 0.1952,
+        "currentShares": 13445591,
+        "change": -7320,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2742,
+        "totalAssets": 0.1904,
+        "currentShares": 13202338,
+        "change": 21758,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1706,
+        "totalAssets": 0.195,
+        "currentShares": 12129740,
+        "change": -29792,
+        "change_p": -0.245
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1026,
+        "totalAssets": 0.3759,
+        "currentShares": 11424625,
+        "change": 111863,
+        "change_p": 0.9888
+      },
+      "6": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7574,
+        "totalAssets": 0.9732,
+        "currentShares": 7848049,
+        "change": 20820,
+        "change_p": 0.266
+      },
+      "7": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6705,
+        "totalAssets": 0.5969,
+        "currentShares": 6947119,
+        "change": -8987,
+        "change_p": -0.1292
+      },
+      "8": {
+        "name": "T. Rowe Price US Lrg-Cap Core Gr Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6301,
+        "totalAssets": 1.454,
+        "currentShares": 6528373,
+        "change": 259688,
+        "change_p": 4.1426
+      },
+      "9": {
+        "name": "T. Rowe Price Blue Chip Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.5917,
+        "totalAssets": 1.0896,
+        "currentShares": 6130754,
+        "change": -236016,
+        "change_p": -3.707
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5688,
+        "totalAssets": 0.1952,
+        "currentShares": 5893261,
+        "change": 15547,
+        "change_p": 0.2645
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5389,
+        "totalAssets": 0.1932,
+        "currentShares": 5583695,
+        "change": 53560,
+        "change_p": 0.9685
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.456,
+        "totalAssets": 0.195,
+        "currentShares": 4724395,
+        "change": 65701,
+        "change_p": 1.4103
+      },
+      "13": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4509,
+        "totalAssets": 1.5906,
+        "currentShares": 4671905,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Pictet - Robotics I dy EUR",
+        "date": "2026-03-31",
+        "totalShares": 0.438,
+        "totalAssets": 4.6384,
+        "currentShares": 4538822,
+        "change": 12113,
+        "change_p": 0.2676
+      },
+      "15": {
+        "name": "iShares Expanded Tech-Software Sect ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4341,
+        "totalAssets": 4.3754,
+        "currentShares": 4498097,
+        "change": 154100,
+        "change_p": 3.5474
+      },
+      "16": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4289,
+        "totalAssets": 0.4183,
+        "currentShares": 4443560,
+        "change": 330200,
+        "change_p": 8.0275
+      },
+      "17": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4068,
+        "totalAssets": 0.3939,
+        "currentShares": 4215300,
+        "change": 4015,
+        "change_p": 0.0953
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3977,
+        "totalAssets": 0.2723,
+        "currentShares": 4121282,
+        "change": -53876,
+        "change_p": -1.2904
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3977,
+        "totalAssets": 0.2723,
+        "currentShares": 4121282,
+        "change": 4121282,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 53.6726,
+    "ForwardPE": 20.2429,
+    "PriceSalesTTM": 6.6614,
+    "PriceBookMRQ": 7.4902,
+    "EnterpriseValue": 85094365110,
+    "EnterpriseValueRevenue": 6.0956,
+    "EnterpriseValueEbitda": 26.2799
+  },
+  "Highlights": {
+    "MarketCapitalization": 92993044480,
+    "MarketCapitalizationMln": 92993.0445,
+    "EBITDA": 2888999936,
+    "PERatio": 53.6726,
+    "PEGRatio": 0.8126,
+    "WallStreetTargetPrice": 147.3586,
+    "BookValue": 12.379,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.68,
+    "EPSEstimateCurrentYear": 4.1341,
+    "EPSEstimateNextYear": 5.0117,
+    "EPSEstimateNextQuarter": 0.9587,
+    "EPSEstimateCurrentQuarter": 0.9666,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1259,
+    "OperatingMarginTTM": 0.1337,
+    "ReturnOnAssetsTTM": 0.0566,
+    "ReturnOnEquityTTM": 0.1607,
+    "RevenueTTM": 13959999488,
+    "RevenuePerShareTTM": 13.462,
+    "QuarterlyRevenueGrowthYOY": 0.221,
+    "GrossProfitTTM": 10689000448,
+    "DilutedEpsTTM": 1.68,
+    "QuarterlyEarningsGrowthYOY": 0.023
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 12.69,
+    "TotalEsgPercentile": 10.32,
+    "EnvironmentScore": 1,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 4.69,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 6.01,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NOW",
+    "Type": "Common Stock",
+    "Name": "ServiceNow Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000M1R011",
+    "ISIN": "US81762P1021",
+    "LEI": "549300HJTQM36M0E1G39",
+    "PrimaryTicker": "NOW.US",
+    "CUSIP": "81762P102",
+    "CIK": "0001373715",
+    "EmployerIdNumber": "20-2056195",
+    "FiscalYearEnd": "December",
+    "IPODate": "2012-06-29",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Systems Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "ServiceNow, Inc. provides cloud-based solution for digital workflows in the North America, Europe, the Middle East and Africa, Asia Pacific, and internationally. The company provides asset management, integrated risk management, IT service management, Operational Technology management, Security Operations, strategic portfolio management, IT operations management products; customer service management product; field service management applications; and sales and order management services. It also offers human resources delivery; legal and contract operations; workplace service delivery products; app engine product; automation engine; platform privacy and security product; and source-to-pay operations. In addition, the company provides RaptorDB, a database built to manage workloads at scale; ServiceNow Impact that provides customers with software tools, guided plans, and AI-driven recommendations; customer support; and workflow data fabric. It serves government, financial services, healthcare and life science, manufacturing, Public Sector, retail, technology, and Telecom sectors through service providers and resale partners. The company has a strategic collaboration with Cohesity, Inc. to develop, operate, and safeguard autonomous AI agents and data with enterprise-grade reliability. The company was formerly known as Service-now.com and changed its name to ServiceNow, Inc. in May 2012. ServiceNow, Inc. was founded in 2004 and is headquartered in Santa Clara, California.",
+    "Address": "2225 Lawson Lane, Santa Clara, CA, United States, 95054",
+    "AddressData": {
+      "Street": "2225 Lawson Lane",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95054"
+    },
+    "Listings": {
+      "0": {
+        "Code": "4S0",
+        "Exchange": "F",
+        "Name": "ServiceNow Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. William R. McDermott",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Ms. Gina M. Mastantuono",
+        "Title": "President & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Amit K. Zavery",
+        "Title": "President, Chief Product Officer & COO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Frederic B. Luddy",
+        "Title": "Founder & Director",
+        "YearBorn": "1955"
+      },
+      "4": {
+        "Name": "Ms. Jacqueline P. Canney",
+        "Title": "Chief People & AI Enablement Officer",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Paul  Fipps",
+        "Title": "President of Global Customer Operations",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. Hossein  Nowbar",
+        "Title": "President, Secretary & Chief Legal Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Danielle  Fontaine",
+        "Title": "CAO & Corporate Controller",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Pat  Casey",
+        "Title": "CTO & Executive VP of Dev Ops",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Darren  Yip",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 501 8550",
+    "WebURL": "https://www.servicenow.com",
+    "LogoURL": "/img/logos/US/now.png",
+    "FullTimeEmployees": 29187,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1031308000,
+    "SharesFloat": 1032029550,
+    "PercentInsiders": 0.2,
+    "PercentInstitutions": 91.408,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0378
+  }
+}

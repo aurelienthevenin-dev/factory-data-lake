@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.6821,
+        "totalAssets": 0.0177,
+        "currentShares": 12458770,
+        "change": -32294,
+        "change_p": -0.2585
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0791,
+        "totalAssets": 0.0164,
+        "currentShares": 8616200,
+        "change": 121912,
+        "change_p": 1.4352
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.7218,
+        "totalAssets": 0.027,
+        "currentShares": 7168672,
+        "change": -225900,
+        "change_p": -3.0549
+      },
+      "3": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 3.7123,
+        "totalAssets": 0.0932,
+        "currentShares": 3959057,
+        "change": 3145925,
+        "change_p": 386.8898
+      },
+      "4": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.1808,
+        "totalAssets": 0.0696,
+        "currentShares": 3392300,
+        "change": 850943,
+        "change_p": 33.4838
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.651,
+        "totalAssets": 0.017,
+        "currentShares": 2827215,
+        "change": 2928,
+        "change_p": 0.1037
+      },
+      "6": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 2.4704,
+        "totalAssets": 0.0387,
+        "currentShares": 2634634,
+        "change": 887780,
+        "change_p": 50.8216
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.4674,
+        "totalAssets": 0.045,
+        "currentShares": 2631400,
+        "change": -187628,
+        "change_p": -6.6558
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.9966,
+        "totalAssets": 0.014,
+        "currentShares": 2129343,
+        "change": 666658,
+        "change_p": 45.5777
+      },
+      "9": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9294,
+        "totalAssets": 0.6011,
+        "currentShares": 2057630,
+        "change": 1544410,
+        "change_p": 300.9255
+      },
+      "10": {
+        "name": "Point72 Asset Management, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.7289,
+        "totalAssets": 0.2017,
+        "currentShares": 1843866,
+        "change": 1843866,
+        "change_p": 0
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.6224,
+        "totalAssets": 0.0056,
+        "currentShares": 1730264,
+        "change": 971809,
+        "change_p": 128.1301
+      },
+      "12": {
+        "name": "Ariel Investments, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5086,
+        "totalAssets": 1.6997,
+        "currentShares": 1608943,
+        "change": 65420,
+        "change_p": 4.2384
+      },
+      "13": {
+        "name": "Balyasny Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4844,
+        "totalAssets": 0.1966,
+        "currentShares": 1583041,
+        "change": -346185,
+        "change_p": -17.9442
+      },
+      "14": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4412,
+        "totalAssets": 0.0077,
+        "currentShares": 1537033,
+        "change": -129560,
+        "change_p": -7.7739
+      },
+      "15": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4389,
+        "totalAssets": 0.2649,
+        "currentShares": 1534578,
+        "change": -27681,
+        "change_p": -1.7719
+      },
+      "16": {
+        "name": "NATIONAL BANK OF CANADA /FI/",
+        "date": "2025-09-30",
+        "totalShares": 1.3138,
+        "totalAssets": 0.1515,
+        "currentShares": 1401173,
+        "change": 1244214,
+        "change_p": 792.7
+      },
+      "17": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2821,
+        "totalAssets": 0.0562,
+        "currentShares": 1367299,
+        "change": -206906,
+        "change_p": -13.1435
+      },
+      "18": {
+        "name": "Capitolis Liquid Global Markets LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2293,
+        "totalAssets": 0.7648,
+        "currentShares": 1311000,
+        "change": 271000,
+        "change_p": 26.0577
+      },
+      "19": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.1633,
+        "totalAssets": 0.1105,
+        "currentShares": 1240592,
+        "change": 364854,
+        "change_p": 41.6625
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.007,
+        "totalAssets": 0.0155,
+        "currentShares": 3206878,
+        "change": -11944,
+        "change_p": -0.3711
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5467,
+        "totalAssets": 0.0184,
+        "currentShares": 2716024,
+        "change": -28234,
+        "change_p": -1.0288
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.194,
+        "totalAssets": 0.1358,
+        "currentShares": 2339905,
+        "change": 37850,
+        "change_p": 1.6442
+      },
+      "3": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.5167,
+        "totalAssets": 1.4125,
+        "currentShares": 1617568,
+        "change": -769,
+        "change_p": -0.0475
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.5126,
+        "totalAssets": 0.1824,
+        "currentShares": 1613199,
+        "change": 4716,
+        "change_p": 0.2932
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3958,
+        "totalAssets": 0.2364,
+        "currentShares": 1488568,
+        "change": 10251,
+        "change_p": 0.6934
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2852,
+        "totalAssets": 0.0184,
+        "currentShares": 1370618,
+        "change": -744,
+        "change_p": -0.0543
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2731,
+        "totalAssets": 0.021,
+        "currentShares": 1357695,
+        "change": 2231,
+        "change_p": 0.1646
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.173,
+        "totalAssets": 0.0186,
+        "currentShares": 1250969,
+        "change": -3038,
+        "change_p": -0.2423
+      },
+      "9": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.1543,
+        "totalAssets": 0.1898,
+        "currentShares": 1231000,
+        "change": 1074600,
+        "change_p": 687.0844
+      },
+      "10": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0467,
+        "totalAssets": 0.6947,
+        "currentShares": 1116304,
+        "change": -490,
+        "change_p": -0.0439
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9464,
+        "totalAssets": 0.4707,
+        "currentShares": 1009340,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Ariel Fund Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.8937,
+        "totalAssets": 3.5908,
+        "currentShares": 953110,
+        "change": 219651,
+        "change_p": 29.9473
+      },
+      "13": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.794,
+        "totalAssets": 1.1565,
+        "currentShares": 846790,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.69,
+        "totalAssets": 0.5589,
+        "currentShares": 735838,
+        "change": 56531,
+        "change_p": 8.3219
+      },
+      "15": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.581,
+        "totalAssets": 0.4722,
+        "currentShares": 619680,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.565,
+        "totalAssets": 0.0184,
+        "currentShares": 602533,
+        "change": -465,
+        "change_p": -0.0771
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.534,
+        "totalAssets": 0.0182,
+        "currentShares": 569514,
+        "change": 800,
+        "change_p": 0.1407
+      },
+      "18": {
+        "name": "FT Cboe Vest S&P 500® Dv Ast Tgt Inc ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4666,
+        "totalAssets": 1.423,
+        "currentShares": 497658,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4518,
+        "totalAssets": 0.0183,
+        "currentShares": 481875,
+        "change": 2563,
+        "change_p": 0.5347
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 9.7943,
+    "PriceSalesTTM": 1.1478,
+    "PriceBookMRQ": 1.9592,
+    "EnterpriseValue": 17660001804,
+    "EnterpriseValueRevenue": 1.9784,
+    "EnterpriseValueEbitda": 11.7695
+  },
+  "Highlights": {
+    "MarketCapitalization": 10245703680,
+    "MarketCapitalizationMln": 10245.7037,
+    "EBITDA": 1879200000,
+    "PERatio": null,
+    "PEGRatio": 1.6776,
+    "WallStreetTargetPrice": 118.125,
+    "BookValue": 49.074,
+    "DividendShare": 4.38,
+    "DividendYield": 0.0455,
+    "EarningsShare": -11.79,
+    "EPSEstimateCurrentYear": 9.0247,
+    "EPSEstimateNextYear": 8.2314,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.2629,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": -0.1407,
+    "OperatingMarginTTM": 0.1878,
+    "ReturnOnAssetsTTM": 0.048,
+    "ReturnOnEquityTTM": -0.2068,
+    "RevenueTTM": 8926600192,
+    "RevenuePerShareTTM": 83.72,
+    "QuarterlyRevenueGrowthYOY": 0.07,
+    "GrossProfitTTM": 3053799936,
+    "DilutedEpsTTM": -11.79,
+    "QuarterlyEarningsGrowthYOY": -0.026
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.77,
+    "TotalEsgPercentile": 51.94,
+    "EnvironmentScore": 17.73,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 15.35,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 9.69,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SJM",
+    "Type": "Common Stock",
+    "Name": "The J. M. Smucker Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BT1715",
+    "ISIN": "US8326964058",
+    "LEI": "5493000WDH6A0LHDJD55",
+    "PrimaryTicker": "SJM.US",
+    "CUSIP": "832696108",
+    "CIK": "0000091419",
+    "EmployerIdNumber": "34-0538550",
+    "FiscalYearEnd": "April",
+    "IPODate": "1994-10-31",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The J. M. Smucker Company manufactures and markets branded food and beverage products worldwide. The company operates through four segments: U.S. Retail Coffee, U.S. Retail Frozen Handheld and Spreads, U.S. Retail Pet Foods, and Sweet Baked Snacks. It offers coffee, sweet baked goods, pet snacks, frozen handheld products, peanut butter, cat and dog food, fruit and specialty spreads, cookies, frozen sandwiches and snacks, hot beverages, portion control products, toppings and syrups, baking mixes and ingredients, and flour. The company provides its products under the Folgers, Café Bustelo, Dunkin', Jif, Smucker's, Smucker's Uncrustables, Meow Mix, Milk-Bone, Pup-Peroni, Canine Carry Outs, Hostess, 1850, Robin Hood, and Five Roses brands. The company sells its products through direct sales and brokers to food retailers, club stores, discount and dollar stores, online retailers, pet specialty stores, distributors, drug stores, military commissaries, mass merchandisers, supermarket chains, national mass retailers, convenience stores, vending channels, and foodservice distributors and operators. The J. M. Smucker Company was founded in 1897 and is headquartered in Orrville, Ohio.",
+    "Address": "One Strawberry Lane, Orrville, OH, United States, 44667-0280",
+    "AddressData": {
+      "Street": "One Strawberry Lane",
+      "City": "Orrville",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44667-0280"
+    },
+    "Listings": {
+      "0": {
+        "Code": null,
+        "Exchange": null,
+        "Name": null
+      },
+      "1": {
+        "Code": "SJM",
+        "Exchange": "F",
+        "Name": "STEVEN MADDEN"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Captain Mark T. Smucker",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Tucker H. Marshall",
+        "Title": "CFO and Executive VP of Frozen Handheld & Spreads and Sweet Baked Snacks",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Ms. Jill R. Penrose",
+        "Title": "Chief People & Administrative Officer and Chief of Staff",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Ms. Jeannette L. Knudsen J.D.",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Bryan  Hutson",
+        "Title": "Senior Vice President of Information Services & Supply Chain",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Crystal  Beiting",
+        "Title": "Vice President of Investor Relations and FP&A",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Abbey  Linville",
+        "Title": "Vice President of Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Robert  Crane",
+        "Title": "Senior VP and Head of Sales & International",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Katie  Williams",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Julia L. Sabin",
+        "Title": "Vice President of Government Relations",
+        "YearBorn": "1960"
+      }
+    },
+    "Phone": "330 682 3000",
+    "WebURL": "https://www.jmsmucker.com",
+    "LogoURL": "/img/logos/US/SJM.png",
+    "FullTimeEmployees": 8000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 106648319,
+    "SharesFloat": 104357513,
+    "PercentInsiders": 2.2319999999999998,
+    "PercentInstitutions": 94.162,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0555
+  }
+}

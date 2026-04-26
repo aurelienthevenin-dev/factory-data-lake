@@ -1,0 +1,584 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0446,
+        "totalAssets": 0.1796,
+        "currentShares": 128961343,
+        "change": 1888381,
+        "change_p": 1.4861
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.313,
+        "totalAssets": 0.1994,
+        "currentShares": 119568806,
+        "change": -2880535,
+        "change_p": -2.3524
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.1309,
+        "totalAssets": 0.2978,
+        "currentShares": 104391528,
+        "change": 69328345,
+        "change_p": 197.724
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7092,
+        "totalAssets": 0.2011,
+        "currentShares": 60460537,
+        "change": 625992,
+        "change_p": 1.0462
+      },
+      "4": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.6929,
+        "totalAssets": 0.6131,
+        "currentShares": 34573163,
+        "change": 3880174,
+        "change_p": 12.6419
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1715,
+        "totalAssets": 0.1645,
+        "currentShares": 27879481,
+        "change": 231919,
+        "change_p": 0.8388
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8886,
+        "totalAssets": 0.1566,
+        "currentShares": 24247143,
+        "change": 2075976,
+        "change_p": 9.3634
+      },
+      "7": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6721,
+        "totalAssets": 0.3668,
+        "currentShares": 21468260,
+        "change": 192410,
+        "change_p": 0.9044
+      },
+      "8": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.6316,
+        "totalAssets": 0.6489,
+        "currentShares": 20947960,
+        "change": -138539,
+        "change_p": -0.657
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5759,
+        "totalAssets": 0.1167,
+        "currentShares": 20232249,
+        "change": 1207610,
+        "change_p": 6.3476
+      },
+      "10": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.3824,
+        "totalAssets": 0.5552,
+        "currentShares": 17748234,
+        "change": 11537,
+        "change_p": 0.065
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3407,
+        "totalAssets": 0.1769,
+        "currentShares": 17213042,
+        "change": 777361,
+        "change_p": 4.7297
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2622,
+        "totalAssets": 0.2432,
+        "currentShares": 16204661,
+        "change": -1442488,
+        "change_p": -8.1741
+      },
+      "13": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.1089,
+        "totalAssets": 0.2222,
+        "currentShares": 14237196,
+        "change": -8041258,
+        "change_p": -36.0943
+      },
+      "14": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0405,
+        "totalAssets": 0.2249,
+        "currentShares": 13359367,
+        "change": 3169781,
+        "change_p": 31.108
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9763,
+        "totalAssets": 0.2742,
+        "currentShares": 12534866,
+        "change": -2062814,
+        "change_p": -14.1311
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9447,
+        "totalAssets": 0.1478,
+        "currentShares": 12129386,
+        "change": -96132,
+        "change_p": -0.7863
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8951,
+        "totalAssets": 0.2729,
+        "currentShares": 11492577,
+        "change": -277033,
+        "change_p": -2.3538
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8726,
+        "totalAssets": 0.1671,
+        "currentShares": 11202878,
+        "change": 5489720,
+        "change_p": 96.0891
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7931,
+        "totalAssets": 0.2169,
+        "currentShares": 10181883,
+        "change": 698172,
+        "change_p": 7.3618
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1757,
+        "totalAssets": 0.177,
+        "currentShares": 40772299,
+        "change": 225957,
+        "change_p": 0.5573
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5426,
+        "totalAssets": 0.1988,
+        "currentShares": 32644668,
+        "change": -343684,
+        "change_p": -1.0418
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2836,
+        "totalAssets": 0.1983,
+        "currentShares": 16479838,
+        "change": -8976,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2714,
+        "totalAssets": 0.2128,
+        "currentShares": 16322895,
+        "change": 26906,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1568,
+        "totalAssets": 0.1979,
+        "currentShares": 14851694,
+        "change": -36554,
+        "change_p": -0.2455
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.4556,
+        "currentShares": 11866095,
+        "change": -81306,
+        "change_p": -0.6805
+      },
+      "6": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.886,
+        "totalAssets": 0.6961,
+        "currentShares": 11375394,
+        "change": 1571462,
+        "change_p": 16.0289
+      },
+      "7": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8567,
+        "totalAssets": 0.8719,
+        "currentShares": 10998593,
+        "change": 3347101,
+        "change_p": 43.7444
+      },
+      "8": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.7692,
+        "totalAssets": 0.6187,
+        "currentShares": 9875546,
+        "change": 1271707,
+        "change_p": 14.7807
+      },
+      "9": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.744,
+        "totalAssets": 2.3146,
+        "currentShares": 9552320,
+        "change": 2584981,
+        "change_p": 37.1014
+      },
+      "10": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7298,
+        "totalAssets": 2.0907,
+        "currentShares": 9370186,
+        "change": 28416,
+        "change_p": 0.3042
+      },
+      "11": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.6701,
+        "totalAssets": 0.5805,
+        "currentShares": 8603839,
+        "change": 3479647,
+        "change_p": 67.9063
+      },
+      "12": {
+        "name": "Capital Group Dividend Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6266,
+        "totalAssets": 2.3913,
+        "currentShares": 8044993,
+        "change": 1187470,
+        "change_p": 17.3163
+      },
+      "13": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.596,
+        "totalAssets": 0.6591,
+        "currentShares": 7651492,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5626,
+        "totalAssets": 0.1983,
+        "currentShares": 7222916,
+        "change": -43216,
+        "change_p": -0.5948
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5591,
+        "totalAssets": 0.5299,
+        "currentShares": 7178146,
+        "change": 108929,
+        "change_p": 1.5409
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.533,
+        "totalAssets": 0.1963,
+        "currentShares": 6843532,
+        "change": 6300,
+        "change_p": 0.0921
+      },
+      "17": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 0.5186,
+        "totalAssets": 0.8253,
+        "currentShares": 6658084,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.451,
+        "totalAssets": 0.1981,
+        "currentShares": 5790415,
+        "change": 30514,
+        "change_p": 0.5298
+      },
+      "19": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.4474,
+        "totalAssets": 0.461,
+        "currentShares": 5743900,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.2737,
+    "ForwardPE": 13.7363,
+    "PriceSalesTTM": 3.0147,
+    "PriceBookMRQ": 2.1961,
+    "EnterpriseValue": 127264721133,
+    "EnterpriseValueRevenue": 3.5865,
+    "EnterpriseValueEbitda": 13.5996
+  },
+  "Highlights": {
+    "MarketCapitalization": 106973290496,
+    "MarketCapitalizationMln": 106973.2905,
+    "EBITDA": 9440000000,
+    "PERatio": 23.2737,
+    "PEGRatio": 1.4613,
+    "WallStreetTargetPrice": 109.08,
+    "BookValue": 38.169,
+    "DividendShare": 2.83,
+    "DividendYield": 0.0338,
+    "EarningsShare": 3.58,
+    "EPSEstimateCurrentYear": 5.5476,
+    "EPSEstimateNextYear": 6.0609,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.3351,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.13,
+    "OperatingMarginTTM": 0.2001,
+    "ReturnOnAssetsTTM": 0.0457,
+    "ReturnOnEquityTTM": 0.0939,
+    "RevenueTTM": 35484000256,
+    "RevenuePerShareTTM": 27.675,
+    "QuarterlyRevenueGrowthYOY": 0.087,
+    "GrossProfitTTM": 23121000448,
+    "DilutedEpsTTM": 3.58,
+    "QuarterlyEarningsGrowthYOY": -0.118
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.86,
+    "TotalEsgPercentile": 40.62,
+    "EnvironmentScore": 4.07,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 15.28,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 9,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MDT",
+    "Type": "Common Stock",
+    "Name": "Medtronic PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BNWG87",
+    "ISIN": "IE00BTN1Y115",
+    "LEI": "549300GX3ZBSQWUXY261",
+    "PrimaryTicker": "MDT.US",
+    "CUSIP": "585055106",
+    "CIK": "0001613103",
+    "EmployerIdNumber": "98-1183488",
+    "FiscalYearEnd": "April",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients in the United States, Ireland, and internationally. The Cardiovascular Portfolio segment offers implantable cardiac pacemakers, cardioverter defibrillators, and cardiac resynchronization therapy devices; cardiac ablation products; insertable cardiac monitor systems; TYRX products; and remote monitoring and patient-centered software. It also provides aortic valves, surgical valve replacement and repair products, endovascular stent grafts and accessories, and transcatheter pulmonary valves, and percutaneous coronary intervention products, percutaneous angioplasty balloons, and other products. The Neuroscience Portfolio segment offers medical devices and implants, biologic solutions, spinal cord stimulation and brain modulation systems, implantable drug infusion systems, and interventional products, as well as nerve ablation system under the Accurian name. The segment offers its products for spinal surgeons, neurosurgeons, neurologists, pain management specialists, anesthesiologists, orthopedic surgeons, urologists, urogynecologists, and interventional radiologists, as well as ear, nose, and throat specialists, and energy surgical instruments. The Medical Surgical Portfolio segment offers surgical stapling devices, vessel sealing instruments, wound closure and electrosurgery products, AI-powered surgical video and analytics platform, robotic-assisted surgery products, hernia mechanical devices, mesh implants, gynecology products, gastrointestinal and hepatologic diagnostics and therapies, and therapies to treat diseases and conditions, and patient monitoring and airway management products. The Diabetes Operating Unit segment provides insulin pumps and consumables, continuous glucose monitoring systems and sensors, and InPen, a smart insulin pen. Medtronic plc was founded in 1949 and is headquartered in Galway, Ireland.",
+    "Address": "Building Two, Galway, Ireland",
+    "AddressData": {
+      "Street": "Building Two",
+      "City": "Galway",
+      "Country": "Ireland"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Geoffrey Straub Martha",
+        "Title": "Chairman of the Board & CEO",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Thierry  Pieton",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Brett A. Wall",
+        "Title": "Executive VP & President of Neuroscience Portfolio",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Mark  Ploof",
+        "Title": "Senior Vice President of Global Operations and Business Services",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Ms. Denise L. Blomquist",
+        "Title": "VP, Global Controller & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Dr. Laura  Mauri M.D., M.Sc.",
+        "Title": "Senior VP and Chief Scientific & Medical Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Ms. Ingrid  Goldberg",
+        "Title": "Vice President & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Michelle  Quinn",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Mr. Matthew R. Walter",
+        "Title": "SVP of Human Resources and Global Communications & Corporate Marketing",
+        "YearBorn": "1979"
+      },
+      "9": {
+        "Name": "Mr. Jason  Weidman",
+        "Title": "Senior VP and President of Coronary & Renal Denervation business",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "353 1 438 1700",
+    "WebURL": "https://www.medtronic.com",
+    "LogoURL": "/img/logos/US/MDT.png",
+    "FullTimeEmployees": 95000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1283884964,
+    "SharesFloat": 1281484099,
+    "PercentInsiders": 0.319,
+    "PercentInstitutions": 88.539,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0121
+  }
+}

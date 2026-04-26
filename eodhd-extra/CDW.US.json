@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.627,
+        "totalAssets": 0.0344,
+        "currentShares": 17439124,
+        "change": 235872,
+        "change_p": 1.3711
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3906,
+        "totalAssets": 0.0335,
+        "currentShares": 12017630,
+        "change": 915898,
+        "change_p": 8.25
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5468,
+        "totalAssets": 0.0321,
+        "currentShares": 5818709,
+        "change": -25302,
+        "change_p": -0.433
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.1331,
+        "totalAssets": 0.0252,
+        "currentShares": 5289332,
+        "change": 3779786,
+        "change_p": 250.3922
+      },
+      "4": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 3.5365,
+        "totalAssets": 0.7791,
+        "currentShares": 4525812,
+        "change": 4251262,
+        "change_p": 1548.4473
+      },
+      "5": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.9511,
+        "totalAssets": 0.5326,
+        "currentShares": 3776609,
+        "change": 1044780,
+        "change_p": 38.2447
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8784,
+        "totalAssets": 0.0309,
+        "currentShares": 3683667,
+        "change": 5588,
+        "change_p": 0.1519
+      },
+      "7": {
+        "name": "Longview Partners (Guernsey) Limited",
+        "date": "2025-12-31",
+        "totalShares": 2.0011,
+        "totalAssets": 3.6424,
+        "currentShares": 2560865,
+        "change": -26492,
+        "change_p": -1.0239
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9533,
+        "totalAssets": 0.0627,
+        "currentShares": 2499768,
+        "change": 163565,
+        "change_p": 7.0013
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8558,
+        "totalAssets": 0.0229,
+        "currentShares": 2374940,
+        "change": -2939741,
+        "change_p": -55.3136
+      },
+      "10": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 1.7796,
+        "totalAssets": 1.3371,
+        "currentShares": 2277495,
+        "change": -1878134,
+        "change_p": -45.1949
+      },
+      "11": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.7448,
+        "totalAssets": 0.2276,
+        "currentShares": 2232864,
+        "change": 445569,
+        "change_p": 24.9298
+      },
+      "12": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.6185,
+        "totalAssets": 0.1506,
+        "currentShares": 2071305,
+        "change": 70144,
+        "change_p": 3.5052
+      },
+      "13": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5145,
+        "totalAssets": 0.4181,
+        "currentShares": 1938232,
+        "change": 360290,
+        "change_p": 22.8329
+      },
+      "14": {
+        "name": "Mawer Investment Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.3962,
+        "totalAssets": 1.3633,
+        "currentShares": 1786808,
+        "change": -573493,
+        "change_p": -24.2975
+      },
+      "15": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1021,
+        "totalAssets": 0.024,
+        "currentShares": 1410388,
+        "change": -198115,
+        "change_p": -12.3167
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0724,
+        "totalAssets": 0.0392,
+        "currentShares": 1372375,
+        "change": -24258,
+        "change_p": -1.7369
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0385,
+        "totalAssets": 0.0271,
+        "currentShares": 1329057,
+        "change": -41226,
+        "change_p": -3.0086
+      },
+      "18": {
+        "name": "Madison Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.902,
+        "totalAssets": 1.8078,
+        "currentShares": 1154334,
+        "change": -141841,
+        "change_p": -10.943
+      },
+      "19": {
+        "name": "Fenimore Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8991,
+        "totalAssets": 3.2634,
+        "currentShares": 1150567,
+        "change": 9485,
+        "change_p": 0.8312
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2013,
+        "totalAssets": 0.0248,
+        "currentShares": 4096868,
+        "change": -18483,
+        "change_p": -0.4491
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5905,
+        "totalAssets": 0.0282,
+        "currentShares": 3315132,
+        "change": -33710,
+        "change_p": -1.0066
+      },
+      "2": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.519,
+        "totalAssets": 1.8305,
+        "currentShares": 1943900,
+        "change": 441800,
+        "change_p": 29.4122
+      },
+      "3": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.519,
+        "totalAssets": 1.8335,
+        "currentShares": 1943900,
+        "change": 74600,
+        "change_p": 3.9908
+      },
+      "4": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.519,
+        "totalAssets": 1.8305,
+        "currentShares": 1943900,
+        "change": 441800,
+        "change_p": 29.4122
+      },
+      "5": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.4978,
+        "totalAssets": 1.0161,
+        "currentShares": 1916800,
+        "change": 1916800,
+        "change_p": 0
+      },
+      "6": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 1.4055,
+        "totalAssets": 1.1175,
+        "currentShares": 1798620,
+        "change": 383786,
+        "change_p": 27.1259
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3078,
+        "totalAssets": 0.0281,
+        "currentShares": 1673645,
+        "change": -912,
+        "change_p": -0.0545
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2947,
+        "totalAssets": 0.0271,
+        "currentShares": 1656890,
+        "change": 2738,
+        "change_p": 0.1655
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.19,
+        "totalAssets": 0.0283,
+        "currentShares": 1522874,
+        "change": -3724,
+        "change_p": -0.2439
+      },
+      "10": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1637,
+        "totalAssets": 0.1085,
+        "currentShares": 1489180,
+        "change": 1489180,
+        "change_p": 0
+      },
+      "11": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.1617,
+        "totalAssets": 0.7246,
+        "currentShares": 1486678,
+        "change": -186488,
+        "change_p": -11.1458
+      },
+      "12": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1531,
+        "totalAssets": 0.1468,
+        "currentShares": 1475709,
+        "change": -1631,
+        "change_p": -0.1104
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.141,
+        "totalAssets": 0.2072,
+        "currentShares": 1460214,
+        "change": 4323,
+        "change_p": 0.2969
+      },
+      "14": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 1.1026,
+        "totalAssets": 0.8427,
+        "currentShares": 1411060,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 1.1026,
+        "totalAssets": 0.793,
+        "currentShares": 1411060,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0888,
+        "totalAssets": 0.0849,
+        "currentShares": 1393356,
+        "change": -1436284,
+        "change_p": -50.7585
+      },
+      "17": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0473,
+        "totalAssets": 0.2877,
+        "currentShares": 1340334,
+        "change": 1340334,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.8874,
+        "totalAssets": 0.4121,
+        "currentShares": 1135657,
+        "change": -574,
+        "change_p": -0.0505
+      },
+      "19": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.8301,
+        "totalAssets": 1.1865,
+        "currentShares": 1062317,
+        "change": -148934,
+        "change_p": -12.2959
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.7475,
+    "ForwardPE": 11.1982,
+    "PriceSalesTTM": 0.7784,
+    "PriceBookMRQ": 6.7015,
+    "EnterpriseValue": 22633574965,
+    "EnterpriseValueRevenue": 1.0093,
+    "EnterpriseValueEbitda": 11.6046
+  },
+  "Highlights": {
+    "MarketCapitalization": 17455413248,
+    "MarketCapitalizationMln": 17455.4132,
+    "EBITDA": 1967399936,
+    "PERatio": 16.7475,
+    "PEGRatio": 1.3345,
+    "WallStreetTargetPrice": 166.2,
+    "BookValue": 20.14,
+    "DividendShare": 2.505,
+    "DividendYield": 0.0184,
+    "EarningsShare": 8.08,
+    "EPSEstimateCurrentYear": 10.5355,
+    "EPSEstimateNextYear": 11.3332,
+    "EPSEstimateNextQuarter": 2.1883,
+    "EPSEstimateCurrentQuarter": 2.4446,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0476,
+    "OperatingMarginTTM": 0.0731,
+    "ReturnOnAssetsTTM": 0.0681,
+    "ReturnOnEquityTTM": 0.4302,
+    "RevenueTTM": 22424100864,
+    "RevenuePerShareTTM": 170.785,
+    "QuarterlyRevenueGrowthYOY": 0.063,
+    "GrossProfitTTM": 4873399808,
+    "DilutedEpsTTM": 8.08,
+    "QuarterlyEarningsGrowthYOY": 0.088
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 10.08,
+    "TotalEsgPercentile": 3.32,
+    "EnvironmentScore": 5.62,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 3.95,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 6.51,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CDW",
+    "Type": "Common Stock",
+    "Name": "CDW Corp",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG001P63B80",
+    "ISIN": "US12514G1085",
+    "LEI": null,
+    "PrimaryTicker": "CDW.US",
+    "CUSIP": "12514G108",
+    "CIK": "0001402057",
+    "EmployerIdNumber": "26-0273989",
+    "FiscalYearEnd": "December",
+    "IPODate": "1993-05-27",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Electronic Equipment, Instruments & Components",
+    "GicSubIndustry": "Technology Distributors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "CDW Corporation provides information technology (IT) solutions in the United States, the United Kingdom, and Canada. It operates through three segments: Commercial, Government, and Education. The company offers discrete hardware and software products and services, as well as integrated IT solutions, including on-premise and cloud capabilities across hybrid infrastructure, digital experience, and security. It also provides hardware products comprising notebooks/mobile devices, tablets, network communications, collaboration hardware, data storage and servers, desktop computers, and other hardware; and software products, such as cloud solutions, software assurance, application suites, security, virtualization, collaboration and productivity applications, operating systems, and network management. In addition, the company offers advisory and design, software development, implementation, and managed services, as well as warranties. It serves business, government, education, and healthcare customers. The company was formerly known as CDW Computer Centers, Inc. and changed its name to CDW Corporation in June 2003. CDW Corporation was founded in 1984 and is based in Vernon Hills, Illinois.",
+    "Address": "200 N. Milwaukee Avenue, Vernon Hills, IL, United States, 60061",
+    "AddressData": {
+      "Street": "200 N. Milwaukee Avenue",
+      "City": "Vernon Hills",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60061"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Christine A. Leahy J.D.",
+        "Title": "Chair of the Board, President & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Albert Joseph Miralles Jr.",
+        "Title": "CFO & Executive VP of Enterprise Business Operations",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Ms. Elizabeth H. Connelly",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Mukesh  Kumar",
+        "Title": "Executive VP and Chief Services & Solutions Officer",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Mr. Peter Richard Locy",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1982"
+      },
+      "5": {
+        "Name": "Dr. Sanjay  Sood",
+        "Title": "CTO & Senior VP",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Steven J O'Brien",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Frederick J. Kulevich J.D.",
+        "Title": "Chief Legal Officer, Executive VP of Risk & Compliance and Corporate Secretary",
+        "YearBorn": "1966"
+      },
+      "8": {
+        "Name": "Sara  Granack",
+        "Title": "Vice President of Corporate Communications & Reputation",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Anand J. Rao",
+        "Title": "Senior VP and Chief Marketing Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "847 465 6000",
+    "WebURL": "https://www.cdw.com",
+    "LogoURL": "/img/logos/US/CDW.png",
+    "FullTimeEmployees": 14800,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 127974463,
+    "SharesFloat": 128560170,
+    "PercentInsiders": 0.4,
+    "PercentInstitutions": 98.345,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.046
+  }
+}

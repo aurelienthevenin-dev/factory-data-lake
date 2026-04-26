@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 15.7343,
+    "ForwardPE": 27.3224,
+    "PriceSalesTTM": 3.5977,
+    "PriceBookMRQ": 7.8138,
+    "EnterpriseValue": 114369457172,
+    "EnterpriseValueRevenue": 3.667,
+    "EnterpriseValueEbitda": 9.6254
+  },
+  "Highlights": {
+    "MarketCapitalization": 112208183296,
+    "MarketCapitalizationMln": 112208.1833,
+    "EBITDA": 5904999936,
+    "PERatio": 15.7343,
+    "PEGRatio": 2.0058,
+    "WallStreetTargetPrice": 351.0182,
+    "BookValue": 35.592,
+    "DividendShare": 3.35,
+    "DividendYield": 0.012,
+    "EarningsShare": 17.16,
+    "EPSEstimateCurrentYear": 10.0533,
+    "EPSEstimateNextYear": 12.3902,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2301,
+    "OperatingMarginTTM": 0.1323,
+    "ReturnOnAssetsTTM": 0.0488,
+    "ReturnOnEquityTTM": 0.5565,
+    "RevenueTTM": 31189000192,
+    "RevenuePerShareTTM": 74.636,
+    "QuarterlyRevenueGrowthYOY": 0.125,
+    "GrossProfitTTM": 14981999616,
+    "DilutedEpsTTM": 17.16,
+    "QuarterlyEarningsGrowthYOY": 90.104
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.74,
+    "TotalEsgPercentile": 64.72,
+    "EnvironmentScore": 11.54,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 16.76,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 13.44,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "Yes"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "Yes"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SAF",
+    "Type": "Common Stock",
+    "Name": "Safran SA",
+    "Exchange": "PA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "France",
+    "CountryISO": "FR",
+    "OpenFigi": null,
+    "ISIN": "FR0000073272",
+    "LEI": "969500UIC89GT3UL7L24",
+    "PrimaryTicker": "SAF.PA",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "Description": "Safran SA, together with its subsidiaries, engages in the aerospace and defense businesses in France, rest of Europe, the Americas, the Asia-Pacific, Africa, and the Middle East. The company operates through three segments: Aerospace Propulsion; Aircraft Equipment, Defense and Aerosystems; and Aircraft Interiors. The Aerospace Propulsion segment designs, develops, produces, and markets propulsion and mechanical power transmission systems for commercial aircraft, military transport, training and combat aircraft, civil and military helicopters, and drones; and offers maintenance, repair, and overhaul (MRO) services, as well as sells spare parts. The Aircraft Equipment, Defense and Aerosystems segment provides landing gears and brakes; nacelles and reversers; avionics, such as flight controls and onboard information systems; security systems, including evacuation slides and oxygen masks; onboard computers and fuel systems; electrical power management systems and related engineering services; optronic equipment and sights, navigation equipment and sensors, infantry, and drones; MRO services; and sells spare parts. The Aircraft Interiors segment designs, develops, manufactures, and markets aircraft seats for passengers and crew; cabin equipment, overhead bins, class dividers, passenger service units, cabin interior solutions, chilling systems, galleys, electrical inserts, and trolleys; and cabin equipment and passenger comfort-focused solutions such as water distribution, lavatories, air systems, and in-flight entertainment and connectivity (IFEC) solutions. The company's products and services are used in commercial civil and military aircrafts, and helicopters. Safran SA was founded in 1896 and is headquartered in Paris, France.",
+    "Address": "2, boulevard du Général Martial Valin, Paris, France, 75724",
+    "AddressData": {
+      "Street": "2, boulevard du Général Martial Valin",
+      "City": "Paris",
+      "Country": "France",
+      "ZIP": "75724"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Olivier  Andries",
+        "Title": "CEO & Director",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Pascal  Bantegnie",
+        "Title": "CFO & Group Treasurer",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Eric  Dalbies",
+        "Title": "Executive VP of Strategy & CTO",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Frédéric  Verger",
+        "Title": "Executive VP, Chief Digital Officer & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Francis  Gaillard",
+        "Title": "Administration Director",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Florent  Defretin",
+        "Title": "Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Coralie  Bouscasse",
+        "Title": "Group General Counsel",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Kate  Philipps",
+        "Title": "Executive Vice President of Group Communications",
+        "YearBorn": "1964"
+      },
+      "8": {
+        "Name": "Mr. Stéphane  Dubois",
+        "Title": "Executive Vice President of Corporate Human & Social Responsibility",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Ms. Marjolaine  Grange",
+        "Title": "Executive Vice President of Industrial, Purchasing & Performance",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "33 1 40 60 80 80",
+    "WebURL": "https://www.safran-group.com",
+    "LogoURL": "/img/logos/PA/SAF.png",
+    "FullTimeEmployees": 103710,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 415585868,
+    "SharesFloat": 313632060,
+    "PercentInsiders": 17.298,
+    "PercentInstitutions": 44.509,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

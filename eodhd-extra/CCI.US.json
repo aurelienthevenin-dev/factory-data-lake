@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.9887,
+        "totalAssets": 0.0899,
+        "currentShares": 69769393,
+        "change": 386733,
+        "change_p": 0.5574
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.4561,
+        "totalAssets": 0.0771,
+        "currentShares": 45626908,
+        "change": 230741,
+        "change_p": 0.5083
+      },
+      "2": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2125,
+        "totalAssets": 6.2374,
+        "currentShares": 35836607,
+        "change": 5513258,
+        "change_p": 18.1816
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.9794,
+        "totalAssets": 0.0727,
+        "currentShares": 21728541,
+        "change": 266963,
+        "change_p": 1.2439
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.2053,
+        "totalAssets": 0.2178,
+        "currentShares": 13986852,
+        "change": 380419,
+        "change_p": 2.7959
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9855,
+        "totalAssets": 0.0714,
+        "currentShares": 13027749,
+        "change": 184533,
+        "change_p": 1.4368
+      },
+      "6": {
+        "name": "Lazard Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6664,
+        "totalAssets": 1.7519,
+        "currentShares": 11635117,
+        "change": 6445237,
+        "change_p": 124.1886
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.4754,
+        "totalAssets": 0.0631,
+        "currentShares": 10802028,
+        "change": -522611,
+        "change_p": -4.6148
+      },
+      "8": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.6408,
+        "totalAssets": 0.2072,
+        "currentShares": 7159803,
+        "change": 2065247,
+        "change_p": 40.5383
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5334,
+        "totalAssets": 0.0636,
+        "currentShares": 6691459,
+        "change": 564420,
+        "change_p": 9.212
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4753,
+        "totalAssets": 0.0979,
+        "currentShares": 6437685,
+        "change": 1605291,
+        "change_p": 33.2194
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4165,
+        "totalAssets": 0.1152,
+        "currentShares": 6181209,
+        "change": -4706,
+        "change_p": -0.0761
+      },
+      "12": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3808,
+        "totalAssets": 0.1188,
+        "currentShares": 6025433,
+        "change": 403943,
+        "change_p": 7.1857
+      },
+      "13": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3212,
+        "totalAssets": 0.0796,
+        "currentShares": 5765231,
+        "change": 273844,
+        "change_p": 4.9868
+      },
+      "14": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2619,
+        "totalAssets": 0.167,
+        "currentShares": 5506580,
+        "change": 54078,
+        "change_p": 0.9918
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1694,
+        "totalAssets": 0.0148,
+        "currentShares": 5102840,
+        "change": 1445810,
+        "change_p": 39.5351
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1646,
+        "totalAssets": 0.0333,
+        "currentShares": 5081899,
+        "change": -452167,
+        "change_p": -8.1706
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.128,
+        "totalAssets": 0.0744,
+        "currentShares": 4922396,
+        "change": 2270341,
+        "change_p": 85.6069
+      },
+      "18": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1162,
+        "totalAssets": 0.0221,
+        "currentShares": 4870772,
+        "change": -3059836,
+        "change_p": -38.5826
+      },
+      "19": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 1.0565,
+        "totalAssets": 0.3367,
+        "currentShares": 4610319,
+        "change": 2529843,
+        "change_p": 121.5992
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7145,
+        "totalAssets": 2.0282,
+        "currentShares": 16208916,
+        "change": -62717,
+        "change_p": -0.3854
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1769,
+        "totalAssets": 0.0565,
+        "currentShares": 13862868,
+        "change": 89892,
+        "change_p": 0.6527
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5411,
+        "totalAssets": 0.0634,
+        "currentShares": 11088469,
+        "change": -112883,
+        "change_p": -1.0078
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1588,
+        "totalAssets": 0.3854,
+        "currentShares": 9420357,
+        "change": -44669,
+        "change_p": -0.4719
+      },
+      "4": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 1.5789,
+        "totalAssets": 6.4401,
+        "currentShares": 6889885,
+        "change": 281087,
+        "change_p": 4.2532
+      },
+      "5": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 1.5789,
+        "totalAssets": 6.4582,
+        "currentShares": 6889885,
+        "change": 281087,
+        "change_p": 4.2532
+      },
+      "6": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 1.514,
+        "totalAssets": 6.5265,
+        "currentShares": 6606776,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.4899,
+        "totalAssets": 0.9243,
+        "currentShares": 6501644,
+        "change": 236955,
+        "change_p": 3.7824
+      },
+      "8": {
+        "name": "Lazard Global Listed Infrastructure Open",
+        "date": "2026-03-31",
+        "totalShares": 1.481,
+        "totalAssets": 4.3499,
+        "currentShares": 6462793,
+        "change": 613729,
+        "change_p": 10.4928
+      },
+      "9": {
+        "name": "Cohen & Steers Realty Shares L",
+        "date": "2026-03-31",
+        "totalShares": 1.353,
+        "totalAssets": 6.5561,
+        "currentShares": 5904022,
+        "change": -301392,
+        "change_p": -4.8569
+      },
+      "10": {
+        "name": "Lazard Glbl Listed Infrastruct USD Hedge",
+        "date": "2025-12-31",
+        "totalShares": 1.3404,
+        "totalAssets": 4.6524,
+        "currentShares": 5849064,
+        "change": 3200380,
+        "change_p": 120.8291
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2828,
+        "totalAssets": 0.0632,
+        "currentShares": 5597825,
+        "change": -3048,
+        "change_p": -0.0544
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.27,
+        "totalAssets": 0.0662,
+        "currentShares": 5542015,
+        "change": 9136,
+        "change_p": 0.1651
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1581,
+        "totalAssets": 0.0632,
+        "currentShares": 5053534,
+        "change": -12397,
+        "change_p": -0.2447
+      },
+      "14": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9236,
+        "totalAssets": 0.1452,
+        "currentShares": 4030276,
+        "change": -24320,
+        "change_p": -0.5998
+      },
+      "15": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8263,
+        "totalAssets": 4.0052,
+        "currentShares": 3605637,
+        "change": -2188,
+        "change_p": -0.0606
+      },
+      "16": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.6998,
+        "totalAssets": 2.6985,
+        "currentShares": 3053855,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.6854,
+        "totalAssets": 0.7978,
+        "currentShares": 2990702,
+        "change": -1593,
+        "change_p": -0.0532
+      },
+      "18": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6803,
+        "totalAssets": 0.5476,
+        "currentShares": 2968452,
+        "change": 87154,
+        "change_p": 3.0248
+      },
+      "19": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6565,
+        "totalAssets": 2.3803,
+        "currentShares": 2864946,
+        "change": 20718,
+        "change_p": 0.7284
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 36.4304,
+    "ForwardPE": 33.4448,
+    "PriceSalesTTM": 8.9428,
+    "PriceBookMRQ": 8.8551,
+    "EnterpriseValue": 68014870121,
+    "EnterpriseValueRevenue": 16.144,
+    "EnterpriseValueEbitda": 25.3032
+  },
+  "Highlights": {
+    "MarketCapitalization": 37675958272,
+    "MarketCapitalizationMln": 37675.9583,
+    "EBITDA": 2729999872,
+    "PERatio": 36.4304,
+    "PEGRatio": 0.8579,
+    "WallStreetTargetPrice": 98.52,
+    "BookValue": -3.759,
+    "DividendShare": 4.25,
+    "DividendYield": 0.0486,
+    "EarningsShare": 2.37,
+    "EPSEstimateCurrentYear": 2.3717,
+    "EPSEstimateNextYear": 2.9582,
+    "EPSEstimateNextQuarter": 0.4815,
+    "EPSEstimateCurrentQuarter": 0.4709,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2514,
+    "OperatingMarginTTM": 0.4772,
+    "ReturnOnAssetsTTM": 0.0405,
+    "ReturnOnEquityTTM": -2.0668,
+    "RevenueTTM": 4212999936,
+    "RevenuePerShareTTM": 9.679,
+    "QuarterlyRevenueGrowthYOY": -0.048,
+    "GrossProfitTTM": 3110000128,
+    "DilutedEpsTTM": 2.37,
+    "QuarterlyEarningsGrowthYOY": 0.066
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.73,
+    "TotalEsgPercentile": 20.08,
+    "EnvironmentScore": 5.98,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 3.95,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 2.8,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CCI",
+    "Type": "Common Stock",
+    "Name": "Crown Castle",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000FV1Z23",
+    "ISIN": "US22822V1017",
+    "LEI": "54930012H97VSM0I2R19",
+    "PrimaryTicker": "CCI.US",
+    "CUSIP": "22822V101",
+    "CIK": "0001051470",
+    "EmployerIdNumber": "76-0470458",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-08-14",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Specialized REITs",
+    "GicSubIndustry": "Telecom Tower REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Crown Castle Inc. owns, operates and leases approximately 40,000 cell towers and approximately 90,000 route miles of fiber supporting small cells and fiber solutions across every major U.S. market. This nationwide portfolio of communications infrastructure connects cities and communities to essential data, technology and wireless service \" bringing information, ideas and innovations to the people and businesses that need them. Crown Castle Inc. was incorporated in 1994 in Delaware.",
+    "Address": "8020 Katy Freeway, Houston, TX, United States, 77024-1908",
+    "AddressData": {
+      "Street": "8020 Katy Freeway",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77024-1908"
+    },
+    "Listings": {
+      "0": {
+        "Code": "8CW",
+        "Exchange": "F",
+        "Name": "Crown Castle International Corp"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christian H. Hillabrant",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Sunit S. Patel C.F.A.",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Mr. Edward B. Adams Jr.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Daniel K. Schlanger",
+        "Title": "Executive VP & Chief Transformation Officer",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Christopher D. Levendos",
+        "Title": "Executive VP & COO of Network",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Catherine  Piche",
+        "Title": "Executive VP & COO of Towers",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Ms. Karen  Rohrkemper",
+        "Title": "Senior Vice President of Implementation & Operations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Robert Sean Collins",
+        "Title": "Principal Accounting Officer, Vice President & Controller",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Kris  Hinson",
+        "Title": "VP of Corporate Finance & Treasurer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Fiona  McKone",
+        "Title": "Vice President of Communications & Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "713 570 3000",
+    "WebURL": "https://www.crowncastle.com",
+    "LogoURL": "/img/logos/US/cci.png",
+    "FullTimeEmployees": 1500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 436367346,
+    "SharesFloat": 435071320,
+    "PercentInsiders": 0.11,
+    "PercentInstitutions": 99.715,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0275
+  }
+}

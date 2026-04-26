@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 17.4124,
+        "totalAssets": 0.4229,
+        "currentShares": 90961796,
+        "change": 49653913,
+        "change_p": 120.2044
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.3905,
+        "totalAssets": 0.1139,
+        "currentShares": 49055462,
+        "change": 574064,
+        "change_p": 1.1841
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.4864,
+        "totalAssets": 0.1062,
+        "currentShares": 39108457,
+        "change": -531727,
+        "change_p": -1.3414
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.2107,
+        "totalAssets": 0.1465,
+        "currentShares": 27220545,
+        "change": -176371,
+        "change_p": -0.6438
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2582,
+        "totalAssets": 0.1164,
+        "currentShares": 11797004,
+        "change": 69617,
+        "change_p": 0.5936
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0742,
+        "totalAssets": 0.2359,
+        "currentShares": 10835505,
+        "change": 272751,
+        "change_p": 2.5822
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.816,
+        "totalAssets": 0.1625,
+        "currentShares": 9486659,
+        "change": 1186313,
+        "change_p": 14.2923
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7725,
+        "totalAssets": 0.0756,
+        "currentShares": 9259699,
+        "change": 590943,
+        "change_p": 6.8169
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5563,
+        "totalAssets": 0.0764,
+        "currentShares": 8130141,
+        "change": -2104623,
+        "change_p": -20.5635
+      },
+      "9": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.5188,
+        "totalAssets": 0.9976,
+        "currentShares": 7934035,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.1889,
+        "totalAssets": 0.8588,
+        "currentShares": 6210545,
+        "change": 1965837,
+        "change_p": 46.3127
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1175,
+        "totalAssets": 0.1159,
+        "currentShares": 5837570,
+        "change": -721748,
+        "change_p": -11.0034
+      },
+      "12": {
+        "name": "Newport Trust Co.",
+        "date": "2025-12-31",
+        "totalShares": 1.107,
+        "totalAssets": 2.2153,
+        "currentShares": 5783016,
+        "change": -189088,
+        "change_p": -3.1662
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0987,
+        "totalAssets": 0.0604,
+        "currentShares": 5739565,
+        "change": -64439,
+        "change_p": -1.1103
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7952,
+        "totalAssets": 0.1016,
+        "currentShares": 4154112,
+        "change": -527038,
+        "change_p": -11.2587
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7585,
+        "totalAssets": 0.1103,
+        "currentShares": 3962626,
+        "change": -1367482,
+        "change_p": -25.6558
+      },
+      "16": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.7319,
+        "totalAssets": 0.2709,
+        "currentShares": 3823655,
+        "change": 387774,
+        "change_p": 11.286
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7155,
+        "totalAssets": 0.0734,
+        "currentShares": 3737718,
+        "change": 311666,
+        "change_p": 9.0969
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6508,
+        "totalAssets": 0.0846,
+        "currentShares": 3399537,
+        "change": -7508,
+        "change_p": -0.2204
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6499,
+        "totalAssets": 0.1144,
+        "currentShares": 3395149,
+        "change": -1237256,
+        "change_p": -26.7087
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2026,
+        "totalAssets": 0.1217,
+        "currentShares": 16730028,
+        "change": -69117,
+        "change_p": -0.4114
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5673,
+        "totalAssets": 0.1369,
+        "currentShares": 13411216,
+        "change": -252632,
+        "change_p": -1.8489
+      },
+      "2": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 1.8883,
+        "totalAssets": 1.4333,
+        "currentShares": 9864661,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3037,
+        "totalAssets": 0.5237,
+        "currentShares": 6810457,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.296,
+        "totalAssets": 0.1365,
+        "currentShares": 6770159,
+        "change": -3684,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2941,
+        "totalAssets": 0.1492,
+        "currentShares": 6760508,
+        "change": 11150,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1674,
+        "totalAssets": 0.1362,
+        "currentShares": 6098613,
+        "change": -14994,
+        "change_p": -0.2453
+      },
+      "7": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 1.0567,
+        "totalAssets": 1.9245,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "8": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9777,
+        "totalAssets": 0.372,
+        "currentShares": 5107615,
+        "change": -1702842,
+        "change_p": -25.0033
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9318,
+        "totalAssets": 0.3132,
+        "currentShares": 4867929,
+        "change": -77540,
+        "change_p": -1.5679
+      },
+      "10": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7188,
+        "totalAssets": 1.2455,
+        "currentShares": 3755013,
+        "change": 2057,
+        "change_p": 0.0548
+      },
+      "11": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.6626,
+        "totalAssets": 1.301,
+        "currentShares": 3461533,
+        "change": -37561,
+        "change_p": -1.0734
+      },
+      "12": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.5944,
+        "totalAssets": 0.3026,
+        "currentShares": 3104985,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.568,
+        "totalAssets": 0.1366,
+        "currentShares": 2967455,
+        "change": -42542,
+        "change_p": -1.4134
+      },
+      "14": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5603,
+        "totalAssets": 1.5125,
+        "currentShares": 2926842,
+        "change": -20280,
+        "change_p": -0.6881
+      },
+      "15": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.5484,
+        "totalAssets": 1.0092,
+        "currentShares": 2864676,
+        "change": -665693,
+        "change_p": -18.8562
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5382,
+        "totalAssets": 0.1351,
+        "currentShares": 2811579,
+        "change": -20200,
+        "change_p": -0.7133
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4554,
+        "totalAssets": 0.1364,
+        "currentShares": 2378947,
+        "change": -6641,
+        "change_p": -0.2784
+      },
+      "18": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4176,
+        "totalAssets": 0.2238,
+        "currentShares": 2181535,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "UniGlobal Vorsorge",
+        "date": "2026-02-28",
+        "totalShares": 0.4125,
+        "totalAssets": 1.3076,
+        "currentShares": 2154842,
+        "change": -6007,
+        "change_p": -0.278
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 27.914,
+    "ForwardPE": 16.7504,
+    "PriceSalesTTM": 3.0428,
+    "PriceBookMRQ": 23.1516,
+    "EnterpriseValue": 83950802083,
+    "EnterpriseValueRevenue": 3.3548,
+    "EnterpriseValueEbitda": 14.0975
+  },
+  "Highlights": {
+    "MarketCapitalization": 76143607808,
+    "MarketCapitalizationMln": 76143.6078,
+    "EBITDA": 6240000000,
+    "PERatio": 27.914,
+    "PEGRatio": 1.5222,
+    "WallStreetTargetPrice": 175.0271,
+    "BookValue": 6.256,
+    "DividendShare": 2.97,
+    "DividendYield": 0.0205,
+    "EarningsShare": 5.23,
+    "EPSEstimateCurrentYear": 8.6909,
+    "EPSEstimateNextYear": 9.4469,
+    "EPSEstimateNextQuarter": 2.2429,
+    "EPSEstimateCurrentQuarter": 1.9829,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1114,
+    "OperatingMarginTTM": 0.2332,
+    "ReturnOnAssetsTTM": 0.0812,
+    "ReturnOnEquityTTM": 0.7146,
+    "RevenueTTM": 25024000000,
+    "RevenuePerShareTTM": 46.886,
+    "QuarterlyRevenueGrowthYOY": 0.013,
+    "GrossProfitTTM": 9937999872,
+    "DilutedEpsTTM": 5.23,
+    "QuarterlyEarningsGrowthYOY": -0.397
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 35.86,
+    "TotalEsgPercentile": 75.92,
+    "EnvironmentScore": 12.29,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 16,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.57,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MMM",
+    "Type": "Common Stock",
+    "Name": "3M Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BP52R2",
+    "ISIN": "US88579Y1010",
+    "LEI": "LUZQVYP4VS22CLWDAR65",
+    "PrimaryTicker": "MMM.US",
+    "CUSIP": "88579Y101",
+    "CIK": "0000066740",
+    "EmployerIdNumber": "41-0417775",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Conglomerates",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Industrial Conglomerates",
+    "GicSubIndustry": "Industrial Conglomerates",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "3M Company provides diversified technology services in the America, the Asia Pacific, Europe, the Middle East, Africa, and internationally. It operates through three segments: Safety and Industrial, Transportation and Electronics, and Consumer. The Safety and Industrial segment provides industrial abrasives and finishing for metalworking applications; autobody repair solutions; industrial specialty products, such as personal hygiene products, masking, and packaging materials; electrical products and materials for construction and maintenance, power distribution, and electrical original equipment manufacturers; structural adhesives and tapes; respiratory, hearing, eye, and fall protection solutions; and natural and color-coated mineral granules for shingles. The Transportation and Electronics segment provides ceramic solutions; attachment and bonding, films, sound, and temperature management for transportation vehicles; format graphic films for advertising and fleet signage; reflective signage for highway and vehicle safety; light management films and electronics assembly solutions; chip packaging and interconnection solutions; semiconductor production materials; and data center solutions. The Consumer segment offers cleaning products for the home; consumer air quality products; picture hanging accessories; retail abrasives, paint accessories, and safety products; stationery and office products; automotive appearance products; and consumer bandages, tapes, braces, and supports. It serves automotive; commercial solutions; consumer markets; design and construction; electronics; energy; government; manufacturing; safety; transportation industries. The company offers its products through e-commerce and traditional wholesalers, retailers, jobbers, distributors, channel partner, and dealers, as well as directly to users. 3M Company was founded in 1902 and is headquartered in Saint Paul, Minnesota.",
+    "Address": "3M Center, Saint Paul, MN, United States, 55144-1000",
+    "AddressData": {
+      "Street": "3M Center",
+      "City": "Saint Paul",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55144-1000"
+    },
+    "Listings": {
+      "0": {
+        "Code": "MMM",
+        "Exchange": "F",
+        "Name": "3M Company"
+      },
+      "1": {
+        "Code": "MMMC34",
+        "Exchange": "SA",
+        "Name": "3M Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. William M. Brown",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Anurag  Maheshwari",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Kevin H. Rhodes J.D.",
+        "Title": "Executive VP, Chief Legal Affairs Officer & Secretary",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Christian T. Goralski Jr.",
+        "Title": "Group President of Safety & Industrial",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Ms. Wendy A. Bauer",
+        "Title": "Group President of Transportation & Electronics Business Group",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Dr. John P. Banovetz",
+        "Title": "Executive VP, CTO & Environmental Responsibility",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Chinmay  Trivedi",
+        "Title": "Senior Vice President of Investor Relations and Financial Planning & Analysis",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Luigi  Faltoni",
+        "Title": "Managing Director of 3M Brazil",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Mark  Copman",
+        "Title": "Senior Vice President of New Growth Ventures",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Gayle  Schueller",
+        "Title": "Senior VP & Chief Sustainability Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "651 733 1110",
+    "WebURL": "https://www.3m.com",
+    "LogoURL": "/img/logos/US/mmm.png",
+    "FullTimeEmployees": 60500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 521567261,
+    "SharesFloat": 520701459,
+    "PercentInsiders": 0.099,
+    "PercentInstitutions": 77.615,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0145
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Massachusetts Mutual Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 18.3052,
+        "totalAssets": 88.1061,
+        "currentShares": 81332319,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9208,
+        "totalAssets": 0.0202,
+        "currentShares": 52965761,
+        "change": 947693,
+        "change_p": 1.8219
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4862,
+        "totalAssets": 0.0151,
+        "currentShares": 37705292,
+        "change": -7534036,
+        "change_p": -16.6537
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.844,
+        "totalAssets": 0.0171,
+        "currentShares": 21522492,
+        "change": -738212,
+        "change_p": -3.3162
+      },
+      "4": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 4.6734,
+        "totalAssets": 0.1144,
+        "currentShares": 20764685,
+        "change": -565962,
+        "change_p": -2.6533
+      },
+      "5": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1245,
+        "totalAssets": 0.1534,
+        "currentShares": 13882786,
+        "change": 1014863,
+        "change_p": 7.8868
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4589,
+        "totalAssets": 0.0177,
+        "currentShares": 10925140,
+        "change": -277914,
+        "change_p": -2.4807
+      },
+      "7": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9992,
+        "totalAssets": 0.1224,
+        "currentShares": 8882863,
+        "change": -936136,
+        "change_p": -9.5339
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7177,
+        "totalAssets": 0.0106,
+        "currentShares": 7631911,
+        "change": 969505,
+        "change_p": 14.5519
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.446,
+        "totalAssets": 0.0207,
+        "currentShares": 6424969,
+        "change": 205521,
+        "change_p": 3.3045
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4056,
+        "totalAssets": 0.0183,
+        "currentShares": 6245156,
+        "change": -325356,
+        "change_p": -4.9518
+      },
+      "11": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2398,
+        "totalAssets": 0.0494,
+        "currentShares": 5508744,
+        "change": 310903,
+        "change_p": 5.9814
+      },
+      "12": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.1235,
+        "totalAssets": 0.0361,
+        "currentShares": 4992076,
+        "change": -2932641,
+        "change_p": -37.0063
+      },
+      "13": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.985,
+        "totalAssets": 0.0179,
+        "currentShares": 4376599,
+        "change": -48498,
+        "change_p": -1.096
+      },
+      "14": {
+        "name": "Samlyn Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9478,
+        "totalAssets": 1.7623,
+        "currentShares": 4211041,
+        "change": 2268260,
+        "change_p": 116.7533
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8784,
+        "totalAssets": 0.011,
+        "currentShares": 3902656,
+        "change": 615522,
+        "change_p": 18.7252
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7669,
+        "totalAssets": 0.0123,
+        "currentShares": 3407607,
+        "change": -2332421,
+        "change_p": -40.6343
+      },
+      "17": {
+        "name": "Macquarie Group Ltd",
+        "date": "2025-12-31",
+        "totalShares": 0.6705,
+        "totalAssets": 0.3421,
+        "currentShares": 2979258,
+        "change": 27065,
+        "change_p": 0.9168
+      },
+      "18": {
+        "name": "Trian Fund Management LP",
+        "date": "2025-12-31",
+        "totalShares": 0.6687,
+        "totalAssets": 1.959,
+        "currentShares": 2970944,
+        "change": -11657511,
+        "change_p": -79.6907
+      },
+      "19": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.6174,
+        "totalAssets": 0.0019,
+        "currentShares": 2743354,
+        "change": 1647281,
+        "change_p": 150.2894
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0068,
+        "totalAssets": 0.0163,
+        "currentShares": 13359423,
+        "change": -708158,
+        "change_p": -5.034
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5446,
+        "totalAssets": 0.0193,
+        "currentShares": 11305873,
+        "change": -140647,
+        "change_p": -1.2287
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.1904,
+        "totalAssets": 0.1423,
+        "currentShares": 9732109,
+        "change": -375687,
+        "change_p": -3.7168
+      },
+      "3": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.0965,
+        "totalAssets": 1.0151,
+        "currentShares": 9315137,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6316,
+        "totalAssets": 0.2065,
+        "currentShares": 7249488,
+        "change": 21353,
+        "change_p": 0.2954
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3938,
+        "totalAssets": 0.2477,
+        "currentShares": 6192674,
+        "change": -298935,
+        "change_p": -4.6049
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2845,
+        "totalAssets": 0.0193,
+        "currentShares": 5707395,
+        "change": -3108,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2749,
+        "totalAssets": 0.0199,
+        "currentShares": 5664348,
+        "change": 9312,
+        "change_p": 0.1647
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1557,
+        "totalAssets": 0.0192,
+        "currentShares": 5134762,
+        "change": -12642,
+        "change_p": -0.2456
+      },
+      "9": {
+        "name": "DFA US Small Cap Value I",
+        "date": "2026-02-28",
+        "totalShares": 1.1523,
+        "totalAssets": 0.7381,
+        "currentShares": 5119748,
+        "change": 125687,
+        "change_p": 2.5167
+      },
+      "10": {
+        "name": "Fisher All World Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8469,
+        "totalAssets": 0.7015,
+        "currentShares": 3763037,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.7005,
+        "totalAssets": 0.5114,
+        "currentShares": 3112306,
+        "change": 3112306,
+        "change_p": 0
+      },
+      "12": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6916,
+        "totalAssets": 0.5286,
+        "currentShares": 3072948,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6831,
+        "totalAssets": 0.1528,
+        "currentShares": 3035264,
+        "change": 5148,
+        "change_p": 0.1699
+      },
+      "14": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5757,
+        "totalAssets": 0.4909,
+        "currentShares": 2557791,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5626,
+        "totalAssets": 0.0192,
+        "currentShares": 2499913,
+        "change": -23648,
+        "change_p": -0.9371
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5334,
+        "totalAssets": 0.0191,
+        "currentShares": 2370134,
+        "change": -2500,
+        "change_p": -0.1054
+      },
+      "17": {
+        "name": "Dimensional US Small Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4526,
+        "totalAssets": 0.7168,
+        "currentShares": 2010815,
+        "change": 3704,
+        "change_p": 0.1845
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4513,
+        "totalAssets": 0.0192,
+        "currentShares": 2005390,
+        "change": 6671,
+        "change_p": 0.3338
+      },
+      "19": {
+        "name": "T. Rowe Price U.S. Mid-Cap Val Eq Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.4433,
+        "totalAssets": 0.5148,
+        "currentShares": 1969855,
+        "change": 1969855,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 9.542,
+    "PriceSalesTTM": 1.7774,
+    "PriceBookMRQ": 1.1596,
+    "EnterpriseValue": 21649638124,
+    "EnterpriseValueRevenue": 3.3851,
+    "EnterpriseValueEbitda": 14.0589
+  },
+  "Highlights": {
+    "MarketCapitalization": 11334438912,
+    "MarketCapitalizationMln": 11334.4389,
+    "EBITDA": 1280000000,
+    "PERatio": null,
+    "PEGRatio": 0.3832,
+    "WallStreetTargetPrice": 27.4546,
+    "BookValue": 21.893,
+    "DividendShare": 0.84,
+    "DividendYield": 0.0331,
+    "EarningsShare": -1.6,
+    "EPSEstimateCurrentYear": 2.5623,
+    "EPSEstimateNextYear": 2.8882,
+    "EPSEstimateNextQuarter": 0.5911,
+    "EPSEstimateCurrentQuarter": 0.5789,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0442,
+    "OperatingMarginTTM": 0.2038,
+    "ReturnOnAssetsTTM": 0.026,
+    "ReturnOnEquityTTM": -0.0122,
+    "RevenueTTM": 6377099776,
+    "RevenuePerShareTTM": 14.09,
+    "QuarterlyRevenueGrowthYOY": 0.062,
+    "GrossProfitTTM": 1822099968,
+    "DilutedEpsTTM": -1.6,
+    "QuarterlyEarningsGrowthYOY": 4.5
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.23,
+    "TotalEsgPercentile": 46.12,
+    "EnvironmentScore": 7.01,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 17.33,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 15.4,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "IVZ",
+    "Type": "Common Stock",
+    "Name": "Invesco Plc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BY2Y78",
+    "ISIN": "BMG491BT1088",
+    "LEI": "ECPGFXU8A2SHKVVGJI15",
+    "PrimaryTicker": "IVZ.US",
+    "CUSIP": "G491BT108",
+    "CIK": "0000914208",
+    "EmployerIdNumber": "98-0557567",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-08-24",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Asset Management & Custody Banks",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Invesco Ltd. is a publicly owned investment manager. The firm provides its services to retail clients, institutional clients, high-net worth clients, public entities, corporations, unions, non-profit organizations, endowments, foundations, pension funds, financial institutions, and sovereign wealth funds. It manages separate client-focused equity and fixed income portfolios. The firm also launches equity, commodity, fixed income, multi-asset, and balanced mutual funds for its clients. It launches equity, fixed income, multi-asset, and balanced exchange-traded funds. The firm also launches and manages private funds. It invests in the public equity and fixed income markets across the globe. The firm prefers to invest between $5 million and $15 million in companies. The firm also invests in alternative markets, such as commodities and currencies. For the equity portion of its portfolio, it invests in growth and value stocks of large-cap, mid-cap, and small-cap companies. For the fixed income portion of its portfolio, the firm invests in convertibles, government bonds, municipal bonds, treasury securities, and cash. It also invests in short term and intermediate term bonds, investment grade and high yield bonds, taxable and tax-free bonds, senior secured loans, and structured securities such as asset-backed securities, mortgage-backed securities, and commercial mortgage-backed securities. The firm employs absolute return, global macro, and long/short strategies. It employs quantitative analysis to make its investments. The firm was formerly known as Invesco Plc, AMVESCAP plc, Amvesco plc, Invesco PLC, Invesco MIM, and H. Lotery & Co. Ltd. Invesco Ltd. was founded in 1935 and is based in Atlanta, Georgia with an additional office in Asia, Europe, Africa and North America.",
+    "Address": "Midtown Union, Atlanta, GA, United States, 30309",
+    "AddressData": {
+      "Street": "Midtown Union",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30309"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Shannon Anastasia Johnston",
+        "Title": "Senior MD and Chief Information & Operations Officer",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Ms. Stephanie  Botha",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "2": {
+        "Name": "Mr. Gregory Wade Ketron CPA",
+        "Title": "Head of Investor Relations & Treasury",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Mr. Jeffrey Howard Kupor J.D.",
+        "Title": "Senior MD, General Counsel & Company Secretary",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Alan Leonard Smith",
+        "Title": "Senior MD & Chief Human Resources Officer",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Mark Hurst Williamson",
+        "Title": "Executive Vice President and Senior Managing Director",
+        "YearBorn": "1952"
+      },
+      "6": {
+        "Name": "Rhoni  Seguin",
+        "Title": "Managing Director of West",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Brian  Schneider C.F.A.",
+        "Title": "Head of US Interest Rates Portfolio Management & Senior Portfolio Manager for Fixed Income",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Ronald S. Sloan C.F.A.",
+        "Title": "Chief Investment Officer of Domestic Core Investment Mgmt Unit, MD & Senior Portfolio Manager",
+        "YearBorn": "1946"
+      },
+      "9": {
+        "Name": "Mr. Mark E. Paris",
+        "Title": "CIO & Head of Municipals, Head of Portfolio Management & Trading and Senior Portfolio Manager",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "404 892 0896",
+    "WebURL": "https://www.invesco.com/corporate/en/home.html",
+    "LogoURL": "/img/logos/US/IVZ.png",
+    "FullTimeEmployees": 7499,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 444313529,
+    "SharesFloat": 358452918,
+    "PercentInsiders": 0.633,
+    "PercentInstitutions": 94.86099999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.066
+  }
+}

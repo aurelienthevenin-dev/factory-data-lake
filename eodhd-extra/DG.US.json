@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4004,
+        "totalAssets": 0.0526,
+        "currentShares": 27309045,
+        "change": 412542,
+        "change_p": 1.5338
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.8366,
+        "totalAssets": 0.0432,
+        "currentShares": 23864980,
+        "change": 1161552,
+        "change_p": 5.1162
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.9782,
+        "totalAssets": 0.0393,
+        "currentShares": 10963378,
+        "change": 913373,
+        "change_p": 9.0883
+      },
+      "3": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.8481,
+        "totalAssets": 4.2438,
+        "currentShares": 10676823,
+        "change": -1000846,
+        "change_p": -8.5706
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5918,
+        "totalAssets": 0.0466,
+        "currentShares": 5707809,
+        "change": 42936,
+        "change_p": 0.7579
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1095,
+        "totalAssets": 0.0291,
+        "currentShares": 4645585,
+        "change": -194538,
+        "change_p": -4.0193
+      },
+      "6": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0061,
+        "totalAssets": 1.0323,
+        "currentShares": 4417971,
+        "change": -1559034,
+        "change_p": -26.0839
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.7165,
+        "totalAssets": 0.0265,
+        "currentShares": 3780238,
+        "change": 34875,
+        "change_p": 0.9312
+      },
+      "8": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6958,
+        "totalAssets": 0.2601,
+        "currentShares": 3734500,
+        "change": 1208892,
+        "change_p": 47.8654
+      },
+      "9": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 1.5058,
+        "totalAssets": 0.3659,
+        "currentShares": 3316155,
+        "change": 68723,
+        "change_p": 2.1162
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2488,
+        "totalAssets": 0.0448,
+        "currentShares": 2750245,
+        "change": 204300,
+        "change_p": 8.0245
+      },
+      "11": {
+        "name": "Life Cycle Investment Partners Limited",
+        "date": "2025-12-31",
+        "totalShares": 1.2425,
+        "totalAssets": 2.5415,
+        "currentShares": 2736302,
+        "change": 2736302,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2375,
+        "totalAssets": 0.0444,
+        "currentShares": 2725276,
+        "change": 188949,
+        "change_p": 7.4497
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2373,
+        "totalAssets": 0.0759,
+        "currentShares": 2724822,
+        "change": 128572,
+        "change_p": 4.9522
+      },
+      "14": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.2306,
+        "totalAssets": 0.0459,
+        "currentShares": 2710024,
+        "change": -2223600,
+        "change_p": -45.0703
+      },
+      "15": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.2263,
+        "totalAssets": 0.21,
+        "currentShares": 2700693,
+        "change": -111104,
+        "change_p": -3.9514
+      },
+      "16": {
+        "name": "Alpine Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1922,
+        "totalAssets": 5.4356,
+        "currentShares": 2625611,
+        "change": -1269795,
+        "change_p": -32.5972
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1163,
+        "totalAssets": 0.0634,
+        "currentShares": 2458407,
+        "change": 339446,
+        "change_p": 16.0195
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0049,
+        "totalAssets": 0.0293,
+        "currentShares": 2213042,
+        "change": 24669,
+        "change_p": 1.1273
+      },
+      "19": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.002,
+        "totalAssets": 0.6153,
+        "currentShares": 2206721,
+        "change": 510408,
+        "change_p": 30.0893
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1747,
+        "totalAssets": 0.0416,
+        "currentShares": 6991422,
+        "change": 30977,
+        "change_p": 0.445
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5453,
+        "totalAssets": 0.0468,
+        "currentShares": 5605341,
+        "change": -56014,
+        "change_p": -0.9894
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1592,
+        "totalAssets": 0.2841,
+        "currentShares": 4755111,
+        "change": -28894,
+        "change_p": -0.604
+      },
+      "3": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.4465,
+        "totalAssets": 0.6317,
+        "currentShares": 3185579,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 1.3096,
+        "totalAssets": 2.2828,
+        "currentShares": 2884035,
+        "change": -350624,
+        "change_p": -10.8396
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2846,
+        "totalAssets": 0.0466,
+        "currentShares": 2829014,
+        "change": -1536,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2719,
+        "totalAssets": 0.0584,
+        "currentShares": 2801127,
+        "change": 4620,
+        "change_p": 0.1652
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1571,
+        "totalAssets": 0.0465,
+        "currentShares": 2548179,
+        "change": -6272,
+        "change_p": -0.2455
+      },
+      "8": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0458,
+        "totalAssets": 1.7645,
+        "currentShares": 2303035,
+        "change": -1038,
+        "change_p": -0.0451
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9238,
+        "totalAssets": 0.107,
+        "currentShares": 2034441,
+        "change": -14439,
+        "change_p": -0.7047
+      },
+      "10": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 0.8122,
+        "totalAssets": 0.9831,
+        "currentShares": 1788691,
+        "change": -363765,
+        "change_p": -16.9
+      },
+      "11": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.8062,
+        "totalAssets": 0.2438,
+        "currentShares": 1775365,
+        "change": 1775365,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Pzena Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.6695,
+        "totalAssets": 2.6231,
+        "currentShares": 1474332,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6502,
+        "totalAssets": 0.4893,
+        "currentShares": 1431852,
+        "change": 58056,
+        "change_p": 4.226
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5629,
+        "totalAssets": 0.0466,
+        "currentShares": 1239589,
+        "change": -6422,
+        "change_p": -0.5154
+      },
+      "15": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5449,
+        "totalAssets": 0.1671,
+        "currentShares": 1200038,
+        "change": 3537,
+        "change_p": 0.2956
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5336,
+        "totalAssets": 0.0462,
+        "currentShares": 1175050,
+        "change": 1700,
+        "change_p": 0.1449
+      },
+      "17": {
+        "name": "Franklin Mutual Shares Z",
+        "date": "2026-03-31",
+        "totalShares": 0.4662,
+        "totalAssets": 1.8218,
+        "currentShares": 1026738,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4514,
+        "totalAssets": 0.0466,
+        "currentShares": 994147,
+        "change": 5690,
+        "change_p": 0.5756
+      },
+      "19": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4442,
+        "totalAssets": 0.6394,
+        "currentShares": 978338,
+        "change": 3966,
+        "change_p": 0.407
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 17.6477,
+    "ForwardPE": 16.9779,
+    "PriceSalesTTM": 0.6222,
+    "PriceBookMRQ": 3.158,
+    "EnterpriseValue": 41460979619,
+    "EnterpriseValueRevenue": 0.9704,
+    "EnterpriseValueEbitda": 12.7908
+  },
+  "Highlights": {
+    "MarketCapitalization": 26583519232,
+    "MarketCapitalizationMln": 26583.5192,
+    "EBITDA": 3307086080,
+    "PERatio": 17.6477,
+    "PEGRatio": 1.4147,
+    "WallStreetTargetPrice": 147.2143,
+    "BookValue": 38.652,
+    "DividendShare": 2.36,
+    "DividendYield": 0.0193,
+    "EarningsShare": 6.84,
+    "EPSEstimateCurrentYear": 6.5513,
+    "EPSEstimateNextYear": 7.2202,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.6377,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0354,
+    "OperatingMarginTTM": 0.0608,
+    "ReturnOnAssetsTTM": 0.0455,
+    "ReturnOnEquityTTM": 0.1899,
+    "RevenueTTM": 42724368384,
+    "RevenuePerShareTTM": 194.122,
+    "QuarterlyRevenueGrowthYOY": 0.059,
+    "GrossProfitTTM": 13099688960,
+    "DilutedEpsTTM": 6.84,
+    "QuarterlyEarningsGrowthYOY": 1.219
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.04,
+    "TotalEsgPercentile": 9.95,
+    "EnvironmentScore": 0.75,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 3.99,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 0.79,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DG",
+    "Type": "Common Stock",
+    "Name": "Dollar General Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000NV1KK7",
+    "ISIN": "US2566771059",
+    "LEI": "OPX52SQVOZI8IVSWYU66",
+    "PrimaryTicker": "DG.US",
+    "CUSIP": "256677105",
+    "CIK": "0000029534",
+    "EmployerIdNumber": "61-0502302",
+    "FiscalYearEnd": "January",
+    "IPODate": "2009-11-13",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Consumer Staples Distribution & Retail",
+    "GicIndustry": "Consumer Staples Distribution & Retail",
+    "GicSubIndustry": "Consumer Staples Merchandise Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Dollar General Corporation, a discount retailer, provides various merchandise products in the southern, southwestern, midwestern, and eastern United States. It offers consumable products, including paper towels, bath tissues, paper dinnerware, trash and storage bags, disinfectants, and laundry products; packaged food, such as cereals, pasta, canned soups, canned meats, fruits and vegetables, condiments, spices, sugar, and flour; and perishables, including milk, eggs, bread, refrigerated and frozen food, beer, wine, and produce; candy, cookies, crackers, salty snacks, and carbonated beverages; over-the-counter medicines and personal care products including soap, body wash, shampoo, cosmetics, dental hygiene and foot care products; pet supplies and pet food; and tobacco products. The company also provides seasonal products comprising holiday items, toys, batteries, small electronics, greeting cards, stationery, prepaid phones and accessories, gardening supplies, hardware, automotive, and home office supplies; home products include kitchen supplies, cookware, small appliances, light bulbs, storage containers, frames, candles, craft supplies and kitchen, and bed and bath soft goods; and apparel products for infants, toddlers, girls, boys, women and men, as well as socks, underwear, disposable diapers, shoes and accessories. The company was formerly known as J.L. Turner & Son, Inc. and changed its name to Dollar General Corporation in 1968. Dollar General Corporation was founded in 1939 and is based in Goodlettsville, Tennessee.",
+    "Address": "100 Mission Ridge, Goodlettsville, TN, United States, 37072",
+    "AddressData": {
+      "Street": "100 Mission Ridge",
+      "City": "Goodlettsville",
+      "State": "TN",
+      "Country": "United States",
+      "ZIP": "37072"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DGCO34",
+        "Exchange": "SA",
+        "Name": "Dollar General Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Todd J. Vasos",
+        "Title": "CEO & Director",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Donny H. Lau",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1980"
+      },
+      "2": {
+        "Name": "Ms. Emily C. Taylor",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Mr. Carman R. Wenkoff",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Ms. Rhonda M. Taylor J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Ms. Anita C. Elliott",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Kevin  Walker",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Tony  Rogers",
+        "Title": "Senior VP & CMO",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Kathleen A. Reardon",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Mr. Roderick J. West",
+        "Title": "Executive Vice President of Global Supply Chain",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "615 855 4000",
+    "WebURL": "https://www.dollargeneral.com",
+    "LogoURL": "/img/logos/US/DG.png",
+    "FullTimeEmployees": 194000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 220226320,
+    "SharesFloat": 218612061,
+    "PercentInsiders": 0.27999999999999997,
+    "PercentInstitutions": 102.20400000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0461
+  }
+}

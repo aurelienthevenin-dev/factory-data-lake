@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.3753,
+        "totalAssets": 0.0735,
+        "currentShares": 36784866,
+        "change": -70037,
+        "change_p": -0.19
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 11.0047,
+        "totalAssets": 0.0707,
+        "currentShares": 30265241,
+        "change": -1380791,
+        "change_p": -4.3632
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.8293,
+        "totalAssets": 0.0744,
+        "currentShares": 16031840,
+        "change": 55983,
+        "change_p": 0.3504
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.3105,
+        "totalAssets": 0.0833,
+        "currentShares": 11854889,
+        "change": -1727189,
+        "change_p": -12.7167
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.1145,
+        "totalAssets": 0.1222,
+        "currentShares": 8565521,
+        "change": -1111620,
+        "change_p": -11.4871
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8903,
+        "totalAssets": 0.0674,
+        "currentShares": 7948948,
+        "change": 34274,
+        "change_p": 0.433
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9385,
+        "totalAssets": 0.112,
+        "currentShares": 5331293,
+        "change": 496821,
+        "change_p": 10.2766
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.8916,
+        "totalAssets": 0.0208,
+        "currentShares": 5202430,
+        "change": 1783733,
+        "change_p": 52.1758
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6824,
+        "totalAssets": 0.1338,
+        "currentShares": 4627011,
+        "change": -13856,
+        "change_p": -0.2986
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6141,
+        "totalAssets": 0.0654,
+        "currentShares": 4439218,
+        "change": 448293,
+        "change_p": 11.2328
+      },
+      "10": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.596,
+        "totalAssets": 0.5212,
+        "currentShares": 4389329,
+        "change": 81712,
+        "change_p": 1.8969
+      },
+      "11": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.5268,
+        "totalAssets": 0.1216,
+        "currentShares": 4199105,
+        "change": -110272,
+        "change_p": -2.5589
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4123,
+        "totalAssets": 0.0314,
+        "currentShares": 3884167,
+        "change": 227262,
+        "change_p": 6.2146
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4048,
+        "totalAssets": 0.0659,
+        "currentShares": 3863597,
+        "change": -68746,
+        "change_p": -1.7482
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2279,
+        "totalAssets": 0.1123,
+        "currentShares": 3376931,
+        "change": 108765,
+        "change_p": 3.328
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1947,
+        "totalAssets": 0.0297,
+        "currentShares": 3285731,
+        "change": 3906,
+        "change_p": 0.119
+      },
+      "16": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1896,
+        "totalAssets": 0.3277,
+        "currentShares": 3271691,
+        "change": 109254,
+        "change_p": 3.4547
+      },
+      "17": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1184,
+        "totalAssets": 0.2392,
+        "currentShares": 3075791,
+        "change": -99586,
+        "change_p": -3.1362
+      },
+      "18": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.1144,
+        "totalAssets": 0.921,
+        "currentShares": 3064831,
+        "change": -137381,
+        "change_p": -4.2902
+      },
+      "19": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0438,
+        "totalAssets": 0.1276,
+        "currentShares": 2870734,
+        "change": -72476,
+        "change_p": -2.4625
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.183,
+        "totalAssets": 0.0593,
+        "currentShares": 8753921,
+        "change": -47234,
+        "change_p": -0.5367
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5822,
+        "totalAssets": 0.0675,
+        "currentShares": 7101557,
+        "change": -66550,
+        "change_p": -0.9284
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1668,
+        "totalAssets": 0.4055,
+        "currentShares": 5959095,
+        "change": -97420,
+        "change_p": -1.6085
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3037,
+        "totalAssets": 0.0673,
+        "currentShares": 3585504,
+        "change": -1956,
+        "change_p": -0.0545
+      },
+      "4": {
+        "name": "iShares U.S. Equity Fac Rotation Act ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2929,
+        "totalAssets": 1.6014,
+        "currentShares": 3555635,
+        "change": 2070,
+        "change_p": 0.0583
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2894,
+        "totalAssets": 0.0667,
+        "currentShares": 3546189,
+        "change": 5859,
+        "change_p": 0.1655
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1788,
+        "totalAssets": 0.0674,
+        "currentShares": 3241846,
+        "change": -7938,
+        "change_p": -0.2443
+      },
+      "7": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0414,
+        "totalAssets": 1.9516,
+        "currentShares": 2863992,
+        "change": 1972,
+        "change_p": 0.0689
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.927,
+        "totalAssets": 0.1528,
+        "currentShares": 2549551,
+        "change": -43585,
+        "change_p": -1.6808
+      },
+      "9": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.7018,
+        "totalAssets": 1.7432,
+        "currentShares": 1930000,
+        "change": -128000,
+        "change_p": -6.2196
+      },
+      "10": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6933,
+        "totalAssets": 0.5342,
+        "currentShares": 1906673,
+        "change": 3234,
+        "change_p": 0.1699
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6525,
+        "totalAssets": 0.6985,
+        "currentShares": 1794464,
+        "change": 55266,
+        "change_p": 3.1777
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5713,
+        "totalAssets": 0.0673,
+        "currentShares": 1571273,
+        "change": -6480,
+        "change_p": -0.4107
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5678,
+        "totalAssets": 0.1799,
+        "currentShares": 1561590,
+        "change": 13733,
+        "change_p": 0.8872
+      },
+      "14": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5512,
+        "totalAssets": 1.2589,
+        "currentShares": 1515971,
+        "change": -61388,
+        "change_p": -3.8918
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5413,
+        "totalAssets": 0.0666,
+        "currentShares": 1488814,
+        "change": 3400,
+        "change_p": 0.2289
+      },
+      "16": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.5366,
+        "totalAssets": 1.2006,
+        "currentShares": 1475658,
+        "change": -18572,
+        "change_p": -1.2429
+      },
+      "17": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.4854,
+        "totalAssets": 0.0851,
+        "currentShares": 1334842,
+        "change": 114006,
+        "change_p": 9.3384
+      },
+      "18": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4678,
+        "totalAssets": 0.204,
+        "currentShares": 1286526,
+        "change": 3799,
+        "change_p": 0.2962
+      },
+      "19": {
+        "name": "T. Rowe Price US Dividend Growth Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.464,
+        "totalAssets": 0.732,
+        "currentShares": 1275970,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 9.821,
+    "ForwardPE": 10.2041,
+    "PriceSalesTTM": 1.2989,
+    "PriceBookMRQ": 2.0693,
+    "EnterpriseValue": 41396888749,
+    "EnterpriseValueRevenue": 1.5091,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 36856889344,
+    "MarketCapitalizationMln": 36856.8893,
+    "EBITDA": 5232000000,
+    "PERatio": 9.821,
+    "PEGRatio": 0.1186,
+    "WallStreetTargetPrice": 150.2,
+    "BookValue": 67.329,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 13.69,
+    "EPSEstimateCurrentYear": 13.4171,
+    "EPSEstimateNextYear": 14.5255,
+    "EPSEstimateNextQuarter": 3.3508,
+    "EPSEstimateCurrentQuarter": 3.3894,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1352,
+    "OperatingMarginTTM": 0.2002,
+    "ReturnOnAssetsTTM": 0.0372,
+    "ReturnOnEquityTTM": 0.2166,
+    "RevenueTTM": 28376000512,
+    "RevenuePerShareTTM": 100.482,
+    "QuarterlyRevenueGrowthYOY": 0.067,
+    "GrossProfitTTM": 10622000128,
+    "DilutedEpsTTM": 13.69,
+    "QuarterlyEarningsGrowthYOY": 0.382
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.09,
+    "TotalEsgPercentile": 28.92,
+    "EnvironmentScore": 4.48,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 11.58,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 15.54,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HIG",
+    "Type": "Common Stock",
+    "Name": "Hartford Financial Services Group",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000G0Z878",
+    "ISIN": "US4165151048",
+    "LEI": "IU7C3FTM7Y3BQM112U94",
+    "PrimaryTicker": "HIG.US",
+    "CUSIP": "45068H106",
+    "CIK": "0000874766",
+    "EmployerIdNumber": "13-3317783",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-12-20",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Multi-line Insurance",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "The Hartford Insurance Group, Inc., together with its subsidiaries, provides insurance and financial services to individual and business customers in the United States, the United Kingdom, and internationally. It operates through Business Insurance, Personal Insurance, Property & Casualty Other Operations, Employee Benefits and Hartford Funds. The company offers insurance coverage, including workers' compensation, property, automobile, general and professional liability, package business, umbrella, fidelity and surety, marine, livestock, accident, health, and reinsurance through regional offices, branches, sales and policyholder service centers, independent retail agents and brokers, wholesale agents, and reinsurance brokers. The company also provides automobiles, homeowners, and personal umbrella coverages. The Property & Casualty Other Operations segment offers coverage for asbestos and environmental exposures. In addition, it provides group life, disability, and other group coverages to members of employer groups, associations, and affinity groups through direct insurance policies; reinsurance to other insurance companies; employer paid and voluntary product coverages; disability underwriting, administration, and claims processing to self-funded employer plans; leave management solution; distributes its group insurance products and services through brokers, consultants, third-party administrators, trade associations, and private exchanges. Further, the company offers managed mutual funds across various asset classes; and exchange-traded funds through broker-dealer organizations, independent financial advisers, defined contribution plans, financial consultants, bank trust, and registered investment advisers, as well as investment management, distribution, and administrative services, such as product design, implementation, and oversight. The company was founded in 1810 and is headquartered in Hartford, Connecticut.",
+    "Address": "One Hartford Plaza, Hartford, CT, United States, 06155",
+    "AddressData": {
+      "Street": "One Hartford Plaza",
+      "City": "Hartford",
+      "State": "CT",
+      "Country": "United States",
+      "ZIP": "06155"
+    },
+    "Listings": {
+      "0": {
+        "Code": "HGH",
+        "Exchange": "US",
+        "Name": "The Hartford Financial Services Group Inc. DEB FIX/FLT 42"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher Jerome Swift CPA",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Adin Morris Tooker",
+        "Title": "President",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Ms. Amy Marie Stepnowski",
+        "Title": "Executive VP & Chief Investment Officer",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Donald Christian Hunt J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Jeffery  Hawkins",
+        "Title": "Chief Data, AI & Operations Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Allison Gayle Niderno",
+        "Title": "Senior VP, Controller & Principal Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Mr. Shekar  Pannala",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1971"
+      },
+      "7": {
+        "Name": "Ms. Kate  Jorens",
+        "Title": "SVP, Treasurer & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Claire H. Burns",
+        "Title": "Chief Marketing & Customer Officer",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Ms. Lori A. Rodden",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "(860) 547-5000",
+    "WebURL": "https://www.thehartford.com",
+    "LogoURL": "/img/logos/US/HIG.png",
+    "FullTimeEmployees": 19200,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 274130820,
+    "SharesFloat": 274401145,
+    "PercentInsiders": 0.358,
+    "PercentInstitutions": 96.164,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0003
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 15.0754,
+        "totalAssets": 0.031,
+        "currentShares": 77827325,
+        "change": 10099001,
+        "change_p": 14.911
+      },
+      "1": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 13.5682,
+        "totalAssets": 4.0073,
+        "currentShares": 70046251,
+        "change": 12659211,
+        "change_p": 22.0594
+      },
+      "2": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.1327,
+        "totalAssets": 0.0174,
+        "currentShares": 62635136,
+        "change": 109503,
+        "change_p": 0.1751
+      },
+      "3": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 11.0411,
+        "totalAssets": 0.588,
+        "currentShares": 56999970,
+        "change": -396400,
+        "change_p": -0.6906
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.7432,
+        "totalAssets": 0.0339,
+        "currentShares": 34811770,
+        "change": 20239853,
+        "change_p": 138.8963
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2609,
+        "totalAssets": 0.0175,
+        "currentShares": 21997226,
+        "change": 60063,
+        "change_p": 0.2738
+      },
+      "6": {
+        "name": "Greenhaven Associates Inc",
+        "date": "2026-03-31",
+        "totalShares": 2.7715,
+        "totalAssets": 3.9589,
+        "currentShares": 14307688,
+        "change": 3614465,
+        "change_p": 33.8015
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.617,
+        "totalAssets": 0.0159,
+        "currentShares": 13510205,
+        "change": 972891,
+        "change_p": 7.76
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.6058,
+        "totalAssets": 0.0328,
+        "currentShares": 13452292,
+        "change": -8510039,
+        "change_p": -38.7483
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6862,
+        "totalAssets": 0.0312,
+        "currentShares": 8704906,
+        "change": -198012,
+        "change_p": -2.2241
+      },
+      "10": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.636,
+        "totalAssets": 0.204,
+        "currentShares": 8445832,
+        "change": -26642,
+        "change_p": -0.3145
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2641,
+        "totalAssets": 0.009,
+        "currentShares": 6525704,
+        "change": 1347499,
+        "change_p": 26.0225
+      },
+      "12": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.2058,
+        "totalAssets": 0.0934,
+        "currentShares": 6225060,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1993,
+        "totalAssets": 0.0127,
+        "currentShares": 6191263,
+        "change": 722439,
+        "change_p": 13.2101
+      },
+      "14": {
+        "name": "Lazard Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1986,
+        "totalAssets": 0.2004,
+        "currentShares": 6188011,
+        "change": 319533,
+        "change_p": 5.4449
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1178,
+        "totalAssets": 0.0231,
+        "currentShares": 5770845,
+        "change": 2288702,
+        "change_p": 65.7268
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1172,
+        "totalAssets": 0.0039,
+        "currentShares": 5767760,
+        "change": 2095134,
+        "change_p": 57.0473
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0289,
+        "totalAssets": 0.0158,
+        "currentShares": 5311832,
+        "change": 267019,
+        "change_p": 5.2929
+      },
+      "18": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0177,
+        "totalAssets": 0.0081,
+        "currentShares": 5253803,
+        "change": -364156,
+        "change_p": -6.482
+      },
+      "19": {
+        "name": "Equity Investment Corp",
+        "date": "2025-12-31",
+        "totalShares": 0.9485,
+        "totalAssets": 1.8892,
+        "currentShares": 4896701,
+        "change": 237151,
+        "change_p": 5.0896
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 7.4816,
+        "totalAssets": 0.6168,
+        "currentShares": 38623700,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 3.9038,
+        "totalAssets": 2.0797,
+        "currentShares": 20153340,
+        "change": -197854,
+        "change_p": -0.9722
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1752,
+        "totalAssets": 0.0138,
+        "currentShares": 16391903,
+        "change": 126997,
+        "change_p": 0.7808
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5364,
+        "totalAssets": 0.0155,
+        "currentShares": 13094181,
+        "change": -118448,
+        "change_p": -0.8965
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3011,
+        "totalAssets": 0.1201,
+        "currentShares": 11879654,
+        "change": 204673,
+        "change_p": 1.7531
+      },
+      "5": {
+        "name": "Pzena Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 2.0222,
+        "totalAssets": 2.6282,
+        "currentShares": 10439598,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 2.0222,
+        "totalAssets": 0.8258,
+        "currentShares": 10439598,
+        "change": 1867453,
+        "change_p": 21.7851
+      },
+      "7": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.8633,
+        "totalAssets": 0.1895,
+        "currentShares": 9619440,
+        "change": 28427,
+        "change_p": 0.2964
+      },
+      "8": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4642,
+        "totalAssets": 0.2091,
+        "currentShares": 7558977,
+        "change": 61478,
+        "change_p": 0.82
+      },
+      "9": {
+        "name": "Fidelity Series Large Cap Stock",
+        "date": "2026-02-28",
+        "totalShares": 1.3409,
+        "totalAssets": 0.5496,
+        "currentShares": 6922200,
+        "change": 1333000,
+        "change_p": 23.8496
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2819,
+        "totalAssets": 0.0154,
+        "currentShares": 6617659,
+        "change": -3600,
+        "change_p": -0.0544
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2672,
+        "totalAssets": 0.0178,
+        "currentShares": 6542018,
+        "change": 10783,
+        "change_p": 0.1651
+      },
+      "12": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.2203,
+        "totalAssets": 0.4686,
+        "currentShares": 6300000,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1619,
+        "totalAssets": 0.0155,
+        "currentShares": 5998538,
+        "change": -14651,
+        "change_p": -0.2436
+      },
+      "14": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 1.1192,
+        "totalAssets": 0.0533,
+        "currentShares": 5777860,
+        "change": 1081292,
+        "change_p": 23.023
+      },
+      "15": {
+        "name": "Equity Dividend Fund F",
+        "date": "2026-03-31",
+        "totalShares": 0.807,
+        "totalAssets": 1.7988,
+        "currentShares": 4166163,
+        "change": 181206,
+        "change_p": 4.5473
+      },
+      "16": {
+        "name": "Fidelity Growth & Income",
+        "date": "2026-02-28",
+        "totalShares": 0.7887,
+        "totalAssets": 0.5669,
+        "currentShares": 4071900,
+        "change": 1077400,
+        "change_p": 35.9793
+      },
+      "17": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7284,
+        "totalAssets": 0.1627,
+        "currentShares": 3760421,
+        "change": 11408,
+        "change_p": 0.3043
+      },
+      "18": {
+        "name": "Pzena Mid Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.7114,
+        "totalAssets": 2.5249,
+        "currentShares": 3672438,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Selected Value Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7114,
+        "totalAssets": 1.1041,
+        "currentShares": 3672438,
+        "change": -1060404,
+        "change_p": -22.4052
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 9.6899,
+    "PriceSalesTTM": 0.8338,
+    "PriceBookMRQ": 1.5507,
+    "EnterpriseValue": 17189145654,
+    "EnterpriseValueRevenue": 1.5402,
+    "EnterpriseValueEbitda": 22.6086
+  },
+  "Highlights": {
+    "MarketCapitalization": 9375145984,
+    "MarketCapitalizationMln": 9375.146,
+    "EBITDA": 2018000000,
+    "PERatio": null,
+    "PEGRatio": 36.6767,
+    "WallStreetTargetPrice": 22.1154,
+    "BookValue": 11.918,
+    "DividendShare": 0.52,
+    "DividendYield": 0.0282,
+    "EarningsShare": -1.75,
+    "EPSEstimateCurrentYear": 1.9058,
+    "EPSEstimateNextYear": 2.025,
+    "EPSEstimateNextQuarter": 0.4858,
+    "EPSEstimateCurrentQuarter": 0.5353,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0851,
+    "OperatingMarginTTM": 0.0736,
+    "ReturnOnAssetsTTM": 0.0283,
+    "ReturnOnEquityTTM": -0.1371,
+    "RevenueTTM": 11244000256,
+    "RevenuePerShareTTM": 21.918,
+    "QuarterlyRevenueGrowthYOY": 0.08,
+    "GrossProfitTTM": 4017999872,
+    "DilutedEpsTTM": -1.75,
+    "QuarterlyEarningsGrowthYOY": 2.379
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.49,
+    "TotalEsgPercentile": 47.44,
+    "EnvironmentScore": 1.01,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 16.22,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 6.28,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BAX",
+    "Type": "Common Stock",
+    "Name": "Baxter International Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCVJ77",
+    "ISIN": "US0718131099",
+    "LEI": "J5OIVXX3P24RJRW5CK77",
+    "PrimaryTicker": "BAX.US",
+    "CUSIP": "071813141",
+    "CIK": "0000010456",
+    "EmployerIdNumber": "36-0781620",
+    "FiscalYearEnd": "December",
+    "IPODate": "1981-10-27",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Baxter International Inc., through its subsidiaries, provides a portfolio of healthcare products in the United States. The company operates through three segments: Medical Products & Therapies, Healthcare Systems & Technologies, and Pharmaceuticals. It offers sterile intravenous (IV) solutions; infusion systems and devices; parenteral nutrition therapies; inhaled anesthetics; generic injectable pharmaceuticals; surgical hemostat and sealant products; advanced surgical equipment; smart bed systems; patient monitoring and diagnostic technologies; and respiratory health devices, as well as advanced equipment for the surgical space comprising operating room integration technologies, precision positioning devices, and other accessories. The company also provides specialty injectable pharmaceuticals, inhaled anesthetics, and drug compounding services. Its products are used in hospitals, nursing homes, rehabilitation centers, ambulatory surgery centers, doctors' offices, kidney dialysis centers, and patients at home under physician supervision. The company sells its products through direct sales force, independent distributors, drug wholesalers, and specialty pharmacy or other alternate site providers. It operates in Eastern Europe, the Middle East, Africa, Latin America, Asia, Western Europe, Canada, Japan, Australia, and New Zealand. Baxter International Inc. was incorporated in 1931 and is headquartered in Deerfield, Illinois.",
+    "Address": "One Baxter Parkway, Deerfield, IL, United States, 60015",
+    "AddressData": {
+      "Street": "One Baxter Parkway",
+      "City": "Deerfield",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60015"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Andrew P. Hider",
+        "Title": "CEO, President, Interim Group President of Medical Products & Therapies and Director",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Mr. David S. Rosenbloom",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1960"
+      },
+      "2": {
+        "Name": "Mr. Joel T. Grade",
+        "Title": "Advisor",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Ms. Maria  Soriano",
+        "Title": "Group President of Infusion Therapies, Technologies & Pharmaceuticals",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Ms. Anita A. Zielinski",
+        "Title": "Interim CFO, Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. Charles Rusty Patel",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. Kevin  Moran",
+        "Title": "Vice President & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Stacey  Eisen",
+        "Title": "SVP, Chief Communications Officer & Corporate Marketing and President of Baxter Foundation",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Cynthia  Carlisle",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1976"
+      },
+      "9": {
+        "Name": "Mr. James W. Borzi",
+        "Title": "Executive VP & Chief Supply Chain Officer",
+        "YearBorn": "1963"
+      }
+    },
+    "Phone": "224 948 2000",
+    "WebURL": "https://www.baxter.com",
+    "LogoURL": "/img/logos/US/bax.png",
+    "FullTimeEmployees": 37500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 516252514,
+    "SharesFloat": 512051362,
+    "PercentInsiders": 0.32,
+    "PercentInstitutions": 109.89500000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1148
+  }
+}

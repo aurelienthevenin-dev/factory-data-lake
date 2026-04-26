@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Baker Bros Advisors LP",
+        "date": "2025-12-31",
+        "totalShares": 15.4481,
+        "totalAssets": 17.78,
+        "currentShares": 30743991,
+        "change": 328,
+        "change_p": 0.0011
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.005,
+        "totalAssets": 0.0285,
+        "currentShares": 19911434,
+        "change": -40189,
+        "change_p": -0.2014
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9915,
+        "totalAssets": 0.0266,
+        "currentShares": 17894297,
+        "change": -62511,
+        "change_p": -0.3481
+      },
+      "3": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 6.6637,
+        "totalAssets": 0.7071,
+        "currentShares": 13261742,
+        "change": -670674,
+        "change_p": -4.8138
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8624,
+        "totalAssets": 0.0285,
+        "currentShares": 9676796,
+        "change": -198962,
+        "change_p": -2.0147
+      },
+      "5": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.3767,
+        "totalAssets": 0.3482,
+        "currentShares": 6720024,
+        "change": -1203487,
+        "change_p": -15.1888
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5089,
+        "totalAssets": 0.0303,
+        "currentShares": 4993012,
+        "change": 506842,
+        "change_p": 11.2979
+      },
+      "7": {
+        "name": "Renaissance Technologies Corp",
+        "date": "2025-12-31",
+        "totalShares": 1.999,
+        "totalAssets": 0.6096,
+        "currentShares": 3978332,
+        "change": -549800,
+        "change_p": -12.1419
+      },
+      "8": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.9766,
+        "totalAssets": 0.8473,
+        "currentShares": 3933758,
+        "change": -52339,
+        "change_p": -1.313
+      },
+      "9": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.5549,
+        "totalAssets": 0.179,
+        "currentShares": 3094460,
+        "change": -9486,
+        "change_p": -0.3056
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5417,
+        "totalAssets": 0.041,
+        "currentShares": 3068170,
+        "change": -332848,
+        "change_p": -9.7867
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3269,
+        "totalAssets": 0.0136,
+        "currentShares": 2640736,
+        "change": 45980,
+        "change_p": 1.772
+      },
+      "12": {
+        "name": "Robeco Institutional Asset Management BV",
+        "date": "2025-12-31",
+        "totalShares": 1.2465,
+        "totalAssets": 0.349,
+        "currentShares": 2480793,
+        "change": 161405,
+        "change_p": 6.9589
+      },
+      "13": {
+        "name": "Los Angeles Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1501,
+        "totalAssets": 0.7222,
+        "currentShares": 2288874,
+        "change": 527703,
+        "change_p": 29.9632
+      },
+      "14": {
+        "name": "Jacobs Levy Equity Management, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1478,
+        "totalAssets": 0.8712,
+        "currentShares": 2284317,
+        "change": 540523,
+        "change_p": 30.997
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8985,
+        "totalAssets": 0.0371,
+        "currentShares": 1788190,
+        "change": 192061,
+        "change_p": 12.0329
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8706,
+        "totalAssets": 0.0266,
+        "currentShares": 1732639,
+        "change": 15898,
+        "change_p": 0.9261
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8653,
+        "totalAssets": 0.0187,
+        "currentShares": 1722016,
+        "change": 62764,
+        "change_p": 3.7827
+      },
+      "18": {
+        "name": "Pacer Advisors, INC.",
+        "date": "2025-12-31",
+        "totalShares": 0.8559,
+        "totalAssets": 0.4298,
+        "currentShares": 1703271,
+        "change": 454629,
+        "change_p": 36.4099
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7555,
+        "totalAssets": 0.0277,
+        "currentShares": 1503585,
+        "change": -467067,
+        "change_p": -23.7011
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 4.516,
+        "totalAssets": 0.7417,
+        "currentShares": 8987414,
+        "change": -446014,
+        "change_p": -4.728
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7022,
+        "totalAssets": 0.0254,
+        "currentShares": 5377744,
+        "change": 107808,
+        "change_p": 2.0457
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1393,
+        "totalAssets": 0.0282,
+        "currentShares": 4257429,
+        "change": 15803,
+        "change_p": 0.3726
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.9625,
+        "totalAssets": 0.2212,
+        "currentShares": 3905573,
+        "change": 115587,
+        "change_p": 3.0498
+      },
+      "4": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.0986,
+        "totalAssets": 0.522,
+        "currentShares": 2186458,
+        "change": 82257,
+        "change_p": 3.9092
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0795,
+        "totalAssets": 0.0281,
+        "currentShares": 2148262,
+        "change": -1164,
+        "change_p": -0.0542
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0546,
+        "totalAssets": 0.0284,
+        "currentShares": 2098710,
+        "change": 3464,
+        "change_p": 0.1653
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9675,
+        "totalAssets": 0.0279,
+        "currentShares": 1925504,
+        "change": -4753,
+        "change_p": -0.2462
+      },
+      "8": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9216,
+        "totalAssets": 0.2024,
+        "currentShares": 1834094,
+        "change": 5371,
+        "change_p": 0.2937
+      },
+      "9": {
+        "name": "iShares Biotechnology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7391,
+        "totalAssets": 1.7008,
+        "currentShares": 1470975,
+        "change": 3052,
+        "change_p": 0.2079
+      },
+      "10": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7297,
+        "totalAssets": 2.2186,
+        "currentShares": 1452286,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "BB Biotech AG Ord",
+        "date": "2025-09-30",
+        "totalShares": 0.7215,
+        "totalAssets": 4.1879,
+        "currentShares": 1435855,
+        "change": -130000,
+        "change_p": -8.3022
+      },
+      "12": {
+        "name": "iShares MSCI USA Min Vol Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.655,
+        "totalAssets": 0.5445,
+        "currentShares": 1303545,
+        "change": -1608,
+        "change_p": -0.1232
+      },
+      "13": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6139,
+        "totalAssets": 0.2961,
+        "currentShares": 1221846,
+        "change": 3712,
+        "change_p": 0.3047
+      },
+      "14": {
+        "name": "Dodge & Cox Balanced I",
+        "date": "2025-12-31",
+        "totalShares": 0.6012,
+        "totalAssets": 0.7984,
+        "currentShares": 1196400,
+        "change": -47300,
+        "change_p": -3.8032
+      },
+      "15": {
+        "name": "Dodge & Cox Balanced Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.6012,
+        "totalAssets": 0.7939,
+        "currentShares": 1196400,
+        "change": -47300,
+        "change_p": -3.8032
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.473,
+        "totalAssets": 0.0281,
+        "currentShares": 941267,
+        "change": 6346,
+        "change_p": 0.6788
+      },
+      "17": {
+        "name": "State Street® SPDR® S&P® Biotech ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4706,
+        "totalAssets": 1.133,
+        "currentShares": 936593,
+        "change": 55055,
+        "change_p": 6.2453
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4484,
+        "totalAssets": 0.0278,
+        "currentShares": 892364,
+        "change": 13300,
+        "change_p": 1.513
+      },
+      "19": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4242,
+        "totalAssets": 0.4374,
+        "currentShares": 844303,
+        "change": -290,
+        "change_p": -0.0343
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 14.766,
+    "ForwardPE": 12.8205,
+    "PriceSalesTTM": 3.6638,
+    "PriceBookMRQ": 3.6768,
+    "EnterpriseValue": 15459720978,
+    "EnterpriseValueRevenue": 3.007,
+    "EnterpriseValueEbitda": 8.7831
+  },
+  "Highlights": {
+    "MarketCapitalization": 18836721664,
+    "MarketCapitalizationMln": 18836.7217,
+    "EBITDA": 1439769984,
+    "PERatio": 14.766,
+    "PEGRatio": 0.3454,
+    "WallStreetTargetPrice": 107.3636,
+    "BookValue": 26.038,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 6.41,
+    "EPSEstimateCurrentYear": 7.3751,
+    "EPSEstimateNextYear": 8.7257,
+    "EPSEstimateNextQuarter": 1.5679,
+    "EPSEstimateCurrentQuarter": 1.9165,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2503,
+    "OperatingMarginTTM": 0.2557,
+    "ReturnOnAssetsTTM": 0.1357,
+    "ReturnOnEquityTTM": 0.2987,
+    "RevenueTTM": 5141241856,
+    "RevenuePerShareTTM": 26.338,
+    "QuarterlyRevenueGrowthYOY": 0.278,
+    "GrossProfitTTM": 2718960128,
+    "DilutedEpsTTM": 6.41,
+    "QuarterlyEarningsGrowthYOY": 0.436
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.4,
+    "TotalEsgPercentile": 47.86,
+    "EnvironmentScore": 7.61,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 24.73,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.56,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "INCY",
+    "Type": "Common Stock",
+    "Name": "Incyte Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BNPSQ9",
+    "ISIN": "US45337C1027",
+    "LEI": "549300Z4WN6JVZ3T4680",
+    "PrimaryTicker": "INCY.US",
+    "CUSIP": "45337C102",
+    "CIK": "0000879169",
+    "EmployerIdNumber": "94-3136539",
+    "FiscalYearEnd": "December",
+    "IPODate": "1993-11-04",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Biotechnology",
+    "GicSubIndustry": "Biotechnology",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Incyte Corporation, a biopharmaceutical company, engages in the discovery, development, and commercialization of therapeutics in the United States, Europe, Canada, and Japan. The company offers JAKAFI for the treatment of myelofibrosis (MF), polycythemia vera, and steroid-refractory acute graft-versus-host disease; ICLUSIG, a kinase inhibitor to treat chronic myeloid leukemia and Philadelphia-chromosome positive acute lymphoblastic leukemia; MONJUVI/ MINJUVI for the treatment of diffuse large B-cell lymphoma and Follicular Lymphoma; NIKTIMVO for the treatment of chronic graft-versus-host disease. It also provides INCA033989 for the treatment of essential thrombocythemia and MF;  INCA035784 for the treatment of anti-mutant calreticulin and myeloproliferative neoplasms (MPNs); INCB160058 for the treatment of MPNs; PEMAZYRE, a selective fibroblast growth factor receptor kinase inhibitor for the treatment of unresectable biliary tract cancer, metastatic cholangiocarcinoma, and myeloid/lymphoid neoplasms; ZYNYZ to treat adults with metastatic or recurrent locally advanced Merkel cell carcinoma. The company's clinical stage products include INCB123667 for ovarian cancer; INCB161734 for solid tumors; INCA33890 for cancers; Ruxolitinib cream for atopic dermatitis, hidradenitis suppurativa (HS), and prurigo nodularis; Povorcitinib for HS, nonsegmental vitiligo, prurigo nodularis, and asthma; and INCB00928 for the treatment of fibrodysplasia ossificans progressive. It has collaboration and license agreement with Novartis, Lilly, and Syndax. The company sells its products to specialty and retail pharmacies, hospital pharmacies, and distributors. The company was formerly known as Incyte Genomics Inc and changed its name to Incyte Corporation in March 2003. Incyte Corporation was incorporated in 1991 and is headquartered in Wilmington, Delaware.",
+    "Address": "1801 Augustine Cut-Off, Wilmington, DE, United States, 19803",
+    "AddressData": {
+      "Street": "1801 Augustine Cut-Off",
+      "City": "Wilmington",
+      "State": "DE",
+      "Country": "United States",
+      "ZIP": "19803"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Pablo J. Cagnoni M.D., Ph.D.",
+        "Title": "President and Global Head of Research & Development",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Dr. Steven H. Stein M.D.",
+        "Title": "Executive VP, Head of Late-stage Development & Chief Medical Officer",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. William J. Meury",
+        "Title": "CEO & Director",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Thomas  Tray",
+        "Title": "Principal Financial Officer, VP of Finance & Chief Accounting Officer",
+        "YearBorn": "1978"
+      },
+      "4": {
+        "Name": "Mr. Michael James Morrissey",
+        "Title": "Executive VP & Head of Global Technical Operations",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Ms. Alexis  Smith",
+        "Title": "Vice President & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Richard A. Hoffman J.D., M.B.A.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Pamela M. Murphy",
+        "Title": "Vice President of Investor Relations & Corporate Communications",
+        "YearBorn": "1951"
+      },
+      "8": {
+        "Name": "Ms. Soni K. Basi Ph.D.",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. James H. Lee M.D., Ph.D.",
+        "Title": "Group VP, Head of Inflammation & AutoImmunity Group",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "302 498 6700",
+    "WebURL": "https://www.incyte.com",
+    "LogoURL": "/img/logos/US/INCY.png",
+    "FullTimeEmployees": 2844,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 199014486,
+    "SharesFloat": 166622888,
+    "PercentInsiders": 1.96,
+    "PercentInstitutions": 104.96000000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0843
+  }
+}

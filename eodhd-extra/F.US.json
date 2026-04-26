@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.7601,
+        "totalAssets": 0.0897,
+        "currentShares": 471705454,
+        "change": 4087699,
+        "change_p": 0.8742
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5898,
+        "totalAssets": 0.0721,
+        "currentShares": 344542225,
+        "change": 4978950,
+        "change_p": 1.4663
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.678,
+        "totalAssets": 0.0778,
+        "currentShares": 187637070,
+        "change": -1112478,
+        "change_p": -0.5894
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7899,
+        "totalAssets": 0.3099,
+        "currentShares": 152017084,
+        "change": 4089779,
+        "change_p": 2.7647
+      },
+      "4": {
+        "name": "Newport Trust Co.",
+        "date": "2025-12-31",
+        "totalShares": 3.4244,
+        "totalAssets": 4.312,
+        "currentShares": 137356677,
+        "change": -7200811,
+        "change_p": -4.9813
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6576,
+        "totalAssets": 0.0861,
+        "currentShares": 106600353,
+        "change": 1255349,
+        "change_p": 1.1917
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2816,
+        "totalAssets": 0.0722,
+        "currentShares": 51405295,
+        "change": 14047866,
+        "change_p": 37.6039
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1591,
+        "totalAssets": 0.0337,
+        "currentShares": 46492208,
+        "change": -195171,
+        "change_p": -0.418
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1433,
+        "totalAssets": 0.1262,
+        "currentShares": 45857344,
+        "change": 125534,
+        "change_p": 0.2745
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9492,
+        "totalAssets": 0.0613,
+        "currentShares": 38071527,
+        "change": 11526624,
+        "change_p": 43.4231
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9226,
+        "totalAssets": 0.0566,
+        "currentShares": 37005449,
+        "change": -11816,
+        "change_p": -0.0319
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8823,
+        "totalAssets": 0.0667,
+        "currentShares": 35390868,
+        "change": 1597841,
+        "change_p": 4.7283
+      },
+      "12": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8472,
+        "totalAssets": 0.0122,
+        "currentShares": 33980484,
+        "change": 15675697,
+        "change_p": 85.6371
+      },
+      "13": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8012,
+        "totalAssets": 0.0935,
+        "currentShares": 32135432,
+        "change": 179979,
+        "change_p": 0.5632
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7446,
+        "totalAssets": 0.0641,
+        "currentShares": 29866819,
+        "change": 524399,
+        "change_p": 1.7872
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7147,
+        "totalAssets": 0.0745,
+        "currentShares": 28667273,
+        "change": -2747699,
+        "change_p": -8.7465
+      },
+      "16": {
+        "name": "Pacer Advisors, INC.",
+        "date": "2025-12-31",
+        "totalShares": 0.698,
+        "totalAssets": 0.9383,
+        "currentShares": 27995965,
+        "change": -4619061,
+        "change_p": -14.1624
+      },
+      "17": {
+        "name": "Renaissance Technologies Corp",
+        "date": "2025-12-31",
+        "totalShares": 0.6166,
+        "totalAssets": 0.5034,
+        "currentShares": 24730852,
+        "change": -10374857,
+        "change_p": -29.5532
+      },
+      "18": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5453,
+        "totalAssets": 0.558,
+        "currentShares": 21873800,
+        "change": 20015100,
+        "change_p": 1076.8333
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.5397,
+        "totalAssets": 0.0406,
+        "currentShares": 21649325,
+        "change": -8301272,
+        "change_p": -27.7165
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1057,
+        "totalAssets": 0.072,
+        "currentShares": 124572829,
+        "change": 840317,
+        "change_p": 0.6791
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4877,
+        "totalAssets": 0.0809,
+        "currentShares": 99785038,
+        "change": -876563,
+        "change_p": -0.8708
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.1893,
+        "totalAssets": 1.1684,
+        "currentShares": 87814934,
+        "change": 146280,
+        "change_p": 0.1669
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1104,
+        "totalAssets": 0.4916,
+        "currentShares": 84651763,
+        "change": -410906,
+        "change_p": -0.4831
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2563,
+        "totalAssets": 0.0808,
+        "currentShares": 50391605,
+        "change": -27432,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2417,
+        "totalAssets": 0.0937,
+        "currentShares": 49806043,
+        "change": 82110,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1335,
+        "totalAssets": 0.0807,
+        "currentShares": 45467245,
+        "change": -111671,
+        "change_p": -0.245
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9029,
+        "totalAssets": 0.1852,
+        "currentShares": 36217168,
+        "change": -218772,
+        "change_p": -0.6004
+      },
+      "8": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7632,
+        "totalAssets": 1.9445,
+        "currentShares": 30613630,
+        "change": -10542,
+        "change_p": -0.0344
+      },
+      "9": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 1.3508,
+        "currentShares": 26090688,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6355,
+        "totalAssets": 0.8467,
+        "currentShares": 25490264,
+        "change": 1063614,
+        "change_p": 4.3543
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5504,
+        "totalAssets": 0.0807,
+        "currentShares": 22077675,
+        "change": -82978,
+        "change_p": -0.3744
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5215,
+        "totalAssets": 0.0799,
+        "currentShares": 20918148,
+        "change": 55600,
+        "change_p": 0.2665
+      },
+      "13": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5159,
+        "totalAssets": 1.1248,
+        "currentShares": 20692116,
+        "change": -271716,
+        "change_p": -1.2961
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4413,
+        "totalAssets": 0.0806,
+        "currentShares": 17698946,
+        "change": 123887,
+        "change_p": 0.7049
+      },
+      "15": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3879,
+        "totalAssets": 0.0881,
+        "currentShares": 15559356,
+        "change": -126084,
+        "change_p": -0.8038
+      },
+      "16": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3879,
+        "totalAssets": 0.0881,
+        "currentShares": 15559356,
+        "change": 15559356,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3879,
+        "totalAssets": 0.0881,
+        "currentShares": 15559356,
+        "change": -126084,
+        "change_p": -0.8038
+      },
+      "18": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.381,
+        "totalAssets": 0.1979,
+        "currentShares": 15281525,
+        "change": -604369,
+        "change_p": -3.8044
+      },
+      "19": {
+        "name": "iShares Russell Mid-Cap ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.372,
+        "totalAssets": 0.3571,
+        "currentShares": 14921889,
+        "change": 6016,
+        "change_p": 0.0403
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 8.2645,
+    "PriceSalesTTM": 0.2652,
+    "PriceBookMRQ": 1.3924,
+    "EnterpriseValue": 177309306616,
+    "EnterpriseValueRevenue": 0.9468,
+    "EnterpriseValueEbitda": 48.7381
+  },
+  "Highlights": {
+    "MarketCapitalization": 49657196544,
+    "MarketCapitalizationMln": 49657.1965,
+    "EBITDA": 5392999936,
+    "PERatio": null,
+    "PEGRatio": 8.4768,
+    "WallStreetTargetPrice": 13.85,
+    "BookValue": 9.013,
+    "DividendShare": 0.6,
+    "DividendYield": 0.0481,
+    "EarningsShare": -2.06,
+    "EPSEstimateCurrentYear": 1.5055,
+    "EPSEstimateNextYear": 1.8676,
+    "EPSEstimateNextQuarter": 0.2627,
+    "EPSEstimateCurrentQuarter": 0.1936,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0437,
+    "OperatingMarginTTM": -0.0669,
+    "ReturnOnAssetsTTM": -0.0013,
+    "ReturnOnEquityTTM": -0.2019,
+    "RevenueTTM": 187267006464,
+    "RevenuePerShareTTM": 47.064,
+    "QuarterlyRevenueGrowthYOY": -0.048,
+    "GrossProfitTTM": 10880000000,
+    "DilutedEpsTTM": -2.06,
+    "QuarterlyEarningsGrowthYOY": 1.727
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.02,
+    "TotalEsgPercentile": 56.26,
+    "EnvironmentScore": 7.54,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 9.22,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 7.26,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "F",
+    "Type": "Common Stock",
+    "Name": "Ford Motor Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQPC32",
+    "ISIN": "US3453708600",
+    "LEI": "20S05OYHG0MQM4VUIC57",
+    "PrimaryTicker": "F.US",
+    "CUSIP": "345370100",
+    "CIK": "0000037996",
+    "EmployerIdNumber": "38-0549190",
+    "FiscalYearEnd": "December",
+    "IPODate": "1972-06-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Automobiles & Components",
+    "GicIndustry": "Automobiles",
+    "GicSubIndustry": "Automobile Manufacturers",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ford Motor Company develops, delivers, and services Ford trucks, sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles in the United States, Canada, the United Kingdom, Mexico, and internationally. It operates through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company sells Ford and Lincoln internal combustion engine and hybrid vehicles, electric vehicles, service parts, accessories, and digital services for retail customers; develops EV and digital vehicle technologies, and software; and provides telematics and EV charging solutions. It also sells Ford and Lincoln vehicles, service parts, and accessories through distributors and dealers, as well as through dealerships to commercial fleet customers, daily rental car companies, and governments. In addition, it engages in vehicle-related financing and leasing activities to and through automotive dealers. Further, the company provides retail installment sale contracts for new and used vehicles; and direct financing leases for new vehicles to retail and commercial customers, such as leasing companies, government entities, daily rental companies, and fleet customers. Additionally, it offers wholesale loans to dealers to finance the purchase of vehicle inventory; and loans to dealers to finance working capital and enhance dealership facilities, purchase dealership real estate, and other dealer vehicle programs. Ford Motor Company was incorporated in 1903 and is based in Dearborn, Michigan.",
+    "Address": "One American Road, Dearborn, MI, United States, 48126-1899",
+    "AddressData": {
+      "Street": "One American Road",
+      "City": "Dearborn",
+      "State": "MI",
+      "Country": "United States",
+      "ZIP": "48126-1899"
+    },
+    "Listings": {
+      "0": {
+        "Code": "FDMO34",
+        "Exchange": "SA",
+        "Name": "Ford Motor Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. William Clay Ford Jr.",
+        "Title": "Executive Chairman",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. James Duncan Farley Jr.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Ms. Sherry  House CPA",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Mr. John Douglas Field",
+        "Title": "Chief EV, Digital & Design Officer",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Alicia S. Boler Davis",
+        "Title": "President of Ford Pro",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Ashwani Kumar Galhotra",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Kyle  Crockett",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "7": {
+        "Name": "Ms. Lynn Antipas Tyson",
+        "Title": "Chief Investor Relations Officer",
+        "YearBorn": "1964"
+      },
+      "8": {
+        "Name": "Mr. Steven P. Croley",
+        "Title": "Chief Policy Officer & General Counsel",
+        "YearBorn": "1966"
+      },
+      "9": {
+        "Name": "Ms. Sarah E. Fortt",
+        "Title": "Corporate Secretary & Chief Compliance Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "313 322 3000",
+    "WebURL": "https://www.ford.com",
+    "LogoURL": "/img/logos/US/f.png",
+    "FullTimeEmployees": 169000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 3940230185,
+    "SharesFloat": 3879405604,
+    "PercentInsiders": 0.281,
+    "PercentInstitutions": 68.582,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0
+  }
+}

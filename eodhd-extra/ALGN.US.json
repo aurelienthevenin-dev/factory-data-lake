@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.4215,
+        "totalAssets": 0.0185,
+        "currentShares": 8179779,
+        "change": -121832,
+        "change_p": -1.4676
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.9177,
+        "totalAssets": 0.0109,
+        "currentShares": 4954234,
+        "change": -173010,
+        "change_p": -3.3743
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 6.4834,
+        "totalAssets": 0.1137,
+        "currentShares": 4643221,
+        "change": 1592848,
+        "change_p": 52.2181
+      },
+      "3": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 4.2272,
+        "totalAssets": 0.187,
+        "currentShares": 3027391,
+        "change": 771012,
+        "change_p": 34.1703
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0329,
+        "totalAssets": 0.0125,
+        "currentShares": 2888274,
+        "change": -39108,
+        "change_p": -1.3359
+      },
+      "5": {
+        "name": "Ninety One UK Limited",
+        "date": "2025-12-31",
+        "totalShares": 3.11,
+        "totalAssets": 0.7457,
+        "currentShares": 2227303,
+        "change": -2307081,
+        "change_p": -50.8797
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.0145,
+        "totalAssets": 0.0081,
+        "currentShares": 2158920,
+        "change": 1039408,
+        "change_p": 92.8447
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.792,
+        "totalAssets": 0.0159,
+        "currentShares": 1999531,
+        "change": 1154694,
+        "change_p": 136.6765
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4573,
+        "totalAssets": 0.0169,
+        "currentShares": 1759887,
+        "change": -44124,
+        "change_p": -2.4459
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.091,
+        "totalAssets": 0.0295,
+        "currentShares": 1497535,
+        "change": 407559,
+        "change_p": 37.3916
+      },
+      "10": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0812,
+        "totalAssets": 0.0317,
+        "currentShares": 1490503,
+        "change": 173641,
+        "change_p": 13.186
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8894,
+        "totalAssets": 0.0115,
+        "currentShares": 1353125,
+        "change": 566488,
+        "change_p": 72.0139
+      },
+      "12": {
+        "name": "Ruane, Cunniff & Goldfarb L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.707,
+        "totalAssets": 2.9817,
+        "currentShares": 1222534,
+        "change": 1222534,
+        "change_p": 0
+      },
+      "13": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6706,
+        "totalAssets": 0.098,
+        "currentShares": 1196428,
+        "change": 474756,
+        "change_p": 65.7856
+      },
+      "14": {
+        "name": "Jacobs Levy Equity Management, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4045,
+        "totalAssets": 0.6065,
+        "currentShares": 1005837,
+        "change": 237581,
+        "change_p": 30.9247
+      },
+      "15": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.4039,
+        "totalAssets": 0.092,
+        "currentShares": 1005413,
+        "change": 715919,
+        "change_p": 247.3001
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.391,
+        "totalAssets": 0.0166,
+        "currentShares": 996197,
+        "change": 175954,
+        "change_p": 21.4514
+      },
+      "17": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2603,
+        "totalAssets": 0.0068,
+        "currentShares": 902568,
+        "change": 138699,
+        "change_p": 18.1574
+      },
+      "18": {
+        "name": "Disciplined Growth Investors Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1463,
+        "totalAssets": 2.4535,
+        "currentShares": 820935,
+        "change": 16954,
+        "change_p": 2.1088
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1198,
+        "totalAssets": 0.0263,
+        "currentShares": 801996,
+        "change": 196464,
+        "change_p": 32.4449
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0305,
+        "totalAssets": 0.0186,
+        "currentShares": 2170353,
+        "change": 14940,
+        "change_p": 0.6931
+      },
+      "1": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 2.9507,
+        "totalAssets": 0.2372,
+        "currentShares": 2113194,
+        "change": 15416,
+        "change_p": 0.7349
+      },
+      "2": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.9292,
+        "totalAssets": 0.2013,
+        "currentShares": 2097778,
+        "change": 446119,
+        "change_p": 27.0104
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3723,
+        "totalAssets": 0.0205,
+        "currentShares": 1698993,
+        "change": -17428,
+        "change_p": -1.0154
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.1974,
+        "totalAssets": 0.1624,
+        "currentShares": 1573683,
+        "change": 25658,
+        "change_p": 1.6575
+      },
+      "5": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 2.147,
+        "totalAssets": 0.1723,
+        "currentShares": 1537652,
+        "change": 44074,
+        "change_p": 2.9509
+      },
+      "6": {
+        "name": "American Funds New Economy A",
+        "date": "2026-03-31",
+        "totalShares": 1.7637,
+        "totalAssets": 0.5256,
+        "currentShares": 1263082,
+        "change": 773000,
+        "change_p": 157.7287
+      },
+      "7": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.5738,
+        "totalAssets": 0.1255,
+        "currentShares": 1127144,
+        "change": 751800,
+        "change_p": 200.2963
+      },
+      "8": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3983,
+        "totalAssets": 0.2827,
+        "currentShares": 1001460,
+        "change": 7315,
+        "change_p": 0.7358
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3866,
+        "totalAssets": 0.1996,
+        "currentShares": 993079,
+        "change": 2882,
+        "change_p": 0.2911
+      },
+      "10": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.3209,
+        "totalAssets": 0.0529,
+        "currentShares": 945991,
+        "change": 240576,
+        "change_p": 34.1042
+      },
+      "11": {
+        "name": "Ninety One GSF Glb Frchs I Acc USD",
+        "date": "2025-12-31",
+        "totalShares": 1.2491,
+        "totalAssets": 1.5057,
+        "currentShares": 894563,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Ninety One Global Franchise",
+        "date": "2025-12-31",
+        "totalShares": 1.2491,
+        "totalAssets": 1.5057,
+        "currentShares": 894563,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.2133,
+        "totalAssets": 0.5387,
+        "currentShares": 868900,
+        "change": -206300,
+        "change_p": -19.1871
+      },
+      "14": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1978,
+        "totalAssets": 0.0204,
+        "currentShares": 857843,
+        "change": -468,
+        "change_p": -0.0545
+      },
+      "15": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1857,
+        "totalAssets": 0.0216,
+        "currentShares": 849193,
+        "change": 1400,
+        "change_p": 0.1651
+      },
+      "16": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0828,
+        "totalAssets": 0.0205,
+        "currentShares": 775487,
+        "change": -1911,
+        "change_p": -0.2458
+      },
+      "17": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.985,
+        "totalAssets": 0.0328,
+        "currentShares": 705415,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Swedbank Robur Allemansfond Komplett",
+        "date": "2026-03-31",
+        "totalShares": 0.9076,
+        "totalAssets": 0.9386,
+        "currentShares": 650000,
+        "change": 50000,
+        "change_p": 8.3333
+      },
+      "19": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 0.8285,
+        "totalAssets": 0.2048,
+        "currentShares": 593351,
+        "change": 52749,
+        "change_p": 9.7575
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 33.5593,
+    "ForwardPE": 16.9205,
+    "PriceSalesTTM": 3.3654,
+    "PriceBookMRQ": 3.3724,
+    "EnterpriseValue": 12674803824,
+    "EnterpriseValueRevenue": 3.1412,
+    "EnterpriseValueEbitda": 15.4055
+  },
+  "Highlights": {
+    "MarketCapitalization": 13579351040,
+    "MarketCapitalizationMln": 13579.351,
+    "EBITDA": 851347008,
+    "PERatio": 33.5593,
+    "PEGRatio": 1.0079,
+    "WallStreetTargetPrice": 205.5,
+    "BookValue": 56.739,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 5.65,
+    "EPSEstimateCurrentYear": 11.2869,
+    "EPSEstimateNextYear": 12.3162,
+    "EPSEstimateNextQuarter": 2.4358,
+    "EPSEstimateCurrentQuarter": 2.9691,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1017,
+    "OperatingMarginTTM": 0.2238,
+    "ReturnOnAssetsTTM": 0.0694,
+    "ReturnOnEquityTTM": 0.1039,
+    "RevenueTTM": 4034963968,
+    "RevenuePerShareTTM": 55.622,
+    "QuarterlyRevenueGrowthYOY": 0.053,
+    "GrossProfitTTM": 2816613120,
+    "DilutedEpsTTM": 5.65,
+    "QuarterlyEarningsGrowthYOY": 0.356
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "ALGN",
+    "Type": "Common Stock",
+    "Name": "Align Technology Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRNLL2",
+    "ISIN": "US0162551016",
+    "LEI": "549300N5YSE0U3LCP840",
+    "PrimaryTicker": "ALGN.US",
+    "CUSIP": "016255101",
+    "CIK": "0001097149",
+    "EmployerIdNumber": "94-3267295",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-01-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Supplies",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Align Technology, Inc. provides Invisalign clear aligners, Vivera retainers, and iTero intraoral scanners and services in the United States, Switzerland, and internationally. The company's Clear Aligner segment offers Invisalign comprehensive package to treat adults and teens malocclusion and features, and orthodontic needs of teenage or younger patients; and Invisalign First Phase I and Invisalign First Comprehensive Phase 2 package for younger patients between the ages of six and ten years with a mixture of primary/baby and permanent teeth. This segment also provides Invisalign express, Invisalign lite, and Invisalign moderate; Invisalign Go, Invisalign Go express, and Invisalign Go Plus; retention products, Invisalign training, adjusting tools used by dental professionals during treatment, ancillary Invisalign accessory products, and other oral health products; Invisalign Professional Whitening system; Invisalign Palatal Expander, a 3D printed orthodontic device; and 3D printing solutions. Its Imaging Systems and CAD/CAM Services segment offers iTero intraoral scanning system, a single hardware platform for restorative or orthodontic procedures; exocad, a computer-aided design and computer-aided manufacturing software; orthodontist software for digital records storage, orthodontic diagnosis, and fabrication of printed models and retainers; and restorative software for general practitioner dentists, prosthodontists, periodontists, and oral surgeons. This segment also offers Invisalign outcome simulator, a chair-side and cloud-based application for the iTero scanner; Invisalign progress assessment tool; Align Oral Health Suite, a digital interface for dental consultations; iTero TimeLapse technology for doctors or practitioners to compare a patient's historic 3D scans to the present-day scan; and subscription software, disposables, rents scanners, and pay per scan services. Align Technology, Inc. was incorporated in 1997 and is headquartered in Tempe, Arizona.",
+    "Address": "410 North Scottsdale Road, Tempe, AZ, United States, 85288",
+    "AddressData": {
+      "Street": "410 North Scottsdale Road",
+      "City": "Tempe",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85288"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Joseph M. Hogan",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. John F. Morici",
+        "Title": "CFO & Executive VP of Global Finance",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Ms. Julie Ann Coletti J.D.",
+        "Title": "Executive VP and Chief Legal & Regulatory Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Zelko  Relic",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Ms. Shirley  Stacy",
+        "Title": "Vice President of Corporate Communications & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Richardson Jaime Holte",
+        "Title": "Executive Vice President of Global Human Resources",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Emory M. Wright",
+        "Title": "Executive Vice President of Direct Fabrication Platform & Operations",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Ms. Sreelakshmi  Kolli",
+        "Title": "Executive VP and Chief Product & Digital Officer",
+        "YearBorn": "1975"
+      },
+      "8": {
+        "Name": "Mr. Srini  Kaza",
+        "Title": "Executive Vice President of Research & Development",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Mitra  Derakhshan",
+        "Title": "Executive VP, Chief Clinical Officer, Global Treatment Planning & Clinical Services",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "602 742 2000",
+    "WebURL": "https://www.aligntech.com",
+    "LogoURL": "/img/logos/US/ALGN.png",
+    "FullTimeEmployees": 20290,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 71617275,
+    "SharesFloat": 66726491,
+    "PercentInsiders": 6.819999999999999,
+    "PercentInstitutions": 97.731,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0694
+  }
+}

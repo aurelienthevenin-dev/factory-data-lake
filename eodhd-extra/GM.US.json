@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9631,
+        "totalAssets": 0.1275,
+        "currentShares": 108142822,
+        "change": -1450922,
+        "change_p": -1.3239
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.6962,
+        "totalAssets": 0.0936,
+        "currentShares": 87650212,
+        "change": 1638977,
+        "change_p": 1.9055
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1538,
+        "totalAssets": 0.0985,
+        "currentShares": 46588357,
+        "change": -2118518,
+        "change_p": -4.3495
+      },
+      "3": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.465,
+        "totalAssets": 0.4762,
+        "currentShares": 31322758,
+        "change": 989189,
+        "change_p": 3.261
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4605,
+        "totalAssets": 0.1113,
+        "currentShares": 22242381,
+        "change": 267477,
+        "change_p": 1.2172
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.1611,
+        "totalAssets": 0.2161,
+        "currentShares": 19536049,
+        "change": 1405530,
+        "change_p": 7.7523
+      },
+      "6": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.9257,
+        "totalAssets": 1.7892,
+        "currentShares": 17407745,
+        "change": -3642979,
+        "change_p": -17.3057
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.756,
+        "totalAssets": 0.0658,
+        "currentShares": 15873544,
+        "change": 5119814,
+        "change_p": 47.6097
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5651,
+        "totalAssets": 0.2414,
+        "currentShares": 14148418,
+        "change": -1165480,
+        "change_p": -7.6106
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4045,
+        "totalAssets": 0.0469,
+        "currentShares": 12696624,
+        "change": -685039,
+        "change_p": -5.1192
+      },
+      "10": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3817,
+        "totalAssets": 0.5568,
+        "currentShares": 12490429,
+        "change": 2809982,
+        "change_p": 29.0274
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3002,
+        "totalAssets": 0.1129,
+        "currentShares": 11753126,
+        "change": -726220,
+        "change_p": -5.8194
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2498,
+        "totalAssets": 0.0983,
+        "currentShares": 11297642,
+        "change": 2268603,
+        "change_p": 25.1256
+      },
+      "13": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.204,
+        "totalAssets": 0.4643,
+        "currentShares": 10883789,
+        "change": -3368900,
+        "change_p": -23.6369
+      },
+      "14": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1495,
+        "totalAssets": 2.5241,
+        "currentShares": 10391542,
+        "change": -585520,
+        "change_p": -5.334
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0465,
+        "totalAssets": 0.0738,
+        "currentShares": 9459813,
+        "change": -701324,
+        "change_p": -6.902
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0234,
+        "totalAssets": 0.0383,
+        "currentShares": 9250767,
+        "change": 190503,
+        "change_p": 2.1026
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0209,
+        "totalAssets": 0.0169,
+        "currentShares": 9228854,
+        "change": 4761627,
+        "change_p": 106.5902
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9952,
+        "totalAssets": 0.1137,
+        "currentShares": 8996051,
+        "change": -8838,
+        "change_p": -0.0981
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.94,
+        "totalAssets": 0.1532,
+        "currentShares": 8496858,
+        "change": -760016,
+        "change_p": -8.2103
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.176,
+        "totalAssets": 0.1071,
+        "currentShares": 28709917,
+        "change": -787952,
+        "change_p": -2.6712
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5456,
+        "totalAssets": 0.1205,
+        "currentShares": 23011415,
+        "change": -982491,
+        "change_p": -4.0948
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.7321,
+        "currentShares": 19527965,
+        "change": -747772,
+        "change_p": -3.688
+      },
+      "3": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.628,
+        "totalAssets": 2.3111,
+        "currentShares": 14716190,
+        "change": 304703,
+        "change_p": 2.1143
+      },
+      "4": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.5417,
+        "totalAssets": 2.7322,
+        "currentShares": 13936071,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3133,
+        "totalAssets": 0.1247,
+        "currentShares": 11871829,
+        "change": 19574,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.1202,
+        "currentShares": 11619657,
+        "change": -6324,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.2319,
+        "totalAssets": 0.2695,
+        "currentShares": 11135982,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1577,
+        "totalAssets": 0.1199,
+        "currentShares": 10465110,
+        "change": -25774,
+        "change_p": -0.2457
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.1062,
+        "totalAssets": 0.2432,
+        "currentShares": 10000000,
+        "change": -1135982,
+        "change_p": -10.201
+      },
+      "10": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0748,
+        "totalAssets": 1.2451,
+        "currentShares": 9715768,
+        "change": 3804444,
+        "change_p": 64.3586
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.2758,
+        "currentShares": 8354746,
+        "change": -330166,
+        "change_p": -3.8016
+      },
+      "12": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.7459,
+        "totalAssets": 2.1341,
+        "currentShares": 6743100,
+        "change": -3412000,
+        "change_p": -33.5989
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 1.2609,
+        "currentShares": 5880231,
+        "change": 57834,
+        "change_p": 0.9933
+      },
+      "14": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5724,
+        "totalAssets": 0.1933,
+        "currentShares": 5174640,
+        "change": 307012,
+        "change_p": 6.3072
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.1202,
+        "currentShares": 5092992,
+        "change": -193293,
+        "change_p": -3.6565
+      },
+      "16": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5385,
+        "totalAssets": 0.1901,
+        "currentShares": 4867628,
+        "change": 1030473,
+        "change_p": 26.8551
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.119,
+        "currentShares": 4825537,
+        "change": -147300,
+        "change_p": -2.9621
+      },
+      "18": {
+        "name": "iShares MSCI USA Value Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.532,
+        "totalAssets": 3.5801,
+        "currentShares": 4808717,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.528,
+        "totalAssets": 1.6751,
+        "currentShares": 4773319,
+        "change": -62745,
+        "change_p": -1.2974
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.8685,
+    "ForwardPE": 6.2854,
+    "PriceSalesTTM": 0.3804,
+    "PriceBookMRQ": 1.1584,
+    "EnterpriseValue": 174441074504,
+    "EnterpriseValueRevenue": 0.9428,
+    "EnterpriseValueEbitda": 9.464
+  },
+  "Highlights": {
+    "MarketCapitalization": 70374301696,
+    "MarketCapitalizationMln": 70374.3017,
+    "EBITDA": 17628999680,
+    "PERatio": 23.8685,
+    "PEGRatio": 3.5719,
+    "WallStreetTargetPrice": 94.1539,
+    "BookValue": 67.61,
+    "DividendShare": 0.57,
+    "DividendYield": 0.0073,
+    "EarningsShare": 3.27,
+    "EPSEstimateCurrentYear": 12.3308,
+    "EPSEstimateNextYear": 13.8611,
+    "EPSEstimateNextQuarter": 2.6897,
+    "EPSEstimateCurrentQuarter": 2.259,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0146,
+    "OperatingMarginTTM": 0.0654,
+    "ReturnOnAssetsTTM": 0.0254,
+    "ReturnOnEquityTTM": 0.0432,
+    "RevenueTTM": 185019006976,
+    "RevenuePerShareTTM": 193.737,
+    "QuarterlyRevenueGrowthYOY": -0.051,
+    "GrossProfitTTM": 19835000832,
+    "DilutedEpsTTM": 3.27,
+    "QuarterlyEarningsGrowthYOY": -0.496
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.74,
+    "TotalEsgPercentile": 58.58,
+    "EnvironmentScore": 13.14,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 14.04,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 10.56,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "GM",
+    "Type": "Common Stock",
+    "Name": "General Motors Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000NDYB67",
+    "ISIN": "US37045V1008",
+    "LEI": "54930070NSV60J38I987",
+    "PrimaryTicker": "GM.US",
+    "CUSIP": "37045V100",
+    "CIK": "0001467858",
+    "EmployerIdNumber": "27-0756180",
+    "FiscalYearEnd": "December",
+    "IPODate": "2010-11-18",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Automobiles & Components",
+    "GicIndustry": "Automobiles",
+    "GicSubIndustry": "Automobile Manufacturers",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "General Motors Company designs, builds, and sells trucks, crossovers, cars, and automobile parts worldwide. It operates through GM North America, GM International, and GM Financial segments. The company markets its vehicles primarily under the Buick, Cadillac, Chevrolet, GMC, Baojun, and Wuling brand names. In addition, it sells trucks, crossovers, cars, and automobile parts through retail dealers, distributors and dealers, as well as to fleet customers, including daily rental car companies, commercial fleet customers, leasing companies, and governments. Further, the company offers various range of after-sale services through dealer network, such as maintenance, light repairs, collision repairs, vehicle accessories, and extended service warranties. Additionally, it provides automotive financing; and software-enabled services and subscriptions. General Motors Company was founded in 1908 and is based in Detroit, Michigan.",
+    "Address": "1240 Woodward Avenue, Detroit, MI, United States, 48265",
+    "AddressData": {
+      "Street": "1240 Woodward Avenue",
+      "City": "Detroit",
+      "State": "MI",
+      "Country": "United States",
+      "ZIP": "48265"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Mary T. Barra",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Mark L. Reuss",
+        "Title": "President",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Paul A. Jacobson",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Rory V. Harvey",
+        "Title": "Executive VP & President of Global Markets",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. Mike  Trevorrow",
+        "Title": "Senior Vice President of Global Manufacturing",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Susan Bianchi Sheffield",
+        "Title": "President & Chief Executive Officer of GM Financial",
+        "YearBorn": "1967"
+      },
+      "6": {
+        "Name": "Mr. Michael  Simcoe",
+        "Title": "Vice President of Global Design",
+        "YearBorn": "1957"
+      },
+      "7": {
+        "Name": "Mr. Andrew  Smith",
+        "Title": "Executive Director of Global Cadillac & Buick Design",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Lowell  Paddock",
+        "Title": "Vice President of Planning and Programme Management for GM International",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. John P. Roth",
+        "Title": "Vice President of Global Cadillac",
+        "YearBorn": "1969"
+      }
+    },
+    "Phone": "313 667 1500",
+    "WebURL": "https://www.gm.com",
+    "LogoURL": "/img/logos/US/GM.png",
+    "FullTimeEmployees": 156000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 901656578,
+    "SharesFloat": 900758767,
+    "PercentInsiders": 0.22399999999999998,
+    "PercentInstitutions": 88.62100000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0215
+  }
+}

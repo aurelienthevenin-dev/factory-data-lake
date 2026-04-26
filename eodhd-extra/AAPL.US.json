@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.7151,
+        "totalAssets": 5.6215,
+        "currentShares": 1426283914,
+        "change": 26856752,
+        "change_p": 1.9191
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8082,
+        "totalAssets": 5.1099,
+        "currentShares": 1146332274,
+        "change": -2506716,
+        "change_p": -0.2182
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0699,
+        "totalAssets": 5.2757,
+        "currentShares": 597501113,
+        "change": -3748882,
+        "change_p": -0.6235
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.2239,
+        "totalAssets": 3.6104,
+        "currentShares": 473311062,
+        "change": 258704663,
+        "change_p": 120.5484
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4387,
+        "totalAssets": 5.988,
+        "currentShares": 358032517,
+        "change": 1866103,
+        "change_p": 0.5239
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0938,
+        "totalAssets": 4.261,
+        "currentShares": 307397264,
+        "change": 4143183,
+        "change_p": 1.3662
+      },
+      "6": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.6226,
+        "totalAssets": 22.6892,
+        "currentShares": 238212764,
+        "change": -41787236,
+        "change_p": -14.924
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5605,
+        "totalAssets": 3.532,
+        "currentShares": 229103384,
+        "change": -4095262,
+        "change_p": -1.7561
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4492,
+        "totalAssets": 5.7958,
+        "currentShares": 212755053,
+        "change": 10034649,
+        "change_p": 4.95
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3095,
+        "totalAssets": 5.5915,
+        "currentShares": 192255086,
+        "change": 2450266,
+        "change_p": 1.2909
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1216,
+        "totalAssets": 5.3638,
+        "currentShares": 164666723,
+        "change": -1601801,
+        "change_p": -0.9634
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.838,
+        "totalAssets": 2.1246,
+        "currentShares": 123024725,
+        "change": 6165741,
+        "change_p": 5.2762
+      },
+      "12": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7523,
+        "totalAssets": 6.6593,
+        "currentShares": 110452467,
+        "change": 1625,
+        "change_p": 0.0015
+      },
+      "13": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7171,
+        "totalAssets": 5.8209,
+        "currentShares": 105276556,
+        "change": -15003927,
+        "change_p": -12.4741
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6797,
+        "totalAssets": 4.2153,
+        "currentShares": 99788496,
+        "change": -14170,
+        "change_p": -0.0142
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6755,
+        "totalAssets": 3.3064,
+        "currentShares": 99164706,
+        "change": 2580402,
+        "change_p": 2.6717
+      },
+      "16": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6642,
+        "totalAssets": 4.4541,
+        "currentShares": 97510002,
+        "change": -730821,
+        "change_p": -0.7439
+      },
+      "17": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.5266,
+        "totalAssets": 3.6828,
+        "currentShares": 77305231,
+        "change": -6447943,
+        "change_p": -7.6987
+      },
+      "18": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5109,
+        "totalAssets": 5.339,
+        "currentShares": 75000920,
+        "change": 2725121,
+        "change_p": 3.7704
+      },
+      "19": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5031,
+        "totalAssets": 5.3995,
+        "currentShares": 73865818,
+        "change": 36327947,
+        "change_p": 96.7768
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1766,
+        "totalAssets": 5.928,
+        "currentShares": 466354347,
+        "change": -1025493,
+        "change_p": -0.2194
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5464,
+        "totalAssets": 6.6676,
+        "currentShares": 373839984,
+        "change": -6215447,
+        "change_p": -1.6354
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 6.6506,
+        "currentShares": 188713601,
+        "change": -102720,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2809,
+        "totalAssets": 6.6317,
+        "currentShares": 188047640,
+        "change": 309995,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1596,
+        "totalAssets": 6.645,
+        "currentShares": 170242437,
+        "change": -418411,
+        "change_p": -0.2452
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0511,
+        "totalAssets": 12.324,
+        "currentShares": 154319451,
+        "change": -1238838,
+        "change_p": -0.7964
+      },
+      "6": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.7602,
+        "totalAssets": 7.6333,
+        "currentShares": 111610734,
+        "change": -373369,
+        "change_p": -0.3334
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 6.6514,
+        "currentShares": 82713702,
+        "change": -989414,
+        "change_p": -1.1821
+      },
+      "8": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 6.5827,
+        "currentShares": 78369800,
+        "change": -398700,
+        "change_p": -0.5062
+      },
+      "9": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5175,
+        "totalAssets": 15.8457,
+        "currentShares": 75977572,
+        "change": -86694,
+        "change_p": -0.114
+      },
+      "10": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 6.6432,
+        "currentShares": 66309397,
+        "change": -46924,
+        "change_p": -0.0707
+      },
+      "11": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3993,
+        "totalAssets": 6.8743,
+        "currentShares": 58621452,
+        "change": -927683,
+        "change_p": -1.5578
+      },
+      "12": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3993,
+        "totalAssets": 6.8743,
+        "currentShares": 58621452,
+        "change": 58621452,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3993,
+        "totalAssets": 6.8743,
+        "currentShares": 58621452,
+        "change": -927683,
+        "change_p": -1.5578
+      },
+      "14": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3612,
+        "totalAssets": 6.615,
+        "currentShares": 53028608,
+        "change": -558625,
+        "change_p": -1.0425
+      },
+      "15": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3495,
+        "totalAssets": 11.6383,
+        "currentShares": 51305194,
+        "change": 48880,
+        "change_p": 0.0954
+      },
+      "16": {
+        "name": "Russell 1000 Index Fund",
+        "date": "2026-03-31",
+        "totalShares": 0.3198,
+        "totalAssets": 6.0929,
+        "currentShares": 46944986,
+        "change": -157552,
+        "change_p": -0.3345
+      },
+      "17": {
+        "name": "Blackrock Russ 1000 Eq Idx Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.3099,
+        "totalAssets": 6.3222,
+        "currentShares": 45503497,
+        "change": 184753,
+        "change_p": 0.4077
+      },
+      "18": {
+        "name": "Russell 1000 Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3099,
+        "totalAssets": 6.3222,
+        "currentShares": 45503497,
+        "change": 45503497,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Russell 1000 Index Non-Lendable Fund",
+        "date": "2025-12-31",
+        "totalShares": 0.3099,
+        "totalAssets": 6.3222,
+        "currentShares": 45503497,
+        "change": 184753,
+        "change_p": 0.4077
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 34.3114,
+    "ForwardPE": 31.9489,
+    "PriceSalesTTM": 9.1352,
+    "PriceBookMRQ": 45.5184,
+    "EnterpriseValue": 4003071808400,
+    "EnterpriseValueRevenue": 9.2693,
+    "EnterpriseValueEbitda": 26.4082
+  },
+  "Highlights": {
+    "MarketCapitalization": 3979469914112,
+    "MarketCapitalizationMln": 3979469.9141,
+    "EBITDA": 152901992448,
+    "PERatio": 34.3114,
+    "PEGRatio": 2.4614,
+    "WallStreetTargetPrice": 297.7055,
+    "BookValue": 5.998,
+    "DividendShare": 1.03,
+    "DividendYield": 0.0038,
+    "EarningsShare": 7.9,
+    "EPSEstimateCurrentYear": 8.5227,
+    "EPSEstimateNextYear": 9.3883,
+    "EPSEstimateNextQuarter": 1.8499,
+    "EPSEstimateCurrentQuarter": 2.6708,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2704,
+    "OperatingMarginTTM": 0.3537,
+    "ReturnOnAssetsTTM": 0.2438,
+    "ReturnOnEquityTTM": 1.5202,
+    "RevenueTTM": 435617005568,
+    "RevenuePerShareTTM": 29.305,
+    "QuarterlyRevenueGrowthYOY": 0.157,
+    "GrossProfitTTM": 206157004800,
+    "DilutedEpsTTM": 7.9,
+    "QuarterlyEarningsGrowthYOY": 0.183
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.15,
+    "TotalEsgPercentile": 36.8,
+    "EnvironmentScore": 0.99,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 13.98,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 11.18,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AAPL",
+    "Type": "Common Stock",
+    "Name": "Apple Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000B9XRY4",
+    "ISIN": "US0378331005",
+    "LEI": "HWUPKR0MPOU8FGXBT394",
+    "PrimaryTicker": "AAPL.US",
+    "CUSIP": "037833100",
+    "CIK": "0000320193",
+    "EmployerIdNumber": "94-2404110",
+    "FiscalYearEnd": "September",
+    "IPODate": "1980-12-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Consumer Electronics",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Technology Hardware, Storage & Peripherals",
+    "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers exclusive original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+    "Address": "One Apple Park Way, Cupertino, CA, United States, 95014",
+    "AddressData": {
+      "Street": "One Apple Park Way",
+      "City": "Cupertino",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95014"
+    },
+    "Listings": {
+      "0": {
+        "Code": "0R2V",
+        "Exchange": "LSE",
+        "Name": "Apple Inc."
+      },
+      "1": {
+        "Code": "AAPL",
+        "Exchange": "BA",
+        "Name": "Apple Inc DRC"
+      },
+      "2": {
+        "Code": "AAPL34",
+        "Exchange": "SA",
+        "Name": "Apple Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timothy D. Cook",
+        "Title": "CEO & Director",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Kevan  Parekh",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Sabih  Khan",
+        "Title": "Senior VP & Chief Operating Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Ms. Deirdre  O'Brien",
+        "Title": "Senior Vice President of Retail & People",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Ms. Katherine L. Adams",
+        "Title": "Senior VP of Government Affairs & Secretary",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Mr. Ben  Borders",
+        "Title": "Principal Accounting Officer",
+        "YearBorn": "1981"
+      },
+      "6": {
+        "Name": "Suhasini  Chandramouli",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Jennifer G. Newstead J.D.",
+        "Title": "Senior VP & General Counsel",
+        "YearBorn": "1971"
+      },
+      "8": {
+        "Name": "Ms. Kristin Huguet Quayle",
+        "Title": "Vice President of Worldwide Communications",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Greg  Joswiak",
+        "Title": "Senior Vice President of Worldwide Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(408) 996-1010",
+    "WebURL": "https://www.apple.com",
+    "LogoURL": "/img/logos/US/aapl.png",
+    "FullTimeEmployees": 150000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 14681140000,
+    "SharesFloat": 14656035251,
+    "PercentInsiders": 1.6400000000000001,
+    "PercentInstitutions": 65.609,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0086
+  }
+}

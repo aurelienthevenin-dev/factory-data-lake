@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.9803,
+        "totalAssets": 0.3451,
+        "currentShares": 89843166,
+        "change": 270913,
+        "change_p": 0.3025
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.921,
+        "totalAssets": 0.3368,
+        "currentShares": 81175886,
+        "change": -452102,
+        "change_p": -0.5539
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.04,
+        "totalAssets": 0.4069,
+        "currentShares": 49420657,
+        "change": 159739,
+        "change_p": 0.3243
+      },
+      "3": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 5.7913,
+        "totalAssets": 4.0384,
+        "currentShares": 47385511,
+        "change": 47189352,
+        "change_p": 24056.6846
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.1909,
+        "totalAssets": 0.1854,
+        "currentShares": 26108922,
+        "change": 8283117,
+        "change_p": 46.467
+      },
+      "5": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.7769,
+        "totalAssets": 0.9435,
+        "currentShares": 22721010,
+        "change": 2669891,
+        "change_p": 13.3154
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6622,
+        "totalAssets": 0.3549,
+        "currentShares": 21782556,
+        "change": 791345,
+        "change_p": 3.7699
+      },
+      "7": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.4043,
+        "totalAssets": 0.7088,
+        "currentShares": 19672684,
+        "change": 2347478,
+        "change_p": 13.5495
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3453,
+        "totalAssets": 0.2754,
+        "currentShares": 19189909,
+        "change": -1266565,
+        "change_p": -6.1915
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4685,
+        "totalAssets": 0.3405,
+        "currentShares": 12015218,
+        "change": 1651621,
+        "change_p": 15.9368
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2915,
+        "totalAssets": 0.3204,
+        "currentShares": 10567153,
+        "change": -139688,
+        "change_p": -1.3047
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2528,
+        "totalAssets": 0.1385,
+        "currentShares": 10250709,
+        "change": 379893,
+        "change_p": 3.8486
+      },
+      "12": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1967,
+        "totalAssets": 3.2783,
+        "currentShares": 9791328,
+        "change": 2744748,
+        "change_p": 38.9515
+      },
+      "13": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.1571,
+        "totalAssets": 0.463,
+        "currentShares": 9467811,
+        "change": 226013,
+        "change_p": 2.4456
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.095,
+        "totalAssets": 0.144,
+        "currentShares": 8959661,
+        "change": -830204,
+        "change_p": -8.4802
+      },
+      "15": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.053,
+        "totalAssets": 2.6289,
+        "currentShares": 8615819,
+        "change": 8615819,
+        "change_p": 0
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0331,
+        "totalAssets": 0.435,
+        "currentShares": 8453396,
+        "change": -2058146,
+        "change_p": -19.5799
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9304,
+        "totalAssets": 0.2473,
+        "currentShares": 7612400,
+        "change": -359987,
+        "change_p": -4.5154
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8869,
+        "totalAssets": 0.184,
+        "currentShares": 7256864,
+        "change": -886626,
+        "change_p": -10.8875
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8745,
+        "totalAssets": 0.2672,
+        "currentShares": 7155512,
+        "change": 754116,
+        "change_p": 11.7805
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.4559,
+        "totalAssets": 0.2644,
+        "currentShares": 28276573,
+        "change": -329618,
+        "change_p": -1.1523
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.9157,
+        "totalAssets": 0.313,
+        "currentShares": 23856948,
+        "change": -628711,
+        "change_p": -2.5677
+      },
+      "2": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.4807,
+        "totalAssets": 0.315,
+        "currentShares": 12115388,
+        "change": 19966,
+        "change_p": 0.1651
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.472,
+        "totalAssets": 0.3122,
+        "currentShares": 12043930,
+        "change": -6552,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3272,
+        "totalAssets": 0.3118,
+        "currentShares": 10859160,
+        "change": -26705,
+        "change_p": -0.2453
+      },
+      "5": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1545,
+        "totalAssets": 0.7448,
+        "currentShares": 9446088,
+        "change": 1657043,
+        "change_p": 21.274
+      },
+      "6": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8592,
+        "totalAssets": 1.5565,
+        "currentShares": 7030189,
+        "change": 18665,
+        "change_p": 0.2662
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7738,
+        "totalAssets": 0.3857,
+        "currentShares": 6331046,
+        "change": -3115042,
+        "change_p": -32.9771
+      },
+      "8": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7553,
+        "totalAssets": 0.9304,
+        "currentShares": 6179890,
+        "change": 133931,
+        "change_p": 2.2152
+      },
+      "9": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7466,
+        "totalAssets": 0.9371,
+        "currentShares": 6108588,
+        "change": -198152,
+        "change_p": -3.1419
+      },
+      "10": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.7361,
+        "totalAssets": 0.4265,
+        "currentShares": 6023253,
+        "change": 950953,
+        "change_p": 18.748
+      },
+      "11": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 0.6746,
+        "totalAssets": 2.4737,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.6452,
+        "totalAssets": 0.3123,
+        "currentShares": 5279137,
+        "change": -113693,
+        "change_p": -2.1082
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.6113,
+        "totalAssets": 0.309,
+        "currentShares": 5001781,
+        "change": -73100,
+        "change_p": -1.4404
+      },
+      "14": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6112,
+        "totalAssets": 0.6363,
+        "currentShares": 5000952,
+        "change": 897293,
+        "change_p": 21.8657
+      },
+      "15": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.6018,
+        "totalAssets": 0.2892,
+        "currentShares": 4923867,
+        "change": -4850159,
+        "change_p": -49.6229
+      },
+      "16": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5631,
+        "totalAssets": 1.9234,
+        "currentShares": 4607100,
+        "change": 3033917,
+        "change_p": 192.8521
+      },
+      "17": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.5542,
+        "totalAssets": 1.248,
+        "currentShares": 4534607,
+        "change": 118108,
+        "change_p": 2.6742
+      },
+      "18": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.5508,
+        "totalAssets": 0.5465,
+        "currentShares": 4506607,
+        "change": 1593611,
+        "change_p": 54.7069
+      },
+      "19": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5364,
+        "totalAssets": 0.7145,
+        "currentShares": 4388525,
+        "change": 1110325,
+        "change_p": 33.87
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.841,
+    "ForwardPE": 13.1579,
+    "PriceSalesTTM": 3.5098,
+    "PriceBookMRQ": 2.3971,
+    "EnterpriseValue": 153355455031,
+    "EnterpriseValueRevenue": 3.5973,
+    "EnterpriseValueEbitda": 11.9047
+  },
+  "Highlights": {
+    "MarketCapitalization": 145744461824,
+    "MarketCapitalizationMln": 145744.4618,
+    "EBITDA": 12547999744,
+    "PERatio": 22.841,
+    "PEGRatio": 0.9403,
+    "WallStreetTargetPrice": 268.8725,
+    "BookValue": 63.662,
+    "DividendShare": 1.664,
+    "DividendYield": 0.0096,
+    "EarningsShare": 7.8,
+    "EPSEstimateCurrentYear": 11.7708,
+    "EPSEstimateNextYear": 13.115,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 3.0503,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.1796,
+    "OperatingMarginTTM": 0.1924,
+    "ReturnOnAssetsTTM": 0.0518,
+    "ReturnOnEquityTTM": 0.124,
+    "RevenueTTM": 41524998144,
+    "RevenuePerShareTTM": 43.711,
+    "QuarterlyRevenueGrowthYOY": 0.121,
+    "GrossProfitTTM": 32255000576,
+    "DilutedEpsTTM": 7.8,
+    "QuarterlyEarningsGrowthYOY": 0.179
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 13.24,
+    "TotalEsgPercentile": 5.72,
+    "EnvironmentScore": 0.97,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 5.99,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 4.28,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CRM",
+    "Type": "Common Stock",
+    "Name": "Salesforce.com Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BN2DC2",
+    "ISIN": "US79466L3024",
+    "LEI": "RCGZFPDMRW58VJ54VR07",
+    "PrimaryTicker": "CRM.US",
+    "CUSIP": "79466L302",
+    "CIK": "0001108524",
+    "EmployerIdNumber": "94-3320693",
+    "FiscalYearEnd": "January",
+    "IPODate": "2004-06-23",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to bring all of their customer, employee, IT, and field service needs onto one integrated AI-powered platform; Data 360, a data engine that gives AI agents their context and serves as the foundation for how customers unify service offerings, making their data actionable for both humans and agents; Informatica, an AI-powered data management platform that enables customers to discover, integrate, govern, and deliver trusted data at scale across hybrid and multi-cloud environments; and Slack, a conversational interface for the agentic enterprise where people and agents work together, connecting knowledge, actions, and data in real time. It also provides marketing platforms; commerce services, which empower shopping experiences across various customer touchpoints; integration and analytics solutions; Salesforce Starter, a suite for small and medium-sized businesses that brings sales, service, marketing, and commerce together; and a field service solution that enables companies to connect service agents, dispatchers, and mobile employees through one centralized platform to schedule and dispatch work, as well as track and manage jobs. It serves financial services, healthcare and life sciences, manufacturing, automotive, and government sectors. Salesforce, Inc. was incorporated in 1999 and is headquartered in San Francisco, California.",
+    "Address": "Salesforce Tower, San Francisco, CA, United States, 94105",
+    "AddressData": {
+      "Street": "Salesforce Tower",
+      "City": "San Francisco",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94105"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SSFO34",
+        "Exchange": "SA",
+        "Name": "salesforce.com inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Marc R. Benioff",
+        "Title": "Co-Founder, Chairman & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Miguel  Milano",
+        "Title": "President & Chief Revenue Officer",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Srinivas  Tallapragada",
+        "Title": "President, Chief Engineering & Customer Success Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. David  Schmaier",
+        "Title": "President and Chief Strategy Officer",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Parker  Harris",
+        "Title": "Co-Founder, CTO of Slack & Director",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Mr. Stephen D. Fisher",
+        "Title": "President, CPO, Executive VP and GM of Next Gen CRM & Unified Data",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Sabastian V. Niles",
+        "Title": "President, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1980"
+      },
+      "7": {
+        "Name": "Mr. Patrick  Stokes",
+        "Title": "President & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Sundeep G. Reddy",
+        "Title": "Executive VP & Chief Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "9": {
+        "Name": "Mr. Andy  White",
+        "Title": "Senior Vice President of Technology",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "415 901 7000",
+    "WebURL": "https://www.salesforce.com",
+    "LogoURL": "/img/logos/US/CRM.png",
+    "FullTimeEmployees": 83334,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 818053744,
+    "SharesFloat": 894423920,
+    "PercentInsiders": 3.02,
+    "PercentInstitutions": 96.185,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1047
+  }
+}

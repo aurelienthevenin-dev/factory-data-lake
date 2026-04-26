@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.7276,
+        "totalAssets": 0.0424,
+        "currentShares": 27952869,
+        "change": 1043746,
+        "change_p": 3.8788
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.656,
+        "totalAssets": 0.026,
+        "currentShares": 16842151,
+        "change": 97125,
+        "change_p": 0.58
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.5196,
+        "totalAssets": 0.0873,
+        "currentShares": 16348552,
+        "change": 5398198,
+        "change_p": 49.297
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.0738,
+        "totalAssets": 0.034,
+        "currentShares": 11118587,
+        "change": 259048,
+        "change_p": 2.3854
+      },
+      "4": {
+        "name": "Eagle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4133,
+        "totalAssets": 2.8469,
+        "currentShares": 8729535,
+        "change": -239203,
+        "change_p": -2.6671
+      },
+      "5": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 2.2505,
+        "totalAssets": 0.6532,
+        "currentShares": 8140550,
+        "change": 5286875,
+        "change_p": 185.2655
+      },
+      "6": {
+        "name": "Independent Franchise Partners LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1666,
+        "totalAssets": 5.2195,
+        "currentShares": 7837249,
+        "change": 83857,
+        "change_p": 1.0816
+      },
+      "7": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.1434,
+        "totalAssets": 0.1104,
+        "currentShares": 7753101,
+        "change": -4391022,
+        "change_p": -36.1576
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0277,
+        "totalAssets": 0.1018,
+        "currentShares": 7334725,
+        "change": -261654,
+        "change_p": -3.4445
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7439,
+        "totalAssets": 0.0406,
+        "currentShares": 6308108,
+        "change": 331530,
+        "change_p": 5.5472
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.733,
+        "totalAssets": 0.0166,
+        "currentShares": 6268784,
+        "change": 4413269,
+        "change_p": 237.846
+      },
+      "11": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6898,
+        "totalAssets": 0.0966,
+        "currentShares": 6112501,
+        "change": 1937107,
+        "change_p": 46.3934
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2511,
+        "totalAssets": 0.0242,
+        "currentShares": 4525736,
+        "change": -1204213,
+        "change_p": -21.0161
+      },
+      "13": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.132,
+        "totalAssets": 0.349,
+        "currentShares": 4094761,
+        "change": 4001300,
+        "change_p": 4281.251
+      },
+      "14": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.0156,
+        "totalAssets": 0.318,
+        "currentShares": 3673736,
+        "change": -678941,
+        "change_p": -15.5982
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8155,
+        "totalAssets": 0.0331,
+        "currentShares": 2949886,
+        "change": 602572,
+        "change_p": 25.6707
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7995,
+        "totalAssets": 0.0371,
+        "currentShares": 2892053,
+        "change": -558042,
+        "change_p": -16.1747
+      },
+      "17": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7537,
+        "totalAssets": 0.1611,
+        "currentShares": 2726234,
+        "change": 413699,
+        "change_p": 17.8894
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6776,
+        "totalAssets": 0.0276,
+        "currentShares": 2451128,
+        "change": 9969,
+        "change_p": 0.4084
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6632,
+        "totalAssets": 0.0459,
+        "currentShares": 2398994,
+        "change": -821700,
+        "change_p": -25.5131
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.1728,
+        "totalAssets": 0.0283,
+        "currentShares": 7859750,
+        "change": 1177002,
+        "change_p": 17.6125
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.7406,
+        "totalAssets": 0.0318,
+        "currentShares": 6296272,
+        "change": -27436,
+        "change_p": -0.4339
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.4764,
+        "totalAssets": 0.1929,
+        "currentShares": 5340552,
+        "change": 747226,
+        "change_p": 16.2676
+      },
+      "3": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 1.2883,
+        "totalAssets": 0.3007,
+        "currentShares": 4660255,
+        "change": 391499,
+        "change_p": 9.1713
+      },
+      "4": {
+        "name": "Invesco World Dev Countries Eq Mother",
+        "date": "2025-07-23",
+        "totalShares": 0.9033,
+        "totalAssets": 1.5722,
+        "currentShares": 3267400,
+        "change": -36,
+        "change_p": -0.0011
+      },
+      "5": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8841,
+        "totalAssets": 1.9112,
+        "currentShares": 3198173,
+        "change": -1332,
+        "change_p": -0.0416
+      },
+      "6": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 0.8834,
+        "totalAssets": 1.9744,
+        "currentShares": 3195509,
+        "change": -157044,
+        "change_p": -4.6843
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8785,
+        "totalAssets": 0.0317,
+        "currentShares": 3177623,
+        "change": -1728,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.865,
+        "totalAssets": 0.0457,
+        "currentShares": 3128793,
+        "change": 5163,
+        "change_p": 0.1653
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7875,
+        "totalAssets": 0.0314,
+        "currentShares": 2848587,
+        "change": -7056,
+        "change_p": -0.2471
+      },
+      "10": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7214,
+        "totalAssets": 0.1312,
+        "currentShares": 2609415,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7151,
+        "totalAssets": 1.1979,
+        "currentShares": 2586582,
+        "change": -1093,
+        "change_p": -0.0422
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6316,
+        "totalAssets": 0.0727,
+        "currentShares": 2284842,
+        "change": 316754,
+        "change_p": 16.0945
+      },
+      "13": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.622,
+        "totalAssets": 1.0786,
+        "currentShares": 2250000,
+        "change": 329000,
+        "change_p": 17.1265
+      },
+      "14": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5529,
+        "totalAssets": 0.1287,
+        "currentShares": 2000000,
+        "change": -700000,
+        "change_p": -25.9259
+      },
+      "15": {
+        "name": "Schroder ISF US Large Cap A Dis $ AV",
+        "date": "2026-02-28",
+        "totalShares": 0.5259,
+        "totalAssets": 2.0881,
+        "currentShares": 1902468,
+        "change": 1656237,
+        "change_p": 672.6355
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5244,
+        "totalAssets": 0.1596,
+        "currentShares": 1896868,
+        "change": 5633,
+        "change_p": 0.2978
+      },
+      "17": {
+        "name": "Fidelity Contrafund Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.5005,
+        "totalAssets": 0.3132,
+        "currentShares": 1810484,
+        "change": 258029,
+        "change_p": 16.6207
+      },
+      "18": {
+        "name": "Franklin Mutual Shares Z",
+        "date": "2026-03-31",
+        "totalShares": 0.4211,
+        "totalAssets": 1.6339,
+        "currentShares": 1523376,
+        "change": 75931,
+        "change_p": 5.2459
+      },
+      "19": {
+        "name": "Fidelity Puritan",
+        "date": "2026-01-31",
+        "totalShares": 0.4092,
+        "totalAssets": 0.5283,
+        "currentShares": 1480224,
+        "change": -18800,
+        "change_p": -1.2541
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 25.5102,
+    "PriceSalesTTM": 1.9187,
+    "PriceBookMRQ": 6.8559,
+    "EnterpriseValue": 33943946084,
+    "EnterpriseValueRevenue": 2.3137,
+    "EnterpriseValueEbitda": 24.4377
+  },
+  "Highlights": {
+    "MarketCapitalization": 28149598208,
+    "MarketCapitalizationMln": 28149.5982,
+    "EBITDA": 2204999936,
+    "PERatio": null,
+    "PEGRatio": 1.4246,
+    "WallStreetTargetPrice": 96.2727,
+    "BookValue": 11.146,
+    "DividendShare": 1.4,
+    "DividendYield": 0.0183,
+    "EarningsShare": -0.51,
+    "EPSEstimateCurrentYear": 2.2135,
+    "EPSEstimateNextYear": 3.0116,
+    "EPSEstimateNextQuarter": 0.7417,
+    "EPSEstimateCurrentQuarter": 0.8349,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0121,
+    "OperatingMarginTTM": 0.1426,
+    "ReturnOnAssetsTTM": 0.0442,
+    "ReturnOnEquityTTM": -0.0434,
+    "RevenueTTM": 14670999552,
+    "RevenuePerShareTTM": 40.634,
+    "QuarterlyRevenueGrowthYOY": 0.056,
+    "GrossProfitTTM": 10903000064,
+    "DilutedEpsTTM": -0.51,
+    "QuarterlyEarningsGrowthYOY": -0.516
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.34,
+    "TotalEsgPercentile": 38.82,
+    "EnvironmentScore": 6.44,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 5.96,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 5.94,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EL",
+    "Type": "Common Stock",
+    "Name": "Estee Lauder Companies Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000FKJRC5",
+    "ISIN": "US5184391044",
+    "LEI": "549300VFZ8XJ9NUPU221",
+    "PrimaryTicker": "EL.US",
+    "CUSIP": "518439104",
+    "CIK": "0001001250",
+    "EmployerIdNumber": "11-2408943",
+    "FiscalYearEnd": "June",
+    "IPODate": "1995-11-16",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Household & Personal Products",
+    "GicIndustry": "Personal Care Products",
+    "GicSubIndustry": "Personal Care Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Estée Lauder Companies Inc. manufactures, markets, and sells skin care, makeup, fragrance, and hair care products worldwide. The company offers skin care products, including moisturizers, serums, cleansers, toners, eye care, body care, exfoliators, acne care and oil correctors, facial masks, and sun care products; and makeup products, such as foundations, powders, concealers and setting sprays, lipsticks, lip liners and lip glosses, mascaras, and eyeshadows and eyeliners, as well as compacts, brushes, and other makeup tools. It also provides fragrance products in various forms comprising parfum, eau de parfum, eau de toilette, eau de cologne, and body spray, as well as lotions, creams, powders, candles and soaps; and hair care products, including shampoos, conditioners, styling products, treatment, finishing sprays, and hair colour products, as well as sells ancillary products and services. The company offers its products under the La Mer, Jo Malone London, TOM FORD, AERIN Beauty, Le Labo, Editions de Parfums Frédéric Malle, KILIAN PARIS, BALMAIN Beauty, Estée Lauder, Clinique, M·A·C, The Ordinary, Aveda, Bobbi Brown Cosmetics, Too Faced, Dr.Jart+, Bumble and bumble, Editions de Parfums Frédéric Malle, Smashbox, Darphin Paris, Lab Series, NIOD, Aramis, and GLAMGLOW brands. It sells its products through department stores, duty-free retailers, specialty multi retailers, online pure players, upscale perfumeries and pharmacies, and top-tier salons and spas, as well as direct-to-consumer businesses across freestanding stores, and brand websites and third-party online platforms. The Estée Lauder Companies Inc. was founded in 1946 and is headquartered in New York, New York.",
+    "Address": "767 Fifth Avenue, New York, NY, United States, 10153",
+    "AddressData": {
+      "Street": "767 Fifth Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10153"
+    },
+    "Listings": {
+      "0": {
+        "Code": "0JTM",
+        "Exchange": "LSE",
+        "Name": "The Estée Lauder Companies Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Stephane  de la Faverie",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. Akhil  Shrivastava",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Ms. Rashida K. La Lande",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Ms. Jane Hertzmark Hudis",
+        "Title": "Executive VP & Chief Brand Officer",
+        "YearBorn": "1961"
+      },
+      "4": {
+        "Name": "Mr. Brian J. Franz",
+        "Title": "Chief Technology, Data & Analytics Officer",
+        "YearBorn": "1965"
+      },
+      "5": {
+        "Name": "Ms. Deborah  Krulewitch",
+        "Title": "Senior Vice President of Corporate Administration",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Laraine A. Mancini",
+        "Title": "Senior Vice President Finance & Strategy & Head of Investor Relations",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Ms. Meridith  Webster",
+        "Title": "Chief Communications and Public Affairs Officer",
+        "YearBorn": "1976"
+      },
+      "8": {
+        "Name": "Ms. Aude  Gandon",
+        "Title": "Chief Digital & Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Michael  Bowes",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "212 572 4200",
+    "WebURL": "https://www.elcompanies.com",
+    "LogoURL": "/img/logos/US/EL.png",
+    "FullTimeEmployees": 40470,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 247219699,
+    "SharesFloat": 246213129,
+    "PercentInsiders": 1.553,
+    "PercentInstitutions": 96.25200000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0371
+  }
+}

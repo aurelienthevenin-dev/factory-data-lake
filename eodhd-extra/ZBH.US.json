@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 12.1439,
+        "totalAssets": 1.141,
+        "currentShares": 23506849,
+        "change": 290676,
+        "change_p": 1.252
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.132,
+        "totalAssets": 0.0306,
+        "currentShares": 23483741,
+        "change": 192517,
+        "change_p": 0.8266
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3432,
+        "totalAssets": 0.0279,
+        "currentShares": 16149859,
+        "change": 34447,
+        "change_p": 0.2138
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 7.7918,
+        "totalAssets": 0.1589,
+        "currentShares": 15082438,
+        "change": 285834,
+        "change_p": 1.9318
+      },
+      "4": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 6.3361,
+        "totalAssets": 1.3939,
+        "currentShares": 12264703,
+        "change": 7514136,
+        "change_p": 158.1735
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4593,
+        "totalAssets": 0.0296,
+        "currentShares": 8631760,
+        "change": -116486,
+        "change_p": -1.3315
+      },
+      "6": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.6824,
+        "totalAssets": 0.1005,
+        "currentShares": 7127913,
+        "change": -422841,
+        "change_p": -5.6
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7039,
+        "totalAssets": 0.0289,
+        "currentShares": 5233834,
+        "change": 36611,
+        "change_p": 0.7044
+      },
+      "8": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.5393,
+        "totalAssets": 0.2221,
+        "currentShares": 4915237,
+        "change": -261459,
+        "change_p": -5.0507
+      },
+      "9": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.4116,
+        "totalAssets": 0.1147,
+        "currentShares": 4668130,
+        "change": -5730,
+        "change_p": -0.1226
+      },
+      "10": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 2.0661,
+        "totalAssets": 0.2722,
+        "currentShares": 3999410,
+        "change": -251220,
+        "change_p": -5.9102
+      },
+      "11": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9575,
+        "totalAssets": 0.0857,
+        "currentShares": 3789200,
+        "change": 58335,
+        "change_p": 1.5636
+      },
+      "12": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.8667,
+        "totalAssets": 0.2685,
+        "currentShares": 3613425,
+        "change": 136519,
+        "change_p": 3.9265
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5697,
+        "totalAssets": 0.0472,
+        "currentShares": 3038386,
+        "change": -1568205,
+        "change_p": -34.0426
+      },
+      "14": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.279,
+        "totalAssets": 0.1262,
+        "currentShares": 2475768,
+        "change": 551005,
+        "change_p": 28.6272
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.271,
+        "totalAssets": 0.0237,
+        "currentShares": 2460348,
+        "change": -15996,
+        "change_p": -0.646
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1365,
+        "totalAssets": 0.0415,
+        "currentShares": 2199955,
+        "change": -69167,
+        "change_p": -3.0482
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0896,
+        "totalAssets": 0.0266,
+        "currentShares": 2109159,
+        "change": -76013,
+        "change_p": -3.4786
+      },
+      "18": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9189,
+        "totalAssets": 0.0053,
+        "currentShares": 1778712,
+        "change": 849810,
+        "change_p": 91.4854
+      },
+      "19": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8909,
+        "totalAssets": 0.4632,
+        "currentShares": 1724601,
+        "change": 114240,
+        "change_p": 7.0941
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 8.0333,
+        "totalAssets": 1.1684,
+        "currentShares": 15549900,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2081,
+        "totalAssets": 0.0281,
+        "currentShares": 6209866,
+        "change": -59444,
+        "change_p": -0.9482
+      },
+      "2": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 2.9407,
+        "totalAssets": 1.9921,
+        "currentShares": 5692292,
+        "change": 2583000,
+        "change_p": 83.0736
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.6074,
+        "totalAssets": 0.0321,
+        "currentShares": 5047112,
+        "change": -50438,
+        "change_p": -0.9895
+      },
+      "4": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.325,
+        "totalAssets": 0.6378,
+        "currentShares": 4500550,
+        "change": 3610342,
+        "change_p": 405.5616
+      },
+      "5": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.2791,
+        "totalAssets": 0.2001,
+        "currentShares": 4411630,
+        "change": 538728,
+        "change_p": 13.9102
+      },
+      "6": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1835,
+        "totalAssets": 0.1923,
+        "currentShares": 4226654,
+        "change": -80394,
+        "change_p": -1.8666
+      },
+      "7": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.0008,
+        "totalAssets": 0.1673,
+        "currentShares": 3872902,
+        "change": -412511,
+        "change_p": -9.6259
+      },
+      "8": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7376,
+        "totalAssets": 2.6201,
+        "currentShares": 3363387,
+        "change": -1400,
+        "change_p": -0.0416
+      },
+      "9": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 1.7361,
+        "totalAssets": 2.6159,
+        "currentShares": 3360587,
+        "change": 120083,
+        "change_p": 3.7057
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3163,
+        "totalAssets": 0.032,
+        "currentShares": 2548022,
+        "change": -1392,
+        "change_p": -0.0546
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.303,
+        "totalAssets": 0.0331,
+        "currentShares": 2522132,
+        "change": 4171,
+        "change_p": 0.1656
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.191,
+        "totalAssets": 0.0321,
+        "currentShares": 2305491,
+        "change": -5635,
+        "change_p": -0.2438
+      },
+      "13": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1882,
+        "totalAssets": 1.2527,
+        "currentShares": 2300000,
+        "change": -65798,
+        "change_p": -2.7812
+      },
+      "14": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1662,
+        "totalAssets": 1.3715,
+        "currentShares": 2257398,
+        "change": -530144,
+        "change_p": -19.0183
+      },
+      "15": {
+        "name": "Templeton Growth A",
+        "date": "2026-03-31",
+        "totalShares": 1.0497,
+        "totalAssets": 1.0707,
+        "currentShares": 2031866,
+        "change": 1015933,
+        "change_p": 100
+      },
+      "16": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.9645,
+        "totalAssets": 1.0446,
+        "currentShares": 1867000,
+        "change": -288000,
+        "change_p": -13.3643
+      },
+      "17": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.9577,
+        "totalAssets": 0.1089,
+        "currentShares": 1853722,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9577,
+        "totalAssets": 0.103,
+        "currentShares": 1853722,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.957,
+        "totalAssets": 0.1964,
+        "currentShares": 1852550,
+        "change": 5502,
+        "change_p": 0.2979
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 26.0394,
+    "ForwardPE": 11.0011,
+    "PriceSalesTTM": 2.146,
+    "PriceBookMRQ": 1.4092,
+    "EnterpriseValue": 24820725940,
+    "EnterpriseValueRevenue": 3.0153,
+    "EnterpriseValueEbitda": 11.1936
+  },
+  "Highlights": {
+    "MarketCapitalization": 17893527552,
+    "MarketCapitalizationMln": 17893.5276,
+    "EBITDA": 2495399936,
+    "PERatio": 26.0394,
+    "PEGRatio": 0.6361,
+    "WallStreetTargetPrice": 102.9524,
+    "BookValue": 64.95,
+    "DividendShare": 0.96,
+    "DividendYield": 0.0103,
+    "EarningsShare": 3.55,
+    "EPSEstimateCurrentYear": 8.3959,
+    "EPSEstimateNextYear": 8.9927,
+    "EPSEstimateNextQuarter": 1.9085,
+    "EPSEstimateCurrentQuarter": 2.3978,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0857,
+    "OperatingMarginTTM": 0.1397,
+    "ReturnOnAssetsTTM": 0.0394,
+    "ReturnOnEquityTTM": 0.056,
+    "RevenueTTM": 8231499776,
+    "RevenuePerShareTTM": 41.573,
+    "QuarterlyRevenueGrowthYOY": 0.109,
+    "GrossProfitTTM": 5737999872,
+    "DilutedEpsTTM": 3.55,
+    "QuarterlyEarningsGrowthYOY": -0.408
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 40.16,
+    "TotalEsgPercentile": 77.24,
+    "EnvironmentScore": 9.29,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 23.4,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 16.46,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ZBH",
+    "Type": "Common Stock",
+    "Name": "Zimmer Biomet Holdings Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKPL53",
+    "ISIN": "US98956P1021",
+    "LEI": "2P2YLDVPES3BXQ1FRB91",
+    "PrimaryTicker": "ZBH.US",
+    "CUSIP": "98956P102",
+    "CIK": "0001136869",
+    "EmployerIdNumber": "13-4151777",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-07-25",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Zimmer Biomet Holdings, Inc., together with its subsidiaries, operates as a medical technology company worldwide. The company designs, manufactures, and markets orthopedic reconstructive products, such as knee and hip products; S.E.T. products, including sports medicine, biologics, foot and ankle, upper extremities, and trauma and CMFT products; sports medicine products for the repair of soft tissue injuries, used in the knee and shoulder; and craniomaxillofacial and thoracic products comprising face and skull reconstruction products, as well as products that fixate and stabilize the bones of the chest to facilitate healing or reconstruction after open-heart surgery, trauma, or for deformities of the chest. It offers technology and data, bone cement, and surgical products; and a suite of integrated digital and robotic technologies that leverage data, data analytics and artificial intelligence. The company's products and solutions are used to treat patients suffering from disorders of, or injuries to, bones, joints, or supporting soft tissues. It serves orthopedic surgeons, neurosurgeons, hospitals, healthcare institutions, stocking distributors, healthcare dealers, and other specialists, as well as agents, healthcare purchasing organizations, or buying groups. It also offers ROSA Robot, which utilizes robotic technologies to assist a surgeon with implant positioning in total knee arthroplasty or partial knee arthroplasty; and the ZBEdge Platform connects robotic and digital technologies together to collect data before, during and after surgery, that can deliver insights to surgeons to assist in making informed decisions on patient care. The company was formerly known as Zimmer Holdings, Inc. and changed its name to Zimmer Biomet Holdings, Inc. in June 2015. Zimmer Biomet Holdings, Inc. was founded in 1927 and is headquartered in Warsaw, Indiana.",
+    "Address": "345 East Main Street, Warsaw, IN, United States, 46580",
+    "AddressData": {
+      "Street": "345 East Main Street",
+      "City": "Warsaw",
+      "State": "IN",
+      "Country": "United States",
+      "ZIP": "46580"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ivan  Tornos",
+        "Title": "President, CEO & Chairman of the Board",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Suketu P. Upadhyay",
+        "Title": "CFO and Executive VP of Finance, Operations & Supply Chain",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Wilfred  van Zuilen",
+        "Title": "Group President of Europe, Middle East & Africa",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. JehanZeb  Noor",
+        "Title": "Senior VP, Chief Strategy, Business Development, Innovation & Transformation Officer",
+        "YearBorn": "1982"
+      },
+      "4": {
+        "Name": "Mr. Kevin R. Thornal",
+        "Title": "Group President of Global Businesses & Americas",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Paul A. Stellato",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Mr. Shaun  Braun",
+        "Title": "Senior VP & Chief Information and Technology Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Dr. Jonathan M. Vigdorchik M.D.",
+        "Title": "Chief Science, Technology & Medical Affairs Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. David M. DeMartino",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Chad F. Phipps J.D.",
+        "Title": "Senior VP, Chief Legal & Corporate Affairs Officer and Secretary",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "574 373 3333",
+    "WebURL": "https://www.zimmerbiomet.com",
+    "LogoURL": "/img/logos/US/ZBH.png",
+    "FullTimeEmployees": 17000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 193569082,
+    "SharesFloat": 195051352,
+    "PercentInsiders": 0.201,
+    "PercentInstitutions": 105.50500000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0679
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2506,
+        "totalAssets": 0.0567,
+        "currentShares": 128133282,
+        "change": 368445,
+        "change_p": 0.2884
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.716,
+        "totalAssets": 0.0401,
+        "currentShares": 79174742,
+        "change": 3477205,
+        "change_p": 4.5936
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.4199,
+        "totalAssets": 0.0475,
+        "currentShares": 47369740,
+        "change": 1845850,
+        "change_p": 4.0547
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.3109,
+        "totalAssets": 0.0397,
+        "currentShares": 45860878,
+        "change": 20387917,
+        "change_p": 80.0375
+      },
+      "4": {
+        "name": "Causeway Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4506,
+        "totalAssets": 14.2632,
+        "currentShares": 33944782,
+        "change": 2032781,
+        "change_p": 6.37
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1262,
+        "totalAssets": 0.0553,
+        "currentShares": 29450412,
+        "change": 683311,
+        "change_p": 2.3753
+      },
+      "6": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1027,
+        "totalAssets": 2.9622,
+        "currentShares": 29125985,
+        "change": -6983644,
+        "change_p": -19.3401
+      },
+      "7": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9297,
+        "totalAssets": 0.2138,
+        "currentShares": 26729524,
+        "change": 364529,
+        "change_p": 1.3826
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4162,
+        "totalAssets": 0.0306,
+        "currentShares": 19616279,
+        "change": -1969695,
+        "change_p": -9.1249
+      },
+      "9": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0879,
+        "totalAssets": 0.0965,
+        "currentShares": 15069144,
+        "change": 559128,
+        "change_p": 3.8534
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0298,
+        "totalAssets": 0.025,
+        "currentShares": 14264295,
+        "change": 474098,
+        "change_p": 3.4379
+      },
+      "11": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0152,
+        "totalAssets": 1.1398,
+        "currentShares": 14061827,
+        "change": 14061827,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8906,
+        "totalAssets": 0.0456,
+        "currentShares": 12336164,
+        "change": 221223,
+        "change_p": 1.826
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7744,
+        "totalAssets": 0.0489,
+        "currentShares": 10726764,
+        "change": 42577,
+        "change_p": 0.3985
+      },
+      "14": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.7392,
+        "totalAssets": 0.0548,
+        "currentShares": 10239048,
+        "change": -1920571,
+        "change_p": -15.7947
+      },
+      "15": {
+        "name": "BNP Paribas Arbitrage, SA",
+        "date": "2025-12-31",
+        "totalShares": 0.7191,
+        "totalAssets": 0.1378,
+        "currentShares": 9959988,
+        "change": 176065,
+        "change_p": 1.7995
+      },
+      "16": {
+        "name": "Bessemer Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6137,
+        "totalAssets": 0.3986,
+        "currentShares": 8500463,
+        "change": -18090978,
+        "change_p": -68.0331
+      },
+      "17": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.6067,
+        "totalAssets": 0.0385,
+        "currentShares": 8403019,
+        "change": -3842885,
+        "change_p": -31.381
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5736,
+        "totalAssets": 0.0377,
+        "currentShares": 7945619,
+        "change": 148906,
+        "change_p": 1.9099
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5642,
+        "totalAssets": 0.0293,
+        "currentShares": 7815142,
+        "change": 455145,
+        "change_p": 6.184
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5518,
+        "totalAssets": 0.0458,
+        "currentShares": 35345817,
+        "change": 2126168,
+        "change_p": 6.4003
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1154,
+        "totalAssets": 0.0533,
+        "currentShares": 29300692,
+        "change": 1373426,
+        "change_p": 4.9179
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.7359,
+        "totalAssets": 0.3131,
+        "currentShares": 24044628,
+        "change": 1205606,
+        "change_p": 5.2787
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0674,
+        "totalAssets": 0.0531,
+        "currentShares": 14784542,
+        "change": -8052,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.9976,
+        "totalAssets": 0.0582,
+        "currentShares": 13818342,
+        "change": 22788,
+        "change_p": 0.1652
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9629,
+        "totalAssets": 0.0531,
+        "currentShares": 13337386,
+        "change": -32781,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Causeway International Value Instl",
+        "date": "2025-12-31",
+        "totalShares": 0.7779,
+        "totalAssets": 1.8616,
+        "currentShares": 10775392,
+        "change": -552245,
+        "change_p": -4.8752
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7427,
+        "totalAssets": 0.118,
+        "currentShares": 10287046,
+        "change": 505255,
+        "change_p": 5.1653
+      },
+      "8": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6112,
+        "totalAssets": 0.7499,
+        "currentShares": 8465861,
+        "change": -258843,
+        "change_p": -2.9668
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4827,
+        "totalAssets": 0.2029,
+        "currentShares": 6685903,
+        "change": 19781,
+        "change_p": 0.2967
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4675,
+        "totalAssets": 0.0531,
+        "currentShares": 6475728,
+        "change": 327801,
+        "change_p": 5.3319
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4432,
+        "totalAssets": 0.0526,
+        "currentShares": 6139579,
+        "change": 351400,
+        "change_p": 6.071
+      },
+      "12": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4385,
+        "totalAssets": 0.7404,
+        "currentShares": 6073399,
+        "change": -79604,
+        "change_p": -1.2937
+      },
+      "13": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.375,
+        "totalAssets": 0.0531,
+        "currentShares": 5194723,
+        "change": 318644,
+        "change_p": 6.5348
+      },
+      "14": {
+        "name": "Allianz Income and Growth IT H2 EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.3723,
+        "totalAssets": 0.285,
+        "currentShares": 5157335,
+        "change": 1440030,
+        "change_p": 38.7385
+      },
+      "15": {
+        "name": "Vanguard Growth & Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.3715,
+        "totalAssets": 0.8896,
+        "currentShares": 5146147,
+        "change": 178916,
+        "change_p": 3.6019
+      },
+      "16": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.3293,
+        "totalAssets": 0.0848,
+        "currentShares": 4561509,
+        "change": 303500,
+        "change_p": 7.1277
+      },
+      "17": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3238,
+        "totalAssets": 0.1303,
+        "currentShares": 4485656,
+        "change": 4485656,
+        "change_p": 0
+      },
+      "18": {
+        "name": "iShares Russell Mid-Cap ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3163,
+        "totalAssets": 0.2352,
+        "currentShares": 4381643,
+        "change": 1768,
+        "change_p": 0.0404
+      },
+      "19": {
+        "name": "MFS Mid Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.315,
+        "totalAssets": 0.9989,
+        "currentShares": 4363355,
+        "change": 617923,
+        "change_p": 16.498
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.9692,
+    "ForwardPE": 11.4155,
+    "PriceSalesTTM": 1.395,
+    "PriceBookMRQ": 2.8328,
+    "EnterpriseValue": 62817242307,
+    "EnterpriseValueRevenue": 2.3019,
+    "EnterpriseValueEbitda": 8.6066
+  },
+  "Highlights": {
+    "MarketCapitalization": 37634244608,
+    "MarketCapitalizationMln": 37634.2446,
+    "EBITDA": 7255000064,
+    "PERatio": 11.9692,
+    "PEGRatio": 1.0847,
+    "WallStreetTargetPrice": 34.5091,
+    "BookValue": 9.409,
+    "DividendShare": 0.15,
+    "DividendYield": 0.0056,
+    "EarningsShare": 2.27,
+    "EPSEstimateCurrentYear": 2.2227,
+    "EPSEstimateNextYear": 2.5884,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.1836,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.1148,
+    "OperatingMarginTTM": 0.0983,
+    "ReturnOnAssetsTTM": 0.0552,
+    "ReturnOnEquityTTM": 0.2785,
+    "RevenueTTM": 26976999424,
+    "RevenuePerShareTTM": 20.291,
+    "QuarterlyRevenueGrowthYOY": 0.061,
+    "GrossProfitTTM": 15098000384,
+    "DilutedEpsTTM": 2.27,
+    "QuarterlyEarningsGrowthYOY": 0.358
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.72,
+    "TotalEsgPercentile": 33.28,
+    "EnvironmentScore": 15.93,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 16,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 8.29,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CCL",
+    "Type": "Common Stock",
+    "Name": "Carnival Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BF6LY3",
+    "ISIN": "US1436583009",
+    "LEI": null,
+    "PrimaryTicker": "CCL.US",
+    "CUSIP": "143658102",
+    "CIK": "0000815097",
+    "EmployerIdNumber": "59-1562976",
+    "FiscalYearEnd": "November",
+    "IPODate": "1987-07-24",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Carnival Corporation & plc, a cruise company, provides leisure travel services in North America, Australia, Europe, and internationally. The company operates through four segments: North America Cruise Operations, Europe Cruise Operations, Cruise Support, and Tour and Other. It operates port destinations and islands, as well as owns and operates hotels, lodges, glass-domed railcars, and motorcoaches. The company offers its services under the AIDA Cruises, Carnival Cruise Line, Costa Cruises, Cunard, Holland America Line, P&O Cruises (Australia), P&O Cruises (UK), Princess Cruises, and Seabourn brands. It sells its cruises through travel agents, tour operators, vacation planners, websites, and onboard future cruise consultants. Carnival Corporation & plc was founded in 1972 and is headquartered in Miami, Florida.",
+    "Address": "3655 N.W. 87th Avenue, Miami, FL, United States, 33178-2428",
+    "AddressData": {
+      "Street": "3655 N.W. 87th Avenue",
+      "City": "Miami",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "33178-2428"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Michael Meir Arison",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1949"
+      },
+      "1": {
+        "Name": "Mr. Joshua Ian Weinstein",
+        "Title": "CEO & Director",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. David  Bernstein",
+        "Title": "CFO & Chief Accounting Officer",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Mr. Enrique  Miguez J.D.",
+        "Title": "General Counsel",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Ms. Bettina A. Deynes",
+        "Title": "Global Chief Human Resources Officer",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. Lars  Ljoen",
+        "Title": "Chief Maritime Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Ms. Beth  Roberts",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Jody  Venturoni",
+        "Title": "Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Hon. E. H. Horst Rahe",
+        "Title": "Life President of AIDA Cruises",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Tom  Strang",
+        "Title": "Senior Vice President of Maritime Affairs",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "305 599 2600",
+    "WebURL": "https://www.carnivalcorp.com",
+    "LogoURL": "/img/logos/US/ccl.png",
+    "FullTimeEmployees": 160000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1239000212,
+    "SharesFloat": 1286074395,
+    "PercentInsiders": 7.831,
+    "PercentInstitutions": 71.64,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0378
+  }
+}

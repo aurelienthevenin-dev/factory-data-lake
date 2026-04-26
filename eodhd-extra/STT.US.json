@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.2107,
+        "totalAssets": 0.0685,
+        "currentShares": 36598366,
+        "change": -361580,
+        "change_p": -0.9783
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.7843,
+        "totalAssets": 0.0494,
+        "currentShares": 24335672,
+        "change": -344858,
+        "change_p": -1.3973
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.1068,
+        "totalAssets": 0.0588,
+        "currentShares": 16917896,
+        "change": 8826830,
+        "change_p": 109.0935
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8735,
+        "totalAssets": 0.0543,
+        "currentShares": 13501324,
+        "change": -303202,
+        "change_p": -2.1964
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.8064,
+        "totalAssets": 0.0876,
+        "currentShares": 13315435,
+        "change": 2005503,
+        "change_p": 17.7322
+      },
+      "5": {
+        "name": "Regents Of The University Of California",
+        "date": "2025-12-31",
+        "totalShares": 3.1426,
+        "totalAssets": 51.6676,
+        "currentShares": 8706195,
+        "change": 5908370,
+        "change_p": 211.1773
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.0229,
+        "totalAssets": 0.1531,
+        "currentShares": 8374563,
+        "change": -191674,
+        "change_p": -2.2376
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6681,
+        "totalAssets": 0.0586,
+        "currentShares": 7391620,
+        "change": -46599,
+        "change_p": -0.6265
+      },
+      "8": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 2.2763,
+        "totalAssets": 1.0283,
+        "currentShares": 6306244,
+        "change": -1314807,
+        "change_p": -17.2523
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7287,
+        "totalAssets": 0.0336,
+        "currentShares": 4789181,
+        "change": 41236,
+        "change_p": 0.8685
+      },
+      "10": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 1.7125,
+        "totalAssets": 0.3304,
+        "currentShares": 4744154,
+        "change": -2051020,
+        "change_p": -30.1835
+      },
+      "11": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6458,
+        "totalAssets": 0.332,
+        "currentShares": 4559546,
+        "change": 1074174,
+        "change_p": 30.8195
+      },
+      "12": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5835,
+        "totalAssets": 1.6904,
+        "currentShares": 4386744,
+        "change": -157841,
+        "change_p": -3.4732
+      },
+      "13": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.5255,
+        "totalAssets": 1.1889,
+        "currentShares": 4226041,
+        "change": -243775,
+        "change_p": -5.4538
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4224,
+        "totalAssets": 0.0585,
+        "currentShares": 3940646,
+        "change": -62898,
+        "change_p": -1.5711
+      },
+      "15": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.393,
+        "totalAssets": 0.1116,
+        "currentShares": 3859012,
+        "change": 137049,
+        "change_p": 3.6822
+      },
+      "16": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.2933,
+        "totalAssets": 0.3359,
+        "currentShares": 3582977,
+        "change": 835331,
+        "change_p": 30.4017
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.101,
+        "totalAssets": 0.0826,
+        "currentShares": 3050198,
+        "change": -10177,
+        "change_p": -0.3325
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0898,
+        "totalAssets": 0.0375,
+        "currentShares": 3019111,
+        "change": -478137,
+        "change_p": -13.6718
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0785,
+        "totalAssets": 0.0473,
+        "currentShares": 2987933,
+        "change": 613938,
+        "change_p": 25.861
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.035,
+        "totalAssets": 0.0533,
+        "currentShares": 8408078,
+        "change": 26431,
+        "change_p": 0.3153
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5651,
+        "totalAssets": 0.0632,
+        "currentShares": 7106306,
+        "change": -79250,
+        "change_p": -1.1029
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0647,
+        "totalAssets": 0.3643,
+        "currentShares": 5720081,
+        "change": -47259,
+        "change_p": -0.8194
+      },
+      "3": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.3517,
+        "totalAssets": 0.7613,
+        "currentShares": 3744658,
+        "change": 1181980,
+        "change_p": 46.1228
+      },
+      "4": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 1.3391,
+        "totalAssets": 0.3999,
+        "currentShares": 3709700,
+        "change": -1727000,
+        "change_p": -31.7656
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.295,
+        "totalAssets": 0.0631,
+        "currentShares": 3587662,
+        "change": -1956,
+        "change_p": -0.0545
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2831,
+        "totalAssets": 0.061,
+        "currentShares": 3554608,
+        "change": 5869,
+        "change_p": 0.1654
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1728,
+        "totalAssets": 0.0632,
+        "currentShares": 3249090,
+        "change": -7938,
+        "change_p": -0.2437
+      },
+      "8": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.0474,
+        "totalAssets": 1.4569,
+        "currentShares": 2901700,
+        "change": -2034000,
+        "change_p": -41.21
+      },
+      "9": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9292,
+        "totalAssets": 1.6417,
+        "currentShares": 2574148,
+        "change": 1772,
+        "change_p": 0.0689
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8834,
+        "totalAssets": 0.1372,
+        "currentShares": 2447321,
+        "change": -34740,
+        "change_p": -1.3996
+      },
+      "11": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.8709,
+        "totalAssets": 0.1405,
+        "currentShares": 2412726,
+        "change": 263342,
+        "change_p": 12.252
+      },
+      "12": {
+        "name": "Invesco Large Cap Value",
+        "date": "2025-12-31",
+        "totalShares": 0.8051,
+        "totalAssets": 2.2315,
+        "currentShares": 2230511,
+        "change": -105378,
+        "change_p": -4.5113
+      },
+      "13": {
+        "name": "Invesco Comstock A",
+        "date": "2026-01-31",
+        "totalShares": 0.7907,
+        "totalAssets": 2.1669,
+        "currentShares": 2190495,
+        "change": -40016,
+        "change_p": -1.794
+      },
+      "14": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.7247,
+        "totalAssets": 0.5356,
+        "currentShares": 2007577,
+        "change": 41567,
+        "change_p": 2.1143
+      },
+      "15": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6886,
+        "totalAssets": 0.5003,
+        "currentShares": 1907797,
+        "change": 3234,
+        "change_p": 0.1698
+      },
+      "16": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6863,
+        "totalAssets": 0.5913,
+        "currentShares": 1901155,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6217,
+        "totalAssets": 0.6275,
+        "currentShares": 1722447,
+        "change": 66293,
+        "change_p": 4.0028
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5673,
+        "totalAssets": 0.063,
+        "currentShares": 1571550,
+        "change": -10198,
+        "change_p": -0.6447
+      },
+      "19": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.564,
+        "totalAssets": 0.1685,
+        "currentShares": 1562592,
+        "change": -1592,
+        "change_p": -0.1018
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.3191,
+    "ForwardPE": 12.5786,
+    "PriceSalesTTM": 2.9192,
+    "PriceBookMRQ": 1.732,
+    "EnterpriseValue": -47988105216,
+    "EnterpriseValueRevenue": 4.5915,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 42015494144,
+    "MarketCapitalizationMln": 42015.4941,
+    "EBITDA": null,
+    "PERatio": 15.3191,
+    "PEGRatio": 1.1029,
+    "WallStreetTargetPrice": 156.75,
+    "BookValue": 87.008,
+    "DividendShare": 3.28,
+    "DividendYield": 0.0217,
+    "EarningsShare": 9.84,
+    "EPSEstimateCurrentYear": 12.3959,
+    "EPSEstimateNextYear": 13.7401,
+    "EPSEstimateNextQuarter": 3.042,
+    "EPSEstimateCurrentQuarter": 2.6428,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.213,
+    "OperatingMarginTTM": 0.2782,
+    "ReturnOnAssetsTTM": 0.008,
+    "ReturnOnEquityTTM": 0.1126,
+    "RevenueTTM": 14392999936,
+    "RevenuePerShareTTM": 51.037,
+    "QuarterlyRevenueGrowthYOY": -0.028,
+    "GrossProfitTTM": 14392999936,
+    "DilutedEpsTTM": 9.84,
+    "QuarterlyEarningsGrowthYOY": -0.241
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22,
+    "TotalEsgPercentile": 30.62,
+    "EnvironmentScore": 0.56,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 12.93,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 9.52,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "STT",
+    "Type": "Common Stock",
+    "Name": "State Street Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKFBD7",
+    "ISIN": "US8574771031",
+    "LEI": "549300ZFEEJ2IP5VME73",
+    "PrimaryTicker": "STT.US",
+    "CUSIP": "857473102",
+    "CIK": "0000093751",
+    "EmployerIdNumber": "04-2456637",
+    "FiscalYearEnd": "December",
+    "IPODate": "1986-07-09",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Asset Management & Custody Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "State Street Corporation provides various financial products and services to institutional investors. It offers custody, accounting, and fund administration services for traditional and alternative assets, as well as multi-asset class investments; recordkeeping, client reporting, and investment book of record, transaction management, loans, cash, derivatives, and collateral services; investor services operations outsourcing; performance, risk, and compliance analytics; financial data management to support institutional investors; foreign exchange, brokerage, and other trading services; securities finance, such as prime services products; and deposit and short-term investment facilities. The company also provides the State Street Alpha platform that combines portfolio management, trading and execution, analytics and compliance tools, and advanced data aggregation and integration with other industry platforms and providers; front-office technology that automates and simplifies the institutional investment process comprising portfolio management and risk analytics, trading, and post-trade settlement with integrated compliance and managed data; investment management solutions; and portfolio management, trading compliance, and manager/sponsor communication. In addition, it offers investment management solutions, such as strategies across equity, fixed income, cash, multi-asset, and alternatives; and ETFs, custom indexed, managed funds, and mandates. The company provides its products and services to mutual funds, collective investment funds and other investment pools, corporate and public retirement plans, insurance companies, wealth managers, investment managers, foundations, and endowments. The company was founded in 1792 and is headquartered in Boston, Massachusetts.",
+    "Address": "One Congress Street, Boston, MA, United States, 02114",
+    "AddressData": {
+      "Street": "One Congress Street",
+      "City": "Boston",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02114"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ronald Philip O'Hanley",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. John F. Woods",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Mostapha  Tahiri",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Mr. Joerg  Ambrosius",
+        "Title": "Executive VP & President of Investment Services",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Mark R. Keating",
+        "Title": "Executive VP & Global Head of Strategic Finance",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Yie-Hsin  Hung",
+        "Title": "President & CEO of State Street Investment Management",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Mr. Pankaj  Vaish",
+        "Title": "Executive VP & Global Chief Investment Officer and Treasury",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Elizabeth  Schaefer",
+        "Title": "Senior VP, Chief Accounting Officer & Interim Controller",
+        "YearBorn": "1975"
+      },
+      "8": {
+        "Name": "Mr. Andrew  Zitney",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Elizabeth  Lynn",
+        "Title": "Executive VP & Global Head of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "617 786 3000",
+    "WebURL": "https://www.statestreet.com",
+    "LogoURL": "/img/logos/US/STT.png",
+    "FullTimeEmployees": 51503,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 276924993,
+    "SharesFloat": 346422382,
+    "PercentInsiders": 0.366,
+    "PercentInstitutions": 96.848,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0001
+  }
+}

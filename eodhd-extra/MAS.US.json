@@ -1,0 +1,566 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.7119,
+        "totalAssets": 0.0256,
+        "currentShares": 27823347,
+        "change": -328365,
+        "change_p": -1.1664
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9088,
+        "totalAssets": 0.0198,
+        "currentShares": 16048121,
+        "change": -24838,
+        "change_p": -0.1545
+      },
+      "2": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 5.6684,
+        "totalAssets": 0.9225,
+        "currentShares": 11501911,
+        "change": 4090719,
+        "change_p": 55.1965
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.0145,
+        "totalAssets": 0.0248,
+        "currentShares": 10175075,
+        "change": 367937,
+        "change_p": 3.7517
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.0126,
+        "totalAssets": 0.0215,
+        "currentShares": 10171204,
+        "change": 6325924,
+        "change_p": 164.5114
+      },
+      "5": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8245,
+        "totalAssets": 0.3767,
+        "currentShares": 5731244,
+        "change": -118926,
+        "change_p": -2.0329
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6191,
+        "totalAssets": 0.0207,
+        "currentShares": 5314604,
+        "change": -138,
+        "change_p": -0.0026
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.3786,
+        "totalAssets": 0.0537,
+        "currentShares": 4826584,
+        "change": 2085454,
+        "change_p": 76.0801
+      },
+      "8": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.2089,
+        "totalAssets": 0.0917,
+        "currentShares": 4482089,
+        "change": -303570,
+        "change_p": -6.3433
+      },
+      "9": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 2.1545,
+        "totalAssets": 0.2393,
+        "currentShares": 4371864,
+        "change": 267012,
+        "change_p": 6.5048
+      },
+      "10": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 2.0303,
+        "totalAssets": 0.549,
+        "currentShares": 4119773,
+        "change": 164715,
+        "change_p": 4.1647
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6727,
+        "totalAssets": 0.0306,
+        "currentShares": 3394128,
+        "change": -98080,
+        "change_p": -2.8085
+      },
+      "12": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.6634,
+        "totalAssets": 0.177,
+        "currentShares": 3375286,
+        "change": 213676,
+        "change_p": 6.7585
+      },
+      "13": {
+        "name": "Beutel, Goodman & Company Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 1.6316,
+        "totalAssets": 1.2907,
+        "currentShares": 3310790,
+        "change": 679316,
+        "change_p": 25.815
+      },
+      "14": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.6273,
+        "totalAssets": 0.2034,
+        "currentShares": 3301992,
+        "change": -386011,
+        "change_p": -10.4667
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5129,
+        "totalAssets": 0.0208,
+        "currentShares": 3069935,
+        "change": 1158963,
+        "change_p": 60.6478
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4229,
+        "totalAssets": 0.032,
+        "currentShares": 2887295,
+        "change": -328505,
+        "change_p": -10.2153
+      },
+      "17": {
+        "name": "Impax Asset Management Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3359,
+        "totalAssets": 1.0762,
+        "currentShares": 2710763,
+        "change": 227803,
+        "change_p": 9.1747
+      },
+      "18": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3334,
+        "totalAssets": 0.0115,
+        "currentShares": 2705684,
+        "change": 111449,
+        "change_p": 4.296
+      },
+      "19": {
+        "name": "Fiduciary Management, Inc. of Milwaukee",
+        "date": "2025-12-31",
+        "totalShares": 1.2994,
+        "totalAssets": 1.8397,
+        "currentShares": 2636618,
+        "change": -253244,
+        "change_p": -8.7632
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1791,
+        "totalAssets": 0.0195,
+        "currentShares": 6450824,
+        "change": -119838,
+        "change_p": -1.8238
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.554,
+        "totalAssets": 0.022,
+        "currentShares": 5182428,
+        "change": -160104,
+        "change_p": -2.9968
+      },
+      "2": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.4123,
+        "totalAssets": 2.5215,
+        "currentShares": 4894820,
+        "change": -2038,
+        "change_p": -0.0416
+      },
+      "3": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 2.4103,
+        "totalAssets": 2.5418,
+        "currentShares": 4890744,
+        "change": 2322266,
+        "change_p": 90.4141
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3142,
+        "totalAssets": 0.1706,
+        "currentShares": 4695905,
+        "change": -20614,
+        "change_p": -0.4371
+      },
+      "5": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 2.2553,
+        "totalAssets": 1.1303,
+        "currentShares": 4576400,
+        "change": 215000,
+        "change_p": 4.9296
+      },
+      "6": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.7349,
+        "totalAssets": 0.3521,
+        "currentShares": 3520336,
+        "change": 3520336,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 1.4828,
+        "totalAssets": 1.1714,
+        "currentShares": 3008748,
+        "change": -363459,
+        "change_p": -10.7781
+      },
+      "8": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.4758,
+        "totalAssets": 0.8524,
+        "currentShares": 2994684,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4742,
+        "totalAssets": 0.2973,
+        "currentShares": 2991440,
+        "change": -37761,
+        "change_p": -1.2466
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3694,
+        "totalAssets": 0.1967,
+        "currentShares": 2778678,
+        "change": 8253,
+        "change_p": 0.2979
+      },
+      "11": {
+        "name": "Impax Water Strategy Composite",
+        "date": "2026-01-31",
+        "totalShares": 1.3144,
+        "totalAssets": 2.4751,
+        "currentShares": 2667089,
+        "change": -43674,
+        "change_p": -1.6111
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3026,
+        "totalAssets": 0.0253,
+        "currentShares": 2643192,
+        "change": 4353,
+        "change_p": 0.165
+      },
+      "13": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.29,
+        "totalAssets": 0.0219,
+        "currentShares": 2617551,
+        "change": -1428,
+        "change_p": -0.0545
+      },
+      "14": {
+        "name": "Pictet-Water I EUR",
+        "date": "2025-12-31",
+        "totalShares": 1.2845,
+        "totalAssets": 2.0033,
+        "currentShares": 2606444,
+        "change": -39679,
+        "change_p": -1.4995
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1528,
+        "totalAssets": 0.0217,
+        "currentShares": 2339184,
+        "change": -5782,
+        "change_p": -0.2466
+      },
+      "16": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9282,
+        "totalAssets": 0.1912,
+        "currentShares": 1883443,
+        "change": 38013,
+        "change_p": 2.0598
+      },
+      "17": {
+        "name": "American Funds SMALLCAP World A",
+        "date": "2026-03-31",
+        "totalShares": 0.8008,
+        "totalAssets": 0.1213,
+        "currentShares": 1625000,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.6357,
+        "totalAssets": 0.7187,
+        "currentShares": 1289909,
+        "change": 91109,
+        "change_p": 7.6
+      },
+      "19": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.604,
+        "totalAssets": 0.7544,
+        "currentShares": 1225646,
+        "change": 8340,
+        "change_p": 0.6851
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 18.6382,
+    "ForwardPE": 18.1159,
+    "PriceSalesTTM": 1.9488,
+    "PriceBookMRQ": 160.2462,
+    "EnterpriseValue": 17878660536,
+    "EnterpriseValueRevenue": 2.3603,
+    "EnterpriseValueEbitda": 14.2378
+  },
+  "Highlights": {
+    "MarketCapitalization": 14964660224,
+    "MarketCapitalizationMln": 14964.6602,
+    "EBITDA": 1448000000,
+    "PERatio": 18.6382,
+    "PEGRatio": 1.6939,
+    "WallStreetTargetPrice": 80.5263,
+    "BookValue": -1.2,
+    "DividendShare": 1.25,
+    "DividendYield": 0.0166,
+    "EarningsShare": 3.98,
+    "EPSEstimateCurrentYear": 4.2508,
+    "EPSEstimateNextYear": 4.69,
+    "EPSEstimateNextQuarter": 1.2972,
+    "EPSEstimateCurrentQuarter": 0.8787,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.109,
+    "OperatingMarginTTM": 0.1653,
+    "ReturnOnAssetsTTM": 0.1568,
+    "ReturnOnEquityTTM": 0.8457,
+    "RevenueTTM": 7679000064,
+    "RevenuePerShareTTM": 37.097,
+    "QuarterlyRevenueGrowthYOY": 0.065,
+    "GrossProfitTTM": 2740000000,
+    "DilutedEpsTTM": 3.98,
+    "QuarterlyEarningsGrowthYOY": 0.2
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.31,
+    "TotalEsgPercentile": 18.54,
+    "EnvironmentScore": 8.07,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 3.6,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 5.14,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MAS",
+    "Type": "Common Stock",
+    "Name": "Masco Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BNNKG9",
+    "ISIN": "US5745991068",
+    "LEI": "5GCSNMQXHEYA1JO8QN11",
+    "PrimaryTicker": "MAS.US",
+    "CUSIP": "574599114",
+    "CIK": "0000062996",
+    "EmployerIdNumber": "38-1794485",
+    "FiscalYearEnd": "December",
+    "IPODate": "1983-06-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Building Products & Equipment",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Building Products",
+    "GicSubIndustry": "Building Products",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Masco Corporation provides home improvement and building products in North America, Europe, and internationally. The company's Plumbing Products segment offers faucets, showerheads, handheld showers, valves, bath hardware and accessories, bathing units, shower bases and enclosures, shower drains, steam shower systems, water filtration systems, and sinks and kitchen accessories; acrylic tubs, bath and shower enclosures, and shower bases and trays; spas, exercise pools, and aquatic fitness systems and saunas; brass, copper, and composite plumbing system component and other non-decorative plumbing products; water products; and thermoplastic products, extruded plastic profiles, and specialized fabrication products, as well as PEX tubing products. This segment provides its products under the DELTA, BRIZO, PEERLESS, HANSGROHE, AXOR, KRAUS, NEWPORT BRASS, GINGER, WALTEC, BRISTAN, HERITAGE, MIROLIN, HOT SPRING, CALDERA, FREEFLOW SPAS, FANTASY SPAS, AQUATERRA, LIFESMART, ENDLESS POOLS, TYLO, FINNLEO, HELO, BRASSCRAFT, PLUMBSHOP, and MASTER PLUMBER brands, as well as under private label to home center and online retailers, mass merchandisers, wholesalers and distributors, plumbers, building contractors, remodelers, smaller retailers, and consumers and homebuilders. Its Decorative Architectural Products segment offers paints, primers, specialty coatings, stains, and waterproofing products, as well as paint applicators and accessories; cabinet and door hardware, functional hardware, hook and hook rail products, and outdoor living hardware; and decorative bath hardware, shower accessories, and shower doors. This segment provides its products under the BEHR, KILZ, WHIZZ, LIBERTY, and FRANKLIN BRASS brands to home center and other retailers, mass and online retailers, other specialty retailers, and original equipment manufacturers and wholesalers. The company was incorporated in 1929 and is headquartered in Livonia, Michigan.",
+    "Address": "17450 College Parkway, Livonia, MI, United States, 48152",
+    "AddressData": {
+      "Street": "17450 College Parkway",
+      "City": "Livonia",
+      "State": "MI",
+      "Country": "United States",
+      "ZIP": "48152"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jonathon J. Nudi",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Richard J. Westenberg",
+        "Title": "VP, CFO & Treasurer",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Kenneth G. Cole J.D.",
+        "Title": "VP, General Counsel & Secretary",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Ms. Robin L. Zondervan",
+        "Title": "Vice President, Investor Relations and FP&A",
+        "YearBorn": "1980"
+      },
+      "4": {
+        "Name": "Ms. Sue  Sabo",
+        "Title": "Director of Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Jennifer A. Stone",
+        "Title": "VP & Chief Human Resource Officer",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "313 274 7400",
+    "WebURL": "https://masco.com",
+    "LogoURL": "/img/logos/US/mas.png",
+    "FullTimeEmployees": 18000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 201734437,
+    "SharesFloat": 200891187,
+    "PercentInsiders": 0.22,
+    "PercentInstitutions": 106.08,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0513
+  }
+}

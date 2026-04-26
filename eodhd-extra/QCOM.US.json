@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.6977,
+        "totalAssets": 0.2831,
+        "currentShares": 114144068,
+        "change": 647076,
+        "change_p": 0.5701
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.2378,
+        "totalAssets": 0.2871,
+        "currentShares": 98567624,
+        "change": -2193364,
+        "change_p": -2.1768
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.9632,
+        "totalAssets": 0.3055,
+        "currentShares": 52957122,
+        "change": -709925,
+        "change_p": -1.3228
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7083,
+        "totalAssets": 0.3044,
+        "currentShares": 28897079,
+        "change": 3221924,
+        "change_p": 12.5488
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7547,
+        "totalAssets": 0.1886,
+        "currentShares": 18722835,
+        "change": -770156,
+        "change_p": -3.9509
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.5677,
+        "totalAssets": 0.5014,
+        "currentShares": 16727862,
+        "change": 4290622,
+        "change_p": 34.4982
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4197,
+        "totalAssets": 0.2772,
+        "currentShares": 15147945,
+        "change": -1890877,
+        "change_p": -11.0975
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3173,
+        "totalAssets": 0.0701,
+        "currentShares": 14055896,
+        "change": 7129215,
+        "change_p": 102.924
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3018,
+        "totalAssets": 0.1567,
+        "currentShares": 13889718,
+        "change": -373347,
+        "change_p": -2.6176
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.162,
+        "totalAssets": 0.2639,
+        "currentShares": 12398041,
+        "change": -367355,
+        "change_p": -2.8777
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0103,
+        "totalAssets": 0.1919,
+        "currentShares": 10780386,
+        "change": -81743,
+        "change_p": -0.7526
+      },
+      "11": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 0.9701,
+        "totalAssets": 1.4633,
+        "currentShares": 10351111,
+        "change": 1300394,
+        "change_p": 14.3679
+      },
+      "12": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9545,
+        "totalAssets": 0.3679,
+        "currentShares": 10184995,
+        "change": -2116498,
+        "change_p": -17.2052
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9254,
+        "totalAssets": 0.2588,
+        "currentShares": 9874113,
+        "change": 220209,
+        "change_p": 2.281
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8863,
+        "totalAssets": 0.2465,
+        "currentShares": 9457319,
+        "change": -1005269,
+        "change_p": -9.6082
+      },
+      "15": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.8702,
+        "totalAssets": 0.3349,
+        "currentShares": 9284552,
+        "change": 962126,
+        "change_p": 11.5606
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8683,
+        "totalAssets": 0.3515,
+        "currentShares": 9264902,
+        "change": 57719,
+        "change_p": 0.6269
+      },
+      "17": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8435,
+        "totalAssets": 0.4142,
+        "currentShares": 8999892,
+        "change": 4859612,
+        "change_p": 117.374
+      },
+      "18": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8403,
+        "totalAssets": 0.3426,
+        "currentShares": 8966223,
+        "change": 649558,
+        "change_p": 7.8103
+      },
+      "19": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.8215,
+        "totalAssets": 0.4592,
+        "currentShares": 8765455,
+        "change": -734963,
+        "change_p": -7.7361
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1766,
+        "totalAssets": 0.2186,
+        "currentShares": 33894226,
+        "change": 17696,
+        "change_p": 0.0522
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5463,
+        "totalAssets": 0.2459,
+        "currentShares": 27169249,
+        "change": -377703,
+        "change_p": -1.3711
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.241,
+        "totalAssets": 3.6062,
+        "currentShares": 23911084,
+        "change": 39836,
+        "change_p": 0.1669
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 0.7772,
+        "currentShares": 22393837,
+        "change": -74906,
+        "change_p": -0.3334
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.2453,
+        "currentShares": 13715222,
+        "change": -7464,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2774,
+        "totalAssets": 0.259,
+        "currentShares": 13629815,
+        "change": 22465,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "VanEck Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2173,
+        "totalAssets": 4.2664,
+        "currentShares": 12988306,
+        "change": -249034,
+        "change_p": -1.8813
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1587,
+        "totalAssets": 0.2449,
+        "currentShares": 12363334,
+        "change": -30429,
+        "change_p": -0.2455
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9241,
+        "totalAssets": 0.5626,
+        "currentShares": 9859741,
+        "change": -117914,
+        "change_p": -1.1818
+      },
+      "9": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7503,
+        "totalAssets": 1.2228,
+        "currentShares": 8005592,
+        "change": 21336,
+        "change_p": 0.2672
+      },
+      "10": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6813,
+        "totalAssets": 0.7693,
+        "currentShares": 7268941,
+        "change": -8189,
+        "change_p": -0.1125
+      },
+      "11": {
+        "name": "iShares Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5683,
+        "totalAssets": 3.8605,
+        "currentShares": 6064235,
+        "change": -108460,
+        "change_p": -1.7571
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.2453,
+        "currentShares": 6011543,
+        "change": -55367,
+        "change_p": -0.9126
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.6555,
+        "currentShares": 5974260,
+        "change": 45523,
+        "change_p": 0.7678
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.2428,
+        "currentShares": 5695807,
+        "change": -13400,
+        "change_p": -0.2347
+      },
+      "15": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.511,
+        "totalAssets": 2.2756,
+        "currentShares": 5451948,
+        "change": 111943,
+        "change_p": 2.0963
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.245,
+        "currentShares": 4819294,
+        "change": 9745,
+        "change_p": 0.2026
+      },
+      "17": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4338,
+        "totalAssets": 0.6602,
+        "currentShares": 4628919,
+        "change": 4628919,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.397,
+        "totalAssets": 0.3125,
+        "currentShares": 4235694,
+        "change": -92034,
+        "change_p": -2.1266
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.397,
+        "totalAssets": 0.3125,
+        "currentShares": 4235694,
+        "change": -92034,
+        "change_p": -2.1266
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.0101,
+    "ForwardPE": 12.285,
+    "PriceSalesTTM": 3.5433,
+    "PriceBookMRQ": 6.1945,
+    "EnterpriseValue": 145919650000,
+    "EnterpriseValueRevenue": 3.2523,
+    "EnterpriseValueEbitda": 9.8568
+  },
+  "Highlights": {
+    "MarketCapitalization": 158978523136,
+    "MarketCapitalizationMln": 158978.5231,
+    "EBITDA": 13763999744,
+    "PERatio": 30.0101,
+    "PEGRatio": 0.5764,
+    "WallStreetTargetPrice": 150.1035,
+    "BookValue": 21.483,
+    "DividendShare": 3.52,
+    "DividendYield": 0.0263,
+    "EarningsShare": 4.96,
+    "EPSEstimateCurrentYear": 11.0784,
+    "EPSEstimateNextYear": 11.0174,
+    "EPSEstimateNextQuarter": 2.8707,
+    "EPSEstimateCurrentQuarter": 3.4024,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1196,
+    "OperatingMarginTTM": 0.2747,
+    "ReturnOnAssetsTTM": 0.1405,
+    "ReturnOnEquityTTM": 0.2148,
+    "RevenueTTM": 44866998272,
+    "RevenuePerShareTTM": 41.314,
+    "QuarterlyRevenueGrowthYOY": 0.05,
+    "GrossProfitTTM": 24721999872,
+    "DilutedEpsTTM": 4.96,
+    "QuarterlyEarningsGrowthYOY": -0.018
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.12,
+    "TotalEsgPercentile": 49.14,
+    "EnvironmentScore": 16.85,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 10.95,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 16.81,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "QCOM",
+    "Type": "Common Stock",
+    "Name": "Qualcomm Incorporated",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000CGC1X8",
+    "ISIN": "US7475251036",
+    "LEI": "H1J8DDZKZP6H7RWC0H53",
+    "PrimaryTicker": "QCOM.US",
+    "CUSIP": "747525103",
+    "CIK": "0000804328",
+    "EmployerIdNumber": "95-3685934",
+    "FiscalYearEnd": "September",
+    "IPODate": "1991-12-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "QUALCOMM Incorporated engages in the development and commercialization of foundational technologies for the wireless industry worldwide. It operates through three segments: Qualcomm CDMA Technologies (QCT); Qualcomm Technology Licensing (QTL); and Qualcomm Strategic Initiatives (QSI). The QCT segment develops and supplies integrated circuits and system software with connectivity and computing technologies for use in mobile devices; automotive systems for connectivity, digital cockpit, and ADAS/AD; and IoT, including consumer electronic devices, industrial devices, and edge networking products. The QTL segment grants licenses or provides rights to use portions of its intellectual property portfolio, which include various patent rights useful in the manufacture and sale of wireless products comprising products implementing LTE, and/or OFDMA-based 5G products and derivatives; to use cellular standard-essential patents, including 3G, 4G and 5G for cellular devices. The QSI segment invests in early-stage companies in various industries, including 5G, artificial intelligence, automotive, consumer, enterprise, cloud, IoT, and extended reality, and investments, including non-marketable equity securities and, to a lesser extent, marketable equity securities, and convertible debt instruments. It also provides development, and other services and sells related products to the United States government agencies and their contractors. In addition, the company is also involved in Qualcomm government technologies and data center businesses. QUALCOMM Incorporated was incorporated in 1985 and is headquartered in San Diego, California.",
+    "Address": "5775 Morehouse Drive, San Diego, CA, United States, 92121-1714",
+    "AddressData": {
+      "Street": "5775 Morehouse Drive",
+      "City": "San Diego",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92121-1714"
+    },
+    "Listings": {
+      "0": {
+        "Code": "QCOM",
+        "Exchange": "BA",
+        "Name": "Qualcomm Inc. CEDEAR"
+      },
+      "1": {
+        "Code": "QCOM34",
+        "Exchange": "SA",
+        "Name": "Qualcomm Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Cristiano Renno Amon",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Akash  Palkhiwala",
+        "Title": "Executive VP, CFO & COO",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Ms. Ann N. Cathcart Chaplin",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Alexander H. Rogers J.D.",
+        "Title": "Executive VP, President of Qualcomm Technology Licensing (QTL) & Global Affairs",
+        "YearBorn": "1957"
+      },
+      "4": {
+        "Name": "Dr. Baaziz  Achour",
+        "Title": "Executive VP & Chief Technology Officer of Qualcomm Technologies, Inc.",
+        "YearBorn": "1962"
+      },
+      "5": {
+        "Name": "Ms. Patricia Y. Grech",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. Brett William Simpson",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "1974"
+      },
+      "7": {
+        "Name": "Mr. Don  McGuire",
+        "Title": "Executive VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Colin  Ryan",
+        "Title": "Executive VP and Chief Strategy & Corporate Development Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Heather  Ace J.D.",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "858 587 1121",
+    "WebURL": "https://www.qualcomm.com",
+    "LogoURL": "/img/logos/US/QCOM.png",
+    "FullTimeEmployees": 52000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1067000000,
+    "SharesFloat": 1064695280,
+    "PercentInsiders": 0.136,
+    "PercentInstitutions": 81.855,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0457
+  }
+}

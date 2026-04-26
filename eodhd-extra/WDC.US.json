@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4908,
+        "totalAssets": 0.1058,
+        "currentShares": 42348660,
+        "change": -933733,
+        "change_p": -2.1573
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2392,
+        "totalAssets": 0.073,
+        "currentShares": 34714851,
+        "change": -282005,
+        "change_p": -0.8058
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.9676,
+        "totalAssets": 0.2968,
+        "currentShares": 33793801,
+        "change": 10037079,
+        "change_p": 42.2494
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.0907,
+        "totalAssets": 0.0865,
+        "currentShares": 24040220,
+        "change": 12731717,
+        "change_p": 112.5853
+      },
+      "4": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.5954,
+        "totalAssets": 0.1821,
+        "currentShares": 22361010,
+        "change": -3516944,
+        "change_p": -13.5905
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5605,
+        "totalAssets": 0.0644,
+        "currentShares": 15461857,
+        "change": 277335,
+        "change_p": 1.8264
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7379,
+        "totalAssets": 0.0984,
+        "currentShares": 9282432,
+        "change": -132086,
+        "change_p": -1.403
+      },
+      "7": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.5612,
+        "totalAssets": 0.2395,
+        "currentShares": 8683319,
+        "change": -376209,
+        "change_p": -4.1526
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.4784,
+        "totalAssets": 0.0611,
+        "currentShares": 8402622,
+        "change": 576348,
+        "change_p": 7.3643
+      },
+      "9": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 2.162,
+        "totalAssets": 0.1379,
+        "currentShares": 7329996,
+        "change": -4097220,
+        "change_p": -35.8549
+      },
+      "10": {
+        "name": "WCM Investment Management",
+        "date": "2025-12-31",
+        "totalShares": 1.9736,
+        "totalAssets": 2.4256,
+        "currentShares": 6691209,
+        "change": -87251,
+        "change_p": -1.2872
+      },
+      "11": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.6816,
+        "totalAssets": 0.5384,
+        "currentShares": 5701318,
+        "change": -3923998,
+        "change_p": -40.7675
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3504,
+        "totalAssets": 0.0844,
+        "currentShares": 4578446,
+        "change": 1129780,
+        "change_p": 32.7599
+      },
+      "13": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.346,
+        "totalAssets": 0.2059,
+        "currentShares": 4563476,
+        "change": 2010258,
+        "change_p": 78.7343
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3449,
+        "totalAssets": 0.0963,
+        "currentShares": 4559713,
+        "change": 2054059,
+        "change_p": 81.977
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3081,
+        "totalAssets": 0.0839,
+        "currentShares": 4435076,
+        "change": -833716,
+        "change_p": -15.8237
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1224,
+        "totalAssets": 0.0585,
+        "currentShares": 3805463,
+        "change": 384103,
+        "change_p": 11.2266
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0516,
+        "totalAssets": 0.1289,
+        "currentShares": 3565342,
+        "change": -239565,
+        "change_p": -6.2962
+      },
+      "18": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8768,
+        "totalAssets": 0.2686,
+        "currentShares": 2972703,
+        "change": 1228661,
+        "change_p": 70.449
+      },
+      "19": {
+        "name": "Fred Alger Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7918,
+        "totalAssets": 1.8137,
+        "currentShares": 2684341,
+        "change": -722701,
+        "change_p": -21.212
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1766,
+        "totalAssets": 0.1459,
+        "currentShares": 10769720,
+        "change": -43640,
+        "change_p": -0.4036
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5462,
+        "totalAssets": 0.1641,
+        "currentShares": 8632446,
+        "change": -162159,
+        "change_p": -1.8438
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.9969,
+        "currentShares": 7324067,
+        "change": -107096,
+        "change_p": -1.4412
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0987,
+        "totalAssets": 0.5187,
+        "currentShares": 7115557,
+        "change": -23822,
+        "change_p": -0.3337
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.1637,
+        "currentShares": 4358446,
+        "change": -2376,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2834,
+        "totalAssets": 0.1625,
+        "currentShares": 4351094,
+        "change": 7173,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "Columbia Seligman Technology Growth",
+        "date": "2025-12-31",
+        "totalShares": 1.2344,
+        "totalAssets": 3.9163,
+        "currentShares": 4184927,
+        "change": -706500,
+        "change_p": -14.4436
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1584,
+        "totalAssets": 0.1634,
+        "currentShares": 3927453,
+        "change": -9653,
+        "change_p": -0.2452
+      },
+      "8": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.1208,
+        "totalAssets": 0.3899,
+        "currentShares": 3799875,
+        "change": 3799875,
+        "change_p": 0
+      },
+      "9": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 1.0862,
+        "totalAssets": 0.9053,
+        "currentShares": 3682616,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Fidelity Select Semiconductors",
+        "date": "2026-02-28",
+        "totalShares": 1.0528,
+        "totalAssets": 3.0547,
+        "currentShares": 3569436,
+        "change": 308700,
+        "change_p": 9.4672
+      },
+      "11": {
+        "name": "Columbia Seligman Tech & Info A",
+        "date": "2026-02-28",
+        "totalShares": 1.0118,
+        "totalAssets": 4.7116,
+        "currentShares": 3430357,
+        "change": -532100,
+        "change_p": -13.4285
+      },
+      "12": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.9118,
+        "totalAssets": 0.5432,
+        "currentShares": 3091300,
+        "change": 2060667,
+        "change_p": 199.9419
+      },
+      "13": {
+        "name": "Fidelity Select Technology",
+        "date": "2026-02-28",
+        "totalShares": 0.8467,
+        "totalAssets": 2.9383,
+        "currentShares": 2870676,
+        "change": 222500,
+        "change_p": 8.402
+      },
+      "14": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7503,
+        "totalAssets": 0.8161,
+        "currentShares": 2543736,
+        "change": 6723,
+        "change_p": 0.265
+      },
+      "15": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7306,
+        "totalAssets": 0.5506,
+        "currentShares": 2477135,
+        "change": -2820,
+        "change_p": -0.1137
+      },
+      "16": {
+        "name": "Fidelity Global Innovators Cl F",
+        "date": "2025-12-31",
+        "totalShares": 0.6619,
+        "totalAssets": 2.3788,
+        "currentShares": 2244060,
+        "change": 703071,
+        "change_p": 45.6247
+      },
+      "17": {
+        "name": "Fidelity Blue Chip Growth",
+        "date": "2026-02-28",
+        "totalShares": 0.6459,
+        "totalAssets": 0.7033,
+        "currentShares": 2189800,
+        "change": 181600,
+        "change_p": 9.0429
+      },
+      "18": {
+        "name": "American Funds New Economy A",
+        "date": "2026-03-31",
+        "totalShares": 0.6415,
+        "totalAssets": 1.4281,
+        "currentShares": 2174936,
+        "change": 2174936,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.5915,
+        "totalAssets": 0.1707,
+        "currentShares": 2005330,
+        "change": 2005330,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 38.1853,
+    "ForwardPE": 31.746,
+    "PriceSalesTTM": 12.8682,
+    "PriceBookMRQ": 19.2199,
+    "EnterpriseValue": 137513967116,
+    "EnterpriseValueRevenue": 12.8111,
+    "EnterpriseValueEbitda": 31.439
+  },
+  "Highlights": {
+    "MarketCapitalization": 138127310848,
+    "MarketCapitalizationMln": 138127.3108,
+    "EBITDA": 3356999936,
+    "PERatio": 38.1853,
+    "PEGRatio": 0.8131,
+    "WallStreetTargetPrice": 354.9565,
+    "BookValue": 20.915,
+    "DividendShare": 0.325,
+    "DividendYield": 0.0008,
+    "EarningsShare": 10.58,
+    "EPSEstimateCurrentYear": 8.9883,
+    "EPSEstimateNextYear": 14.173,
+    "EPSEstimateNextQuarter": 1.9939,
+    "EPSEstimateCurrentQuarter": 1.9281,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3564,
+    "OperatingMarginTTM": 0.3192,
+    "ReturnOnAssetsTTM": 0.0915,
+    "ReturnOnEquityTTM": 0.4113,
+    "RevenueTTM": 10734000128,
+    "RevenuePerShareTTM": 31.023,
+    "QuarterlyRevenueGrowthYOY": 0.252,
+    "GrossProfitTTM": 4585999872,
+    "DilutedEpsTTM": 10.58,
+    "QuarterlyEarningsGrowthYOY": 1.896
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.25,
+    "TotalEsgPercentile": 6.84,
+    "EnvironmentScore": 4.94,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 4.09,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 9.22,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "WDC",
+    "Type": "Common Stock",
+    "Name": "Western Digital Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BWNFZ9",
+    "ISIN": "US9581021055",
+    "LEI": "549300QQXOOYEF89IC56",
+    "PrimaryTicker": "WDC.US",
+    "CUSIP": "958102105",
+    "CIK": "0000106040",
+    "EmployerIdNumber": "33-0956711",
+    "FiscalYearEnd": "June",
+    "IPODate": "1987-01-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Technology Hardware, Storage & Peripherals",
+    "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers. The company has a collaboration with Open Quantum Design for the development of quantum error correction technology and related systems to advance reliable quantum computing. Western Digital Corporation was founded in 1970 and is headquartered in San Jose, California.",
+    "Address": "5601 Great Oaks Parkway, San Jose, CA, United States, 95119",
+    "AddressData": {
+      "Street": "5601 Great Oaks Parkway",
+      "City": "San Jose",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95119"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Tiang Yew  Tan",
+        "Title": "CEO & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Kris A.  Sennesael",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Vidyadhara K. Gubbi",
+        "Title": "Executive VP & Chief of Global Operations",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Ms. Cynthia Lock Tregillis",
+        "Title": "Executive VP, Chief Legal Officer & Secretary",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Don R. Bennett",
+        "Title": "Senior Vice President of Finance",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Ahmed M. Shihab",
+        "Title": "Executive VP & Chief Product Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. C. Wesley M. Scott",
+        "Title": "Chief Investment Officer",
+        "YearBorn": "1947"
+      },
+      "7": {
+        "Name": "Mr. Brad D. Feller",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Mr. Sesh  Tirumala",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Ambrish  Srivastava Ph.D.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 717 6000",
+    "WebURL": "https://www.westerndigital.com",
+    "LogoURL": "/img/logos/US/WDC.png",
+    "FullTimeEmployees": 40000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 339037922,
+    "SharesFloat": 336715512,
+    "PercentInsiders": 0.539,
+    "PercentInstitutions": 103.296,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0892
+  }
+}

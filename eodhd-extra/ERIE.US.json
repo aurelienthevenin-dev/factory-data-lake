@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "PNC Financial Services Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.391,
+        "totalAssets": 0.9466,
+        "currentShares": 4910562,
+        "change": -99,
+        "change_p": -0.002
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.587,
+        "totalAssets": 0.0121,
+        "currentShares": 2921447,
+        "change": -24658,
+        "change_p": -0.837
+      },
+      "2": {
+        "name": "Cresset Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.3454,
+        "totalAssets": 2.1129,
+        "currentShares": 1749331,
+        "change": 4,
+        "change_p": 0.0002
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.0374,
+        "totalAssets": 0.0089,
+        "currentShares": 1588228,
+        "change": -111347,
+        "change_p": -6.5515
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.6268,
+        "totalAssets": 0.0152,
+        "currentShares": 1373544,
+        "change": -3038,
+        "change_p": -0.2207
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5499,
+        "totalAssets": 0.0143,
+        "currentShares": 810416,
+        "change": 10859,
+        "change_p": 1.3581
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3551,
+        "totalAssets": 0.0355,
+        "currentShares": 708577,
+        "change": 44732,
+        "change_p": 6.7383
+      },
+      "7": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3177,
+        "totalAssets": 0.0547,
+        "currentShares": 689042,
+        "change": -7399,
+        "change_p": -1.0624
+      },
+      "8": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9533,
+        "totalAssets": 0.2522,
+        "currentShares": 498466,
+        "change": 36935,
+        "change_p": 8.0027
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.6426,
+        "totalAssets": 0.0065,
+        "currentShares": 335997,
+        "change": 27633,
+        "change_p": 8.9612
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5515,
+        "totalAssets": 0.0062,
+        "currentShares": 288363,
+        "change": 64233,
+        "change_p": 28.6588
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.5138,
+        "totalAssets": 0.0026,
+        "currentShares": 268656,
+        "change": 147181,
+        "change_p": 121.1616
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5087,
+        "totalAssets": 0.0094,
+        "currentShares": 265983,
+        "change": 66148,
+        "change_p": 33.1013
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.4305,
+        "totalAssets": 0.0135,
+        "currentShares": 225093,
+        "change": -3510,
+        "change_p": -1.5354
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.3412,
+        "totalAssets": 0.008,
+        "currentShares": 178394,
+        "change": 3594,
+        "change_p": 2.0561
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.3325,
+        "totalAssets": 0.0071,
+        "currentShares": 173883,
+        "change": -1261,
+        "change_p": -0.72
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.3289,
+        "totalAssets": 0.0053,
+        "currentShares": 171986,
+        "change": 162225,
+        "change_p": 1661.9711
+      },
+      "17": {
+        "name": "Vest Financial",
+        "date": "2025-12-31",
+        "totalShares": 0.2923,
+        "totalAssets": 0.5557,
+        "currentShares": 152841,
+        "change": 3411,
+        "change_p": 2.2827
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.2691,
+        "totalAssets": 0.008,
+        "currentShares": 140730,
+        "change": 1244,
+        "change_p": 0.8918
+      },
+      "19": {
+        "name": "Caisse De Depot Et Placement Du Quebec",
+        "date": "2025-12-31",
+        "totalShares": 0.2631,
+        "totalAssets": 0.0669,
+        "currentShares": 137595,
+        "change": -11206,
+        "change_p": -7.5309
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.548,
+        "totalAssets": 0.0102,
+        "currentShares": 809426,
+        "change": 4476,
+        "change_p": 0.5561
+      },
+      "1": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3681,
+        "totalAssets": 0.2108,
+        "currentShares": 715353,
+        "change": 2096,
+        "change_p": 0.2939
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.2363,
+        "totalAssets": 0.0114,
+        "currentShares": 646438,
+        "change": -6842,
+        "change_p": -1.0473
+      },
+      "3": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.1294,
+        "totalAssets": 1.3439,
+        "currentShares": 590565,
+        "change": -281,
+        "change_p": -0.0476
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1218,
+        "totalAssets": 0.0887,
+        "currentShares": 586588,
+        "change": 9634,
+        "change_p": 1.6698
+      },
+      "5": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.0886,
+        "totalAssets": 0.1675,
+        "currentShares": 569223,
+        "change": 920,
+        "change_p": 0.1619
+      },
+      "6": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6279,
+        "totalAssets": 0.2093,
+        "currentShares": 328334,
+        "change": 8140,
+        "change_p": 2.5422
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.624,
+        "totalAssets": 0.0114,
+        "currentShares": 326297,
+        "change": -180,
+        "change_p": -0.0551
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.6183,
+        "totalAssets": 0.0116,
+        "currentShares": 323293,
+        "change": 528,
+        "change_p": 0.1636
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5606,
+        "totalAssets": 0.0113,
+        "currentShares": 293135,
+        "change": -735,
+        "change_p": -0.2501
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4918,
+        "totalAssets": 0.3125,
+        "currentShares": 257157,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "FT Cboe Vest S&P 500® Dv Ast Tgt Inc ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3475,
+        "totalAssets": 1.3538,
+        "currentShares": 181692,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3318,
+        "totalAssets": 0.0903,
+        "currentShares": 173491,
+        "change": 297,
+        "change_p": 0.1715
+      },
+      "13": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 0.2869,
+        "totalAssets": 0.1461,
+        "currentShares": 150000,
+        "change": -86000,
+        "change_p": -36.4407
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2728,
+        "totalAssets": 0.0114,
+        "currentShares": 142634,
+        "change": -1381,
+        "change_p": -0.9589
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.272,
+        "totalAssets": 0.0305,
+        "currentShares": 142242,
+        "change": 2250,
+        "change_p": 1.6072
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.2593,
+        "totalAssets": 0.0113,
+        "currentShares": 135590,
+        "change": 160,
+        "change_p": 0.1181
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.2194,
+        "totalAssets": 0.0114,
+        "currentShares": 114726,
+        "change": 609,
+        "change_p": 0.5337
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.1948,
+        "totalAssets": 0.0126,
+        "currentShares": 101875,
+        "change": 235,
+        "change_p": 0.2312
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.1948,
+        "totalAssets": 0.0126,
+        "currentShares": 101875,
+        "change": 101875,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.3742,
+    "ForwardPE": 26.738,
+    "PriceSalesTTM": 3.0035,
+    "PriceBookMRQ": 5.53,
+    "EnterpriseValue": 12036512962,
+    "EnterpriseValueRevenue": 3.0827,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 12215958528,
+    "MarketCapitalizationMln": 12215.9585,
+    "EBITDA": 808993024,
+    "PERatio": 21.3742,
+    "PEGRatio": 2.6718,
+    "WallStreetTargetPrice": 115,
+    "BookValue": 43.668,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 10.93,
+    "EPSEstimateCurrentYear": 13.51,
+    "EPSEstimateNextYear": 0,
+    "EPSEstimateNextQuarter": 3.57,
+    "EPSEstimateCurrentQuarter": 3.06,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1375,
+    "OperatingMarginTTM": 0.1716,
+    "ReturnOnAssetsTTM": 0.1481,
+    "ReturnOnEquityTTM": 0.2619,
+    "RevenueTTM": 4067258112,
+    "RevenuePerShareTTM": 77.783,
+    "QuarterlyRevenueGrowthYOY": 0.029,
+    "GrossProfitTTM": 717184000,
+    "DilutedEpsTTM": 10.93,
+    "QuarterlyEarningsGrowthYOY": -0.584
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27.66,
+    "TotalEsgPercentile": 43.14,
+    "EnvironmentScore": 5.43,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 9.39,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 17.84,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ERIE",
+    "Type": "Common Stock",
+    "Name": "Erie Indemnity Company",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBTJZ1",
+    "ISIN": "US29530P1021",
+    "LEI": "549300WA5KP94KRUFZ80",
+    "PrimaryTicker": "ERIE.US",
+    "CUSIP": "29530P102",
+    "CIK": "0000922621",
+    "EmployerIdNumber": "25-0466020",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-10-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance Brokers",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Property & Casualty Insurance",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Erie Indemnity Company operates as a managing attorney-in-fact for the subscribers at the Erie Insurance Exchange in the United States. It provides issuance and renewal services; sales related services, including agent compensation and sales and advertising support services; underwriting services that include underwriting and policy processing; and other services consist of customer services and administrative support services, as well as information technology services. The company was incorporated in 1925 and is based in Erie, Pennsylvania.",
+    "Address": "100 Erie Insurance Place, Erie, PA, United States, 16530",
+    "AddressData": {
+      "Street": "100 Erie Insurance Place",
+      "City": "Erie",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "16530"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timothy Gerard NeCastro C.I.C., CPA",
+        "Title": "President & CEO",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Ms. Julie Marie Pelkowski CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Parthasarathy  Srinivasa",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Brian William Bolash Esq.",
+        "Title": "Executive VP, Corporate Secretary & General Counsel",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Mr. Douglas Edward Smith C.P.C.U., FCAS, MAAA",
+        "Title": "Executive Vice President of Sales & Products",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Bill  Matrogran",
+        "Title": "Vice President of Construction Management & Operations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Ronald Steven Habursky C.F.A.",
+        "Title": "Senior VP & Chief Investment Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Scott W. Beilharz",
+        "Title": "Vice President of Capital Management & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Charles Michael Fletcher C.I.C.",
+        "Title": "Senior Vice President of Sales & Marketing",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Sean David Dugan AU, C.I.C., C.P.C.U.",
+        "Title": "Executive VP of Human Resources & Corporate Services",
+        "YearBorn": "1969"
+      }
+    },
+    "Phone": "814 870 2000",
+    "WebURL": "https://www.erieinsurance.com",
+    "LogoURL": "/img/logos/US/ERIE.png",
+    "FullTimeEmployees": 6667,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 46189068,
+    "SharesFloat": 25145152,
+    "PercentInsiders": 45.462,
+    "PercentInstitutions": 45.961999999999996,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.099
+  }
+}

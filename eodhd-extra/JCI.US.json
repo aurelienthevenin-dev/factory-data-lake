@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.7868,
+        "totalAssets": 0.1146,
+        "currentShares": 66022552,
+        "change": -3250013,
+        "change_p": -4.6916
+      },
+      "1": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 9.8654,
+        "totalAssets": 3.9032,
+        "currentShares": 60382969,
+        "change": -3827676,
+        "change_p": -5.9611
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4171,
+        "totalAssets": 0.0992,
+        "currentShares": 51518130,
+        "change": 590712,
+        "change_p": 1.1599
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6865,
+        "totalAssets": 0.1098,
+        "currentShares": 28684645,
+        "change": 163167,
+        "change_p": 0.5721
+      },
+      "4": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.5841,
+        "totalAssets": 0.6015,
+        "currentShares": 21936860,
+        "change": -1287042,
+        "change_p": -5.5419
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.8725,
+        "totalAssets": 0.3689,
+        "currentShares": 17581345,
+        "change": 5077369,
+        "change_p": 40.606
+      },
+      "6": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8167,
+        "totalAssets": 0.7046,
+        "currentShares": 17239953,
+        "change": 280704,
+        "change_p": 1.6552
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.7641,
+        "totalAssets": 0.1262,
+        "currentShares": 16917876,
+        "change": -975115,
+        "change_p": -5.4497
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3852,
+        "totalAssets": 0.0972,
+        "currentShares": 14599188,
+        "change": 1446502,
+        "change_p": 10.9978
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.3145,
+        "totalAssets": 0.2454,
+        "currentShares": 14166266,
+        "change": -1158292,
+        "change_p": -7.5584
+      },
+      "10": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2553,
+        "totalAssets": 0.1015,
+        "currentShares": 13803741,
+        "change": -636613,
+        "change_p": -4.4086
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2658,
+        "totalAssets": 0.0993,
+        "currentShares": 7747300,
+        "change": 217241,
+        "change_p": 2.885
+      },
+      "12": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1613,
+        "totalAssets": 0.1697,
+        "currentShares": 7107885,
+        "change": -866180,
+        "change_p": -10.8625
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1285,
+        "totalAssets": 0.0972,
+        "currentShares": 6907287,
+        "change": 72917,
+        "change_p": 1.0669
+      },
+      "14": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 0.967,
+        "totalAssets": 1.8811,
+        "currentShares": 5918707,
+        "change": -878235,
+        "change_p": -12.921
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9588,
+        "totalAssets": 0.0358,
+        "currentShares": 5868421,
+        "change": 657194,
+        "change_p": 12.6111
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9116,
+        "totalAssets": 0.082,
+        "currentShares": 5579696,
+        "change": 1107038,
+        "change_p": 24.7512
+      },
+      "17": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.9032,
+        "totalAssets": 0.09,
+        "currentShares": 5528427,
+        "change": -2007049,
+        "change_p": -26.6347
+      },
+      "18": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9032,
+        "totalAssets": 2.2045,
+        "currentShares": 5528202,
+        "change": -819978,
+        "change_p": -12.9167
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8623,
+        "totalAssets": 0.1402,
+        "currentShares": 5278007,
+        "change": -666818,
+        "change_p": -11.2168
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Nicholas",
+        "date": "2025-12-31",
+        "totalShares": 8.1691,
+        "totalAssets": 1.2409,
+        "currentShares": 50000000,
+        "change": 49668340,
+        "change_p": 14975.6799
+      },
+      "1": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 4.847,
+        "totalAssets": 2.9685,
+        "currentShares": 29666817,
+        "change": -2506300,
+        "change_p": -7.79
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1755,
+        "totalAssets": 0.1275,
+        "currentShares": 19436350,
+        "change": 108955,
+        "change_p": 0.5637
+      },
+      "3": {
+        "name": "Dodge & Cox International Stock I",
+        "date": "2025-12-31",
+        "totalShares": 2.6705,
+        "totalAssets": 3.1833,
+        "currentShares": 16345201,
+        "change": -256800,
+        "change_p": -1.5468
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5465,
+        "totalAssets": 0.1434,
+        "currentShares": 15586514,
+        "change": -132244,
+        "change_p": -0.8413
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2856,
+        "totalAssets": 0.1431,
+        "currentShares": 7868948,
+        "change": -4284,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2707,
+        "totalAssets": 0.1498,
+        "currentShares": 7777475,
+        "change": 12824,
+        "change_p": 0.1652
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1616,
+        "totalAssets": 0.1432,
+        "currentShares": 7109556,
+        "change": -17444,
+        "change_p": -0.2448
+      },
+      "8": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0874,
+        "totalAssets": 0.6646,
+        "currentShares": 6655773,
+        "change": 2668723,
+        "change_p": 66.9348
+      },
+      "9": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0801,
+        "totalAssets": 0.4356,
+        "currentShares": 6611022,
+        "change": -30627,
+        "change_p": -0.4611
+      },
+      "10": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9718,
+        "totalAssets": 1.7173,
+        "currentShares": 5948305,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.3282,
+        "currentShares": 5656984,
+        "change": -32568,
+        "change_p": -0.5724
+      },
+      "12": {
+        "name": "First Trust NASDAQ® Cln Edge®StGidIfsETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7538,
+        "totalAssets": 7.9054,
+        "currentShares": 4613505,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.1431,
+        "currentShares": 3448045,
+        "change": -14912,
+        "change_p": -0.4306
+      },
+      "14": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 1.5848,
+        "currentShares": 3401204,
+        "change": -23568,
+        "change_p": -0.6882
+      },
+      "15": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 0.5498,
+        "totalAssets": 1.708,
+        "currentShares": 3365000,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5481,
+        "totalAssets": 0.6426,
+        "currentShares": 3354828,
+        "change": -253778,
+        "change_p": -7.0326
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.1416,
+        "currentShares": 3267277,
+        "change": 9500,
+        "change_p": 0.2916
+      },
+      "18": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.456,
+        "totalAssets": 0.1605,
+        "currentShares": 2790814,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.456,
+        "totalAssets": 0.1833,
+        "currentShares": 2790814,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 47.6242,
+    "ForwardPE": 29.9401,
+    "PriceSalesTTM": 3.6243,
+    "PriceBookMRQ": 6.5698,
+    "EnterpriseValue": 95901143376,
+    "EnterpriseValueRevenue": 4.0014,
+    "EnterpriseValueEbitda": 28.9994
+  },
+  "Highlights": {
+    "MarketCapitalization": 86864429056,
+    "MarketCapitalizationMln": 86864.4291,
+    "EBITDA": 4134000128,
+    "PERatio": 47.6242,
+    "PEGRatio": 2.572,
+    "WallStreetTargetPrice": 144.0953,
+    "BookValue": 21.575,
+    "DividendShare": 1.54,
+    "DividendYield": 0.0109,
+    "EarningsShare": 2.98,
+    "EPSEstimateCurrentYear": 4.7526,
+    "EPSEstimateNextYear": 5.5628,
+    "EPSEstimateNextQuarter": 1.0533,
+    "EPSEstimateCurrentQuarter": 0.842,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1417,
+    "OperatingMarginTTM": 0.1472,
+    "ReturnOnAssetsTTM": 0.0515,
+    "ReturnOnEquityTTM": 0.1264,
+    "RevenueTTM": 23967000576,
+    "RevenuePerShareTTM": 37.504,
+    "QuarterlyRevenueGrowthYOY": 0.068,
+    "GrossProfitTTM": 8739999744,
+    "DilutedEpsTTM": 2.98,
+    "QuarterlyEarningsGrowthYOY": 0.342
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 17.29,
+    "TotalEsgPercentile": 17.08,
+    "EnvironmentScore": 11.04,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 5.52,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.24,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "JCI",
+    "Type": "Common Stock",
+    "Name": "Johnson Controls International PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BVWLJ6",
+    "ISIN": "IE00BY7QL619",
+    "LEI": "549300XQ6S1GYKGBL205",
+    "PrimaryTicker": "JCI.US",
+    "CUSIP": "000915306",
+    "CIK": "0000833444",
+    "EmployerIdNumber": "98-0390500",
+    "FiscalYearEnd": "September",
+    "IPODate": "1985-03-27",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Building Products & Equipment",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Building Products",
+    "GicSubIndustry": "Building Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Johnson Controls International plc, together with its subsidiaries, engages in engineering, manufacturing, commissioning, and retrofitting building products and systems in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. The company designs, manufactures, sells, installs, and services heating, ventilating, air conditioning, controls, building management, refrigeration, integrated electronic security, integrated fire detection and suppression systems, and digital solutions. It also provides energy solutions and technical services, including inspection, scheduled maintenance, and repair and replacement of mechanical and control systems, as well as data-driven building solutions. It sells its products and services to commercial, residential security, institutional, industrial, data center, marine, and governmental customers. Johnson Controls International plc was incorporated in 1885 and is based in Cork, Ireland.",
+    "Address": "One Albert Quay, Cork, Ireland, T12 X8N6",
+    "AddressData": {
+      "Street": "One Albert Quay",
+      "City": "Cork",
+      "Country": "Ireland",
+      "ZIP": "T12 X8N6"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Joakim  Weidemanis",
+        "Title": "CEO & Director",
+        "YearBorn": "1969"
+      },
+      "1": {
+        "Name": "Mr. Marc  Vandiepenbeeck",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Mr. Christopher M. Scalia",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Dr. Lei Zhang Schlitz",
+        "Title": "VP & President of Global Products and Solutions",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Ms. Julie M. Heuer Brandt",
+        "Title": "VP and President of Global Commercial & Field Operations",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Daniel C. McConeghy",
+        "Title": "VP and Chief Accounting & Tax Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Vijay P. Sankaran",
+        "Title": "VP & Chief Digital and Information Officer",
+        "YearBorn": "1974"
+      },
+      "7": {
+        "Name": "Mr. Michael  Gates",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Chris  Bontempo",
+        "Title": "VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Tomas  Brannemo",
+        "Title": "VP and President of Building Solutions of EMEA & Latin America",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "353 21 423 5000",
+    "WebURL": "https://www.johnsoncontrols.com",
+    "LogoURL": "/img/logos/US/JCI.png",
+    "FullTimeEmployees": 87000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 612066206,
+    "SharesFloat": 609972607,
+    "PercentInsiders": 0.179,
+    "PercentInstitutions": 95.57900000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0152
+  }
+}

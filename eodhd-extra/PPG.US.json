@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.095,
+        "totalAssets": 0.0435,
+        "currentShares": 29306454,
+        "change": 41243,
+        "change_p": 0.1409
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.4292,
+        "totalAssets": 0.043,
+        "currentShares": 23340488,
+        "change": 699491,
+        "change_p": 3.0895
+      },
+      "2": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 6.0095,
+        "totalAssets": 0.2415,
+        "currentShares": 13449284,
+        "change": -1710486,
+        "change_p": -11.2831
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.48,
+        "totalAssets": 0.0447,
+        "currentShares": 12264154,
+        "change": -360674,
+        "change_p": -2.8569
+      },
+      "4": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1719,
+        "totalAssets": 2.1774,
+        "currentShares": 7098767,
+        "change": 5351103,
+        "change_p": 306.186
+      },
+      "5": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8108,
+        "totalAssets": 1.1343,
+        "currentShares": 6290622,
+        "change": 26793,
+        "change_p": 0.4277
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.792,
+        "totalAssets": 0.0197,
+        "currentShares": 6248364,
+        "change": 3005146,
+        "change_p": 92.6594
+      },
+      "7": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6261,
+        "totalAssets": 1.7986,
+        "currentShares": 5877095,
+        "change": 1930950,
+        "change_p": 48.9326
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5957,
+        "totalAssets": 0.0366,
+        "currentShares": 5809127,
+        "change": 135529,
+        "change_p": 2.3888
+      },
+      "9": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.0981,
+        "totalAssets": 0.1231,
+        "currentShares": 4695477,
+        "change": 1326619,
+        "change_p": 39.3789
+      },
+      "10": {
+        "name": "Beutel, Goodman & Company Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 1.7521,
+        "totalAssets": 2.4681,
+        "currentShares": 3921122,
+        "change": 90214,
+        "change_p": 2.3549
+      },
+      "11": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6496,
+        "totalAssets": 0.0415,
+        "currentShares": 3691793,
+        "change": -373801,
+        "change_p": -9.1943
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5186,
+        "totalAssets": 0.0563,
+        "currentShares": 3398513,
+        "change": 72692,
+        "change_p": 2.1857
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4941,
+        "totalAssets": 0.0213,
+        "currentShares": 3343782,
+        "change": 114156,
+        "change_p": 3.5347
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.281,
+        "totalAssets": 0.0616,
+        "currentShares": 2866932,
+        "change": -153206,
+        "change_p": -5.0728
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2778,
+        "totalAssets": 0.0455,
+        "currentShares": 2859595,
+        "change": 49509,
+        "change_p": 1.7618
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0689,
+        "totalAssets": 0.0322,
+        "currentShares": 2392257,
+        "change": -32576,
+        "change_p": -1.3434
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.042,
+        "totalAssets": 0.0166,
+        "currentShares": 2332038,
+        "change": -144851,
+        "change_p": -5.8481
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0091,
+        "totalAssets": 0.0516,
+        "currentShares": 2258415,
+        "change": -408502,
+        "change_p": -15.3174
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.913,
+        "totalAssets": 0.0224,
+        "currentShares": 2043285,
+        "change": -1142752,
+        "change_p": -35.8675
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1702,
+        "totalAssets": 0.038,
+        "currentShares": 7094945,
+        "change": 10194,
+        "change_p": 0.1439
+      },
+      "1": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.6954,
+        "totalAssets": 0.9887,
+        "currentShares": 6032197,
+        "change": 222469,
+        "change_p": 3.8292
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5535,
+        "totalAssets": 0.0429,
+        "currentShares": 5714745,
+        "change": -54460,
+        "change_p": -0.944
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1573,
+        "totalAssets": 0.2597,
+        "currentShares": 4828011,
+        "change": -49103,
+        "change_p": -1.0068
+      },
+      "4": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 2.0679,
+        "totalAssets": 0.7283,
+        "currentShares": 4627995,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.3924,
+        "totalAssets": 0.5032,
+        "currentShares": 3116100,
+        "change": 965400,
+        "change_p": 44.8877
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.289,
+        "totalAssets": 0.0428,
+        "currentShares": 2884673,
+        "change": -1572,
+        "change_p": -0.0545
+      },
+      "7": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 1.2866,
+        "totalAssets": 1.2212,
+        "currentShares": 2879305,
+        "change": 347778,
+        "change_p": 13.7379
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.276,
+        "totalAssets": 0.047,
+        "currentShares": 2855780,
+        "change": 4715,
+        "change_p": 0.1654
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1605,
+        "totalAssets": 0.0427,
+        "currentShares": 2597129,
+        "change": -6419,
+        "change_p": -0.2465
+      },
+      "10": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.0192,
+        "totalAssets": 0.5139,
+        "currentShares": 2280976,
+        "change": 47228,
+        "change_p": 2.1143
+      },
+      "11": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0076,
+        "totalAssets": 0.4796,
+        "currentShares": 2255094,
+        "change": -70275,
+        "change_p": -3.0221
+      },
+      "12": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9652,
+        "totalAssets": 0.5336,
+        "currentShares": 2160060,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.923,
+        "totalAssets": 0.0978,
+        "currentShares": 2065602,
+        "change": -22988,
+        "change_p": -1.1006
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9024,
+        "totalAssets": 1.0438,
+        "currentShares": 2019516,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.8686,
+        "totalAssets": 1.2139,
+        "currentShares": 1943874,
+        "change": -19070,
+        "change_p": -0.9715
+      },
+      "16": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8283,
+        "totalAssets": 3.0024,
+        "currentShares": 1853707,
+        "change": 77136,
+        "change_p": 4.3418
+      },
+      "17": {
+        "name": "Pzena Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.7484,
+        "totalAssets": 2.6827,
+        "currentShares": 1674994,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7455,
+        "totalAssets": 0.2091,
+        "currentShares": 1668404,
+        "change": 4978,
+        "change_p": 0.2993
+      },
+      "19": {
+        "name": "Franklin Mutual Global Discovery Z",
+        "date": "2026-03-31",
+        "totalShares": 0.6612,
+        "totalAssets": 1.6738,
+        "currentShares": 1479685,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.8671,
+    "ForwardPE": 13.7931,
+    "PriceSalesTTM": 1.5479,
+    "PriceBookMRQ": 3.1083,
+    "EnterpriseValue": 30359753108,
+    "EnterpriseValueRevenue": 1.9124,
+    "EnterpriseValueEbitda": 10.7888
+  },
+  "Highlights": {
+    "MarketCapitalization": 24573093888,
+    "MarketCapitalizationMln": 24573.0939,
+    "EBITDA": 2652000000,
+    "PERatio": 15.8671,
+    "PEGRatio": 1.4068,
+    "WallStreetTargetPrice": 122.1,
+    "BookValue": 35.542,
+    "DividendShare": 2.78,
+    "DividendYield": 0.0252,
+    "EarningsShare": 6.92,
+    "EPSEstimateCurrentYear": 7.9672,
+    "EPSEstimateNextYear": 8.7127,
+    "EPSEstimateNextQuarter": 1.7679,
+    "EPSEstimateCurrentQuarter": 1.579,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0993,
+    "OperatingMarginTTM": 0.1111,
+    "ReturnOnAssetsTTM": 0.0639,
+    "ReturnOnEquityTTM": 0.2108,
+    "RevenueTTM": 15875000320,
+    "RevenuePerShareTTM": 70.15,
+    "QuarterlyRevenueGrowthYOY": 0.05,
+    "GrossProfitTTM": 6608000000,
+    "DilutedEpsTTM": 6.92,
+    "QuarterlyEarningsGrowthYOY": -0.001
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.8,
+    "TotalEsgPercentile": 48.24,
+    "EnvironmentScore": 9.67,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 7.78,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 8.85,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PPG",
+    "Type": "Common Stock",
+    "Name": "PPG Industries Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRJ809",
+    "ISIN": "US6935061076",
+    "LEI": "549300BKPEP01R3V6C59",
+    "PrimaryTicker": "PPG.US",
+    "CUSIP": "693506107",
+    "CIK": "0000079879",
+    "EmployerIdNumber": "25-0730780",
+    "FiscalYearEnd": "December",
+    "IPODate": "1983-04-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Specialty Chemicals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "PPG Industries, Inc. manufactures and distributes paints, coatings, and specialty materials in the United States, Canada, the Asia Pacific, Latin America, Europe, the Middle East, and Africa. It operates through three segments: Global Architectural Coatings, Performance Coatings, and Industrial Coatings. The Global Architectural Coatings segment supplies a variety of decorative coatings, adhesives, sealants, and finishes, as well as paint strippers, stains, and related chemicals. Its Performance Coatings segment offers aerospace coatings, automotive refinishing coatings, protective and marine coatings, and traffic solutions comprising paints, thermoplastics, raised pavement markers, and other technologies for pavement marking. The Industrial Coatings segment provides automotive OEM coatings, industrial coatings, and packaging coatings, as well as specialty products, such as optical monomers and coatings, low-friction coatings, and other specialty products. The company delivers its products to company-owned stores, home centers and other consumer retail outlets, paint dealers, concessionaires and independent distributors, company-owned distribution networks, and directly to manufacturing companies and retail customers. PPG Industries, Inc. was incorporated in 1883 and is headquartered in Pittsburgh, Pennsylvania.",
+    "Address": "One PPG Place, Pittsburgh, PA, United States, 15272",
+    "AddressData": {
+      "Street": "One PPG Place",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "15272"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timothy M. Knavish",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Vincent J. Morales",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Ms. Anne M. Foulkes",
+        "Title": "Senior Vice President of Law & Special Projects",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Kevin D. Braun",
+        "Title": "Senior Vice President of Operations",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Karl Henrik Bergstrom",
+        "Title": "Senior Vice President of Architectural Coatings, Latin America, EMEA & Asia Pacific",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Brian Richard Williams",
+        "Title": "VP & Controller",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Dr. David Stanley Bem Ph.D.",
+        "Title": "Senior VP of Science & Technology and CTO",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Mr. Alejandro  Lopez",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Joseph R. Gette",
+        "Title": "SVP, General Counsel & Secretary",
+        "YearBorn": "1973"
+      },
+      "9": {
+        "Name": "Mr. Jeffrey C. Davies",
+        "Title": "Vice President of Corporate Development",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "412 434 3131",
+    "WebURL": "https://www.ppg.com",
+    "LogoURL": "/img/logos/US/PPG.png",
+    "FullTimeEmployees": 43500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 223798650,
+    "SharesFloat": 222982911,
+    "PercentInsiders": 0.14300000000000002,
+    "PercentInstitutions": 91.896,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0372
+  }
+}

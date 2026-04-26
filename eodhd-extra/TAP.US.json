@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.8252,
+        "totalAssets": 0.0138,
+        "currentShares": 20348793,
+        "change": 14247,
+        "change_p": 0.0701
+      },
+      "1": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 9.9007,
+        "totalAssets": 0.469,
+        "currentShares": 18610924,
+        "change": -20300,
+        "change_p": -0.109
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.7596,
+        "totalAssets": 0.0116,
+        "currentShares": 14586126,
+        "change": -345676,
+        "change_p": -2.315
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.5948,
+        "totalAssets": 0.0165,
+        "currentShares": 10516810,
+        "change": 1693682,
+        "change_p": 19.1959
+      },
+      "4": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 4.0286,
+        "totalAssets": 0.0742,
+        "currentShares": 7572843,
+        "change": 1147800,
+        "change_p": 17.8645
+      },
+      "5": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 3.1871,
+        "totalAssets": 0.6098,
+        "currentShares": 5990976,
+        "change": 2060,
+        "change_p": 0.0344
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3817,
+        "totalAssets": 0.0129,
+        "currentShares": 4477094,
+        "change": -30007,
+        "change_p": -0.6658
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.357,
+        "totalAssets": 0.0316,
+        "currentShares": 4430544,
+        "change": 152859,
+        "change_p": 3.5734
+      },
+      "8": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.975,
+        "totalAssets": 0.0301,
+        "currentShares": 3712596,
+        "change": -412064,
+        "change_p": -9.9903
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.9136,
+        "totalAssets": 0.0099,
+        "currentShares": 3597030,
+        "change": 463510,
+        "change_p": 14.792
+      },
+      "10": {
+        "name": "Clarkston Capital Partners, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7829,
+        "totalAssets": 3.6212,
+        "currentShares": 3351415,
+        "change": -12345,
+        "change_p": -0.367
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.7446,
+        "totalAssets": 0.0045,
+        "currentShares": 3279490,
+        "change": 2243380,
+        "change_p": 216.5195
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5545,
+        "totalAssets": 0.0167,
+        "currentShares": 2922022,
+        "change": 2122085,
+        "change_p": 265.2815
+      },
+      "13": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4699,
+        "totalAssets": 0.0677,
+        "currentShares": 2763019,
+        "change": 495080,
+        "change_p": 21.8295
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4332,
+        "totalAssets": 0.0135,
+        "currentShares": 2693990,
+        "change": -98464,
+        "change_p": -3.5261
+      },
+      "15": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.3465,
+        "totalAssets": 0.0692,
+        "currentShares": 2531145,
+        "change": 1528004,
+        "change_p": 152.322
+      },
+      "16": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.2421,
+        "totalAssets": 0.0355,
+        "currentShares": 2334756,
+        "change": -263799,
+        "change_p": -10.1518
+      },
+      "17": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 1.1023,
+        "totalAssets": 0.0733,
+        "currentShares": 2071976,
+        "change": 124522,
+        "change_p": 6.3941
+      },
+      "18": {
+        "name": "Royal London Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.0855,
+        "totalAssets": 0.2004,
+        "currentShares": 2040545,
+        "change": 131449,
+        "change_p": 6.8854
+      },
+      "19": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0039,
+        "totalAssets": 0.0196,
+        "currentShares": 1887083,
+        "change": -71871,
+        "change_p": -3.6688
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 7.4172,
+        "totalAssets": 0.5438,
+        "currentShares": 13942525,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.683,
+        "totalAssets": 0.0109,
+        "currentShares": 5043429,
+        "change": -208350,
+        "change_p": -3.9672
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2929,
+        "totalAssets": 0.013,
+        "currentShares": 4310033,
+        "change": -41451,
+        "change_p": -0.9526
+      },
+      "3": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.054,
+        "totalAssets": 0.1949,
+        "currentShares": 3860995,
+        "change": 11397,
+        "change_p": 0.2961
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.9389,
+        "totalAssets": 0.0945,
+        "currentShares": 3644627,
+        "change": -143042,
+        "change_p": -3.7765
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2352,
+        "totalAssets": 0.1646,
+        "currentShares": 2321850,
+        "change": -110464,
+        "change_p": -4.5415
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1606,
+        "totalAssets": 0.0131,
+        "currentShares": 2181652,
+        "change": -1188,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1462,
+        "totalAssets": 0.0141,
+        "currentShares": 2154590,
+        "change": 3522,
+        "change_p": 0.1637
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0316,
+        "totalAssets": 0.0128,
+        "currentShares": 1939213,
+        "change": -4802,
+        "change_p": -0.247
+      },
+      "9": {
+        "name": "Contrarius Global Equity Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.9786,
+        "totalAssets": 3.8507,
+        "currentShares": 1839559,
+        "change": 91775,
+        "change_p": 5.2509
+      },
+      "10": {
+        "name": "DFA US Small Cap Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.9459,
+        "totalAssets": 0.4782,
+        "currentShares": 1778073,
+        "change": 155522,
+        "change_p": 9.585
+      },
+      "11": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9423,
+        "totalAssets": 0.4922,
+        "currentShares": 1771383,
+        "change": -774,
+        "change_p": -0.0437
+      },
+      "12": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9128,
+        "totalAssets": 1.0463,
+        "currentShares": 1715900,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.7694,
+        "totalAssets": 0.4642,
+        "currentShares": 1446371,
+        "change": 26991,
+        "change_p": 1.9016
+      },
+      "14": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6617,
+        "totalAssets": 0.4232,
+        "currentShares": 1243847,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "UWS BNY Mellon Global Higher Inc B",
+        "date": "2026-02-28",
+        "totalShares": 0.6392,
+        "totalAssets": 1.1901,
+        "currentShares": 1201489,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Dodge & Cox Balanced Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.604,
+        "totalAssets": 0.3561,
+        "currentShares": 1135414,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Dodge & Cox Balanced I",
+        "date": "2025-12-31",
+        "totalShares": 0.604,
+        "totalAssets": 0.3581,
+        "currentShares": 1135414,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.5894,
+        "totalAssets": 0.0394,
+        "currentShares": 1108000,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5082,
+        "totalAssets": 0.013,
+        "currentShares": 955208,
+        "change": -738,
+        "change_p": -0.0772
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 8.9286,
+    "PriceSalesTTM": 0.7173,
+    "PriceBookMRQ": 0.7877,
+    "EnterpriseValue": 13527166983,
+    "EnterpriseValueRevenue": 1.2142,
+    "EnterpriseValueEbitda": 6.309
+  },
+  "Highlights": {
+    "MarketCapitalization": 7990828544,
+    "MarketCapitalizationMln": 7990.8285,
+    "EBITDA": 2363300096,
+    "PERatio": null,
+    "PEGRatio": 4.253,
+    "WallStreetTargetPrice": 46.7143,
+    "BookValue": 53.618,
+    "DividendShare": 1.88,
+    "DividendYield": 0.0439,
+    "EarningsShare": -10.64,
+    "EPSEstimateCurrentYear": 4.7035,
+    "EPSEstimateNextYear": 4.9918,
+    "EPSEstimateNextQuarter": 0.5615,
+    "EPSEstimateCurrentQuarter": 1.153,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.1921,
+    "OperatingMarginTTM": 0.1356,
+    "ReturnOnAssetsTTM": 0.0429,
+    "ReturnOnEquityTTM": -0.1817,
+    "RevenueTTM": 11140800512,
+    "RevenuePerShareTTM": 55.956,
+    "QuarterlyRevenueGrowthYOY": -0.027,
+    "GrossProfitTTM": 4274599936,
+    "DilutedEpsTTM": -10.64,
+    "QuarterlyEarningsGrowthYOY": -0.125
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.91,
+    "TotalEsgPercentile": 19.58,
+    "EnvironmentScore": 7.19,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 12.6,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 10.62,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "Yes"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TAP",
+    "Type": "Common Stock",
+    "Name": "Molson Coors Brewing Co Class B",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BS7KS3",
+    "ISIN": "US60871R2094",
+    "LEI": "54930073LBBH6ZCBE225",
+    "PrimaryTicker": "TAP.US",
+    "CUSIP": "217016104",
+    "CIK": "0000024545",
+    "EmployerIdNumber": "84-0178360",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Brewers",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Beverages",
+    "GicSubIndustry": "Brewers",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Molson Coors Beverage Company manufactures, markets, distributes, and sells beer and other malt beverage products in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers flavored malt beverages including hard seltzers, craft, spirits, and ready to drink beverages. The company also provides non-alcoholic beverages including premium mixers and energy drinks. It offers its products under Arnold Palmer Spiked, Aspall Cider, Blue Moon, Beck's, Blue Run Spirits, Cobra, Corona Extra, Coors Original, Fever-Tree, Heineken, Hidra, Leinenkugel's, Madri, Miller Genuine Draft, Molson Ultra, Peroni Nastro Azurro, Pilsner Urquell, Redd's, Rekorderlig, Sharp's, Simply Spiked, Staropramen, Stella Artois, Topo Chico Hard Seltzer, ZOA Energy, and Vizzy Hard Seltzer above premium brands; Bergenbier, Borsodi, Burgasko, Carling, Coors Banquet, Coors Light, Jelen, Miller Lite, Molson Canadian brands, Niksicko, and O\"ujsko under the premium brands; and Branik, Icehouse, Keystone, Lowenbrau, Miller High Life, Milwaukee's Best, and Steel Reserve under the economy brands. The company was formerly known as Molson Coors Brewing Company and changed its name to Molson Coors Beverage Company in January 2020. Molson Coors Beverage Company was founded in 1774 and is based in Golden, Colorado.",
+    "Address": "PO Box 4030, Golden, CO, United States, 80401",
+    "AddressData": {
+      "Street": "PO Box 4030",
+      "City": "Golden",
+      "State": "CO",
+      "Country": "United States",
+      "ZIP": "80401"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NY7",
+        "Exchange": "F",
+        "Name": "Molson Coors Brewing Co Class B"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Rahul  Goyal",
+        "Title": "President, CEO and Director",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Ms. Tracey I. Joubert",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Darrin  Vohs",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Ms. Natalie  Maciolek",
+        "Title": "Chief Legal, Communications, & Government Affairs Officer and Secretary",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Mr. Philip Mark Whitehead",
+        "Title": "President and Chief Executive Officer of Molson Coors EMEA & APAC",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Ms. Roxanne M. Stelter",
+        "Title": "VP, Controller, Chief Accounting Officer & Principal Accounting Officer",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Ms. Sofia  Colucci",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Dave  Osswald",
+        "Title": "Chief People & Culture Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Brian  Erhardt",
+        "Title": "Chief Supply Chain Officer of Molson Coors North America",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Brian  Feiro",
+        "Title": "President of U.S. Sales",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "303 279 6565",
+    "WebURL": "https://www.molsoncoors.com",
+    "LogoURL": "/img/logos/US/TAP.png",
+    "FullTimeEmployees": 16200,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 175639344,
+    "SharesFloat": 168692197,
+    "PercentInsiders": 12.659999999999998,
+    "PercentInstitutions": 98.572,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1606
+  }
+}

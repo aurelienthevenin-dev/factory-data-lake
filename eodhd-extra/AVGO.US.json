@@ -1,0 +1,607 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.1952,
+        "totalAssets": 2.4221,
+        "currentShares": 482707302,
+        "change": 3919715,
+        "change_p": 0.8187
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9821,
+        "totalAssets": 2.1827,
+        "currentShares": 377927942,
+        "change": 1310591,
+        "change_p": 0.348
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.9686,
+        "totalAssets": 1.857,
+        "currentShares": 187897716,
+        "change": 93781258,
+        "change_p": 99.6438
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9083,
+        "totalAssets": 2.1169,
+        "currentShares": 185043550,
+        "change": -233437,
+        "change_p": -0.126
+      },
+      "4": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.9963,
+        "totalAssets": 7.6969,
+        "currentShares": 141864077,
+        "change": -4613136,
+        "change_p": -3.1494
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.6033,
+        "totalAssets": 5.8018,
+        "currentShares": 123257172,
+        "change": -12329760,
+        "change_p": -9.0936
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6018,
+        "totalAssets": 2.1738,
+        "currentShares": 123186236,
+        "change": 2363430,
+        "change_p": 1.9561
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3503,
+        "totalAssets": 2.3695,
+        "currentShares": 111277280,
+        "change": 1548699,
+        "change_p": 1.4114
+      },
+      "8": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.824,
+        "totalAssets": 5.5175,
+        "currentShares": 86361719,
+        "change": -1354962,
+        "change_p": -1.5447
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7542,
+        "totalAssets": 2.9314,
+        "currentShares": 83054439,
+        "change": 4904436,
+        "change_p": 6.2757
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.542,
+        "totalAssets": 1.4583,
+        "currentShares": 73008578,
+        "change": -724893,
+        "change_p": -0.9831
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.48,
+        "totalAssets": 2.5945,
+        "currentShares": 70072800,
+        "change": 2670119,
+        "change_p": 3.9614
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3101,
+        "totalAssets": 1.3879,
+        "currentShares": 62028856,
+        "change": -5123905,
+        "change_p": -7.6302
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0279,
+        "totalAssets": 2.054,
+        "currentShares": 48668426,
+        "change": -142489,
+        "change_p": -0.2919
+      },
+      "14": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0008,
+        "totalAssets": 2.8739,
+        "currentShares": 47385880,
+        "change": 766553,
+        "change_p": 1.6443
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8269,
+        "totalAssets": 2.0349,
+        "currentShares": 39149651,
+        "change": 700021,
+        "change_p": 1.8206
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7756,
+        "totalAssets": 3.328,
+        "currentShares": 36722111,
+        "change": -20810,
+        "change_p": -0.0566
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7529,
+        "totalAssets": 2.5537,
+        "currentShares": 35647634,
+        "change": -4224464,
+        "change_p": -10.595
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7068,
+        "totalAssets": 2.5687,
+        "currentShares": 33465313,
+        "change": 14527,
+        "change_p": 0.0434
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.705,
+        "totalAssets": 1.417,
+        "currentShares": 33381348,
+        "change": -3404471,
+        "change_p": -9.2548
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.181,
+        "totalAssets": 2.3348,
+        "currentShares": 150609108,
+        "change": 1237688,
+        "change_p": 0.8286
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.55,
+        "totalAssets": 2.6261,
+        "currentShares": 120733244,
+        "change": -728137,
+        "change_p": -0.5995
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2872,
+        "totalAssets": 2.6194,
+        "currentShares": 60945741,
+        "change": -33180,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2693,
+        "totalAssets": 2.5636,
+        "currentShares": 60098022,
+        "change": 99071,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1613,
+        "totalAssets": 2.6172,
+        "currentShares": 54981466,
+        "change": -135142,
+        "change_p": -0.2452
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9549,
+        "totalAssets": 4.4031,
+        "currentShares": 45209432,
+        "change": 3693429,
+        "change_p": 8.8964
+      },
+      "6": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9469,
+        "totalAssets": 4.6183,
+        "currentShares": 44831935,
+        "change": -1803150,
+        "change_p": -3.8665
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.9009,
+        "totalAssets": 4.3088,
+        "currentShares": 42654498,
+        "change": -2177437,
+        "change_p": -4.8569
+      },
+      "8": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8725,
+        "totalAssets": 6.8665,
+        "currentShares": 41309266,
+        "change": -7053979,
+        "change_p": -14.5854
+      },
+      "9": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8152,
+        "totalAssets": 5.9911,
+        "currentShares": 38596513,
+        "change": -2712753,
+        "change_p": -6.5669
+      },
+      "10": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.7613,
+        "totalAssets": 3.0064,
+        "currentShares": 36044704,
+        "change": -120572,
+        "change_p": -0.3334
+      },
+      "11": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7239,
+        "totalAssets": 6.7416,
+        "currentShares": 34274292,
+        "change": -21833,
+        "change_p": -0.0637
+      },
+      "12": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7146,
+        "totalAssets": 7.2383,
+        "currentShares": 33832452,
+        "change": -2471063,
+        "change_p": -6.8067
+      },
+      "13": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.6951,
+        "totalAssets": 6.1393,
+        "currentShares": 32908735,
+        "change": -1365557,
+        "change_p": -3.9842
+      },
+      "14": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.6238,
+        "totalAssets": 5.9391,
+        "currentShares": 29536763,
+        "change": -4295689,
+        "change_p": -12.6969
+      },
+      "15": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.6043,
+        "totalAssets": 3.3591,
+        "currentShares": 28610233,
+        "change": -10506685,
+        "change_p": -26.8597
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5642,
+        "totalAssets": 2.6197,
+        "currentShares": 26712394,
+        "change": -38246,
+        "change_p": -0.143
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5346,
+        "totalAssets": 2.5926,
+        "currentShares": 25309547,
+        "change": 136000,
+        "change_p": 0.5402
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4523,
+        "totalAssets": 2.6164,
+        "currentShares": 21414642,
+        "change": 207881,
+        "change_p": 0.9803
+      },
+      "19": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.4165,
+        "totalAssets": 7.0912,
+        "currentShares": 19721773,
+        "change": -605467,
+        "change_p": -2.9786
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 81.9302,
+    "ForwardPE": 37.7358,
+    "PriceSalesTTM": 29.3141,
+    "PriceBookMRQ": 24.8933,
+    "EnterpriseValue": 2040159557188,
+    "EnterpriseValueRevenue": 29.8784,
+    "EnterpriseValueEbitda": 54.6579
+  },
+  "Highlights": {
+    "MarketCapitalization": 2001628430336,
+    "MarketCapitalizationMln": 2001628.4303,
+    "EBITDA": 37218000896,
+    "PERatio": 81.9302,
+    "PEGRatio": 0.9136,
+    "WallStreetTargetPrice": 475.493,
+    "BookValue": 16.865,
+    "DividendShare": 2.48,
+    "DividendYield": 0.0059,
+    "EarningsShare": 5.16,
+    "EPSEstimateCurrentYear": 11.4256,
+    "EPSEstimateNextYear": 18.118,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.0233,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.3657,
+    "OperatingMarginTTM": 0.4494,
+    "ReturnOnAssetsTTM": 0.1066,
+    "ReturnOnEquityTTM": 0.3337,
+    "RevenueTTM": 68281999360,
+    "RevenuePerShareTTM": 14.456,
+    "QuarterlyRevenueGrowthYOY": 0.295,
+    "GrossProfitTTM": 52389998592,
+    "DilutedEpsTTM": 5.16,
+    "QuarterlyEarningsGrowthYOY": 0.316
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.54,
+    "TotalEsgPercentile": 38.46,
+    "EnvironmentScore": 5.96,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 5.66,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 6.43,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AVGO",
+    "Type": "Common Stock",
+    "Name": "Broadcom Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00KHY5S69",
+    "ISIN": "US11135F1012",
+    "LEI": "549300WV6GIDOZJTV909",
+    "PrimaryTicker": "AVGO.US",
+    "CUSIP": "Y0486S104",
+    "CIK": "0001730168",
+    "EmployerIdNumber": "35-2617337",
+    "FiscalYearEnd": "October",
+    "IPODate": "2009-08-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software. The company offers networking connectivity, such as custom silicon solutions, ethernet switching & routing, ethernet NIC controllers, physical layer devices, and fiber optic components; wireless device connectivity, including RF semiconductor devices, connectivity solutions, custom touch controllers, and inductive charging ASICS; servers and storage system solutions, such as PCIE switches, SAS & raid products, fibre channel products, and HDD & SSD solutions; broadband solutions, includes set-top box, and broadband access; and industrial. The company also offers a private cloud software portfolio, including the VMware Cloud Foundation, Edge, vSphere foundation, telco cloud platform, private AI, live recovery, application networking and security, application development and data services; mainframe software, such as AIOPS & automation, database & data management, DEVX & DEVOPS, cybersecurity & compliance management, beyond code programs, foundational & open mainframe solutions; cybersecurity, such as endpoint, network, information, application security, and identity & access management; enterprise software; and fc san management. Its products are used in various applications in enterprise and data center networking, including artificial intelligence networking and connectivity, home connectivity, set-top boxes, broadband access, telecommunication equipment, wireless device and base stations, data center servers and storage systems, factory automation, power generation and alternative energy systems, and electronic displays. Broadcom Inc. was founded in 1961 and is headquartered in Palo Alto, California.",
+    "Address": "3421 Hillview Ave, Palo Alto, CA, United States, 94304",
+    "AddressData": {
+      "Street": "3421 Hillview Ave",
+      "City": "Palo Alto",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94304"
+    },
+    "Listings": {
+      "0": {
+        "Code": "1YD",
+        "Exchange": "F",
+        "Name": "Broadcom Inc"
+      },
+      "1": {
+        "Code": "1YD",
+        "Exchange": "XETRA",
+        "Name": "Broadcom Inc."
+      },
+      "2": {
+        "Code": "AVGO34",
+        "Exchange": "SA",
+        "Name": "Broadcom Inc"
+      },
+      "3": {
+        "Code": "AVGOP",
+        "Exchange": "US",
+        "Name": "Broadcom Mandatory Conv Pref"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Hock E. Tan",
+        "Title": "President, CEO & Executive Director",
+        "YearBorn": "1952"
+      },
+      "1": {
+        "Name": "Ms. Kirsten M. Spears",
+        "Title": "CFO & Chief Accounting Officer",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Mark D. Brazeal J.D.",
+        "Title": "Chief Legal & Corporate Affairs Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Dr. Charlie B. Kawwas Ph.D.",
+        "Title": "President of Semiconductor Solutions",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Alan  Davidson",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Ji  Yoo",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Jill  Turner",
+        "Title": "Vice President of Human Resources",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Frank  Ostojic",
+        "Title": "Senior VP & GM of ASIC Products Division",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Rich  Nelson",
+        "Title": "Senior VP & GM of Broadband Video Group",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Ram  Velaga",
+        "Title": "Senior VP & GM of Core Switching Group",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "650 427 6000",
+    "WebURL": "https://www.broadcom.com",
+    "LogoURL": "/img/logos/US/AVGO.png",
+    "FullTimeEmployees": 33000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 4734668184,
+    "SharesFloat": 4675721565,
+    "PercentInsiders": 1.967,
+    "PercentInstitutions": 80.07600000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0115
+  }
+}

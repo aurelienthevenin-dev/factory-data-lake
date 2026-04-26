@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.6605,
+        "totalAssets": 0.218,
+        "currentShares": 150528952,
+        "change": -1056262,
+        "change_p": -0.6968
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6107,
+        "totalAssets": 0.2211,
+        "currentShares": 132280754,
+        "change": 4067647,
+        "change_p": 3.1726
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.9717,
+        "totalAssets": 0.3466,
+        "currentShares": 121175308,
+        "change": 50571078,
+        "change_p": 71.6261
+      },
+      "3": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 4.4022,
+        "totalAssets": 4.1265,
+        "currentShares": 76513926,
+        "change": -6529327,
+        "change_p": -7.8626
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.209,
+        "totalAssets": 0.2422,
+        "currentShares": 73156290,
+        "change": 691671,
+        "change_p": 0.9545
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.305,
+        "totalAssets": 0.5867,
+        "currentShares": 57444595,
+        "change": -17391174,
+        "change_p": -23.2391
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1672,
+        "totalAssets": 0.2313,
+        "currentShares": 37667640,
+        "change": 98242,
+        "change_p": 0.2615
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.9466,
+        "totalAssets": 0.1724,
+        "currentShares": 33834232,
+        "change": 2308536,
+        "change_p": 7.3227
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7321,
+        "totalAssets": 0.7167,
+        "currentShares": 30106349,
+        "change": 70412,
+        "change_p": 0.2344
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4226,
+        "totalAssets": 0.1429,
+        "currentShares": 24726202,
+        "change": 637348,
+        "change_p": 2.6458
+      },
+      "10": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.3392,
+        "totalAssets": 1.7603,
+        "currentShares": 23276071,
+        "change": 2066884,
+        "change_p": 9.7452
+      },
+      "11": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.2676,
+        "totalAssets": 2.782,
+        "currentShares": 22031493,
+        "change": 795875,
+        "change_p": 3.7478
+      },
+      "12": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2553,
+        "totalAssets": 0.744,
+        "currentShares": 21818514,
+        "change": 171926,
+        "change_p": 0.7942
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1484,
+        "totalAssets": 0.2133,
+        "currentShares": 19959856,
+        "change": -753191,
+        "change_p": -3.6363
+      },
+      "14": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.99,
+        "totalAssets": 2.5737,
+        "currentShares": 17206336,
+        "change": -519333,
+        "change_p": -2.9298
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9782,
+        "totalAssets": 0.2076,
+        "currentShares": 17001627,
+        "change": -106047,
+        "change_p": -0.6199
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9172,
+        "totalAssets": 0.2398,
+        "currentShares": 15941021,
+        "change": 765623,
+        "change_p": 5.0452
+      },
+      "17": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.8841,
+        "totalAssets": 0.4951,
+        "currentShares": 15366868,
+        "change": -1717244,
+        "change_p": -10.0517
+      },
+      "18": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8693,
+        "totalAssets": 0.0978,
+        "currentShares": 15108771,
+        "change": -287095,
+        "change_p": -1.8648
+      },
+      "19": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.8289,
+        "totalAssets": 0.4331,
+        "currentShares": 14406616,
+        "change": -967617,
+        "change_p": -6.2938
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0422,
+        "totalAssets": 0.2489,
+        "currentShares": 52875658,
+        "change": -517109,
+        "change_p": -0.9685
+      },
+      "1": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 3.0047,
+        "totalAssets": 4.36,
+        "currentShares": 52225135,
+        "change": -5089300,
+        "change_p": -8.8796
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4471,
+        "totalAssets": 0.2809,
+        "currentShares": 42533146,
+        "change": -427182,
+        "change_p": -0.9944
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2353,
+        "totalAssets": 0.2802,
+        "currentShares": 21470683,
+        "change": -11688,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.223,
+        "totalAssets": 0.2701,
+        "currentShares": 21256918,
+        "change": 35033,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1159,
+        "totalAssets": 0.2803,
+        "currentShares": 19395393,
+        "change": -47628,
+        "change_p": -0.245
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8851,
+        "totalAssets": 0.6406,
+        "currentShares": 15384318,
+        "change": -348666,
+        "change_p": -2.2161
+      },
+      "7": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8772,
+        "totalAssets": 2.003,
+        "currentShares": 15246248,
+        "change": 1653956,
+        "change_p": 12.1683
+      },
+      "8": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.7388,
+        "totalAssets": 1.0744,
+        "currentShares": 12840504,
+        "change": 3049861,
+        "change_p": 31.1508
+      },
+      "9": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6569,
+        "totalAssets": 2.2234,
+        "currentShares": 11417974,
+        "change": 19338,
+        "change_p": 0.1697
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5414,
+        "totalAssets": 0.2802,
+        "currentShares": 9410213,
+        "change": -52422,
+        "change_p": -0.554
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.513,
+        "totalAssets": 0.2773,
+        "currentShares": 8916400,
+        "change": 12400,
+        "change_p": 0.1393
+      },
+      "12": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.4891,
+        "totalAssets": 1.84,
+        "currentShares": 8501638,
+        "change": 290185,
+        "change_p": 3.5339
+      },
+      "13": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.4837,
+        "totalAssets": 1.9164,
+        "currentShares": 8406770,
+        "change": 247471,
+        "change_p": 3.033
+      },
+      "14": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.4766,
+        "totalAssets": 1.6412,
+        "currentShares": 8284316,
+        "change": 171529,
+        "change_p": 2.1143
+      },
+      "15": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4514,
+        "totalAssets": 1.8897,
+        "currentShares": 7845157,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4341,
+        "totalAssets": 0.2799,
+        "currentShares": 7544263,
+        "change": 43347,
+        "change_p": 0.5779
+      },
+      "17": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.4072,
+        "totalAssets": 1.5501,
+        "currentShares": 7076781,
+        "change": 277170,
+        "change_p": 4.0763
+      },
+      "18": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3812,
+        "totalAssets": 0.2856,
+        "currentShares": 6626204,
+        "change": 6626204,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3812,
+        "totalAssets": 0.2856,
+        "currentShares": 6626204,
+        "change": -220587,
+        "change_p": -3.2218
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 17.5944,
+    "ForwardPE": 15.1515,
+    "PriceSalesTTM": 6.2518,
+    "PriceBookMRQ": 3.1413,
+    "EnterpriseValue": 102721003520,
+    "EnterpriseValueRevenue": 6.7349,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 155070627840,
+    "MarketCapitalizationMln": 155070.6278,
+    "EBITDA": null,
+    "PERatio": 17.5944,
+    "PEGRatio": 1.1564,
+    "WallStreetTargetPrice": 115,
+    "BookValue": 28.179,
+    "DividendShare": 1.13,
+    "DividendYield": 0.0127,
+    "EarningsShare": 5.03,
+    "EPSEstimateCurrentYear": 6.0188,
+    "EPSEstimateNextYear": 6.9863,
+    "EPSEstimateNextQuarter": 1.4632,
+    "EPSEstimateCurrentQuarter": 1.3883,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.3799,
+    "OperatingMarginTTM": 0.4918,
+    "ReturnOnAssetsTTM": 0.0197,
+    "ReturnOnEquityTTM": 0.1909,
+    "RevenueTTM": 24803999744,
+    "RevenuePerShareTTM": 13.886,
+    "QuarterlyRevenueGrowthYOY": 0.158,
+    "GrossProfitTTM": 24174000128,
+    "DilutedEpsTTM": 5.03,
+    "QuarterlyEarningsGrowthYOY": 0.386
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.29,
+    "TotalEsgPercentile": 35.08,
+    "EnvironmentScore": 1.61,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 8.8,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 8.38,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SCHW",
+    "Type": "Common Stock",
+    "Name": "Charles Schwab Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BSLZY7",
+    "ISIN": "US8085131055",
+    "LEI": "549300VSGCJ7E698NM85",
+    "PrimaryTicker": "SCHW.US",
+    "CUSIP": "808513105",
+    "CIK": "0000316709",
+    "EmployerIdNumber": "94-3025021",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-09-22",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Capital Markets",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Investment Banking & Brokerage",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "The Charles Schwab Corporation, together with its subsidiaries, operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company operates in two segments, Investor Services and Advisor Services. It offers brokerage accounts with equity and fixed income trading, margin lending, options trading, futures and forex trading, and cash management capabilities, including money market funds, and certificates of deposit; third-party mutual funds through the Mutual Fund Marketplace and Mutual Fund OneSource service, as well as mutual fund trading and clearing services to broker-dealers; exchange-traded funds; advisory solutions for managed portfolios, separately managed accounts, customized personal advice for tailored portfolios, specialized planning, and full-time portfolio management; banking products comprising checking and savings accounts, first lien residential real estate mortgage loans, home equity lines of credit, and pledged asset lines; and trust custody services, personal trust reporting services, and administrative trustee services. It provides digital and software based trading platforms; research tools, and multichannel support, real-time market data, options trading; equity compensation plan sponsors full-service recordkeeping for stock plans, stock options, restricted stock, performance shares, and stock appreciation rights; retirement plan services; mutual fund clearing services; and advisor services, including interactive tools and educational content. The Company operates through branch offices. The Charles Schwab Corporation was founded in 1971 and is headquartered in Westlake, Texas.",
+    "Address": "3000 Schwab Way, Westlake, TX, United States, 76262",
+    "AddressData": {
+      "Street": "3000 Schwab Way",
+      "City": "Westlake",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "76262"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SCHW34",
+        "Exchange": "SA",
+        "Name": "The Charles Schwab Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Charles Robert Schwab",
+        "Title": "Founder & Co-Chairman",
+        "YearBorn": "1937"
+      },
+      "1": {
+        "Name": "Mr. Richard Andrew Wurster C.F.A., CMT",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Michael Daniel Verdeschi",
+        "Title": "MD & Chief Financial Officer",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Jonathan M. Craig",
+        "Title": "MD, Head of Investor Service & Head of Retail Investing",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Tim  Heier",
+        "Title": "MD & CTO",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Shannon L. Jurecka",
+        "Title": "Managing Director & Chief Administrative Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. Jeff  Edwards",
+        "Title": "MD & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Peter J. Morgan III",
+        "Title": "MD, General Counsel & Corporate Secretary",
+        "YearBorn": "1965"
+      },
+      "8": {
+        "Name": "Ms. Stacy  Hammond",
+        "Title": "MD & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Lisa Kidd Hunt",
+        "Title": "MD & Head of International Services",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "817 859 5000",
+    "WebURL": "https://www.aboutschwab.com",
+    "LogoURL": "/img/logos/US/schw.png",
+    "FullTimeEmployees": 33500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1738099441,
+    "SharesFloat": 1641274920,
+    "PercentInsiders": 6.171,
+    "PercentInstitutions": 85.949,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0
+  }
+}

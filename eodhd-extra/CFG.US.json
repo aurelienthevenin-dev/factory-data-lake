@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0423,
+        "totalAssets": 0.0434,
+        "currentShares": 51303226,
+        "change": 115722,
+        "change_p": 0.2261
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2931,
+        "totalAssets": 0.0408,
+        "currentShares": 43851199,
+        "change": -3071723,
+        "change_p": -6.5463
+      },
+      "2": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 8.6584,
+        "totalAssets": 0.2931,
+        "currentShares": 36886708,
+        "change": -403003,
+        "change_p": -1.0807
+      },
+      "3": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 5.6486,
+        "totalAssets": 0.2016,
+        "currentShares": 24064513,
+        "change": 393158,
+        "change_p": 1.6609
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.3917,
+        "totalAssets": 0.0423,
+        "currentShares": 22969833,
+        "change": -298721,
+        "change_p": -1.2838
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6668,
+        "totalAssets": 0.0408,
+        "currentShares": 11361142,
+        "change": 32264,
+        "change_p": 0.2848
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.563,
+        "totalAssets": 0.0351,
+        "currentShares": 10919196,
+        "change": 125669,
+        "change_p": 1.1643
+      },
+      "7": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.878,
+        "totalAssets": 0.0733,
+        "currentShares": 8000750,
+        "change": 1953372,
+        "change_p": 32.3011
+      },
+      "8": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8127,
+        "totalAssets": 0.2366,
+        "currentShares": 7722559,
+        "change": 2799050,
+        "change_p": 56.8507
+      },
+      "9": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.695,
+        "totalAssets": 0.3634,
+        "currentShares": 7220986,
+        "change": 505614,
+        "change_p": 7.5292
+      },
+      "10": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5843,
+        "totalAssets": 0.0613,
+        "currentShares": 6749393,
+        "change": -91511,
+        "change_p": -1.3377
+      },
+      "11": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5669,
+        "totalAssets": 1.1646,
+        "currentShares": 6675233,
+        "change": -731702,
+        "change_p": -9.8786
+      },
+      "12": {
+        "name": "Ninety One UK Limited",
+        "date": "2025-12-31",
+        "totalShares": 1.5433,
+        "totalAssets": 0.8234,
+        "currentShares": 6574714,
+        "change": -5048518,
+        "change_p": -43.4347
+      },
+      "13": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.4561,
+        "totalAssets": 0.7901,
+        "currentShares": 6203383,
+        "change": -171877,
+        "change_p": -2.696
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4303,
+        "totalAssets": 0.0381,
+        "currentShares": 6093287,
+        "change": 430195,
+        "change_p": 7.5965
+      },
+      "15": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.2156,
+        "totalAssets": 0.0451,
+        "currentShares": 5178755,
+        "change": -5714065,
+        "change_p": -52.4572
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1934,
+        "totalAssets": 0.0364,
+        "currentShares": 5084289,
+        "change": 681165,
+        "change_p": 15.47
+      },
+      "17": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1106,
+        "totalAssets": 0.156,
+        "currentShares": 4731592,
+        "change": 2232806,
+        "change_p": 89.3556
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.101,
+        "totalAssets": 0.0575,
+        "currentShares": 4690558,
+        "change": -121543,
+        "change_p": -2.5258
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0785,
+        "totalAssets": 0.0313,
+        "currentShares": 4594789,
+        "change": -56210,
+        "change_p": -1.2086
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 5.6222,
+        "totalAssets": 0.6719,
+        "currentShares": 23951828,
+        "change": 1257762,
+        "change_p": 5.5423
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0004,
+        "totalAssets": 0.0384,
+        "currentShares": 12782216,
+        "change": -60634,
+        "change_p": -0.4721
+      },
+      "2": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.782,
+        "totalAssets": 0.3565,
+        "currentShares": 11851810,
+        "change": -12100018,
+        "change_p": -50.5181
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.54,
+        "totalAssets": 0.0456,
+        "currentShares": 10821123,
+        "change": -223017,
+        "change_p": -2.0193
+      },
+      "4": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.3625,
+        "totalAssets": 0.4263,
+        "currentShares": 10064684,
+        "change": -2068920,
+        "change_p": -17.0512
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0472,
+        "totalAssets": 0.2632,
+        "currentShares": 8721677,
+        "change": -146919,
+        "change_p": -1.6566
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.283,
+        "totalAssets": 0.0439,
+        "currentShares": 5465763,
+        "change": 9020,
+        "change_p": 0.1653
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2823,
+        "totalAssets": 0.0455,
+        "currentShares": 5463070,
+        "change": -2976,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1514,
+        "totalAssets": 0.0452,
+        "currentShares": 4905387,
+        "change": -12103,
+        "change_p": -0.2461
+      },
+      "9": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.077,
+        "totalAssets": 0.1657,
+        "currentShares": 4588119,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.9949,
+        "totalAssets": 0.1651,
+        "currentShares": 4238300,
+        "change": -349819,
+        "change_p": -7.6245
+      },
+      "11": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9115,
+        "totalAssets": 0.3575,
+        "currentShares": 3883251,
+        "change": -448900,
+        "change_p": -10.3621
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8759,
+        "totalAssets": 0.0992,
+        "currentShares": 3731421,
+        "change": -65737,
+        "change_p": -1.7312
+      },
+      "13": {
+        "name": "Invesco Comstock A",
+        "date": "2026-01-31",
+        "totalShares": 0.8685,
+        "totalAssets": 1.7615,
+        "currentShares": 3699808,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Invesco Large Cap Value",
+        "date": "2025-12-31",
+        "totalShares": 0.8685,
+        "totalAssets": 1.6759,
+        "currentShares": 3699808,
+        "change": -665148,
+        "change_p": -15.2384
+      },
+      "15": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8647,
+        "totalAssets": 0.9911,
+        "currentShares": 3683724,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6966,
+        "totalAssets": 0.2087,
+        "currentShares": 2967567,
+        "change": 8777,
+        "change_p": 0.2966
+      },
+      "17": {
+        "name": "Invesco Equity and Income Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.6915,
+        "totalAssets": 1.3504,
+        "currentShares": 2946148,
+        "change": -41871,
+        "change_p": -1.4013
+      },
+      "18": {
+        "name": "Invesco Equity and Income A",
+        "date": "2026-02-28",
+        "totalShares": 0.6822,
+        "totalAssets": 1.3298,
+        "currentShares": 2906267,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6819,
+        "totalAssets": 0.361,
+        "currentShares": 2905068,
+        "change": 4917,
+        "change_p": 0.1695
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.1161,
+    "ForwardPE": 12.7065,
+    "PriceSalesTTM": 3.4465,
+    "PriceBookMRQ": 1.1539,
+    "EnterpriseValue": 28441044992,
+    "EnterpriseValueRevenue": 4.9751,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 27176044544,
+    "MarketCapitalizationMln": 27176.0445,
+    "EBITDA": null,
+    "PERatio": 15.1161,
+    "PEGRatio": 1.6472,
+    "WallStreetTargetPrice": 72.8235,
+    "BookValue": 56.478,
+    "DividendShare": 1.76,
+    "DividendYield": 0.027,
+    "EarningsShare": 4.22,
+    "EPSEstimateCurrentYear": 5.1845,
+    "EPSEstimateNextYear": 6.383,
+    "EPSEstimateNextQuarter": 1.2372,
+    "EPSEstimateCurrentQuarter": 1.087,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2505,
+    "OperatingMarginTTM": 0.3205,
+    "ReturnOnAssetsTTM": 0.0088,
+    "ReturnOnEquityTTM": 0.0774,
+    "RevenueTTM": 7885000192,
+    "RevenuePerShareTTM": 18.34,
+    "QuarterlyRevenueGrowthYOY": 0.138,
+    "GrossProfitTTM": 7885000192,
+    "DilutedEpsTTM": 4.22,
+    "QuarterlyEarningsGrowthYOY": 0.468
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.85,
+    "TotalEsgPercentile": 48.12,
+    "EnvironmentScore": 5.37,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 16.57,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 17.91,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CFG",
+    "Type": "Common Stock",
+    "Name": "Citizens Financial Group, Inc.",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG006Q0HY77",
+    "ISIN": "US1746101054",
+    "LEI": "2138004JDDA4ZQUPFW65",
+    "PrimaryTicker": "CFG.US",
+    "CUSIP": "174610105",
+    "CIK": "0000759944",
+    "EmployerIdNumber": "05-0412693",
+    "FiscalYearEnd": "December",
+    "IPODate": "2014-09-24",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Regional Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Citizens Financial Group, Inc. operates as the bank holding company that provides retail and commercial banking products and services to individuals, small businesses, middle-market companies, large corporations, and institutions in the United States. The company operates through two segments, Consumer Banking and Commercial Banking. The Consumer Banking segment offers deposit products, mortgage and home equity lending products, credit cards, business loans, and wealth management services; and education and point-of-sale finance loans, as well as digital deposit products. This segment serves its customers through telephone service centers, as well as through its online and mobile platforms. The Commercial Banking segment provides various financial products and solutions, including lending and leasing, deposit and treasury management services, foreign exchange, and interest rate and commodity risk management solutions, as well as syndicated loans, corporate finance, mergers and acquisitions, and debt and equity capital markets services. The company serves customers and small businesses, high- and ultra-high-net-worth individuals and families, as well as investors, entrepreneurs, and companies and institutions, as well as multifamily, office, industrial, retail, healthcare, and hospitality sectors. The company was formerly known as RBS Citizens Financial Group, Inc. and changed its name to Citizens Financial Group, Inc. in April 2014. Citizens Financial Group, Inc. was founded in 1828 and is headquartered in Providence, Rhode Island.",
+    "Address": "One Citizens Plaza, Providence, RI, United States, 02903",
+    "AddressData": {
+      "Street": "One Citizens Plaza",
+      "City": "Providence",
+      "State": "RI",
+      "Country": "United States",
+      "ZIP": "02903"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Bruce Winfield Van Saun",
+        "Title": "CEO & Chairman of the Board",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. Brendan  Coughlin",
+        "Title": "President and Head of Consumer, Private Banking & Wealth",
+        "YearBorn": "1980"
+      },
+      "2": {
+        "Name": "Mr. Aunoy  Banerjee",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. Theodore C. Swimmer",
+        "Title": "Executive VP & Head of Commercial Banking",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Christopher J. Schnirel",
+        "Title": "Executive VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Michael  Ruttledge",
+        "Title": "Executive VP, Chief Information Officer and Head of Enterprise Security & Technology",
+        "YearBorn": "1964"
+      },
+      "6": {
+        "Name": "Ms. Kristin  Silberberg",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Michelle  Moosally",
+        "Title": "Executive Vice President, General Counsel and Chief Legal Officer",
+        "YearBorn": "1976"
+      },
+      "8": {
+        "Name": "Ms. Susan A. LaMonica",
+        "Title": "Executive VP & Chief HR Officer",
+        "YearBorn": "1962"
+      },
+      "9": {
+        "Name": "Mr. Thomas M. Metzger",
+        "Title": "Head of Citizens Private Wealth Manager",
+        "YearBorn": "1952"
+      }
+    },
+    "Phone": "203 900 6715",
+    "WebURL": "https://www.citizensbank.com",
+    "LogoURL": "/img/logos/US/CFG.png",
+    "FullTimeEmployees": 17380,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 426023578,
+    "SharesFloat": 421763342,
+    "PercentInsiders": 0.7270000000000001,
+    "PercentInstitutions": 99.46199999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0001
+  }
+}

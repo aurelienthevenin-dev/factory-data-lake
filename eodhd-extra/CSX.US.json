@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4193,
+        "totalAssets": 0.0921,
+        "currentShares": 175198067,
+        "change": 1806718,
+        "change_p": 1.042
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6174,
+        "totalAssets": 0.0881,
+        "currentShares": 141682449,
+        "change": -1071340,
+        "change_p": -0.7505
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6043,
+        "totalAssets": 0.1055,
+        "currentShares": 85640360,
+        "change": -1950209,
+        "change_p": -2.2265
+      },
+      "3": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.3028,
+        "totalAssets": 0.1032,
+        "currentShares": 42831990,
+        "change": 26711916,
+        "change_p": 165.7059
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2806,
+        "totalAssets": 0.0945,
+        "currentShares": 42419029,
+        "change": 235622,
+        "change_p": 0.5586
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2637,
+        "totalAssets": 0.0448,
+        "currentShares": 42104296,
+        "change": -14371810,
+        "change_p": -25.4476
+      },
+      "6": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0097,
+        "totalAssets": 0.142,
+        "currentShares": 37381151,
+        "change": 5091974,
+        "change_p": 15.7699
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5269,
+        "totalAssets": 0.0611,
+        "currentShares": 28401059,
+        "change": 2327752,
+        "change_p": 8.9277
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4497,
+        "totalAssets": 0.1046,
+        "currentShares": 26964138,
+        "change": 4032086,
+        "change_p": 17.5828
+      },
+      "9": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4256,
+        "totalAssets": 0.3281,
+        "currentShares": 26515831,
+        "change": 660157,
+        "change_p": 2.5532
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4149,
+        "totalAssets": 0.1676,
+        "currentShares": 26316524,
+        "change": -166677,
+        "change_p": -0.6294
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2824,
+        "totalAssets": 0.1814,
+        "currentShares": 23852474,
+        "change": -97472,
+        "change_p": -0.407
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1232,
+        "totalAssets": 0.1704,
+        "currentShares": 20891266,
+        "change": -94732,
+        "change_p": -0.4514
+      },
+      "13": {
+        "name": "Lazard Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1108,
+        "totalAssets": 1.2689,
+        "currentShares": 20660113,
+        "change": -10030003,
+        "change_p": -32.6815
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0617,
+        "totalAssets": 0.0897,
+        "currentShares": 19747932,
+        "change": -397887,
+        "change_p": -1.975
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9633,
+        "totalAssets": 0.0331,
+        "currentShares": 17917461,
+        "change": -11940903,
+        "change_p": -39.9918
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9293,
+        "totalAssets": 0.0967,
+        "currentShares": 17285584,
+        "change": 897903,
+        "change_p": 5.4791
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9019,
+        "totalAssets": 0.1349,
+        "currentShares": 16774861,
+        "change": -1066036,
+        "change_p": -5.9752
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8267,
+        "totalAssets": 0.1186,
+        "currentShares": 15377480,
+        "change": -2348248,
+        "change_p": -13.2477
+      },
+      "19": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 0.7429,
+        "totalAssets": 1.3294,
+        "currentShares": 13817539,
+        "change": -2130180,
+        "change_p": -13.3573
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1749,
+        "totalAssets": 0.1214,
+        "currentShares": 59053655,
+        "change": 169476,
+        "change_p": 0.2878
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5457,
+        "totalAssets": 0.1366,
+        "currentShares": 47349977,
+        "change": -542133,
+        "change_p": -1.132
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0983,
+        "totalAssets": 0.4317,
+        "currentShares": 39027745,
+        "change": -130548,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2851,
+        "totalAssets": 0.1363,
+        "currentShares": 23902734,
+        "change": -13008,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2741,
+        "totalAssets": 0.1351,
+        "currentShares": 23698023,
+        "change": 39065,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1618,
+        "totalAssets": 0.1364,
+        "currentShares": 21610185,
+        "change": -53018,
+        "change_p": -0.2447
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.924,
+        "totalAssets": 0.3126,
+        "currentShares": 17186612,
+        "change": -179746,
+        "change_p": -1.035
+      },
+      "7": {
+        "name": "Lazard Glbl Listed Infrastruct USD Hedge",
+        "date": "2025-12-31",
+        "totalShares": 0.6278,
+        "totalAssets": 3.7883,
+        "currentShares": 11676183,
+        "change": -2131320,
+        "change_p": -15.436
+      },
+      "8": {
+        "name": "Lazard Global Listed Infrastructure Open",
+        "date": "2026-03-31",
+        "totalShares": 0.6012,
+        "totalAssets": 3.7997,
+        "currentShares": 11182061,
+        "change": -494122,
+        "change_p": -4.2319
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.1363,
+        "currentShares": 10476911,
+        "change": -75591,
+        "change_p": -0.7163
+      },
+      "10": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.5612,
+        "totalAssets": 0.9987,
+        "currentShares": 10437889,
+        "change": 1498365,
+        "change_p": 16.7611
+      },
+      "11": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5598,
+        "totalAssets": 0.3641,
+        "currentShares": 10411871,
+        "change": 149992,
+        "change_p": 1.4616
+      },
+      "12": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5556,
+        "totalAssets": 1.5093,
+        "currentShares": 10333249,
+        "change": -71592,
+        "change_p": -0.6881
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.1349,
+        "currentShares": 9926555,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5324,
+        "totalAssets": 3.4946,
+        "currentShares": 9902096,
+        "change": 6062,
+        "change_p": 0.0613
+      },
+      "15": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.4848,
+        "totalAssets": 0.7214,
+        "currentShares": 9016340,
+        "change": -152413,
+        "change_p": -1.6623
+      },
+      "16": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.4753,
+        "totalAssets": 0.7981,
+        "currentShares": 8841312,
+        "change": -63255,
+        "change_p": -0.7104
+      },
+      "17": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4723,
+        "totalAssets": 0.1177,
+        "currentShares": 8784505,
+        "change": 8784505,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.1361,
+        "currentShares": 8398984,
+        "change": 36696,
+        "change_p": 0.4388
+      },
+      "19": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.4219,
+        "totalAssets": 1.0104,
+        "currentShares": 7848159,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 27.8589,
+    "ForwardPE": 25.1256,
+    "PriceSalesTTM": 5.9627,
+    "PriceBookMRQ": 6.3211,
+    "EnterpriseValue": 104036852370,
+    "EnterpriseValueRevenue": 7.3519,
+    "EnterpriseValueEbitda": 16.0254
+  },
+  "Highlights": {
+    "MarketCapitalization": 84378083328,
+    "MarketCapitalizationMln": 84378.0833,
+    "EBITDA": 6625999872,
+    "PERatio": 27.8589,
+    "PEGRatio": 3.9462,
+    "WallStreetTargetPrice": 44.2826,
+    "BookValue": 7.074,
+    "DividendShare": 0.52,
+    "DividendYield": 0.0113,
+    "EarningsShare": 1.63,
+    "EPSEstimateCurrentYear": 1.8941,
+    "EPSEstimateNextYear": 2.1459,
+    "EPSEstimateNextQuarter": 0.4826,
+    "EPSEstimateCurrentQuarter": 0.3884,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2155,
+    "OperatingMarginTTM": 0.3599,
+    "ReturnOnAssetsTTM": 0.0709,
+    "ReturnOnEquityTTM": 0.2368,
+    "RevenueTTM": 14151000064,
+    "RevenuePerShareTTM": 7.598,
+    "QuarterlyRevenueGrowthYOY": 0.017,
+    "GrossProfitTTM": 6625999872,
+    "DilutedEpsTTM": 1.63,
+    "QuarterlyEarningsGrowthYOY": 0.265
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.09,
+    "TotalEsgPercentile": 30.24,
+    "EnvironmentScore": 5.48,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 11.87,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 4.74,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CSX",
+    "Type": "Common Stock",
+    "Name": "CSX Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BGJRC8",
+    "ISIN": "US1264081035",
+    "LEI": "549300JVQR4N1MMP3Q88",
+    "PrimaryTicker": "CSX.US",
+    "CUSIP": "126408103",
+    "CIK": "0000277948",
+    "EmployerIdNumber": "62-1051971",
+    "FiscalYearEnd": "December",
+    "IPODate": "1980-11-03",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Ground Transportation",
+    "GicSubIndustry": "Rail Transportation",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "CSX Corporation, together with its subsidiaries, provides rail-based freight transportation services in the United States and Canada. It operates through two segments: rail and trucking. The company offers rail services; and transportation of intermodal containers and trailers, as well as other transportation services, such as rail-to-truck transfers and bulk commodity operations. It also transports chemicals, agricultural and food products, minerals, automotive, forest products, fertilizers, and metals and equipment; and coal, coke, and iron ore to electricity-generating power plants, steel manufacturers, and industrial plants, as well as exports coal to deep-water port facilities. In addition, the company provides intermodal services through a network of approximately 30 terminals transporting manufactured consumer goods in containers; and drayage services, including the pickup and delivery of intermodal shipments. It serves the automotive industry with distribution centers and storage locations, as well as connects non-rail served customers through transferring products, such as plastics and ethanol from rail to trucks. The company operates approximately 20,000 route mile rail network, which serves various population centers in 26 states east of the Mississippi River, the District of Columbia, and the Canadian provinces of Ontario and Quebec, as well as owns 3400 locomotives. It serves production and distribution facilities through track connections. CSX Corporation was incorporated in 1978 and is headquartered in Jacksonville, Florida.",
+    "Address": "500 Water Street, Jacksonville, FL, United States, 32202",
+    "AddressData": {
+      "Street": "500 Water Street",
+      "City": "Jacksonville",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "32202"
+    },
+    "Listings": {
+      "0": {
+        "Code": "CSX",
+        "Exchange": "MU",
+        "Name": "CS GROUP N"
+      },
+      "1": {
+        "Code": "CSX",
+        "Exchange": "F",
+        "Name": "Credit Suisse Group AG"
+      },
+      "2": {
+        "Code": "CSXC34",
+        "Exchange": "SA",
+        "Name": "CSX Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Stephen F. Angel",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1955"
+      },
+      "1": {
+        "Name": "Mr. Kevin S. Boone",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Michael A. Cory",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. Stephen  Fortune",
+        "Title": "Executive VP, Chief Digital & Technology Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Ms. Angela C. Williams",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Matthew James Korn C.F.A.",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Michael S. Burns",
+        "Title": "Senior VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1976"
+      },
+      "7": {
+        "Name": "Mr. M. Rizwan Chand",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1964"
+      },
+      "8": {
+        "Name": "Ms. Maryclare T. Kenney",
+        "Title": "Senior VP & Chief Commercial Officer",
+        "YearBorn": "1978"
+      },
+      "9": {
+        "Name": "Mr. Arthur L. Adams Jr.",
+        "Title": "Senior Vice President of Sales & Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "904 359 3200",
+    "WebURL": "https://www.csx.com",
+    "LogoURL": "/img/logos/US/CSX.png",
+    "FullTimeEmployees": 23000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1858138856,
+    "SharesFloat": 1854478322,
+    "PercentInsiders": 0.23800000000000002,
+    "PercentInstitutions": 80.756,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0218
+  }
+}

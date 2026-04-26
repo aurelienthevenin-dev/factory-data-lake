@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.6332,
+        "totalAssets": 0.0195,
+        "currentShares": 31027060,
+        "change": 61602,
+        "change_p": 0.1989
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.0378,
+        "totalAssets": 0.025,
+        "currentShares": 29109532,
+        "change": 3199218,
+        "change_p": 12.3473
+      },
+      "2": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 5.2406,
+        "totalAssets": 0.3945,
+        "currentShares": 16879077,
+        "change": -89985,
+        "change_p": -0.5303
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.093,
+        "totalAssets": 0.0224,
+        "currentShares": 13182950,
+        "change": 267799,
+        "change_p": 2.0735
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.1365,
+        "totalAssets": 0.068,
+        "currentShares": 10102068,
+        "change": 399130,
+        "change_p": 4.1135
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.0563,
+        "totalAssets": 0.058,
+        "currentShares": 9843930,
+        "change": 36187,
+        "change_p": 0.369
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.8439,
+        "totalAssets": 0.0732,
+        "currentShares": 9159702,
+        "change": 4770260,
+        "change_p": 108.6758
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3818,
+        "totalAssets": 0.0228,
+        "currentShares": 7671470,
+        "change": -1097544,
+        "change_p": -12.5162
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1539,
+        "totalAssets": 0.0186,
+        "currentShares": 6937351,
+        "change": 305519,
+        "change_p": 4.6069
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5348,
+        "totalAssets": 0.0382,
+        "currentShares": 4943444,
+        "change": -892457,
+        "change_p": -15.2925
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4322,
+        "totalAssets": 0.0102,
+        "currentShares": 4612899,
+        "change": 1796449,
+        "change_p": 63.7842
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2664,
+        "totalAssets": 0.006,
+        "currentShares": 4078802,
+        "change": -559228,
+        "change_p": -12.0574
+      },
+      "12": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.0749,
+        "totalAssets": 0.0278,
+        "currentShares": 3461994,
+        "change": -3317980,
+        "change_p": -48.9379
+      },
+      "13": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9604,
+        "totalAssets": 0.0703,
+        "currentShares": 3093318,
+        "change": 2588636,
+        "change_p": 512.9242
+      },
+      "14": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7636,
+        "totalAssets": 0.1814,
+        "currentShares": 2459372,
+        "change": 2312752,
+        "change_p": 1577.3783
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7354,
+        "totalAssets": 0.0149,
+        "currentShares": 2368619,
+        "change": -140283,
+        "change_p": -5.5914
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6326,
+        "totalAssets": 0.0157,
+        "currentShares": 2037648,
+        "change": -418932,
+        "change_p": -17.0535
+      },
+      "17": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 0.5843,
+        "totalAssets": 0.0618,
+        "currentShares": 1881981,
+        "change": 860518,
+        "change_p": 84.2437
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.5704,
+        "totalAssets": 0.0167,
+        "currentShares": 1837253,
+        "change": -1260493,
+        "change_p": -40.6907
+      },
+      "19": {
+        "name": "Ensign Peak Advisors Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5482,
+        "totalAssets": 0.135,
+        "currentShares": 1765613,
+        "change": -179736,
+        "change_p": -9.2393
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 3.4765,
+        "totalAssets": 0.4051,
+        "currentShares": 11197363,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5447,
+        "totalAssets": 0.0331,
+        "currentShares": 8195967,
+        "change": 50801,
+        "change_p": 0.6237
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0359,
+        "totalAssets": 0.0371,
+        "currentShares": 6557190,
+        "change": -63074,
+        "change_p": -0.9527
+      },
+      "3": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.7403,
+        "totalAssets": 0.1713,
+        "currentShares": 5605191,
+        "change": 2043912,
+        "change_p": 57.3926
+      },
+      "4": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.5035,
+        "totalAssets": 0.2534,
+        "currentShares": 4842423,
+        "change": 821464,
+        "change_p": 20.4296
+      },
+      "5": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 1.4712,
+        "totalAssets": 0.276,
+        "currentShares": 4738527,
+        "change": 1238527,
+        "change_p": 35.3865
+      },
+      "6": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4467,
+        "totalAssets": 1.6841,
+        "currentShares": 4659487,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4018,
+        "totalAssets": 0.2192,
+        "currentShares": 4514900,
+        "change": 14900,
+        "change_p": 0.3311
+      },
+      "8": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3971,
+        "totalAssets": 0.1107,
+        "currentShares": 4500000,
+        "change": 1000000,
+        "change_p": 28.5714
+      },
+      "9": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.2484,
+        "totalAssets": 0.1076,
+        "currentShares": 4020959,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 1.0867,
+        "totalAssets": 0.1065,
+        "currentShares": 3500000,
+        "change": 3500000,
+        "change_p": 0
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0276,
+        "totalAssets": 0.037,
+        "currentShares": 3309752,
+        "change": -1800,
+        "change_p": -0.0544
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0174,
+        "totalAssets": 0.0252,
+        "currentShares": 3277009,
+        "change": 5416,
+        "change_p": 0.1655
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.93,
+        "totalAssets": 0.0371,
+        "currentShares": 2995533,
+        "change": -7350,
+        "change_p": -0.2448
+      },
+      "14": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 0.9239,
+        "totalAssets": 0.1443,
+        "currentShares": 2975694,
+        "change": 51547,
+        "change_p": 1.7628
+      },
+      "15": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.8644,
+        "totalAssets": 0.1129,
+        "currentShares": 2784000,
+        "change": -14953,
+        "change_p": -0.5342
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8002,
+        "totalAssets": 0.2434,
+        "currentShares": 2577213,
+        "change": 7598,
+        "change_p": 0.2957
+      },
+      "17": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6604,
+        "totalAssets": 2.5968,
+        "currentShares": 2127099,
+        "change": 88472,
+        "change_p": 4.3398
+      },
+      "18": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.5878,
+        "totalAssets": 0.2511,
+        "currentShares": 1893373,
+        "change": 15583,
+        "change_p": 0.8299
+      },
+      "19": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.5433,
+        "totalAssets": 0.0996,
+        "currentShares": 1750000,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 16,
+    "PriceSalesTTM": 0.7479,
+    "PriceBookMRQ": 2.2641,
+    "EnterpriseValue": 34018243905,
+    "EnterpriseValueRevenue": 1.1282,
+    "EnterpriseValueEbitda": 29.2756
+  },
+  "Highlights": {
+    "MarketCapitalization": 22551889920,
+    "MarketCapitalizationMln": 22551.8899,
+    "EBITDA": 2179000064,
+    "PERatio": null,
+    "PEGRatio": 1.5257,
+    "WallStreetTargetPrice": 75.8235,
+    "BookValue": 31.302,
+    "DividendShare": 5.45,
+    "DividendYield": 0.0771,
+    "EarningsShare": -2.45,
+    "EPSEstimateCurrentYear": 6.6336,
+    "EPSEstimateNextYear": 5.7051,
+    "EPSEstimateNextQuarter": 0.577,
+    "EPSEstimateCurrentQuarter": 0.2477,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0247,
+    "OperatingMarginTTM": -0.0092,
+    "ReturnOnAssetsTTM": 0.0169,
+    "ReturnOnEquityTTM": -0.0695,
+    "RevenueTTM": 30153000960,
+    "RevenuePerShareTTM": 93.643,
+    "QuarterlyRevenueGrowthYOY": -0.092,
+    "GrossProfitTTM": 2703000064,
+    "DilutedEpsTTM": -2.45,
+    "QuarterlyEarningsGrowthYOY": -0.877
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.71,
+    "TotalEsgPercentile": 42.92,
+    "EnvironmentScore": 13.28,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 0.2,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 7.12,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LYB",
+    "Type": "Common Stock",
+    "Name": "LyondellBasell Industries NV",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000WCFV84",
+    "ISIN": "USN537451007",
+    "LEI": null,
+    "PrimaryTicker": "LYB.US",
+    "CUSIP": "N53745118",
+    "CIK": "0001489393",
+    "EmployerIdNumber": "98-0646235",
+    "FiscalYearEnd": "December",
+    "IPODate": "2010-04-28",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Commodity Chemicals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "LyondellBasell Industries N.V. operates as a chemical company in the United States, Germany, China, Mexico, Italy, Japan, France, Poland, the Netherlands, and internationally. It operates in five segments: Olefins and Polyolefins\"Americas; Olefins and Polyolefins\"Europe, Asia, International; Intermediates and Derivatives; Advanced Polymer Solutions; and Technology. The company produces and markets olefins and co-products, such as ethylene, aromatics, propylene and butadiene; polyolefins; polyethylene; polypropylene homopolymers and copolymers; propylene oxide and derivatives; oxyfuels and related products; and intermediate chemicals, such as styrene monomer and acetyls. It also produces and markets compounding and solutions, including polypropylene compounds, engineered plastics, masterbatches, and engineered composites and colors. In addition, it develops and licenses chemical and polyolefin process technologies; and manufactures and sells polyolefin catalysts and serves food packaging, home furnishings, automotive components, and paints and coatings applications. LyondellBasell Industries N.V. was incorporated in 2009 and is headquartered in London, the United Kingdom.",
+    "Address": "One Vine Street, London, United Kingdom, W1J0AH",
+    "AddressData": {
+      "Street": "One Vine Street",
+      "City": "London",
+      "Country": "United Kingdom",
+      "ZIP": "W1J0AH"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Peter Z. E. Vanacker",
+        "Title": "CEO & Executive Director",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Agustin  Izquierdo",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Jeffrey A. Kaplan J.D.",
+        "Title": "Executive VP of Procurement & General Counsel",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Torkel  Rhenman",
+        "Title": "Executive Vice President of Advanced Polymer Solutions",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Ms. Kimberly A. Foley",
+        "Title": "Executive Vice President of Global Olefins & Polyolefins",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Mr. Matthew D. Hayes",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Mr. David  Kinney",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Trisha  Conley",
+        "Title": "Executive Vice President of People & Culture",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Mr. James D. Guilfoyle",
+        "Title": "Senior VP of Olefins & Polyolefins - Europe, Africa, Middle East and India",
+        "YearBorn": "1971"
+      },
+      "9": {
+        "Name": "Mr. Dale  Friedrichs",
+        "Title": "Executive Vice President of Operational Excellence & HSE",
+        "YearBorn": "1965"
+      }
+    },
+    "Phone": "44 207 220 2600",
+    "WebURL": "https://www.lyondellbasell.com",
+    "LogoURL": "/img/logos/US/lyb.png",
+    "FullTimeEmployees": 18970,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 322769286,
+    "SharesFloat": 256927336,
+    "PercentInsiders": 20.168,
+    "PercentInstitutions": 74.493,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0405
+  }
+}

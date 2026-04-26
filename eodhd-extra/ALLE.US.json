@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3123,
+        "totalAssets": 0.0245,
+        "currentShares": 10606483,
+        "change": -9950,
+        "change_p": -0.0937
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5697,
+        "totalAssets": 0.0229,
+        "currentShares": 7382432,
+        "change": -1154700,
+        "change_p": -13.5256
+      },
+      "2": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.3548,
+        "totalAssets": 0.7607,
+        "currentShares": 4612897,
+        "change": -133557,
+        "change_p": -2.8138
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.9129,
+        "totalAssets": 0.026,
+        "currentShares": 4232208,
+        "change": 260973,
+        "change_p": 6.5716
+      },
+      "4": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.6916,
+        "totalAssets": 1.7272,
+        "currentShares": 4041631,
+        "change": -339148,
+        "change_p": -7.7417
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1271,
+        "totalAssets": 0.0264,
+        "currentShares": 2693831,
+        "change": 13880,
+        "change_p": 0.5179
+      },
+      "6": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 3.0102,
+        "totalAssets": 0.1331,
+        "currentShares": 2593117,
+        "change": 236248,
+        "change_p": 10.0238
+      },
+      "7": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.253,
+        "totalAssets": 0.4311,
+        "currentShares": 1940820,
+        "change": -1294,
+        "change_p": -0.0666
+      },
+      "8": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.1875,
+        "totalAssets": 0.01,
+        "currentShares": 1884424,
+        "change": 1009286,
+        "change_p": 115.3288
+      },
+      "9": {
+        "name": "Lord, Abbett & Co LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5535,
+        "totalAssets": 0.6536,
+        "currentShares": 1338250,
+        "change": -87285,
+        "change_p": -6.123
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5499,
+        "totalAssets": 0.0143,
+        "currentShares": 1335211,
+        "change": 202988,
+        "change_p": 17.9283
+      },
+      "11": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.5387,
+        "totalAssets": 0.1827,
+        "currentShares": 1325503,
+        "change": -141255,
+        "change_p": -9.6304
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4452,
+        "totalAssets": 0.0348,
+        "currentShares": 1244958,
+        "change": -182826,
+        "change_p": -12.8049
+      },
+      "13": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.4174,
+        "totalAssets": 0.0633,
+        "currentShares": 1221059,
+        "change": -11541,
+        "change_p": -0.9363
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4047,
+        "totalAssets": 0.0275,
+        "currentShares": 1210063,
+        "change": 52612,
+        "change_p": 4.5455
+      },
+      "15": {
+        "name": "Fiduciary Management, Inc. of Milwaukee",
+        "date": "2025-12-31",
+        "totalShares": 1.1791,
+        "totalAssets": 1.7783,
+        "currentShares": 1015783,
+        "change": 227035,
+        "change_p": 28.7842
+      },
+      "16": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.008,
+        "totalAssets": 0.0725,
+        "currentShares": 868388,
+        "change": -16748,
+        "change_p": -1.8921
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0028,
+        "totalAssets": 0.0104,
+        "currentShares": 863837,
+        "change": 181869,
+        "change_p": 26.6683
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9751,
+        "totalAssets": 0.0281,
+        "currentShares": 840036,
+        "change": -11723,
+        "change_p": -1.3763
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9589,
+        "totalAssets": 0.0141,
+        "currentShares": 826043,
+        "change": 63746,
+        "change_p": 8.3624
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1796,
+        "totalAssets": 0.0199,
+        "currentShares": 2739047,
+        "change": 21539,
+        "change_p": 0.7926
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5433,
+        "totalAssets": 0.0224,
+        "currentShares": 2190916,
+        "change": -21858,
+        "change_p": -0.9878
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3086,
+        "totalAssets": 0.1739,
+        "currentShares": 1988734,
+        "change": 35048,
+        "change_p": 1.7939
+      },
+      "3": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 2.1924,
+        "totalAssets": 1.2096,
+        "currentShares": 1888657,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4692,
+        "totalAssets": 0.3028,
+        "currentShares": 1265669,
+        "change": 10914,
+        "change_p": 0.8698
+      },
+      "5": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3746,
+        "totalAssets": 0.2017,
+        "currentShares": 1184188,
+        "change": 3537,
+        "change_p": 0.2996
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2833,
+        "totalAssets": 0.0223,
+        "currentShares": 1105546,
+        "change": -600,
+        "change_p": -0.0542
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2709,
+        "totalAssets": 0.0236,
+        "currentShares": 1094860,
+        "change": 1798,
+        "change_p": 0.1645
+      },
+      "8": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.2204,
+        "totalAssets": 1.0088,
+        "currentShares": 1051360,
+        "change": -42575,
+        "change_p": -3.8919
+      },
+      "9": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.188,
+        "totalAssets": 0.9528,
+        "currentShares": 1023402,
+        "change": -12880,
+        "change_p": -1.2429
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1615,
+        "totalAssets": 0.0224,
+        "currentShares": 1000559,
+        "change": -2450,
+        "change_p": -0.2443
+      },
+      "11": {
+        "name": "Brown Advisory Global Leaders C USD Acc",
+        "date": "2026-03-31",
+        "totalShares": 0.9674,
+        "totalAssets": 2.1842,
+        "currentShares": 833357,
+        "change": 190295,
+        "change_p": 29.592
+      },
+      "12": {
+        "name": "Putnam Sustainable Leaders A",
+        "date": "2026-03-31",
+        "totalShares": 0.7469,
+        "totalAssets": 1.5674,
+        "currentShares": 643400,
+        "change": 293200,
+        "change_p": 83.7236
+      },
+      "13": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6546,
+        "totalAssets": 0.4822,
+        "currentShares": 563921,
+        "change": -16371,
+        "change_p": -2.8212
+      },
+      "14": {
+        "name": "Virtus KAR Small-Mid Cap Core R6",
+        "date": "2025-12-31",
+        "totalShares": 0.5777,
+        "totalAssets": 4.5813,
+        "currentShares": 497656,
+        "change": -82328,
+        "change_p": -14.1949
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5635,
+        "totalAssets": 0.0224,
+        "currentShares": 485468,
+        "change": -2464,
+        "change_p": -0.505
+      },
+      "16": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5592,
+        "totalAssets": 0.0596,
+        "currentShares": 481702,
+        "change": 7590,
+        "change_p": 1.6009
+      },
+      "17": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.555,
+        "totalAssets": 0.2472,
+        "currentShares": 478114,
+        "change": -3312,
+        "change_p": -0.688
+      },
+      "18": {
+        "name": "MFS Massachusetts Investors Tr A",
+        "date": "2026-02-28",
+        "totalShares": 0.5517,
+        "totalAssets": 1.1357,
+        "currentShares": 475232,
+        "change": -3461,
+        "change_p": -0.723
+      },
+      "19": {
+        "name": "DWS Vermögensbildungsfonds I LD",
+        "date": "2026-02-28",
+        "totalShares": 0.5456,
+        "totalAssets": 0.3608,
+        "currentShares": 470010,
+        "change": 1,
+        "change_p": 0.0002
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.6371,
+    "ForwardPE": 16.7785,
+    "PriceSalesTTM": 3.0869,
+    "PriceBookMRQ": 6.1272,
+    "EnterpriseValue": 14292549002,
+    "EnterpriseValueRevenue": 3.514,
+    "EnterpriseValueEbitda": 14.2555
+  },
+  "Highlights": {
+    "MarketCapitalization": 12555213824,
+    "MarketCapitalizationMln": 12555.2138,
+    "EBITDA": 1006300032,
+    "PERatio": 19.6371,
+    "PEGRatio": 2.2664,
+    "WallStreetTargetPrice": 173.1667,
+    "BookValue": 24.023,
+    "DividendShare": 2.04,
+    "DividendYield": 0.0138,
+    "EarningsShare": 7.44,
+    "EPSEstimateCurrentYear": 8.8019,
+    "EPSEstimateNextYear": 9.5302,
+    "EPSEstimateNextQuarter": 1.9854,
+    "EPSEstimateCurrentQuarter": 1.9798,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1583,
+    "OperatingMarginTTM": 0.2141,
+    "ReturnOnAssetsTTM": 0.1124,
+    "ReturnOnEquityTTM": 0.3608,
+    "RevenueTTM": 4067300096,
+    "RevenuePerShareTTM": 47.239,
+    "QuarterlyRevenueGrowthYOY": 0.093,
+    "GrossProfitTTM": 1838300032,
+    "DilutedEpsTTM": 7.44,
+    "QuarterlyEarningsGrowthYOY": 0.033
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.56,
+    "TotalEsgPercentile": 39.8,
+    "EnvironmentScore": 17.99,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 12.71,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 11.86,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ALLE",
+    "Type": "Common Stock",
+    "Name": "Allegion PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG003PS7JV1",
+    "ISIN": "IE00BFRT3W74",
+    "LEI": "984500560CAC2E6FB757",
+    "PrimaryTicker": "ALLE.US",
+    "CUSIP": "G0176J109",
+    "CIK": "0001579241",
+    "EmployerIdNumber": "98-1108930",
+    "FiscalYearEnd": "December",
+    "IPODate": "2013-11-18",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Security & Protection Services",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Building Products",
+    "GicSubIndustry": "Building Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Allegion plc engages in the provision of security products and solutions worldwide. It is operating through two segments: Allegion Americas and Allegion International. The company offers door controls, door control system, and exit devices; doors, glass and door systems, and accessories; electronic security products and access control systems, including time, attendance, and workforce productivity; and locks, locksets, portable locks, and key systems. It also provides services and software, such as inspection, maintenance, and repair services for its automatic entrance solutions; software as a service, including access control, platform integration, and workforce management solutions; and ongoing aftermarket services, and design and installation offerings. In addition, the company sells its products and solutions to end-users in commercial, institutional, and residential facilities, including education, healthcare, government, hospitality, retail, commercial office, and single and multi-family residential markets under the CISA, Interflex, LCN, Schlage, SimonsVoss, and Von Duprin brands. It sells its products and solutions through distribution and retail channels, such as specialty distribution, e-commerce, and wholesalers, as well as through various retail channels comprising do-it-yourself home improvement centers, online and e-commerce platforms, and small specialty showroom outlets. Allegion plc was incorporated in 2013 and is based in Dublin, Ireland.",
+    "Address": "Unit No. 233, Dublin, Ireland, D07 X324",
+    "AddressData": {
+      "Street": "Unit No. 233",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "ZIP": "D07 X324"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John H. Stone",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Joseph C. Blasko BSFS, J.D.",
+        "Title": "Senior VP & General Counsel",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Timothy P. Eckersley",
+        "Title": "SVP & President of International",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. David S. Ilardi",
+        "Title": "Senior Vice President of Allegion Americas",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Mr. Nickolas A. Musial",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1981"
+      },
+      "5": {
+        "Name": "Mr. Vincent M. Wenos",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "1967"
+      },
+      "6": {
+        "Name": "Ms. Tracy L. Kemp",
+        "Title": "Senior VP and Chief Information & Digital Officer",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Mr. Joshua Charles Pokrzywinski",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Jennifer L. Hawes",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1982"
+      },
+      "9": {
+        "Name": "Mr. Robert C. Martens",
+        "Title": "Senior VP and Chief Innovation & Design Officer",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "353 1 683 3399",
+    "WebURL": "https://www.allegion.com/corp/en/index.html",
+    "LogoURL": "/img/logos/US/alle.png",
+    "FullTimeEmployees": 13300,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 85935755,
+    "SharesFloat": 84903266,
+    "PercentInsiders": 1.16,
+    "PercentInstitutions": 97.964,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0357
+  }
+}

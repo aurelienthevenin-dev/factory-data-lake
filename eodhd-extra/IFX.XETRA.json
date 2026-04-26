@@ -1,0 +1,212 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 69.4231,
+    "ForwardPE": 32.8947,
+    "PriceSalesTTM": 4.7323,
+    "PriceBookMRQ": 3.9826,
+    "EnterpriseValue": 74889155502,
+    "EnterpriseValueRevenue": 5.0261,
+    "EnterpriseValueEbitda": 20.9891
+  },
+  "Highlights": {
+    "MarketCapitalization": 70510870528,
+    "MarketCapitalizationMln": 70510.8705,
+    "EBITDA": 4065999872,
+    "PERatio": 69.4231,
+    "PEGRatio": 1.4406,
+    "WallStreetTargetPrice": 51.2708,
+    "BookValue": 12.931,
+    "DividendShare": 0.35,
+    "DividendYield": 0.0066,
+    "EarningsShare": 0.78,
+    "EPSEstimateCurrentYear": 1.6313,
+    "EPSEstimateNextYear": 2.2752,
+    "EPSEstimateNextQuarter": 0.3907,
+    "EPSEstimateCurrentQuarter": 0.3356,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0688,
+    "OperatingMarginTTM": 0.106,
+    "ReturnOnAssetsTTM": 0.0495,
+    "ReturnOnEquityTTM": 0.0571,
+    "RevenueTTM": 14899999744,
+    "RevenuePerShareTTM": 11.448,
+    "QuarterlyRevenueGrowthYOY": 0.07,
+    "GrossProfitTTM": 6138999808,
+    "DilutedEpsTTM": 0.78,
+    "QuarterlyEarningsGrowthYOY": 0.042
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 13.8,
+    "TotalEsgPercentile": 12.6,
+    "EnvironmentScore": 2.99,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 0.68,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 4.13,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "IFX",
+    "Type": "Common Stock",
+    "Name": "Infineon Technologies AG",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0006231004",
+    "LEI": "TSI2PJM6EPETEQ4X1U25",
+    "PrimaryTicker": "IFX.F",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "September",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "Description": "Infineon Technologies AG develops, manufactures, and markets semiconductors and semiconductor-based solutions in Germany, Europe, the Middle East, Africa, Mainland China, Hong Kong, Taiwan, the Asia-Pacific, Japan, the United States, and the Americas. The Automotive segment offers automotive and industrial microcontrollers; analog and memory ICs; ethernet; power diodes and modules; power switches; sensors; transceivers; and voltage regulators for assistance and safety systems, comfort electronics, infotainment, powertrain, and security applications. Its Green Industrial Power segment provides discrete and bare die IGBTs; IGBT modules; and SiC discretes and modules for air conditioning technology, energy generation and storage, energy transmission, home appliances, industrial drives, industrial power supplies and vehicles, and traction applications. The Power & Sensor Systems segment offers 3D ToF sensors; chips for gas and pressure sensors, and MEMS microphones; control ICs; customized chips; discrete low-, mid-, and high-voltage power MOSFETs; ESD protection diodes; GaN power switches; GPS low-noise amplifiers; low- and high-voltage driver ICs; radar sensor ICs; RF antenna switches and power transistors; SiC diode and MOSFETs; and USB controllers for audio amplifiers, automotive electronics, BLDC motors, cellular communications infrastructure, charging stations for electric vehicles, human machine interaction, IoT, LED and conventional lighting systems, microinverters, mobile devices, power management, and harsh environment applications. Its Connected Secure Systems segment provides connectivity solutions, embedded security controllers, microcontrollers, and security controllers for authentication, automotive, consumer electronics, government identification document, IoT, mobile communication, payment system, ticketing, access control, and trusted computing applications. The company was founded in 1952 and is headquartered in Neubiberg, Germany.",
+    "Address": "Am Campeon 1-15, Neubiberg, Germany, 85579",
+    "AddressData": {
+      "Street": "Am Campeon 1-15",
+      "City": "Neubiberg",
+      "Country": "Germany",
+      "ZIP": "85579"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jochen  Hanebeck",
+        "Title": "CEO, Labor Director & Chairman of Management Board",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Dr. Sven  Schneider",
+        "Title": "CFO & Member of Management Board",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. Andreas  Urschitz",
+        "Title": "Chief Marketing Officer & Member of Management Board",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Ms. Elke  Reichart",
+        "Title": "Chief Digital & Sustainability Officer and Member of the Management Board",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Peter  Gruber",
+        "Title": "CFO of Operations & Employee Representative Member of Supervisory Board",
+        "YearBorn": "1960"
+      },
+      "5": {
+        "Name": "Mr. Alexander  Foltin",
+        "Title": "Head of Finance, Treasury & Investor Relations",
+        "YearBorn": "1969"
+      },
+      "6": {
+        "Name": "Mr. Florian  Martens",
+        "Title": "Global Head of Communications & Public Policy",
+        "YearBorn": "1979"
+      },
+      "7": {
+        "Name": "Mr. Peter  Friedrichs",
+        "Title": "Senior Director of Silicon Carbide Technology",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Matthew T. Epstein C.F.A.",
+        "Title": "Senior Analyst",
+        "YearBorn": "1983"
+      }
+    },
+    "Phone": "49 89 234 0",
+    "WebURL": "https://www.infineon.com",
+    "LogoURL": "/img/logos/XETRA/IFX.png",
+    "FullTimeEmployees": 57280,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1302139747,
+    "SharesFloat": 1301986980,
+    "PercentInsiders": 0.002,
+    "PercentInstitutions": 55.452,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

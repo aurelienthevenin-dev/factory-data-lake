@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.7481,
+        "totalAssets": 0.0128,
+        "currentShares": 37133991,
+        "change": -461852,
+        "change_p": -1.2285
+      },
+      "1": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1498,
+        "totalAssets": 0.0243,
+        "currentShares": 28338645,
+        "change": 269941,
+        "change_p": 0.9617
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.5699,
+        "totalAssets": 0.0109,
+        "currentShares": 25147479,
+        "change": 531030,
+        "change_p": 2.1572
+      },
+      "3": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0593,
+        "totalAssets": 0.0442,
+        "currentShares": 11331941,
+        "change": 4526167,
+        "change_p": 66.5048
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4685,
+        "totalAssets": 0.0118,
+        "currentShares": 8080832,
+        "change": 63583,
+        "change_p": 0.7931
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2694,
+        "totalAssets": 0.0105,
+        "currentShares": 6985423,
+        "change": 1491804,
+        "change_p": 27.1552
+      },
+      "6": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2201,
+        "totalAssets": 0.0334,
+        "currentShares": 6714191,
+        "change": 1557595,
+        "change_p": 30.2059
+      },
+      "7": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2028,
+        "totalAssets": 0.2769,
+        "currentShares": 6618755,
+        "change": 849357,
+        "change_p": 14.7218
+      },
+      "8": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1487,
+        "totalAssets": 0.2913,
+        "currentShares": 6321200,
+        "change": 2159100,
+        "change_p": 51.8753
+      },
+      "9": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.089,
+        "totalAssets": 0.0213,
+        "currentShares": 5992515,
+        "change": 2547414,
+        "change_p": 73.9431
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.813,
+        "totalAssets": 0.0033,
+        "currentShares": 4474010,
+        "change": 3063569,
+        "change_p": 217.2065
+      },
+      "11": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8076,
+        "totalAssets": 0.1486,
+        "currentShares": 4443986,
+        "change": 1269433,
+        "change_p": 39.9878
+      },
+      "12": {
+        "name": "Mairs & Power Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6886,
+        "totalAssets": 0.8644,
+        "currentShares": 3789513,
+        "change": -396129,
+        "change_p": -9.464
+      },
+      "13": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6878,
+        "totalAssets": 0.0147,
+        "currentShares": 3784723,
+        "change": -172011,
+        "change_p": -4.3473
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.6582,
+        "totalAssets": 0.0092,
+        "currentShares": 3621949,
+        "change": 276457,
+        "change_p": 8.2636
+      },
+      "15": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.5841,
+        "totalAssets": 0.16,
+        "currentShares": 3214203,
+        "change": 3214203,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5639,
+        "totalAssets": 0.0098,
+        "currentShares": 3103041,
+        "change": -115450,
+        "change_p": -3.5871
+      },
+      "17": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.5341,
+        "totalAssets": 0.0506,
+        "currentShares": 2938900,
+        "change": 277371,
+        "change_p": 10.4215
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5106,
+        "totalAssets": 0.0125,
+        "currentShares": 2809505,
+        "change": -18639,
+        "change_p": -0.6591
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.4387,
+        "totalAssets": 0.007,
+        "currentShares": 2414341,
+        "change": 1581046,
+        "change_p": 189.7342
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.7493,
+        "totalAssets": 0.0109,
+        "currentShares": 9626051,
+        "change": 48849,
+        "change_p": 0.5101
+      },
+      "1": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3701,
+        "totalAssets": 0.2002,
+        "currentShares": 7539302,
+        "change": 22270,
+        "change_p": 0.2963
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.348,
+        "totalAssets": 0.0118,
+        "currentShares": 7417751,
+        "change": -72388,
+        "change_p": -0.9664
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.2701,
+        "totalAssets": 0.0953,
+        "currentShares": 6989349,
+        "change": 119120,
+        "change_p": 1.7339
+      },
+      "4": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.2296,
+        "totalAssets": 1.3877,
+        "currentShares": 6766242,
+        "change": -3218,
+        "change_p": -0.0475
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8081,
+        "totalAssets": 0.1658,
+        "currentShares": 4446755,
+        "change": 34860,
+        "change_p": 0.7901
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6817,
+        "totalAssets": 0.0118,
+        "currentShares": 3751342,
+        "change": -2040,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.6741,
+        "totalAssets": 0.0127,
+        "currentShares": 3709644,
+        "change": 6068,
+        "change_p": 0.1638
+      },
+      "8": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6437,
+        "totalAssets": 1.1361,
+        "currentShares": 3542070,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6207,
+        "totalAssets": 0.0119,
+        "currentShares": 3415828,
+        "change": -8330,
+        "change_p": -0.2433
+      },
+      "10": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5543,
+        "totalAssets": 0.4459,
+        "currentShares": 3050464,
+        "change": -1282,
+        "change_p": -0.042
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.508,
+        "totalAssets": 0.3062,
+        "currentShares": 2795266,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Invesco S&P 500® High Div Low Vol ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5044,
+        "totalAssets": 1.9141,
+        "currentShares": 2775775,
+        "change": -4190,
+        "change_p": -0.1507
+      },
+      "13": {
+        "name": "Mairs & Power Multi Cap",
+        "date": "2025-12-31",
+        "totalShares": 0.3946,
+        "totalAssets": 0.9299,
+        "currentShares": 2171592,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "FT Cboe Vest S&P 500® Dv Ast Tgt Inc ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3783,
+        "totalAssets": 1.3979,
+        "currentShares": 2081690,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Mairs & Power Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.3084,
+        "totalAssets": 0.7673,
+        "currentShares": 1696913,
+        "change": -474679,
+        "change_p": -21.8586
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2978,
+        "totalAssets": 0.0118,
+        "currentShares": 1638813,
+        "change": -14288,
+        "change_p": -0.8643
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.2828,
+        "totalAssets": 0.0117,
+        "currentShares": 1556360,
+        "change": 2500,
+        "change_p": 0.1609
+      },
+      "18": {
+        "name": "Vanguard Consumer Staples ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2769,
+        "totalAssets": 0.3738,
+        "currentShares": 1523729,
+        "change": 23682,
+        "change_p": 1.5788
+      },
+      "19": {
+        "name": "First Trust Value Line® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2748,
+        "totalAssets": 0.4239,
+        "currentShares": 1512258,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.2135,
+    "ForwardPE": 15.015,
+    "PriceSalesTTM": 0.9764,
+    "PriceBookMRQ": 1.5084,
+    "EnterpriseValue": 13930468344,
+    "EnterpriseValueRevenue": 1.147,
+    "EnterpriseValueEbitda": 13.6157
+  },
+  "Highlights": {
+    "MarketCapitalization": 11858624512,
+    "MarketCapitalizationMln": 11858.6245,
+    "EBITDA": 1211613056,
+    "PERatio": 24.2135,
+    "PEGRatio": 1.4641,
+    "WallStreetTargetPrice": 26.75,
+    "BookValue": 14.428,
+    "DividendShare": 1.163,
+    "DividendYield": 0.0534,
+    "EarningsShare": 0.89,
+    "EPSEstimateCurrentYear": 1.4696,
+    "EPSEstimateNextYear": 1.5713,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.3204,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0403,
+    "OperatingMarginTTM": 0.1106,
+    "ReturnOnAssetsTTM": 0.0443,
+    "ReturnOnEquityTTM": 0.0612,
+    "RevenueTTM": 12144663552,
+    "RevenuePerShareTTM": 22.064,
+    "QuarterlyRevenueGrowthYOY": -0.029,
+    "GrossProfitTTM": 1895735040,
+    "DilutedEpsTTM": 0.89,
+    "QuarterlyEarningsGrowthYOY": -0.051
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27,
+    "TotalEsgPercentile": 38.84,
+    "EnvironmentScore": 12.54,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 12.16,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 5.29,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HRL",
+    "Type": "Common Stock",
+    "Name": "Hormel Foods Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLF8D2",
+    "ISIN": "US4404521001",
+    "LEI": "MSD54751OJP1FS2ND863",
+    "PrimaryTicker": "HRL.US",
+    "CUSIP": "440452100",
+    "CIK": "0000048465",
+    "EmployerIdNumber": "41-0319970",
+    "FiscalYearEnd": "October",
+    "IPODate": "1990-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Hormel Foods Corporation develops, processes, and distributes various meat, nuts, and other food products to foodservice, convenience store, and commercial customers in the United States and internationally. It operates through three segments: Retail, Foodservice, and International segments. The company provides various perishable products, including resh meats, frozen items, refrigerated meal solutions, bacon, sausages, hams, guacamole, and other items that require refrigeration; and shelf-stable products, such as canned luncheon meats, nut butters, snack nuts, chili, shelf-stable microwaveable meals, hash, stews, tortillas, salsas, tortilla chips, and other items that do not require refrigeration. It sells its products under the HORMEL, ALWAYS TENDER, APPLEGATE, AUSTIN BLUES, BACON 1, BLACK LABEL, BREAD READY, BURKE, CAFÉ H, CERATTI, CHI-CHI'S, COLUMBUS, COMPLEATS, CORN NUTS, CURE 81, DAN'S PRIZE, DI LUSSO, DINTY MOORE, DON MIGUEL, DOÑA MARIA, EMBASA, FAST \"N EASY, FIRE BRAISED, FONTANINI, HERDEZ, HORMEL GATHERINGS, HOUSE OF TSANG, JENNIE-O, JUSTIN'S, LA VICTORIA, LAYOUT, LLOYD'S, MARY KITCHEN, MR. PEANUT, NATURAL CHOICE, NUT-RITION, OLD SMOKEHOUSE, OVEN READY, PILLOW PACK, PLANTERS, ROSA GRANDE, SADLER'S SMOKEHOUSE, SKIPPY, SPAM, SQUARE TABLE, SPECIAL RECIPE, VALLEY FRESH, and WHOLLY brands through sales personnel, independent brokers, and distributors. The company was formerly known as Geo. A. Hormel & Company and changed its name to Hormel Foods Corporation in January 1995. Hormel Foods Corporation was founded in 1891 and is headquartered in Austin, Minnesota.",
+    "Address": "1 Hormel Place, Austin, MN, United States, 55912-3680",
+    "AddressData": {
+      "Street": "1 Hormel Place",
+      "City": "Austin",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55912-3680"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jeffrey M. Ettinger",
+        "Title": "Interim CEO & Director",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. John F. Ghingo",
+        "Title": "President & Director",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Ms. Colleen R. Batcheler J.D.",
+        "Title": "Senior VP of External Affairs, General Counsel & Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Swen  Neufeldt",
+        "Title": "Group VP & President of Hormel Foods International",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Paul R. Kuehneman",
+        "Title": "Interim CFO & Controller",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Donald  Monk",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Jess  Blomberg",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Pierre M. Lilly",
+        "Title": "Senior VP & Chief Compliance Officer",
+        "YearBorn": "1971"
+      },
+      "8": {
+        "Name": "Ms. Mary Katherine Clark",
+        "Title": "Senior VP & Chief Communications Officer",
+        "YearBorn": "1980"
+      },
+      "9": {
+        "Name": "Mr. Nathan P. Annis",
+        "Title": "Vice President of Corporate Development",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "507 437 5611",
+    "WebURL": "https://www.hormelfoods.com",
+    "LogoURL": "/img/logos/US/HRL.png",
+    "FullTimeEmployees": 20000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 550284207,
+    "SharesFloat": 290709644,
+    "PercentInsiders": 0.46499999999999997,
+    "PercentInstitutions": 92.455,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0785
+  }
+}

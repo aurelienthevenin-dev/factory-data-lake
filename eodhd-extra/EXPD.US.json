@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4779,
+        "totalAssets": 0.0359,
+        "currentShares": 16593554,
+        "change": -120303,
+        "change_p": -0.7198
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.237,
+        "totalAssets": 0.0264,
+        "currentShares": 12283675,
+        "change": -1382691,
+        "change_p": -10.1175
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.7967,
+        "totalAssets": 0.0328,
+        "currentShares": 7708656,
+        "change": 377703,
+        "change_p": 5.1522
+      },
+      "3": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.7467,
+        "totalAssets": 1.6553,
+        "currentShares": 6312305,
+        "change": 32063,
+        "change_p": 0.5105
+      },
+      "4": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 4.2806,
+        "totalAssets": 1.0226,
+        "currentShares": 5692486,
+        "change": -141442,
+        "change_p": -2.4245
+      },
+      "5": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 3.4268,
+        "totalAssets": 0.5083,
+        "currentShares": 4557119,
+        "change": -21699,
+        "change_p": -0.4739
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.623,
+        "totalAssets": 0.032,
+        "currentShares": 3488126,
+        "change": -11561,
+        "change_p": -0.3303
+      },
+      "7": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6099,
+        "totalAssets": 0.5357,
+        "currentShares": 3470699,
+        "change": -92575,
+        "change_p": -2.598
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.0306,
+        "totalAssets": 0.0225,
+        "currentShares": 2700330,
+        "change": -131176,
+        "change_p": -4.6327
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8311,
+        "totalAssets": 0.0181,
+        "currentShares": 2435043,
+        "change": 311073,
+        "change_p": 14.6458
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7947,
+        "totalAssets": 0.0461,
+        "currentShares": 2386619,
+        "change": -87153,
+        "change_p": -3.5231
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.6734,
+        "totalAssets": 0.0082,
+        "currentShares": 2225296,
+        "change": 1204407,
+        "change_p": 117.9763
+      },
+      "12": {
+        "name": "Baird Financial Group, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5684,
+        "totalAssets": 0.4845,
+        "currentShares": 2085758,
+        "change": 71427,
+        "change_p": 3.5459
+      },
+      "13": {
+        "name": "Marshfield Associates",
+        "date": "2025-12-31",
+        "totalShares": 1.5434,
+        "totalAssets": 5.3612,
+        "currentShares": 2052531,
+        "change": 109791,
+        "change_p": 5.6513
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4949,
+        "totalAssets": 0.0312,
+        "currentShares": 1987946,
+        "change": -286179,
+        "change_p": -12.5841
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4196,
+        "totalAssets": 0.0503,
+        "currentShares": 1887853,
+        "change": 1661457,
+        "change_p": 733.8721
+      },
+      "16": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.3373,
+        "totalAssets": 0.1926,
+        "currentShares": 1778407,
+        "change": -200421,
+        "change_p": -10.1283
+      },
+      "17": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1349,
+        "totalAssets": 0.0115,
+        "currentShares": 1509293,
+        "change": -63982,
+        "change_p": -4.0668
+      },
+      "18": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.1201,
+        "totalAssets": 0.0299,
+        "currentShares": 1489525,
+        "change": -1415421,
+        "change_p": -48.7245
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1165,
+        "totalAssets": 0.0464,
+        "currentShares": 1484798,
+        "change": 33435,
+        "change_p": 2.3037
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 3.2034,
+        "totalAssets": 0.7842,
+        "currentShares": 4259990,
+        "change": -316032,
+        "change_p": -6.9063
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1869,
+        "totalAssets": 0.0304,
+        "currentShares": 4238114,
+        "change": 1667,
+        "change_p": 0.0393
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5662,
+        "totalAssets": 0.0344,
+        "currentShares": 3412585,
+        "change": -35556,
+        "change_p": -1.0312
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1687,
+        "totalAssets": 0.2079,
+        "currentShares": 2884000,
+        "change": -28760,
+        "change_p": -0.9874
+      },
+      "4": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.3972,
+        "totalAssets": 1.0709,
+        "currentShares": 1858007,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2953,
+        "totalAssets": 0.0343,
+        "currentShares": 1722548,
+        "change": -936,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2826,
+        "totalAssets": 0.033,
+        "currentShares": 1705592,
+        "change": 2816,
+        "change_p": 0.1654
+      },
+      "7": {
+        "name": "Fidelity Global Dividend I-Acc-EUR",
+        "date": "2026-02-28",
+        "totalShares": 1.2734,
+        "totalAssets": 1.1378,
+        "currentShares": 1693411,
+        "change": -522934,
+        "change_p": -23.5944
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1725,
+        "totalAssets": 0.0344,
+        "currentShares": 1559182,
+        "change": -3822,
+        "change_p": -0.2445
+      },
+      "9": {
+        "name": "Loomis Sayles Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 1.1278,
+        "totalAssets": 1.2795,
+        "currentShares": 1499834,
+        "change": -11941,
+        "change_p": -0.7899
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9278,
+        "totalAssets": 0.0783,
+        "currentShares": 1233865,
+        "change": -13113,
+        "change_p": -1.0516
+      },
+      "11": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9273,
+        "totalAssets": 0.2071,
+        "currentShares": 1233166,
+        "change": 3668,
+        "change_p": 0.2983
+      },
+      "12": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.7649,
+        "totalAssets": 1.3192,
+        "currentShares": 1017164,
+        "change": -484,
+        "change_p": -0.0476
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.653,
+        "totalAssets": 0.358,
+        "currentShares": 868424,
+        "change": 31980,
+        "change_p": 3.8233
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5672,
+        "totalAssets": 0.0342,
+        "currentShares": 754283,
+        "change": -5190,
+        "change_p": -0.6834
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5643,
+        "totalAssets": 0.0916,
+        "currentShares": 750399,
+        "change": 11839,
+        "change_p": 1.603
+      },
+      "16": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.56,
+        "totalAssets": 0.3795,
+        "currentShares": 744687,
+        "change": -5160,
+        "change_p": -0.6881
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.538,
+        "totalAssets": 0.0339,
+        "currentShares": 715461,
+        "change": 1000,
+        "change_p": 0.14
+      },
+      "18": {
+        "name": "Loomis Sayles Large Cap Growth Trust B",
+        "date": "2026-01-31",
+        "totalShares": 0.5134,
+        "totalAssets": 1.3081,
+        "currentShares": 682730,
+        "change": 14708,
+        "change_p": 2.2017
+      },
+      "19": {
+        "name": "Principal Equity Income A",
+        "date": "2026-02-28",
+        "totalShares": 0.5119,
+        "totalAssets": 1.1946,
+        "currentShares": 680696,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.8,
+    "ForwardPE": 24.9377,
+    "PriceSalesTTM": 1.7728,
+    "PriceBookMRQ": 8.4539,
+    "EnterpriseValue": 19170659048,
+    "EnterpriseValueRevenue": 1.7319,
+    "EnterpriseValueEbitda": 17.2815
+  },
+  "Highlights": {
+    "MarketCapitalization": 19623120896,
+    "MarketCapitalizationMln": 19623.1209,
+    "EBITDA": 1109314944,
+    "PERatio": 24.8,
+    "PEGRatio": 3.8543,
+    "WallStreetTargetPrice": 139.5,
+    "BookValue": 17.595,
+    "DividendShare": 1.54,
+    "DividendYield": 0.0103,
+    "EarningsShare": 5.95,
+    "EPSEstimateCurrentYear": 6.063,
+    "EPSEstimateNextYear": 6.5203,
+    "EPSEstimateNextQuarter": 1.3843,
+    "EPSEstimateCurrentQuarter": 1.4617,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0732,
+    "OperatingMarginTTM": 0.0879,
+    "ReturnOnAssetsTTM": 0.1364,
+    "ReturnOnEquityTTM": 0.3543,
+    "RevenueTTM": 11069008896,
+    "RevenuePerShareTTM": 81.504,
+    "QuarterlyRevenueGrowthYOY": -0.033,
+    "GrossProfitTTM": 1487105024,
+    "DilutedEpsTTM": 5.95,
+    "QuarterlyEarningsGrowthYOY": -0.115
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.94,
+    "TotalEsgPercentile": 16.86,
+    "EnvironmentScore": 3.51,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 5.4,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 3.53,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EXPD",
+    "Type": "Common Stock",
+    "Name": "Expeditors International of Washington, Inc.",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJ5GK2",
+    "ISIN": "US3021301094",
+    "LEI": "984500B055A804AB6E40",
+    "PrimaryTicker": "EXPD.US",
+    "CUSIP": "302130109",
+    "CIK": "0000746515",
+    "EmployerIdNumber": "91-1069248",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Air Freight & Logistics",
+    "GicSubIndustry": "Air Freight & Logistics",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Expeditors International of Washington, Inc., together with its subsidiaries, provides logistics services in the Americas, North Asia, South Asia, Europe, and Middle East, Africa, and India. The company offers airfreight services, such as air freight consolidation and forwarding; ocean freight and ocean services, including ocean freight consolidation, direct ocean forwarding, and order management; customs brokerage and other services, import, intra-continental ground transportation and delivery, and warehousing and distribution services; and customs clearance, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other logistics solutions. It also provides optimization, trade compliance consulting, cargo insurance, cargo security, and solutions. In addition, it acts as a freight consolidator or as an agent for the airline that carries the shipment. Further, the company provides ancillary services that include preparation of shipping and customs documentation, packing, crating, insurance services, and the preparation of documentation to comply with local export and import laws. The company was incorporated in 1979 and is headquartered in Bellevue, Washington.",
+    "Address": "Sterling Plaza 2, Bellevue, WA, United States, 98006",
+    "AddressData": {
+      "Street": "Sterling Plaza 2",
+      "City": "Bellevue",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98006"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Daniel R. Wall",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1969"
+      },
+      "1": {
+        "Name": "Mr. David A. Hackett",
+        "Title": "SVP & Chief Financial Officer",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Blake R. Bell",
+        "Title": "President of Global Business Development",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Ms. Kelly K. Blacker",
+        "Title": "President of Global Geographies",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Roberto A. Martinez",
+        "Title": "President of Global Products",
+        "YearBorn": "1982"
+      },
+      "5": {
+        "Name": "Mr. Steven J. Grimmer",
+        "Title": "Senior Vice President of Account Management",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Courtney A. Hawkins",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Mr. Geoffrey W. Buscher",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Jeffrey F. Dickerman",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1976"
+      },
+      "9": {
+        "Name": "Mr. Kanishka  Satar",
+        "Title": "Senior Vice President Global of Sales & Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "206 674 3400",
+    "WebURL": "https://www.expeditors.com",
+    "LogoURL": "/img/logos/US/EXPD.png",
+    "FullTimeEmployees": 19800,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 132984007,
+    "SharesFloat": 132571822,
+    "PercentInsiders": 0.605,
+    "PercentInstitutions": 102.302,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0375
+  }
+}

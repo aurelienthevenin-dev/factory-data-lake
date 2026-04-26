@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.6138,
+        "totalAssets": 0.0409,
+        "currentShares": 22913819,
+        "change": -348599,
+        "change_p": -1.4986
+      },
+      "1": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.1836,
+        "totalAssets": 0.1013,
+        "currentShares": 16146067,
+        "change": 3304180,
+        "change_p": 25.7297
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8147,
+        "totalAssets": 0.0255,
+        "currentShares": 15418360,
+        "change": 374490,
+        "change_p": 2.4893
+      },
+      "3": {
+        "name": "Mantle Ridge LP",
+        "date": "2025-12-31",
+        "totalShares": 6.1351,
+        "totalAssets": 59.4728,
+        "currentShares": 12104393,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 6.038,
+        "totalAssets": 0.5796,
+        "currentShares": 11912825,
+        "change": 3564621,
+        "change_p": 42.6993
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 5.2076,
+        "totalAssets": 0.1037,
+        "currentShares": 10274506,
+        "change": 5186942,
+        "change_p": 101.9534
+      },
+      "6": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7754,
+        "totalAssets": 0.0308,
+        "currentShares": 9421856,
+        "change": 319938,
+        "change_p": 3.5151
+      },
+      "7": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 4.4418,
+        "totalAssets": 0.169,
+        "currentShares": 8763608,
+        "change": -500555,
+        "change_p": -5.4031
+      },
+      "8": {
+        "name": "EdgePoint Investment",
+        "date": "2025-12-31",
+        "totalShares": 4.3867,
+        "totalAssets": 8.7433,
+        "currentShares": 8654878,
+        "change": -2483305,
+        "change_p": -22.2954
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5569,
+        "totalAssets": 0.0382,
+        "currentShares": 5044778,
+        "change": -129778,
+        "change_p": -2.508
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.4264,
+        "totalAssets": 0.0274,
+        "currentShares": 4787167,
+        "change": 516890,
+        "change_p": 12.1044
+      },
+      "11": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 2.3209,
+        "totalAssets": 0.4216,
+        "currentShares": 4579161,
+        "change": -1327526,
+        "change_p": -22.475
+      },
+      "12": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.9902,
+        "totalAssets": 0.1167,
+        "currentShares": 3926586,
+        "change": 180364,
+        "change_p": 4.8146
+      },
+      "13": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.9425,
+        "totalAssets": 0.3568,
+        "currentShares": 3832425,
+        "change": -361624,
+        "change_p": -8.6223
+      },
+      "14": {
+        "name": "Nomura Holdings Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9314,
+        "totalAssets": 0.557,
+        "currentShares": 3810568,
+        "change": 1169473,
+        "change_p": 44.2799
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.7535,
+        "totalAssets": 0.0098,
+        "currentShares": 3459646,
+        "change": 2601848,
+        "change_p": 303.3171
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3582,
+        "totalAssets": 0.0398,
+        "currentShares": 2679797,
+        "change": 165732,
+        "change_p": 6.5922
+      },
+      "17": {
+        "name": "London Company of Virginia",
+        "date": "2025-12-31",
+        "totalShares": 1.2863,
+        "totalAssets": 1.8011,
+        "currentShares": 2537874,
+        "change": -169241,
+        "change_p": -6.2517
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2415,
+        "totalAssets": 0.0632,
+        "currentShares": 2449442,
+        "change": -204455,
+        "change_p": -7.704
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.2404,
+        "totalAssets": 0.0362,
+        "currentShares": 2447249,
+        "change": 768740,
+        "change_p": 45.799
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 3.3053,
+        "totalAssets": 0.4862,
+        "currentShares": 6521292,
+        "change": 97810,
+        "change_p": 1.5227
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0416,
+        "totalAssets": 0.0329,
+        "currentShares": 6000971,
+        "change": -128946,
+        "change_p": -2.1036
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3857,
+        "totalAssets": 0.0362,
+        "currentShares": 4707023,
+        "change": -173374,
+        "change_p": -3.5525
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0684,
+        "totalAssets": 0.2249,
+        "currentShares": 4080994,
+        "change": -130599,
+        "change_p": -3.1009
+      },
+      "4": {
+        "name": "EdgePoint Global",
+        "date": "2025-12-31",
+        "totalShares": 1.8234,
+        "totalAssets": 5.9156,
+        "currentShares": 3597469,
+        "change": -996023,
+        "change_p": -21.6834
+      },
+      "5": {
+        "name": "EdgePoint Global Portfolio Series F",
+        "date": "2025-12-31",
+        "totalShares": 1.8234,
+        "totalAssets": 4.3553,
+        "currentShares": 3597469,
+        "change": -996023,
+        "change_p": -21.6834
+      },
+      "6": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.6215,
+        "totalAssets": 1.5625,
+        "currentShares": 3199200,
+        "change": -585000,
+        "change_p": -15.459
+      },
+      "7": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 1.4757,
+        "totalAssets": 1.4146,
+        "currentShares": 2911500,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.4743,
+        "totalAssets": 0.7424,
+        "currentShares": 2908669,
+        "change": -529468,
+        "change_p": -15.3999
+      },
+      "9": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.3314,
+        "totalAssets": 1.046,
+        "currentShares": 2626768,
+        "change": -181137,
+        "change_p": -6.451
+      },
+      "10": {
+        "name": "Fidelity Contrafund Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 1.2896,
+        "totalAssets": 0.5085,
+        "currentShares": 2544374,
+        "change": 276070,
+        "change_p": 12.1708
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2236,
+        "totalAssets": 0.0408,
+        "currentShares": 2414051,
+        "change": 3984,
+        "change_p": 0.1653
+      },
+      "12": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.205,
+        "totalAssets": 0.0362,
+        "currentShares": 2377377,
+        "change": -1296,
+        "change_p": -0.0545
+      },
+      "13": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.1915,
+        "totalAssets": 0.3803,
+        "currentShares": 2350900,
+        "change": -231700,
+        "change_p": -8.9716
+      },
+      "14": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.144,
+        "totalAssets": 0.2884,
+        "currentShares": 2257016,
+        "change": -229693,
+        "change_p": -9.2368
+      },
+      "15": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.1062,
+        "totalAssets": 0.7496,
+        "currentShares": 2182421,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0807,
+        "totalAssets": 0.0359,
+        "currentShares": 2132262,
+        "change": -5292,
+        "change_p": -0.2476
+      },
+      "17": {
+        "name": "Touchstone Mid Cap Y",
+        "date": "2026-03-31",
+        "totalShares": 1.0662,
+        "totalAssets": 5.2584,
+        "currentShares": 2103678,
+        "change": -232201,
+        "change_p": -9.9406
+      },
+      "18": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9807,
+        "totalAssets": 1.3673,
+        "currentShares": 1934899,
+        "change": -824,
+        "change_p": -0.0426
+      },
+      "19": {
+        "name": "EdgePoint Global Growth and Income",
+        "date": "2025-12-31",
+        "totalShares": 0.8888,
+        "totalAssets": 5.6486,
+        "currentShares": 1753596,
+        "change": -556348,
+        "change_p": -24.0849
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 17.4663,
+    "ForwardPE": 15.1057,
+    "PriceSalesTTM": 1.0545,
+    "PriceBookMRQ": 5.3726,
+    "EnterpriseValue": 26511542688,
+    "EnterpriseValueRevenue": 1.3657,
+    "EnterpriseValueEbitda": 11.219
+  },
+  "Highlights": {
+    "MarketCapitalization": 20469690368,
+    "MarketCapitalizationMln": 20469.6904,
+    "EBITDA": 2311300096,
+    "PERatio": 17.4663,
+    "PEGRatio": 1.1156,
+    "WallStreetTargetPrice": 125.0435,
+    "BookValue": 18.916,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 5.94,
+    "EPSEstimateCurrentYear": 5.7444,
+    "EPSEstimateNextYear": 6.7422,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.5315,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0661,
+    "OperatingMarginTTM": 0.1351,
+    "ReturnOnAssetsTTM": 0.0648,
+    "ReturnOnEquityTTM": 0.3169,
+    "RevenueTTM": 19411800064,
+    "RevenuePerShareTTM": 94.324,
+    "QuarterlyRevenueGrowthYOY": 0.09,
+    "GrossProfitTTM": 7122800128,
+    "DilutedEpsTTM": 5.94,
+    "QuarterlyEarningsGrowthYOY": 0.106
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.54,
+    "TotalEsgPercentile": 21.94,
+    "EnvironmentScore": 4.86,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 11.35,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 7.84,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DLTR",
+    "Type": "Common Stock",
+    "Name": "Dollar Tree Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BSC0K9",
+    "ISIN": "US2567461080",
+    "LEI": "549300PMSTQITB1WHR43",
+    "PrimaryTicker": "DLTR.US",
+    "CUSIP": "256747106",
+    "CIK": "0000935703",
+    "EmployerIdNumber": "26-2018846",
+    "FiscalYearEnd": "January",
+    "IPODate": "1995-03-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Consumer Staples Distribution & Retail",
+    "GicIndustry": "Consumer Staples Distribution & Retail",
+    "GicSubIndustry": "Consumer Staples Merchandise Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Dollar Tree, Inc. operates retail discount stores under the Dollar Tree and Dollar Tree Canada brands in the United States and Canada. The company offers consumable merchandise comprising everyday consumables, such as household paper and chemicals, food, candy, health, personal care products, and frozen and refrigerated food; variety merchandise consisting of toys, durable housewares, gifts, stationery, party goods, greeting cards, softlines, arts and crafts supplies, and other items; and seasonal goods, including Christmas, Easter, Halloween, and Valentine's Day merchandise. The company was founded in 1986 and is based in Chesapeake, Virginia.",
+    "Address": "500 Volvo Parkway, Chesapeake, VA, United States, 23320",
+    "AddressData": {
+      "Street": "500 Volvo Parkway",
+      "City": "Chesapeake",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "23320"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Michael C. Creedon Jr.",
+        "Title": "CEO & Director",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Mr. H. Ray Compton",
+        "Title": "Co-Founder",
+        "YearBorn": "1943"
+      },
+      "2": {
+        "Name": "Mr. Stewart F. Glendinning",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Aditya  Maheshwari",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Robert  Aflatooni",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Daniel  Delrosario",
+        "Title": "Senior VP of Investor Relations & Treasurer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. John S. Mitchell Jr.",
+        "Title": "Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Thoufiq  Kutty",
+        "Title": "SVP and Chief Ethics & Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Steve  Schumacher",
+        "Title": "Chief People & Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Pedro  Voyer",
+        "Title": "Chief Development Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "757 321 5000",
+    "WebURL": "https://www.dollartree.com",
+    "LogoURL": "/img/logos/US/DLTR.png",
+    "FullTimeEmployees": 35181,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 197298217,
+    "SharesFloat": 184558671,
+    "PercentInsiders": 0.199,
+    "PercentInstitutions": 110.109,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0809
+  }
+}

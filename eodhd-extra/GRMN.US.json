@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.4758,
+        "totalAssets": 0.0593,
+        "currentShares": 20163896,
+        "change": -33668,
+        "change_p": -0.1667
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4982,
+        "totalAssets": 0.0705,
+        "currentShares": 16357314,
+        "change": 255918,
+        "change_p": 1.5894
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.767,
+        "totalAssets": 0.0619,
+        "currentShares": 7250844,
+        "change": 126677,
+        "change_p": 1.7781
+      },
+      "3": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 2.9612,
+        "totalAssets": 1.731,
+        "currentShares": 5699823,
+        "change": -130078,
+        "change_p": -2.2312
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3435,
+        "totalAssets": 0.0563,
+        "currentShares": 4510853,
+        "change": -337563,
+        "change_p": -6.9623
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.9483,
+        "totalAssets": 0.0277,
+        "currentShares": 3750064,
+        "change": 1817454,
+        "change_p": 94.0414
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2557,
+        "totalAssets": 0.025,
+        "currentShares": 2416975,
+        "change": -411051,
+        "change_p": -14.5349
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.0123,
+        "totalAssets": 0.0423,
+        "currentShares": 1948406,
+        "change": -17404,
+        "change_p": -0.8853
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9068,
+        "totalAssets": 0.026,
+        "currentShares": 1745474,
+        "change": -299484,
+        "change_p": -14.645
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8606,
+        "totalAssets": 0.0522,
+        "currentShares": 1656394,
+        "change": -72134,
+        "change_p": -4.1731
+      },
+      "10": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8268,
+        "totalAssets": 0.0677,
+        "currentShares": 1591369,
+        "change": 96850,
+        "change_p": 6.4803
+      },
+      "11": {
+        "name": "Disciplined Growth Investors Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7271,
+        "totalAssets": 5.4336,
+        "currentShares": 1399515,
+        "change": 22679,
+        "change_p": 1.6472
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6698,
+        "totalAssets": 0.0321,
+        "currentShares": 1289156,
+        "change": 315163,
+        "change_p": 32.3578
+      },
+      "13": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.6529,
+        "totalAssets": 0.0974,
+        "currentShares": 1256668,
+        "change": 1088938,
+        "change_p": 649.2208
+      },
+      "14": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6027,
+        "totalAssets": 0.0522,
+        "currentShares": 1160116,
+        "change": -20138,
+        "change_p": -1.7062
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.5903,
+        "totalAssets": 0.0441,
+        "currentShares": 1136268,
+        "change": -191679,
+        "change_p": -14.4342
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5078,
+        "totalAssets": 0.0308,
+        "currentShares": 977350,
+        "change": 12598,
+        "change_p": 1.3058
+      },
+      "17": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.4686,
+        "totalAssets": 0.0422,
+        "currentShares": 901955,
+        "change": -63738,
+        "change_p": -6.6002
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.4535,
+        "totalAssets": 0.0386,
+        "currentShares": 872860,
+        "change": -6115,
+        "change_p": -0.6957
+      },
+      "19": {
+        "name": "CapTrust Financial Advisors",
+        "date": "2025-12-31",
+        "totalShares": 0.4361,
+        "totalAssets": 0.3239,
+        "currentShares": 839433,
+        "change": -1854,
+        "change_p": -0.2204
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.6986,
+        "totalAssets": 0.0604,
+        "currentShares": 5194193,
+        "change": 23039,
+        "change_p": 0.4455
+      },
+      "1": {
+        "name": "Artisan International Value Investor",
+        "date": "2025-12-31",
+        "totalShares": 2.3278,
+        "totalAssets": 2.1701,
+        "currentShares": 4480480,
+        "change": -97798,
+        "change_p": -2.1361
+      },
+      "2": {
+        "name": "Artisan International Value",
+        "date": "2025-12-31",
+        "totalShares": 2.3278,
+        "totalAssets": 2.1701,
+        "currentShares": 4480480,
+        "change": -97798,
+        "change_p": -2.1361
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1626,
+        "totalAssets": 0.0679,
+        "currentShares": 4162651,
+        "change": -42524,
+        "change_p": -1.0112
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.8362,
+        "totalAssets": 0.4126,
+        "currentShares": 3534347,
+        "change": -18987,
+        "change_p": -0.5343
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0916,
+        "totalAssets": 0.0677,
+        "currentShares": 2101055,
+        "change": -1140,
+        "change_p": -0.0542
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0809,
+        "totalAssets": 0.0702,
+        "currentShares": 2080548,
+        "change": 3429,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.989,
+        "totalAssets": 0.0679,
+        "currentShares": 1903672,
+        "change": -4655,
+        "change_p": -0.2439
+      },
+      "8": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9076,
+        "totalAssets": 0.8719,
+        "currentShares": 1747016,
+        "change": -1083,
+        "change_p": -0.062
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7856,
+        "totalAssets": 0.1554,
+        "currentShares": 1512048,
+        "change": -10054,
+        "change_p": -0.6605
+      },
+      "10": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6465,
+        "totalAssets": 0.9881,
+        "currentShares": 1244428,
+        "change": -112988,
+        "change_p": -8.3238
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4788,
+        "totalAssets": 0.0678,
+        "currentShares": 921675,
+        "change": -4068,
+        "change_p": -0.4394
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4534,
+        "totalAssets": 0.067,
+        "currentShares": 872689,
+        "change": 1200,
+        "change_p": 0.1377
+      },
+      "13": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4485,
+        "totalAssets": 0.9434,
+        "currentShares": 863281,
+        "change": -11321,
+        "change_p": -1.2944
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3836,
+        "totalAssets": 0.0676,
+        "currentShares": 738416,
+        "change": 4229,
+        "change_p": 0.576
+      },
+      "15": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3822,
+        "totalAssets": 0.2001,
+        "currentShares": 735621,
+        "change": 2227,
+        "change_p": 0.3037
+      },
+      "16": {
+        "name": "AllianceBernstein US L/C Growth Eqty MF",
+        "date": "2026-02-27",
+        "totalShares": 0.3402,
+        "totalAssets": 0.4841,
+        "currentShares": 654860,
+        "change": 161810,
+        "change_p": 32.8182
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3384,
+        "totalAssets": 0.057,
+        "currentShares": 651262,
+        "change": -1017,
+        "change_p": -0.1559
+      },
+      "18": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3384,
+        "totalAssets": 0.057,
+        "currentShares": 651262,
+        "change": 651262,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3384,
+        "totalAssets": 0.057,
+        "currentShares": 651262,
+        "change": -1017,
+        "change_p": -0.1559
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.1967,
+    "ForwardPE": 27.7008,
+    "PriceSalesTTM": 6.9052,
+    "PriceBookMRQ": 5.6064,
+    "EnterpriseValue": 47730968592,
+    "EnterpriseValueRevenue": 6.5877,
+    "EnterpriseValueEbitda": 23.1161
+  },
+  "Highlights": {
+    "MarketCapitalization": 50032017408,
+    "MarketCapitalizationMln": 50032.0174,
+    "EBITDA": 2064834944,
+    "PERatio": 30.1967,
+    "PEGRatio": 3.384,
+    "WallStreetTargetPrice": 262.4286,
+    "BookValue": 46.582,
+    "DividendShare": 3.6,
+    "DividendYield": 0.0138,
+    "EarningsShare": 8.59,
+    "EPSEstimateCurrentYear": 9.3913,
+    "EPSEstimateNextYear": 10.1993,
+    "EPSEstimateNextQuarter": 1.7173,
+    "EPSEstimateCurrentQuarter": 2.3923,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2296,
+    "OperatingMarginTTM": 0.289,
+    "ReturnOnAssetsTTM": 0.1137,
+    "ReturnOnEquityTTM": 0.1978,
+    "RevenueTTM": 7245518848,
+    "RevenuePerShareTTM": 37.646,
+    "QuarterlyRevenueGrowthYOY": 0.166,
+    "GrossProfitTTM": 4256303104,
+    "DilutedEpsTTM": 8.59,
+    "QuarterlyEarningsGrowthYOY": 0.212
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.03,
+    "TotalEsgPercentile": 20.64,
+    "EnvironmentScore": 6.37,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 10.84,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 7.82,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "GRMN",
+    "Type": "Common Stock",
+    "Name": "Garmin Ltd",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C4LN67",
+    "ISIN": "CH0114405324",
+    "LEI": "2549001E0HIPIJQ0W046",
+    "PrimaryTicker": "GRMN.US",
+    "CUSIP": "G37260109",
+    "CIK": "0001121788",
+    "EmployerIdNumber": "98-0229227",
+    "FiscalYearEnd": "December",
+    "IPODate": "2000-12-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Household Durables",
+    "GicSubIndustry": "Consumer Electronics",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Garmin Ltd. designs, develops, manufactures, markets, and distributes a diverse range of GPS-enabled products and navigation, communications, sensor-based, and information products and services worldwide. It offers running; cycling products; smartwatch devices; scales and monitors; and sports timing and performance analysis; Garmin Connect and Garmin Connect Mobile, which are web and mobile platforms where users can track and analyze their fitness, activities and workouts, and wellness data; and Connect IQ, which enables third parties to create applications that run on Garmin devices. It also provides adventure watches; outdoor handhelds and satellite communicators; golf devices; consumer automotive; dog devices; InReach and Gramin response; and dive devices. In addition, it designs, manufactures, and markets various aircraft avionics solutions, including integrated flight decks, electronic flight displays and instrumentation, navigation and communication products, automatic flight control systems and safety-enhancing technologies, audio control systems, engine indication systems, traffic awareness and avoidance solutions, ADS-B and transponders, weather information and avoidance solutions, datalink and connectivity solutions, and portable GPS navigators and wearables, as well as service products to the aviation market. Further, it offers chartplotters and multi-function displays, cartography, fishfinders, sonar, autopilot systems, radars, compliant instrument displays and sensors, VHF communication radios, handhelds and wearable devices, sailing, audio, digital switching, trolling motors, and lighting; and domain controllers and infotainment units, as well as software, map database, camera, wearable, and automotive solutions. The company sells its products through independent retailers, dealers, distributors, installation and repair shops, OEM, and online webshop. Garmin Ltd. was founded in 1989 and is based in Schaffhausen, Switzerland.",
+    "Address": "MUehlentalstrasse 36/38, Schaffhausen, Switzerland, 8200",
+    "AddressData": {
+      "Street": "MUehlentalstrasse 36/38",
+      "City": "Schaffhausen",
+      "Country": "Switzerland",
+      "ZIP": "8200"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Clifton  Albert Pemble",
+        "Title": "President, CEO & Director",
+        "YearBorn": "NA"
+      },
+      "1": {
+        "Name": "Mr. Patrick G. Desbois",
+        "Title": "Co-Chief Operating Officer",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Bradley C. Trenkle",
+        "Title": "Co-Chief Operating Officer",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Philip I. Straub",
+        "Title": "Executive VP & MD of Aviation - Garmin International, Inc",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Dr. Min-Hwan  Kao Ph.D.",
+        "Title": "Co-Founder & Executive Chairman",
+        "YearBorn": "1949"
+      },
+      "5": {
+        "Name": "Ms. Teri  Seck",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Joshua H. Maxfield",
+        "Title": "VP, General Counsel & Secretary",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Mr. Ted  Gartner",
+        "Title": "Director of Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Laurie A. Minard",
+        "Title": "Vice President of Human Resources",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Sean M. Biddlecombe",
+        "Title": "Managing Director of EMEA",
+        "YearBorn": "1966"
+      }
+    },
+    "Phone": "41 52 630 1600",
+    "WebURL": "https://www.garmin.com",
+    "LogoURL": "/img/logos/US/grmn.png",
+    "FullTimeEmployees": 23000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 192883365,
+    "SharesFloat": 163926299,
+    "PercentInsiders": 14.884,
+    "PercentInstitutions": 57.794000000000004,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0189
+  }
+}

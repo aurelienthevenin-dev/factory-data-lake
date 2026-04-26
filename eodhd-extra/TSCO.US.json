@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.8755,
+        "totalAssets": 0.0491,
+        "currentShares": 67725924,
+        "change": 156318,
+        "change_p": 0.2313
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.5932,
+        "totalAssets": 0.0502,
+        "currentShares": 50460882,
+        "change": -1383058,
+        "change_p": -2.6677
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 4.6157,
+        "totalAssets": 0.1904,
+        "currentShares": 24279046,
+        "change": 902659,
+        "change_p": 3.8614
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3515,
+        "totalAssets": 0.0451,
+        "currentShares": 22889002,
+        "change": -113118,
+        "change_p": -0.4918
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.3064,
+        "totalAssets": 0.1985,
+        "currentShares": 22651902,
+        "change": -3279797,
+        "change_p": -12.6478
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.0177,
+        "totalAssets": 0.0489,
+        "currentShares": 15873514,
+        "change": 184457,
+        "change_p": 1.1757
+      },
+      "6": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.8815,
+        "totalAssets": 0.1031,
+        "currentShares": 15157047,
+        "change": 336040,
+        "change_p": 2.2673
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.7997,
+        "totalAssets": 0.132,
+        "currentShares": 14726792,
+        "change": -352521,
+        "change_p": -2.3378
+      },
+      "8": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 2.4951,
+        "totalAssets": 0.235,
+        "currentShares": 13124496,
+        "change": -789110,
+        "change_p": -5.6715
+      },
+      "9": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 2.3849,
+        "totalAssets": 2.7043,
+        "currentShares": 12544591,
+        "change": 409823,
+        "change_p": 3.3773
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.9893,
+        "totalAssets": 0.0178,
+        "currentShares": 10463930,
+        "change": 2300915,
+        "change_p": 28.1871
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7348,
+        "totalAssets": 0.0314,
+        "currentShares": 9125205,
+        "change": 824732,
+        "change_p": 9.936
+      },
+      "12": {
+        "name": "Stifel Financial Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4927,
+        "totalAssets": 0.4077,
+        "currentShares": 7851800,
+        "change": -225453,
+        "change_p": -2.7912
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2827,
+        "totalAssets": 0.026,
+        "currentShares": 6747281,
+        "change": 2439307,
+        "change_p": 56.6231
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1551,
+        "totalAssets": 0.0325,
+        "currentShares": 6076029,
+        "change": 865507,
+        "change_p": 16.6108
+      },
+      "15": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1205,
+        "totalAssets": 0.0637,
+        "currentShares": 5893698,
+        "change": -142097,
+        "change_p": -2.3542
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0836,
+        "totalAssets": 0.0415,
+        "currentShares": 5699603,
+        "change": -8718,
+        "change_p": -0.1527
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0683,
+        "totalAssets": 0.0797,
+        "currentShares": 5619107,
+        "change": 174641,
+        "change_p": 3.2077
+      },
+      "18": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0338,
+        "totalAssets": 0.1367,
+        "currentShares": 5437875,
+        "change": 2384939,
+        "change_p": 78.1195
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9845,
+        "totalAssets": 0.0543,
+        "currentShares": 5178583,
+        "change": -115705,
+        "change_p": -2.1855
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1802,
+        "totalAssets": 0.038,
+        "currentShares": 16727975,
+        "change": 30487,
+        "change_p": 0.1826
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5579,
+        "totalAssets": 0.0428,
+        "currentShares": 13454566,
+        "change": -134233,
+        "change_p": -0.9878
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1617,
+        "totalAssets": 0.2592,
+        "currentShares": 11370485,
+        "change": -114187,
+        "change_p": -0.9943
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8916,
+        "totalAssets": 0.1481,
+        "currentShares": 9949975,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.8916,
+        "totalAssets": 0.1471,
+        "currentShares": 9949975,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.7344,
+        "totalAssets": 0.3804,
+        "currentShares": 9123142,
+        "change": -314023,
+        "change_p": -3.3275
+      },
+      "6": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.7016,
+        "totalAssets": 0.371,
+        "currentShares": 8950375,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.7016,
+        "totalAssets": 0.4014,
+        "currentShares": 8950375,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Invesco World Dev Countries Eq Mother",
+        "date": "2025-07-23",
+        "totalShares": 1.61,
+        "totalAssets": 2.7004,
+        "currentShares": 8468700,
+        "change": -35,
+        "change_p": -0.0004
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2913,
+        "totalAssets": 0.0427,
+        "currentShares": 6792070,
+        "change": -3696,
+        "change_p": -0.0544
+      },
+      "10": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.2856,
+        "totalAssets": 0.541,
+        "currentShares": 6762276,
+        "change": -653736,
+        "change_p": -8.8152
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2784,
+        "totalAssets": 0.0465,
+        "currentShares": 6724617,
+        "change": 11099,
+        "change_p": 0.1653
+      },
+      "12": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.2186,
+        "totalAssets": 0.154,
+        "currentShares": 6410175,
+        "change": 557637,
+        "change_p": 9.5281
+      },
+      "13": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.2186,
+        "totalAssets": 0.1456,
+        "currentShares": 6410175,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1713,
+        "totalAssets": 0.0429,
+        "currentShares": 6160877,
+        "change": -15043,
+        "change_p": -0.2436
+      },
+      "15": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.1508,
+        "totalAssets": 0.6391,
+        "currentShares": 6053193,
+        "change": 5335732,
+        "change_p": 743.6965
+      },
+      "16": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 1.0912,
+        "totalAssets": 1.0079,
+        "currentShares": 5740000,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9248,
+        "totalAssets": 0.0976,
+        "currentShares": 4864716,
+        "change": -53993,
+        "change_p": -1.0977
+      },
+      "18": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.8563,
+        "totalAssets": 0.6399,
+        "currentShares": 4504168,
+        "change": 742000,
+        "change_p": 19.7227
+      },
+      "19": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7611,
+        "totalAssets": 0.6207,
+        "currentShares": 4003481,
+        "change": -383854,
+        "change_p": -8.7491
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 18.0985,
+    "ForwardPE": 17.4216,
+    "PriceSalesTTM": 1.2357,
+    "PriceBookMRQ": 7.9871,
+    "EnterpriseValue": 26262170005,
+    "EnterpriseValueRevenue": 1.6782,
+    "EnterpriseValueEbitda": 13.4525
+  },
+  "Highlights": {
+    "MarketCapitalization": 19338147840,
+    "MarketCapitalizationMln": 19338.1478,
+    "EBITDA": 1952216064,
+    "PERatio": 18.0985,
+    "PEGRatio": 1.5493,
+    "WallStreetTargetPrice": 48.4074,
+    "BookValue": 4.898,
+    "DividendShare": 0.93,
+    "DividendYield": 0.0244,
+    "EarningsShare": 2.03,
+    "EPSEstimateCurrentYear": 2.1353,
+    "EPSEstimateNextYear": 2.3208,
+    "EPSEstimateNextQuarter": 0.8665,
+    "EPSEstimateCurrentQuarter": 0.3405,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0691,
+    "OperatingMarginTTM": 0.065,
+    "ReturnOnAssetsTTM": 0.0823,
+    "ReturnOnEquityTTM": 0.455,
+    "RevenueTTM": 15649139712,
+    "RevenuePerShareTTM": 29.605,
+    "QuarterlyRevenueGrowthYOY": 0.036,
+    "GrossProfitTTM": 5700271104,
+    "DilutedEpsTTM": 2.03,
+    "QuarterlyEarningsGrowthYOY": -0.081
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 17.19,
+    "TotalEsgPercentile": 13.64,
+    "EnvironmentScore": 7.8,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 13.2,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 6.18,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TSCO",
+    "Type": "Common Stock",
+    "Name": "Tractor Supply Company",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLXZN1",
+    "ISIN": "US8923561067",
+    "LEI": "549300OJ9VZHZRO6I137",
+    "PrimaryTicker": "TSCO.US",
+    "CUSIP": "892356106",
+    "CIK": "0000916365",
+    "EmployerIdNumber": "13-3139732",
+    "FiscalYearEnd": "December",
+    "IPODate": "1994-02-17",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Discretionary Distribution & Retail",
+    "GicIndustry": "Specialty Retail",
+    "GicSubIndustry": "Other Specialty Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Tractor Supply Company operates as a rural lifestyle retailer in the United States. The company provides various merchandise, including livestock and equine feed and equipment, poultry, fencing, and sprayers and chemicals; companion animal products, such as food, treats, and equipment for dogs, cats, and other small animals, as well as dog wellness products; seasonal and recreation products comprising tractors and riders, lawn and garden, bird feeding, power equipment, and other recreational products; truck, tool, and hardware products, such as truck accessories, trailers, generators, lubricants, batteries, and hardware and tools; and clothing, gift, and décor products consist of clothing, footwear, toys, snacks, and decorative merchandise. It offers its products under the 4health, Paws & Claws, American Farmworks, Producer's Pride, Bit & Bridle, Red Shed, Blue Mountain, Redstone, C.E. Schmidt, Retriever, Country Lane, Ridgecut, Countyline, Royal Wing, Country Tuff, Strive, Dumor, Traveller, Farm Table, Treeline, Groundwork, TSC Tractor Supply Co, Huskee, Untamed, JobSmart, and Impeckable brand names. The company operates its retail stores under the Tractor Supply Company, Petsense by Tractor Supply, and Orscheln Farm and Home names; and operates websites under the TractorSupply.com and Petsense.com names. It sells its products to recreational farmers, ranchers, and others. Tractor Supply Company was founded in 1938 and is based in Brentwood, Tennessee.",
+    "Address": "5401 Virginia Way, Brentwood, TN, United States, 37027",
+    "AddressData": {
+      "Street": "5401 Virginia Way",
+      "City": "Brentwood",
+      "State": "TN",
+      "Country": "United States",
+      "ZIP": "37027"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Harry A. Lawton III",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. Kurt D. Barton CPA",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Robert D. Mills",
+        "Title": "EVP, Chief Technology, Digital and Corporate Strategy Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. John P. Ordus",
+        "Title": "Executive VP & Chief Stores Officer",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Jonathan Seth Estep",
+        "Title": "Executive VP & Chief Merchandising Officer",
+        "YearBorn": "1981"
+      },
+      "5": {
+        "Name": "Ms. Mary Winn Pilkington",
+        "Title": "Senior Vice President of Investor Relations & Public Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Thomas J. Sabatino Jr.",
+        "Title": "Interim General Counsel & Corporate Secretary",
+        "YearBorn": "1959"
+      },
+      "7": {
+        "Name": "Ms. Kimberley S. Gardiner",
+        "Title": "Senior VP & Chief Marketing Officer",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Ms. Melissa D. Kersey",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1976"
+      },
+      "9": {
+        "Name": "Mr. Colin W. Yankee",
+        "Title": "Executive VP & Chief Supply Chain Officer",
+        "YearBorn": "1979"
+      }
+    },
+    "Phone": "615 440 4000",
+    "WebURL": "https://www.tractorsupply.com",
+    "LogoURL": "/img/logos/US/TSCO.png",
+    "FullTimeEmployees": 52000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 526006314,
+    "SharesFloat": 524542751,
+    "PercentInsiders": 0.245,
+    "PercentInstitutions": 99.949,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0621
+  }
+}

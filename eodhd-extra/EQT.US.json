@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5589,
+        "totalAssets": 0.0609,
+        "currentShares": 78402258,
+        "change": -1057769,
+        "change_p": -1.3312
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6716,
+        "totalAssets": 0.0456,
+        "currentShares": 47891594,
+        "change": 535066,
+        "change_p": 1.1299
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.4385,
+        "totalAssets": 0.0641,
+        "currentShares": 33951362,
+        "change": 1118257,
+        "change_p": 3.4059
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.2512,
+        "totalAssets": 0.2493,
+        "currentShares": 26539413,
+        "change": -15635440,
+        "change_p": -37.0729
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.8412,
+        "totalAssets": 0.079,
+        "currentShares": 23979326,
+        "change": 2621537,
+        "change_p": 12.2744
+      },
+      "5": {
+        "name": "Blackstone Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.9286,
+        "totalAssets": 4.0056,
+        "currentShares": 18282495,
+        "change": 18278029,
+        "change_p": 409270.6897
+      },
+      "6": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.925,
+        "totalAssets": 0.1534,
+        "currentShares": 18259920,
+        "change": 556439,
+        "change_p": 3.1431
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6304,
+        "totalAssets": 0.0541,
+        "currentShares": 16420939,
+        "change": -466491,
+        "change_p": -2.7624
+      },
+      "8": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.4942,
+        "totalAssets": 0.3301,
+        "currentShares": 15570670,
+        "change": 6124211,
+        "change_p": 64.8308
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2765,
+        "totalAssets": 0.0232,
+        "currentShares": 14211656,
+        "change": 7946789,
+        "change_p": 126.8469
+      },
+      "10": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0058,
+        "totalAssets": 0.1239,
+        "currentShares": 12521749,
+        "change": 2626912,
+        "change_p": 26.5483
+      },
+      "11": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8993,
+        "totalAssets": 0.069,
+        "currentShares": 11856749,
+        "change": -1489907,
+        "change_p": -11.1631
+      },
+      "12": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8903,
+        "totalAssets": 0.1152,
+        "currentShares": 11800834,
+        "change": 150684,
+        "change_p": 1.2934
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8609,
+        "totalAssets": 0.0996,
+        "currentShares": 11617375,
+        "change": -300658,
+        "change_p": -2.5227
+      },
+      "14": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.262,
+        "totalAssets": 0.3381,
+        "currentShares": 7878544,
+        "change": -1065360,
+        "change_p": -11.9116
+      },
+      "15": {
+        "name": "Slate Path Capital LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0047,
+        "totalAssets": 4.5344,
+        "currentShares": 6272388,
+        "change": 332800,
+        "change_p": 5.6031
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.913,
+        "totalAssets": 0.0397,
+        "currentShares": 5699911,
+        "change": 129681,
+        "change_p": 2.3281
+      },
+      "17": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8628,
+        "totalAssets": 0.4665,
+        "currentShares": 5386543,
+        "change": -147828,
+        "change_p": -2.6711
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8602,
+        "totalAssets": 0.0604,
+        "currentShares": 5370042,
+        "change": 197383,
+        "change_p": 3.8159
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8468,
+        "totalAssets": 0.0195,
+        "currentShares": 5286230,
+        "change": 1354028,
+        "change_p": 34.4343
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Cushing Midstream Strategy",
+        "date": "2025-12-31",
+        "totalShares": 9.2029,
+        "totalAssets": 2.4322,
+        "currentShares": 57451286,
+        "change": 1866840,
+        "change_p": 3.3586
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.177,
+        "totalAssets": 0.0632,
+        "currentShares": 19833191,
+        "change": 93633,
+        "change_p": 0.4743
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5457,
+        "totalAssets": 0.0711,
+        "currentShares": 15891939,
+        "change": -158755,
+        "change_p": -0.9891
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.5246,
+        "totalAssets": 0.2514,
+        "currentShares": 15760557,
+        "change": 2924380,
+        "change_p": 22.7823
+      },
+      "4": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3161,
+        "totalAssets": 2.1005,
+        "currentShares": 14458720,
+        "change": 147898,
+        "change_p": 1.0335
+      },
+      "5": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.5285,
+        "totalAssets": 0.8182,
+        "currentShares": 9542171,
+        "change": -4939871,
+        "change_p": -34.1103
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.285,
+        "totalAssets": 0.0709,
+        "currentShares": 8022064,
+        "change": -4368,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2722,
+        "totalAssets": 0.0651,
+        "currentShares": 7942036,
+        "change": 13094,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.162,
+        "totalAssets": 0.071,
+        "currentShares": 7253969,
+        "change": -17787,
+        "change_p": -0.2446
+      },
+      "9": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1545,
+        "totalAssets": 0.2761,
+        "currentShares": 7207150,
+        "change": 120595,
+        "change_p": 1.7017
+      },
+      "10": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0802,
+        "totalAssets": 0.216,
+        "currentShares": 6743309,
+        "change": -38586,
+        "change_p": -0.569
+      },
+      "11": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9133,
+        "totalAssets": 0.1889,
+        "currentShares": 5701653,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7146,
+        "totalAssets": 0.9493,
+        "currentShares": 4460800,
+        "change": -6100,
+        "change_p": -0.1366
+      },
+      "13": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.7139,
+        "totalAssets": 1.2584,
+        "currentShares": 4457000,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "UniGlobal Vorsorge",
+        "date": "2026-02-28",
+        "totalShares": 0.7064,
+        "totalAssets": 0.9942,
+        "currentShares": 4409791,
+        "change": -12257,
+        "change_p": -0.2772
+      },
+      "15": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6684,
+        "totalAssets": 0.4643,
+        "currentShares": 4172440,
+        "change": -2548277,
+        "change_p": -37.9167
+      },
+      "16": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.6679,
+        "totalAssets": 0.0835,
+        "currentShares": 4169388,
+        "change": -263148,
+        "change_p": -5.9367
+      },
+      "17": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.6567,
+        "totalAssets": 2.0333,
+        "currentShares": 4099300,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 0.6567,
+        "totalAssets": 2.0299,
+        "currentShares": 4099300,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 0.6567,
+        "totalAssets": 2.0299,
+        "currentShares": 4099300,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.1784,
+    "ForwardPE": 13.369,
+    "PriceSalesTTM": 3.9349,
+    "PriceBookMRQ": 1.4674,
+    "EnterpriseValue": 42512751980,
+    "EnterpriseValueRevenue": 4.4522,
+    "EnterpriseValueEbitda": 5.5785
+  },
+  "Highlights": {
+    "MarketCapitalization": 36846911488,
+    "MarketCapitalizationMln": 36846.9115,
+    "EBITDA": 7665675776,
+    "PERatio": 11.1784,
+    "PEGRatio": 2.6726,
+    "WallStreetTargetPrice": 69.76,
+    "BookValue": 38.061,
+    "DividendShare": 0.645,
+    "DividendYield": 0.0109,
+    "EarningsShare": 5.27,
+    "EPSEstimateCurrentYear": 4.8173,
+    "EPSEstimateNextYear": 4.7103,
+    "EPSEstimateNextQuarter": 0.6216,
+    "EPSEstimateCurrentQuarter": 2.1594,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.3507,
+    "OperatingMarginTTM": 0.5737,
+    "ReturnOnAssetsTTM": 0.0773,
+    "ReturnOnEquityTTM": 0.134,
+    "RevenueTTM": 9364126720,
+    "RevenuePerShareTTM": 15.143,
+    "QuarterlyRevenueGrowthYOY": 0.499,
+    "GrossProfitTTM": 7581796864,
+    "DilutedEpsTTM": 5.27,
+    "QuarterlyEarningsGrowthYOY": 4.9
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 43.6,
+    "TotalEsgPercentile": 83.24,
+    "EnvironmentScore": 26.44,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 12.36,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 12.8,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EQT",
+    "Type": "Common Stock",
+    "Name": "EQT Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BHZ5J9",
+    "ISIN": "US26884L1098",
+    "LEI": "4NT01YGM4X7ZX86ISY52",
+    "PrimaryTicker": "EQT.US",
+    "CUSIP": "294549100",
+    "CIK": "0000033213",
+    "EmployerIdNumber": "25-0464690",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-11-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Exploration & Production",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities. The company was formerly known as Equitable Resources Inc. and changed its name to EQT Corporation in February 2009. EQT Corporation was founded in 1888 and is headquartered in Pittsburgh, Pennsylvania.",
+    "Address": "625 Liberty Avenue, Pittsburgh, PA, United States, 15222",
+    "AddressData": {
+      "Street": "625 Liberty Avenue",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "15222"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Toby Z. Rice",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1982"
+      },
+      "1": {
+        "Name": "Mr. Jeremy T. Knop",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1989"
+      },
+      "2": {
+        "Name": "Mr. J. E.B. Bolen",
+        "Title": "Executive Vice President of Operations",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. William E. Jordan",
+        "Title": "Chief Legal, Policy Officer & Corporate Secretary",
+        "YearBorn": "1980"
+      },
+      "4": {
+        "Name": "Ms. Sarah  Fenton",
+        "Title": "Executive Vice President of Upstream",
+        "YearBorn": "1980"
+      },
+      "5": {
+        "Name": "Mr. Todd M. James",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1983"
+      },
+      "6": {
+        "Name": "Mr. Richard Anthony Duran",
+        "Title": "Chief Information Officer (sabbatical leave)",
+        "YearBorn": "1979"
+      },
+      "7": {
+        "Name": "Mr. Cameron Jeffrey Horwitz C.F.A.",
+        "Title": "Managing Director of Investor Relations & Strategy",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Lesley  Evancho",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1978"
+      },
+      "9": {
+        "Name": "Ms. Amy  Rogers",
+        "Title": "Head of Strategic Communications",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "412 553 5700",
+    "WebURL": "https://www.eqt.com",
+    "LogoURL": "/img/logos/US/EQT.png",
+    "FullTimeEmployees": 1523,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 625478000,
+    "SharesFloat": 619873717,
+    "PercentInsiders": 0.8210000000000001,
+    "PercentInstitutions": 94.813,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0343
+  }
+}

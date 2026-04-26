@@ -1,0 +1,197 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Westport Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.0544,
+        "totalAssets": 0.6067,
+        "currentShares": 13500,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Huntington National Bank",
+        "date": "2025-12-31",
+        "totalShares": 0,
+        "totalAssets": 0,
+        "currentShares": 2,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Virtue Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0,
+        "totalAssets": 0,
+        "currentShares": 0,
+        "change": -8117,
+        "change_p": -100
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Azzad Ethical",
+        "date": "2025-12-31",
+        "totalShares": 0.0865,
+        "totalAssets": 2.8883,
+        "currentShares": 21461,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "EasyETFs Global Equity Actively Mngd ETF",
+        "date": "2025-12-31",
+        "totalShares": 0.0253,
+        "totalAssets": 4.572,
+        "currentShares": 6270,
+        "change": 6270,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 332.7624,
+    "ForwardPE": 45.2489,
+    "PriceSalesTTM": 10.0107,
+    "PriceBookMRQ": 7.3789,
+    "EnterpriseValue": 65693561638,
+    "EnterpriseValueRevenue": 10.437,
+    "EnterpriseValueEbitda": 60.9303
+  },
+  "Highlights": {
+    "MarketCapitalization": 63010775040,
+    "MarketCapitalizationMln": 63010.775,
+    "EBITDA": 1208201984,
+    "PERatio": 332.7624,
+    "PEGRatio": 0.9206,
+    "WallStreetTargetPrice": 313.5,
+    "BookValue": 45.562,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.01,
+    "EPSEstimateCurrentYear": 5.3704,
+    "EPSEstimateNextYear": 7.5933,
+    "EPSEstimateNextQuarter": 1.3184,
+    "EPSEstimateCurrentQuarter": 1.2061,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0466,
+    "OperatingMarginTTM": 0.1178,
+    "ReturnOnAssetsTTM": 0.029,
+    "ReturnOnEquityTTM": 0.0324,
+    "RevenueTTM": 6294322176,
+    "RevenuePerShareTTM": 39.693,
+    "QuarterlyRevenueGrowthYOY": 0.175,
+    "GrossProfitTTM": 2289859072,
+    "DilutedEpsTTM": 1.01,
+    "QuarterlyEarningsGrowthYOY": 0.73
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "COHR",
+    "Type": "Common Stock",
+    "Name": "Coherent Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLW102",
+    "ISIN": "US19247G1076",
+    "LEI": "549300O5C25A0MMHHU33",
+    "PrimaryTicker": "COHR.US",
+    "CUSIP": "192479103",
+    "CIK": "0000021510",
+    "EmployerIdNumber": "94-1622541",
+    "FiscalYearEnd": "June",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Electronic Equipment, Instruments & Components",
+    "GicSubIndustry": "Electronic Equipment & Instruments",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Coherent Corp. develops, manufactures, and markets engineered materials, optoelectronic components and devices, and laser systems for the use in the industrial, communications, electronics, and instrumentation markets worldwide. It operates through three segments: Networking, Materials, and Lasers. The Networking segment offers transceivers, systems, subsystems, modules, components, optics, and semiconductor devices for datacenter and communications applications. The Materials segment provides engineered materials, laser optics, thermoelectric components, and advanced ceramic and metal-matrix composite materials and products; and vertical-cavity surface-emitting laser, edge-emitting laser, pump lasers, high-power lasers for materials processing, and integrated circuit. The Laser segment offers excimer lasers, solid-state lasers, CO2 lasers, and laser systems for various industrial applications, including semiconductor capital equipment, display manufacturing, precision manufacturing, and scientific research; and laser systems and subsystems. It markets its products and services through direct sales force, representatives, and distributors. The company was formerly known as II-VI Incorporated and changed its name to Coherent Corp. in September 2022. Coherent Corp. was incorporated in 1971 and is headquartered in Saxonburg, Pennsylvania.",
+    "Address": "375 Saxonburg Boulevard, Saxonburg, PA, United States, 16056",
+    "AddressData": {
+      "Street": "375 Saxonburg Boulevard",
+      "City": "Saxonburg",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "16056"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. James Robert Anderson",
+        "Title": "CEO, President & Employee Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Ms. Sherri R. Luther CPA",
+        "Title": "CFO & Treasurer",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Dr. Julie Sheridan Eng",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. Rob  Beard",
+        "Title": "Chief Legal & Global Affairs Officer and Corporate Secretary",
+        "YearBorn": "1978"
+      },
+      "4": {
+        "Name": "Dr. Giovanni  Barbarossa Ph.D.",
+        "Title": "Chief Strategy Officer",
+        "YearBorn": "1960"
+      },
+      "5": {
+        "Name": "Ms. Ilaria  Mocciaro",
+        "Title": "Senior VP, Chief Accounting Officer & Corporate Controller",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Paul Jonas Silverstein J.D.",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Sunny  Sun",
+        "Title": "Executive Vice President of Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Dr. Sanjai  Parthasarathi",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Grace G. Lee",
+        "Title": "Chief People Officer",
+        "YearBorn": "1968"
+      }
+    },
+    "Phone": "724 352 4455",
+    "WebURL": "https://www.coherent.com",
+    "LogoURL": "/img/logos/US/COHR.png",
+    "FullTimeEmployees": 30216,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 187481852,
+    "SharesFloat": 176613529,
+    "PercentInsiders": 0.49500000000000005,
+    "PercentInstitutions": 87.68599999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0609
+  }
+}

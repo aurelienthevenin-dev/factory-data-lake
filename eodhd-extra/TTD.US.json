@@ -1,0 +1,518 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9895,
+        "totalAssets": 0.031,
+        "currentShares": 56362550,
+        "change": -513302,
+        "change_p": -0.9025
+      },
+      "1": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.7333,
+        "totalAssets": 0.0618,
+        "currentShares": 36354274,
+        "change": 26559005,
+        "change_p": 271.1411
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6487,
+        "totalAssets": 0.0309,
+        "currentShares": 35956367,
+        "change": 9297927,
+        "change_p": 34.878
+      },
+      "3": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 4.745,
+        "totalAssets": 0.7036,
+        "currentShares": 22305995,
+        "change": -6809124,
+        "change_p": -23.3869
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8921,
+        "totalAssets": 0.0318,
+        "currentShares": 13595728,
+        "change": -1492651,
+        "change_p": -9.8927
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6909,
+        "totalAssets": 0.0186,
+        "currentShares": 12649702,
+        "change": 4023244,
+        "change_p": 46.6384
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3376,
+        "totalAssets": 0.0326,
+        "currentShares": 10988813,
+        "change": -1646227,
+        "change_p": -13.0291
+      },
+      "7": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4594,
+        "totalAssets": 0.5063,
+        "currentShares": 6860400,
+        "change": 5781600,
+        "change_p": 535.9288
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4482,
+        "totalAssets": 0.0526,
+        "currentShares": 6807971,
+        "change": 3421074,
+        "change_p": 101.0091
+      },
+      "9": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2857,
+        "totalAssets": 0.3236,
+        "currentShares": 6044135,
+        "change": 3820578,
+        "change_p": 171.8228
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.204,
+        "totalAssets": 0.0264,
+        "currentShares": 5659775,
+        "change": 3029727,
+        "change_p": 115.1966
+      },
+      "11": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1956,
+        "totalAssets": 0.0844,
+        "currentShares": 5620341,
+        "change": 338480,
+        "change_p": 6.4083
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.107,
+        "totalAssets": 0.0211,
+        "currentShares": 5204166,
+        "change": 2462640,
+        "change_p": 89.8273
+      },
+      "13": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9699,
+        "totalAssets": 0.0728,
+        "currentShares": 4559592,
+        "change": 4039600,
+        "change_p": 776.8581
+      },
+      "14": {
+        "name": "VOLORIDGE INVESTMENT MANAGEMENT, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8952,
+        "totalAssets": 0.5615,
+        "currentShares": 4208083,
+        "change": 3666189,
+        "change_p": 676.5509
+      },
+      "15": {
+        "name": "BNP Paribas Arbitrage, SA",
+        "date": "2025-12-31",
+        "totalShares": 0.8588,
+        "totalAssets": 0.0694,
+        "currentShares": 4037349,
+        "change": 995889,
+        "change_p": 32.7438
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8283,
+        "totalAssets": 0.0244,
+        "currentShares": 3893963,
+        "change": 993739,
+        "change_p": 34.2642
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7972,
+        "totalAssets": 0.0125,
+        "currentShares": 3747716,
+        "change": -326580,
+        "change_p": -8.0156
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.754,
+        "totalAssets": 0.0272,
+        "currentShares": 3544492,
+        "change": 2034485,
+        "change_p": 134.7335
+      },
+      "19": {
+        "name": "Renaissance Technologies Corp",
+        "date": "2025-12-31",
+        "totalShares": 0.7279,
+        "totalAssets": 0.2015,
+        "currentShares": 3422016,
+        "change": 2294416,
+        "change_p": 203.4778
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 3.0946,
+        "totalAssets": 1.3665,
+        "currentShares": 14547529,
+        "change": -16770,
+        "change_p": -0.1151
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.9811,
+        "totalAssets": 0.0159,
+        "currentShares": 14014019,
+        "change": 92596,
+        "change_p": 0.6651
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3853,
+        "totalAssets": 0.0179,
+        "currentShares": 11213040,
+        "change": -107428,
+        "change_p": -0.949
+      },
+      "3": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3539,
+        "totalAssets": 0.1693,
+        "currentShares": 6364461,
+        "change": 18733,
+        "change_p": 0.2952
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2053,
+        "totalAssets": 0.0179,
+        "currentShares": 5666164,
+        "change": -3084,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.192,
+        "totalAssets": 0.0178,
+        "currentShares": 5603630,
+        "change": 9257,
+        "change_p": 0.1655
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0896,
+        "totalAssets": 0.0179,
+        "currentShares": 5121971,
+        "change": -12544,
+        "change_p": -0.2443
+      },
+      "7": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.0816,
+        "totalAssets": 0.0694,
+        "currentShares": 5084461,
+        "change": 5084461,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0108,
+        "totalAssets": 0.0543,
+        "currentShares": 4751876,
+        "change": -4817341,
+        "change_p": -50.3421
+      },
+      "9": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.8935,
+        "totalAssets": 0.03,
+        "currentShares": 4200276,
+        "change": -2174678,
+        "change_p": -34.1128
+      },
+      "10": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6257,
+        "totalAssets": 0.3584,
+        "currentShares": 2941582,
+        "change": -5060,
+        "change_p": -0.1717
+      },
+      "11": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6056,
+        "totalAssets": 0.1638,
+        "currentShares": 2846772,
+        "change": 2846772,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Federated Hermes MDT Mid Cap Growth A",
+        "date": "2025-12-31",
+        "totalShares": 0.5295,
+        "totalAssets": 1.6893,
+        "currentShares": 2488946,
+        "change": 2488946,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Federated Hermes MDT MCG Institutional",
+        "date": "2025-12-31",
+        "totalShares": 0.5295,
+        "totalAssets": 1.6945,
+        "currentShares": 2488946,
+        "change": 2488946,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5278,
+        "totalAssets": 0.0178,
+        "currentShares": 2481208,
+        "change": -14447,
+        "change_p": -0.5789
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5,
+        "totalAssets": 0.0177,
+        "currentShares": 2350448,
+        "change": 3200,
+        "change_p": 0.1363
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.423,
+        "totalAssets": 0.0178,
+        "currentShares": 1988737,
+        "change": 11383,
+        "change_p": 0.5757
+      },
+      "17": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3763,
+        "totalAssets": 0.0359,
+        "currentShares": 1769125,
+        "change": 1685,
+        "change_p": 0.0953
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3716,
+        "totalAssets": 0.0286,
+        "currentShares": 1746756,
+        "change": -41545,
+        "change_p": -2.3232
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3716,
+        "totalAssets": 0.0286,
+        "currentShares": 1746756,
+        "change": -41545,
+        "change_p": -2.3232
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 26.6333,
+    "ForwardPE": 19.1939,
+    "PriceSalesTTM": 3.9392,
+    "PriceBookMRQ": 4.5356,
+    "EnterpriseValue": 10401516522,
+    "EnterpriseValueRevenue": 3.5913,
+    "EnterpriseValueEbitda": 14.7517
+  },
+  "Highlights": {
+    "MarketCapitalization": 11409169408,
+    "MarketCapitalizationMln": 11409.1694,
+    "EBITDA": 690105024,
+    "PERatio": 26.6333,
+    "PEGRatio": 0.9193,
+    "WallStreetTargetPrice": 30.6061,
+    "BookValue": 5.22,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.9,
+    "EPSEstimateCurrentYear": 2.0599,
+    "EPSEstimateNextYear": 2.379,
+    "EPSEstimateNextQuarter": 0.3567,
+    "EPSEstimateCurrentQuarter": 0.5803,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1531,
+    "OperatingMarginTTM": 0.3034,
+    "ReturnOnAssetsTTM": 0.0601,
+    "ReturnOnEquityTTM": 0.1632,
+    "RevenueTTM": 2896283904,
+    "RevenuePerShareTTM": 5.932,
+    "QuarterlyRevenueGrowthYOY": 0.143,
+    "GrossProfitTTM": 2277217024,
+    "DilutedEpsTTM": 0.9,
+    "QuarterlyEarningsGrowthYOY": 0.075
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "TTD",
+    "Type": "Common Stock",
+    "Name": "Trade Desk Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00629NGT2",
+    "ISIN": "US88339J1051",
+    "LEI": "549300GXPD31VT3E0P46",
+    "PrimaryTicker": "TTD.US",
+    "CUSIP": "88339J105",
+    "CIK": "0001671933",
+    "EmployerIdNumber": "27-1887399",
+    "FiscalYearEnd": "December",
+    "IPODate": "2016-09-21",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Advertising Agencies",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Trade Desk, Inc. operates as a technology company in the United States and internationally. The company creates, manages, and optimizes digital advertising campaigns across ad formats, channels and devices, including CTV and other video, display, audio, and native, on a multitude of devices, such televisions, streaming devices, mobile devices, computers and digital-out-of-home devices. It provides data and other value-added services. It serves advertising agencies, advertisers, and other service providers for agencies or advertisers. The Trade Desk, Inc. was incorporated in 2009 and is headquartered in Ventura, California.",
+    "Address": "42 North Chestnut Street, Ventura, CA, United States, 93001",
+    "AddressData": {
+      "Street": "42 North Chestnut Street",
+      "City": "Ventura",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "93001"
+    },
+    "Listings": {
+      "0": {
+        "Code": "TT8",
+        "Exchange": "F",
+        "Name": "The Trade Desk Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jeffrey Terry Green",
+        "Title": "Founder, CEO, President & Chairman",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Mr. Vivek  Kundra",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Jay R. Grant",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Ms. Samantha  Jacobson",
+        "Title": "Executive VP, Chief Strategy Officer & Director",
+        "YearBorn": "1985"
+      },
+      "4": {
+        "Name": "Ms. Tahnil  Davis",
+        "Title": "Chief Accounting Officer, Executive VP & Interim CFO",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Chris  Toth",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Anna  Sayre",
+        "Title": "Interim Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Terry  Kane",
+        "Title": "Managing Director of Middle East & Africa",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Will  Platt-Higgins",
+        "Title": "Executive Vice President of Business Development for North America",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Anders  Mortensen",
+        "Title": "Chief Revenue Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "805 585 3434",
+    "WebURL": "https://www.thetradedesk.com",
+    "LogoURL": "/img/logos/US/TTD.png",
+    "FullTimeEmployees": 3843,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 426989140,
+    "SharesFloat": 422520065,
+    "PercentInsiders": 2.262,
+    "PercentInstitutions": 84.188,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1984
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.2257,
+        "totalAssets": 0.013,
+        "currentShares": 6586771,
+        "change": -44409,
+        "change_p": -0.6697
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.1444,
+        "totalAssets": 0.0106,
+        "currentShares": 3605295,
+        "change": -134255,
+        "change_p": -3.5901
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.7037,
+        "totalAssets": 0.0126,
+        "currentShares": 2173197,
+        "change": -16730,
+        "change_p": -0.764
+      },
+      "3": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.7567,
+        "totalAssets": 0.0427,
+        "currentShares": 1617541,
+        "change": -374906,
+        "change_p": -18.8164
+      },
+      "4": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.7513,
+        "totalAssets": 0.228,
+        "currentShares": 1614367,
+        "change": -332965,
+        "change_p": -17.0985
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5409,
+        "totalAssets": 0.0125,
+        "currentShares": 1490876,
+        "change": 6332,
+        "change_p": 0.4265
+      },
+      "6": {
+        "name": "Ariel Investments, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4268,
+        "totalAssets": 2.0973,
+        "currentShares": 1423948,
+        "change": -43283,
+        "change_p": -2.95
+      },
+      "7": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.2944,
+        "totalAssets": 0.1036,
+        "currentShares": 1346240,
+        "change": -791899,
+        "change_p": -37.0368
+      },
+      "8": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 2.2694,
+        "totalAssets": 0.0995,
+        "currentShares": 1331589,
+        "change": 1194382,
+        "change_p": 870.4964
+      },
+      "9": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.7922,
+        "totalAssets": 0.0301,
+        "currentShares": 1051576,
+        "change": 98360,
+        "change_p": 10.3188
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7701,
+        "totalAssets": 0.0105,
+        "currentShares": 1038606,
+        "change": 16216,
+        "change_p": 1.5861
+      },
+      "11": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.635,
+        "totalAssets": 0.0422,
+        "currentShares": 959337,
+        "change": 536732,
+        "change_p": 127.0056
+      },
+      "12": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.6218,
+        "totalAssets": 0.076,
+        "currentShares": 951630,
+        "change": -152732,
+        "change_p": -13.8299
+      },
+      "13": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.49,
+        "totalAssets": 0.1663,
+        "currentShares": 874270,
+        "change": -186405,
+        "change_p": -17.5742
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.3091,
+        "totalAssets": 0.0201,
+        "currentShares": 768111,
+        "change": -329895,
+        "change_p": -30.0449
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1935,
+        "totalAssets": 0.008,
+        "currentShares": 700270,
+        "change": 108481,
+        "change_p": 18.331
+      },
+      "16": {
+        "name": "Burgundy Asset Management Ltd",
+        "date": "2025-09-30",
+        "totalShares": 1.105,
+        "totalAssets": 1.1331,
+        "currentShares": 648364,
+        "change": -3315,
+        "change_p": -0.5087
+      },
+      "17": {
+        "name": "Disciplined Growth Investors Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0699,
+        "totalAssets": 1.6386,
+        "currentShares": 627776,
+        "change": 9562,
+        "change_p": 1.5467
+      },
+      "18": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.0589,
+        "totalAssets": 0.017,
+        "currentShares": 621307,
+        "change": -569767,
+        "change_p": -47.8364
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0383,
+        "totalAssets": 0.0129,
+        "currentShares": 609252,
+        "change": 10999,
+        "change_p": 1.8385
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1864,
+        "totalAssets": 0.0183,
+        "currentShares": 1869667,
+        "change": 9504,
+        "change_p": 0.5109
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5454,
+        "totalAssets": 0.0205,
+        "currentShares": 1493544,
+        "change": -16036,
+        "change_p": -1.0623
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3089,
+        "totalAssets": 0.1593,
+        "currentShares": 1354785,
+        "change": 22001,
+        "change_p": 1.6508
+      },
+      "3": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.9996,
+        "totalAssets": 1.0508,
+        "currentShares": 1173253,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3914,
+        "totalAssets": 0.187,
+        "currentShares": 816442,
+        "change": 2358,
+        "change_p": 0.2897
+      },
+      "5": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2924,
+        "totalAssets": 0.3757,
+        "currentShares": 758348,
+        "change": 18315,
+        "change_p": 2.4749
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2848,
+        "totalAssets": 0.0205,
+        "currentShares": 753846,
+        "change": -408,
+        "change_p": -0.0541
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2728,
+        "totalAssets": 0.0225,
+        "currentShares": 746830,
+        "change": 1232,
+        "change_p": 0.1652
+      },
+      "8": {
+        "name": "Invesco Small Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.2221,
+        "totalAssets": 1.5864,
+        "currentShares": 717075,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1484,
+        "totalAssets": 0.0202,
+        "currentShares": 673817,
+        "change": -1666,
+        "change_p": -0.2466
+      },
+      "10": {
+        "name": "Invesco Value Opportunities A",
+        "date": "2026-02-28",
+        "totalShares": 0.9346,
+        "totalAssets": 1.672,
+        "currentShares": 548373,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Nomura US Mid Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.682,
+        "totalAssets": 1.4905,
+        "currentShares": 400157,
+        "change": -83765,
+        "change_p": -17.3096
+      },
+      "12": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6719,
+        "totalAssets": 0.324,
+        "currentShares": 394228,
+        "change": 394228,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Ariel Fund Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.6531,
+        "totalAssets": 2.9239,
+        "currentShares": 383186,
+        "change": 6718,
+        "change_p": 1.7845
+      },
+      "14": {
+        "name": "Robeco Smart Energy F-EUR Cap",
+        "date": "2026-02-28",
+        "totalShares": 0.623,
+        "totalAssets": 1.7596,
+        "currentShares": 365551,
+        "change": 365551,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5642,
+        "totalAssets": 0.0205,
+        "currentShares": 331029,
+        "change": -1742,
+        "change_p": -0.5235
+      },
+      "16": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5558,
+        "totalAssets": 0.2267,
+        "currentShares": 326103,
+        "change": -2256,
+        "change_p": -0.6871
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0203,
+        "currentShares": 313212,
+        "change": 400,
+        "change_p": 0.1279
+      },
+      "18": {
+        "name": "Nomura Mid Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.5081,
+        "totalAssets": 1.9549,
+        "currentShares": 298141,
+        "change": -47671,
+        "change_p": -13.7852
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.0204,
+        "currentShares": 264972,
+        "change": 1410,
+        "change_p": 0.535
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 81.8259,
+    "ForwardPE": 26.3158,
+    "PriceSalesTTM": 3.0798,
+    "PriceBookMRQ": 4.9245,
+    "EnterpriseValue": 14120100459,
+    "EnterpriseValueRevenue": 3.3546,
+    "EnterpriseValueEbitda": 30.3925
+  },
+  "Highlights": {
+    "MarketCapitalization": 12963250176,
+    "MarketCapitalizationMln": 12963.2502,
+    "EBITDA": 484025984,
+    "PERatio": 81.8259,
+    "PEGRatio": 1.0692,
+    "WallStreetTargetPrice": 247.4,
+    "BookValue": 44.863,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.7,
+    "EPSEstimateCurrentYear": 8.4432,
+    "EPSEstimateNextYear": 10.4275,
+    "EPSEstimateNextQuarter": 1.3234,
+    "EPSEstimateCurrentQuarter": 1.7696,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0379,
+    "OperatingMarginTTM": -0.0085,
+    "ReturnOnAssetsTTM": 0.0338,
+    "ReturnOnEquityTTM": 0.0628,
+    "RevenueTTM": 4209146880,
+    "RevenuePerShareTTM": 71.922,
+    "QuarterlyRevenueGrowthYOY": -0.116,
+    "GrossProfitTTM": 1611736960,
+    "DilutedEpsTTM": 2.7,
+    "QuarterlyEarningsGrowthYOY": -0.407
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "GNRC",
+    "Type": "Common Stock",
+    "Name": "Generac Holdings Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000PQ4W72",
+    "ISIN": "US3687361044",
+    "LEI": "529900S2H2AHJHSFFI84",
+    "PrimaryTicker": "GNRC.US",
+    "CUSIP": "368736104",
+    "CIK": "0001474735",
+    "EmployerIdNumber": "20-5654756",
+    "FiscalYearEnd": "December",
+    "IPODate": "2010-02-11",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Electrical Equipment",
+    "GicSubIndustry": "Electrical Components & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Generac Holdings Inc. designs, manufactures, and distributes energy technology products and solutions worldwide. The company offers residential automatic standby generators, automatic transfer switch, air-cooled engine home standby generators, and liquid-cooled engine generators; Mobile Link, a remote monitoring system for home standby generators; propane tank monitoring solution; and smart home solutions, such as smart thermostats and a suite of home monitoring products. It also provides smart home energy management devices and sensors for heating and cooling system; smart doorbell cameras; and portable and inverter generators; multiple portable battery solutions; manual transfer switches; outdoor power equipment, including trimmers, field and brush mowers, log splitters, stump grinders, chipper shredders, lawn and leaf vacuums, and pressure washers and water pumps; and home energy storage systems. In addition, the company offers commercial and industrial products comprising cleaner-burning natural gas fueled generators; mega-watt diesel generators; light-commercial standby generators and related transfer switches; stationary generators; single-engine industrial generators; industrial standby generators; industrial transfer switches; light towers, mobile generators, commercial mobile pumps, heaters, and dust-suppression equipment; mobile energy storage systems; battery energy storage system and related inverter products; and aftermarket service parts and product accessories. Further, it provides microgrid; and software-as-a-service contracts. The company distributes its products through independent residential dealers and contractors, industrial distributors and dealers, national and regional retailers, e-commerce partners, electrical/HVAC/solar wholesalers, solar installers, catalogs, equipment rental companies, and other equipment distributors; and directly to end users. Generac Holdings Inc. was founded in 1959 and is based in Waukesha, Wisconsin.",
+    "Address": "S45 W29290 Highway 59, Waukesha, WI, United States, 53189",
+    "AddressData": {
+      "Street": "S45 W29290 Highway 59",
+      "City": "Waukesha",
+      "State": "WI",
+      "Country": "United States",
+      "ZIP": "53189"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Aaron P. Jagdfeld",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. York A. Ragen",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Erik  Wilde",
+        "Title": "President of Domestic C&I",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Mr. Kyle Andrew Raabe",
+        "Title": "Executive VP & President of Home Power Generation",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Norman P. Taffe",
+        "Title": "Executive VP & President of Generac Home",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Kris  Rosemann",
+        "Title": "Director of Corporate Finance & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Talal  Butt",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Rajendra Kumar Kanuru J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Ms. Amanda  Teder",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Rhonda  Matschke",
+        "Title": "Executive Vice President of Human Resources",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "262 544 4811",
+    "WebURL": "https://www.generac.com",
+    "LogoURL": "/img/logos/US/GNRC.png",
+    "FullTimeEmployees": 9400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 58675827,
+    "SharesFloat": 57631397,
+    "PercentInsiders": 1.7260000000000002,
+    "PercentInstitutions": 97.853,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0633
+  }
+}

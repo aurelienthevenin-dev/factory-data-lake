@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.2966,
+        "totalAssets": 0.1183,
+        "currentShares": 283180433,
+        "change": 1966278,
+        "change_p": 0.6992
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3629,
+        "totalAssets": 0.0631,
+        "currentShares": 184571751,
+        "change": 10531463,
+        "change_p": 6.0512
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.3161,
+        "totalAssets": 0.1072,
+        "currentShares": 158329431,
+        "change": -2389393,
+        "change_p": -1.4867
+      },
+      "3": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 3.1457,
+        "totalAssets": 2.8723,
+        "currentShares": 78854809,
+        "change": -17105784,
+        "change_p": -17.8258
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6567,
+        "totalAssets": 0.118,
+        "currentShares": 66597575,
+        "change": 1028346,
+        "change_p": 1.5683
+      },
+      "5": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0481,
+        "totalAssets": 0.1815,
+        "currentShares": 51340535,
+        "change": 35869659,
+        "change_p": 231.8528
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.8486,
+        "totalAssets": 0.0271,
+        "currentShares": 46340546,
+        "change": 28664924,
+        "change_p": 162.1721
+      },
+      "7": {
+        "name": "Pentwater Capital Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.838,
+        "totalAssets": 6.9809,
+        "currentShares": 46075000,
+        "change": 19015000,
+        "change_p": 70.2698
+      },
+      "8": {
+        "name": "Sessa Capital, L.P",
+        "date": "2025-12-31",
+        "totalShares": 1.8177,
+        "totalAssets": 24.5478,
+        "currentShares": 45565629,
+        "change": -5058519,
+        "change_p": -9.9923
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5555,
+        "totalAssets": 0.1202,
+        "currentShares": 38994003,
+        "change": 12218460,
+        "change_p": 45.6329
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4249,
+        "totalAssets": 0.1099,
+        "currentShares": 35719966,
+        "change": -8854526,
+        "change_p": -19.8646
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.193,
+        "totalAssets": 0.0439,
+        "currentShares": 29905550,
+        "change": -11312839,
+        "change_p": -27.4461
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0455,
+        "totalAssets": 0.031,
+        "currentShares": 26207929,
+        "change": 451683,
+        "change_p": 1.7537
+      },
+      "13": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0217,
+        "totalAssets": 0.3104,
+        "currentShares": 25610999,
+        "change": 20675274,
+        "change_p": 418.8903
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9772,
+        "totalAssets": 0.075,
+        "currentShares": 24497118,
+        "change": -2664214,
+        "change_p": -9.8088
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9373,
+        "totalAssets": 0.0587,
+        "currentShares": 23496725,
+        "change": 876869,
+        "change_p": 3.8765
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.776,
+        "totalAssets": 0.0871,
+        "currentShares": 19452808,
+        "change": 358353,
+        "change_p": 1.8767
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7197,
+        "totalAssets": 0.1091,
+        "currentShares": 18041885,
+        "change": -778973,
+        "change_p": -4.1389
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6945,
+        "totalAssets": 0.0738,
+        "currentShares": 17410291,
+        "change": -1000563,
+        "change_p": -5.4346
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6108,
+        "totalAssets": 0.0203,
+        "currentShares": 15312230,
+        "change": -2490010,
+        "change_p": -13.9871
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.985,
+        "totalAssets": 0.1029,
+        "currentShares": 74827674,
+        "change": 374230,
+        "change_p": 0.5026
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5176,
+        "totalAssets": 0.1218,
+        "currentShares": 63109834,
+        "change": -624985,
+        "change_p": -0.9806
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0763,
+        "totalAssets": 0.3852,
+        "currentShares": 52047898,
+        "change": -174107,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0302,
+        "totalAssets": 0.7033,
+        "currentShares": 50893010,
+        "change": -272129,
+        "change_p": -0.5319
+      },
+      "4": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.635,
+        "totalAssets": 4.6592,
+        "currentShares": 40986142,
+        "change": -47240,
+        "change_p": -0.1151
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2709,
+        "totalAssets": 0.1215,
+        "currentShares": 31857644,
+        "change": -17340,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.258,
+        "totalAssets": 0.1186,
+        "currentShares": 31535339,
+        "change": 51988,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1488,
+        "totalAssets": 0.1216,
+        "currentShares": 28797050,
+        "change": -70564,
+        "change_p": -0.2444
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8686,
+        "totalAssets": 0.2649,
+        "currentShares": 21773913,
+        "change": -142250,
+        "change_p": -0.6491
+      },
+      "9": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.775,
+        "totalAssets": 2.179,
+        "currentShares": 19426500,
+        "change": -12107000,
+        "change_p": -38.3941
+      },
+      "10": {
+        "name": "Oakmark Select Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.701,
+        "totalAssets": 6.1986,
+        "currentShares": 17572000,
+        "change": -4865000,
+        "change_p": -21.6829
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6113,
+        "totalAssets": 1.2113,
+        "currentShares": 15324847,
+        "change": 632161,
+        "change_p": 4.3026
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.557,
+        "totalAssets": 0.1215,
+        "currentShares": 13963102,
+        "change": -69290,
+        "change_p": -0.4938
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5278,
+        "totalAssets": 0.1202,
+        "currentShares": 13230036,
+        "change": 20700,
+        "change_p": 0.1567
+      },
+      "14": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4748,
+        "totalAssets": 0.5406,
+        "currentShares": 11902100,
+        "change": 1633952,
+        "change_p": 15.9128
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4466,
+        "totalAssets": 0.1213,
+        "currentShares": 11194010,
+        "change": 66170,
+        "change_p": 0.5946
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3931,
+        "totalAssets": 0.1225,
+        "currentShares": 9854501,
+        "change": -131169,
+        "change_p": -1.3136
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3931,
+        "totalAssets": 0.1225,
+        "currentShares": 9854501,
+        "change": 9854501,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3931,
+        "totalAssets": 0.1225,
+        "currentShares": 9854501,
+        "change": -131169,
+        "change_p": -1.3136
+      },
+      "19": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3847,
+        "totalAssets": 0.3841,
+        "currentShares": 9644266,
+        "change": 41292,
+        "change_p": 0.43
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 93.3448,
+    "ForwardPE": 2500,
+    "PriceSalesTTM": 1.8195,
+    "PriceBookMRQ": 1.8773,
+    "EnterpriseValue": 95859220290,
+    "EnterpriseValueRevenue": 2.5588,
+    "EnterpriseValueEbitda": 4.4882
+  },
+  "Highlights": {
+    "MarketCapitalization": 67858219008,
+    "MarketCapitalizationMln": 67858.219,
+    "EBITDA": 7361999872,
+    "PERatio": 93.3448,
+    "PEGRatio": 216.9231,
+    "WallStreetTargetPrice": 29.5962,
+    "BookValue": 14.483,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.29,
+    "EPSEstimateCurrentYear": -0.0825,
+    "EPSEstimateNextYear": -0.0006,
+    "EPSEstimateNextQuarter": -0.1071,
+    "EPSEstimateCurrentQuarter": -0.0035,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0195,
+    "OperatingMarginTTM": 0.0738,
+    "ReturnOnAssetsTTM": 0.0102,
+    "ReturnOnEquityTTM": 0.0208,
+    "RevenueTTM": 37296001024,
+    "RevenuePerShareTTM": 15.069,
+    "QuarterlyRevenueGrowthYOY": -0.057,
+    "GrossProfitTTM": 16613999616,
+    "DilutedEpsTTM": 0.29,
+    "QuarterlyEarningsGrowthYOY": 2.267
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "WBD",
+    "Type": "Common Stock",
+    "Name": "Warner Bros Discovery Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG011386VF4",
+    "ISIN": "US9344231041",
+    "LEI": "5493006ZCRFWKF6B1K26",
+    "PrimaryTicker": "WBD.US",
+    "CUSIP": "934423104",
+    "CIK": "0001437107",
+    "EmployerIdNumber": "35-2333914",
+    "FiscalYearEnd": "December",
+    "IPODate": "2005-07-08",
+    "InternationalDomestic": null,
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Entertainment",
+    "GicSubIndustry": "Interactive Home Entertainment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Warner Bros. Discovery, Inc. operates as a media and entertainment company worldwide. It operates through three segments: Streaming, Studios, and Global Linear Networks. The Streaming segment offers streaming services, such as HBO Max and discovery+, and premium pay-TV services, including HBO and certain premium sports streaming products for mobile and connected TV devices. The Studios segment is involved in the production and release of feature films for initial exhibition in theaters, production and initial licensing of television programs to third parties and its networks/streaming services. This segment also distributes films and television programs to various third-party and internal television, streaming services, and physical and digital home entertainment markets; related consumer products and themed experience licensing; and publishes, develops, licenses, and distributes content for the interactive space in platforms, including console, handheld, mobile, and PC-based gaming for both internal and third-party game titles. The Global Linear Networks segment provides general and lifestyle entertainment networks, news networks; and hosts international media networks and global sports networks. In addition, the company offers a portfolio of content and products for television, film, streaming, interactive gaming, publishing, themed experiences, and consumer products under the Discovery Channel, HBO Max, CNN, DC Studios, TNT Sports, HBO, Food Network, TLC, TBS, Warner Bros. Motion Picture Group, Warner Bros. Television Group, Warner Bros. Games, Adult Swim, Turner Classic Movies, and other brands. Warner Bros. Discovery, Inc. was incorporated in 2008 and is headquartered in New York, New York.",
+    "Address": "230 Park Avenue South, New York, NY, United States, 10003",
+    "AddressData": {
+      "Street": "230 Park Avenue South",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10003"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. David M. Zaslav",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Dr. Gunnar  Wiedenfels Ph.D.",
+        "Title": "Senior EVP & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Bruce L. Campbell",
+        "Title": "COO and Chief Revenue & Strategy Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. Jean-Briac  Perrette",
+        "Title": "President and CEO of Global Streaming & Games",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Gerhard  Zeiler",
+        "Title": "President of International",
+        "YearBorn": "1955"
+      },
+      "5": {
+        "Name": "Ms. Lori C. Locke",
+        "Title": "Chief Accounting Officer & Executive VP",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Mr. Avi  Saxena",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Dave  Duvall",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Peter  Lee",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Priya R. Aiyar J.D.",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "212 548 5555",
+    "WebURL": "https://www.wbd.com",
+    "LogoURL": "/img/logos/US/WBD.png",
+    "FullTimeEmployees": 35500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2506768389,
+    "SharesFloat": 2353180317,
+    "PercentInsiders": 4.211,
+    "PercentInstitutions": 73.509,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0268
+  }
+}

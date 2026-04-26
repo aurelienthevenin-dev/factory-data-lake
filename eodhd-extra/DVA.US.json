@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 48.1093,
+        "totalAssets": 1.5984,
+        "currentShares": 32160579,
+        "change": -1635962,
+        "change_p": -4.8406
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.2145,
+        "totalAssets": 0.0068,
+        "currentShares": 4154354,
+        "change": -73550,
+        "change_p": -1.7396
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.3494,
+        "totalAssets": 0.0083,
+        "currentShares": 3576012,
+        "change": -537342,
+        "change_p": -13.0634
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.7447,
+        "totalAssets": 0.0085,
+        "currentShares": 1834829,
+        "change": -258505,
+        "change_p": -12.349
+      },
+      "4": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.512,
+        "totalAssets": 0.0352,
+        "currentShares": 1679248,
+        "change": 32358,
+        "change_p": 1.9648
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1031,
+        "totalAssets": 0.0113,
+        "currentShares": 1405889,
+        "change": -143760,
+        "change_p": -9.2769
+      },
+      "6": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.7801,
+        "totalAssets": 0.0792,
+        "currentShares": 1190000,
+        "change": 636191,
+        "change_p": 114.8755
+      },
+      "7": {
+        "name": "Gates Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7584,
+        "totalAssets": 3.5162,
+        "currentShares": 1175485,
+        "change": -14898,
+        "change_p": -1.2515
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6292,
+        "totalAssets": 0.026,
+        "currentShares": 1089100,
+        "change": 3507,
+        "change_p": 0.323
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4642,
+        "totalAssets": 0.0069,
+        "currentShares": 978790,
+        "change": -44584,
+        "change_p": -4.3566
+      },
+      "10": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.4013,
+        "totalAssets": 0.2321,
+        "currentShares": 936768,
+        "change": 9739,
+        "change_p": 1.0506
+      },
+      "11": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2751,
+        "totalAssets": 0.0407,
+        "currentShares": 852380,
+        "change": 394444,
+        "change_p": 86.1352
+      },
+      "12": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0004,
+        "totalAssets": 0.0027,
+        "currentShares": 668726,
+        "change": 185108,
+        "change_p": 38.2757
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9503,
+        "totalAssets": 0.0108,
+        "currentShares": 635273,
+        "change": -81905,
+        "change_p": -11.4205
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.79,
+        "totalAssets": 0.011,
+        "currentShares": 528120,
+        "change": -38063,
+        "change_p": -6.7227
+      },
+      "15": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 0.7559,
+        "totalAssets": 0.0315,
+        "currentShares": 505332,
+        "change": 429555,
+        "change_p": 566.8673
+      },
+      "16": {
+        "name": "Squarepoint Ops LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.736,
+        "totalAssets": 0.0595,
+        "currentShares": 492028,
+        "change": 148105,
+        "change_p": 43.0634
+      },
+      "17": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.694,
+        "totalAssets": 0.0101,
+        "currentShares": 463948,
+        "change": -454036,
+        "change_p": -49.4601
+      },
+      "18": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6605,
+        "totalAssets": 0.0374,
+        "currentShares": 441556,
+        "change": -21694,
+        "change_p": -4.683
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.6474,
+        "totalAssets": 0.0053,
+        "currentShares": 432748,
+        "change": 201183,
+        "change_p": 86.8797
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6776,
+        "totalAssets": 0.2021,
+        "currentShares": 1121443,
+        "change": 3275,
+        "change_p": 0.2929
+      },
+      "1": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-06-30",
+        "totalShares": 1.6125,
+        "totalAssets": 0.0332,
+        "currentShares": 1077914,
+        "change": 1077914,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.5946,
+        "totalAssets": 0.0082,
+        "currentShares": 1065996,
+        "change": -57957,
+        "change_p": -5.1565
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.272,
+        "totalAssets": 0.0092,
+        "currentShares": 850321,
+        "change": -54814,
+        "change_p": -6.0559
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1537,
+        "totalAssets": 0.0713,
+        "currentShares": 771251,
+        "change": -30693,
+        "change_p": -3.8273
+      },
+      "5": {
+        "name": "BlackRock Systematic Multi-Strat Instl",
+        "date": "2026-01-31",
+        "totalShares": 0.8844,
+        "totalAssets": 0.7881,
+        "currentShares": 591224,
+        "change": 120511,
+        "change_p": 25.6018
+      },
+      "6": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7341,
+        "totalAssets": 0.1242,
+        "currentShares": 490723,
+        "change": -24126,
+        "change_p": -4.686
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.672,
+        "totalAssets": 0.0094,
+        "currentShares": 449232,
+        "change": 737,
+        "change_p": 0.1643
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6413,
+        "totalAssets": 0.0092,
+        "currentShares": 428735,
+        "change": -228,
+        "change_p": -0.0532
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5662,
+        "totalAssets": 0.009,
+        "currentShares": 378511,
+        "change": -931,
+        "change_p": -0.2454
+      },
+      "10": {
+        "name": "Neuberger Quality Equity Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.463,
+        "totalAssets": 1.7571,
+        "currentShares": 309544,
+        "change": 22944,
+        "change_p": 8.0056
+      },
+      "11": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3652,
+        "totalAssets": 0.0966,
+        "currentShares": 244124,
+        "change": 736,
+        "change_p": 0.3024
+      },
+      "12": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3518,
+        "totalAssets": 0.1941,
+        "currentShares": 235162,
+        "change": -405,
+        "change_p": -0.1719
+      },
+      "13": {
+        "name": "Xtrackers S&P 500 EW ETF 1C",
+        "date": "2026-02-28",
+        "totalShares": 0.3241,
+        "totalAssets": 0.2487,
+        "currentShares": 216650,
+        "change": 33461,
+        "change_p": 18.2658
+      },
+      "14": {
+        "name": "VistaShares Trgt 15 Berkshire Sel IncETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3192,
+        "totalAssets": 4.7576,
+        "currentShares": 213360,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2823,
+        "totalAssets": 0.0092,
+        "currentShares": 188713,
+        "change": -10188,
+        "change_p": -5.1221
+      },
+      "16": {
+        "name": "WEDGE QVM Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.2804,
+        "totalAssets": 0.6422,
+        "currentShares": 187433,
+        "change": -48226,
+        "change_p": -20.4643
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.2668,
+        "totalAssets": 0.0091,
+        "currentShares": 178330,
+        "change": -9800,
+        "change_p": -5.2092
+      },
+      "18": {
+        "name": "DFA US Core Equity 2 I",
+        "date": "2026-02-28",
+        "totalShares": 0.2332,
+        "totalAssets": 0.0654,
+        "currentShares": 155909,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Nordea World Fund A Acc EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.2307,
+        "totalAssets": 0.7463,
+        "currentShares": 154201,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.9674,
+    "ForwardPE": 11.1982,
+    "PriceSalesTTM": 0.734,
+    "PriceBookMRQ": 21.6266,
+    "EnterpriseValue": 22396941340,
+    "EnterpriseValueRevenue": 1.6416,
+    "EnterpriseValueEbitda": 8.477
+  },
+  "Highlights": {
+    "MarketCapitalization": 10013648896,
+    "MarketCapitalizationMln": 10013.6489,
+    "EBITDA": 2751162880,
+    "PERatio": 15.9674,
+    "PEGRatio": 0.5762,
+    "WallStreetTargetPrice": 151.7143,
+    "BookValue": -9.498,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 9.51,
+    "EPSEstimateCurrentYear": 14.1215,
+    "EPSEstimateNextYear": 16.3986,
+    "EPSEstimateNextQuarter": 2.4586,
+    "EPSEstimateCurrentQuarter": 3.1922,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0547,
+    "OperatingMarginTTM": 0.1523,
+    "ReturnOnAssetsTTM": 0.0732,
+    "ReturnOnEquityTTM": 0.6485,
+    "RevenueTTM": 13643069440,
+    "RevenuePerShareTTM": 183.802,
+    "QuarterlyRevenueGrowthYOY": 0.099,
+    "GrossProfitTTM": 4400592896,
+    "DilutedEpsTTM": 9.51,
+    "QuarterlyEarningsGrowthYOY": 0.065
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.07,
+    "TotalEsgPercentile": 24.1,
+    "EnvironmentScore": 2.6,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 10.68,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 7.8,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DVA",
+    "Type": "Common Stock",
+    "Name": "DaVita HealthCare Partners Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000MQ1SN9",
+    "ISIN": "US23918K1088",
+    "LEI": "M2XHYMU3TZNEZURC6H66",
+    "PrimaryTicker": "DVA.US",
+    "CUSIP": "89151A107",
+    "CIK": "0000927066",
+    "EmployerIdNumber": "51-0354549",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-10-31",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Care Facilities",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Health Care Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "DaVita Inc. provides kidney dialysis services for patients suffering from chronic kidney failure in the United States. The company operates kidney dialysis centers and provides related lab services in outpatient dialysis centers. It also offers outpatient, hospital inpatient, and home-based hemodialysis dialysis services; operates clinical laboratories that provide routine laboratory tests for dialysis and other physician-prescribed laboratory tests for ESRD patients; and management and administrative services to outpatient dialysis centers. In addition, the company offers integrated care and disease management services to patients in risk-based and other integrated care arrangements; clinical research programs; physician services; and comprehensive kidney care services. Further, it engages in the transplant software business. The company was formerly known as DaVita HealthCare Partners Inc. and changed its name to DaVita Inc. in September 2016. DaVita Inc. was incorporated in 1994 and is headquartered in Denver, Colorado.",
+    "Address": "2000 16th Street, Denver, CO, United States, 80202",
+    "AddressData": {
+      "Street": "2000 16th Street",
+      "City": "Denver",
+      "State": "CO",
+      "Country": "United States",
+      "ZIP": "80202"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Javier J. Rodriguez",
+        "Title": "CEO & Executive Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Joel  Ackerman",
+        "Title": "CFO & Treasurer",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. David P. Maughan",
+        "Title": "Chief Operating Officer of Kidney Care",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Ms. Kathleen Alyce Waters",
+        "Title": "Chief Legal & Public Affairs Officer",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. James O. Hearty",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Christopher Michael Berry CPA",
+        "Title": "Group VP & Chief Accounting Officer",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Ms. Madhu  Narasimhan",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Nic  Eliason",
+        "Title": "Group Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Stephanie  Hendrickson",
+        "Title": "Chief People Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Misha  Palecek",
+        "Title": "Chief Transformation Officer of U.S. Kidney Care Business",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "720 631 2100",
+    "WebURL": "https://www.davita.com",
+    "LogoURL": "/img/logos/US/DVA.png",
+    "FullTimeEmployees": 78000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 65944342,
+    "SharesFloat": 35218296,
+    "PercentInsiders": 51.2,
+    "PercentInstitutions": 53.61900000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.171
+  }
+}

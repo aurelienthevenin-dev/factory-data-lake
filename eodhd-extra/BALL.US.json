@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8277,
+        "totalAssets": 0.0242,
+        "currentShares": 31479669,
+        "change": -674450,
+        "change_p": -2.0976
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.7265,
+        "totalAssets": 0.0205,
+        "currentShares": 23225888,
+        "change": 181114,
+        "change_p": 0.7859
+      },
+      "2": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 6.7206,
+        "totalAssets": 0.0965,
+        "currentShares": 17886991,
+        "change": 7651413,
+        "change_p": 74.7531
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.8639,
+        "totalAssets": 0.0236,
+        "currentShares": 15606964,
+        "change": 7396904,
+        "change_p": 90.0956
+      },
+      "4": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 4.5624,
+        "totalAssets": 0.2544,
+        "currentShares": 12142936,
+        "change": 5183543,
+        "change_p": 74.4827
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4757,
+        "totalAssets": 0.0208,
+        "currentShares": 11912272,
+        "change": -606027,
+        "change_p": -4.8411
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.2093,
+        "totalAssets": 0.0261,
+        "currentShares": 8541652,
+        "change": -101419,
+        "change_p": -1.1734
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6161,
+        "totalAssets": 0.0227,
+        "currentShares": 6962955,
+        "change": -498,
+        "change_p": -0.0072
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.1261,
+        "totalAssets": 0.0629,
+        "currentShares": 5658732,
+        "change": 1830434,
+        "change_p": 47.8133
+      },
+      "9": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.1208,
+        "totalAssets": 0.071,
+        "currentShares": 5644517,
+        "change": -1285401,
+        "change_p": -18.5486
+      },
+      "10": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0727,
+        "totalAssets": 0.1229,
+        "currentShares": 5516445,
+        "change": 4578020,
+        "change_p": 487.8408
+      },
+      "11": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7806,
+        "totalAssets": 0.2599,
+        "currentShares": 4739044,
+        "change": 922747,
+        "change_p": 24.1791
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7476,
+        "totalAssets": 0.037,
+        "currentShares": 4651348,
+        "change": 602137,
+        "change_p": 14.8705
+      },
+      "13": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5574,
+        "totalAssets": 0.0112,
+        "currentShares": 4145082,
+        "change": -1086023,
+        "change_p": -20.7609
+      },
+      "14": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4625,
+        "totalAssets": 0.0555,
+        "currentShares": 3892436,
+        "change": 2141791,
+        "change_p": 122.343
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2628,
+        "totalAssets": 0.0191,
+        "currentShares": 3360864,
+        "change": -70461,
+        "change_p": -2.0535
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0271,
+        "totalAssets": 0.0176,
+        "currentShares": 2733702,
+        "change": -81231,
+        "change_p": -2.8857
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9853,
+        "totalAssets": 0.0216,
+        "currentShares": 2622319,
+        "change": 5078,
+        "change_p": 0.194
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9656,
+        "totalAssets": 0.0443,
+        "currentShares": 2570056,
+        "change": 948473,
+        "change_p": 58.4906
+      },
+      "19": {
+        "name": "Mirova US LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9453,
+        "totalAssets": 1.338,
+        "currentShares": 2516026,
+        "change": -55215,
+        "change_p": -2.1474
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1714,
+        "totalAssets": 0.025,
+        "currentShares": 8440896,
+        "change": -21418,
+        "change_p": -0.2531
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5638,
+        "totalAssets": 0.0284,
+        "currentShares": 6823758,
+        "change": -66912,
+        "change_p": -0.9711
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3087,
+        "totalAssets": 0.2186,
+        "currentShares": 6144548,
+        "change": 58496,
+        "change_p": 0.9611
+      },
+      "3": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.9589,
+        "totalAssets": 0.7183,
+        "currentShares": 5213572,
+        "change": 53889,
+        "change_p": 1.0444
+      },
+      "4": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.5105,
+        "totalAssets": 0.6894,
+        "currentShares": 4020281,
+        "change": 344722,
+        "change_p": 9.3788
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4688,
+        "totalAssets": 0.3805,
+        "currentShares": 3909307,
+        "change": 743,
+        "change_p": 0.019
+      },
+      "6": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.468,
+        "totalAssets": 0.7243,
+        "currentShares": 3907066,
+        "change": -98300,
+        "change_p": -2.4542
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2942,
+        "totalAssets": 0.0283,
+        "currentShares": 3444429,
+        "change": -1872,
+        "change_p": -0.0543
+      },
+      "8": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.2887,
+        "totalAssets": 0.9151,
+        "currentShares": 3429940,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2814,
+        "totalAssets": 0.0306,
+        "currentShares": 3410474,
+        "change": 5621,
+        "change_p": 0.1651
+      },
+      "10": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.2608,
+        "totalAssets": 0.4181,
+        "currentShares": 3355641,
+        "change": 69479,
+        "change_p": 2.1143
+      },
+      "11": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.194,
+        "totalAssets": 0.4058,
+        "currentShares": 3177756,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1714,
+        "totalAssets": 0.0283,
+        "currentShares": 3117635,
+        "change": -7644,
+        "change_p": -0.2446
+      },
+      "13": {
+        "name": "T. Rowe Price US Large-Cap Core Tr-E",
+        "date": "2025-12-31",
+        "totalShares": 1.126,
+        "totalAssets": 0.7854,
+        "currentShares": 2996973,
+        "change": -178966,
+        "change_p": -5.6351
+      },
+      "14": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1204,
+        "totalAssets": 0.6272,
+        "currentShares": 2982100,
+        "change": -269300,
+        "change_p": -8.2826
+      },
+      "15": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 1.1195,
+        "totalAssets": 0.7814,
+        "currentShares": 2979600,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0606,
+        "totalAssets": 0.1956,
+        "currentShares": 2822947,
+        "change": 8384,
+        "change_p": 0.2979
+      },
+      "17": {
+        "name": "T. Rowe Price US Large-Cap Core Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9906,
+        "totalAssets": 0.7769,
+        "currentShares": 2636641,
+        "change": -229053,
+        "change_p": -7.9929
+      },
+      "18": {
+        "name": "T. Rowe Price US Large-Cap Core",
+        "date": "2026-03-31",
+        "totalShares": 0.8996,
+        "totalAssets": 0.8567,
+        "currentShares": 2394362,
+        "change": -141760,
+        "change_p": -5.5896
+      },
+      "19": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8317,
+        "totalAssets": 1.983,
+        "currentShares": 2213723,
+        "change": 92069,
+        "change_p": 4.3395
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 18.5818,
+    "ForwardPE": 15.949,
+    "PriceSalesTTM": 1.2401,
+    "PriceBookMRQ": 3.099,
+    "EnterpriseValue": 22599581020,
+    "EnterpriseValueRevenue": 1.7172,
+    "EnterpriseValueEbitda": 10.9494
+  },
+  "Highlights": {
+    "MarketCapitalization": 16320504832,
+    "MarketCapitalizationMln": 16320.5048,
+    "EBITDA": 2012000000,
+    "PERatio": 18.5818,
+    "PEGRatio": 1.3445,
+    "WallStreetTargetPrice": 70.8571,
+    "BookValue": 20.428,
+    "DividendShare": 0.8,
+    "DividendYield": 0.0127,
+    "EarningsShare": 3.3,
+    "EPSEstimateCurrentYear": 3.9622,
+    "EPSEstimateNextYear": 4.4944,
+    "EPSEstimateNextQuarter": 0.8539,
+    "EPSEstimateCurrentQuarter": 0.8965,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0693,
+    "OperatingMarginTTM": 0.1013,
+    "ReturnOnAssetsTTM": 0.0468,
+    "ReturnOnEquityTTM": 0.1612,
+    "RevenueTTM": 13160999936,
+    "RevenuePerShareTTM": 47.987,
+    "QuarterlyRevenueGrowthYOY": 0.162,
+    "GrossProfitTTM": 2577999872,
+    "DilutedEpsTTM": 3.3,
+    "QuarterlyEarningsGrowthYOY": 0.811
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "BALL",
+    "Type": "Common Stock",
+    "Name": "Ball Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BDDNH5",
+    "ISIN": "US0584981064",
+    "LEI": "0BGI85ALH27ZJP15DY16",
+    "PrimaryTicker": "BALL.US",
+    "CUSIP": "058498106",
+    "CIK": "0000009389",
+    "EmployerIdNumber": "35-0160610",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": null,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Containers & Packaging",
+    "GicSubIndustry": "Metal, Glass & Plastic Containers",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Ball Corporation supplies aluminum packaging products for the beverage, personal care, and household products industries in the United States, Brazil, and internationally. The company manufactures and sells aluminum beverage containers to fillers of carbonated soft drinks, beer, energy drinks, and other beverages. It manufactures and sells extruded aluminum aerosol containers, recloseable aluminum bottles, aluminum cups, and aluminum slugs. The company was founded in 1880 and is headquartered in Westminster, Colorado.",
+    "Address": "9200 West 108th Circle, Westminster, CO, United States, 80021",
+    "AddressData": {
+      "Street": "9200 West 108th Circle",
+      "City": "Westminster",
+      "State": "CO",
+      "Country": "United States",
+      "ZIP": "80021"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ronald J. Lewis",
+        "Title": "CEO & Director",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Daniel J. Rabbitt",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Scott A. Vail",
+        "Title": "Senior VP and Chief Supply Chain & Operations Officer",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Ms. Hannah S. Lim-Johnson Esq.",
+        "Title": "SVP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Ms. Carey S. Causey",
+        "Title": "Senior VP & Chief Growth Officer",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Edmund J. Doering",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Brandon  Potthoff",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Courtney  K. Reynolds",
+        "Title": "VP and Global Head of Communications & Corporate Affairs",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Kathleen E. Pitre",
+        "Title": "Senior VP and President of North & Central America",
+        "YearBorn": "1977"
+      },
+      "9": {
+        "Name": "Mr. Fauze C. Villatoro",
+        "Title": "Senior VP & President of Beverage Packaging South America",
+        "YearBorn": "1977"
+      }
+    },
+    "Phone": "303 469 3131",
+    "WebURL": "https://www.ball.com",
+    "LogoURL": "/img/logos/US/BALL.png",
+    "FullTimeEmployees": 16000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 266153058,
+    "SharesFloat": 265031492,
+    "PercentInsiders": 0.262,
+    "PercentInstitutions": 89.899,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0274
+  }
+}

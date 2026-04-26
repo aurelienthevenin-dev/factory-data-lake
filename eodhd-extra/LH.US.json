@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9856,
+        "totalAssets": 0.0358,
+        "currentShares": 9850631,
+        "change": 37197,
+        "change_p": 0.379
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.8866,
+        "totalAssets": 0.0408,
+        "currentShares": 8125533,
+        "change": -936667,
+        "change_p": -10.336
+      },
+      "2": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 6.5178,
+        "totalAssets": 0.7584,
+        "currentShares": 5356825,
+        "change": 2719475,
+        "change_p": 103.1139
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6624,
+        "totalAssets": 0.0381,
+        "currentShares": 3831914,
+        "change": -31125,
+        "change_p": -0.8057
+      },
+      "4": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.682,
+        "totalAssets": 0.8986,
+        "currentShares": 2204276,
+        "change": 207962,
+        "change_p": 10.4173
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6137,
+        "totalAssets": 0.0185,
+        "currentShares": 2148082,
+        "change": 844775,
+        "change_p": 64.8178
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6002,
+        "totalAssets": 0.033,
+        "currentShares": 2137010,
+        "change": 13775,
+        "change_p": 0.6488
+      },
+      "7": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 2.5683,
+        "totalAssets": 2.2827,
+        "currentShares": 2110779,
+        "change": 273744,
+        "change_p": 14.9014
+      },
+      "8": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.3886,
+        "totalAssets": 0.0863,
+        "currentShares": 1963101,
+        "change": -142690,
+        "change_p": -6.7761
+      },
+      "9": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.3285,
+        "totalAssets": 0.4973,
+        "currentShares": 1913695,
+        "change": 1913695,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1555,
+        "totalAssets": 0.0912,
+        "currentShares": 1771529,
+        "change": -23382,
+        "change_p": -1.3027
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8341,
+        "totalAssets": 0.0262,
+        "currentShares": 1507370,
+        "change": -31061,
+        "change_p": -2.019
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6301,
+        "totalAssets": 0.0171,
+        "currentShares": 1339745,
+        "change": -108492,
+        "change_p": -7.4913
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5869,
+        "totalAssets": 0.0686,
+        "currentShares": 1304191,
+        "change": 57635,
+        "change_p": 4.6235
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5819,
+        "totalAssets": 0.0588,
+        "currentShares": 1300111,
+        "change": -18436,
+        "change_p": -1.3982
+      },
+      "15": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5332,
+        "totalAssets": 1.6199,
+        "currentShares": 1260116,
+        "change": -382125,
+        "change_p": -23.2685
+      },
+      "16": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.3406,
+        "totalAssets": 0.0996,
+        "currentShares": 1101801,
+        "change": -26523,
+        "change_p": -2.3507
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2555,
+        "totalAssets": 0.0379,
+        "currentShares": 1031890,
+        "change": -35577,
+        "change_p": -3.3328
+      },
+      "18": {
+        "name": "Veritas Investment Partners (UK) Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 1.2495,
+        "totalAssets": 5.4407,
+        "currentShares": 1026894,
+        "change": -30431,
+        "change_p": -2.8781
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2028,
+        "totalAssets": 0.0265,
+        "currentShares": 988543,
+        "change": -13591,
+        "change_p": -1.3562
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1844,
+        "totalAssets": 0.035,
+        "currentShares": 2617163,
+        "change": -4149,
+        "change_p": -0.1583
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5692,
+        "totalAssets": 0.0396,
+        "currentShares": 2111587,
+        "change": -20612,
+        "change_p": -0.9667
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1658,
+        "totalAssets": 0.239,
+        "currentShares": 1780047,
+        "change": -21723,
+        "change_p": -1.2056
+      },
+      "3": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.851,
+        "totalAssets": 3.1583,
+        "currentShares": 1521300,
+        "change": 24200,
+        "change_p": 1.6165
+      },
+      "4": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.851,
+        "totalAssets": 3.1583,
+        "currentShares": 1521300,
+        "change": 24200,
+        "change_p": 1.6165
+      },
+      "5": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.851,
+        "totalAssets": 3.1635,
+        "currentShares": 1521300,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 1.746,
+        "totalAssets": 2.5573,
+        "currentShares": 1435000,
+        "change": 250000,
+        "change_p": 21.097
+      },
+      "7": {
+        "name": "Victory Pioneer A",
+        "date": "2026-01-31",
+        "totalShares": 1.3718,
+        "totalAssets": 2.9283,
+        "currentShares": 1127481,
+        "change": 20111,
+        "change_p": 1.8161
+      },
+      "8": {
+        "name": "Pioneer US Large Core Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.3474,
+        "totalAssets": 2.7457,
+        "currentShares": 1107370,
+        "change": 649681,
+        "change_p": 141.9481
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2961,
+        "totalAssets": 0.0395,
+        "currentShares": 1065189,
+        "change": -576,
+        "change_p": -0.054
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2837,
+        "totalAssets": 0.0407,
+        "currentShares": 1055010,
+        "change": 1742,
+        "change_p": 0.1654
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1759,
+        "totalAssets": 0.0397,
+        "currentShares": 966423,
+        "change": -2352,
+        "change_p": -0.2428
+      },
+      "12": {
+        "name": "Amundi Fds US Pioneer A USD C",
+        "date": "2026-02-28",
+        "totalShares": 1.0024,
+        "totalAssets": 3.149,
+        "currentShares": 823808,
+        "change": 48877,
+        "change_p": 6.3073
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9266,
+        "totalAssets": 0.09,
+        "currentShares": 761512,
+        "change": -10476,
+        "change_p": -1.357
+      },
+      "14": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8455,
+        "totalAssets": 0.4397,
+        "currentShares": 694875,
+        "change": -146681,
+        "change_p": -17.4297
+      },
+      "15": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.8056,
+        "totalAssets": 1.0406,
+        "currentShares": 662134,
+        "change": -2766,
+        "change_p": -0.416
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.781,
+        "totalAssets": 0.2008,
+        "currentShares": 641868,
+        "change": 1834,
+        "change_p": 0.2865
+      },
+      "17": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7372,
+        "totalAssets": 0.4163,
+        "currentShares": 605914,
+        "change": 1840,
+        "change_p": 0.3046
+      },
+      "18": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.6772,
+        "totalAssets": 0.6395,
+        "currentShares": 556573,
+        "change": 89543,
+        "change_p": 19.1729
+      },
+      "19": {
+        "name": "Fidelity Low-Priced Stock",
+        "date": "2026-01-31",
+        "totalShares": 0.6614,
+        "totalAssets": 0.6211,
+        "currentShares": 543590,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.1958,
+    "ForwardPE": 14.7929,
+    "PriceSalesTTM": 1.558,
+    "PriceBookMRQ": 2.5152,
+    "EnterpriseValue": 27674642734,
+    "EnterpriseValueRevenue": 1.9836,
+    "EnterpriseValueEbitda": 13.75
+  },
+  "Highlights": {
+    "MarketCapitalization": 21737119744,
+    "MarketCapitalizationMln": 21737.1197,
+    "EBITDA": 2191699968,
+    "PERatio": 25.1958,
+    "PEGRatio": 1.0885,
+    "WallStreetTargetPrice": 310.0588,
+    "BookValue": 104.864,
+    "DividendShare": 2.88,
+    "DividendYield": 0.0109,
+    "EarningsShare": 10.47,
+    "EPSEstimateCurrentYear": 17.7885,
+    "EPSEstimateNextYear": 19.2855,
+    "EPSEstimateNextQuarter": 4.1045,
+    "EPSEstimateCurrentQuarter": 3.942,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0628,
+    "OperatingMarginTTM": 0.1055,
+    "ReturnOnAssetsTTM": 0.0512,
+    "ReturnOnEquityTTM": 0.1051,
+    "RevenueTTM": 13951699968,
+    "RevenuePerShareTTM": 167.689,
+    "QuarterlyRevenueGrowthYOY": 0.056,
+    "GrossProfitTTM": 4012499968,
+    "DilutedEpsTTM": 10.47,
+    "QuarterlyEarningsGrowthYOY": 0.157
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.26,
+    "TotalEsgPercentile": 14.56,
+    "EnvironmentScore": 4.17,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 11.07,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 13.02,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LH",
+    "Type": "Common Stock",
+    "Name": "Laboratory Corporation of America Holdings",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000D9DMK0",
+    "ISIN": "US5049221055",
+    "LEI": null,
+    "PrimaryTicker": "LH.US",
+    "CUSIP": "50540R102",
+    "CIK": "0000920148",
+    "EmployerIdNumber": "13-3757370",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-29",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Health Care Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Labcorp Holdings Inc. provides laboratory services. It operates through two segments, Diagnostics Laboratories and Biopharma Laboratory Services. The company offers various tests, such as blood chemistry analyses, urinalyses, blood cell counts, thyroid tests, PAP tests, hemoglobin A1C, PSA, tests for sexually transmitted diseases, vitamin D testing, microbiology cultures and procedures, and alcohol and other substance abuse tests. It also provides specialty testing services comprising gene-based and esoteric testing; advanced tests target specific diseases; services related to anatomic pathology/oncology, cardiovascular disease, coagulation, diagnostic genetics, endocrinology, infectious disease, women's health, pharmacogenetics, parentage and donor testing, occupational testing services, medical drug monitoring services, chronic disease programs, and kidney stone prevention tests; and health and wellness services to employers and managed care organizations. In addition, the company offers digital pathology solutions, a pathology platforms that support the digitization, centralized review, and sharing of pathology slides; provider and payer digital platforms, an online applications for providers, MCOs, and ACOs; online and mobile applications that enable patients to check offerings, schedule PSC visits, check-in upon PSC arrival, complete documentation, access tests and test results, and manage their accounts; and Generative AI-enabled Test Selection, a generative AI-enabled tool. It serves clients, third party, medicare/medicaid, patients, pharmaceutical, biotechnology, medical device, diagnostic companies, and CROs. The company has a strategic collaboration with the Children's Hospital of Philadelphia to accelerate the discovery, development, and availability of pediatric diagnostics. The company was founded in 1995 and is headquartered in Burlington, North Carolina.",
+    "Address": "358 South Main Street, Burlington, NC, United States, 27215",
+    "AddressData": {
+      "Street": "358 South Main Street",
+      "City": "Burlington",
+      "State": "NC",
+      "Country": "United States",
+      "ZIP": "27215"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Adam H. Schechter",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Ms. Julia A.  Wang",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Dr. Brian J. Caveney M.D.",
+        "Title": "EVP, President of Early Development Research Laboratories and Chief Medical & Scientific Officer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Ms. Megan D. Bailey M.P.H.",
+        "Title": "Executive VP and President of Central Laboratory Services & International Labcorp",
+        "YearBorn": "1980"
+      },
+      "4": {
+        "Name": "Mr. Peter J. Wilkinson",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Akinbolade  Oyegunwa M.B.A., Ph.D.",
+        "Title": "Executive VP and Chief Information & Technology Officer",
+        "YearBorn": "1983"
+      },
+      "6": {
+        "Name": "Christin  O'Donnell",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Kathryn Wright Kyle",
+        "Title": "Executive VP, Chief Legal Officer and Corporate Secretary",
+        "YearBorn": "1971"
+      },
+      "8": {
+        "Name": "Ms. Amy B. Summy",
+        "Title": "EVP, Chief Marketing Officer & Consumer Business Lead",
+        "YearBorn": "1966"
+      },
+      "9": {
+        "Name": "Ms. Anita Z. Graham",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "336 229 1127",
+    "WebURL": "https://www.labcorp.com",
+    "LogoURL": "/img/logos/US/LH.png",
+    "FullTimeEmployees": 61770,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 82187046,
+    "SharesFloat": 81996240,
+    "PercentInsiders": 0.364,
+    "PercentInstitutions": 100.47500000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0395
+  }
+}

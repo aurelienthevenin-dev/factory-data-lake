@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9719,
+        "totalAssets": 0.0829,
+        "currentShares": 5666285,
+        "change": -65595,
+        "change_p": -1.1444
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.6819,
+        "totalAssets": 0.0686,
+        "currentShares": 4109160,
+        "change": -15609,
+        "change_p": -0.3784
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2173,
+        "totalAssets": 0.066,
+        "currentShares": 1996053,
+        "change": 13779,
+        "change_p": 0.6951
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5731,
+        "totalAssets": 0.0759,
+        "currentShares": 1217834,
+        "change": 10533,
+        "change_p": 0.8724
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.2646,
+        "totalAssets": 0.1895,
+        "currentShares": 1071854,
+        "change": 1003237,
+        "change_p": 1462.0823
+      },
+      "5": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.0674,
+        "totalAssets": 0.1773,
+        "currentShares": 978478,
+        "change": -39646,
+        "change_p": -3.894
+      },
+      "6": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7838,
+        "totalAssets": 0.682,
+        "currentShares": 844249,
+        "change": -14447,
+        "change_p": -1.6824
+      },
+      "7": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3927,
+        "totalAssets": 0.0804,
+        "currentShares": 659158,
+        "change": 3114,
+        "change_p": 0.4747
+      },
+      "8": {
+        "name": "Parnassus Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3526,
+        "totalAssets": 1.6752,
+        "currentShares": 640162,
+        "change": -116640,
+        "change_p": -15.4122
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3473,
+        "totalAssets": 0.065,
+        "currentShares": 637697,
+        "change": 573510,
+        "change_p": 893.4987
+      },
+      "10": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2942,
+        "totalAssets": 0.1268,
+        "currentShares": 612552,
+        "change": -88523,
+        "change_p": -12.6268
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2203,
+        "totalAssets": 0.0333,
+        "currentShares": 577566,
+        "change": -3239,
+        "change_p": -0.5577
+      },
+      "12": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1374,
+        "totalAssets": 0.1279,
+        "currentShares": 538347,
+        "change": -1317,
+        "change_p": -0.244
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.0866,
+        "totalAssets": 0.0555,
+        "currentShares": 514304,
+        "change": -1842,
+        "change_p": -0.3569
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0361,
+        "totalAssets": 0.0317,
+        "currentShares": 490407,
+        "change": -135160,
+        "change_p": -21.606
+      },
+      "15": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0093,
+        "totalAssets": 0.1554,
+        "currentShares": 477693,
+        "change": 34307,
+        "change_p": 7.7375
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.991,
+        "totalAssets": 0.0134,
+        "currentShares": 469036,
+        "change": -350926,
+        "change_p": -42.7978
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9892,
+        "totalAssets": 0.0703,
+        "currentShares": 468166,
+        "change": -5605,
+        "change_p": -1.1831
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9296,
+        "totalAssets": 0.0545,
+        "currentShares": 439982,
+        "change": 68258,
+        "change_p": 18.3625
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8439,
+        "totalAssets": 0.0845,
+        "currentShares": 399399,
+        "change": -5680,
+        "change_p": -1.4022
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0186,
+        "totalAssets": 0.0781,
+        "currentShares": 1428706,
+        "change": 419,
+        "change_p": 0.0293
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3521,
+        "totalAssets": 0.0853,
+        "currentShares": 1113238,
+        "change": -12672,
+        "change_p": -1.1255
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0541,
+        "totalAssets": 0.5336,
+        "currentShares": 972191,
+        "change": -9614,
+        "change_p": -0.9792
+      },
+      "3": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.8031,
+        "totalAssets": 0.718,
+        "currentShares": 853384,
+        "change": 853384,
+        "change_p": 0
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1894,
+        "totalAssets": 0.0853,
+        "currentShares": 562924,
+        "change": -312,
+        "change_p": -0.0554
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1762,
+        "totalAssets": 0.0851,
+        "currentShares": 556711,
+        "change": 918,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "Parnassus Core Equity Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1161,
+        "totalAssets": 2.5847,
+        "currentShares": 528251,
+        "change": -16189,
+        "change_p": -2.9735
+      },
+      "7": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1031,
+        "totalAssets": 0.1792,
+        "currentShares": 522120,
+        "change": -24292,
+        "change_p": -4.4457
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0756,
+        "totalAssets": 0.0854,
+        "currentShares": 509086,
+        "change": -1225,
+        "change_p": -0.24
+      },
+      "9": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 0.824,
+        "totalAssets": 1.649,
+        "currentShares": 390000,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7232,
+        "totalAssets": 1.2779,
+        "currentShares": 342310,
+        "change": -32758,
+        "change_p": -8.7339
+      },
+      "11": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5947,
+        "totalAssets": 0.5174,
+        "currentShares": 281488,
+        "change": -11504,
+        "change_p": -3.9264
+      },
+      "12": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.5711,
+        "totalAssets": 0.553,
+        "currentShares": 270293,
+        "change": -7017,
+        "change_p": -2.5304
+      },
+      "13": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5284,
+        "totalAssets": 1.4648,
+        "currentShares": 250089,
+        "change": -430,
+        "change_p": -0.1716
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5207,
+        "totalAssets": 0.0852,
+        "currentShares": 246455,
+        "change": -1260,
+        "change_p": -0.5086
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5175,
+        "totalAssets": 0.2276,
+        "currentShares": 244933,
+        "change": 3862,
+        "change_p": 1.602
+      },
+      "16": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5136,
+        "totalAssets": 0.9435,
+        "currentShares": 243074,
+        "change": -1680,
+        "change_p": -0.6864
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4934,
+        "totalAssets": 0.0843,
+        "currentShares": 233527,
+        "change": 320,
+        "change_p": 0.1372
+      },
+      "18": {
+        "name": "ClearBridge Large Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.449,
+        "totalAssets": 2.3902,
+        "currentShares": 212520,
+        "change": -6567,
+        "change_p": -2.9974
+      },
+      "19": {
+        "name": "ClearBridge Large Cap Growth A",
+        "date": "2026-03-31",
+        "totalShares": 0.449,
+        "totalAssets": 2.3917,
+        "currentShares": 212520,
+        "change": -6567,
+        "change_p": -2.9974
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.8937,
+    "ForwardPE": 26.455,
+    "PriceSalesTTM": 3.0283,
+    "PriceBookMRQ": 14.7578,
+    "EnterpriseValue": 57412172826,
+    "EnterpriseValueRevenue": 3.1999,
+    "EnterpriseValueEbitda": 20.7639
+  },
+  "Highlights": {
+    "MarketCapitalization": 54334349312,
+    "MarketCapitalizationMln": 54334.3493,
+    "EBITDA": 2963000064,
+    "PERatio": 32.8937,
+    "PEGRatio": 1.9812,
+    "WallStreetTargetPrice": 1163.4667,
+    "BookValue": 78.787,
+    "DividendShare": 8.83,
+    "DividendYield": 0.0076,
+    "EarningsShare": 34.9,
+    "EPSEstimateCurrentYear": 43.6517,
+    "EPSEstimateNextYear": 48.5946,
+    "EPSEstimateNextQuarter": 10.4795,
+    "EPSEstimateCurrentQuarter": 9.4606,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0951,
+    "OperatingMarginTTM": 0.1473,
+    "ReturnOnAssetsTTM": 0.1903,
+    "ReturnOnEquityTTM": 0.461,
+    "RevenueTTM": 17941999616,
+    "RevenuePerShareTTM": 374.572,
+    "QuarterlyRevenueGrowthYOY": 0.045,
+    "GrossProfitTTM": 7008999936,
+    "DilutedEpsTTM": 34.9,
+    "QuarterlyEarningsGrowthYOY": -0.02
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.04,
+    "TotalEsgPercentile": 7.18,
+    "EnvironmentScore": 0.89,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 7.8,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 7.85,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "GWW",
+    "Type": "Common Stock",
+    "Name": "WW Grainger Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKR1D6",
+    "ISIN": "US3848021040",
+    "LEI": "549300TWZSP6O1IH2V34",
+    "PrimaryTicker": "GWW.US",
+    "CUSIP": "384802104",
+    "CIK": "0000277135",
+    "EmployerIdNumber": "36-1150280",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-12-17",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Industrial Distribution",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Trading Companies & Distributors",
+    "GicSubIndustry": "Trading Companies & Distributors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "W.W. Grainger, Inc., together with its subsidiaries, distributes maintenance, repair, and operating products and services primarily in North America, Japan, and the United Kingdom. The company operates through two segments, High-Touch Solutions North America and Endless Assortment. It provides safety, security, material handling and storage equipment, pumps and plumbing equipment, cleaning and maintenance, and metalworking and hand tools. The company also offers technical support and inventory management services. It serves smaller businesses to large corporations, government entities, and other institutions, as well as commercial, healthcare, and manufacturing industries through sales and service representatives, and electronic and ecommerce channels. W.W. Grainger, Inc. was founded in 1927 and is headquartered in Lake Forest, Illinois.",
+    "Address": "100 Grainger Parkway, Lake Forest, IL, United States, 60045-5201",
+    "AddressData": {
+      "Street": "100 Grainger Parkway",
+      "City": "Lake Forest",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60045-5201"
+    },
+    "Listings": {
+      "0": {
+        "Code": "GWW",
+        "Exchange": "F",
+        "Name": "W.W. Grainger Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Donald G. Macpherson",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Ms. Deidra Cheeks Merriwether",
+        "Title": "CFO & Senior VP",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Ms. Nancy L. Berardinelli-Krantz",
+        "Title": "Senior VP & Chief Legal Officer",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Ms. Melanie J. Tinto",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Ms. Paige K. Robbins",
+        "Title": "Senior VP & President of Grainger Business Unit",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Laurie R. Thomson",
+        "Title": "VP, Controller & Principal Accounting Officer",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Mr. Jonny  LeRoy",
+        "Title": "Senior VP &  CTO",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Mr. Kyle  Bland",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Masaya  Suzuki",
+        "Title": "Managing Director of Endless Assortment Business",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Mr. Barry  Greenhouse",
+        "Title": "Senior Vice President of Merchandising & Supplier Management",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "847 535 1000",
+    "WebURL": "https://www.grainger.com",
+    "LogoURL": "/img/logos/US/GWW.png",
+    "FullTimeEmployees": 22100,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 47329985,
+    "SharesFloat": 43374267,
+    "PercentInsiders": 6.2509999999999994,
+    "PercentInstitutions": 76.713,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0261
+  }
+}

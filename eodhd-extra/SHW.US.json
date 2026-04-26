@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.3942,
+        "totalAssets": 0.1092,
+        "currentShares": 23237824,
+        "change": 600119,
+        "change_p": 2.651
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.0834,
+        "totalAssets": 0.1062,
+        "currentShares": 17521765,
+        "change": -124975,
+        "change_p": -0.7082
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.1748,
+        "totalAssets": 0.1834,
+        "currentShares": 15274142,
+        "change": -136814,
+        "change_p": -0.8878
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.5813,
+        "totalAssets": 0.3282,
+        "currentShares": 8858868,
+        "change": -154783,
+        "change_p": -1.7172
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.957,
+        "totalAssets": 0.1533,
+        "currentShares": 7314502,
+        "change": 127091,
+        "change_p": 1.7682
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.4677,
+        "totalAssets": 0.0633,
+        "currentShares": 6104042,
+        "change": 3064736,
+        "change_p": 100.8367
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.115,
+        "totalAssets": 0.1041,
+        "currentShares": 5231615,
+        "change": 37145,
+        "change_p": 0.7151
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0959,
+        "totalAssets": 0.0857,
+        "currentShares": 5184473,
+        "change": 762178,
+        "change_p": 17.2349
+      },
+      "8": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.5644,
+        "totalAssets": 0.422,
+        "currentShares": 3869751,
+        "change": -333280,
+        "change_p": -7.9295
+      },
+      "9": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.4651,
+        "totalAssets": 1.0142,
+        "currentShares": 3624117,
+        "change": -134462,
+        "change_p": -3.5775
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3592,
+        "totalAssets": 0.1166,
+        "currentShares": 3362189,
+        "change": -413921,
+        "change_p": -10.9616
+      },
+      "11": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.3249,
+        "totalAssets": 0.196,
+        "currentShares": 3277302,
+        "change": -155675,
+        "change_p": -4.5347
+      },
+      "12": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 1.2825,
+        "totalAssets": 2.7282,
+        "currentShares": 3172308,
+        "change": 291217,
+        "change_p": 10.1079
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0636,
+        "totalAssets": 0.1165,
+        "currentShares": 2630826,
+        "change": 17180,
+        "change_p": 0.6573
+      },
+      "14": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.969,
+        "totalAssets": 0.6218,
+        "currentShares": 2396919,
+        "change": -238647,
+        "change_p": -9.0549
+      },
+      "15": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.8183,
+        "totalAssets": 0.152,
+        "currentShares": 2024074,
+        "change": -292886,
+        "change_p": -12.641
+      },
+      "16": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 0.8165,
+        "totalAssets": 0.1026,
+        "currentShares": 2019742,
+        "change": -655557,
+        "change_p": -24.5041
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8063,
+        "totalAssets": 0.1082,
+        "currentShares": 1994511,
+        "change": 181931,
+        "change_p": 10.0371
+      },
+      "18": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.794,
+        "totalAssets": 0.1293,
+        "currentShares": 1964133,
+        "change": 839567,
+        "change_p": 74.657
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7917,
+        "totalAssets": 0.0778,
+        "currentShares": 1958330,
+        "change": -116790,
+        "change_p": -5.6281
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0221,
+        "totalAssets": 0.12,
+        "currentShares": 7475505,
+        "change": 29623,
+        "change_p": 0.3978
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3731,
+        "totalAssets": 0.1322,
+        "currentShares": 5870211,
+        "change": -59772,
+        "change_p": -1.008
+      },
+      "2": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 2.2315,
+        "totalAssets": 4.2478,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1978,
+        "totalAssets": 0.1319,
+        "currentShares": 2962889,
+        "change": -1608,
+        "change_p": -0.0542
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1861,
+        "totalAssets": 0.142,
+        "currentShares": 2933928,
+        "change": 4836,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1514,
+        "totalAssets": 0.2747,
+        "currentShares": 2848246,
+        "change": -730797,
+        "change_p": -20.4188
+      },
+      "6": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.1471,
+        "totalAssets": 0.2969,
+        "currentShares": 2837492,
+        "change": -10754,
+        "change_p": -0.3776
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0842,
+        "totalAssets": 0.1322,
+        "currentShares": 2681974,
+        "change": -6566,
+        "change_p": -0.2442
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0667,
+        "totalAssets": 0.2661,
+        "currentShares": 2638499,
+        "change": -46626,
+        "change_p": -1.7365
+      },
+      "9": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.838,
+        "totalAssets": 0.4128,
+        "currentShares": 2072917,
+        "change": 266147,
+        "change_p": 14.7305
+      },
+      "10": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.6857,
+        "totalAssets": 0.356,
+        "currentShares": 1696249,
+        "change": -376668,
+        "change_p": -18.1709
+      },
+      "11": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.6524,
+        "totalAssets": 0.3449,
+        "currentShares": 1613762,
+        "change": 240762,
+        "change_p": 17.5355
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5251,
+        "totalAssets": 0.1319,
+        "currentShares": 1298922,
+        "change": -7447,
+        "change_p": -0.5701
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5218,
+        "totalAssets": 0.3525,
+        "currentShares": 1290826,
+        "change": 20370,
+        "change_p": 1.6034
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4975,
+        "totalAssets": 0.1306,
+        "currentShares": 1230651,
+        "change": 1720,
+        "change_p": 0.14
+      },
+      "15": {
+        "name": "AllianceBernstein US L/C Growth Eqty MF",
+        "date": "2026-02-27",
+        "totalShares": 0.4763,
+        "totalAssets": 1.2353,
+        "currentShares": 1178163,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4209,
+        "totalAssets": 0.1318,
+        "currentShares": 1041259,
+        "change": 5980,
+        "change_p": 0.5776
+      },
+      "17": {
+        "name": "UniGlobal Vorsorge",
+        "date": "2026-02-28",
+        "totalShares": 0.4029,
+        "totalAssets": 1.3264,
+        "currentShares": 996618,
+        "change": -402426,
+        "change_p": -28.7644
+      },
+      "18": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3826,
+        "totalAssets": 4.5971,
+        "currentShares": 946372,
+        "change": 39331,
+        "change_p": 4.3362
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3671,
+        "totalAssets": 0.1269,
+        "currentShares": 907970,
+        "change": -22479,
+        "change_p": -2.4159
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.8822,
+    "ForwardPE": 28.49,
+    "PriceSalesTTM": 3.5494,
+    "PriceBookMRQ": 18.1642,
+    "EnterpriseValue": 96259770425,
+    "EnterpriseValueRevenue": 4.0833,
+    "EnterpriseValueEbitda": 21.4861
+  },
+  "Highlights": {
+    "MarketCapitalization": 83673538560,
+    "MarketCapitalizationMln": 83673.5386,
+    "EBITDA": 4486600192,
+    "PERatio": 32.8822,
+    "PEGRatio": 2.9339,
+    "WallStreetTargetPrice": 379.9048,
+    "BookValue": 18.671,
+    "DividendShare": 3.16,
+    "DividendYield": 0.0094,
+    "EarningsShare": 10.27,
+    "EPSEstimateCurrentYear": 11.722,
+    "EPSEstimateNextYear": 13.3615,
+    "EPSEstimateNextQuarter": 2.3776,
+    "EPSEstimateCurrentQuarter": 2.1625,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.109,
+    "OperatingMarginTTM": 0.1416,
+    "ReturnOnAssetsTTM": 0.0961,
+    "ReturnOnEquityTTM": 0.5939,
+    "RevenueTTM": 23574300672,
+    "RevenuePerShareTTM": 95.211,
+    "QuarterlyRevenueGrowthYOY": 0.056,
+    "GrossProfitTTM": 11515499520,
+    "DilutedEpsTTM": 10.27,
+    "QuarterlyEarningsGrowthYOY": 0.014
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.56,
+    "TotalEsgPercentile": 58.08,
+    "EnvironmentScore": 13.76,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 12.06,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 7.25,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SHW",
+    "Type": "Common Stock",
+    "Name": "Sherwin-Williams Co",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BSXQV7",
+    "ISIN": "US8243481061",
+    "LEI": "Z15BMIOX8DDH0X2OBP21",
+    "PrimaryTicker": "SHW.US",
+    "CUSIP": "824348106",
+    "CIK": "0000089800",
+    "EmployerIdNumber": "34-0526850",
+    "FiscalYearEnd": "December",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Specialty Chemicals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Sherwin-Williams Company engages in the development, manufacture, distribution, and sale of paint, coatings, and related products to professional, industrial, commercial and retail customers. The company operates through three segments: Paint Stores Group, Consumer Brands Group, and Performance Coatings Group. The Paint Stores Group segment offers architectural paint and coatings; protective and marine products; and OEM product finishes and related products for architectural and industrial paint contractors, and do-it-yourself homeowners under the Sherwin-Williams brand. The Consumer Brands Group segment supplies a portfolio of branded and private-label architectural paints, stains, varnishes, industrial products, wood finishes products, wood preservatives, applicators, corrosion inhibitors, aerosols, caulks, and adhesives to retailers, including home centers and hardware stores, and dedicated dealers and distributors. The Performance Coatings Group segment develops and sells industrial coatings for wood finishing and general industrial applications; automotive refinish products; protective and marine coatings; coil coatings; packaging coatings; and performance-based resins and colorants. This segment serves retailers, dealers, jobbers, licensees, and other third-party distributors. The company operates in North America, South America, the Caribbean, Europe, Asia, and Australia. The Sherwin-Williams Company was founded in 1866 and is headquartered in Cleveland, Ohio.",
+    "Address": "1 Sherwin Way, Cleveland, OH, United States, 44113-2206",
+    "AddressData": {
+      "Street": "1 Sherwin Way",
+      "City": "Cleveland",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44113-2206"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Heidi G. Petz",
+        "Title": "Chairman, CEO & President",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Ms. Mary L. Garceau",
+        "Title": "Senior VP, Chief Legal Officer & Secretary",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Justin T. Binns",
+        "Title": "President of Global Architectural",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Karl J. Jorgenrud",
+        "Title": "President of Global Industrial",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Benjamin E. Meisenzahl",
+        "Title": "Senior VP of Finance & CFO",
+        "YearBorn": "1982"
+      },
+      "5": {
+        "Name": "Mr. J. Paul Lang",
+        "Title": "Senior VP of Enterprise Finance & Chief Accounting Officer",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. James R. Jaye",
+        "Title": "Senior Vice President of Investor Relations & Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Karl  Schmitt",
+        "Title": "Senior Vice President of Marketing",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Marlena K. Boyce",
+        "Title": "SVP & Chief Human Resources Officer",
+        "YearBorn": "1979"
+      },
+      "9": {
+        "Name": "Mr. Bryan J. Young",
+        "Title": "Senior Vice President of Corporate Strategy & Development",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "216 566 2000",
+    "WebURL": "https://www.sherwin-williams.com",
+    "LogoURL": "/img/logos/US/SHW.png",
+    "FullTimeEmployees": 64249,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 247362348,
+    "SharesFloat": 229665205,
+    "PercentInsiders": 6.277000000000001,
+    "PercentInstitutions": 83.375,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0211
+  }
+}

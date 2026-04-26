@@ -1,0 +1,517 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6568,
+        "totalAssets": 0.022,
+        "currentShares": 153786927,
+        "change": -7442568,
+        "change_p": -4.6161
+      },
+      "1": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.0201,
+        "totalAssets": 0.0395,
+        "currentShares": 139077241,
+        "change": 9375255,
+        "change_p": 7.2283
+      },
+      "2": {
+        "name": "M&G PLC",
+        "date": "2025-12-31",
+        "totalShares": 4.9774,
+        "totalAssets": 4.7255,
+        "currentShares": 114989595,
+        "change": 6655611,
+        "change_p": 6.1436
+      },
+      "3": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.9058,
+        "totalAssets": 0.0137,
+        "currentShares": 113335957,
+        "change": 1845627,
+        "change_p": 1.6554
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.6401,
+        "totalAssets": 0.109,
+        "currentShares": 84095399,
+        "change": 2036667,
+        "change_p": 2.482
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7791,
+        "totalAssets": 0.0329,
+        "currentShares": 64202708,
+        "change": 262418,
+        "change_p": 0.4104
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0393,
+        "totalAssets": 0.0607,
+        "currentShares": 47111558,
+        "change": 10846351,
+        "change_p": 29.9084
+      },
+      "7": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.8385,
+        "totalAssets": 0.0555,
+        "currentShares": 42473289,
+        "change": 42473289,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Federated Hermes Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.703,
+        "totalAssets": 0.5683,
+        "currentShares": 39344317,
+        "change": 20052979,
+        "change_p": 103.9481
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6023,
+        "totalAssets": 0.033,
+        "currentShares": 37017226,
+        "change": 1234956,
+        "change_p": 3.4513
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.458,
+        "totalAssets": 0.0083,
+        "currentShares": 33682256,
+        "change": 23982114,
+        "change_p": 247.2347
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.4163,
+        "totalAssets": 0.0478,
+        "currentShares": 32719830,
+        "change": 18323825,
+        "change_p": 127.2841
+      },
+      "12": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4033,
+        "totalAssets": 0.0284,
+        "currentShares": 32420175,
+        "change": 6958999,
+        "change_p": 27.3318
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.141,
+        "totalAssets": 0.0461,
+        "currentShares": 26359946,
+        "change": -1266824,
+        "change_p": -4.5855
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0077,
+        "totalAssets": 0.0115,
+        "currentShares": 23281093,
+        "change": -2799207,
+        "change_p": -10.733
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8703,
+        "totalAssets": 0.0112,
+        "currentShares": 20106761,
+        "change": 5299012,
+        "change_p": 35.7854
+      },
+      "16": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8639,
+        "totalAssets": 0.2938,
+        "currentShares": 19958512,
+        "change": 2342959,
+        "change_p": 13.3005
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7943,
+        "totalAssets": 0.0192,
+        "currentShares": 18349057,
+        "change": -1190635,
+        "change_p": -6.0934
+      },
+      "18": {
+        "name": "Khrom Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7667,
+        "totalAssets": 15.358,
+        "currentShares": 17712315,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.7455,
+        "totalAssets": 0.0468,
+        "currentShares": 17222743,
+        "change": 3796025,
+        "change_p": 28.2722
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Federated Hermes Strategic Value Div IS",
+        "date": "2025-12-31",
+        "totalShares": 0.9811,
+        "totalAssets": 2.1625,
+        "currentShares": 22665475,
+        "change": 962475,
+        "change_p": 4.4348
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5464,
+        "totalAssets": 0.0329,
+        "currentShares": 11765525,
+        "change": -106504,
+        "change_p": -0.8971
+      },
+      "2": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4622,
+        "totalAssets": 0.5367,
+        "currentShares": 10677925,
+        "change": -432397,
+        "change_p": -3.8918
+      },
+      "3": {
+        "name": "FullerThaler Behavioral Small-Cap Value",
+        "date": "2026-02-28",
+        "totalShares": 2.0701,
+        "totalAssets": 4.741,
+        "currentShares": 9564602,
+        "change": -413244,
+        "change_p": -4.1416
+      },
+      "4": {
+        "name": "Undiscovered Managers Behavioral Val L",
+        "date": "2026-02-28",
+        "totalShares": 1.9426,
+        "totalAssets": 4.7604,
+        "currentShares": 8975803,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "M&G (Lux) Glb Dividend CI USD Acc",
+        "date": "2026-03-31",
+        "totalShares": 1.3695,
+        "totalAssets": 6.535,
+        "currentShares": 6327517,
+        "change": 347124,
+        "change_p": 5.8044
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2934,
+        "totalAssets": 0.033,
+        "currentShares": 5975932,
+        "change": -3252,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2716,
+        "totalAssets": 0.038,
+        "currentShares": 5875392,
+        "change": 9717,
+        "change_p": 0.1657
+      },
+      "8": {
+        "name": "M&G Global Dividend GBP I Acc",
+        "date": "2026-03-31",
+        "totalShares": 1.1674,
+        "totalAssets": 6.4878,
+        "currentShares": 5393754,
+        "change": 183003,
+        "change_p": 3.512
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1619,
+        "totalAssets": 0.0328,
+        "currentShares": 5368308,
+        "change": -13181,
+        "change_p": -0.2449
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9714,
+        "totalAssets": 0.8627,
+        "currentShares": 4488228,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.8884,
+        "totalAssets": 1.0807,
+        "currentShares": 4104980,
+        "change": -17147,
+        "change_p": -0.416
+      },
+      "12": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8842,
+        "totalAssets": 0.1904,
+        "currentShares": 4085363,
+        "change": 12052,
+        "change_p": 0.2959
+      },
+      "13": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.8438,
+        "totalAssets": 1.4032,
+        "currentShares": 3898570,
+        "change": -1854,
+        "change_p": -0.0475
+      },
+      "14": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8261,
+        "totalAssets": 2.2991,
+        "currentShares": 3816744,
+        "change": 158641,
+        "change_p": 4.3367
+      },
+      "15": {
+        "name": "American Funds EUPAC A",
+        "date": "2026-03-31",
+        "totalShares": 0.693,
+        "totalAssets": 0.1004,
+        "currentShares": 3201803,
+        "change": 3201803,
+        "change_p": 0
+      },
+      "16": {
+        "name": "T. Rowe Price International Val Eq Tr- A",
+        "date": "2026-03-31",
+        "totalShares": 0.5811,
+        "totalAssets": 0.5165,
+        "currentShares": 2684963,
+        "change": 2684963,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.564,
+        "totalAssets": 0.0328,
+        "currentShares": 2606028,
+        "change": -9638,
+        "change_p": -0.3685
+      },
+      "18": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.5354,
+        "totalAssets": 0.0811,
+        "currentShares": 2473769,
+        "change": 2473769,
+        "change_p": 0
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0325,
+        "currentShares": 2466482,
+        "change": 5400,
+        "change_p": 0.2194
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 29.2857,
+    "ForwardPE": 9.3633,
+    "PriceSalesTTM": 0.9178,
+    "PriceBookMRQ": 1.5466,
+    "EnterpriseValue": 32958679625,
+    "EnterpriseValueRevenue": 1.6808,
+    "EnterpriseValueEbitda": 13.5354
+  },
+  "Highlights": {
+    "MarketCapitalization": 17996681216,
+    "MarketCapitalizationMln": 17996.6812,
+    "EBITDA": 2844999936,
+    "PERatio": 29.2857,
+    "PEGRatio": 0.4681,
+    "WallStreetTargetPrice": 50.2182,
+    "BookValue": 25.184,
+    "DividendShare": 2.575,
+    "DividendYield": 0.065,
+    "EarningsShare": 1.33,
+    "EPSEstimateCurrentYear": 3.9241,
+    "EPSEstimateNextYear": 4.3622,
+    "EPSEstimateNextQuarter": 1.0387,
+    "EPSEstimateCurrentQuarter": 0.837,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0304,
+    "OperatingMarginTTM": 0.083,
+    "ReturnOnAssetsTTM": 0.0391,
+    "ReturnOnEquityTTM": 0.0773,
+    "RevenueTTM": 19608999936,
+    "RevenuePerShareTTM": 48.423,
+    "QuarterlyRevenueGrowthYOY": 0.681,
+    "GrossProfitTTM": 3712000000,
+    "DilutedEpsTTM": 1.33,
+    "QuarterlyEarningsGrowthYOY": -0.321
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "AMCR",
+    "Type": "Common Stock",
+    "Name": "Amcor PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00LNJRQ09",
+    "ISIN": "JE00BJ1F3079",
+    "LEI": "549300GSODGFCDQ3DI89",
+    "PrimaryTicker": "AMCR.US",
+    "CUSIP": "G0250X107",
+    "CIK": "0001748790",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "June",
+    "IPODate": "2019-06-11",
+    "InternationalDomestic": null,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Containers & Packaging",
+    "GicSubIndustry": "Metal, Glass & Plastic Containers",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Amcor plc, together with its subsidiaries, engages in the production and sale of packaging products in Europe, North America, Latin America, and the Asia Pacific. The company operates in two segments, Global Flexible Packaging Solutions and Global Rigid Packaging Solutions. The Global Flexible Packaging Solutions segment develops and supplies flexible packaging products, including polymer resin, aluminum, and fiber based flexible packaging products to the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries. The Global Rigid Packaging Solutions segment manufactures rigid packaging containers, closures, dispensing and pharma devices, and related products for the food and beverage applications. The company sells its products through its direct sales force. The company was incorporated in 1926 and is headquartered in Zurich, Switzerland.",
+    "Address": "Thurgauerstrasse 34, Zurich, Switzerland, 8050",
+    "AddressData": {
+      "Street": "Thurgauerstrasse 34",
+      "City": "Zurich",
+      "Country": "Switzerland",
+      "ZIP": "8050"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AMC",
+        "Exchange": "AU",
+        "Name": "Amcor Plc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Peter  Konieczny Dip Eng, MBA, MSc Mech Eng",
+        "Title": "CEO & Director",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Dr. Susana  Suarez-Gonzalez Ph.D.",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Ian G. Wilson LLB (Hons), LLM",
+        "Title": "Executive Vice President of Strategic Development",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Mr. Michael  John Casamento BBus (Acct), CPA, GradCert Mktg, MBA",
+        "Title": "Advisor",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Stephen R. Scherger",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Ms. Tracey  Whitehead",
+        "Title": "Global Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Deborah M. Rasin J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Ernesto  Duran",
+        "Title": "Head of Global Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Laurel  Spencer",
+        "Title": "Senior Vice President of Global Sales and Marketing",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Jerzy  Czubak MA, MBA",
+        "Title": "President of Amcor Specialty Cartons",
+        "YearBorn": "1959"
+      }
+    },
+    "Phone": "41 44 316 1717",
+    "WebURL": "https://www.amcor.com",
+    "LogoURL": "/img/logos/US/AMCR.png",
+    "FullTimeEmployees": 77000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 462045690,
+    "SharesFloat": 459850517,
+    "PercentInsiders": 0.28800000000000003,
+    "PercentInstitutions": 70.61500000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0844
+  }
+}

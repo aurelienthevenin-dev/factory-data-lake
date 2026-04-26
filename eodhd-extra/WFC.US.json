@@ -1,0 +1,662 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.6732,
+        "totalAssets": 0.4005,
+        "currentShares": 296419877,
+        "change": -2108595,
+        "change_p": -0.7063
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 9.4757,
+        "totalAssets": 0.7291,
+        "currentShares": 290368932,
+        "change": 149435269,
+        "change_p": 106.0323
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3241,
+        "totalAssets": 0.3743,
+        "currentShares": 255077723,
+        "change": -1608235,
+        "change_p": -0.6265
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.0602,
+        "totalAssets": 0.8825,
+        "currentShares": 185705183,
+        "change": -7566969,
+        "change_p": -3.9152
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5222,
+        "totalAssets": 0.4028,
+        "currentShares": 138576576,
+        "change": -704364,
+        "change_p": -0.5057
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.363,
+        "totalAssets": 1.1826,
+        "currentShares": 72409976,
+        "change": -10004056,
+        "change_p": -12.1388
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3621,
+        "totalAssets": 0.4145,
+        "currentShares": 72382568,
+        "change": -1219755,
+        "change_p": -1.6572
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8005,
+        "totalAssets": 0.28,
+        "currentShares": 55174764,
+        "change": 4059868,
+        "change_p": 7.9426
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6621,
+        "totalAssets": 0.2895,
+        "currentShares": 50930994,
+        "change": 1889082,
+        "change_p": 3.852
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.58,
+        "totalAssets": 0.4828,
+        "currentShares": 48418055,
+        "change": -1389123,
+        "change_p": -2.789
+      },
+      "10": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.3017,
+        "totalAssets": 2.9199,
+        "currentShares": 39889976,
+        "change": -560514,
+        "change_p": -1.3857
+      },
+      "11": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.2212,
+        "totalAssets": 0.6438,
+        "currentShares": 37421387,
+        "change": 1760484,
+        "change_p": 4.9367
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2113,
+        "totalAssets": 0.4902,
+        "currentShares": 37118345,
+        "change": 778158,
+        "change_p": 2.1413
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0717,
+        "totalAssets": 0.3521,
+        "currentShares": 32839667,
+        "change": 42993,
+        "change_p": 0.1311
+      },
+      "14": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 1.0544,
+        "totalAssets": 1.6256,
+        "currentShares": 32311711,
+        "change": -6576214,
+        "change_p": -16.9107
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8878,
+        "totalAssets": 0.5238,
+        "currentShares": 27205943,
+        "change": -712023,
+        "change_p": -2.5504
+      },
+      "16": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 0.834,
+        "totalAssets": 0.3734,
+        "currentShares": 25557973,
+        "change": -9987607,
+        "change_p": -28.098
+      },
+      "17": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7906,
+        "totalAssets": 0.5912,
+        "currentShares": 24226615,
+        "change": -1660024,
+        "change_p": -6.4127
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7409,
+        "totalAssets": 0.2036,
+        "currentShares": 22702977,
+        "change": -3666651,
+        "change_p": -13.9048
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6917,
+        "totalAssets": 0.4381,
+        "currentShares": 21197423,
+        "change": 188186,
+        "change_p": 0.8957
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1984,
+        "totalAssets": 0.3908,
+        "currentShares": 98010072,
+        "change": -1276948,
+        "change_p": -1.2861
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5695,
+        "totalAssets": 0.4405,
+        "currentShares": 78737886,
+        "change": -2001446,
+        "change_p": -2.4789
+      },
+      "2": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3037,
+        "totalAssets": 0.4344,
+        "currentShares": 39948781,
+        "change": 65839,
+        "change_p": 0.1651
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2973,
+        "totalAssets": 0.4395,
+        "currentShares": 39752531,
+        "change": -21636,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1698,
+        "totalAssets": 0.4389,
+        "currentShares": 35845788,
+        "change": -88151,
+        "change_p": -0.2453
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9306,
+        "totalAssets": 1.0059,
+        "currentShares": 28517367,
+        "change": -718264,
+        "change_p": -2.4568
+      },
+      "6": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8604,
+        "totalAssets": 2.0489,
+        "currentShares": 26366190,
+        "change": -2718850,
+        "change_p": -9.3479
+      },
+      "7": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7588,
+        "totalAssets": 1.1157,
+        "currentShares": 23251961,
+        "change": 10484191,
+        "change_p": 82.1145
+      },
+      "8": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.7522,
+        "totalAssets": 1.795,
+        "currentShares": 23048541,
+        "change": -4780300,
+        "change_p": -17.1775
+      },
+      "9": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.6956,
+        "totalAssets": 0.7862,
+        "currentShares": 21316886,
+        "change": 259695,
+        "change_p": 1.2333
+      },
+      "10": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6899,
+        "totalAssets": 3.4871,
+        "currentShares": 21140092,
+        "change": 35772,
+        "change_p": 0.1695
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5686,
+        "totalAssets": 0.4395,
+        "currentShares": 17423804,
+        "change": -358333,
+        "change_p": -2.0151
+      },
+      "12": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5615,
+        "totalAssets": 1.2532,
+        "currentShares": 17206190,
+        "change": 2833466,
+        "change_p": 19.7142
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5387,
+        "totalAssets": 0.435,
+        "currentShares": 16508701,
+        "change": -224900,
+        "change_p": -1.344
+      },
+      "14": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.4706,
+        "totalAssets": 2.6701,
+        "currentShares": 14419656,
+        "change": -832974,
+        "change_p": -5.4612
+      },
+      "15": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.469,
+        "totalAssets": 1.2011,
+        "currentShares": 14372724,
+        "change": 572560,
+        "change_p": 4.1489
+      },
+      "16": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.4653,
+        "totalAssets": 2.7534,
+        "currentShares": 14258749,
+        "change": -2403864,
+        "change_p": -14.4267
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4558,
+        "totalAssets": 0.439,
+        "currentShares": 13968197,
+        "change": -128567,
+        "change_p": -0.912
+      },
+      "18": {
+        "name": "Fidelity Series Large Cap Stock",
+        "date": "2026-02-28",
+        "totalShares": 0.4199,
+        "totalAssets": 4.0849,
+        "currentShares": 12866589,
+        "change": -425000,
+        "change_p": -3.1975
+      },
+      "19": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4167,
+        "totalAssets": 0.6763,
+        "currentShares": 12767770,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 12.4288,
+    "ForwardPE": 11.4416,
+    "PriceSalesTTM": 2.9996,
+    "PriceBookMRQ": 1.5131,
+    "EnterpriseValue": 99134889984,
+    "EnterpriseValueRevenue": 5.6271,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 243369869312,
+    "MarketCapitalizationMln": 243369.8693,
+    "EBITDA": null,
+    "PERatio": 12.4288,
+    "PEGRatio": 1.4295,
+    "WallStreetTargetPrice": 96.7391,
+    "BookValue": 53.194,
+    "DividendShare": 1.75,
+    "DividendYield": 0.0217,
+    "EarningsShare": 6.39,
+    "EPSEstimateCurrentYear": 6.9815,
+    "EPSEstimateNextYear": 7.8882,
+    "EPSEstimateNextQuarter": 1.7614,
+    "EPSEstimateCurrentQuarter": 1.5834,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2674,
+    "OperatingMarginTTM": 0.2945,
+    "ReturnOnAssetsTTM": 0.0105,
+    "ReturnOnEquityTTM": 0.1203,
+    "RevenueTTM": 81135001600,
+    "RevenuePerShareTTM": 25.743,
+    "QuarterlyRevenueGrowthYOY": 0.057,
+    "GrossProfitTTM": 81135001600,
+    "DilutedEpsTTM": 6.39,
+    "QuarterlyEarningsGrowthYOY": 0.151
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.31,
+    "TotalEsgPercentile": 62.92,
+    "EnvironmentScore": 2.65,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 15.06,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 16.6,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 5,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "WFC",
+    "Type": "Common Stock",
+    "Name": "Wells Fargo & Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BWQFY7",
+    "ISIN": "US9497461015",
+    "LEI": "PBLD0EJDB5FWOLXP3B76",
+    "PrimaryTicker": "WFC.US",
+    "CUSIP": "668231103",
+    "CIK": "0000072971",
+    "EmployerIdNumber": "41-0449260",
+    "FiscalYearEnd": "December",
+    "IPODate": "1972-06-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Wells Fargo & Company, a financial services company, provides diversified banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The company's financial products and services includes checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services. It also provides personalized wealth management, brokerage, financial planning, lending, private banking, trust and fiduciary products and services; and financial solutions to private, family owned and public companies through products and services including banking and credit products across multiple industry sectors and municipalities, secured lending and lease products, and treasury management. In addition, it offers a suite of capital markets, banking, and financial products and services, such as corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity, and fixed income solutions, as well as sales, trading, and research capabilities services to corporate, commercial real estate, government, and institutional clients. Wells Fargo & Company was founded in 1852 and is headquartered in San Francisco, California.",
+    "Address": "333 Market Street, San Francisco, CA, United States, 94105",
+    "AddressData": {
+      "Street": "333 Market Street",
+      "City": "San Francisco",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94105"
+    },
+    "Listings": {
+      "0": {
+        "Code": "0R2F",
+        "Exchange": "LSE",
+        "Name": "Wells Fargo & Company"
+      },
+      "1": {
+        "Code": "0R2F",
+        "Exchange": "IL",
+        "Name": "Wells Fargo & Company"
+      },
+      "2": {
+        "Code": "NWT",
+        "Exchange": "STU",
+        "Name": "Wells Fargo & Company"
+      },
+      "3": {
+        "Code": "NWT",
+        "Exchange": "HM",
+        "Name": "Wells Fargo & Company"
+      },
+      "4": {
+        "Code": "NWT",
+        "Exchange": "BE",
+        "Name": "Wells Fargo & Company"
+      },
+      "5": {
+        "Code": "NWT",
+        "Exchange": "F",
+        "Name": "Wells Fargo & Company"
+      },
+      "6": {
+        "Code": "NWT",
+        "Exchange": "DU",
+        "Name": "Wells Fargo & Company"
+      },
+      "7": {
+        "Code": "NWT",
+        "Exchange": "MU",
+        "Name": "Wells Fargo & Company"
+      },
+      "8": {
+        "Code": "NWT",
+        "Exchange": "XETRA",
+        "Name": "Wells Fargo & Company"
+      },
+      "9": {
+        "Code": "NWT",
+        "Exchange": "HA",
+        "Name": "Wells Fargo & Company"
+      },
+      "10": {
+        "Code": "WFC",
+        "Exchange": "MX",
+        "Name": "Wells Fargo & Company"
+      },
+      "11": {
+        "Code": "WFC",
+        "Exchange": "BA",
+        "Name": "Wells Fargo & Company"
+      },
+      "12": {
+        "Code": "WFC",
+        "Exchange": "SN",
+        "Name": "Wells Fargo & Company"
+      },
+      "13": {
+        "Code": "WFC",
+        "Exchange": "LIM",
+        "Name": "Wells Fargo & Company"
+      },
+      "14": {
+        "Code": "WFCO34",
+        "Exchange": "SA",
+        "Name": "Wells Fargo & Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Charles W. Scharf",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Michael P. Santomassimo",
+        "Title": "Senior EVP & CFO",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. Fernando S. Rivas",
+        "Title": "Senior EVP & CEO of Corporate & Investment Banking",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Ms. Ellen Reilly Patterson Esq., J.D.",
+        "Title": "Senior EVP & General Counsel",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Kleber R. Santos",
+        "Title": "Senior EVP, Co-CEO of Consumer Banking & Lending",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Scott E. Powell",
+        "Title": "Senior EVP & COO",
+        "YearBorn": "1962"
+      },
+      "6": {
+        "Name": "Ms. Muneera S. Carr",
+        "Title": "Chief Accounting Officer, Executive VP & Controller",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Ms. Bridget E. Engle",
+        "Title": "Senior EVP & Head of Technology",
+        "YearBorn": "1964"
+      },
+      "8": {
+        "Name": "Mr. David  Owen",
+        "Title": "Chief Administrative Officer & Head of Global Operations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. John M. Campbell",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "415-371-2921",
+    "WebURL": "https://www.wellsfargo.com",
+    "LogoURL": "/img/logos/US/WFC.png",
+    "FullTimeEmployees": 200999,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 3064340053,
+    "SharesFloat": 3055943761,
+    "PercentInsiders": 0.10200000000000001,
+    "PercentInstitutions": 80.172,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0
+  }
+}

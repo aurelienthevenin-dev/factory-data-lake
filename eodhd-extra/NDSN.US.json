@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.2176,
+        "totalAssets": 0.0218,
+        "currentShares": 6257600,
+        "change": 186480,
+        "change_p": 3.0716
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.888,
+        "totalAssets": 0.0153,
+        "currentShares": 3842364,
+        "change": -12011,
+        "change_p": -0.3116
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1347,
+        "totalAssets": 0.0225,
+        "currentShares": 2864337,
+        "change": -93773,
+        "change_p": -3.17
+      },
+      "3": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.058,
+        "totalAssets": 1.4608,
+        "currentShares": 2263686,
+        "change": -199192,
+        "change_p": -8.0878
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7112,
+        "totalAssets": 0.0224,
+        "currentShares": 1512403,
+        "change": -5269,
+        "change_p": -0.3472
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.6704,
+        "totalAssets": 0.0205,
+        "currentShares": 1489667,
+        "change": -6560,
+        "change_p": -0.4384
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.5764,
+        "totalAssets": 0.0098,
+        "currentShares": 1437232,
+        "change": 1095011,
+        "change_p": 319.9719
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.7862,
+        "totalAssets": 0.0773,
+        "currentShares": 996417,
+        "change": -70491,
+        "change_p": -6.607
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7405,
+        "totalAssets": 0.0347,
+        "currentShares": 970923,
+        "change": -15276,
+        "change_p": -1.549
+      },
+      "9": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6359,
+        "totalAssets": 0.0112,
+        "currentShares": 912558,
+        "change": 22105,
+        "change_p": 2.4824
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5269,
+        "totalAssets": 0.0251,
+        "currentShares": 851759,
+        "change": 97496,
+        "change_p": 12.926
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.429,
+        "totalAssets": 0.0205,
+        "currentShares": 797129,
+        "change": 147702,
+        "change_p": 22.7434
+      },
+      "12": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2402,
+        "totalAssets": 0.07,
+        "currentShares": 691824,
+        "change": 99439,
+        "change_p": 16.7862
+      },
+      "13": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2314,
+        "totalAssets": 0.2915,
+        "currentShares": 686924,
+        "change": -86623,
+        "change_p": -11.1982
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9482,
+        "totalAssets": 0.0215,
+        "currentShares": 528924,
+        "change": -13284,
+        "change_p": -2.45
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8821,
+        "totalAssets": 0.0143,
+        "currentShares": 492080,
+        "change": 5859,
+        "change_p": 1.205
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8539,
+        "totalAssets": 0.0178,
+        "currentShares": 476346,
+        "change": -1141,
+        "change_p": -0.239
+      },
+      "17": {
+        "name": "Champlain Investment Partners, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8367,
+        "totalAssets": 1.1361,
+        "currentShares": 466728,
+        "change": -164086,
+        "change_p": -26.0118
+      },
+      "18": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8015,
+        "totalAssets": 0.0193,
+        "currentShares": 447105,
+        "change": -8497,
+        "change_p": -1.865
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7853,
+        "totalAssets": 0.0221,
+        "currentShares": 438050,
+        "change": 3798,
+        "change_p": 0.8746
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0097,
+        "totalAssets": 0.0224,
+        "currentShares": 1678899,
+        "change": -7072,
+        "change_p": -0.4195
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4167,
+        "totalAssets": 0.0252,
+        "currentShares": 1348108,
+        "change": -24644,
+        "change_p": -1.7952
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.1931,
+        "totalAssets": 0.1959,
+        "currentShares": 1223395,
+        "change": 11075,
+        "change_p": 0.9135
+      },
+      "3": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-12-31",
+        "totalShares": 1.6403,
+        "totalAssets": 0.0293,
+        "currentShares": 915000,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Loomis Sayles CPFD CIT",
+        "date": "2025-12-31",
+        "totalShares": 1.6403,
+        "totalAssets": 0.0293,
+        "currentShares": 915000,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Core Plus Full Discretion CIT D",
+        "date": "2025-12-31",
+        "totalShares": 1.6403,
+        "totalAssets": 0.0293,
+        "currentShares": 915000,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Eaton Vance Atlanta Capital SMID-Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.2595,
+        "totalAssets": 1.8367,
+        "currentShares": 702572,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2271,
+        "totalAssets": 0.462,
+        "currentShares": 684543,
+        "change": 11375,
+        "change_p": 1.6898
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2197,
+        "totalAssets": 0.0251,
+        "currentShares": 680396,
+        "change": -372,
+        "change_p": -0.0546
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2177,
+        "totalAssets": 0.0266,
+        "currentShares": 679284,
+        "change": 1117,
+        "change_p": 0.1647
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.137,
+        "totalAssets": 0.1979,
+        "currentShares": 634272,
+        "change": 1834,
+        "change_p": 0.29
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1102,
+        "totalAssets": 0.0253,
+        "currentShares": 619297,
+        "change": -1519,
+        "change_p": -0.2447
+      },
+      "12": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.085,
+        "totalAssets": 1.4582,
+        "currentShares": 605270,
+        "change": -288,
+        "change_p": -0.0476
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7874,
+        "totalAssets": 0.5651,
+        "currentShares": 439250,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7208,
+        "totalAssets": 0.5826,
+        "currentShares": 402086,
+        "change": -16283,
+        "change_p": -3.892
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5339,
+        "totalAssets": 0.0251,
+        "currentShares": 297838,
+        "change": -4795,
+        "change_p": -1.5844
+      },
+      "16": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5311,
+        "totalAssets": 0.0672,
+        "currentShares": 296294,
+        "change": 1658,
+        "change_p": 0.5627
+      },
+      "17": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5271,
+        "totalAssets": 0.2784,
+        "currentShares": 294052,
+        "change": -2040,
+        "change_p": -0.689
+      },
+      "18": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.5265,
+        "totalAssets": 0.4979,
+        "currentShares": 293682,
+        "change": -102638,
+        "change_p": -25.8978
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5065,
+        "totalAssets": 0.0249,
+        "currentShares": 282528,
+        "change": -2000,
+        "change_p": -0.7029
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.5915,
+    "ForwardPE": 24.57,
+    "PriceSalesTTM": 5.535,
+    "PriceBookMRQ": 5.086,
+    "EnterpriseValue": 17797339620,
+    "EnterpriseValueRevenue": 6.2523,
+    "EnterpriseValueEbitda": 19.8553
+  },
+  "Highlights": {
+    "MarketCapitalization": 15751056384,
+    "MarketCapitalizationMln": 15751.0564,
+    "EBITDA": 908942976,
+    "PERatio": 30.5915,
+    "PEGRatio": 1.906,
+    "WallStreetTargetPrice": 308.4286,
+    "BookValue": 55.789,
+    "DividendShare": 3.2,
+    "DividendYield": 0.0113,
+    "EarningsShare": 9.23,
+    "EPSEstimateCurrentYear": 11.4356,
+    "EPSEstimateNextYear": 12.3807,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.3722,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.1839,
+    "OperatingMarginTTM": 0.25,
+    "ReturnOnAssetsTTM": 0.0802,
+    "ReturnOnEquityTTM": 0.1747,
+    "RevenueTTM": 2845728000,
+    "RevenuePerShareTTM": 50.572,
+    "QuarterlyRevenueGrowthYOY": 0.088,
+    "GrossProfitTTM": 1573144960,
+    "DilutedEpsTTM": 9.23,
+    "QuarterlyEarningsGrowthYOY": 0.442
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.6,
+    "TotalEsgPercentile": 57.28,
+    "EnvironmentScore": 14.05,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 18.34,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 11.72,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NDSN",
+    "Type": "Common Stock",
+    "Name": "Nordson Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BPWGR1",
+    "ISIN": "US6556631025",
+    "LEI": "14OS6Q5N55N95WM84M53",
+    "PrimaryTicker": "NDSN.US",
+    "CUSIP": "655663102",
+    "CIK": "0000072331",
+    "EmployerIdNumber": "34-0590250",
+    "FiscalYearEnd": "October",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Nordson Corporation engineers, manufactures, and markets products and systems to dispense, apply, and control adhesives, coatings, polymers, sealants, biomaterials, medical components, and other fluids. The Industrial Precision Solutions segment provides dispensing, coating, and laminating systems for adhesives, lotions, liquids, and fibers to disposable products and roll goods; automated adhesive dispensing systems; components and systems for thermoplastic and biopolymer melt stream; fluid components, such as nozzles, pumps, and filters; smart components that measure and control the flow, quantity and location of dispensed fluid; control systems; and product assembly solutions. It also offers automated and manual dispensing products and systems for cold materials, container coating, liquid finishing, and powder coating, as well as ultraviolet equipment. The Medical and Fluid Solutions segment offers precision manual and semi-automated dispensers, plastic molded syringes, cartridges, tips, and fluid connection components; interventional solutions for engineered shafts and interventional delivery systems, medical tubing, balloons, balloon inflators, nitinol devices, cardiovascular cannula, and biomaterial delivery; medical fluid components; and microplegia myocardial protection devices and related consumables. The Advanced Technology Solutions segment provides automated dispensing systems for high-speed, precise application of various attachment, protection, and coating fluids, and related gas plasma treatment systems; destructive and non-destructive testing technologies, such as bond testers and automated optical, acoustic microscopy, and x-ray inspection systems used in the semiconductor and printed circuit board industries; and precision measurement and control technologies. The company markets its products through direct sales force, distributors, and sales representatives. Nordson Corporation was founded in 1909 and is headquartered in Westlake, Ohio.",
+    "Address": "28601 Clemens Road, Westlake, OH, United States, 44145-4551",
+    "AddressData": {
+      "Street": "28601 Clemens Road",
+      "City": "Westlake",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44145-4551"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Sundaram  Nagarajan",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Daniel R. Hopgood",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Ms. Jennifer L. McDonough J.D.",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Joseph P. Kelley",
+        "Title": "Executive VP of Industrial Precision Solutions Leader",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Srinivas  Subramanian",
+        "Title": "Executive Vice President of Advanced Technology Solutions",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Joseph M. Rutledge",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Ms. Lara L. Mahoney",
+        "Title": "Vice President of Investor Relations & Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Katie  Colacarro",
+        "Title": "Vice President of Corporate Development",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Sarah  Siddiqui",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1978"
+      },
+      "9": {
+        "Name": "Mr. James E. DeVries",
+        "Title": "Executive Vice President of Continuous Improvement",
+        "YearBorn": "1959"
+      }
+    },
+    "Phone": "440-892-1580",
+    "WebURL": "https://www.nordson.com",
+    "LogoURL": "/img/logos/US/NDSN.png",
+    "FullTimeEmployees": 8200,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 55783598,
+    "SharesFloat": 49738887,
+    "PercentInsiders": 5.583,
+    "PercentInstitutions": 78.119,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0218
+  }
+}

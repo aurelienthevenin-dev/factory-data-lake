@@ -1,0 +1,612 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.6452,
+        "totalAssets": 0.0492,
+        "currentShares": 26305533,
+        "change": 766499,
+        "change_p": 3.0013
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3497,
+        "totalAssets": 0.043,
+        "currentShares": 17369777,
+        "change": 98144,
+        "change_p": 0.5682
+      },
+      "2": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.9838,
+        "totalAssets": 0.2964,
+        "currentShares": 12447948,
+        "change": 379443,
+        "change_p": 3.1441
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1946,
+        "totalAssets": 0.0534,
+        "currentShares": 10806278,
+        "change": 247747,
+        "change_p": 2.3464
+      },
+      "4": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.7268,
+        "totalAssets": 0.1725,
+        "currentShares": 9833064,
+        "change": -18173,
+        "change_p": -0.1845
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6884,
+        "totalAssets": 0.0444,
+        "currentShares": 5592670,
+        "change": 117322,
+        "change_p": 2.1427
+      },
+      "6": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.678,
+        "totalAssets": 0.181,
+        "currentShares": 5571081,
+        "change": 602602,
+        "change_p": 12.1285
+      },
+      "7": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.4321,
+        "totalAssets": 0.1924,
+        "currentShares": 2979118,
+        "change": 202920,
+        "change_p": 7.3093
+      },
+      "8": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.312,
+        "totalAssets": 0.148,
+        "currentShares": 2729226,
+        "change": 1895631,
+        "change_p": 227.4043
+      },
+      "9": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.266,
+        "totalAssets": 0.272,
+        "currentShares": 2633729,
+        "change": -21465,
+        "change_p": -0.8084
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2078,
+        "totalAssets": 0.0107,
+        "currentShares": 2512568,
+        "change": 1483031,
+        "change_p": 144.0483
+      },
+      "11": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.207,
+        "totalAssets": 0.3353,
+        "currentShares": 2510902,
+        "change": -46009,
+        "change_p": -1.7994
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1947,
+        "totalAssets": 0.0213,
+        "currentShares": 2485317,
+        "change": 118753,
+        "change_p": 5.018
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1755,
+        "totalAssets": 0.0545,
+        "currentShares": 2445469,
+        "change": 58457,
+        "change_p": 2.449
+      },
+      "14": {
+        "name": "Soroban Capital Partners LP",
+        "date": "2025-12-31",
+        "totalShares": 0.9607,
+        "totalAssets": 1.9722,
+        "currentShares": 1998510,
+        "change": 1148697,
+        "change_p": 135.1706
+      },
+      "15": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9023,
+        "totalAssets": 0.0416,
+        "currentShares": 1877140,
+        "change": 433763,
+        "change_p": 30.052
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8411,
+        "totalAssets": 0.0317,
+        "currentShares": 1749715,
+        "change": -39950,
+        "change_p": -2.2323
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7772,
+        "totalAssets": 0.0155,
+        "currentShares": 1616824,
+        "change": 54222,
+        "change_p": 3.47
+      },
+      "18": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7269,
+        "totalAssets": 0.0533,
+        "currentShares": 1512056,
+        "change": 26026,
+        "change_p": 1.7514
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6643,
+        "totalAssets": 0.0395,
+        "currentShares": 1381945,
+        "change": -15842,
+        "change_p": -1.1334
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.6998,
+        "totalAssets": 0.0411,
+        "currentShares": 5616305,
+        "change": 35224,
+        "change_p": 0.6311
+      },
+      "1": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.6849,
+        "totalAssets": 0.7472,
+        "currentShares": 5585437,
+        "change": 2107712,
+        "change_p": 60.6061
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5418,
+        "totalAssets": 0.0543,
+        "currentShares": 5287751,
+        "change": -54376,
+        "change_p": -1.0179
+      },
+      "3": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8597,
+        "totalAssets": 0.2397,
+        "currentShares": 3868743,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.8597,
+        "totalAssets": 0.2837,
+        "currentShares": 3868743,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.8331,
+        "totalAssets": 0.2806,
+        "currentShares": 3813406,
+        "change": -23462,
+        "change_p": -0.6115
+      },
+      "6": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7008,
+        "totalAssets": 2.1301,
+        "currentShares": 3538064,
+        "change": -3015,
+        "change_p": -0.0851
+      },
+      "7": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6718,
+        "totalAssets": 0.4022,
+        "currentShares": 3477725,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 1.5205,
+        "totalAssets": 0.3815,
+        "currentShares": 3163094,
+        "change": 353405,
+        "change_p": 12.5781
+      },
+      "9": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.394,
+        "totalAssets": 0.2995,
+        "currentShares": 2899859,
+        "change": -2201858,
+        "change_p": -43.1592
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2832,
+        "totalAssets": 0.0542,
+        "currentShares": 2669474,
+        "change": -1452,
+        "change_p": -0.0544
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2705,
+        "totalAssets": 0.0523,
+        "currentShares": 2643040,
+        "change": 4368,
+        "change_p": 0.1655
+      },
+      "12": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.2528,
+        "totalAssets": 0.1446,
+        "currentShares": 2606134,
+        "change": 842229,
+        "change_p": 47.748
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1556,
+        "totalAssets": 0.0541,
+        "currentShares": 2403985,
+        "change": -5929,
+        "change_p": -0.246
+      },
+      "14": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 1.0596,
+        "totalAssets": 1.3171,
+        "currentShares": 2204308,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Janus Henderson Mid Cap Growth MA",
+        "date": "2025-09-30",
+        "totalShares": 1.0596,
+        "totalAssets": 1.3203,
+        "currentShares": 2204308,
+        "change": 2204308,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 1.0596,
+        "totalAssets": 1.2467,
+        "currentShares": 2204308,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.8999,
+        "totalAssets": 1.406,
+        "currentShares": 1872127,
+        "change": -18363,
+        "change_p": -0.9713
+      },
+      "18": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.8817,
+        "totalAssets": 1.0806,
+        "currentShares": 1834205,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Capital Group Dividend Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8746,
+        "totalAssets": 0.9126,
+        "currentShares": 1819350,
+        "change": 39061,
+        "change_p": 2.1941
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.8636,
+    "ForwardPE": 19.2308,
+    "PriceSalesTTM": 1.9322,
+    "PriceBookMRQ": 2.4923,
+    "EnterpriseValue": 56745344445,
+    "EnterpriseValueRevenue": 3.5883,
+    "EnterpriseValueEbitda": 12.7604
+  },
+  "Highlights": {
+    "MarketCapitalization": 30555170816,
+    "MarketCapitalizationMln": 30555.1708,
+    "EBITDA": 3616999936,
+    "PERatio": 20.8636,
+    "PEGRatio": 2.0458,
+    "WallStreetTargetPrice": 160.1072,
+    "BookValue": 59.222,
+    "DividendShare": 4.435,
+    "DividendYield": 0.0301,
+    "EarningsShare": 7.04,
+    "EPSEstimateCurrentYear": 7.7185,
+    "EPSEstimateNextYear": 8.3509,
+    "EPSEstimateNextQuarter": 2.0934,
+    "EPSEstimateCurrentQuarter": 1.5237,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0925,
+    "OperatingMarginTTM": 0.1592,
+    "ReturnOnAssetsTTM": 0.0294,
+    "ReturnOnEquityTTM": 0.1218,
+    "RevenueTTM": 15813999616,
+    "RevenuePerShareTTM": 76.396,
+    "QuarterlyRevenueGrowthYOY": 0.289,
+    "GrossProfitTTM": 4792999936,
+    "DilutedEpsTTM": 7.04,
+    "QuarterlyEarningsGrowthYOY": 0.255
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.14,
+    "TotalEsgPercentile": 62.1,
+    "EnvironmentScore": 16.54,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 10.4,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 8.2,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DTE",
+    "Type": "Common Stock",
+    "Name": "DTE Energy Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BB29X4",
+    "ISIN": "US2333311072",
+    "LEI": "549300IX8SD6XXD71I78",
+    "PrimaryTicker": "DTE.US",
+    "CUSIP": "233331107",
+    "CIK": "0000936340",
+    "EmployerIdNumber": "38-3217752",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Multi-Utilities",
+    "GicSubIndustry": "Multi-Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "DTE Energy Company engages in energy-related businesses and services. The company operates through four segments: Electric, Gas, DTE Vantage, and Energy Trading.The company's Electric segment generates, purchases, distributes, and sells electricity to approximately 2.3 million residential, commercial, and industrial customers in southeastern Michigan. It generates electricity through coal-fired plants, natural gas plant, hydroelectric pumped storage, and nuclear plants, as well as wind and solar assets. This segment owns and operates 702 distribution substations with a capacity of approximately 37,870,000 kilovolt-amperes (kVA) and approximately 4,56,900 line transformers with a capacity of approximately 33,770,000 kVA. The company's Gas segment purchases, stores, transports, distributes, and sells natural gas to approximately 1.4 million residential, commercial, and industrial customers throughout Michigan; and sells storage and transportation capacity. This segment has approximately 21,000 miles of distribution mains; 1,242,000 service pipelines; and 1,361,000 active meters, as well as owns approximately 2,000 miles of transmission pipelines. Its DTE Vantage segment offers metallurgical and petroleum coke to steel and other industries; and power generation, steam production, chilled water production, and wastewater treatment services, as well as compressed air supply to industrial customers. This segment also owns and operates 2 renewable generating plants with a capacity of 70 MWs; and 22 gas recovery sites. Its Energy Trading segment engages in power, natural gas, and environmental marketing and trading; structured transactions; and the optimization of contracted natural gas pipeline transportation and storage positions. The company was founded in 1849 and is based in Detroit, Michigan.",
+    "Address": "One Energy Plaza, Detroit, MI, United States, 48226-1221",
+    "AddressData": {
+      "Street": "One Energy Plaza",
+      "City": "Detroit",
+      "State": "MI",
+      "Country": "United States",
+      "ZIP": "48226-1221"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DTJ",
+        "Exchange": "US",
+        "Name": "DTE Energy Company JR SUB DEB 76"
+      },
+      "1": {
+        "Code": "DTP",
+        "Exchange": "US",
+        "Name": "DTE Energy Co"
+      },
+      "2": {
+        "Code": "DTQ",
+        "Exchange": "US",
+        "Name": "DTE Energy Company SUB DEB 62"
+      },
+      "3": {
+        "Code": "DTW",
+        "Exchange": "US",
+        "Name": "DTE Energy Co Pref Series E"
+      },
+      "4": {
+        "Code": "DTY",
+        "Exchange": "US",
+        "Name": "DTE Energy Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Gerardo  Norcia",
+        "Title": "Executive Chairman",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Ms. Joi M. Harris",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Trevor F. Lauer",
+        "Title": "Vice Chairman & Group President",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. David S. Ruud",
+        "Title": "Vice Chairman, Executive VP & CFO",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Mr. Matthew T. Paul",
+        "Title": "President & Chief Operating Officer ? DTE Electric",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Tracy J. Myrick",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Bill  Chiu",
+        "Title": "Vice President of Distribution Engineering & Technology",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Steven B. Ambrose",
+        "Title": "Chief Information Officer & VP",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. John  Dermody",
+        "Title": "Manager of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Kathrine M. Lorenz",
+        "Title": "Senior VP & Chief Legal Officer",
+        "YearBorn": "1983"
+      }
+    },
+    "Phone": "313 235 4000",
+    "WebURL": "https://www.dteenergy.com",
+    "LogoURL": "/img/logos/US/dte.png",
+    "FullTimeEmployees": 9650,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 208028117,
+    "SharesFloat": 206696170,
+    "PercentInsiders": 0.402,
+    "PercentInstitutions": 79.63,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0288
+  }
+}

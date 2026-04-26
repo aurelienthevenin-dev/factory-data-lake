@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5425,
+        "totalAssets": 0.0141,
+        "currentShares": 25469216,
+        "change": 1501002,
+        "change_p": 6.2625
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.8872,
+        "totalAssets": 0.0095,
+        "currentShares": 23515429,
+        "change": -130002,
+        "change_p": -0.5498
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.7275,
+        "totalAssets": 0.0122,
+        "currentShares": 11113466,
+        "change": -846893,
+        "change_p": -7.0808
+      },
+      "3": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.7857,
+        "totalAssets": 0.0486,
+        "currentShares": 8305417,
+        "change": 1758460,
+        "change_p": 26.8592
+      },
+      "4": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.6818,
+        "totalAssets": 0.0398,
+        "currentShares": 7995733,
+        "change": 2387575,
+        "change_p": 42.5732
+      },
+      "5": {
+        "name": "Beutel, Goodman & Company Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 2.1022,
+        "totalAssets": 1.0731,
+        "currentShares": 6267644,
+        "change": -474083,
+        "change_p": -7.0321
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.9625,
+        "totalAssets": 0.0112,
+        "currentShares": 5851150,
+        "change": 1500809,
+        "change_p": 34.4987
+      },
+      "7": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8899,
+        "totalAssets": 0.2215,
+        "currentShares": 5634710,
+        "change": 697540,
+        "change_p": 14.1283
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8501,
+        "totalAssets": 0.0095,
+        "currentShares": 5516023,
+        "change": -104312,
+        "change_p": -1.856
+      },
+      "9": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8123,
+        "totalAssets": 0.2928,
+        "currentShares": 5403400,
+        "change": 1136000,
+        "change_p": 26.6204
+      },
+      "10": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.2666,
+        "totalAssets": 0.2295,
+        "currentShares": 3776404,
+        "change": -71296,
+        "change_p": -1.853
+      },
+      "11": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.2514,
+        "totalAssets": 0.0185,
+        "currentShares": 3730947,
+        "change": 2377488,
+        "change_p": 175.6601
+      },
+      "12": {
+        "name": "Brandywine Managers LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1167,
+        "totalAssets": 45.8788,
+        "currentShares": 3329500,
+        "change": 3329500,
+        "change_p": 0
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0383,
+        "totalAssets": 0.0029,
+        "currentShares": 3095662,
+        "change": 2078107,
+        "change_p": 204.2255
+      },
+      "14": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.0245,
+        "totalAssets": 0.0499,
+        "currentShares": 3054427,
+        "change": 677037,
+        "change_p": 28.4782
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9909,
+        "totalAssets": 0.0167,
+        "currentShares": 2954186,
+        "change": -287696,
+        "change_p": -8.8744
+      },
+      "16": {
+        "name": "HPM Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8992,
+        "totalAssets": 0.1089,
+        "currentShares": 2680839,
+        "change": 1757264,
+        "change_p": 190.2676
+      },
+      "17": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.7929,
+        "totalAssets": 0.0213,
+        "currentShares": 2364058,
+        "change": -103964,
+        "change_p": -4.2124
+      },
+      "18": {
+        "name": "Ensign Peak Advisors Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7218,
+        "totalAssets": 0.1059,
+        "currentShares": 2151955,
+        "change": -142904,
+        "change_p": -6.2271
+      },
+      "19": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.7008,
+        "totalAssets": 0.0423,
+        "currentShares": 2089400,
+        "change": 280277,
+        "change_p": 15.4924
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.5385,
+        "totalAssets": 0.1976,
+        "currentShares": 7568535,
+        "change": 22270,
+        "change_p": 0.2951
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.2237,
+        "totalAssets": 0.0074,
+        "currentShares": 6629744,
+        "change": 457460,
+        "change_p": 7.4115
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.6836,
+        "totalAssets": 0.0079,
+        "currentShares": 5019565,
+        "change": -34238,
+        "change_p": -0.6775
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.617,
+        "totalAssets": 0.0646,
+        "currentShares": 4821118,
+        "change": 425287,
+        "change_p": 9.6748
+      },
+      "4": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4015,
+        "totalAssets": 0.4175,
+        "currentShares": 4178410,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1078,
+        "totalAssets": 1.0416,
+        "currentShares": 3302787,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.0284,
+        "totalAssets": 0.1124,
+        "currentShares": 3066219,
+        "change": 243955,
+        "change_p": 8.6439
+      },
+      "7": {
+        "name": "Invesco S&P 500® High Div Low Vol ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9928,
+        "totalAssets": 2.0069,
+        "currentShares": 2959977,
+        "change": -4470,
+        "change_p": -0.1508
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8482,
+        "totalAssets": 0.0078,
+        "currentShares": 2528903,
+        "change": -1380,
+        "change_p": -0.0545
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.8387,
+        "totalAssets": 0.009,
+        "currentShares": 2500476,
+        "change": 4095,
+        "change_p": 0.164
+      },
+      "10": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.7793,
+        "totalAssets": 0.4102,
+        "currentShares": 2323547,
+        "change": 53177,
+        "change_p": 2.3422
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7725,
+        "totalAssets": 0.0079,
+        "currentShares": 2303239,
+        "change": -5586,
+        "change_p": -0.2419
+      },
+      "12": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6975,
+        "totalAssets": 0.3659,
+        "currentShares": 2079621,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6905,
+        "totalAssets": 0.2959,
+        "currentShares": 2058726,
+        "change": -890,
+        "change_p": -0.0432
+      },
+      "14": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5899,
+        "totalAssets": 0.2954,
+        "currentShares": 1758914,
+        "change": -71226,
+        "change_p": -3.8918
+      },
+      "15": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.5743,
+        "totalAssets": 0.2666,
+        "currentShares": 1712141,
+        "change": -21548,
+        "change_p": -1.2429
+      },
+      "16": {
+        "name": "First Trust Value Line® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5415,
+        "totalAssets": 0.445,
+        "currentShares": 1614511,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Beutel Goodman American Equity Class D",
+        "date": "2026-02-28",
+        "totalShares": 0.4613,
+        "totalAssets": 1.8801,
+        "currentShares": 1375256,
+        "change": -25832,
+        "change_p": -1.8437
+      },
+      "18": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.4229,
+        "totalAssets": 0.1722,
+        "currentShares": 1260953,
+        "change": -1629827,
+        "change_p": -56.3802
+      },
+      "19": {
+        "name": "BlackRock Systematic Multi-Strat Instl",
+        "date": "2026-01-31",
+        "totalShares": 0.3925,
+        "totalAssets": 0.3991,
+        "currentShares": 1170098,
+        "change": 1170098,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.3923,
+    "ForwardPE": 9.1575,
+    "PriceSalesTTM": 0.6125,
+    "PriceBookMRQ": 1.5611,
+    "EnterpriseValue": 12766131853,
+    "EnterpriseValueRevenue": 1.2719,
+    "EnterpriseValueEbitda": 8.726
+  },
+  "Highlights": {
+    "MarketCapitalization": 6147781120,
+    "MarketCapitalizationMln": 6147.7811,
+    "EBITDA": 1747000064,
+    "PERatio": 11.3923,
+    "PEGRatio": 0.6359,
+    "WallStreetTargetPrice": 24.0588,
+    "BookValue": 13.44,
+    "DividendShare": 1.56,
+    "DividendYield": 0.0744,
+    "EarningsShare": 1.81,
+    "EPSEstimateCurrentYear": 2.1839,
+    "EPSEstimateNextYear": 2.2084,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.5707,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0548,
+    "OperatingMarginTTM": 0.1166,
+    "ReturnOnAssetsTTM": 0.0535,
+    "ReturnOnEquityTTM": 0.1389,
+    "RevenueTTM": 10037000192,
+    "RevenuePerShareTTM": 33.681,
+    "QuarterlyRevenueGrowthYOY": -0.045,
+    "GrossProfitTTM": 2972000000,
+    "DilutedEpsTTM": 1.81,
+    "QuarterlyEarningsGrowthYOY": -0.172
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29,
+    "TotalEsgPercentile": 34,
+    "EnvironmentScore": 15.34,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 11.29,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 8.88,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CPB",
+    "Type": "Common Stock",
+    "Name": "Campbell’s Co",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BG4202",
+    "ISIN": "US1344291091",
+    "LEI": "5493007JDSMX8Z5Z1902",
+    "PrimaryTicker": "CPB.US",
+    "CUSIP": "134429109",
+    "CIK": "0000016732",
+    "EmployerIdNumber": "21-0419870",
+    "FiscalYearEnd": "July",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Campbell's Company, together with its subsidiaries, manufactures and markets food and beverage products in the United States and internationally. It operates through Meals & Beverages, and Snacks segments. The Meals & Beverages segment engages in the retail and foodservice businesses in the United States and Canada. This segment provides Campbell's condensed and ready-to-serve soups; Swanson broth and stocks; Pacific Foods broth, soups, and non-dairy beverages; Prego pasta sauces; Pace Mexican sauces; Campbell's gravies, pasta, beans, and dinner sauces; Swanson canned poultry; V8 juices and beverages; Campbell's tomato juice; Rao's pasta sauces, dry pasta, frozen entrées, frozen pizza, and soups; and Michael Angelo's frozen entrées and pasta sauces, as well as snacking products in foodservice in Canada. Its Snacks segment retails Pepperidge Farm cookies, crackers, fresh bakery, and frozen products, that includes Goldfish crackers, Snyder's of Hanover pretzels, Lance sandwich crackers, Cape Cod and Kettle Brand potato chips, Late July snacks, Snack Factory pretzel crisps, and other snacking products. This segment is also involved in the snacking, and meals and beverage retail business in Latin America. It sells its products through retail food chains, mass discounters and merchandisers, club stores, convenience and dollar stores, e-commerce and other retail, commercial, and non-commercial establishments, and independent contractor distributors. The company was formerly known as Campbell Soup Company and changed its name to The Campbell's Company in November 2024. The Campbell's Company was founded in 1869 and is headquartered in Camden, New Jersey.",
+    "Address": "1 Campbell Place, Camden, NJ, United States, 08103-1799",
+    "AddressData": {
+      "Street": "1 Campbell Place",
+      "City": "Camden",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "08103-1799"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mick J. Beekhuizen",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1976"
+      },
+      "1": {
+        "Name": "Mr. Charles A. Brawley III",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Ms. Diane Johnson May",
+        "Title": "Executive VP & Chief People and Culture Officer",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Mr. Daniel L. Poland",
+        "Title": "Executive Vice President & Chief Enterprise Transformation Officer",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Todd E. Cunfer",
+        "Title": "Executive VP & Chief Financial Officer",
+        "YearBorn": "1965"
+      },
+      "5": {
+        "Name": "Ms. Kelly L. Palumbo",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Joshua  Levine",
+        "Title": "Chief Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Anthony J. Sanzio",
+        "Title": "Executive VP & Chief Communications Officer",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Ms. Janda  Lukin",
+        "Title": "Executive VP & Chief Growth Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Risa  Cretella",
+        "Title": "Executive VP and President of Meals & Beverages",
+        "YearBorn": "1980"
+      }
+    },
+    "Phone": "856 342 4800",
+    "WebURL": "https://www.thecampbellscompany.com",
+    "LogoURL": "/img/logos/US/cpb.png",
+    "FullTimeEmployees": 13700,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 298146488,
+    "SharesFloat": 192188208,
+    "PercentInsiders": 33.629,
+    "PercentInstitutions": 62.678999999999995,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.2325
+  }
+}

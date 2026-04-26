@@ -1,0 +1,518 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8468,
+        "totalAssets": 0.0654,
+        "currentShares": 160958816,
+        "change": 1538456,
+        "change_p": 0.965
+      },
+      "1": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.9726,
+        "totalAssets": 0.1935,
+        "currentShares": 135493716,
+        "change": 32116101,
+        "change_p": 31.0668
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.4015,
+        "totalAssets": 0.0872,
+        "currentShares": 114147826,
+        "change": 45156781,
+        "change_p": 65.4531
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.013,
+        "totalAssets": 0.0486,
+        "currentShares": 108869632,
+        "change": -4646884,
+        "change_p": -4.0936
+      },
+      "4": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.2464,
+        "totalAssets": 0.3751,
+        "currentShares": 98453872,
+        "change": -16305980,
+        "change_p": -14.2088
+      },
+      "5": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 6.3495,
+        "totalAssets": 3.054,
+        "currentShares": 86269175,
+        "change": 23650072,
+        "change_p": 37.7681
+      },
+      "6": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7543,
+        "totalAssets": 0.0576,
+        "currentShares": 64594706,
+        "change": 986700,
+        "change_p": 1.5512
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.1955,
+        "totalAssets": 0.2798,
+        "currentShares": 57003344,
+        "change": 15393753,
+        "change_p": 36.9957
+      },
+      "8": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.2883,
+        "totalAssets": 0.495,
+        "currentShares": 44677079,
+        "change": 44677079,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3407,
+        "totalAssets": 0.0547,
+        "currentShares": 31802056,
+        "change": 1187457,
+        "change_p": 3.8787
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8126,
+        "totalAssets": 0.038,
+        "currentShares": 24626732,
+        "change": -2392495,
+        "change_p": -8.8548
+      },
+      "11": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5638,
+        "totalAssets": 1.9819,
+        "currentShares": 21247485,
+        "change": 688519,
+        "change_p": 3.349
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4935,
+        "totalAssets": 0.0608,
+        "currentShares": 20291351,
+        "change": 3094584,
+        "change_p": 17.9951
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2707,
+        "totalAssets": 0.0694,
+        "currentShares": 17264889,
+        "change": -14202742,
+        "change_p": -45.1344
+      },
+      "14": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.2408,
+        "totalAssets": 0.074,
+        "currentShares": 16858031,
+        "change": 16050437,
+        "change_p": 1987.4389
+      },
+      "15": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0234,
+        "totalAssets": 0.0556,
+        "currentShares": 13904304,
+        "change": 4759462,
+        "change_p": 52.0453
+      },
+      "16": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9961,
+        "totalAssets": 0.6079,
+        "currentShares": 13533231,
+        "change": -1109228,
+        "change_p": -7.5754
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9882,
+        "totalAssets": 0.0438,
+        "currentShares": 13426432,
+        "change": -961639,
+        "change_p": -6.6836
+      },
+      "18": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8564,
+        "totalAssets": 0.171,
+        "currentShares": 11636027,
+        "change": 8615869,
+        "change_p": 285.2788
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7879,
+        "totalAssets": 0.0185,
+        "currentShares": 10704715,
+        "change": -526499,
+        "change_p": -4.6878
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 3.7308,
+        "totalAssets": 0.6693,
+        "currentShares": 50688553,
+        "change": 3530611,
+        "change_p": 7.4868
+      },
+      "1": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.4709,
+        "totalAssets": 0.6344,
+        "currentShares": 47157942,
+        "change": 7868246,
+        "change_p": 20.0262
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0156,
+        "totalAssets": 0.054,
+        "currentShares": 40972418,
+        "change": 162602,
+        "change_p": 0.3984
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5462,
+        "totalAssets": 0.064,
+        "currentShares": 34594317,
+        "change": -349720,
+        "change_p": -1.0008
+      },
+      "4": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 0.2023,
+        "currentShares": 28515246,
+        "change": -95374,
+        "change_p": -0.3334
+      },
+      "5": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.0561,
+        "totalAssets": 0.279,
+        "currentShares": 27935511,
+        "change": 746948,
+        "change_p": 2.7473
+      },
+      "6": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0522,
+        "totalAssets": 0.3694,
+        "currentShares": 27882825,
+        "change": -168930,
+        "change_p": -0.6022
+      },
+      "7": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.818,
+        "totalAssets": 1.1067,
+        "currentShares": 24700428,
+        "change": 8581072,
+        "change_p": 53.2346
+      },
+      "8": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.6509,
+        "totalAssets": 2.4452,
+        "currentShares": 22430700,
+        "change": 799700,
+        "change_p": 3.697
+      },
+      "9": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 1.5045,
+        "totalAssets": 0.2803,
+        "currentShares": 20441100,
+        "change": 314309,
+        "change_p": 1.5616
+      },
+      "10": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4221,
+        "totalAssets": 0.3593,
+        "currentShares": 19321543,
+        "change": 2051779,
+        "change_p": 11.8808
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2853,
+        "totalAssets": 0.0639,
+        "currentShares": 17463261,
+        "change": -9504,
+        "change_p": -0.0544
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2725,
+        "totalAssets": 0.0699,
+        "currentShares": 17289689,
+        "change": 28522,
+        "change_p": 0.1652
+      },
+      "13": {
+        "name": "Oakmark Select Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.2193,
+        "totalAssets": 5.6793,
+        "currentShares": 16565598,
+        "change": 4619000,
+        "change_p": 38.6637
+      },
+      "14": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 1.1731,
+        "totalAssets": 0.6337,
+        "currentShares": 15938059,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1601,
+        "totalAssets": 0.0638,
+        "currentShares": 15761777,
+        "change": -38710,
+        "change_p": -0.245
+      },
+      "16": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0462,
+        "totalAssets": 2.4151,
+        "currentShares": 14214416,
+        "change": -6293,
+        "change_p": -0.0443
+      },
+      "17": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9844,
+        "totalAssets": 0.5904,
+        "currentShares": 13374442,
+        "change": 13374442,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.878,
+        "totalAssets": 0.1392,
+        "currentShares": 11929319,
+        "change": -87461,
+        "change_p": -0.7278
+      },
+      "19": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8096,
+        "totalAssets": 0.6396,
+        "currentShares": 10999697,
+        "change": 3336100,
+        "change_p": 43.5318
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.6444,
+    "ForwardPE": 12.4069,
+    "PriceSalesTTM": 2.3463,
+    "PriceBookMRQ": 1.5365,
+    "EnterpriseValue": 63622203674,
+    "EnterpriseValueRevenue": 3.7549,
+    "EnterpriseValueEbitda": 15.7247
+  },
+  "Highlights": {
+    "MarketCapitalization": 39755546624,
+    "MarketCapitalizationMln": 39755.5466,
+    "EBITDA": 4441999872,
+    "PERatio": 21.6444,
+    "PEGRatio": 0.9542,
+    "WallStreetTargetPrice": 32.8125,
+    "BookValue": 18.78,
+    "DividendShare": 0.69,
+    "DividendYield": 0.0242,
+    "EarningsShare": 1.35,
+    "EPSEstimateCurrentYear": 2.273,
+    "EPSEstimateNextYear": 2.5105,
+    "EPSEstimateNextQuarter": 0.5628,
+    "EPSEstimateCurrentQuarter": 0.3723,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1081,
+    "OperatingMarginTTM": 0.1901,
+    "ReturnOnAssetsTTM": 0.0361,
+    "ReturnOnEquityTTM": 0.0631,
+    "RevenueTTM": 16944000000,
+    "RevenuePerShareTTM": 12.471,
+    "QuarterlyRevenueGrowthYOY": 0.094,
+    "GrossProfitTTM": 9112000512,
+    "DilutedEpsTTM": 1.35,
+    "QuarterlyEarningsGrowthYOY": -0.477
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "KDP",
+    "Type": "Common Stock",
+    "Name": "Keurig Dr Pepper Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000TJM7F0",
+    "ISIN": "US49271V1008",
+    "LEI": "DYTQ8KRTKO7Y2BVU5K74",
+    "PrimaryTicker": "KDP.US",
+    "CUSIP": "49271V100",
+    "CIK": "0001418135",
+    "EmployerIdNumber": "98-0517725",
+    "FiscalYearEnd": "December",
+    "IPODate": "1993-09-21",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Beverages",
+    "GicSubIndustry": "Soft Drinks & Non-alcoholic Beverages",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Keurig Dr Pepper Inc. owns, manufactures, and distributors beverages and single serve brewing systems in the United States and internationally. The company operates through three segments: U.S. Refreshment Beverages, U.S. Coffee, and International. It manufactures and distributes branded concentrates, syrup, and finished beverages, as well as sales of owned brands and third-party brands; tea, cocoa, and other products; and offers finished goods relating to K-Cup pods, single serve brewers, specialty coffee, and ready to drink coffee products. The company offers its products under the Dr Pepper, Canada Dry, Mott's, A&W, Peñafiel, GHOST, Snapple, 7UP, Green Mountain Coffee Roasters, Clamato, Core Hydration, The Original Donut Shop, Sunkist soda, Squirt, C4 Energy, Hawaiian Punch, Electrolit, Bloom, Bai, Evian, Yoo-Hoo, Vita Coco, Big Red, RC Cola, Crush, McCafé, Tim Hortons, Van Houtte, Celestial Seasonings, Bigelow, Starbucks, Dunkin', Folgers, Peet's, 7up Energy, and Swiss Miss brands, as well as other partner and private label brands. It markets and sells its products to supermarkets, mass merchandisers, club stores, e-commerce retailers, office superstores, vending machines, fountains, grocery and drug stores, convenience stores, and other small outlets; and directly to consumers through Keurig.com website. Keurig Dr Pepper Inc. was founded in 1981 and is headquartered in Frisco, Texas.",
+    "Address": "6425 Hall of Fame Lane, Frisco, TX, United States, 75034",
+    "AddressData": {
+      "Street": "6425 Hall of Fame Lane",
+      "City": "Frisco",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75034"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DP5",
+        "Exchange": "F",
+        "Name": "Keurig Dr Pepper Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timothy P. Cofer",
+        "Title": "CEO & Director",
+        "YearBorn": "1969"
+      },
+      "1": {
+        "Name": "Mr. Justin  Whitmore",
+        "Title": "President of KDP Energy",
+        "YearBorn": "1983"
+      },
+      "2": {
+        "Name": "Mr. Roger  Johnson",
+        "Title": "Chief Transformation Officer",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Robert P. Stiller",
+        "Title": "Founder",
+        "YearBorn": "1944"
+      },
+      "4": {
+        "Name": "Mr. Anthony P. DiSilvestro",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1959"
+      },
+      "5": {
+        "Name": "Ms. Jane  Gelfand",
+        "Title": "Vice President of Investor Relations & Strategic Initiatives",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Anthony L. Shoemaker",
+        "Title": "Chief Legal Officer, General Counsel & Corporate Secretary",
+        "YearBorn": "1984"
+      },
+      "7": {
+        "Name": "Mr. Andreas J. Panayiotou",
+        "Title": "Chief Marketing & Innovation Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Mary Beth DeNooyer",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1970"
+      },
+      "9": {
+        "Name": "Ms. Monique  Oxender",
+        "Title": "Chief Corporate Affairs Officer",
+        "YearBorn": "1977"
+      }
+    },
+    "Phone": "800 527 7096",
+    "WebURL": "https://www.keurigdrpepper.com",
+    "LogoURL": "/img/logos/US/KDP.png",
+    "FullTimeEmployees": 30600,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1360559471,
+    "SharesFloat": 1354231176,
+    "PercentInsiders": 4.9750000000000005,
+    "PercentInstitutions": 98.06899999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0514
+  }
+}

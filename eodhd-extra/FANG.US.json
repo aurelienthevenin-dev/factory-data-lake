@@ -1,0 +1,518 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.1796,
+        "totalAssets": 0.0502,
+        "currentShares": 23010298,
+        "change": -77090,
+        "change_p": -0.3339
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.3897,
+        "totalAssets": 0.045,
+        "currentShares": 17974930,
+        "change": -14820,
+        "change_p": -0.0824
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.2432,
+        "totalAssets": 0.0512,
+        "currentShares": 11936554,
+        "change": 6447802,
+        "change_p": 117.473
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.7997,
+        "totalAssets": 0.053,
+        "currentShares": 10688961,
+        "change": -184127,
+        "change_p": -1.6934
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9982,
+        "totalAssets": 0.0521,
+        "currentShares": 5621120,
+        "change": 14625,
+        "change_p": 0.2609
+      },
+      "5": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.9823,
+        "totalAssets": 0.8682,
+        "currentShares": 5576501,
+        "change": -157037,
+        "change_p": -2.7389
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7605,
+        "totalAssets": 0.038,
+        "currentShares": 4952402,
+        "change": 444929,
+        "change_p": 9.8709
+      },
+      "7": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6447,
+        "totalAssets": 0.1188,
+        "currentShares": 4626609,
+        "change": -15609,
+        "change_p": -0.3362
+      },
+      "8": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.5402,
+        "totalAssets": 0.1202,
+        "currentShares": 4332885,
+        "change": 534073,
+        "change_p": 14.0589
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3192,
+        "totalAssets": 0.0322,
+        "currentShares": 3711143,
+        "change": -65922,
+        "change_p": -1.7453
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2238,
+        "totalAssets": 0.0527,
+        "currentShares": 3442694,
+        "change": -2047133,
+        "change_p": -37.2896
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.1517,
+        "totalAssets": 0.0854,
+        "currentShares": 3239837,
+        "change": 1379010,
+        "change_p": 74.1074
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1092,
+        "totalAssets": 0.0704,
+        "currentShares": 3120359,
+        "change": 274331,
+        "change_p": 9.6391
+      },
+      "13": {
+        "name": "EnCap Energy Capital Fund XI, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.0297,
+        "totalAssets": 38.2456,
+        "currentShares": 2896632,
+        "change": 107369,
+        "change_p": 3.8494
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0018,
+        "totalAssets": 0.0632,
+        "currentShares": 2818148,
+        "change": 330478,
+        "change_p": 13.2846
+      },
+      "15": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.907,
+        "totalAssets": 1.9654,
+        "currentShares": 2551566,
+        "change": -149487,
+        "change_p": -5.5344
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8339,
+        "totalAssets": 0.074,
+        "currentShares": 2345889,
+        "change": -9591,
+        "change_p": -0.4072
+      },
+      "17": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 0.7517,
+        "totalAssets": 0.1743,
+        "currentShares": 2114511,
+        "change": 330084,
+        "change_p": 18.498
+      },
+      "18": {
+        "name": "Pacer Advisors, INC.",
+        "date": "2025-12-31",
+        "totalShares": 0.7383,
+        "totalAssets": 0.7975,
+        "currentShares": 2076786,
+        "change": -50979,
+        "change_p": -2.3959
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6992,
+        "totalAssets": 0.0363,
+        "currentShares": 1966836,
+        "change": 203943,
+        "change_p": 11.5687
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.2299,
+        "totalAssets": 0.0621,
+        "currentShares": 6273031,
+        "change": 385326,
+        "change_p": 6.5446
+      },
+      "1": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.1045,
+        "totalAssets": 0.3156,
+        "currentShares": 5920124,
+        "change": -19823,
+        "change_p": -0.3337
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.7569,
+        "totalAssets": 0.0687,
+        "currentShares": 4942453,
+        "change": 150710,
+        "change_p": 3.1452
+      },
+      "3": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.598,
+        "totalAssets": 2.0298,
+        "currentShares": 4495445,
+        "change": 45990,
+        "change_p": 1.0336
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.5164,
+        "totalAssets": 0.4246,
+        "currentShares": 4265808,
+        "change": 217831,
+        "change_p": 5.3812
+      },
+      "5": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0413,
+        "totalAssets": 0.2503,
+        "currentShares": 2929232,
+        "change": 500000,
+        "change_p": 20.5826
+      },
+      "6": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.0413,
+        "totalAssets": 0.3492,
+        "currentShares": 2929232,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8869,
+        "totalAssets": 0.0685,
+        "currentShares": 2494896,
+        "change": -1356,
+        "change_p": -0.0543
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.8425,
+        "totalAssets": 0.0551,
+        "currentShares": 2370167,
+        "change": 3910,
+        "change_p": 0.1652
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8002,
+        "totalAssets": 0.0685,
+        "currentShares": 2251165,
+        "change": -5537,
+        "change_p": -0.2454
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6487,
+        "totalAssets": 0.1599,
+        "currentShares": 1824949,
+        "change": 91659,
+        "change_p": 5.2882
+      },
+      "11": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6321,
+        "totalAssets": 1.9359,
+        "currentShares": 1778212,
+        "change": -612,
+        "change_p": -0.0344
+      },
+      "12": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5689,
+        "totalAssets": 0.6809,
+        "currentShares": 1600268,
+        "change": -990,
+        "change_p": -0.0618
+      },
+      "13": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.5672,
+        "totalAssets": 0.103,
+        "currentShares": 1595663,
+        "change": 495663,
+        "change_p": 45.0603
+      },
+      "14": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.5482,
+        "totalAssets": 1.4246,
+        "currentShares": 1542212,
+        "change": -44775,
+        "change_p": -2.8214
+      },
+      "15": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.4667,
+        "totalAssets": 2.817,
+        "currentShares": 1312995,
+        "change": -208602,
+        "change_p": -13.7094
+      },
+      "16": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4566,
+        "totalAssets": 0.7312,
+        "currentShares": 1284423,
+        "change": 122004,
+        "change_p": 10.4957
+      },
+      "17": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4329,
+        "totalAssets": 0.1701,
+        "currentShares": 1217911,
+        "change": -170644,
+        "change_p": -12.2893
+      },
+      "18": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.4154,
+        "totalAssets": 0.8084,
+        "currentShares": 1168503,
+        "change": 149739,
+        "change_p": 14.6981
+      },
+      "19": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.391,
+        "totalAssets": 0.0492,
+        "currentShares": 1100000,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 33.9948,
+    "ForwardPE": 10.1937,
+    "PriceSalesTTM": 3.8333,
+    "PriceBookMRQ": 1.4882,
+    "EnterpriseValue": 69796761270,
+    "EnterpriseValueRevenue": 4.6752,
+    "EnterpriseValueEbitda": 9.7251
+  },
+  "Highlights": {
+    "MarketCapitalization": 54796713984,
+    "MarketCapitalizationMln": 54796.714,
+    "EBITDA": 10206000128,
+    "PERatio": 33.9948,
+    "PEGRatio": 52.2954,
+    "WallStreetTargetPrice": 221.7667,
+    "BookValue": 129.911,
+    "DividendShare": 4.05,
+    "DividendYield": 0.0207,
+    "EarningsShare": 5.73,
+    "EPSEstimateCurrentYear": 17.8019,
+    "EPSEstimateNextYear": 16.9045,
+    "EPSEstimateNextQuarter": 2.3315,
+    "EPSEstimateCurrentQuarter": 2.0036,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1164,
+    "OperatingMarginTTM": -0.8649,
+    "ReturnOnAssetsTTM": 0.0137,
+    "ReturnOnEquityTTM": 0.0374,
+    "RevenueTTM": 14295000064,
+    "RevenuePerShareTTM": 49.45,
+    "QuarterlyRevenueGrowthYOY": -0.094,
+    "GrossProfitTTM": 10440999936,
+    "DilutedEpsTTM": 5.73,
+    "QuarterlyEarningsGrowthYOY": 0.1
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "FANG",
+    "Type": "Common Stock",
+    "Name": "Diamondback Energy Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG002PHSYX9",
+    "ISIN": "US25278X1090",
+    "LEI": "549300R22LSX6OHWEN64",
+    "PrimaryTicker": "FANG.US",
+    "CUSIP": "25278X109",
+    "CIK": "0001539838",
+    "EmployerIdNumber": "45-4502447",
+    "FiscalYearEnd": "December",
+    "IPODate": "2012-10-12",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Exploration & Production",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Diamondback Energy, Inc., an independent oil and natural gas company, acquires, develops, explores, and exploits unconventional, onshore oil and natural gas reserves in the Permian Basin in West Texas, the United States. The company primarily focuses on the development of the Spraberry and Wolfcamp formations of the Midland Basin; and the Wolfcamp and Bone Spring formations of the Delaware Basin, both of which are part of the Permian Basin in West Texas and New Mexico. Diamondback Energy, Inc. was founded in 2007 and is headquartered in Midland, Texas.",
+    "Address": "Fasken Center, Midland, TX, United States, 79701",
+    "AddressData": {
+      "Street": "Fasken Center",
+      "City": "Midland",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "79701"
+    },
+    "Listings": {
+      "0": {
+        "Code": "7DB",
+        "Exchange": "F",
+        "Name": "Diamondback Energy Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Travis D. Stice",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Matthew Kaes Van't Hof",
+        "Title": "CEO & Director",
+        "YearBorn": "1987"
+      },
+      "2": {
+        "Name": "Mr. Jere W. Thompson III",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1989"
+      },
+      "3": {
+        "Name": "Mr. Daniel N. Wesson",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1985"
+      },
+      "4": {
+        "Name": "Mr. P. Matt Zmigrosky",
+        "Title": "Executive VP, Chief Legal & Administrative Officer and Secretary",
+        "YearBorn": "1979"
+      },
+      "5": {
+        "Name": "Mr. David L. Cannon",
+        "Title": "Senior Vice President of Geoscience & Technology",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Greg  Dolezal",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Adam T. Lawlis",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Johnny D. Dossey",
+        "Title": "Vice President of Marketing",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. David  Meek",
+        "Title": "Senior Vice President of Human Resources",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "432 221 7400",
+    "WebURL": "https://www.diamondbackenergy.com",
+    "LogoURL": "/img/logos/US/fang.png",
+    "FullTimeEmployees": 1762,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 281311730,
+    "SharesFloat": 195836159,
+    "PercentInsiders": 30.65,
+    "PercentInstitutions": 65.646,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0428
+  }
+}

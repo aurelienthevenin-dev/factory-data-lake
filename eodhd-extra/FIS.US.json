@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 17.514,
+        "totalAssets": 0.178,
+        "currentShares": 90092468,
+        "change": 35309090,
+        "change_p": 64.4522
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2061,
+        "totalAssets": 0.0605,
+        "currentShares": 62788701,
+        "change": -64101,
+        "change_p": -0.102
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.4602,
+        "totalAssets": 0.0621,
+        "currentShares": 53807440,
+        "change": 5008334,
+        "change_p": 10.2632
+      },
+      "3": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 9.5476,
+        "totalAssets": 1.7619,
+        "currentShares": 49113297,
+        "change": 6008090,
+        "change_p": 13.9382
+      },
+      "4": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.4684,
+        "totalAssets": 0.3451,
+        "currentShares": 28129710,
+        "change": 172356,
+        "change_p": 0.6165
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8091,
+        "totalAssets": 0.0566,
+        "currentShares": 24738196,
+        "change": 30995,
+        "change_p": 0.1254
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6022,
+        "totalAssets": 0.0547,
+        "currentShares": 13385712,
+        "change": 11567,
+        "change_p": 0.0865
+      },
+      "7": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.1766,
+        "totalAssets": 0.1156,
+        "currentShares": 11196718,
+        "change": 514490,
+        "change_p": 4.8163
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6554,
+        "totalAssets": 0.0885,
+        "currentShares": 8515321,
+        "change": 448712,
+        "change_p": 5.5626
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4507,
+        "totalAssets": 0.0531,
+        "currentShares": 7462468,
+        "change": -212977,
+        "change_p": -2.7748
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2934,
+        "totalAssets": 0.0542,
+        "currentShares": 6653470,
+        "change": -565984,
+        "change_p": -7.8397
+      },
+      "11": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2256,
+        "totalAssets": 1.3953,
+        "currentShares": 6304324,
+        "change": -170670,
+        "change_p": -2.6358
+      },
+      "12": {
+        "name": "Longview Partners (Guernsey) Limited",
+        "date": "2025-12-31",
+        "totalShares": 1.2091,
+        "totalAssets": 4.3167,
+        "currentShares": 6219699,
+        "change": -333050,
+        "change_p": -5.0826
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1692,
+        "totalAssets": 0.0507,
+        "currentShares": 6014523,
+        "change": -225439,
+        "change_p": -3.6128
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.161,
+        "totalAssets": 0.0833,
+        "currentShares": 5972374,
+        "change": 67259,
+        "change_p": 1.139
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0842,
+        "totalAssets": 0.0223,
+        "currentShares": 5577167,
+        "change": -882755,
+        "change_p": -13.6651
+      },
+      "16": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.9844,
+        "totalAssets": 0.1085,
+        "currentShares": 5063589,
+        "change": -631058,
+        "change_p": -11.0816
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9454,
+        "totalAssets": 0.0696,
+        "currentShares": 4863121,
+        "change": -1095278,
+        "change_p": -18.3821
+      },
+      "18": {
+        "name": "Baupost Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8755,
+        "totalAssets": 5.6705,
+        "currentShares": 4503801,
+        "change": 714090,
+        "change_p": 18.8429
+      },
+      "19": {
+        "name": "Lyrical Asset Management LP",
+        "date": "2025-12-31",
+        "totalShares": 0.7416,
+        "totalAssets": 3.3161,
+        "currentShares": 3814885,
+        "change": -198505,
+        "change_p": -4.9461
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 6.4744,
+        "totalAssets": 1.8495,
+        "currentShares": 33304400,
+        "change": 4295147,
+        "change_p": 14.8061
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1783,
+        "totalAssets": 0.0384,
+        "currentShares": 16349214,
+        "change": -5030,
+        "change_p": -0.0308
+      },
+      "2": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.9722,
+        "totalAssets": 0.9111,
+        "currentShares": 15288866,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5635,
+        "totalAssets": 0.0435,
+        "currentShares": 13186529,
+        "change": -135794,
+        "change_p": -1.0193
+      },
+      "4": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.3897,
+        "totalAssets": 0.5276,
+        "currentShares": 12292603,
+        "change": -2996263,
+        "change_p": -19.5977
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.2623,
+        "currentShares": 11112410,
+        "change": -142898,
+        "change_p": -1.2696
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.294,
+        "totalAssets": 0.0434,
+        "currentShares": 6656612,
+        "change": -3624,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2812,
+        "totalAssets": 0.0448,
+        "currentShares": 6590321,
+        "change": 10879,
+        "change_p": 0.1653
+      },
+      "8": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.2063,
+        "totalAssets": 0.9453,
+        "currentShares": 6205397,
+        "change": -46105,
+        "change_p": -0.7375
+      },
+      "9": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 1.1894,
+        "totalAssets": 1.5796,
+        "currentShares": 6118423,
+        "change": 534985,
+        "change_p": 9.5816
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1711,
+        "totalAssets": 0.0435,
+        "currentShares": 6024063,
+        "change": -14749,
+        "change_p": -0.2442
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.0988,
+        "currentShares": 4754325,
+        "change": -68218,
+        "change_p": -1.4146
+      },
+      "12": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8815,
+        "totalAssets": 0.1713,
+        "currentShares": 4534408,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.8404,
+        "totalAssets": 1.8717,
+        "currentShares": 4323158,
+        "change": 853448,
+        "change_p": 24.5971
+      },
+      "14": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.7986,
+        "totalAssets": 1.7991,
+        "currentShares": 4107781,
+        "change": 584508,
+        "change_p": 16.5899
+      },
+      "15": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.7873,
+        "totalAssets": 0.4692,
+        "currentShares": 4049893,
+        "change": -2219951,
+        "change_p": -35.4068
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6882,
+        "totalAssets": 0.3441,
+        "currentShares": 3540127,
+        "change": 6006,
+        "change_p": 0.1699
+      },
+      "17": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6729,
+        "totalAssets": 0.1904,
+        "currentShares": 3461503,
+        "change": 10218,
+        "change_p": 0.2961
+      },
+      "18": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 0.4518,
+        "currentShares": 3346144,
+        "change": 114040,
+        "change_p": 3.5284
+      },
+      "19": {
+        "name": "American Funds IS® Growth-Income 1",
+        "date": "2026-03-31",
+        "totalShares": 0.6434,
+        "totalAssets": 0.3804,
+        "currentShares": 3309862,
+        "change": -2895535,
+        "change_p": -46.6616
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 62.6438,
+    "ForwardPE": 7.2833,
+    "PriceSalesTTM": 2.218,
+    "PriceBookMRQ": 1.6928,
+    "EnterpriseValue": 36255680652,
+    "EnterpriseValueRevenue": 3.3962,
+    "EnterpriseValueEbitda": 10.5104
+  },
+  "Highlights": {
+    "MarketCapitalization": 23681314816,
+    "MarketCapitalizationMln": 23681.3148,
+    "EBITDA": 3139000064,
+    "PERatio": 62.6438,
+    "PEGRatio": 0.2542,
+    "WallStreetTargetPrice": 65.2857,
+    "BookValue": 27.041,
+    "DividendShare": 1.6,
+    "DividendYield": 0.035,
+    "EarningsShare": 0.73,
+    "EPSEstimateCurrentYear": 6.2658,
+    "EPSEstimateNextYear": 6.8995,
+    "EPSEstimateNextQuarter": 1.3386,
+    "EPSEstimateCurrentQuarter": 1.6884,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0358,
+    "OperatingMarginTTM": 0.2464,
+    "ReturnOnAssetsTTM": 0.0437,
+    "ReturnOnEquityTTM": 0.026,
+    "RevenueTTM": 10677000192,
+    "RevenuePerShareTTM": 20.415,
+    "QuarterlyRevenueGrowthYOY": 0.082,
+    "GrossProfitTTM": 3936000000,
+    "DilutedEpsTTM": 0.73,
+    "QuarterlyEarningsGrowthYOY": 0.881
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.58,
+    "TotalEsgPercentile": 16.9,
+    "EnvironmentScore": 1.61,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 9.68,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 4.8,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FIS",
+    "Type": "Common Stock",
+    "Name": "Fidelity National Information Services Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BK2F42",
+    "ISIN": "US31620M1062",
+    "LEI": "6WQI0GK1PRFVBA061U48",
+    "PrimaryTicker": "FIS.US",
+    "CUSIP": "156880106",
+    "CIK": "0001136893",
+    "EmployerIdNumber": "37-1490331",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-06-20",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Financial Services",
+    "GicSubIndustry": "Transaction & Payment Processing Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Fidelity National Information Services, Inc. provides solutions to financial institutions, businesses, and developers worldwide. The company operates through Banking Solutions, Capital Market Solutions, and Corporate and Other segments. It provides core processing and ancillary applications; mobile and online banking; fraud, risk management, and compliance; card and retail payment; electronic funds transfer and network; wealth and retirement; and item processing and output solutions. The company also offers trading and assets, lending, leveraged and syndicated loan markets, and treasury and risk solutions. Fidelity National Information Services, Inc. was founded in 1968 and is headquartered in Jacksonville, Florida.",
+    "Address": "347 Riverside Avenue, Jacksonville, FL, United States, 32202",
+    "AddressData": {
+      "Street": "347 Riverside Avenue",
+      "City": "Jacksonville",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "32202"
+    },
+    "Listings": {
+      "0": {
+        "Code": "F1NI34",
+        "Exchange": "SA",
+        "Name": "Fidelity National Information Services Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Stephanie L. Ferris",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. James  Kehoe",
+        "Title": "Corporate Executive VP & CFO",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Ms. Caroline  Tsai",
+        "Title": "Chief Legal & Corporate Affairs Officer and Corporate Secretary",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Ms. Alexandra Dawn Brooks",
+        "Title": "Executive VP & Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Georgios  Mihalos",
+        "Title": "SVP & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Ellyn  Raftery",
+        "Title": "Executive VP and Chief Marketing & Communications Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Robert Alexander Toohey",
+        "Title": "Chief People officer",
+        "YearBorn": "1968"
+      },
+      "7": {
+        "Name": "Kim  Snider",
+        "Title": "Senior Vice President of Global Marketing & Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Guy M. Hains",
+        "Title": "Head of Market Team",
+        "YearBorn": "1952"
+      },
+      "9": {
+        "Name": "Mr. Peter  Francis",
+        "Title": "Global Head of Professional Services - Insurance",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "904 438 6000",
+    "WebURL": "https://www.fisglobal.com",
+    "LogoURL": "/img/logos/US/fis.png",
+    "FullTimeEmployees": 44000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 514403688,
+    "SharesFloat": 513194839,
+    "PercentInsiders": 0.13999999999999999,
+    "PercentInstitutions": 99.653,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0312
+  }
+}

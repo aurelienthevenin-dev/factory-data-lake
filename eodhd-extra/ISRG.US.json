@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.464,
+        "totalAssets": 0.276,
+        "currentShares": 33613298,
+        "change": 13637,
+        "change_p": 0.0406
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.8814,
+        "totalAssets": 0.247,
+        "currentShares": 31543936,
+        "change": 27349,
+        "change_p": 0.0868
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3752,
+        "totalAssets": 0.241,
+        "currentShares": 15539327,
+        "change": -12876,
+        "change_p": -0.0828
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.6092,
+        "totalAssets": 0.6133,
+        "currentShares": 12818790,
+        "change": -596681,
+        "change_p": -4.4477
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.316,
+        "totalAssets": 0.2862,
+        "currentShares": 8225691,
+        "change": -47985,
+        "change_p": -0.58
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.2119,
+        "totalAssets": 0.6051,
+        "currentShares": 7856018,
+        "change": 127526,
+        "change_p": 1.6501
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.971,
+        "totalAssets": 0.0938,
+        "currentShares": 7000548,
+        "change": -675131,
+        "change_p": -8.7957
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8519,
+        "totalAssets": 0.1899,
+        "currentShares": 6577517,
+        "change": 1577557,
+        "change_p": 31.5514
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7745,
+        "totalAssets": 0.1707,
+        "currentShares": 6302369,
+        "change": 198070,
+        "change_p": 3.2448
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4203,
+        "totalAssets": 0.3056,
+        "currentShares": 5044472,
+        "change": 316439,
+        "change_p": 6.6928
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1609,
+        "totalAssets": 0.3308,
+        "currentShares": 4123290,
+        "change": -394179,
+        "change_p": -8.7257
+      },
+      "11": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.1382,
+        "totalAssets": 0.5693,
+        "currentShares": 4042414,
+        "change": -153401,
+        "change_p": -3.656
+      },
+      "12": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0657,
+        "totalAssets": 0.7316,
+        "currentShares": 3784970,
+        "change": -104469,
+        "change_p": -2.686
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.015,
+        "totalAssets": 0.2062,
+        "currentShares": 3604909,
+        "change": -32742,
+        "change_p": -0.9001
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9904,
+        "totalAssets": 0.2478,
+        "currentShares": 3517467,
+        "change": -903666,
+        "change_p": -20.4397
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9788,
+        "totalAssets": 0.1055,
+        "currentShares": 3476500,
+        "change": -288169,
+        "change_p": -7.6546
+      },
+      "16": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9702,
+        "totalAssets": 0.342,
+        "currentShares": 3445880,
+        "change": 294651,
+        "change_p": 9.3504
+      },
+      "17": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9036,
+        "totalAssets": 1.0912,
+        "currentShares": 3209137,
+        "change": 321759,
+        "change_p": 11.1436
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8915,
+        "totalAssets": 0.3075,
+        "currentShares": 3166171,
+        "change": -266948,
+        "change_p": -7.7757
+      },
+      "19": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8723,
+        "totalAssets": 0.3455,
+        "currentShares": 3098217,
+        "change": -459570,
+        "change_p": -12.9173
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1762,
+        "totalAssets": 0.2605,
+        "currentShares": 11280726,
+        "change": 67812,
+        "change_p": 0.6048
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5464,
+        "totalAssets": 0.293,
+        "currentShares": 9043926,
+        "change": -73610,
+        "change_p": -0.8073
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0984,
+        "totalAssets": 0.9259,
+        "currentShares": 7453055,
+        "change": -24940,
+        "change_p": -0.3335
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2851,
+        "totalAssets": 0.2922,
+        "currentShares": 4564285,
+        "change": -2484,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2702,
+        "totalAssets": 0.3032,
+        "currentShares": 4511405,
+        "change": 7436,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.159,
+        "totalAssets": 0.2919,
+        "currentShares": 4116319,
+        "change": -10143,
+        "change_p": -0.2458
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0813,
+        "totalAssets": 0.5571,
+        "currentShares": 3840610,
+        "change": -6791,
+        "change_p": -0.1765
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7572,
+        "totalAssets": 0.4534,
+        "currentShares": 2689313,
+        "change": -376249,
+        "change_p": -12.2734
+      },
+      "8": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7554,
+        "totalAssets": 0.4037,
+        "currentShares": 2682831,
+        "change": -6482,
+        "change_p": -0.241
+      },
+      "9": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7308,
+        "totalAssets": 3.0812,
+        "currentShares": 2595644,
+        "change": 7872,
+        "change_p": 0.3042
+      },
+      "10": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6503,
+        "totalAssets": 0.8039,
+        "currentShares": 2309555,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.6503,
+        "totalAssets": 0.6971,
+        "currentShares": 2309555,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5664,
+        "totalAssets": 2.8738,
+        "currentShares": 2011562,
+        "change": 17698,
+        "change_p": 0.8876
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.2923,
+        "currentShares": 2000817,
+        "change": -7287,
+        "change_p": -0.3629
+      },
+      "14": {
+        "name": "Capital Group Growth Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.5608,
+        "totalAssets": 2.0632,
+        "currentShares": 1991933,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 0.5608,
+        "totalAssets": 1.8491,
+        "currentShares": 1991933,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.2892,
+        "currentShares": 1895723,
+        "change": 6000,
+        "change_p": 0.3175
+      },
+      "17": {
+        "name": "T. Rowe Price US Lrg-Cap Core Gr Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4913,
+        "totalAssets": 1.4369,
+        "currentShares": 1745072,
+        "change": -45257,
+        "change_p": -2.5279
+      },
+      "18": {
+        "name": "T. Rowe Price Blue Chip Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.4651,
+        "totalAssets": 1.2944,
+        "currentShares": 1651764,
+        "change": -66836,
+        "change_p": -3.889
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.2919,
+        "currentShares": 1604013,
+        "change": 12055,
+        "change_p": 0.7572
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 58.4509,
+    "ForwardPE": 47.3934,
+    "PriceSalesTTM": 16.139,
+    "PriceBookMRQ": 9.7044,
+    "EnterpriseValue": 166267105669,
+    "EnterpriseValueRevenue": 15.5983,
+    "EnterpriseValueEbitda": 41.786
+  },
+  "Highlights": {
+    "MarketCapitalization": 170784407552,
+    "MarketCapitalizationMln": 170784.4076,
+    "EBITDA": 3853325056,
+    "PERatio": 58.4509,
+    "PEGRatio": 2.574,
+    "WallStreetTargetPrice": 577.676,
+    "BookValue": 50.194,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 8.25,
+    "EPSEstimateCurrentYear": 10.389,
+    "EPSEstimateNextYear": 11.7457,
+    "EPSEstimateNextQuarter": 2.4742,
+    "EPSEstimateCurrentQuarter": 2.1068,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2815,
+    "OperatingMarginTTM": 0.3108,
+    "ReturnOnAssetsTTM": 0.1026,
+    "ReturnOnEquityTTM": 0.1723,
+    "RevenueTTM": 10582099968,
+    "RevenuePerShareTTM": 29.704,
+    "QuarterlyRevenueGrowthYOY": 0.23,
+    "GrossProfitTTM": 7021000192,
+    "DilutedEpsTTM": 8.25,
+    "QuarterlyEarningsGrowthYOY": 0.188
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.63,
+    "TotalEsgPercentile": 59.52,
+    "EnvironmentScore": 4.47,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 13.18,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 10.47,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ISRG",
+    "Type": "Common Stock",
+    "Name": "Intuitive Surgical Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJPDZ1",
+    "ISIN": "US46120E6023",
+    "LEI": "54930052SRG011710797",
+    "PrimaryTicker": "ISRG.US",
+    "CUSIP": "46120E107",
+    "CIK": "0001035267",
+    "EmployerIdNumber": "77-0416458",
+    "FiscalYearEnd": "December",
+    "IPODate": "2000-06-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Intuitive Surgical, Inc. develops, manufactures, and markets products that enable physicians and healthcare providers to enhance the quality of and access to minimally invasive care in the United States and internationally. It offers the da Vinci Surgical System that enables surgical procedures using a minimally invasive approach; and Ion endoluminal system, which extends its commercial offerings beyond surgery into diagnostic endoluminal procedures enabling minimally invasive biopsies in the lung. The company also provides a suite of stapling, energy, and core instrumentation for its multi-port da Vinci surgical systems; progressive learning pathways to support the use of its technology; infrastructure of customer service and support specialists, a complement of services to its customers, including installation, repair, maintenance, 24/7 technical support, and proactive system health monitoring; and integrated digital capabilities providing connected offerings, streamlining performance for hospitals with program-enhancing insights. It sells its products through direct sales organizations, such as capital and clinical sales teams. Intuitive Surgical, Inc. was incorporated in 1995 and is headquartered in Sunnyvale, California.",
+    "Address": "1020 Kifer Road, Sunnyvale, CA, United States, 94086-5304",
+    "AddressData": {
+      "Street": "1020 Kifer Road",
+      "City": "Sunnyvale",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94086-5304"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Gary S. Guthart Ph.D.",
+        "Title": "Executive Chair",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. David J. Rosa",
+        "Title": "CEO & Director",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Jamie E. Samath",
+        "Title": "Executive VP, CFO & Enterprise Technology Leader",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. Gary H. Loeb J.D.",
+        "Title": "Executive VP and Chief Legal & Compliance Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Henry L. Charlton",
+        "Title": "Executive VP and Chief Commercial & Marketing Officer",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Mark P. Brosius",
+        "Title": "Executive VP and Chief Manufacturing & Supply Chain Officer",
+        "YearBorn": "1967"
+      },
+      "6": {
+        "Name": "Mr. Fredrik  Widman",
+        "Title": "VP, Principal Accounting Officer & Corporate Controller",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Milind  Wagle",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Daniel P. Connally C.F.A.",
+        "Title": "VP & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Christopher R. Carlson Ph.D.",
+        "Title": "Executive Vice President of Research, Corporate Development, Corporate Strategy & Intuitive Ventures",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 523 2100",
+    "WebURL": "https://www.intuitive.com",
+    "LogoURL": "/img/logos/US/ISRG.png",
+    "FullTimeEmployees": 17021,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 354162842,
+    "SharesFloat": 352710267,
+    "PercentInsiders": 0.5579999999999999,
+    "PercentInstitutions": 89.771,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0189
+  }
+}

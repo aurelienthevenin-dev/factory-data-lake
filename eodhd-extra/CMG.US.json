@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.1015,
+        "totalAssets": 0.0776,
+        "currentShares": 144588220,
+        "change": 18660882,
+        "change_p": 14.8188
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.5345,
+        "totalAssets": 0.1305,
+        "currentShares": 111155086,
+        "change": 47210456,
+        "change_p": 73.8302
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.402,
+        "totalAssets": 0.0751,
+        "currentShares": 109429878,
+        "change": -2223961,
+        "change_p": -1.9918
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.8076,
+        "totalAssets": 0.5117,
+        "currentShares": 101688010,
+        "change": 13843222,
+        "change_p": 15.7587
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3149,
+        "totalAssets": 0.0764,
+        "currentShares": 56198769,
+        "change": -190691,
+        "change_p": -0.3382
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.7784,
+        "totalAssets": 0.2063,
+        "currentShares": 49210147,
+        "change": -4363832,
+        "change_p": -8.1454
+      },
+      "6": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.4777,
+        "totalAssets": 0.2627,
+        "currentShares": 45294212,
+        "change": 6796285,
+        "change_p": 17.6536
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2921,
+        "totalAssets": 0.0679,
+        "currentShares": 29852372,
+        "change": -18504,
+        "change_p": -0.0619
+      },
+      "8": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.9741,
+        "totalAssets": 0.3173,
+        "currentShares": 25711104,
+        "change": -7400404,
+        "change_p": -22.3499
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8786,
+        "totalAssets": 0.0581,
+        "currentShares": 24467560,
+        "change": -989608,
+        "change_p": -3.8873
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7863,
+        "totalAssets": 0.0439,
+        "currentShares": 23265679,
+        "change": -4055143,
+        "change_p": -14.8427
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4772,
+        "totalAssets": 0.0762,
+        "currentShares": 19238829,
+        "change": 1399675,
+        "change_p": 7.8461
+      },
+      "12": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0797,
+        "totalAssets": 0.4166,
+        "currentShares": 14062158,
+        "change": 9473120,
+        "change_p": 206.4293
+      },
+      "13": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.0558,
+        "totalAssets": 0.298,
+        "currentShares": 13750486,
+        "change": 2316849,
+        "change_p": 20.2634
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0338,
+        "totalAssets": 0.0675,
+        "currentShares": 13463911,
+        "change": -358894,
+        "change_p": -2.5964
+      },
+      "15": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8738,
+        "totalAssets": 0.2209,
+        "currentShares": 11381051,
+        "change": 8804439,
+        "change_p": 341.706
+      },
+      "16": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.7458,
+        "totalAssets": 0.0977,
+        "currentShares": 9714105,
+        "change": 3593064,
+        "change_p": 58.7002
+      },
+      "17": {
+        "name": "Sustainable Growth Advisers, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.743,
+        "totalAssets": 2.4831,
+        "currentShares": 9677524,
+        "change": -2818114,
+        "change_p": -22.5528
+      },
+      "18": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.706,
+        "totalAssets": 0.0511,
+        "currentShares": 9195176,
+        "change": 6672857,
+        "change_p": 264.5525
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7005,
+        "totalAssets": 0.056,
+        "currentShares": 9123015,
+        "change": 216855,
+        "change_p": 2.4349
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1764,
+        "totalAssets": 0.0663,
+        "currentShares": 41370740,
+        "change": -449973,
+        "change_p": -1.076
+      },
+      "1": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.572,
+        "totalAssets": 0.7662,
+        "currentShares": 33497894,
+        "change": 10185553,
+        "change_p": 43.6917
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5461,
+        "totalAssets": 0.0746,
+        "currentShares": 33161324,
+        "change": -850693,
+        "change_p": -2.5012
+      },
+      "3": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 2.51,
+        "totalAssets": 0.6798,
+        "currentShares": 32691190,
+        "change": -806704,
+        "change_p": -2.4082
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.4532,
+        "currentShares": 28135692,
+        "change": 13766260,
+        "change_p": 95.8024
+      },
+      "5": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8594,
+        "totalAssets": 0.2667,
+        "currentShares": 24217632,
+        "change": -4194561,
+        "change_p": -14.7632
+      },
+      "6": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.8265,
+        "totalAssets": 0.2485,
+        "currentShares": 23788530,
+        "change": -429102,
+        "change_p": -1.7719
+      },
+      "7": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.6293,
+        "totalAssets": 0.2577,
+        "currentShares": 21220427,
+        "change": -3684820,
+        "change_p": -14.7954
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.292,
+        "totalAssets": 0.0836,
+        "currentShares": 16827643,
+        "change": 27740,
+        "change_p": 0.1651
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.0744,
+        "currentShares": 16741052,
+        "change": -9108,
+        "change_p": -0.0544
+      },
+      "10": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1698,
+        "totalAssets": 0.1535,
+        "currentShares": 15235371,
+        "change": -724879,
+        "change_p": -4.5418
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1566,
+        "totalAssets": 0.0742,
+        "currentShares": 15063778,
+        "change": -37142,
+        "change_p": -0.246
+      },
+      "12": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1527,
+        "totalAssets": 1.0338,
+        "currentShares": 15013456,
+        "change": -9294,
+        "change_p": -0.0619
+      },
+      "13": {
+        "name": "American Funds New Economy A",
+        "date": "2026-03-31",
+        "totalShares": 0.8776,
+        "totalAssets": 0.8882,
+        "currentShares": 11430027,
+        "change": 2555417,
+        "change_p": 28.7947
+      },
+      "14": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8308,
+        "totalAssets": 0.2275,
+        "currentShares": 10820185,
+        "change": -2508489,
+        "change_p": -18.8202
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7606,
+        "totalAssets": 1.0853,
+        "currentShares": 9906356,
+        "change": 4416914,
+        "change_p": 80.462
+      },
+      "16": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 0.702,
+        "totalAssets": 0.5894,
+        "currentShares": 9143057,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Capital Group Growth Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.702,
+        "totalAssets": 0.6187,
+        "currentShares": 9143057,
+        "change": 899953,
+        "change_p": 10.9176
+      },
+      "18": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.684,
+        "totalAssets": 0.6513,
+        "currentShares": 8908795,
+        "change": 4879,
+        "change_p": 0.0548
+      },
+      "19": {
+        "name": "Capital Group New Economy Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6814,
+        "totalAssets": 0.7504,
+        "currentShares": 8874610,
+        "change": 2150433,
+        "change_p": 31.9806
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 29.7478,
+    "ForwardPE": 30.03,
+    "PriceSalesTTM": 3.7362,
+    "PriceBookMRQ": 15.5981,
+    "EnterpriseValue": 48183346700,
+    "EnterpriseValueRevenue": 4.0403,
+    "EnterpriseValueEbitda": 20.2946
+  },
+  "Highlights": {
+    "MarketCapitalization": 44555890688,
+    "MarketCapitalizationMln": 44555.8907,
+    "EBITDA": 2381942016,
+    "PERatio": 29.7478,
+    "PEGRatio": 1.8547,
+    "WallStreetTargetPrice": 43.7429,
+    "BookValue": 2.17,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.15,
+    "EPSEstimateCurrentYear": 1.1404,
+    "EPSEstimateNextYear": 1.362,
+    "EPSEstimateNextQuarter": 0.2759,
+    "EPSEstimateCurrentQuarter": 0.2383,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1288,
+    "OperatingMarginTTM": 0.1521,
+    "ReturnOnAssetsTTM": 0.1388,
+    "ReturnOnEquityTTM": 0.4736,
+    "RevenueTTM": 11925601280,
+    "RevenuePerShareTTM": 8.917,
+    "QuarterlyRevenueGrowthYOY": 0.049,
+    "GrossProfitTTM": 4782030848,
+    "DilutedEpsTTM": 1.15,
+    "QuarterlyEarningsGrowthYOY": 0.04
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.83,
+    "TotalEsgPercentile": 41.12,
+    "EnvironmentScore": 5.78,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 16.78,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 8.27,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CMG",
+    "Type": "Common Stock",
+    "Name": "Chipotle Mexican Grill Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000QX74T1",
+    "ISIN": "US1696561059",
+    "LEI": null,
+    "PrimaryTicker": "CMG.US",
+    "CUSIP": "169656204",
+    "CIK": "0001058090",
+    "EmployerIdNumber": "84-1219301",
+    "FiscalYearEnd": "December",
+    "IPODate": "2006-01-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Restaurants",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Chipotle Mexican Grill, Inc., together with its subsidiaries, owns and operates Chipotle Mexican Grill restaurants. It sells food and beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well as kids's meals, chips, and sides. It offers Mexican-inspired meals using responsibly sourced meats, such as chicken, beef, and pork branded as Responsibly Raised. The company also provides digital ordering through its website, mobile app, and third-party delivery platforms. It has operations in the United States, Canada, France, Germany, and the United Kingdom. Chipotle Mexican Grill, Inc. was founded in 1993 and is headquartered in Newport Beach, California.",
+    "Address": "610 Newport Center Drive, Newport Beach, CA, United States, 92660",
+    "AddressData": {
+      "Street": "610 Newport Center Drive",
+      "City": "Newport Beach",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92660"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Scott  Boatwright",
+        "Title": "CEO & Director",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. Curtis E. Garner III",
+        "Title": "President and Chief Strategy & Technology Officer",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Adam  Rymer",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1982"
+      },
+      "3": {
+        "Name": "Mr. Jason  Kidd",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Matthew  Bush",
+        "Title": "VP, Controller & Principal Accounting Officer",
+        "YearBorn": "1983"
+      },
+      "5": {
+        "Name": "Ms. Cynthia Henn Olsen CFA",
+        "Title": "Head of Investor Relations & Strategy",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. D Ilene Eskenazi J.D.",
+        "Title": "Chief Legal & Human Resources Officer",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Ms. Stephanie  Perdue",
+        "Title": "Interim Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Laurie  Schalow",
+        "Title": "Chief Corporate Affairs & Food Safety Officer",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Ms. Anat  Davidzon",
+        "Title": "Managing Director of Canada",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "949 524 4000",
+    "WebURL": "https://www.chipotle.com",
+    "LogoURL": "/img/logos/US/CMG.png",
+    "FullTimeEmployees": 130301,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1302423000,
+    "SharesFloat": 1292824142,
+    "PercentInsiders": 0.534,
+    "PercentInstitutions": 91.184,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0337
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.7089,
+        "totalAssets": 0.077,
+        "currentShares": 35098553,
+        "change": -144005,
+        "change_p": -0.4086
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 11.5362,
+        "totalAssets": 0.1451,
+        "currentShares": 31859990,
+        "change": 13040993,
+        "change_p": 69.297
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.4018,
+        "totalAssets": 0.0691,
+        "currentShares": 25965285,
+        "change": -1355931,
+        "change_p": -4.9629
+      },
+      "3": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 9.3862,
+        "totalAssets": 1.5511,
+        "currentShares": 25922244,
+        "change": 10214176,
+        "change_p": 65.025
+      },
+      "4": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 7.0318,
+        "totalAssets": 0.4605,
+        "currentShares": 19419826,
+        "change": 3240190,
+        "change_p": 20.0263
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7217,
+        "totalAssets": 0.0687,
+        "currentShares": 13040094,
+        "change": -91169,
+        "change_p": -0.6943
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1865,
+        "totalAssets": 0.0824,
+        "currentShares": 8800382,
+        "change": 121304,
+        "change_p": 1.3977
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6917,
+        "totalAssets": 0.0756,
+        "currentShares": 4672125,
+        "change": 605777,
+        "change_p": 14.8973
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5811,
+        "totalAssets": 0.0402,
+        "currentShares": 4366615,
+        "change": 88698,
+        "change_p": 2.0734
+      },
+      "9": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3705,
+        "totalAssets": 0.6903,
+        "currentShares": 3785055,
+        "change": -89602,
+        "change_p": -2.3125
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3465,
+        "totalAssets": 0.0383,
+        "currentShares": 3718707,
+        "change": -774976,
+        "change_p": -17.2459
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2126,
+        "totalAssets": 0.0651,
+        "currentShares": 3348846,
+        "change": 176221,
+        "change_p": 5.5544
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0657,
+        "totalAssets": 0.0705,
+        "currentShares": 2943187,
+        "change": 153459,
+        "change_p": 5.5009
+      },
+      "13": {
+        "name": "Sustainable Growth Advisers, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.9043,
+        "totalAssets": 2.62,
+        "currentShares": 2497429,
+        "change": -237677,
+        "change_p": -8.6899
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7633,
+        "totalAssets": 0.0575,
+        "currentShares": 2107938,
+        "change": -28695,
+        "change_p": -1.343
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7617,
+        "totalAssets": 0.0162,
+        "currentShares": 2103541,
+        "change": -775934,
+        "change_p": -26.9471
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7556,
+        "totalAssets": 0.07,
+        "currentShares": 2086659,
+        "change": -161503,
+        "change_p": -7.1838
+      },
+      "17": {
+        "name": "Cantillon Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7444,
+        "totalAssets": 1.6817,
+        "currentShares": 2055883,
+        "change": 15649,
+        "change_p": 0.767
+      },
+      "18": {
+        "name": "Magellan Investment Partners",
+        "date": "2025-12-31",
+        "totalShares": 0.7199,
+        "totalAssets": 3.656,
+        "currentShares": 1988118,
+        "change": -146334,
+        "change_p": -6.8558
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7158,
+        "totalAssets": 0.0471,
+        "currentShares": 1976774,
+        "change": -246817,
+        "change_p": -11.0999
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1785,
+        "totalAssets": 0.0684,
+        "currentShares": 8778247,
+        "change": 271,
+        "change_p": 0.0031
+      },
+      "1": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 3.1677,
+        "totalAssets": 0.6822,
+        "currentShares": 8748257,
+        "change": 37625,
+        "change_p": 0.4319
+      },
+      "2": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.154,
+        "totalAssets": 0.6329,
+        "currentShares": 8710632,
+        "change": 1178449,
+        "change_p": 15.6455
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5602,
+        "totalAssets": 0.0773,
+        "currentShares": 7070705,
+        "change": -70077,
+        "change_p": -0.9814
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1622,
+        "totalAssets": 0.4672,
+        "currentShares": 5971515,
+        "change": -63181,
+        "change_p": -1.047
+      },
+      "5": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4426,
+        "totalAssets": 1.4147,
+        "currentShares": 3983974,
+        "change": 2176,
+        "change_p": 0.0546
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2924,
+        "totalAssets": 0.0771,
+        "currentShares": 3569133,
+        "change": -1944,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2794,
+        "totalAssets": 0.0793,
+        "currentShares": 3533484,
+        "change": 5827,
+        "change_p": 0.1652
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1758,
+        "totalAssets": 0.1589,
+        "currentShares": 3247382,
+        "change": -153795,
+        "change_p": -4.5218
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1686,
+        "totalAssets": 0.0772,
+        "currentShares": 3227394,
+        "change": -7889,
+        "change_p": -0.2438
+      },
+      "10": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1516,
+        "totalAssets": 1.9103,
+        "currentShares": 3180300,
+        "change": -4400,
+        "change_p": -0.1382
+      },
+      "11": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9506,
+        "totalAssets": 0.2441,
+        "currentShares": 2625350,
+        "change": 1016578,
+        "change_p": 63.1897
+      },
+      "12": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.9506,
+        "totalAssets": 0.2673,
+        "currentShares": 2625350,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.9391,
+        "totalAssets": 0.3326,
+        "currentShares": 2593631,
+        "change": -173749,
+        "change_p": -6.2785
+      },
+      "14": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.9376,
+        "totalAssets": 1.7861,
+        "currentShares": 2589300,
+        "change": -588300,
+        "change_p": -18.514
+      },
+      "15": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 0.8589,
+        "totalAssets": 0.5569,
+        "currentShares": 2371954,
+        "change": -1104800,
+        "change_p": -31.7768
+      },
+      "16": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7613,
+        "totalAssets": 1.1188,
+        "currentShares": 2102555,
+        "change": -202794,
+        "change_p": -8.7967
+      },
+      "17": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7291,
+        "totalAssets": 0.1731,
+        "currentShares": 2013463,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.6419,
+        "totalAssets": 0.6777,
+        "currentShares": 1772791,
+        "change": -39692,
+        "change_p": -2.1899
+      },
+      "19": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.6347,
+        "totalAssets": 0.6611,
+        "currentShares": 1753009,
+        "change": -75674,
+        "change_p": -4.1382
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.8793,
+    "ForwardPE": 24.4499,
+    "PriceSalesTTM": 5.394,
+    "PriceBookMRQ": 212.0838,
+    "EnterpriseValue": 56869330490,
+    "EnterpriseValueRevenue": 6.9235,
+    "EnterpriseValueEbitda": 20.4272
+  },
+  "Highlights": {
+    "MarketCapitalization": 44306223104,
+    "MarketCapitalizationMln": 44306.2231,
+    "EBITDA": 2910000128,
+    "PERatio": 28.8793,
+    "PEGRatio": 1.9787,
+    "WallStreetTargetPrice": 172.0417,
+    "BookValue": -26.444,
+    "DividendShare": 2.88,
+    "DividendYield": 0.0179,
+    "EarningsShare": 5.55,
+    "EPSEstimateCurrentYear": 6.6812,
+    "EPSEstimateNextYear": 7.471,
+    "EPSEstimateNextQuarter": 1.3983,
+    "EPSEstimateCurrentQuarter": 1.7562,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1898,
+    "OperatingMarginTTM": 0.3193,
+    "ReturnOnAssetsTTM": 0.2265,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 8214000128,
+    "RevenuePerShareTTM": 29.441,
+    "QuarterlyRevenueGrowthYOY": 0.065,
+    "GrossProfitTTM": 3792000000,
+    "DilutedEpsTTM": 5.55,
+    "QuarterlyEarningsGrowthYOY": 0.277
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.14,
+    "TotalEsgPercentile": 12.8,
+    "EnvironmentScore": 0.16,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 8.54,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 1.95,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "YUM",
+    "Type": "Common Stock",
+    "Name": "Yum! Brands Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BH3GZ2",
+    "ISIN": "US9884981013",
+    "LEI": "549300JE8XHZZ7OHN517",
+    "PrimaryTicker": "YUM.US",
+    "CUSIP": "895953107",
+    "CIK": "0001041061",
+    "EmployerIdNumber": "13-3951308",
+    "FiscalYearEnd": "December",
+    "IPODate": "1997-09-17",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Restaurants",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Yum! Brands, Inc., together with its subsidiaries, develops, operates, and franchises traditional and non-traditional quick service restaurants in the United States, China, and internationally. The company operates in four segments: KFC Division, Taco Bell Division, Pizza Hut Division, and Habit Burger & Grill Division. It also operates restaurants under the KFC, Pizza Hut, Taco Bell, and Habit Burger & Grill brands, which specialize in chicken, Mexican-style food and pizza categories, made-to-order chargrilled burgers, sandwiches, and other products. The company was formerly known as TRICON Global Restaurants, Inc. and changed its name to Yum! Brands, Inc. in May 2002. Yum! Brands, Inc. was incorporated in 1997 and is headquartered in Louisville, Kentucky.",
+    "Address": "1441 Gardiner Lane, Louisville, KY, United States, 40213",
+    "AddressData": {
+      "Street": "1441 Gardiner Lane",
+      "City": "Louisville",
+      "State": "KY",
+      "Country": "United States",
+      "ZIP": "40213"
+    },
+    "Listings": {
+      "0": {
+        "Code": null,
+        "Exchange": null,
+        "Name": null
+      },
+      "1": {
+        "Code": "YUM",
+        "Exchange": "F",
+        "Name": "SHK Hong Kong Industries Limited"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher Lee Turner",
+        "Title": "CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Ranjith  Roy",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1981"
+      },
+      "2": {
+        "Name": "Ms. Tracy L. Skeans",
+        "Title": "COO and Chief People & Culture Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Sean C. Tresvant",
+        "Title": "Chief Consumer Officer & CEO of Taco Bell",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Aaron M. Powell",
+        "Title": "Chief Executive Officer of Pizza Hut Division",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. James A. Dausch",
+        "Title": "Chief Digital & Technology Officer and President of Byte by Yum",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Matthew Robert Morris",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Erika  Burkhardt",
+        "Title": "Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Ms. Andrea  Whitney",
+        "Title": "Chief Communications & Community Impact Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Ken  Muench",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "502 874 8300",
+    "WebURL": "https://www.yum.com",
+    "LogoURL": "/img/logos/US/YUM.png",
+    "FullTimeEmployees": 49000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 276173275,
+    "SharesFloat": 275664419,
+    "PercentInsiders": 0.165,
+    "PercentInstitutions": 89.84,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0278
+  }
+}

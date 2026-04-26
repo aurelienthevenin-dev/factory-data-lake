@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8668,
+        "totalAssets": 0.0249,
+        "currentShares": 138179864,
+        "change": -2093338,
+        "change_p": -1.4923
+      },
+      "1": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 7.2194,
+        "totalAssets": 0.089,
+        "currentShares": 84064766,
+        "change": 5292150,
+        "change_p": 6.7183
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.0387,
+        "totalAssets": 0.0142,
+        "currentShares": 81959740,
+        "change": -901508,
+        "change_p": -1.088
+      },
+      "3": {
+        "name": "Davis Selected Advisers",
+        "date": "2025-12-31",
+        "totalShares": 6.7139,
+        "totalAssets": 4.3746,
+        "currentShares": 78177984,
+        "change": 8832339,
+        "change_p": 12.7367
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7841,
+        "totalAssets": 0.0191,
+        "currentShares": 55707362,
+        "change": 419662,
+        "change_p": 0.7591
+      },
+      "5": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.4374,
+        "totalAssets": 0.1045,
+        "currentShares": 40026301,
+        "change": 2655963,
+        "change_p": 7.1071
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6715,
+        "totalAssets": 0.0239,
+        "currentShares": 31106924,
+        "change": 1190429,
+        "change_p": 3.9792
+      },
+      "7": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.3894,
+        "totalAssets": 0.0633,
+        "currentShares": 27822902,
+        "change": 4667913,
+        "change_p": 20.1594
+      },
+      "8": {
+        "name": "Rubric Capital Management LP",
+        "date": "2025-12-31",
+        "totalShares": 2.1899,
+        "totalAssets": 3.7968,
+        "currentShares": 25500000,
+        "change": 10115000,
+        "change_p": 65.7459
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.1731,
+        "totalAssets": 0.0395,
+        "currentShares": 25303753,
+        "change": -2323220,
+        "change_p": -8.4092
+      },
+      "10": {
+        "name": "Deerfield Management Co",
+        "date": "2025-12-31",
+        "totalShares": 1.7353,
+        "totalAssets": 3.2128,
+        "currentShares": 20206170,
+        "change": -3892913,
+        "change_p": -16.1538
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4235,
+        "totalAssets": 0.0099,
+        "currentShares": 16575849,
+        "change": 832369,
+        "change_p": 5.2871
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2973,
+        "totalAssets": 0.0096,
+        "currentShares": 15106058,
+        "change": 4060163,
+        "change_p": 36.7572
+      },
+      "13": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1591,
+        "totalAssets": 0.0261,
+        "currentShares": 13496292,
+        "change": 342922,
+        "change_p": 2.6071
+      },
+      "14": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1431,
+        "totalAssets": 0.004,
+        "currentShares": 13310732,
+        "change": 6953176,
+        "change_p": 109.3687
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0701,
+        "totalAssets": 0.0221,
+        "currentShares": 12461032,
+        "change": 2151443,
+        "change_p": 20.8684
+      },
+      "16": {
+        "name": "Glenview Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9522,
+        "totalAssets": 2.8088,
+        "currentShares": 11087244,
+        "change": 2839660,
+        "change_p": 34.4302
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9326,
+        "totalAssets": 0.0138,
+        "currentShares": 10858977,
+        "change": -384170,
+        "change_p": -3.4169
+      },
+      "18": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9247,
+        "totalAssets": 0.0072,
+        "currentShares": 10767466,
+        "change": 1570255,
+        "change_p": 17.0732
+      },
+      "19": {
+        "name": "Callodine Capital Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.8314,
+        "totalAssets": 9.68,
+        "currentShares": 9680736,
+        "change": 2739736,
+        "change_p": 39.4718
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1325,
+        "totalAssets": 0.0247,
+        "currentShares": 36475829,
+        "change": -61386,
+        "change_p": -0.168
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5187,
+        "totalAssets": 0.0279,
+        "currentShares": 29328509,
+        "change": -283797,
+        "change_p": -0.9584
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.283,
+        "totalAssets": 0.2162,
+        "currentShares": 26583767,
+        "change": 424712,
+        "change_p": 1.6236
+      },
+      "3": {
+        "name": "Davis NY Venture A",
+        "date": "2026-01-31",
+        "totalShares": 1.7472,
+        "totalAssets": 3.5595,
+        "currentShares": 20344401,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4528,
+        "totalAssets": 0.3763,
+        "currentShares": 16916599,
+        "change": 118130,
+        "change_p": 0.7032
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2715,
+        "totalAssets": 0.0278,
+        "currentShares": 14805587,
+        "change": -8064,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2588,
+        "totalAssets": 0.0292,
+        "currentShares": 14657784,
+        "change": 24210,
+        "change_p": 0.1654
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1547,
+        "totalAssets": 0.0279,
+        "currentShares": 13445580,
+        "change": -32830,
+        "change_p": -0.2436
+      },
+      "8": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0674,
+        "totalAssets": 0.1969,
+        "currentShares": 12428676,
+        "change": 36680,
+        "change_p": 0.296
+      },
+      "9": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0653,
+        "totalAssets": 0.9354,
+        "currentShares": 12405000,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0225,
+        "totalAssets": 1.0015,
+        "currentShares": 11905902,
+        "change": -1072772,
+        "change_p": -8.2657
+      },
+      "11": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.9725,
+        "totalAssets": 0.9467,
+        "currentShares": 11324000,
+        "change": -686000,
+        "change_p": -5.7119
+      },
+      "12": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.723,
+        "totalAssets": 0.2929,
+        "currentShares": 8418282,
+        "change": 25520,
+        "change_p": 0.3041
+      },
+      "13": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.6959,
+        "totalAssets": 0.7405,
+        "currentShares": 8103484,
+        "change": -3759933,
+        "change_p": -31.6935
+      },
+      "14": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6839,
+        "totalAssets": 0.5921,
+        "currentShares": 7962990,
+        "change": -2742,
+        "change_p": -0.0344
+      },
+      "15": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6424,
+        "totalAssets": 0.7316,
+        "currentShares": 7480598,
+        "change": 55642,
+        "change_p": 0.7494
+      },
+      "16": {
+        "name": "DFA US Small Cap Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.5858,
+        "totalAssets": 0.5591,
+        "currentShares": 6821322,
+        "change": -677174,
+        "change_p": -9.0308
+      },
+      "17": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5695,
+        "totalAssets": 1.2686,
+        "currentShares": 6630860,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5583,
+        "totalAssets": 0.6938,
+        "currentShares": 6500430,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5573,
+        "totalAssets": 0.0278,
+        "currentShares": 6489066,
+        "change": -27247,
+        "change_p": -0.4181
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 6.0096,
+    "PriceSalesTTM": 1.188,
+    "PriceBookMRQ": 1.1679,
+    "EnterpriseValue": 30366030512,
+    "EnterpriseValueRevenue": 2.1235,
+    "EnterpriseValueEbitda": 11.1595
+  },
+  "Highlights": {
+    "MarketCapitalization": 16988900352,
+    "MarketCapitalizationMln": 16988.9004,
+    "EBITDA": 3958200064,
+    "PERatio": null,
+    "PEGRatio": 0.0728,
+    "WallStreetTargetPrice": 15.7222,
+    "BookValue": 12.779,
+    "DividendShare": 0.48,
+    "DividendYield": 0.0325,
+    "EarningsShare": -3,
+    "EPSEstimateCurrentYear": 2.4367,
+    "EPSEstimateNextYear": 2.662,
+    "EPSEstimateNextQuarter": 0.5565,
+    "EPSEstimateCurrentQuarter": 0.5308,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.2458,
+    "OperatingMarginTTM": 0.0778,
+    "ReturnOnAssetsTTM": 0.0196,
+    "ReturnOnEquityTTM": -0.2108,
+    "RevenueTTM": 14299899904,
+    "RevenuePerShareTTM": 12.215,
+    "QuarterlyRevenueGrowthYOY": 0.05,
+    "GrossProfitTTM": 5655199744,
+    "DilutedEpsTTM": -3,
+    "QuarterlyEarningsGrowthYOY": -0.706
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "VTRS",
+    "Type": "Common Stock",
+    "Name": "Viatris Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00Y4RQNH4",
+    "ISIN": "US92556V1061",
+    "LEI": "254900ZZTSW7NL773X71",
+    "PrimaryTicker": "VTRS.US",
+    "CUSIP": "92556V106",
+    "CIK": "0001792044",
+    "EmployerIdNumber": "83-4364296",
+    "FiscalYearEnd": "December",
+    "IPODate": "2020-11-16",
+    "InternationalDomestic": null,
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - Specialty & Generic",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Pharmaceuticals",
+    "GicSubIndustry": "Pharmaceuticals",
+    "HomeCategory": null,
+    "IsDelisted": false,
+    "Description": "Viatris Inc., together with its subsidiaries, operates as a healthcare company in North America, Europe, China, Taiwan, Hong Kong, Japan, Australia, New Zealand, rest of Asia, Africa, Latin America, and the Middle East. It operates in four segments: Developed Markets, Greater China, JANZ, and Emerging Markets. The company offers prescription brand drugs, generic drugs, complex generic drugs, and biosimilars. It also provides drugs in various therapeutic areas covering various noncommunicable and infectious diseases, including cardiovascular, CNS and anesthesia, dermatology, diabetes and metabolism, eye care, gastroenterology, immunology, oncology, and respiratory and allergy, as well as support services, such as diagnostic clinics, educational seminars, and digital tools to help patients better manage their health. In addition, the company offers medicines in the form of oral solid doses, injectables, and complex dosage forms to retail and pharmacy establishments, wholesalers and distributors, payers, insurers and governments, and institutions. It distributes its products through pharmaceutical wholesalers/distributors, pharmaceutical retailers, institutional pharmacies, mail-order and e-commerce pharmacies, and specialty pharmacies under the Lyrica, Lipitor, Celebrex, Viagra, Creon, Influvac, Wixela Inhub, EpiPen Auto-Injector, Fraxiparine, Yupelri, Norvasc, Amitiza, Effexor, Lipacreon, Zoloft, Xalabrands, Dymista, Xanax, and Breyna brands. The company has collaboration agreements with Mapi Pharma Ltd. to develop and commercialize long-acting glatiramer acetate depot products and additional products; Revance Therapeutics, Inc. to develop, manufacture, and commercialize a biosimilar to the branded biologic product, BOTOX; and Theravance Biopharma, Inc. to develop and commercialize revefenacin. Viatris Inc. was founded in 1961 and is headquartered in Canonsburg, Pennsylvania.",
+    "Address": "Robert J. Coury Global Center, Canonsburg, PA, United States, 15317",
+    "AddressData": {
+      "Street": "Robert J. Coury Global Center",
+      "City": "Canonsburg",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "15317"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Scott Andrew Smith Ph.D.",
+        "Title": "CEO & Director",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Ms. Theodora  Mistras",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1983"
+      },
+      "2": {
+        "Name": "Mr. Andrew  Enrietti",
+        "Title": "Chief Administrative & Transformation Officer",
+        "YearBorn": "1985"
+      },
+      "3": {
+        "Name": "Dr. Corinne M. Le Goff M.B.A., Pharm.D.",
+        "Title": "Chief Commercial Officer",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Paul B. Campbell",
+        "Title": "Chief Accounting Officer & Corporate Controller",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Ramkumar V. Rayapureddy",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. William  Szablewski C.F.A.",
+        "Title": "Head of Investor Relations & Capital Markets",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Matthew Joseph Maletta",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Ms. Lara  Ramsburg",
+        "Title": "Chief People & Corporate Affairs Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Philippe  Martin",
+        "Title": "Chief R&D Officer",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "724 514 1800",
+    "WebURL": "https://www.viatris.com",
+    "LogoURL": "/img/logos/US/VTRS.png",
+    "FullTimeEmployees": 30000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1164420909,
+    "SharesFloat": 1141444887,
+    "PercentInsiders": 0.44999999999999996,
+    "PercentInstitutions": 85.941,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0304
+  }
+}

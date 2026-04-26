@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.456,
+        "totalAssets": 0.1824,
+        "currentShares": 55261140,
+        "change": 593612,
+        "change_p": 1.0859
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3338,
+        "totalAssets": 0.2106,
+        "currentShares": 48702663,
+        "change": 1078176,
+        "change_p": 2.2639
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.2758,
+        "totalAssets": 0.2713,
+        "currentShares": 36675578,
+        "change": 21305223,
+        "change_p": 138.6124
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4163,
+        "totalAssets": 0.221,
+        "currentShares": 25808762,
+        "change": 78374,
+        "change_p": 0.3046
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6716,
+        "totalAssets": 0.219,
+        "currentShares": 15612584,
+        "change": -47224,
+        "change_p": -0.3016
+      },
+      "5": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.5533,
+        "totalAssets": 0.5326,
+        "currentShares": 14921724,
+        "change": 1217527,
+        "change_p": 8.8843
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.2885,
+        "totalAssets": 0.224,
+        "currentShares": 13374051,
+        "change": 123119,
+        "change_p": 0.9291
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.1868,
+        "totalAssets": 0.9384,
+        "currentShares": 12779665,
+        "change": 28173,
+        "change_p": 0.2209
+      },
+      "8": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.9069,
+        "totalAssets": 0.4685,
+        "currentShares": 11144028,
+        "change": -23912,
+        "change_p": -0.2141
+      },
+      "9": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.8468,
+        "totalAssets": 0.8393,
+        "currentShares": 10792408,
+        "change": -180166,
+        "change_p": -1.642
+      },
+      "10": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7852,
+        "totalAssets": 3.9128,
+        "currentShares": 10432549,
+        "change": 1092151,
+        "change_p": 11.6928
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7682,
+        "totalAssets": 0.1545,
+        "currentShares": 10333327,
+        "change": -1006518,
+        "change_p": -8.8759
+      },
+      "12": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.6295,
+        "totalAssets": 0.2949,
+        "currentShares": 9522616,
+        "change": 17494,
+        "change_p": 0.184
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3797,
+        "totalAssets": 0.1964,
+        "currentShares": 8062944,
+        "change": -19716,
+        "change_p": -0.2439
+      },
+      "14": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1817,
+        "totalAssets": 0.0802,
+        "currentShares": 6905761,
+        "change": -5299126,
+        "change_p": -43.4181
+      },
+      "15": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.1133,
+        "totalAssets": 0.2596,
+        "currentShares": 6506302,
+        "change": 4197212,
+        "change_p": 181.7691
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0295,
+        "totalAssets": 0.1901,
+        "currentShares": 6016636,
+        "change": -93944,
+        "change_p": -1.5374
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0022,
+        "totalAssets": 0.3141,
+        "currentShares": 5856899,
+        "change": -1337208,
+        "change_p": -18.5875
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8836,
+        "totalAssets": 0.3829,
+        "currentShares": 5163933,
+        "change": -298140,
+        "change_p": -5.4584
+      },
+      "19": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8762,
+        "totalAssets": 0.1353,
+        "currentShares": 5120307,
+        "change": -79423,
+        "change_p": -1.5274
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1856,
+        "totalAssets": 0.1848,
+        "currentShares": 18616571,
+        "change": 65139,
+        "change_p": 0.3511
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5538,
+        "totalAssets": 0.2079,
+        "currentShares": 14924452,
+        "change": -155715,
+        "change_p": -1.0326
+      },
+      "2": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.4072,
+        "totalAssets": 3.4113,
+        "currentShares": 8223434,
+        "change": -336062,
+        "change_p": -3.9262
+      },
+      "3": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.3512,
+        "totalAssets": 3.0155,
+        "currentShares": 7896352,
+        "change": -205025,
+        "change_p": -2.5307
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2892,
+        "totalAssets": 0.2074,
+        "currentShares": 7534154,
+        "change": -4104,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.277,
+        "totalAssets": 0.2129,
+        "currentShares": 7462633,
+        "change": 12297,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1648,
+        "totalAssets": 0.2075,
+        "currentShares": 6806872,
+        "change": -16709,
+        "change_p": -0.2449
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1423,
+        "totalAssets": 0.4525,
+        "currentShares": 6675533,
+        "change": -543897,
+        "change_p": -7.5338
+      },
+      "8": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.1405,
+        "totalAssets": 0.7964,
+        "currentShares": 6665263,
+        "change": 2945132,
+        "change_p": 79.1674
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.9935,
+        "totalAssets": 0.3756,
+        "currentShares": 5805772,
+        "change": -869761,
+        "change_p": -13.0291
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9269,
+        "totalAssets": 0.4758,
+        "currentShares": 5416905,
+        "change": -47979,
+        "change_p": -0.878
+      },
+      "11": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.8525,
+        "totalAssets": 0.3747,
+        "currentShares": 4982276,
+        "change": 2154137,
+        "change_p": 76.168
+      },
+      "12": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.753,
+        "totalAssets": 0.7981,
+        "currentShares": 4400608,
+        "change": 38648,
+        "change_p": 0.886
+      },
+      "13": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.7523,
+        "totalAssets": 0.996,
+        "currentShares": 4396701,
+        "change": 1507024,
+        "change_p": 52.152
+      },
+      "14": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7464,
+        "totalAssets": 0.8907,
+        "currentShares": 4361960,
+        "change": 410778,
+        "change_p": 10.3963
+      },
+      "15": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7399,
+        "totalAssets": 0.4729,
+        "currentShares": 4323729,
+        "change": 288603,
+        "change_p": 7.1523
+      },
+      "16": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.7399,
+        "totalAssets": 0.4299,
+        "currentShares": 4323729,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6855,
+        "totalAssets": 1.6455,
+        "currentShares": 4006144,
+        "change": 6765,
+        "change_p": 0.1692
+      },
+      "18": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6366,
+        "totalAssets": 0.4815,
+        "currentShares": 3720131,
+        "change": 494113,
+        "change_p": 15.3165
+      },
+      "19": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.5945,
+        "totalAssets": 0.4474,
+        "currentShares": 3474000,
+        "change": 1259605,
+        "change_p": 56.8826
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 10.4467,
+    "ForwardPE": 12.6103,
+    "PriceSalesTTM": 1.313,
+    "PriceBookMRQ": 3.7453,
+    "EnterpriseValue": 126766852000,
+    "EnterpriseValueRevenue": 1.4177,
+    "EnterpriseValueEbitda": 21.8519
+  },
+  "Highlights": {
+    "MarketCapitalization": 117400117248,
+    "MarketCapitalizationMln": 117400.1172,
+    "EBITDA": 15152249856,
+    "PERatio": 10.4467,
+    "PEGRatio": 31.5117,
+    "WallStreetTargetPrice": 230.1429,
+    "BookValue": 54.711,
+    "DividendShare": 13.8,
+    "DividendYield": 0.0672,
+    "EarningsShare": 19.23,
+    "EPSEstimateCurrentYear": 16.2994,
+    "EPSEstimateNextYear": 16.136,
+    "EPSEstimateNextQuarter": 3.7826,
+    "EPSEstimateCurrentQuarter": 4.8457,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1293,
+    "OperatingMarginTTM": 0.1639,
+    "ReturnOnAssetsTTM": 0.0794,
+    "ReturnOnEquityTTM": 0.379,
+    "RevenueTTM": 89415000064,
+    "RevenuePerShareTTM": 152.533,
+    "QuarterlyRevenueGrowthYOY": 0.087,
+    "GrossProfitTTM": 16597000192,
+    "DilutedEpsTTM": 19.23,
+    "QuarterlyEarningsGrowthYOY": 0.098
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.91,
+    "TotalEsgPercentile": 43.32,
+    "EnvironmentScore": 7.06,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.28,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 17.57,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PGR",
+    "Type": "Common Stock",
+    "Name": "Progressive Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BR37X2",
+    "ISIN": "US7433151039",
+    "LEI": "529900TACNVLY9DCR586",
+    "PrimaryTicker": "PGR.US",
+    "CUSIP": "743315103",
+    "CIK": "0000080661",
+    "EmployerIdNumber": "34-0963169",
+    "FiscalYearEnd": "December",
+    "IPODate": "1986-07-09",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Property & Casualty",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Property & Casualty Insurance",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Progressive Corporation operates as an insurance company in the United States. It writes insurance for personal autos and special lines products, including motorcycles, RVs, and watercraft; and personal residential property insurance for homeowners and renters. The company also writes auto-related liability and physical damage insurance for comprising dump trucks, log trucks, garbage trucks, tractors, trailers, straight trucks, tow trucks and wreckers, vans, pick-up trucks, and autos; business-related general liability and commercial property insurance for small businesses; and workers' compensation insurance for the transportation industry. In addition, it offers other specialty property-casualty insurance and provides related services; personal property reinsurance products; and involved in investment activities. It sells its products through independent insurance agencies, as well as online and over the phone. The Progressive Corporation was founded in 1937 and is headquartered in Mayfield, Ohio.",
+    "Address": "300 North Commons Blvd., Mayfield, OH, United States, 44143",
+    "AddressData": {
+      "Street": "300 North Commons Blvd.",
+      "City": "Mayfield",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44143"
+    },
+    "Listings": {
+      "0": {
+        "Code": "PGR",
+        "Exchange": "F",
+        "Name": "Progress Software Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Susan Patricia Griffith",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. John Peter Sauerland",
+        "Title": "VP & CFO",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Patrick K. Callahan",
+        "Title": "President of Personal Lines",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. John Joseph Murphy",
+        "Title": "President of Claims",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Ms. Karen Barone Bailo",
+        "Title": "President of Commercial Lines",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Jonathan S. Bauer",
+        "Title": "Chief Investment Officer",
+        "YearBorn": "1978"
+      },
+      "6": {
+        "Name": "Mr. Carl G. Joyce",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1982"
+      },
+      "7": {
+        "Name": "Mr. Steven Anthony Broz",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Mr. Douglas S. Constantine",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. David M. Stringer",
+        "Title": "VP, Secretary & Chief Legal Officer",
+        "YearBorn": "1975"
+      }
+    },
+    "Phone": "440 461 5000",
+    "WebURL": "https://www.progressive.com",
+    "LogoURL": "/img/logos/US/pgr.png",
+    "FullTimeEmployees": 70053,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 584400000,
+    "SharesFloat": 582214344,
+    "PercentInsiders": 0.248,
+    "PercentInstitutions": 89.292,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0125
+  }
+}

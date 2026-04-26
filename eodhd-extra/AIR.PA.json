@@ -1,0 +1,223 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 25.1394,
+    "ForwardPE": 22.8311,
+    "PriceSalesTTM": 1.779,
+    "PriceBookMRQ": 5.0037,
+    "EnterpriseValue": 123324827450,
+    "EnterpriseValueRevenue": 1.6797,
+    "EnterpriseValueEbitda": 12.0282
+  },
+  "Highlights": {
+    "MarketCapitalization": 130616827904,
+    "MarketCapitalizationMln": 130616.8279,
+    "EBITDA": 7946999808,
+    "PERatio": 25.1394,
+    "PEGRatio": 1.439,
+    "WallStreetTargetPrice": 211.3074,
+    "BookValue": 33.159,
+    "DividendShare": 3.2,
+    "DividendYield": 0.019,
+    "EarningsShare": 6.6,
+    "EPSEstimateCurrentYear": 7.155,
+    "EPSEstimateNextYear": 8.5261,
+    "EPSEstimateNextQuarter": 1.765,
+    "EPSEstimateCurrentQuarter": 2.6072,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0711,
+    "OperatingMarginTTM": 0.0984,
+    "ReturnOnAssetsTTM": 0.0271,
+    "ReturnOnEquityTTM": 0.2162,
+    "RevenueTTM": 73419997184,
+    "RevenuePerShareTTM": 92.987,
+    "QuarterlyRevenueGrowthYOY": 0.051,
+    "GrossProfitTTM": 11466999808,
+    "DilutedEpsTTM": 6.6,
+    "QuarterlyEarningsGrowthYOY": 0.065
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.41,
+    "TotalEsgPercentile": 59.5,
+    "EnvironmentScore": 5.86,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 11.77,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 5.29,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "Yes"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AIR",
+    "Type": "Common Stock",
+    "Name": "Airbus Group SE",
+    "Exchange": "PA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "France",
+    "CountryISO": "FR",
+    "OpenFigi": null,
+    "ISIN": "NL0000235190",
+    "LEI": "MINO79WLOO247M1IL051",
+    "PrimaryTicker": "AIR.PA",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": "2000-07-10",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "Description": "Airbus SE, together with its subsidiaries, engages in the design, manufacture, and delivery of aeronautics and aerospace products, services, and solutions worldwide. It operates through three segments: Airbus, Airbus Helicopters, and Airbus Defence and Space. The Airbus segment develops, manufactures, markets, and sells commercial jet passenger aircraft, freighter aircraft, regional turboprop aircraft, and aircraft components, as well as provides aircraft conversion and related services. The Airbus Helicopters segment develops, manufactures, markets, and sells civil and military helicopters; and provides uncrewed aerial systems and their related services. The Airbus Defence and Space segment designs, develops, delivers, and supports crewed and uncrewed military air systems and related services. This segment also offers civil and defence space systems for telecommunications, earth observations, navigation, and science and orbital systems; and services around data processing from platforms, secure communication, and cyber security. The company was formerly known as Airbus Group SE and changed its name to Airbus SE in April 2017. The company was incorporated in 1998 and is headquartered in Leiden, the Netherlands.",
+    "Address": "PO Box 32008, Leiden, Netherlands, 2303 DA",
+    "AddressData": {
+      "Street": "PO Box 32008",
+      "City": "Leiden",
+      "Country": "Netherlands",
+      "ZIP": "2303 DA"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AIR",
+        "Exchange": "MC",
+        "Name": "Airbus Group SE"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Guillaume M.J.D Faury",
+        "Title": "CEO & Executive Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Dr. Thomas  Toepfer Ph.D.",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Remi  Maillard",
+        "Title": "EVP of Engineering for Commercial Aircraft Business & Head of Technology",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Jean-Christophe  Henoux",
+        "Title": "Head of Investor Relations & Financial Communication",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. John  Harrison",
+        "Title": "General Counsel & Head of Airbus Public Affairs",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Ms. Julie  Kitcher",
+        "Title": "Chief Sustainability Officer & Communications",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Carmen-Maja  Rex",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Didier  Lux",
+        "Title": "Head of Customer Services & Senior VP",
+        "YearBorn": "1961"
+      },
+      "8": {
+        "Name": "Geneviève  Laurens-Chassagne",
+        "Title": "Head of Supplier Support Management",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Philippe  Mhun",
+        "Title": "Executive Vice President of Programmes & Services of Commercial Aircraft Business",
+        "YearBorn": "1962"
+      }
+    },
+    "Phone": "31 71 524 5600",
+    "WebURL": "https://www.airbus.com",
+    "LogoURL": "/img/logos/PA/AIR.png",
+    "FullTimeEmployees": 165294,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 787227745,
+    "SharesFloat": 584154476,
+    "PercentInsiders": 25.729999999999997,
+    "PercentInstitutions": 37.742,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

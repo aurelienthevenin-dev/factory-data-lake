@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.6414,
+        "totalAssets": 0.0464,
+        "currentShares": 47512198,
+        "change": 697829,
+        "change_p": 1.4906
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.8468,
+        "totalAssets": 0.0508,
+        "currentShares": 40767042,
+        "change": 1673947,
+        "change_p": 4.282
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.1166,
+        "totalAssets": 0.066,
+        "currentShares": 26747251,
+        "change": -595787,
+        "change_p": -2.1789
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.1153,
+        "totalAssets": 0.0402,
+        "currentShares": 11708770,
+        "change": 979739,
+        "change_p": 9.1317
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5638,
+        "totalAssets": 0.0399,
+        "currentShares": 9635907,
+        "change": 194781,
+        "change_p": 2.0631
+      },
+      "5": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.5399,
+        "totalAssets": 0.3627,
+        "currentShares": 9546217,
+        "change": 3645555,
+        "change_p": 61.7821
+      },
+      "6": {
+        "name": "Magellan Investment Partners",
+        "date": "2025-12-31",
+        "totalShares": 1.8597,
+        "totalAssets": 5.7204,
+        "currentShares": 6989415,
+        "change": -417370,
+        "change_p": -5.635
+      },
+      "7": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8305,
+        "totalAssets": 0.1245,
+        "currentShares": 6879754,
+        "change": 3406465,
+        "change_p": 98.0761
+      },
+      "8": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.6344,
+        "totalAssets": 0.0949,
+        "currentShares": 6142745,
+        "change": -432992,
+        "change_p": -6.5847
+      },
+      "9": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5521,
+        "totalAssets": 0.061,
+        "currentShares": 5833314,
+        "change": -41334,
+        "change_p": -0.7036
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5009,
+        "totalAssets": 0.0243,
+        "currentShares": 5640881,
+        "change": -603229,
+        "change_p": -9.6608
+      },
+      "11": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.4213,
+        "totalAssets": 0.1171,
+        "currentShares": 5341986,
+        "change": 2341912,
+        "change_p": 78.0618
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3653,
+        "totalAssets": 0.0575,
+        "currentShares": 5131395,
+        "change": -235599,
+        "change_p": -4.3898
+      },
+      "13": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3505,
+        "totalAssets": 0.0758,
+        "currentShares": 5075915,
+        "change": -12585,
+        "change_p": -0.2473
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2805,
+        "totalAssets": 0.0347,
+        "currentShares": 4812589,
+        "change": 494073,
+        "change_p": 11.4408
+      },
+      "15": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1828,
+        "totalAssets": 0.0784,
+        "currentShares": 4445608,
+        "change": -118889,
+        "change_p": -2.6046
+      },
+      "16": {
+        "name": "Zimmer Partners LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0228,
+        "totalAssets": 6.8197,
+        "currentShares": 3843997,
+        "change": 91697,
+        "change_p": 2.4438
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0183,
+        "totalAssets": 0.0427,
+        "currentShares": 3827141,
+        "change": -157168,
+        "change_p": -3.9447
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9611,
+        "totalAssets": 0.0329,
+        "currentShares": 3612400,
+        "change": -35105,
+        "change_p": -0.9624
+      },
+      "19": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9559,
+        "totalAssets": 0.0077,
+        "currentShares": 3592778,
+        "change": 2200904,
+        "change_p": 158.1252
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1777,
+        "totalAssets": 0.0414,
+        "currentShares": 11943286,
+        "change": 85849,
+        "change_p": 0.724
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5417,
+        "totalAssets": 0.0465,
+        "currentShares": 9552811,
+        "change": -100447,
+        "change_p": -1.0406
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1583,
+        "totalAssets": 0.2828,
+        "currentShares": 8111700,
+        "change": -43038,
+        "change_p": -0.5278
+      },
+      "3": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7006,
+        "totalAssets": 1.8233,
+        "currentShares": 6391756,
+        "change": -5454,
+        "change_p": -0.0853
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2833,
+        "totalAssets": 0.0464,
+        "currentShares": 4823039,
+        "change": -2628,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2704,
+        "totalAssets": 0.0486,
+        "currentShares": 4774766,
+        "change": 7882,
+        "change_p": 0.1653
+      },
+      "6": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1805,
+        "totalAssets": 1.3791,
+        "currentShares": 4436903,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1547,
+        "totalAssets": 0.0462,
+        "currentShares": 4339952,
+        "change": -10682,
+        "change_p": -0.2455
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9308,
+        "totalAssets": 1.172,
+        "currentShares": 3498214,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9234,
+        "totalAssets": 0.1065,
+        "currentShares": 3470386,
+        "change": -22423,
+        "change_p": -0.642
+      },
+      "10": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6877,
+        "totalAssets": 1.6511,
+        "currentShares": 2584507,
+        "change": 29187,
+        "change_p": 1.1422
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6499,
+        "totalAssets": 0.4871,
+        "currentShares": 2442573,
+        "change": 100835,
+        "change_p": 4.306
+      },
+      "12": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6248,
+        "totalAssets": 0.1908,
+        "currentShares": 2348279,
+        "change": 6943,
+        "change_p": 0.2965
+      },
+      "13": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.6161,
+        "totalAssets": 1.4527,
+        "currentShares": 2315765,
+        "change": -1101,
+        "change_p": -0.0475
+      },
+      "14": {
+        "name": "Amundi Fds Global Equity A EUR C",
+        "date": "2026-02-28",
+        "totalShares": 0.5987,
+        "totalAssets": 2.8163,
+        "currentShares": 2250258,
+        "change": 556950,
+        "change_p": 32.8912
+      },
+      "15": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 0.5759,
+        "totalAssets": 0.6033,
+        "currentShares": 2164651,
+        "change": -63730,
+        "change_p": -2.8599
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5623,
+        "totalAssets": 0.0464,
+        "currentShares": 2113510,
+        "change": -12883,
+        "change_p": -0.6059
+      },
+      "17": {
+        "name": "CREF Total Global Stock Account R3",
+        "date": "2026-02-28",
+        "totalShares": 0.5492,
+        "totalAssets": 0.1126,
+        "currentShares": 2064194,
+        "change": 149643,
+        "change_p": 7.8161
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5329,
+        "totalAssets": 0.0459,
+        "currentShares": 2002810,
+        "change": 2800,
+        "change_p": 0.14
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4509,
+        "totalAssets": 0.0463,
+        "currentShares": 1694567,
+        "change": 9717,
+        "change_p": 0.5767
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.0526,
+    "ForwardPE": 14.4092,
+    "PriceSalesTTM": 1.9043,
+    "PriceBookMRQ": 1.5958,
+    "EnterpriseValue": 55826431375,
+    "EnterpriseValueRevenue": 4.1209,
+    "EnterpriseValueEbitda": 10.1726
+  },
+  "Highlights": {
+    "MarketCapitalization": 25798023168,
+    "MarketCapitalizationMln": 25798.0232,
+    "EBITDA": 4696466944,
+    "PERatio": 15.0526,
+    "PEGRatio": 2.4645,
+    "WallStreetTargetPrice": 72.6667,
+    "BookValue": 43.145,
+    "DividendShare": 3.01,
+    "DividendYield": 0.0438,
+    "EarningsShare": 4.56,
+    "EPSEstimateCurrentYear": 4.7457,
+    "EPSEstimateNextYear": 5.039,
+    "EPSEstimateNextQuarter": 1.595,
+    "EPSEstimateCurrentQuarter": 1.102,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1249,
+    "OperatingMarginTTM": 0.2214,
+    "ReturnOnAssetsTTM": 0.0317,
+    "ReturnOnEquityTTM": 0.1078,
+    "RevenueTTM": 13547243520,
+    "RevenuePerShareTTM": 36.53,
+    "QuarterlyRevenueGrowthYOY": 0.134,
+    "GrossProfitTTM": 7264293888,
+    "DilutedEpsTTM": 4.56,
+    "QuarterlyEarningsGrowthYOY": 4.662
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.47,
+    "TotalEsgPercentile": 34.95,
+    "EnvironmentScore": 12.61,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 12.75,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 11.62,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ES",
+    "Type": "Common Stock",
+    "Name": "Eversource Energy",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQ87N0",
+    "ISIN": "US30040W1080",
+    "LEI": "SJ7XXD41SQU3ZNWUJ746",
+    "PrimaryTicker": "ES.US",
+    "CUSIP": "664397106",
+    "CIK": "0000072741",
+    "EmployerIdNumber": "04-2147929",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-08-29",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Eversource Energy, a public utility holding company, engages in the energy delivery business. The company operates through Electric Distribution, Electric Transmission, Natural Gas Distribution, and Water Distribution segments. It is involved in the transmission and distribution of electricity; solar power facilities; and distribution of natural gas. The company also operates regulated water utilities that provides water services to residential, commercial, industrial, municipal and fire protection, and other customers in Connecticut, Massachusetts, and New Hampshire. The company was formerly known as Northeast Utilities and changed its name to Eversource Energy in April 2015. Eversource Energy was incorporated in 1927 and is headquartered in Springfield, Massachusetts.",
+    "Address": "300 Cadwell Drive, Springfield, MA, United States, 01104",
+    "AddressData": {
+      "Street": "300 Cadwell Drive",
+      "City": "Springfield",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "01104"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NWJ",
+        "Exchange": "F",
+        "Name": "Eversource Energy"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Joseph R. Nolan Jr.",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. John M. Moreira CPA",
+        "Title": "Executive VP. CFO & Treasurer",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Mr. Paul  Chodak III",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Gregory B. Butler Esq., J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1958"
+      },
+      "4": {
+        "Name": "Mr. James W. Hunt III, J.D.",
+        "Title": "Executive VP of Corporate Relations & Sustainability and Secretary",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Jay S. Buth",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Ms. Rima  Hyder",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "1976"
+      },
+      "7": {
+        "Name": "Mr. Duncan R. MacKay J.D.",
+        "Title": "Chief Compliance Officer & Deputy General Counsel",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Susan L. Sgroi",
+        "Title": "Executive VP of Human Resources & Information Technology",
+        "YearBorn": "1965"
+      },
+      "9": {
+        "Name": "Ms. Penelope  McLean-Conner",
+        "Title": "Executive Vice President of Customer Experience & Energy Strategy",
+        "YearBorn": "1964"
+      }
+    },
+    "Phone": "800 286 5000",
+    "WebURL": "https://www.eversource.com",
+    "LogoURL": "/img/logos/US/es.png",
+    "FullTimeEmployees": 10731,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 375845345,
+    "SharesFloat": 374963406,
+    "PercentInsiders": 0.17700000000000002,
+    "PercentInstitutions": 87.344,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0289
+  }
+}

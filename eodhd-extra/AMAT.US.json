@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.6747,
+        "totalAssets": 0.2861,
+        "currentShares": 76779340,
+        "change": 330197,
+        "change_p": 0.4319
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3729,
+        "totalAssets": 0.2666,
+        "currentShares": 74384347,
+        "change": -875586,
+        "change_p": -1.1634
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8099,
+        "totalAssets": 0.271,
+        "currentShares": 38172102,
+        "change": -748882,
+        "change_p": -1.9241
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.1213,
+        "totalAssets": 1.5516,
+        "currentShares": 32707049,
+        "change": 17829377,
+        "change_p": 119.8398
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3448,
+        "totalAssets": 0.2942,
+        "currentShares": 18608698,
+        "change": -2329106,
+        "change_p": -11.1239
+      },
+      "5": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.6096,
+        "totalAssets": 0.8236,
+        "currentShares": 12774281,
+        "change": -789839,
+        "change_p": -5.823
+      },
+      "6": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.5776,
+        "totalAssets": 0.5888,
+        "currentShares": 12520114,
+        "change": 3583751,
+        "change_p": 40.103
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5076,
+        "totalAssets": 0.0734,
+        "currentShares": 11964524,
+        "change": 6738694,
+        "change_p": 128.9497
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4016,
+        "totalAssets": 0.3058,
+        "currentShares": 11123168,
+        "change": 2361482,
+        "change_p": 26.9524
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3984,
+        "totalAssets": 0.1376,
+        "currentShares": 11097823,
+        "change": 318679,
+        "change_p": 2.9564
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1864,
+        "totalAssets": 0.2466,
+        "currentShares": 9415183,
+        "change": -135130,
+        "change_p": -1.4149
+      },
+      "11": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1504,
+        "totalAssets": 0.4059,
+        "currentShares": 9129483,
+        "change": 7856576,
+        "change_p": 617.2152
+      },
+      "12": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1134,
+        "totalAssets": 2.6155,
+        "currentShares": 8835961,
+        "change": -2143029,
+        "change_p": -19.5194
+      },
+      "13": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0414,
+        "totalAssets": 0.3036,
+        "currentShares": 8264566,
+        "change": 312875,
+        "change_p": 3.9347
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0063,
+        "totalAssets": 0.2576,
+        "currentShares": 7985720,
+        "change": 348672,
+        "change_p": 4.5655
+      },
+      "15": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 0.9887,
+        "totalAssets": 1.6665,
+        "currentShares": 7846402,
+        "change": -2705730,
+        "change_p": -25.6415
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.967,
+        "totalAssets": 0.5164,
+        "currentShares": 7674424,
+        "change": 672992,
+        "change_p": 9.6122
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9061,
+        "totalAssets": 0.0999,
+        "currentShares": 7191115,
+        "change": 127733,
+        "change_p": 1.8084
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8437,
+        "totalAssets": 0.211,
+        "currentShares": 6695745,
+        "change": 375535,
+        "change_p": 5.9418
+      },
+      "19": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8095,
+        "totalAssets": 0.5376,
+        "currentShares": 6424473,
+        "change": -115566,
+        "change_p": -1.7671
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1765,
+        "totalAssets": 0.4316,
+        "currentShares": 25209396,
+        "change": 10778,
+        "change_p": 0.0428
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5466,
+        "totalAssets": 0.4855,
+        "currentShares": 20210442,
+        "change": -280254,
+        "change_p": -1.3677
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 1.5341,
+        "currentShares": 16655977,
+        "change": -55728,
+        "change_p": -0.3335
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2856,
+        "totalAssets": 0.4843,
+        "currentShares": 10202876,
+        "change": -5556,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2775,
+        "totalAssets": 0.5039,
+        "currentShares": 10138269,
+        "change": 16713,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.17,
+        "totalAssets": 0.7102,
+        "currentShares": 9285058,
+        "change": 6274256,
+        "change_p": 208.3915
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1594,
+        "totalAssets": 0.4837,
+        "currentShares": 9200716,
+        "change": -22638,
+        "change_p": -0.2454
+      },
+      "7": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9626,
+        "totalAssets": 1.1158,
+        "currentShares": 7639668,
+        "change": 6299767,
+        "change_p": 470.1666
+      },
+      "8": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.796,
+        "totalAssets": 1.3014,
+        "currentShares": 6317075,
+        "change": -1322593,
+        "change_p": -17.3122
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7613,
+        "totalAssets": 0.674,
+        "currentShares": 6041829,
+        "change": -3243229,
+        "change_p": -34.9296
+      },
+      "10": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7504,
+        "totalAssets": 2.4142,
+        "currentShares": 5955253,
+        "change": 15910,
+        "change_p": 0.2679
+      },
+      "11": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6957,
+        "totalAssets": 1.2722,
+        "currentShares": 5520899,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "VanEck Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6922,
+        "totalAssets": 4.5887,
+        "currentShares": 5493625,
+        "change": -105698,
+        "change_p": -1.8877
+      },
+      "13": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.659,
+        "totalAssets": 1.469,
+        "currentShares": 5230106,
+        "change": -5941,
+        "change_p": -0.1135
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5635,
+        "totalAssets": 0.4843,
+        "currentShares": 4471852,
+        "change": -40854,
+        "change_p": -0.9053
+      },
+      "15": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.5463,
+        "totalAssets": 0.4663,
+        "currentShares": 4335534,
+        "change": -111865,
+        "change_p": -2.5153
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5339,
+        "totalAssets": 0.4793,
+        "currentShares": 4236940,
+        "change": -9700,
+        "change_p": -0.2284
+      },
+      "17": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5071,
+        "totalAssets": 1.2584,
+        "currentShares": 4024386,
+        "change": -1496513,
+        "change_p": -27.1063
+      },
+      "18": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.4621,
+        "totalAssets": 0.5554,
+        "currentShares": 3667296,
+        "change": -43520,
+        "change_p": -1.1728
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.4837,
+        "currentShares": 3584978,
+        "change": 7477,
+        "change_p": 0.209
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 41.4965,
+    "ForwardPE": 37.1747,
+    "PriceSalesTTM": 11.7306,
+    "PriceBookMRQ": 14.7602,
+    "EnterpriseValue": 319225961379,
+    "EnterpriseValueRevenue": 11.3145,
+    "EnterpriseValueEbitda": 31.2629
+  },
+  "Highlights": {
+    "MarketCapitalization": 330967056384,
+    "MarketCapitalizationMln": 330967.0564,
+    "EBITDA": 8888999936,
+    "PERatio": 41.4965,
+    "PEGRatio": 1.9244,
+    "WallStreetTargetPrice": 422.9688,
+    "BookValue": 27.365,
+    "DividendShare": 1.84,
+    "DividendYield": 0.0046,
+    "EarningsShare": 10.05,
+    "EPSEstimateCurrentYear": 11.0666,
+    "EPSEstimateNextYear": 14.0709,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.2069,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.2778,
+    "OperatingMarginTTM": 0.2989,
+    "ReturnOnAssetsTTM": 0.1485,
+    "ReturnOnEquityTTM": 0.3886,
+    "RevenueTTM": 28213999616,
+    "RevenuePerShareTTM": 35.323,
+    "QuarterlyRevenueGrowthYOY": -0.021,
+    "GrossProfitTTM": 13747000320,
+    "DilutedEpsTTM": 10.05,
+    "QuarterlyEarningsGrowthYOY": 0.752
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 12.25,
+    "TotalEsgPercentile": 5.36,
+    "EnvironmentScore": 3.83,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 2.92,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 5.01,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AMAT",
+    "Type": "Common Stock",
+    "Name": "Applied Materials Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBPFB9",
+    "ISIN": "US0382221051",
+    "LEI": "41BNNE1AFPNAZELZ6K07",
+    "PrimaryTicker": "AMAT.US",
+    "CUSIP": "038222105",
+    "CIK": "0000006951",
+    "EmployerIdNumber": "94-1655526",
+    "FiscalYearEnd": "October",
+    "IPODate": "1972-10-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductor Materials & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Applied Materials, Inc. provides materials engineering solutions, equipment, services, and software to the semiconductor and related industries in the United States, China, Korea, Taiwan, Japan, Southeast Asia, Europe, and internationally. The company operates through Semiconductor Systems and Applied Global Services (AGS) segments. The Semiconductor Systems segment includes semiconductor capital equipment to enable materials engineering steps, including etch, rapid thermal processing, deposition, chemical mechanical planarization, metrology and inspection, wafer packaging, and ion implantation. The AGS segment offers integrated solutions to optimize equipment and fab performance and productivity comprising spares, upgrades, services, and 200 millimeter and other equipment and factory automation software for semiconductor and other products. It serves manufacturers of semiconductor wafers and chips, and other electronic devices. Applied Materials, Inc. was incorporated in 1967 and is headquartered in Santa Clara, California.",
+    "Address": "3050 Bowers Avenue, Santa Clara, CA, United States, 95052-8039",
+    "AddressData": {
+      "Street": "3050 Bowers Avenue",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95052-8039"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Gary E. Dickerson",
+        "Title": "President, CEO & Executive Director",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. Brice A. Hill",
+        "Title": "Senior VP, CFO & leads Global Information Services",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Dr. Omkaram  Nalamasu Ph.D.",
+        "Title": "SVP, CTO, President Applied Ventures, LLC & Chair of the Growth Technical Advisory Board",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Dr. Prabu G. Raja Ph.D.",
+        "Title": "President of Semiconductor Products Group",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Timothy M. Deane",
+        "Title": "Senior Vice President of Applied Global Services",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Adam  Sanders",
+        "Title": "VP, Corporate Controller & Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Ms. Teri A. Little J.D.",
+        "Title": "Senior VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Mr. Joseph M. Pon",
+        "Title": "Chief Public Affairs Officer and Corporate VP of Communications & Public Affairs",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Joji Sekhon Gill",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1965"
+      },
+      "9": {
+        "Name": "Mr. Charles W. Read",
+        "Title": "Corporate VP of Business Units & Operations CFO",
+        "YearBorn": "1966"
+      }
+    },
+    "Phone": "408 727 5555",
+    "WebURL": "https://www.appliedmaterials.com",
+    "LogoURL": "/img/logos/US/amat.png",
+    "FullTimeEmployees": 35500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 793609867,
+    "SharesFloat": 790133856,
+    "PercentInsiders": 0.325,
+    "PercentInstitutions": 85.885,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0165
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5277,
+        "totalAssets": 0.0452,
+        "currentShares": 12286535,
+        "change": 73014,
+        "change_p": 0.5978
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9313,
+        "totalAssets": 0.0379,
+        "currentShares": 8759337,
+        "change": 115922,
+        "change_p": 1.3412
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4403,
+        "totalAssets": 0.0374,
+        "currentShares": 4354839,
+        "change": 166736,
+        "change_p": 3.9812
+      },
+      "3": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 4.3011,
+        "totalAssets": 0.3448,
+        "currentShares": 4218307,
+        "change": -627817,
+        "change_p": -12.955
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 4.2704,
+        "totalAssets": 0.0627,
+        "currentShares": 4188200,
+        "change": 322303,
+        "change_p": 8.3371
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5732,
+        "totalAssets": 0.0393,
+        "currentShares": 2523620,
+        "change": 14151,
+        "change_p": 0.5639
+      },
+      "6": {
+        "name": "Orbis Allan Gray Ltd",
+        "date": "2025-12-31",
+        "totalShares": 2.2937,
+        "totalAssets": 2.3896,
+        "currentShares": 2249511,
+        "change": 120200,
+        "change_p": 5.645
+      },
+      "7": {
+        "name": "Generation Investment Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1295,
+        "totalAssets": 3.6725,
+        "currentShares": 2088483,
+        "change": -896456,
+        "change_p": -30.0326
+      },
+      "8": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 1.9659,
+        "totalAssets": 2.107,
+        "currentShares": 1928033,
+        "change": -48751,
+        "change_p": -2.4662
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.6763,
+        "totalAssets": 0.073,
+        "currentShares": 1644079,
+        "change": 1475444,
+        "change_p": 874.9334
+      },
+      "10": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6551,
+        "totalAssets": 0.2159,
+        "currentShares": 1623234,
+        "change": 440164,
+        "change_p": 37.2052
+      },
+      "11": {
+        "name": "Mitsubishi UFJ Asset Management Co.,Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.574,
+        "totalAssets": 0.2617,
+        "currentShares": 1543674,
+        "change": -23564,
+        "change_p": -1.5035
+      },
+      "12": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.4983,
+        "totalAssets": 0.166,
+        "currentShares": 1469460,
+        "change": -771,
+        "change_p": -0.0524
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3584,
+        "totalAssets": 0.0099,
+        "currentShares": 1332206,
+        "change": 658260,
+        "change_p": 97.6725
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3053,
+        "totalAssets": 0.0499,
+        "currentShares": 1280142,
+        "change": 59443,
+        "change_p": 4.8696
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2882,
+        "totalAssets": 0.0343,
+        "currentShares": 1263402,
+        "change": 59790,
+        "change_p": 4.9675
+      },
+      "16": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2694,
+        "totalAssets": 0.0768,
+        "currentShares": 1245004,
+        "change": -13962,
+        "change_p": -1.109
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2418,
+        "totalAssets": 0.0654,
+        "currentShares": 1217875,
+        "change": -168822,
+        "change_p": -12.1744
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0884,
+        "totalAssets": 0.0568,
+        "currentShares": 1067454,
+        "change": 28103,
+        "change_p": 2.7039
+      },
+      "19": {
+        "name": "APG Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.0343,
+        "totalAssets": 0.6214,
+        "currentShares": 1014348,
+        "change": -2388435,
+        "change_p": -70.1906
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1713,
+        "totalAssets": 0.0345,
+        "currentShares": 3110255,
+        "change": 7947,
+        "change_p": 0.2562
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5473,
+        "totalAssets": 0.0388,
+        "currentShares": 2498247,
+        "change": -26096,
+        "change_p": -1.0338
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.2358,
+        "currentShares": 2118631,
+        "change": -14462,
+        "change_p": -0.678
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2852,
+        "totalAssets": 0.0387,
+        "currentShares": 1260441,
+        "change": -684,
+        "change_p": -0.0542
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2736,
+        "totalAssets": 0.0421,
+        "currentShares": 1249047,
+        "change": 2061,
+        "change_p": 0.1653
+      },
+      "5": {
+        "name": "Morgan Stanley Glbl Franchise",
+        "date": "2025-12-31",
+        "totalShares": 1.2518,
+        "totalAssets": 1.8712,
+        "currentShares": 1227738,
+        "change": -154008,
+        "change_p": -11.1459
+      },
+      "6": {
+        "name": "MS INVF Global Brands A",
+        "date": "2025-12-31",
+        "totalShares": 1.2518,
+        "totalAssets": 1.8758,
+        "currentShares": 1227738,
+        "change": -49679,
+        "change_p": -3.889
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1643,
+        "totalAssets": 0.0388,
+        "currentShares": 1141927,
+        "change": -2793,
+        "change_p": -0.244
+      },
+      "8": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 1.0864,
+        "totalAssets": 0.9133,
+        "currentShares": 1065500,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0323,
+        "totalAssets": 0.6475,
+        "currentShares": 1012472,
+        "change": 1012472,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.0888,
+        "currentShares": 906408,
+        "change": -7518,
+        "change_p": -0.8226
+      },
+      "11": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7992,
+        "totalAssets": 0.2032,
+        "currentShares": 783849,
+        "change": 2358,
+        "change_p": 0.3017
+      },
+      "12": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 0.7537,
+        "totalAssets": 0.8631,
+        "currentShares": 739181,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 0.7537,
+        "totalAssets": 0.8217,
+        "currentShares": 739181,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7309,
+        "totalAssets": 0.4082,
+        "currentShares": 716855,
+        "change": 2176,
+        "change_p": 0.3045
+      },
+      "15": {
+        "name": "MFS Large Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7029,
+        "totalAssets": 1.5932,
+        "currentShares": 689403,
+        "change": -347493,
+        "change_p": -33.5128
+      },
+      "16": {
+        "name": "MFS Mid Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.6739,
+        "totalAssets": 1.2101,
+        "currentShares": 660880,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "MFS Mid Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6739,
+        "totalAssets": 1.1859,
+        "currentShares": 660880,
+        "change": 108482,
+        "change_p": 19.6384
+      },
+      "18": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.6706,
+        "totalAssets": 0.6595,
+        "currentShares": 657654,
+        "change": 102888,
+        "change_p": 18.5462
+      },
+      "19": {
+        "name": "MFS Massachusetts Inv Gr Stk A",
+        "date": "2026-02-28",
+        "totalShares": 0.6477,
+        "totalAssets": 1.624,
+        "currentShares": 635219,
+        "change": -16233,
+        "change_p": -2.4918
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.9777,
+    "ForwardPE": 20.4918,
+    "PriceSalesTTM": 3.7352,
+    "PriceBookMRQ": 3.064,
+    "EnterpriseValue": 23551729588,
+    "EnterpriseValueRevenue": 4.0411,
+    "EnterpriseValueEbitda": 15.8248
+  },
+  "Highlights": {
+    "MarketCapitalization": 21769007104,
+    "MarketCapitalizationMln": 21769.0071,
+    "EBITDA": 1574845952,
+    "PERatio": 30.9777,
+    "PEGRatio": 1.7073,
+    "WallStreetTargetPrice": 279.2857,
+    "BookValue": 72.931,
+    "DividendShare": 2.4,
+    "DividendYield": 0.0107,
+    "EarningsShare": 7.16,
+    "EPSEstimateCurrentYear": 10.2,
+    "EPSEstimateNextYear": 11.0788,
+    "EPSEstimateNextQuarter": 2.875,
+    "EPSEstimateCurrentQuarter": 2.53,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1214,
+    "OperatingMarginTTM": 0.1849,
+    "ReturnOnAssetsTTM": 0.0661,
+    "ReturnOnEquityTTM": 0.1047,
+    "RevenueTTM": 5828015104,
+    "RevenuePerShareTTM": 59.303,
+    "QuarterlyRevenueGrowthYOY": 0.092,
+    "GrossProfitTTM": 2583096064,
+    "DilutedEpsTTM": 7.16,
+    "QuarterlyEarningsGrowthYOY": 0.121
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "STE",
+    "Type": "Common Stock",
+    "Name": "STERIS plc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00MRHG523",
+    "ISIN": "IE00BFY8C754",
+    "LEI": "549300BRDKZ1HFI2J358",
+    "PrimaryTicker": "STE.US",
+    "CUSIP": "G8473T100",
+    "CIK": "0001757898",
+    "EmployerIdNumber": "98-1203539",
+    "FiscalYearEnd": "March",
+    "IPODate": "1992-06-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "STERIS plc provides infection prevention products and services worldwide. It operates in three segments: Healthcare, Applied Sterilization Technologies (AST), and Life Sciences. The Healthcare segment offers cleaning chemistries and sterility assurance products; automated endoscope reprocessing system and tracking products; endoscopy accessories, washers, sterilizers, and other pieces of capital equipment for the operation of a sterile processing department; and equipment used directly in procedure rooms, including surgical tables, lights, and connectivity solutions, as well as equipment management services. It also provides capital equipment installation, maintenance, upgradation, repair, and troubleshooting services; preventive maintenance programs and repair services; instrument, devices, and endoscope repair and maintenance services; and custom process improvement consulting and outsourced instrument sterile processing services. The AST segment provides contract sterilization and testing services for medical device and pharmaceutical manufacturers through a network of contract sterilization and laboratory facilities, as well as integrated sterilization equipment and control systems to medical device manufacturers and research institutions. The Life Sciences segment designs, manufactures, and sells consumable products, such as pharmaceutical detergents, cleanroom disinfectants and sterilants, pharmaceutical grade and research sterilizers and washers, sterility assurance and maintenance products, vaporized hydrogen peroxide room decontamination systems and sterilizers, and high purity water and pure steam generators. This segment also offers equipment installation, maintenance, upgradation, repair, and troubleshooting services; and preventive maintenance programs and repair services. It serves its products and services to hospitals, other healthcare providers, and pharmaceutical manufacturers. The company was founded in 1985 and is headquartered in Mentor, Ohio.",
+    "Address": "5960 Heisley Road, Mentor, OH, United States, 44060",
+    "AddressData": {
+      "Street": "5960 Heisley Road",
+      "City": "Mentor",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44060"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Daniel A. Carestio",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. John Adam Zangerle",
+        "Title": "Senior VP, General Counsel & Secretary",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Ms. Mary Clare Fraser",
+        "Title": "SVP & Chief Human Resources Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Cary L. Majors",
+        "Title": "Senior VP & President of Healthcare",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Ms. Karen L. Burton",
+        "Title": "Senior VP, CFO & Chief Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Ms. Julie  Winter",
+        "Title": "Vice President of Investor Relations & Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Lindsey  McGowan",
+        "Title": "VP, Chief Compliance & Quality Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Julia K. Madsen",
+        "Title": "Senior VP & GM of Life Sciences",
+        "YearBorn": "1965"
+      },
+      "8": {
+        "Name": "Mr. Andrew  Xilas",
+        "Title": "Senior VP & GM of Dental",
+        "YearBorn": "1965"
+      },
+      "9": {
+        "Name": "Mr. Kenneth E. Kohler",
+        "Title": "Senior VP & GM of AST",
+        "YearBorn": "1963"
+      }
+    },
+    "Phone": "440 354 2600",
+    "WebURL": "https://www.steris.com",
+    "LogoURL": "/img/logos/US/ste.png",
+    "FullTimeEmployees": 17787,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 98075025,
+    "SharesFloat": 97694494,
+    "PercentInsiders": 0.302,
+    "PercentInstitutions": 99.063,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0212
+  }
+}

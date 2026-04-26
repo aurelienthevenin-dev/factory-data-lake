@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3756,
+        "totalAssets": 0.0311,
+        "currentShares": 36530135,
+        "change": 46881,
+        "change_p": 0.1285
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.4306,
+        "totalAssets": 0.0249,
+        "currentShares": 26161670,
+        "change": -459465,
+        "change_p": -1.7259
+      },
+      "2": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.3486,
+        "totalAssets": 2.6869,
+        "currentShares": 15310513,
+        "change": 1480987,
+        "change_p": 10.7089
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9979,
+        "totalAssets": 0.0265,
+        "currentShares": 14075676,
+        "change": 85282,
+        "change_p": 0.6096
+      },
+      "4": {
+        "name": "Davis Selected Advisers",
+        "date": "2025-12-31",
+        "totalShares": 3.6434,
+        "totalAssets": 3.3797,
+        "currentShares": 12827540,
+        "change": 2865413,
+        "change_p": 28.7631
+      },
+      "5": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3047,
+        "totalAssets": 0.2495,
+        "currentShares": 8114441,
+        "change": 1387645,
+        "change_p": 20.6286
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1201,
+        "totalAssets": 0.0269,
+        "currentShares": 7464394,
+        "change": 9794,
+        "change_p": 0.1314
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.7244,
+        "totalAssets": 0.0624,
+        "currentShares": 6071265,
+        "change": -253919,
+        "change_p": -4.0144
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6962,
+        "totalAssets": 0.0511,
+        "currentShares": 5972015,
+        "change": 107884,
+        "change_p": 1.8397
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4938,
+        "totalAssets": 0.033,
+        "currentShares": 5259241,
+        "change": 860687,
+        "change_p": 19.5675
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.449,
+        "totalAssets": 0.0296,
+        "currentShares": 5101723,
+        "change": -3366088,
+        "change_p": -39.7516
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3468,
+        "totalAssets": 0.0341,
+        "currentShares": 4741778,
+        "change": 1022821,
+        "change_p": 27.5029
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2802,
+        "totalAssets": 0.0313,
+        "currentShares": 4507485,
+        "change": -6662,
+        "change_p": -0.1476
+      },
+      "13": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.076,
+        "totalAssets": 0.0934,
+        "currentShares": 3788221,
+        "change": 2575909,
+        "change_p": 212.479
+      },
+      "14": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0675,
+        "totalAssets": 0.0061,
+        "currentShares": 3758438,
+        "change": 2674929,
+        "change_p": 246.8765
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9495,
+        "totalAssets": 0.011,
+        "currentShares": 3343064,
+        "change": -59128,
+        "change_p": -1.7379
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8007,
+        "totalAssets": 0.0347,
+        "currentShares": 2819008,
+        "change": -13089,
+        "change_p": -0.4622
+      },
+      "17": {
+        "name": "Life Cycle Investment Partners Limited",
+        "date": "2025-12-31",
+        "totalShares": 0.8005,
+        "totalAssets": 1.1558,
+        "currentShares": 2818485,
+        "change": 2818485,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7628,
+        "totalAssets": 0.0245,
+        "currentShares": 2685681,
+        "change": 66355,
+        "change_p": 2.5333
+      },
+      "19": {
+        "name": "Yacktman Asset Management Co",
+        "date": "2025-12-31",
+        "totalShares": 0.7071,
+        "totalAssets": 2.0427,
+        "currentShares": 2489380,
+        "change": -59155,
+        "change_p": -2.3211
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5431,
+        "totalAssets": 0.0287,
+        "currentShares": 8953775,
+        "change": 483,
+        "change_p": 0.0054
+      },
+      "1": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 2.1102,
+        "totalAssets": 1.8029,
+        "currentShares": 7429595,
+        "change": 546666,
+        "change_p": 7.9423
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0398,
+        "totalAssets": 0.0323,
+        "currentShares": 7181628,
+        "change": -96097,
+        "change_p": -1.3204
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.7307,
+        "totalAssets": 0.1965,
+        "currentShares": 6093415,
+        "change": -58264,
+        "change_p": -0.9471
+      },
+      "4": {
+        "name": "Davis NY Venture A",
+        "date": "2026-01-31",
+        "totalShares": 1.0414,
+        "totalAssets": 3.2015,
+        "currentShares": 3666401,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0297,
+        "totalAssets": 0.0323,
+        "currentShares": 3625190,
+        "change": -1968,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0231,
+        "totalAssets": 0.0313,
+        "currentShares": 3602129,
+        "change": 5958,
+        "change_p": 0.1657
+      },
+      "7": {
+        "name": "Pzena Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 1.0095,
+        "totalAssets": 3.4124,
+        "currentShares": 3554189,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9352,
+        "totalAssets": 0.0324,
+        "currentShares": 3292539,
+        "change": -8036,
+        "change_p": -0.2435
+      },
+      "9": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8382,
+        "totalAssets": 1.2202,
+        "currentShares": 2951206,
+        "change": -1348,
+        "change_p": -0.0457
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8245,
+        "totalAssets": 0.2181,
+        "currentShares": 2902829,
+        "change": 8515,
+        "change_p": 0.2942
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7404,
+        "totalAssets": 0.074,
+        "currentShares": 2606954,
+        "change": -26715,
+        "change_p": -1.0144
+      },
+      "12": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6348,
+        "totalAssets": 0.7935,
+        "currentShares": 2235000,
+        "change": 2002,
+        "change_p": 0.0897
+      },
+      "13": {
+        "name": "FlexShares Mstar Glbl Upstrm Nat Res ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5848,
+        "totalAssets": 1.7521,
+        "currentShares": 2059001,
+        "change": 8239,
+        "change_p": 0.4018
+      },
+      "14": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.549,
+        "totalAssets": 0.7663,
+        "currentShares": 1933000,
+        "change": -272000,
+        "change_p": -12.3356
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5211,
+        "totalAssets": 0.3384,
+        "currentShares": 1834837,
+        "change": 68306,
+        "change_p": 3.8667
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4508,
+        "totalAssets": 0.0322,
+        "currentShares": 1587016,
+        "change": -16279,
+        "change_p": -1.0153
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4486,
+        "totalAssets": 0.0862,
+        "currentShares": 1579353,
+        "change": 21401,
+        "change_p": 1.3737
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4277,
+        "totalAssets": 0.0319,
+        "currentShares": 1505747,
+        "change": -3100,
+        "change_p": -0.2055
+      },
+      "19": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.4014,
+        "totalAssets": 0.5306,
+        "currentShares": 1413075,
+        "change": -17784,
+        "change_p": -1.2429
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 114.3393,
+    "ForwardPE": 16.9779,
+    "PriceSalesTTM": 0.4089,
+    "PriceBookMRQ": 1.2743,
+    "EnterpriseValue": 30050110952,
+    "EnterpriseValueRevenue": 0.5451,
+    "EnterpriseValueEbitda": 13.4152
+  },
+  "Highlights": {
+    "MarketCapitalization": 22543616000,
+    "MarketCapitalizationMln": 22543.616,
+    "EBITDA": 2585999872,
+    "PERatio": 114.3393,
+    "PEGRatio": 1.0438,
+    "WallStreetTargetPrice": 68.5385,
+    "BookValue": 51.19,
+    "DividendShare": 2.01,
+    "DividendYield": 0.0308,
+    "EarningsShare": 0.56,
+    "EPSEstimateCurrentYear": 3.902,
+    "EPSEstimateNextYear": 4.4006,
+    "EPSEstimateNextQuarter": 0.8906,
+    "EPSEstimateCurrentQuarter": 0.941,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0036,
+    "OperatingMarginTTM": 0.0291,
+    "ReturnOnAssetsTTM": 0.0217,
+    "ReturnOnEquityTTM": 0.0126,
+    "RevenueTTM": 55131000832,
+    "RevenuePerShareTTM": 154.754,
+    "QuarterlyRevenueGrowthYOY": 0.051,
+    "GrossProfitTTM": 3391000064,
+    "DilutedEpsTTM": 0.56,
+    "QuarterlyEarningsGrowthYOY": -0.762
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 47.69,
+    "TotalEsgPercentile": 96.86,
+    "EnvironmentScore": 21.8,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 18.79,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 18.6,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TSN",
+    "Type": "Common Stock",
+    "Name": "Tyson Foods Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DKCC19",
+    "ISIN": "US9024941034",
+    "LEI": "WD6L6041MNRW1JE49D58",
+    "PrimaryTicker": "TSN.US",
+    "CUSIP": "902494103",
+    "CIK": "0000100493",
+    "EmployerIdNumber": "71-0225165",
+    "FiscalYearEnd": "September",
+    "IPODate": "1986-07-09",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Farm Products",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock. It also manufactures and markets frozen and refrigerated food products, including ready-to-eat sandwiches, flame-grilled hamburgers, Philly steaks, pepperoni, bacon, breakfast sausage, turkey, lunchmeat, hot dogs, flour and corn tortilla products, appetizers, snacks, prepared meals, ethnic foods, side dishes, meat dishes, breadsticks, and processed meats under the Tyson, Jimmy Dean, Hillshire Farm, Ball Park, Wright, Aidells, Gallo Salame, ibp, and State Fair brands. The company sells its products through its sales staff to grocery retailers, grocery wholesalers, meat distributors, warehouse club stores, military commissaries, industrial food processing companies, chain restaurants or their distributors, live markets, international export companies, and domestic distributors who serve restaurants and food service operations, such as plant and school cafeterias, convenience stores, hospitals, and other vendors, as well as through independent brokers and trading companies. Tyson Foods, Inc. was founded in 1935 and is headquartered in Springdale, Arkansas.",
+    "Address": "2200 West Don Tyson Parkway, Springdale, AR, United States, 72762-6999",
+    "AddressData": {
+      "Street": "2200 West Don Tyson Parkway",
+      "City": "Springdale",
+      "State": "AR",
+      "Country": "United States",
+      "ZIP": "72762-6999"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Donnie D. King",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Curt T. Calaway",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Devin  Cole",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Adam  Deckinger",
+        "Title": "Chief Legal & Administrative Officer",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Mr. Wes  Morris",
+        "Title": "Executive Officer",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Phillip W. Thomas",
+        "Title": "Chief Accounting Officer & Controller",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Mr. Mike  Wheeler",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Jon  Kathol",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Jacqueline  Hanson",
+        "Title": "Chief People Officer",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Mr. Jerry  Holbrook",
+        "Title": "Senior Vice President of Sales & Marketing of Tyson Fresh Meats",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(479) 290-4000",
+    "WebURL": "https://www.tysonfoods.com",
+    "LogoURL": "/img/logos/US/TSN.png",
+    "FullTimeEmployees": 133000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 282069961,
+    "SharesFloat": 274857486,
+    "PercentInsiders": 2.625,
+    "PercentInstitutions": 92.73400000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0343
+  }
+}

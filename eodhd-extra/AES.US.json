@@ -1,0 +1,567 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4246,
+        "totalAssets": 0.0184,
+        "currentShares": 88596463,
+        "change": 1192211,
+        "change_p": 1.364
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.3971,
+        "totalAssets": 0.0105,
+        "currentShares": 45615905,
+        "change": 677673,
+        "change_p": 1.508
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.1164,
+        "totalAssets": 0.0199,
+        "currentShares": 43614636,
+        "change": -127283,
+        "change_p": -0.291
+      },
+      "3": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.8963,
+        "totalAssets": 0.1055,
+        "currentShares": 34914149,
+        "change": 1067496,
+        "change_p": 3.1539
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 4.0063,
+        "totalAssets": 0.0228,
+        "currentShares": 28567968,
+        "change": 1713442,
+        "change_p": 6.3805
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.7297,
+        "totalAssets": 0.0235,
+        "currentShares": 26595305,
+        "change": 893305,
+        "change_p": 3.4756
+      },
+      "6": {
+        "name": "Orbis Allan Gray Ltd",
+        "date": "2025-12-31",
+        "totalShares": 2.9895,
+        "totalAssets": 1.2809,
+        "currentShares": 21317334,
+        "change": -4616633,
+        "change_p": -17.8015
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.7138,
+        "totalAssets": 0.0401,
+        "currentShares": 19351645,
+        "change": -2504455,
+        "change_p": -11.4588
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.4606,
+        "totalAssets": 0.0128,
+        "currentShares": 17546012,
+        "change": -6426865,
+        "change_p": -26.8089
+      },
+      "9": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.9234,
+        "totalAssets": 0.0308,
+        "currentShares": 13715017,
+        "change": 14221,
+        "change_p": 0.1038
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8155,
+        "totalAssets": 0.0116,
+        "currentShares": 12945757,
+        "change": 486725,
+        "change_p": 3.9066
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5456,
+        "totalAssets": 0.0194,
+        "currentShares": 11020962,
+        "change": 1744187,
+        "change_p": 18.8017
+      },
+      "12": {
+        "name": "CBRE Investment Management Listed Real Assets LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1031,
+        "totalAssets": 1.656,
+        "currentShares": 7865594,
+        "change": -16657,
+        "change_p": -0.2113
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.102,
+        "totalAssets": 0.0132,
+        "currentShares": 7858144,
+        "change": 95563,
+        "change_p": 1.2311
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0721,
+        "totalAssets": 0.017,
+        "currentShares": 7644875,
+        "change": 111799,
+        "change_p": 1.4841
+      },
+      "15": {
+        "name": "SG Americas Securities, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0023,
+        "totalAssets": 0.1309,
+        "currentShares": 7147438,
+        "change": 4021385,
+        "change_p": 128.641
+      },
+      "16": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.992,
+        "totalAssets": 0.0152,
+        "currentShares": 7073948,
+        "change": -3261852,
+        "change_p": -31.5588
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9847,
+        "totalAssets": 0.0211,
+        "currentShares": 7021488,
+        "change": 423329,
+        "change_p": 6.4159
+      },
+      "18": {
+        "name": "Sound Shore Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9674,
+        "totalAssets": 3.1478,
+        "currentShares": 6898342,
+        "change": 1002530,
+        "change_p": 17.0041
+      },
+      "19": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9109,
+        "totalAssets": 0.0026,
+        "currentShares": 6495128,
+        "change": 3123643,
+        "change_p": 92.6489
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1777,
+        "totalAssets": 0.016,
+        "currentShares": 22659369,
+        "change": 106305,
+        "change_p": 0.4714
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.543,
+        "totalAssets": 0.018,
+        "currentShares": 18133563,
+        "change": -179787,
+        "change_p": -0.9817
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3055,
+        "totalAssets": 0.1394,
+        "currentShares": 16440203,
+        "change": 267325,
+        "change_p": 1.6529
+      },
+      "3": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7111,
+        "totalAssets": 0.2016,
+        "currentShares": 12201639,
+        "change": 36025,
+        "change_p": 0.2961
+      },
+      "4": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7013,
+        "totalAssets": 0.7038,
+        "currentShares": 12131680,
+        "change": -10350,
+        "change_p": -0.0852
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4673,
+        "totalAssets": 0.2427,
+        "currentShares": 10462744,
+        "change": 1181504,
+        "change_p": 12.73
+      },
+      "6": {
+        "name": "R-co Valor C EUR",
+        "date": "2026-02-28",
+        "totalShares": 1.3851,
+        "totalAssets": 1.3435,
+        "currentShares": 9876804,
+        "change": -2274483,
+        "change_p": -18.718
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2709,
+        "totalAssets": 0.0209,
+        "currentShares": 9062650,
+        "change": 14939,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1772,
+        "totalAssets": 0.0164,
+        "currentShares": 8394316,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.172,
+        "totalAssets": 0.0181,
+        "currentShares": 8357377,
+        "change": -20286,
+        "change_p": -0.2421
+      },
+      "10": {
+        "name": "Orbis Global Equity Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.9327,
+        "totalAssets": 1.1906,
+        "currentShares": 6650508,
+        "change": -1127749,
+        "change_p": -14.4987
+      },
+      "11": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8522,
+        "totalAssets": 1.2125,
+        "currentShares": 6076738,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Columbia Select Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.8281,
+        "totalAssets": 3.0424,
+        "currentShares": 5904622,
+        "change": -423436,
+        "change_p": -6.6914
+      },
+      "13": {
+        "name": "Fidelity High Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8118,
+        "totalAssets": 0.952,
+        "currentShares": 5788876,
+        "change": 34033,
+        "change_p": 0.5914
+      },
+      "14": {
+        "name": "Columbia Focused Large Cap Value",
+        "date": "2025-12-31",
+        "totalShares": 0.7362,
+        "totalAssets": 3.1647,
+        "currentShares": 5249947,
+        "change": -396166,
+        "change_p": -7.0166
+      },
+      "15": {
+        "name": "Columbia VP Select Large Cap Value 3",
+        "date": "2026-03-31",
+        "totalShares": 0.7045,
+        "totalAssets": 3.1196,
+        "currentShares": 5023400,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6879,
+        "totalAssets": 0.6373,
+        "currentShares": 4905486,
+        "change": 55350,
+        "change_p": 1.1412
+      },
+      "17": {
+        "name": "Fidelity Value",
+        "date": "2026-02-28",
+        "totalShares": 0.6276,
+        "totalAssets": 0.8401,
+        "currentShares": 4475200,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Fidelity Series Stk Selec Lg Cp Val",
+        "date": "2026-02-28",
+        "totalShares": 0.6054,
+        "totalAssets": 0.4774,
+        "currentShares": 4316700,
+        "change": 131500,
+        "change_p": 3.142
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5623,
+        "totalAssets": 0.0179,
+        "currentShares": 4009662,
+        "change": -24414,
+        "change_p": -0.6052
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.0611,
+    "ForwardPE": 6.3052,
+    "PriceSalesTTM": 0.8446,
+    "PriceBookMRQ": 2.5448,
+    "EnterpriseValue": 38680538533,
+    "EnterpriseValueRevenue": 3.162,
+    "EnterpriseValueEbitda": 13.1611
+  },
+  "Highlights": {
+    "MarketCapitalization": 10332407808,
+    "MarketCapitalizationMln": 10332.4078,
+    "EBITDA": 3475000064,
+    "PERatio": 11.0611,
+    "PEGRatio": 1.0921,
+    "WallStreetTargetPrice": 15.1111,
+    "BookValue": 5.705,
+    "DividendShare": 0.704,
+    "DividendYield": 0.0486,
+    "EarningsShare": 1.31,
+    "EPSEstimateCurrentYear": 2.2869,
+    "EPSEstimateNextYear": 2.3888,
+    "EPSEstimateNextQuarter": 0.4586,
+    "EPSEstimateCurrentQuarter": 0.6088,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0744,
+    "OperatingMarginTTM": 0.1658,
+    "ReturnOnAssetsTTM": 0.0254,
+    "ReturnOnEquityTTM": 0.0195,
+    "RevenueTTM": 12232999936,
+    "RevenuePerShareTTM": 17.181,
+    "QuarterlyRevenueGrowthYOY": 0.047,
+    "GrossProfitTTM": 2251000064,
+    "DilutedEpsTTM": 1.31,
+    "QuarterlyEarningsGrowthYOY": -0.317
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.67,
+    "TotalEsgPercentile": 68.4,
+    "EnvironmentScore": 19.33,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 7.56,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 3.29,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AES",
+    "Type": "Common Stock",
+    "Name": "The AES Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C23KJ3",
+    "ISIN": "US00130H1059",
+    "LEI": "2NUNNB7D43COUIRE5295",
+    "PrimaryTicker": "AES.US",
+    "CUSIP": "00130H105",
+    "CIK": "0000874761",
+    "EmployerIdNumber": "54-1163725",
+    "FiscalYearEnd": "December",
+    "IPODate": "1991-06-25",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Independent Power and Renewable Electricity Producers",
+    "GicSubIndustry": "Independent Power Producers & Energy Traders",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The AES Corporation, together with its subsidiaries, operates as a power generation and utility company. It operates through four segments: Renewables, Utilities, Energy Infrastructure, and New Energy Technologies. The company owns and/or operates power plants to generate and sell power to customers, such as utilities, industrial users, and other intermediaries; owns and/or operates utilities to generate or purchase, distribute, transmit, and sell electricity to end-user customers in the residential, commercial, industrial, and governmental sectors; and generates and sells electricity on the wholesale market, as well as investments in technologies to support leading-edge greener energy solutions. It uses various fuels and technologies to generate electricity, such as solar, hydro, wind, coal, and gas, as well as renewables comprising energy storage and landfill gas. The company owns and/or operates a generation portfolio of approximately 34,740 megawatts and distributes power to 2.7 million customers. The company operates in the United States, Chile, Dominican Republic, El Salvador, Mexico, Bulgaria, Panama, Colombia, Argentina, Vietnam, Jordan, Puerto Rico, and internationally. The company was formerly known as Applied Energy Services, Inc. and changed its name to The AES Corporation in April 2000. The AES Corporation was incorporated in 1981 and is based in Arlington, Virginia.",
+    "Address": "4300 Wilson Boulevard, Arlington, VA, United States, 22203",
+    "AddressData": {
+      "Street": "4300 Wilson Boulevard",
+      "City": "Arlington",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "22203"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AES",
+        "Exchange": "F",
+        "Name": "The AES Corporation"
+      },
+      "1": {
+        "Code": "AES",
+        "Exchange": "XETRA",
+        "Name": "The AES Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Andres Ricardo Gluski Weilert Ph.D.",
+        "Title": "CEO & Director",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. Ricardo Manuel Falu",
+        "Title": "President",
+        "YearBorn": "1980"
+      },
+      "2": {
+        "Name": "Mr. Stephen  Coughlin",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Juan Ignacio Rubiolo",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1977"
+      }
+    },
+    "Phone": "703 522 1315",
+    "WebURL": "https://www.aes.com",
+    "LogoURL": "/img/logos/US/AES.png",
+    "FullTimeEmployees": 8336,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 713071623,
+    "SharesFloat": 707927227,
+    "PercentInsiders": 0.534,
+    "PercentInstitutions": 89.35499999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0336
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.4634,
+        "totalAssets": 0.0962,
+        "currentShares": 83947987,
+        "change": 1026985,
+        "change_p": 1.2385
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.6155,
+        "totalAssets": 0.0967,
+        "currentShares": 69121960,
+        "change": 356704,
+        "change_p": 0.5187
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.0679,
+        "totalAssets": 0.135,
+        "currentShares": 48683258,
+        "change": 101527,
+        "change_p": 0.209
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.0312,
+        "totalAssets": 0.2766,
+        "currentShares": 32342021,
+        "change": -4206156,
+        "change_p": -11.5085
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7551,
+        "totalAssets": 0.1083,
+        "currentShares": 22103901,
+        "change": 304426,
+        "change_p": 1.3965
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3586,
+        "totalAssets": 0.0916,
+        "currentShares": 18922850,
+        "change": -1741836,
+        "change_p": -8.429
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3591,
+        "totalAssets": 0.0922,
+        "currentShares": 10904453,
+        "change": 339105,
+        "change_p": 3.2096
+      },
+      "7": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.3518,
+        "totalAssets": 0.2791,
+        "currentShares": 10845857,
+        "change": 2746920,
+        "change_p": 33.917
+      },
+      "8": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1212,
+        "totalAssets": 0.092,
+        "currentShares": 8995183,
+        "change": -208105,
+        "change_p": -2.2612
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0555,
+        "totalAssets": 0.1067,
+        "currentShares": 8467993,
+        "change": 978943,
+        "change_p": 13.0717
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0123,
+        "totalAssets": 0.0327,
+        "currentShares": 8121551,
+        "change": 4459963,
+        "change_p": 121.8041
+      },
+      "11": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.987,
+        "totalAssets": 1.1013,
+        "currentShares": 7918979,
+        "change": 29876,
+        "change_p": 0.3787
+      },
+      "12": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9401,
+        "totalAssets": 0.1044,
+        "currentShares": 7542612,
+        "change": -2972701,
+        "change_p": -28.2702
+      },
+      "13": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9219,
+        "totalAssets": 0.9626,
+        "currentShares": 7396227,
+        "change": -3969183,
+        "change_p": -34.9234
+      },
+      "14": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9016,
+        "totalAssets": 2.9287,
+        "currentShares": 7233374,
+        "change": -844175,
+        "change_p": -10.4509
+      },
+      "15": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.9005,
+        "totalAssets": 0.0857,
+        "currentShares": 7224504,
+        "change": 5930376,
+        "change_p": 458.2527
+      },
+      "16": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 0.8389,
+        "totalAssets": 0.4177,
+        "currentShares": 6730570,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8007,
+        "totalAssets": 0.1188,
+        "currentShares": 6423764,
+        "change": 314584,
+        "change_p": 5.1494
+      },
+      "18": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.7798,
+        "totalAssets": 0.1343,
+        "currentShares": 6256356,
+        "change": -38089,
+        "change_p": -0.6051
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7601,
+        "totalAssets": 0.1059,
+        "currentShares": 6098495,
+        "change": -1083552,
+        "change_p": -15.087
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1732,
+        "totalAssets": 0.1087,
+        "currentShares": 25458260,
+        "change": -32613,
+        "change_p": -0.1279
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5583,
+        "totalAssets": 0.1229,
+        "currentShares": 20525559,
+        "change": -204829,
+        "change_p": -0.9881
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2914,
+        "totalAssets": 0.1226,
+        "currentShares": 10361300,
+        "change": -5640,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2786,
+        "totalAssets": 0.1358,
+        "currentShares": 10258146,
+        "change": 16885,
+        "change_p": 0.1649
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1688,
+        "totalAssets": 0.1229,
+        "currentShares": 9376952,
+        "change": -22981,
+        "change_p": -0.2445
+      },
+      "5": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9924,
+        "totalAssets": 4.3788,
+        "currentShares": 7961661,
+        "change": -3576,
+        "change_p": -0.0449
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9233,
+        "totalAssets": 0.2797,
+        "currentShares": 7407840,
+        "change": -110306,
+        "change_p": -1.4672
+      },
+      "7": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 0.6659,
+        "totalAssets": 0.6723,
+        "currentShares": 5342322,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6548,
+        "totalAssets": 1.013,
+        "currentShares": 5253438,
+        "change": -2803772,
+        "change_p": -34.7983
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.566,
+        "totalAssets": 0.1226,
+        "currentShares": 4541166,
+        "change": -23388,
+        "change_p": -0.5124
+      },
+      "10": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5625,
+        "totalAssets": 0.3277,
+        "currentShares": 4513259,
+        "change": 41239,
+        "change_p": 0.9222
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5363,
+        "totalAssets": 0.1214,
+        "currentShares": 4302892,
+        "change": 6000,
+        "change_p": 0.1396
+      },
+      "12": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.5311,
+        "totalAssets": 3.9396,
+        "currentShares": 4261297,
+        "change": 210318,
+        "change_p": 5.1918
+      },
+      "13": {
+        "name": "DWS Top Dividende LD",
+        "date": "2026-02-28",
+        "totalShares": 0.5115,
+        "totalAssets": 1.3922,
+        "currentShares": 4103486,
+        "change": -7,
+        "change_p": -0.0002
+      },
+      "14": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.4829,
+        "totalAssets": 0.7696,
+        "currentShares": 3874115,
+        "change": 84290,
+        "change_p": 2.2241
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4538,
+        "totalAssets": 0.1225,
+        "currentShares": 3640655,
+        "change": 20874,
+        "change_p": 0.5767
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.401,
+        "totalAssets": 0.1097,
+        "currentShares": 3216928,
+        "change": -10788,
+        "change_p": -0.3342
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.401,
+        "totalAssets": 0.1097,
+        "currentShares": 3216928,
+        "change": 3216928,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.401,
+        "totalAssets": 0.1097,
+        "currentShares": 3216928,
+        "change": -10788,
+        "change_p": -0.3342
+      },
+      "19": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3923,
+        "totalAssets": 0.301,
+        "currentShares": 3147782,
+        "change": -124285,
+        "change_p": -3.7984
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.1863,
+    "ForwardPE": 21.4592,
+    "PriceSalesTTM": 3.3321,
+    "PriceBookMRQ": 1243.8651,
+    "EnterpriseValue": 74434716323,
+    "EnterpriseValueRevenue": 3.652,
+    "EnterpriseValueEbitda": 18.8157
+  },
+  "Highlights": {
+    "MarketCapitalization": 67914854400,
+    "MarketCapitalizationMln": 67914.8544,
+    "EBITDA": 4867999744,
+    "PERatio": 32.1863,
+    "PEGRatio": 1.4805,
+    "WallStreetTargetPrice": 95.3684,
+    "BookValue": 0.067,
+    "DividendShare": 2.06,
+    "DividendYield": 0.0246,
+    "EarningsShare": 2.63,
+    "EPSEstimateCurrentYear": 3.8319,
+    "EPSEstimateNextYear": 4.074,
+    "EPSEstimateNextQuarter": 0.9435,
+    "EPSEstimateCurrentQuarter": 0.9119,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1046,
+    "OperatingMarginTTM": 0.2038,
+    "ReturnOnAssetsTTM": 0.1636,
+    "ReturnOnEquityTTM": 0.4975,
+    "RevenueTTM": 20381999104,
+    "RevenuePerShareTTM": 25.203,
+    "QuarterlyRevenueGrowthYOY": 0.058,
+    "GrossProfitTTM": 12250999808,
+    "DilutedEpsTTM": 2.63,
+    "QuarterlyEarningsGrowthYOY": 0.011
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.12,
+    "TotalEsgPercentile": 34.64,
+    "EnvironmentScore": 10.29,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.87,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 10.96,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CL",
+    "Type": "Common Stock",
+    "Name": "Colgate-Palmolive Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BFQYY3",
+    "ISIN": "US1941621039",
+    "LEI": "YMEGZFW4SBUSS5BQXF88",
+    "PrimaryTicker": "CL.US",
+    "CUSIP": "194162103",
+    "CIK": "0000021665",
+    "EmployerIdNumber": "13-1815595",
+    "FiscalYearEnd": "December",
+    "IPODate": "1977-01-03",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Household & Personal Products",
+    "GicIndustry": "Household Products",
+    "GicSubIndustry": "Household Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Colgate-Palmolive Company, together with its subsidiaries, manufactures and sells consumer products in the United States and internationally. It operates through two segments: Oral, Personal and Home Care; and Pet Nutrition. The Oral, Personal and Home Care segment offers toothpaste, toothbrushes, mouthwash, bar and liquid hand soaps, shower gels, shampoos, conditioners, deodorants and antiperspirants, skin health products, dishwashing detergents, fabric conditioners, household cleaners, and other related items. This segment markets and sells its products under the Colgate, Palmolive, Darlie, elmex, hello, meridol, Sorriso, Tom's of Maine, EltaMD, Filorga, Irish Spring, Lady Speed Stick, PCA SKIN, Protex, Sanex, Softsoap, Speed Stick, Ajax, Axion, Fabuloso, Murphy, Soupline, and Suavitel brands to a range of traditional and eCommerce retailers, wholesalers, and distributors, as well as dentists and skin health professionals. It also offers pharmaceutical products for dentists and other oral health professionals. The Pet Nutrition segment offers pet nutrition products for everyday nutritional needs under the Hill's Science Diet brand; and a range of therapeutic pet products to help nutritionally support dogs and cats in different stages of health under the Hill's Prescription Diet brand; and a fresh pet food sold to pet specialty and other retailers in Australia under Prime100 brand. This segment markets and sells its products through pet supply retailers, veterinarians, and eCommerce retailers. Colgate-Palmolive Company was founded in 1806 and is headquartered in New York, New York.",
+    "Address": "300 Park Avenue, New York, NY, United States, 10022-7499",
+    "AddressData": {
+      "Street": "300 Park Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10022-7499"
+    },
+    "Listings": {
+      "0": {
+        "Code": "COLG34",
+        "Exchange": "SA",
+        "Name": "Colgate-Palmolive Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Noel R. Wallace",
+        "Title": "Chairman, CEO & President",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Stanley J. Sutula III",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Ms. Jennifer M. Daniels",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Panagiotis  Tsourapas",
+        "Title": "COO of Europe, Asia Pacific, Africa Eurasia & Skin Health & Global Customer Dev.",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Shane  Grant",
+        "Title": "Chief Operating Officer of Americas",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Mr. Stephan  Habif",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. David  Foster",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. John  Faucher",
+        "Title": "Chief Investor Relations Officer and Executive VP of M&A",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Eutychus  Karuru",
+        "Title": "Executive Vice President of Internal Audit & Compliance",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Dana  Bolden",
+        "Title": "Chief Communications Officer",
+        "YearBorn": "1968"
+      }
+    },
+    "Phone": "212 310 2000",
+    "WebURL": "https://www.colgatepalmolive.com",
+    "LogoURL": "/img/logos/US/cl.png",
+    "FullTimeEmployees": 33600,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 802301915,
+    "SharesFloat": 751475323,
+    "PercentInsiders": 0.149,
+    "PercentInstitutions": 86.709,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0297
+  }
+}

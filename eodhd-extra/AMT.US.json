@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.671,
+        "totalAssets": 0.1623,
+        "currentShares": 63757586,
+        "change": 117418,
+        "change_p": 0.1845
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.7355,
+        "totalAssets": 0.1529,
+        "currentShares": 45403549,
+        "change": -255761,
+        "change_p": -0.5602
+      },
+      "2": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 8.0809,
+        "totalAssets": 3.2119,
+        "currentShares": 37686978,
+        "change": 37553436,
+        "change_p": 28121.0675
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.595,
+        "totalAssets": 0.1772,
+        "currentShares": 30757176,
+        "change": 18091094,
+        "change_p": 142.831
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4848,
+        "totalAssets": 0.1407,
+        "currentShares": 20915929,
+        "change": -197751,
+        "change_p": -0.9366
+      },
+      "5": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.895,
+        "totalAssets": 4.6843,
+        "currentShares": 13501372,
+        "change": -402094,
+        "change_p": -2.892
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8945,
+        "totalAssets": 0.1457,
+        "currentShares": 13499035,
+        "change": 227361,
+        "change_p": 1.7131
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.5771,
+        "totalAssets": 0.1076,
+        "currentShares": 12018839,
+        "change": -228694,
+        "change_p": -1.8673
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1514,
+        "totalAssets": 0.1168,
+        "currentShares": 10033659,
+        "change": 836577,
+        "change_p": 9.0961
+      },
+      "9": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.4815,
+        "totalAssets": 0.395,
+        "currentShares": 6909301,
+        "change": -626144,
+        "change_p": -8.3093
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4771,
+        "totalAssets": 0.2087,
+        "currentShares": 6888633,
+        "change": 208109,
+        "change_p": 3.1152
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4304,
+        "totalAssets": 0.1253,
+        "currentShares": 6670729,
+        "change": 463711,
+        "change_p": 7.4708
+      },
+      "12": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.3472,
+        "totalAssets": 0.2314,
+        "currentShares": 6283130,
+        "change": -74712,
+        "change_p": -1.1751
+      },
+      "13": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3288,
+        "totalAssets": 0.1275,
+        "currentShares": 6197015,
+        "change": -1429317,
+        "change_p": -18.7419
+      },
+      "14": {
+        "name": "Lazard Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3048,
+        "totalAssets": 1.8101,
+        "currentShares": 6085163,
+        "change": 1620781,
+        "change_p": 36.3047
+      },
+      "15": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2824,
+        "totalAssets": 0.5801,
+        "currentShares": 5980516,
+        "change": -98820,
+        "change_p": -1.6255
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1616,
+        "totalAssets": 0.1333,
+        "currentShares": 5417142,
+        "change": -66258,
+        "change_p": -1.2083
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1526,
+        "totalAssets": 0.2578,
+        "currentShares": 5375430,
+        "change": -33362,
+        "change_p": -0.6168
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.094,
+        "totalAssets": 0.1392,
+        "currentShares": 5102069,
+        "change": -454745,
+        "change_p": -8.1836
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.045,
+        "totalAssets": 0.1898,
+        "currentShares": 4873695,
+        "change": 220447,
+        "change_p": 4.7375
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7363,
+        "totalAssets": 4.6277,
+        "currentShares": 17424785,
+        "change": -67700,
+        "change_p": -0.387
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1752,
+        "totalAssets": 0.128,
+        "currentShares": 14808108,
+        "change": 816,
+        "change_p": 0.0055
+      },
+      "2": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-12-31",
+        "totalShares": 2.7103,
+        "totalAssets": 0.4044,
+        "currentShares": 12640000,
+        "change": 12640000,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Loomis Sayles CPFD CIT",
+        "date": "2025-12-31",
+        "totalShares": 2.7103,
+        "totalAssets": 0.4044,
+        "currentShares": 12640000,
+        "change": 12640000,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Core Plus Full Discretion CIT D",
+        "date": "2025-12-31",
+        "totalShares": 2.7103,
+        "totalAssets": 0.4044,
+        "currentShares": 12640000,
+        "change": 12640000,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5559,
+        "totalAssets": 0.1446,
+        "currentShares": 11919757,
+        "change": -121997,
+        "change_p": -1.0131
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2903,
+        "totalAssets": 0.1442,
+        "currentShares": 6017685,
+        "change": -3276,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2775,
+        "totalAssets": 0.1526,
+        "currentShares": 5957766,
+        "change": 9829,
+        "change_p": 0.1653
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1647,
+        "totalAssets": 0.1442,
+        "currentShares": 5431833,
+        "change": -13328,
+        "change_p": -0.2448
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9237,
+        "totalAssets": 0.3294,
+        "currentShares": 4307673,
+        "change": 2128636,
+        "change_p": 97.687
+      },
+      "10": {
+        "name": "Loomis Sayles MFD Class C",
+        "date": "2025-12-31",
+        "totalShares": 0.8791,
+        "totalAssets": 0.2164,
+        "currentShares": 4100000,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Lazard Global Listed Infrastructure Open",
+        "date": "2026-03-31",
+        "totalShares": 0.6768,
+        "totalAssets": 4.5093,
+        "currentShares": 3156470,
+        "change": 226346,
+        "change_p": 7.7248
+      },
+      "12": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6604,
+        "totalAssets": 5.4314,
+        "currentShares": 3079966,
+        "change": 22452,
+        "change_p": 0.7343
+      },
+      "13": {
+        "name": "Lazard Glbl Listed Infrastruct USD Hedge",
+        "date": "2025-12-31",
+        "totalShares": 0.6283,
+        "totalAssets": 4.6044,
+        "currentShares": 2930124,
+        "change": 340890,
+        "change_p": 13.1657
+      },
+      "14": {
+        "name": "Principal Real Estate Securities R5",
+        "date": "2026-02-28",
+        "totalShares": 0.6181,
+        "totalAssets": 8.4328,
+        "currentShares": 2882787,
+        "change": -141830,
+        "change_p": -4.6892
+      },
+      "15": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 0.584,
+        "totalAssets": 5.4033,
+        "currentShares": 2723532,
+        "change": -2698,
+        "change_p": -0.099
+      },
+      "16": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 0.584,
+        "totalAssets": 5.4185,
+        "currentShares": 2723532,
+        "change": -2698,
+        "change_p": -0.099
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5656,
+        "totalAssets": 0.1442,
+        "currentShares": 2637628,
+        "change": -13340,
+        "change_p": -0.5032
+      },
+      "18": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 0.5576,
+        "totalAssets": 5.4524,
+        "currentShares": 2600429,
+        "change": -13458,
+        "change_p": -0.5149
+      },
+      "19": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5414,
+        "totalAssets": 5.9532,
+        "currentShares": 2524980,
+        "change": -1064,
+        "change_p": -0.0421
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.9409,
+    "ForwardPE": 27.7008,
+    "PriceSalesTTM": 7.8079,
+    "PriceBookMRQ": 22.8569,
+    "EnterpriseValue": 126974005872,
+    "EnterpriseValueRevenue": 11.9285,
+    "EnterpriseValueEbitda": 19.7006
+  },
+  "Highlights": {
+    "MarketCapitalization": 83111813120,
+    "MarketCapitalizationMln": 83111.8131,
+    "EBITDA": 6907700224,
+    "PERatio": 32.9409,
+    "PEGRatio": 1.9791,
+    "WallStreetTargetPrice": 215.4545,
+    "BookValue": 7.833,
+    "DividendShare": 6.8,
+    "DividendYield": 0.038,
+    "EarningsShare": 5.41,
+    "EPSEstimateCurrentYear": 6.4778,
+    "EPSEstimateNextYear": 6.9396,
+    "EPSEstimateNextQuarter": 1.635,
+    "EPSEstimateCurrentQuarter": 1.4699,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2376,
+    "OperatingMarginTTM": 0.4494,
+    "ReturnOnAssetsTTM": 0.049,
+    "ReturnOnEquityTTM": 0.2628,
+    "RevenueTTM": 10644599808,
+    "RevenuePerShareTTM": 22.749,
+    "QuarterlyRevenueGrowthYOY": 0.075,
+    "GrossProfitTTM": 7896500224,
+    "DilutedEpsTTM": 5.41,
+    "QuarterlyEarningsGrowthYOY": -0.332
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.08,
+    "TotalEsgPercentile": 16.36,
+    "EnvironmentScore": 7.31,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 4.68,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 3.09,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AMT",
+    "Type": "Common Stock",
+    "Name": "American Tower Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000B9XYV2",
+    "ISIN": "US03027X1000",
+    "LEI": "5493006ORUSIL88JOE18",
+    "PrimaryTicker": "AMT.US",
+    "CUSIP": "029912201",
+    "CIK": "0001053507",
+    "EmployerIdNumber": "65-0723837",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-06-05",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Specialized REITs",
+    "GicSubIndustry": "Telecom Tower REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "American Tower Corporation is one of the largest global real estate investment trusts. It is a leading independent owner, operator and developer of multitenant communications real estate. The Company's primary business is the leasing of space on communications sites to wireless service providers, radio and television broadcast companies, wireless data providers, government agencies and municipalities and tenants in a few other industries. The Company refers to this business, inclusive of its data center business discussed below, as its property operations. Additionally, the Company offers tower-related services in the United States, which the Company refers to as its services operations. These services include site application, zoning and permitting, structural and mount analyses, and construction management services, together with program management offerings that support customer deployment needs from project scoping through construction. The Company's services operations primarily support the Company's site leasing business, including through the addition of new tenants and equipment on its sites. The Company's customers include its tenants, licensees and other payers. American Tower Corporation was incorporated in 1995 in Delaware, USA.",
+    "Address": "222 Berkeley Street, Boston, MA, United States, 02116",
+    "AddressData": {
+      "Street": "222 Berkeley Street",
+      "City": "Boston",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02116"
+    },
+    "Listings": {
+      "0": {
+        "Code": "A0T",
+        "Exchange": "F",
+        "Name": "American Tower Corp"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Steven O. Vondran J.D.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Rodney M. Smith",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. Eugene M. Noel",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Ms. Ruth T. Dowling",
+        "Title": "Executive VP, Chief Administrative Officer, General Counsel & Secretary",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Robert J. Meyer Jr., CPA",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Mr. Spencer Harris Kurn",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Brenna D. Jones",
+        "Title": "SVP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Colleen Richards Powell",
+        "Title": "Senior VP & Chief Diversity, Equity and Inclusion Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Julian  Plumstead",
+        "Title": "Senior Vice President of M&A and Business Development - Europe, Africa and Latin America",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Juan A. Font",
+        "Title": "Senior VP and President & CEO of Coresite",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "617 375 7500",
+    "WebURL": "https://www.americantower.com",
+    "LogoURL": "/img/logos/US/amt.png",
+    "FullTimeEmployees": 4866,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 466370068,
+    "SharesFloat": 464681905,
+    "PercentInsiders": 0.086,
+    "PercentInstitutions": 96.664,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0172
+  }
+}

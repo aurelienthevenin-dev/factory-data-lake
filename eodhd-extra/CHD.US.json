@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.0942,
+        "totalAssets": 0.0377,
+        "currentShares": 31017010,
+        "change": -129763,
+        "change_p": -0.4166
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3885,
+        "totalAssets": 0.0341,
+        "currentShares": 22239020,
+        "change": -242456,
+        "change_p": -1.0785
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.8203,
+        "totalAssets": 0.0419,
+        "currentShares": 13786818,
+        "change": 319763,
+        "change_p": 2.3744
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.1811,
+        "totalAssets": 0.0322,
+        "currentShares": 12272660,
+        "change": 6312290,
+        "change_p": 105.9043
+      },
+      "4": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 4.7717,
+        "totalAssets": 0.1486,
+        "currentShares": 11302929,
+        "change": 1734801,
+        "change_p": 18.131
+      },
+      "5": {
+        "name": "Fundsmith LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.8405,
+        "totalAssets": 3.2962,
+        "currentShares": 6728404,
+        "change": -66240,
+        "change_p": -0.9749
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6582,
+        "totalAssets": 0.0325,
+        "currentShares": 6296672,
+        "change": -51605,
+        "change_p": -0.8129
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0239,
+        "totalAssets": 0.0254,
+        "currentShares": 4794102,
+        "change": 738549,
+        "change_p": 18.2108
+      },
+      "8": {
+        "name": "Stifel Financial Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8978,
+        "totalAssets": 0.3597,
+        "currentShares": 4495492,
+        "change": 190337,
+        "change_p": 4.4211
+      },
+      "9": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.6677,
+        "totalAssets": 0.1068,
+        "currentShares": 3950311,
+        "change": -334383,
+        "change_p": -7.8041
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5425,
+        "totalAssets": 0.0505,
+        "currentShares": 3653852,
+        "change": 143739,
+        "change_p": 4.095
+      },
+      "11": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4105,
+        "totalAssets": 0.4473,
+        "currentShares": 3341015,
+        "change": 23677,
+        "change_p": 0.7137
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3583,
+        "totalAssets": 0.0289,
+        "currentShares": 3217524,
+        "change": 55449,
+        "change_p": 1.7536
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3426,
+        "totalAssets": 0.0357,
+        "currentShares": 3180315,
+        "change": -21997,
+        "change_p": -0.6869
+      },
+      "14": {
+        "name": "FUNDSMITH INVESTMENT SERVICES LTD.",
+        "date": "2025-12-31",
+        "totalShares": 1.1062,
+        "totalAssets": 4.0195,
+        "currentShares": 2620239,
+        "change": -185990,
+        "change_p": -6.6278
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.997,
+        "totalAssets": 0.0449,
+        "currentShares": 2361701,
+        "change": -656209,
+        "change_p": -21.7438
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8891,
+        "totalAssets": 0.0371,
+        "currentShares": 2106087,
+        "change": 111740,
+        "change_p": 5.6028
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7962,
+        "totalAssets": 0.0351,
+        "currentShares": 1885960,
+        "change": -131024,
+        "change_p": -6.496
+      },
+      "18": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7871,
+        "totalAssets": 0.1164,
+        "currentShares": 1864393,
+        "change": 109057,
+        "change_p": 6.2129
+      },
+      "19": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.78,
+        "totalAssets": 0.2734,
+        "currentShares": 1847519,
+        "change": 79752,
+        "change_p": 4.5115
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1765,
+        "totalAssets": 0.0352,
+        "currentShares": 7524405,
+        "change": -63294,
+        "change_p": -0.8342
+      },
+      "1": {
+        "name": "Fundsmith Equity I Acc",
+        "date": "2025-12-31",
+        "totalShares": 2.5727,
+        "totalAssets": 2.3751,
+        "currentShares": 6094189,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5438,
+        "totalAssets": 0.0395,
+        "currentShares": 6025693,
+        "change": -151266,
+        "change_p": -2.4489
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1586,
+        "totalAssets": 0.2401,
+        "currentShares": 5113096,
+        "change": -106255,
+        "change_p": -2.0358
+      },
+      "4": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.6615,
+        "totalAssets": 0.1842,
+        "currentShares": 3935686,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6615,
+        "totalAssets": 0.1585,
+        "currentShares": 3935686,
+        "change": 744155,
+        "change_p": 23.3166
+      },
+      "6": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.6386,
+        "totalAssets": 2.8232,
+        "currentShares": 3881550,
+        "change": 109600,
+        "change_p": 2.9057
+      },
+      "7": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.6386,
+        "totalAssets": 2.8185,
+        "currentShares": 3881550,
+        "change": 1407600,
+        "change_p": 56.8969
+      },
+      "8": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.6386,
+        "totalAssets": 2.8185,
+        "currentShares": 3881550,
+        "change": 1407600,
+        "change_p": 56.8969
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2901,
+        "totalAssets": 0.0428,
+        "currentShares": 3055973,
+        "change": 5051,
+        "change_p": 0.1656
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2844,
+        "totalAssets": 0.0394,
+        "currentShares": 3042492,
+        "change": -1656,
+        "change_p": -0.0544
+      },
+      "11": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.2591,
+        "totalAssets": 0.1546,
+        "currentShares": 2982573,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.153,
+        "totalAssets": 0.0392,
+        "currentShares": 2731061,
+        "change": -6762,
+        "change_p": -0.247
+      },
+      "13": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0455,
+        "totalAssets": 1.4913,
+        "currentShares": 2476454,
+        "change": -1165,
+        "change_p": -0.047
+      },
+      "14": {
+        "name": "MFS Large Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9778,
+        "totalAssets": 1.7703,
+        "currentShares": 2316202,
+        "change": -223606,
+        "change_p": -8.8041
+      },
+      "15": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9762,
+        "totalAssets": 0.4928,
+        "currentShares": 2312293,
+        "change": 1275,
+        "change_p": 0.0552
+      },
+      "16": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.969,
+        "totalAssets": 0.1392,
+        "currentShares": 2295391,
+        "change": -687182,
+        "change_p": -23.0399
+      },
+      "17": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9235,
+        "totalAssets": 0.0905,
+        "currentShares": 2187581,
+        "change": -48459,
+        "change_p": -2.1672
+      },
+      "18": {
+        "name": "MFS Massachusetts Inv Gr Stk A",
+        "date": "2026-02-28",
+        "totalShares": 0.901,
+        "totalAssets": 2.2672,
+        "currentShares": 2134159,
+        "change": -54537,
+        "change_p": -2.4918
+      },
+      "19": {
+        "name": "Washington Crossing Rising Dividend",
+        "date": "2026-02-28",
+        "totalShares": 0.7741,
+        "totalAssets": 3.5778,
+        "currentShares": 1833579,
+        "change": -12284,
+        "change_p": -0.6655
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 31.4636,
+    "ForwardPE": 25.1256,
+    "PriceSalesTTM": 3.6284,
+    "PriceBookMRQ": 5.5978,
+    "EnterpriseValue": 24303971431,
+    "EnterpriseValueRevenue": 3.9012,
+    "EnterpriseValueEbitda": 18.6224
+  },
+  "Highlights": {
+    "MarketCapitalization": 22507870208,
+    "MarketCapitalizationMln": 22507.8702,
+    "EBITDA": 1382400000,
+    "PERatio": 31.4636,
+    "PEGRatio": 2.9554,
+    "WallStreetTargetPrice": 101.5263,
+    "BookValue": 16.919,
+    "DividendShare": 1.18,
+    "DividendYield": 0.0125,
+    "EarningsShare": 3.02,
+    "EPSEstimateCurrentYear": 3.7448,
+    "EPSEstimateNextYear": 3.9958,
+    "EPSEstimateNextQuarter": 0.9647,
+    "EPSEstimateCurrentQuarter": 0.8348,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1188,
+    "OperatingMarginTTM": 0.1856,
+    "ReturnOnAssetsTTM": 0.082,
+    "ReturnOnEquityTTM": 0.1762,
+    "RevenueTTM": 6203200000,
+    "RevenuePerShareTTM": 25.559,
+    "QuarterlyRevenueGrowthYOY": 0.039,
+    "GrossProfitTTM": 2799800064,
+    "DilutedEpsTTM": 3.02,
+    "QuarterlyEarningsGrowthYOY": -0.208
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.73,
+    "TotalEsgPercentile": 46.32,
+    "EnvironmentScore": 14.15,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 15.62,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.96,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CHD",
+    "Type": "Common Stock",
+    "Name": "Church & Dwight Company Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BFJT36",
+    "ISIN": "US1713401024",
+    "LEI": "POOXSI30AWAQGYJZC921",
+    "PrimaryTicker": "CHD.US",
+    "CUSIP": "171340102",
+    "CIK": "0000313927",
+    "EmployerIdNumber": "13-4996950",
+    "FiscalYearEnd": "December",
+    "IPODate": "1986-03-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Household & Personal Products",
+    "GicIndustry": "Household Products",
+    "GicSubIndustry": "Household Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Church & Dwight Co., Inc. develops, manufactures, and markets household, personal care, and specialty products. It operates in three segments: Consumer Domestic, Consumer International, and Specialty Products Division. The company offers baking soda, cat litters, laundry detergents, carpet deodorizers, and other baking soda-based products under the ARM & HAMMER brand; stain removers, cleaning solutions, laundry detergents, and bleach alternatives under the OXICLEAN brand; dry shampoos under the BATISTE brand; water flossers under the WATERPIK brand; oral care products under the THERABREATH brand; acne treatment products under the HERO brand; hand sanitizers under the TOUCHLAND brand; and condoms, lubricants, and vibrators under the TROJAN brand. It also provides home pregnancy and ovulation test kits under the FIRST RESPONSE brand; depilatories under the NAIR; oral analgesics under the ORAJEL brand; laundry detergents under the XTRA brand; and cold shortening and relief products under the ZICAM brand. In addition, the company's specialty products include animal and food productivity products, such as ARM & HAMMER baking soda as a feed additive to help dairy cow; BIO-CHLOR and FERMENTEN used to reduce health issues associated with calving, as well as needed protein; CELMANAX refined functional carbohydrate, a yeast-based prebiotic; and CERTILLUS a probiotics products used in the poultry, dairy, beef, and swine industries. Additionally, it offers sodium bicarbonate; and cleaning and deodorizing products. The company sells its consumer products through supermarkets, mass merchandisers, wholesale clubs, drugstores, convenience stores, home stores, dollar and other discount stores, pet and other specialty stores, websites and other e-commerce channels; and specialty products to industrial customers and livestock producers through distributors. Church & Dwight Co., Inc. was founded in 1846 and is headquartered in Ewing, New Jersey.",
+    "Address": "Princeton South Corporate Center, Ewing, NJ, United States, 08628",
+    "AddressData": {
+      "Street": "Princeton South Corporate Center",
+      "City": "Ewing",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "08628"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Richard A. Dierker",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1980"
+      },
+      "1": {
+        "Name": "Mr. Lee B. McChesney",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Patrick D. de Maynadier Esq., J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1960"
+      },
+      "3": {
+        "Name": "Mr. Michael G. Read",
+        "Title": "Executive Vice President of International",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Charles R. Raup",
+        "Title": "Executive VP & President of US Domestic",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Joseph James Longo",
+        "Title": "VP, Chief Accounting Officer & Corporate Controller",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Carlos G. Linares",
+        "Title": "Executive VP, CTO & Global New Product Innovation",
+        "YearBorn": "1964"
+      },
+      "7": {
+        "Name": "Ms. Stacey  Ramstedt",
+        "Title": "Senior VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Rene M. Hemsey",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Mr. Brian  Buchert",
+        "Title": "Executive VP of Strategy, M&A and Business Partnerships",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "609 806 1200",
+    "WebURL": "https://www.churchdwight.com",
+    "LogoURL": "/img/logos/US/chd.png",
+    "FullTimeEmployees": 5550,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 236875094,
+    "SharesFloat": 235995993,
+    "PercentInsiders": 0.2,
+    "PercentInstitutions": 93.772,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0407
+  }
+}

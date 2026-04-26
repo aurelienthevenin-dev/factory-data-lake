@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.6438,
+        "totalAssets": 0.0801,
+        "currentShares": 14206311,
+        "change": 114469,
+        "change_p": 0.8123
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.7159,
+        "totalAssets": 0.0599,
+        "currentShares": 9792952,
+        "change": 1059228,
+        "change_p": 12.128
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2662,
+        "totalAssets": 0.0581,
+        "currentShares": 4793425,
+        "change": 42809,
+        "change_p": 0.9011
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.8687,
+        "totalAssets": 0.1205,
+        "currentShares": 3223188,
+        "change": -1761977,
+        "change_p": -35.3444
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6028,
+        "totalAssets": 0.0699,
+        "currentShares": 2924501,
+        "change": 17855,
+        "change_p": 0.6143
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3548,
+        "totalAssets": 0.056,
+        "currentShares": 2645819,
+        "change": 88538,
+        "change_p": 3.4622
+      },
+      "6": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8786,
+        "totalAssets": 0.1007,
+        "currentShares": 2110729,
+        "change": 30463,
+        "change_p": 1.4644
+      },
+      "7": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.7551,
+        "totalAssets": 0.108,
+        "currentShares": 1972045,
+        "change": -642235,
+        "change_p": -24.5664
+      },
+      "8": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.4591,
+        "totalAssets": 0.0172,
+        "currentShares": 1639416,
+        "change": 1270746,
+        "change_p": 344.6839
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4082,
+        "totalAssets": 0.0659,
+        "currentShares": 1582224,
+        "change": 472627,
+        "change_p": 42.5945
+      },
+      "10": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3694,
+        "totalAssets": 0.093,
+        "currentShares": 1538613,
+        "change": -24465,
+        "change_p": -1.5652
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2669,
+        "totalAssets": 0.0637,
+        "currentShares": 1423449,
+        "change": 49477,
+        "change_p": 3.601
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1786,
+        "totalAssets": 0.0314,
+        "currentShares": 1324288,
+        "change": 71351,
+        "change_p": 5.6947
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0999,
+        "totalAssets": 0.0681,
+        "currentShares": 1235788,
+        "change": 132637,
+        "change_p": 12.0235
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9656,
+        "totalAssets": 0.0823,
+        "currentShares": 1084915,
+        "change": -216367,
+        "change_p": -16.6272
+      },
+      "15": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.9045,
+        "totalAssets": 0.1119,
+        "currentShares": 1016275,
+        "change": -143988,
+        "change_p": -12.4099
+      },
+      "16": {
+        "name": "Sumitomo Mitsui Trust Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8875,
+        "totalAssets": 0.2005,
+        "currentShares": 997190,
+        "change": -9385,
+        "change_p": -0.9324
+      },
+      "17": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8588,
+        "totalAssets": 0.2119,
+        "currentShares": 964878,
+        "change": 108403,
+        "change_p": 12.6569
+      },
+      "18": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.8238,
+        "totalAssets": 0.7563,
+        "currentShares": 925627,
+        "change": -63802,
+        "change_p": -6.4484
+      },
+      "19": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.7831,
+        "totalAssets": 0.093,
+        "currentShares": 879900,
+        "change": 9262,
+        "change_p": 1.0638
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1747,
+        "totalAssets": 0.0641,
+        "currentShares": 3567055,
+        "change": 15666,
+        "change_p": 0.4411
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5468,
+        "totalAssets": 0.0722,
+        "currentShares": 2861492,
+        "change": -26300,
+        "change_p": -0.9107
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.4383,
+        "currentShares": 2427198,
+        "change": -13040,
+        "change_p": -0.5344
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.286,
+        "totalAssets": 0.072,
+        "currentShares": 1444878,
+        "change": -792,
+        "change_p": -0.0548
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2717,
+        "totalAssets": 0.0777,
+        "currentShares": 1428828,
+        "change": 2356,
+        "change_p": 0.1652
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.164,
+        "totalAssets": 0.0722,
+        "currentShares": 1307825,
+        "change": -3185,
+        "change_p": -0.2429
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.1651,
+        "currentShares": 1038394,
+        "change": -6858,
+        "change_p": -0.6561
+      },
+      "7": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7422,
+        "totalAssets": 2.5729,
+        "currentShares": 833885,
+        "change": 504,
+        "change_p": 0.0605
+      },
+      "8": {
+        "name": "Amova Global Robotics Equity Mother Fund",
+        "date": "2025-07-22",
+        "totalShares": 0.6514,
+        "totalAssets": 3.6727,
+        "currentShares": 731921,
+        "change": 18983,
+        "change_p": 2.6626
+      },
+      "9": {
+        "name": "Lazard Global Robotics & Automation",
+        "date": "2025-12-31",
+        "totalShares": 0.6443,
+        "totalAssets": 3.6991,
+        "currentShares": 723976,
+        "change": -7945,
+        "change_p": -1.0855
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.072,
+        "currentShares": 633039,
+        "change": -2701,
+        "change_p": -0.4249
+      },
+      "11": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.1924,
+        "currentShares": 629106,
+        "change": 11349,
+        "change_p": 1.8371
+      },
+      "12": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 0.7973,
+        "currentShares": 624343,
+        "change": -4320,
+        "change_p": -0.6872
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0712,
+        "currentShares": 599792,
+        "change": 1280,
+        "change_p": 0.2139
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.0719,
+        "currentShares": 507476,
+        "change": 3300,
+        "change_p": 0.6545
+      },
+      "15": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4138,
+        "totalAssets": 0.1957,
+        "currentShares": 464972,
+        "change": 1310,
+        "change_p": 0.2825
+      },
+      "16": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3983,
+        "totalAssets": 0.0751,
+        "currentShares": 447521,
+        "change": 447521,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3983,
+        "totalAssets": 0.0751,
+        "currentShares": 447521,
+        "change": -3636,
+        "change_p": -0.8059
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3983,
+        "totalAssets": 0.0751,
+        "currentShares": 447521,
+        "change": -3636,
+        "change_p": -0.8059
+      },
+      "19": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3943,
+        "totalAssets": 0.1784,
+        "currentShares": 442984,
+        "change": -17544,
+        "change_p": -3.8095
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 45.8491,
+    "ForwardPE": 33.8983,
+    "PriceSalesTTM": 5.2657,
+    "PriceBookMRQ": 12.2649,
+    "EnterpriseValue": 49273272160,
+    "EnterpriseValueRevenue": 5.7522,
+    "EnterpriseValueEbitda": 32.4166
+  },
+  "Highlights": {
+    "MarketCapitalization": 45105942528,
+    "MarketCapitalizationMln": 45105.9425,
+    "EBITDA": 1859000064,
+    "PERatio": 45.8491,
+    "PEGRatio": 2.238,
+    "WallStreetTargetPrice": 421.5684,
+    "BookValue": 33.34,
+    "DividendShare": 5.31,
+    "DividendYield": 0.013,
+    "EarningsShare": 8.75,
+    "EPSEstimateCurrentYear": 12.1408,
+    "EPSEstimateNextYear": 13.7413,
+    "EPSEstimateNextQuarter": 2.9007,
+    "EPSEstimateCurrentQuarter": 2.4835,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1156,
+    "OperatingMarginTTM": 0.1753,
+    "ReturnOnAssetsTTM": 0.0871,
+    "ReturnOnEquityTTM": 0.2374,
+    "RevenueTTM": 8566000128,
+    "RevenuePerShareTTM": 76.125,
+    "QuarterlyRevenueGrowthYOY": 0.119,
+    "GrossProfitTTM": 4153999872,
+    "DilutedEpsTTM": 8.75,
+    "QuarterlyEarningsGrowthYOY": 0.671
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.2,
+    "TotalEsgPercentile": 33.7,
+    "EnvironmentScore": 8.28,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.08,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 11.84,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ROK",
+    "Type": "Common Stock",
+    "Name": "Rockwell Automation Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBCDZ2",
+    "ISIN": "US7739031091",
+    "LEI": "VH3R4HHBHH12O0EXZJ88",
+    "PrimaryTicker": "ROK.US",
+    "CUSIP": "774347108",
+    "CIK": "0001024478",
+    "EmployerIdNumber": "25-1797617",
+    "FiscalYearEnd": "September",
+    "IPODate": "1987-01-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Electrical Equipment",
+    "GicSubIndustry": "Electrical Components & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Rockwell Automation, Inc., together with its subsidiaries, provides industrial automation and digital transformation solutions in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. It operates in three segments: Intelligent Devices, Software & Control, and Lifecycle Services. The company offers drives, motion, advanced material handling, safety, sensing, industrial components, hardware, software, and configured-to-order products; and control and visualization software and hardware, digital twin, simulation and information software, network and security infrastructure, and custom-engineered systems. It also provides digital consulting, professional services, engineered-to-order solutions, recurring services, cybersecurity, safety, remote monitoring, customer technical support and repair, asset management and optimization consulting, and training, as well as spare parts. The company sells its products through independent distributors in relation to its direct sales force. It serves discrete end markets, including automotive, semiconductor, e-commerce, and warehouse automation; hybrid end markets, such as food and beverage, life sciences, and tire; and process end markets comprising energy, mining, and chemicals. The company was formerly known as Rockwell International Corporation and changed its name to Rockwell Automation, Inc. in February 2002. Rockwell Automation, Inc. was founded in 1903 and is headquartered in Milwaukee, Wisconsin.",
+    "Address": "1201 South Second Street, Milwaukee, WI, United States, 53204-2410",
+    "AddressData": {
+      "Street": "1201 South Second Street",
+      "City": "Milwaukee",
+      "State": "WI",
+      "Country": "United States",
+      "ZIP": "53204-2410"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Blake D. Moret",
+        "Title": "President, Chairman & CEO",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Christian E. Rothe CPA",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Ms. Rebecca W. House J.D.",
+        "Title": "Senior VP, Chief People & Legal Officer and Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Scott A. Genereux",
+        "Title": "Senior VP & Chief Revenue Officer",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Matthew W. Fordenwalt",
+        "Title": "Senior Vice President of Lifecycle Services",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Mr. Cyril P. Perducat",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "1969"
+      },
+      "6": {
+        "Name": "Mr. Christopher  Nardecchia",
+        "Title": "Senior VP of Information Technology & Chief Information Officer",
+        "YearBorn": "1962"
+      },
+      "7": {
+        "Name": "Ms. Aijana  Zellner",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Brian  Hovey",
+        "Title": "VP of Global Marketing & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Sharon S. Van Zeeland",
+        "Title": "Vice President of Strategy & Corporate Development",
+        "YearBorn": "1968"
+      }
+    },
+    "Phone": "414 382 2000",
+    "WebURL": "https://www.rockwellautomation.com",
+    "LogoURL": "/img/logos/US/ROK.png",
+    "FullTimeEmployees": 26000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 112357908,
+    "SharesFloat": 111990498,
+    "PercentInsiders": 0.198,
+    "PercentInstitutions": 88.25699999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0333
+  }
+}

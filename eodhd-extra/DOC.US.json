@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.6841,
+        "totalAssets": 0.0254,
+        "currentShares": 109044442,
+        "change": -311868,
+        "change_p": -0.2852
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.5005,
+        "totalAssets": 0.0245,
+        "currentShares": 73005615,
+        "change": -1222267,
+        "change_p": -1.6466
+      },
+      "2": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.5287,
+        "totalAssets": 1.6242,
+        "currentShares": 59296520,
+        "change": 34424316,
+        "change_p": 138.4048
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.1226,
+        "totalAssets": 0.0324,
+        "currentShares": 56473068,
+        "change": 36449038,
+        "change_p": 182.0265
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.1194,
+        "totalAssets": 0.0329,
+        "currentShares": 49498109,
+        "change": 895460,
+        "change_p": 1.8424
+      },
+      "5": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.8813,
+        "totalAssets": 0.2606,
+        "currentShares": 26984868,
+        "change": -883593,
+        "change_p": -3.1706
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8096,
+        "totalAssets": 0.0193,
+        "currentShares": 19534041,
+        "change": 123274,
+        "change_p": 0.6351
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.3949,
+        "totalAssets": 0.0502,
+        "currentShares": 16650764,
+        "change": -4653259,
+        "change_p": -21.8422
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7518,
+        "totalAssets": 0.0141,
+        "currentShares": 12179836,
+        "change": 527531,
+        "change_p": 4.5273
+      },
+      "9": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5976,
+        "totalAssets": 0.0278,
+        "currentShares": 11107199,
+        "change": 523818,
+        "change_p": 4.9494
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5159,
+        "totalAssets": 0.0086,
+        "currentShares": 10539390,
+        "change": 6380786,
+        "change_p": 153.4358
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4805,
+        "totalAssets": 0.0347,
+        "currentShares": 10293147,
+        "change": 64587,
+        "change_p": 0.6314
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4683,
+        "totalAssets": 0.025,
+        "currentShares": 10208710,
+        "change": -1789020,
+        "change_p": -14.9113
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4292,
+        "totalAssets": 0.0129,
+        "currentShares": 9936934,
+        "change": 2206222,
+        "change_p": 28.5384
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3735,
+        "totalAssets": 0.0164,
+        "currentShares": 9549137,
+        "change": 1521844,
+        "change_p": 18.9584
+      },
+      "15": {
+        "name": "Cullen Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3301,
+        "totalAssets": 1.624,
+        "currentShares": 9247344,
+        "change": -985531,
+        "change_p": -9.631
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1531,
+        "totalAssets": 0.0333,
+        "currentShares": 8016692,
+        "change": 7007777,
+        "change_p": 694.5855
+      },
+      "17": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0224,
+        "totalAssets": 0.0575,
+        "currentShares": 7108595,
+        "change": 113070,
+        "change_p": 1.6163
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0142,
+        "totalAssets": 0.0252,
+        "currentShares": 7051114,
+        "change": 580870,
+        "change_p": 8.9776
+      },
+      "19": {
+        "name": "Equity Investment Corp",
+        "date": "2025-12-31",
+        "totalShares": 1.01,
+        "totalAssets": 2.2795,
+        "currentShares": 7021844,
+        "change": 1690896,
+        "change_p": 31.7185
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7205,
+        "totalAssets": 0.654,
+        "currentShares": 25866949,
+        "change": -97377,
+        "change_p": -0.375
+      },
+      "1": {
+        "name": "FullerThaler Behavioral Small-Cap Value",
+        "date": "2026-02-28",
+        "totalShares": 3.4546,
+        "totalAssets": 4.3462,
+        "currentShares": 24017995,
+        "change": -1065500,
+        "change_p": -4.2478
+      },
+      "2": {
+        "name": "Undiscovered Managers Behavioral Val L",
+        "date": "2026-02-28",
+        "totalShares": 3.2349,
+        "totalAssets": 4.3545,
+        "currentShares": 22490527,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1838,
+        "totalAssets": 0.0182,
+        "currentShares": 22135469,
+        "change": 147850,
+        "change_p": 0.6724
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5457,
+        "totalAssets": 0.0204,
+        "currentShares": 17698934,
+        "change": -175229,
+        "change_p": -0.9803
+      },
+      "5": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3088,
+        "totalAssets": 0.1587,
+        "currentShares": 16051800,
+        "change": 268722,
+        "change_p": 1.7026
+      },
+      "6": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4688,
+        "totalAssets": 0.2762,
+        "currentShares": 10211796,
+        "change": 75986,
+        "change_p": 0.7497
+      },
+      "7": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.463,
+        "totalAssets": 0.1959,
+        "currentShares": 10171499,
+        "change": 29999,
+        "change_p": 0.2958
+      },
+      "8": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 1.42,
+        "totalAssets": 1.4971,
+        "currentShares": 9872891,
+        "change": 1001175,
+        "change_p": 11.285
+      },
+      "9": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 1.3899,
+        "totalAssets": 1.4683,
+        "currentShares": 9663421,
+        "change": 654751,
+        "change_p": 7.268
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.285,
+        "totalAssets": 0.0204,
+        "currentShares": 8933884,
+        "change": -4860,
+        "change_p": -0.0544
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2721,
+        "totalAssets": 0.0209,
+        "currentShares": 8844087,
+        "change": 14543,
+        "change_p": 0.1647
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1505,
+        "totalAssets": 0.0202,
+        "currentShares": 7999096,
+        "change": -19796,
+        "change_p": -0.2469
+      },
+      "13": {
+        "name": "Principal Real Estate Securities R5",
+        "date": "2026-02-28",
+        "totalShares": 0.9557,
+        "totalAssets": 1.7911,
+        "currentShares": 6644473,
+        "change": -339465,
+        "change_p": -4.8607
+      },
+      "14": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8266,
+        "totalAssets": 1.2899,
+        "currentShares": 5746650,
+        "change": -12904,
+        "change_p": -0.224
+      },
+      "15": {
+        "name": "Invesco S&P 500® High Div Low Vol ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7868,
+        "totalAssets": 2.7362,
+        "currentShares": 5470196,
+        "change": -8250,
+        "change_p": -0.1506
+      },
+      "16": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.7011,
+        "totalAssets": 0.8946,
+        "currentShares": 4874140,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6949,
+        "totalAssets": 1.1241,
+        "currentShares": 4831531,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6574,
+        "totalAssets": 0.7674,
+        "currentShares": 4570897,
+        "change": 30267,
+        "change_p": 0.6666
+      },
+      "19": {
+        "name": "Fidelity High Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6275,
+        "totalAssets": 0.8366,
+        "currentShares": 4362477,
+        "change": 24671,
+        "change_p": 0.5687
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 164.3,
+    "ForwardPE": 109.8901,
+    "PriceSalesTTM": 4.0471,
+    "PriceBookMRQ": 1.5212,
+    "EnterpriseValue": 21085858790,
+    "EnterpriseValueRevenue": 7.4706,
+    "EnterpriseValueEbitda": 12.7922
+  },
+  "Highlights": {
+    "MarketCapitalization": 11423067136,
+    "MarketCapitalizationMln": 11423.0671,
+    "EBITDA": 1555854976,
+    "PERatio": 164.3,
+    "PEGRatio": 4.0809,
+    "WallStreetTargetPrice": 19.6389,
+    "BookValue": 10.791,
+    "DividendShare": 1.22,
+    "DividendYield": 0.0743,
+    "EarningsShare": 0.1,
+    "EPSEstimateCurrentYear": 0.135,
+    "EPSEstimateNextYear": 0.135,
+    "EPSEstimateNextQuarter": 0.0864,
+    "EPSEstimateCurrentQuarter": 0.06,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0253,
+    "OperatingMarginTTM": 0.2007,
+    "ReturnOnAssetsTTM": 0.0166,
+    "ReturnOnEquityTTM": 0.0116,
+    "RevenueTTM": 2822512128,
+    "RevenuePerShareTTM": 4.055,
+    "QuarterlyRevenueGrowthYOY": 0.031,
+    "GrossProfitTTM": 1692770048,
+    "DilutedEpsTTM": 0.1,
+    "QuarterlyEarningsGrowthYOY": 24.484
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 13.03,
+    "TotalEsgPercentile": 4.84,
+    "EnvironmentScore": 3.18,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 4.55,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 3.79,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DOC",
+    "Type": "Common Stock",
+    "Name": "Healthpeak Properties Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKYDP9",
+    "ISIN": "US42250P1030",
+    "LEI": "PZ9HF5U52KPF0MH0QN75",
+    "PrimaryTicker": "DOC.US",
+    "CUSIP": "421915109",
+    "CIK": "0001036081",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-11-05",
+    "InternationalDomestic": null,
+    "Sector": "Real Estate",
+    "Industry": "REIT - Healthcare Facilities",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Diversified REITs",
+    "GicSubIndustry": "Health Care REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Healthpeak Properties, Inc. is a Standard & Poor's 500 company that owns, operates, and develops high-quality real estate focused on healthcare discovery and delivery in the United States. Our company was originally founded in 1985. We are organized as an umbrella partnership REIT. We hold substantially all our assets and conduct our operations through our operating subsidiary, Healthpeak OP, a consolidated subsidiary of which we are the managing member. We are a Maryland corporation and qualify as a self-administered REIT. We are headquartered in Denver, Colorado, with additional corporate offices in California, Tennessee, Wisconsin, and Massachusetts and property management offices in several locations throughout the U.S. We have a diversified portfolio of high-quality healthcare properties across three core asset classes of outpatient medical, lab, and continuing care retirement community real estate. Under the outpatient medical and lab segments, we own, operate, and develop outpatient medical buildings, hospitals, and lab buildings. Under the CCRC segment, our properties are operated through RIDEA structures. We have other non-reportable segments that are comprised primarily of: (i) an interest in an unconsolidated joint venture that owns 19 senior housing assets, (ii) loans receivable, and (iii) a preferred equity investment. These non-reportable segments have been presented on a combined basis herein. At September 30, 2025, our portfolio of investments, including properties in certain of our unconsolidated joint ventures, consisted of interests in 703 properties: (i) Outpatient medical \" 530 properties; (ii) Lab \" 139 properties; (iii) CCRC \" 15 properties; and (iv) Other non-reportable \" 19 properties. Healthpeak Properties, Inc. was incorporated in 1985 in Maryland, USA.",
+    "Address": "4600 South Syracuse Street, Denver, CO, United States, 80237",
+    "AddressData": {
+      "Street": "4600 South Syracuse Street",
+      "City": "Denver",
+      "State": "CO",
+      "Country": "United States",
+      "ZIP": "80237"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Scott M. Brinker",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Mr. Kelvin O. Moses",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1989"
+      },
+      "2": {
+        "Name": "Mr. Adam G. Mabry",
+        "Title": "Chief Investment Officer",
+        "YearBorn": "1985"
+      },
+      "3": {
+        "Name": "Ms. Tracy A. Porter",
+        "Title": "Executive VP, General Counsel & ESG",
+        "YearBorn": "1978"
+      },
+      "4": {
+        "Name": "Mr. Scott R. Bohn",
+        "Title": "Chief Development Officer & Head of Lab",
+        "YearBorn": "1980"
+      },
+      "5": {
+        "Name": "Mr. Shawn G. Johnston",
+        "Title": "Executive VP & Chief Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Mr. Andrew  Johns CFA",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. James A. Croy",
+        "Title": "Senior Vice President of Leasing - Outpatient Medical",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Michelle  Wood",
+        "Title": "Senior VP, CFO and Controller of Senior Housing & Lab",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. R. Justin Hill",
+        "Title": "Senior Vice President of Outpatient Medical",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(720) 428-5050",
+    "WebURL": "https://www.healthpeak.com",
+    "LogoURL": "/img/logos/US/PEAK.png",
+    "FullTimeEmployees": 411,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 695256660,
+    "SharesFloat": 692312474,
+    "PercentInsiders": 0.28800000000000003,
+    "PercentInstitutions": 98.52,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0597
+  }
+}

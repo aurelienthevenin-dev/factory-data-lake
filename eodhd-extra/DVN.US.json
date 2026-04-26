@@ -1,0 +1,561 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.1121,
+        "totalAssets": 0.0433,
+        "currentShares": 81484123,
+        "change": -280684,
+        "change_p": -0.3433
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.731,
+        "totalAssets": 0.0371,
+        "currentShares": 60472417,
+        "change": 2602319,
+        "change_p": 4.4968
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.6852,
+        "totalAssets": 0.043,
+        "currentShares": 35330219,
+        "change": -1822101,
+        "change_p": -4.9044
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.086,
+        "totalAssets": 0.0432,
+        "currentShares": 19177835,
+        "change": 186743,
+        "change_p": 0.9833
+      },
+      "4": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2457,
+        "totalAssets": 0.8708,
+        "currentShares": 13955934,
+        "change": 6435310,
+        "change_p": 85.5688
+      },
+      "5": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.2395,
+        "totalAssets": 0.2877,
+        "currentShares": 13916979,
+        "change": 2071021,
+        "change_p": 17.4829
+      },
+      "6": {
+        "name": "EnCap Energy Capital Fund XI, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.8998,
+        "totalAssets": 37.9829,
+        "currentShares": 11806148,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8994,
+        "totalAssets": 0.0251,
+        "currentShares": 11803351,
+        "change": -777881,
+        "change_p": -6.1829
+      },
+      "8": {
+        "name": "ENCAP PARTNERS GP, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.681,
+        "totalAssets": 99.9494,
+        "currentShares": 10446138,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5079,
+        "totalAssets": 0.072,
+        "currentShares": 9370570,
+        "change": 17508,
+        "change_p": 0.1872
+      },
+      "10": {
+        "name": "Kimmeridge Energy Management Company, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4242,
+        "totalAssets": 51.7655,
+        "currentShares": 8850790,
+        "change": 3195862,
+        "change_p": 56.5146
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.204,
+        "totalAssets": 0.0413,
+        "currentShares": 7482447,
+        "change": -36974,
+        "change_p": -0.4917
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0417,
+        "totalAssets": 0.0291,
+        "currentShares": 6473356,
+        "change": -36594,
+        "change_p": -0.5621
+      },
+      "13": {
+        "name": "Pacer Advisors, INC.",
+        "date": "2025-12-31",
+        "totalShares": 1.0278,
+        "totalAssets": 0.5976,
+        "currentShares": 6386921,
+        "change": 6285658,
+        "change_p": 6207.2603
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9978,
+        "totalAssets": 0.0278,
+        "currentShares": 6200911,
+        "change": -49958,
+        "change_p": -0.7992
+      },
+      "15": {
+        "name": "EnCap Energy Capital Fund X, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.9499,
+        "totalAssets": 100,
+        "currentShares": 5903074,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9422,
+        "totalAssets": 0.0139,
+        "currentShares": 5854934,
+        "change": -2787191,
+        "change_p": -32.2512
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9318,
+        "totalAssets": 0.0061,
+        "currentShares": 5790570,
+        "change": 2812079,
+        "change_p": 94.4129
+      },
+      "18": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8947,
+        "totalAssets": 0.1068,
+        "currentShares": 5559736,
+        "change": -2663483,
+        "change_p": -32.3898
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.825,
+        "totalAssets": 0.0292,
+        "currentShares": 5127156,
+        "change": 166483,
+        "change_p": 3.3561
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.168,
+        "totalAssets": 0.0496,
+        "currentShares": 19687224,
+        "change": -141806,
+        "change_p": -0.7151
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5414,
+        "totalAssets": 0.0559,
+        "currentShares": 15793109,
+        "change": -333950,
+        "change_p": -2.0707
+      },
+      "2": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3125,
+        "totalAssets": 1.6508,
+        "currentShares": 14370508,
+        "change": 147022,
+        "change_p": 1.0337
+      },
+      "3": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2367,
+        "totalAssets": 0.8499,
+        "currentShares": 13899727,
+        "change": 23092,
+        "change_p": 0.1664
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1554,
+        "totalAssets": 0.3392,
+        "currentShares": 13394366,
+        "change": -239747,
+        "change_p": -1.7584
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2846,
+        "totalAssets": 0.0464,
+        "currentShares": 7983203,
+        "change": 13181,
+        "change_p": 0.1654
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2831,
+        "totalAssets": 0.0557,
+        "currentShares": 7973403,
+        "change": -4344,
+        "change_p": -0.0545
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1532,
+        "totalAssets": 0.0555,
+        "currentShares": 7166162,
+        "change": -17689,
+        "change_p": -0.2462
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9221,
+        "totalAssets": 0.1278,
+        "currentShares": 5730193,
+        "change": -108011,
+        "change_p": -1.8501
+      },
+      "9": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.8722,
+        "totalAssets": 1.8216,
+        "currentShares": 5420000,
+        "change": -484000,
+        "change_p": -8.1978
+      },
+      "10": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8037,
+        "totalAssets": 0.5407,
+        "currentShares": 4994727,
+        "change": -3093,
+        "change_p": -0.0619
+      },
+      "11": {
+        "name": "FullerThaler Behavioral Small-Cap Value",
+        "date": "2026-02-28",
+        "totalShares": 0.73,
+        "totalAssets": 2.0213,
+        "currentShares": 4536773,
+        "change": -937231,
+        "change_p": -17.1215
+      },
+      "12": {
+        "name": "Undiscovered Managers Behavioral Val L",
+        "date": "2026-02-28",
+        "totalShares": 0.6839,
+        "totalAssets": 2.0261,
+        "currentShares": 4250287,
+        "change": -435500,
+        "change_p": -9.2941
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.649,
+        "totalAssets": 0.5841,
+        "currentShares": 4033040,
+        "change": 117780,
+        "change_p": 3.0082
+      },
+      "14": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.629,
+        "totalAssets": 1.0826,
+        "currentShares": 3908663,
+        "change": -1346,
+        "change_p": -0.0344
+      },
+      "15": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6159,
+        "totalAssets": 0.2258,
+        "currentShares": 3827689,
+        "change": 11266,
+        "change_p": 0.2952
+      },
+      "16": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5984,
+        "totalAssets": 0.2179,
+        "currentShares": 3718925,
+        "change": 57823,
+        "change_p": 1.5794
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5621,
+        "totalAssets": 0.0557,
+        "currentShares": 3493345,
+        "change": -62791,
+        "change_p": -1.7657
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5328,
+        "totalAssets": 0.0551,
+        "currentShares": 3311072,
+        "change": -32900,
+        "change_p": -0.9839
+      },
+      "19": {
+        "name": "Vanguard Energy ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5016,
+        "totalAssets": 1.1769,
+        "currentShares": 3117075,
+        "change": 169959,
+        "change_p": 5.767
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.4964,
+    "ForwardPE": 9.0909,
+    "PriceSalesTTM": 1.8576,
+    "PriceBookMRQ": 1.927,
+    "EnterpriseValue": 37074350396,
+    "EnterpriseValueRevenue": 2.157,
+    "EnterpriseValueEbitda": 4.9053
+  },
+  "Highlights": {
+    "MarketCapitalization": 29791848448,
+    "MarketCapitalizationMln": 29791.8484,
+    "EBITDA": 7475999744,
+    "PERatio": 11.4964,
+    "PEGRatio": 2.8462,
+    "WallStreetTargetPrice": 58.44,
+    "BookValue": 24.965,
+    "DividendShare": 0.96,
+    "DividendYield": 0.0199,
+    "EarningsShare": 4.17,
+    "EPSEstimateCurrentYear": 5.3684,
+    "EPSEstimateNextYear": 5.3314,
+    "EPSEstimateNextQuarter": 0.8337,
+    "EPSEstimateCurrentQuarter": 0.8285,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1647,
+    "OperatingMarginTTM": 0.2266,
+    "ReturnOnAssetsTTM": 0.0772,
+    "ReturnOnEquityTTM": 0.1774,
+    "RevenueTTM": 16037999616,
+    "RevenuePerShareTTM": 25.377,
+    "QuarterlyRevenueGrowthYOY": -0.121,
+    "GrossProfitTTM": 7649999872,
+    "DilutedEpsTTM": 4.17,
+    "QuarterlyEarningsGrowthYOY": -0.085
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 42.01,
+    "TotalEsgPercentile": 77.16,
+    "EnvironmentScore": 23.2,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 13.68,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 15.12,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DVN",
+    "Type": "Common Stock",
+    "Name": "Devon Energy Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBVJZ8",
+    "ISIN": "US25179M1036",
+    "LEI": "54930042348RKR3ZPN35",
+    "PrimaryTicker": "DVN.US",
+    "CUSIP": "25179M103",
+    "CIK": "0001090012",
+    "EmployerIdNumber": "73-1567067",
+    "FiscalYearEnd": "December",
+    "IPODate": "1992-03-17",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Exploration & Production",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Devon Energy Corporation, an independent energy company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company operates in Delaware Basin located in southeast New Mexico and west Texas, Eagle Ford located in North America, Anadarko Basin located in western Oklahoma, Williston Basin located in North Dakota, and Powder River Basin located in Wyoming. Devon Energy Corporation was founded in 1971 and is headquartered in Oklahoma City, Oklahoma.",
+    "Address": "333 West Sheridan Avenue, Oklahoma City, OK, United States, 73102-5015",
+    "AddressData": {
+      "Street": "333 West Sheridan Avenue",
+      "City": "Oklahoma City",
+      "State": "OK",
+      "Country": "United States",
+      "ZIP": "73102-5015"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Clay M. Gaspar",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. Jeffrey L. Ritenour CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Thomas J. Hellman",
+        "Title": "Senior Vice President of E&P Operations",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Christopher J. Kirt",
+        "Title": "VP of Corporate Governance, Secretary & Associate General Counsel",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Steve  Mullen",
+        "Title": "Environmental Health and Safety Supervisor",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "405 235 3611",
+    "WebURL": "https://www.devonenergy.com",
+    "LogoURL": "/img/logos/US/dvn.png",
+    "FullTimeEmployees": 2200,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 621440299,
+    "SharesFloat": 614485156,
+    "PercentInsiders": 0.827,
+    "PercentInstitutions": 83.191,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.056
+  }
+}

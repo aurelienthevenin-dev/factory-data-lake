@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2844,
+        "totalAssets": 0.0973,
+        "currentShares": 41588784,
+        "change": 390157,
+        "change_p": 0.947
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.6968,
+        "totalAssets": 0.101,
+        "currentShares": 29442953,
+        "change": 1019608,
+        "change_p": 3.5872
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.46,
+        "totalAssets": 0.1284,
+        "currentShares": 21870376,
+        "change": 13009552,
+        "change_p": 146.821
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.0201,
+        "totalAssets": 0.1398,
+        "currentShares": 16995465,
+        "change": -2897557,
+        "change_p": -14.5657
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7387,
+        "totalAssets": 0.109,
+        "currentShares": 16042841,
+        "change": -617186,
+        "change_p": -3.7046
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6483,
+        "totalAssets": 0.0889,
+        "currentShares": 8965648,
+        "change": 97424,
+        "change_p": 1.0986
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3789,
+        "totalAssets": 0.0955,
+        "currentShares": 8053640,
+        "change": 17738,
+        "change_p": 0.2207
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.9288,
+        "totalAssets": 0.3397,
+        "currentShares": 6530095,
+        "change": -576370,
+        "change_p": -8.1105
+      },
+      "8": {
+        "name": "Lone Pine Capital LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5395,
+        "totalAssets": 6.1775,
+        "currentShares": 5211885,
+        "change": 512644,
+        "change_p": 10.9091
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3672,
+        "totalAssets": 0.0799,
+        "currentShares": 4628580,
+        "change": -170349,
+        "change_p": -3.5497
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3507,
+        "totalAssets": 0.1411,
+        "currentShares": 4572642,
+        "change": 35258,
+        "change_p": 0.7771
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0773,
+        "totalAssets": 0.0485,
+        "currentShares": 3647129,
+        "change": 214332,
+        "change_p": 6.2437
+      },
+      "12": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.0518,
+        "totalAssets": 0.0781,
+        "currentShares": 3561018,
+        "change": 3561018,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0054,
+        "totalAssets": 0.1152,
+        "currentShares": 3403898,
+        "change": -155309,
+        "change_p": -4.3636
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9191,
+        "totalAssets": 0.0955,
+        "currentShares": 3111531,
+        "change": 74130,
+        "change_p": 2.4406
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9089,
+        "totalAssets": 0.0771,
+        "currentShares": 3077220,
+        "change": -88518,
+        "change_p": -2.7961
+      },
+      "16": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8814,
+        "totalAssets": 0.1458,
+        "currentShares": 2983868,
+        "change": 303573,
+        "change_p": 11.3261
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8704,
+        "totalAssets": 0.0583,
+        "currentShares": 2946839,
+        "change": 1078372,
+        "change_p": 57.7143
+      },
+      "18": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.8545,
+        "totalAssets": 0.2588,
+        "currentShares": 2892945,
+        "change": -341397,
+        "change_p": -10.5554
+      },
+      "19": {
+        "name": "Jane Street Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8079,
+        "totalAssets": 0.0666,
+        "currentShares": 2735140,
+        "change": 1493317,
+        "change_p": 120.252
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.18,
+        "totalAssets": 0.0811,
+        "currentShares": 10765978,
+        "change": 45869,
+        "change_p": 0.4279
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3957,
+        "totalAssets": 0.0857,
+        "currentShares": 8110665,
+        "change": -80083,
+        "change_p": -0.9777
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1621,
+        "totalAssets": 0.5537,
+        "currentShares": 7319653,
+        "change": -44674,
+        "change_p": -0.6066
+      },
+      "3": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6027,
+        "totalAssets": 3.3585,
+        "currentShares": 5425863,
+        "change": -4626,
+        "change_p": -0.0852
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2094,
+        "totalAssets": 0.0855,
+        "currentShares": 4094362,
+        "change": -2232,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1972,
+        "totalAssets": 0.0941,
+        "currentShares": 4053254,
+        "change": 6681,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0946,
+        "totalAssets": 0.0857,
+        "currentShares": 3705657,
+        "change": -9065,
+        "change_p": -0.244
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.925,
+        "totalAssets": 0.2086,
+        "currentShares": 3131551,
+        "change": -22745,
+        "change_p": -0.7211
+      },
+      "8": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7612,
+        "totalAssets": 1.3259,
+        "currentShares": 2577138,
+        "change": -236134,
+        "change_p": -8.3936
+      },
+      "9": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6894,
+        "totalAssets": 3.2354,
+        "currentShares": 2334019,
+        "change": 26348,
+        "change_p": 1.1418
+      },
+      "10": {
+        "name": "MFS Mid Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.684,
+        "totalAssets": 2.6444,
+        "currentShares": 2315677,
+        "change": 39069,
+        "change_p": 1.7161
+      },
+      "11": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6694,
+        "totalAssets": 1.8294,
+        "currentShares": 2266278,
+        "change": -3895,
+        "change_p": -0.1716
+      },
+      "12": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.6003,
+        "totalAssets": 0.3106,
+        "currentShares": 2032286,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Franklin Utilities A1",
+        "date": "2026-03-31",
+        "totalShares": 0.5612,
+        "totalAssets": 3.685,
+        "currentShares": 1900000,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5301,
+        "totalAssets": 0.0855,
+        "currentShares": 1794500,
+        "change": -9005,
+        "change_p": -0.4993
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5022,
+        "totalAssets": 0.0846,
+        "currentShares": 1700123,
+        "change": 2300,
+        "change_p": 0.1355
+      },
+      "16": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4981,
+        "totalAssets": 0.0827,
+        "currentShares": 1686468,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4981,
+        "totalAssets": 0.081,
+        "currentShares": 1686468,
+        "change": 1686468,
+        "change_p": 0
+      },
+      "18": {
+        "name": "MFS Mid Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.4771,
+        "totalAssets": 2.0378,
+        "currentShares": 1615099,
+        "change": -394946,
+        "change_p": -19.6486
+      },
+      "19": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4604,
+        "totalAssets": 0.5748,
+        "currentShares": 1558612,
+        "change": -446677,
+        "change_p": -22.2749
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 75.0457,
+    "ForwardPE": 17.7936,
+    "PriceSalesTTM": 3.1368,
+    "PriceBookMRQ": 21.2288,
+    "EnterpriseValue": 77399576140,
+    "EnterpriseValueRevenue": 4.3635,
+    "EnterpriseValueEbitda": 15.3115
+  },
+  "Highlights": {
+    "MarketCapitalization": 55640576000,
+    "MarketCapitalizationMln": 55640.576,
+    "EBITDA": 5228000256,
+    "PERatio": 75.0457,
+    "PEGRatio": 1.4124,
+    "WallStreetTargetPrice": 233.9474,
+    "BookValue": 7.753,
+    "DividendShare": 0.902,
+    "DividendYield": 0.0058,
+    "EarningsShare": 2.19,
+    "EPSEstimateCurrentYear": 8.674,
+    "EPSEstimateNextYear": 10.7748,
+    "EPSEstimateNextQuarter": 1.32,
+    "EPSEstimateCurrentQuarter": 2.2997,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0532,
+    "OperatingMarginTTM": 0.1322,
+    "ReturnOnAssetsTTM": 0.0349,
+    "ReturnOnEquityTTM": 0.1766,
+    "RevenueTTM": 17738000384,
+    "RevenuePerShareTTM": 52.305,
+    "QuarterlyRevenueGrowthYOY": 0.136,
+    "GrossProfitTTM": 5896000000,
+    "DilutedEpsTTM": 2.19,
+    "QuarterlyEarningsGrowthYOY": -0.523
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "VST",
+    "Type": "Common Stock",
+    "Name": "Vistra Energy Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00DXDL6Q1",
+    "ISIN": "US92840M1027",
+    "LEI": "549300KP43CPCUJOOG15",
+    "PrimaryTicker": "VST.US",
+    "CUSIP": "92840M102",
+    "CIK": "0001692819",
+    "EmployerIdNumber": "36-4833255",
+    "FiscalYearEnd": "December",
+    "IPODate": "2016-10-04",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Independent Power Producers",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Independent Power and Renewable Electricity Producers",
+    "GicSubIndustry": "Independent Power Producers & Energy Traders",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company in the United States. The company operates through five segments: Retail, Texas, East, West, and Asset Closure. The company retails electricity and natural gas to residential, commercial, and industrial customers across states in the United States and the District of Columbia. It is also involved in electricity generation, wholesale energy purchases and sales, commodity risk management, fuel procurement, and fuel logistics management activities. In addition, the company engages in decommissioning and reclamation of retired generation facilities, including mines, and battery removal and remediation activities. It serves approximately 5 million customers with a generation capacity of approximately 44,000 megawatts with a portfolio of natural gas, nuclear, coal, solar, and battery energy storage facilities. The company was formerly known as Vistra Energy Corp. and changed its name to Vistra Corp. in July 2020. Vistra Corp. was founded in 1882 and is based in Irving, Texas.",
+    "Address": "6555 Sierra Drive, Irving, TX, United States, 75039",
+    "AddressData": {
+      "Street": "6555 Sierra Drive",
+      "City": "Irving",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75039"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. James A. Burke CPA",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Kristopher E. Moldovan",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Ms. Stephanie Zapata Moore",
+        "Title": "Executive VP, General Counsel & Chief Compliance Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Ms. Stacey H. Dore J.D.",
+        "Title": "Chief Strategy and Sustainability Officer & Executive VP of Public Affairs",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Scott A. Hudson",
+        "Title": "Executive VP & President of Retail",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Ms. Margaret M. Montemayor",
+        "Title": "Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1978"
+      },
+      "6": {
+        "Name": "Mr. Tom  Farrah",
+        "Title": "Senior VP & CIO",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Eric  Micek C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Amanda  DonCarlos",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Sano  Blocker",
+        "Title": "Senior Vice President of Government Affairs",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "214 812 4600",
+    "WebURL": "https://vistracorp.com",
+    "LogoURL": "/img/logos/US/VST.png",
+    "FullTimeEmployees": 6390,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 338549292,
+    "SharesFloat": 314317669,
+    "PercentInsiders": 0.7979999999999999,
+    "PercentInstitutions": 92.701,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0384
+  }
+}

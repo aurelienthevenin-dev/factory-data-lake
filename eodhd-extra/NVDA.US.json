@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.3279,
+        "totalAssets": 6.1287,
+        "currentShares": 2266683275,
+        "change": 43149475,
+        "change_p": 1.9406
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9393,
+        "totalAssets": 6.3016,
+        "currentShares": 1929259144,
+        "change": 19470172,
+        "change_p": 1.0195
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.033,
+        "totalAssets": 6.341,
+        "currentShares": 980029103,
+        "change": 1820241,
+        "change_p": 0.1861
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.0216,
+        "totalAssets": 5.4621,
+        "currentShares": 977238564,
+        "change": 514651697,
+        "change_p": 111.2551
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.9961,
+        "totalAssets": 9.234,
+        "currentShares": 971063283,
+        "change": -11643333,
+        "change_p": -1.1848
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4231,
+        "totalAssets": 6.7541,
+        "currentShares": 588803093,
+        "change": 3383441,
+        "change_p": 0.578
+      },
+      "6": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6286,
+        "totalAssets": 7.8995,
+        "currentShares": 395742700,
+        "change": -10582655,
+        "change_p": -2.6045
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3735,
+        "totalAssets": 6.6589,
+        "currentShares": 333748700,
+        "change": 8494803,
+        "change_p": 2.6117
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.329,
+        "totalAssets": 3.6483,
+        "currentShares": 322956343,
+        "change": -2754465,
+        "change_p": -0.8457
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0677,
+        "totalAssets": 6.1924,
+        "currentShares": 259439810,
+        "change": -1711649,
+        "change_p": -0.6554
+      },
+      "10": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8081,
+        "totalAssets": 7.9558,
+        "currentShares": 196368811,
+        "change": -41153475,
+        "change_p": -17.3262
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7841,
+        "totalAssets": 2.4111,
+        "currentShares": 190535745,
+        "change": -11164870,
+        "change_p": -5.5354
+      },
+      "12": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.706,
+        "totalAssets": 5.9063,
+        "currentShares": 171562742,
+        "change": 6184890,
+        "change_p": 3.7399
+      },
+      "13": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7057,
+        "totalAssets": 7.0923,
+        "currentShares": 171472969,
+        "change": -9730066,
+        "change_p": -5.3697
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6864,
+        "totalAssets": 3.815,
+        "currentShares": 166786717,
+        "change": -1250054,
+        "change_p": -0.7439
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6439,
+        "totalAssets": 5.2369,
+        "currentShares": 156460290,
+        "change": -473158,
+        "change_p": -0.3015
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.642,
+        "totalAssets": 4.5207,
+        "currentShares": 155997363,
+        "change": 117017,
+        "change_p": 0.0751
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.5876,
+        "totalAssets": 4.1975,
+        "currentShares": 142793326,
+        "change": 4565930,
+        "change_p": 3.3032
+      },
+      "18": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.579,
+        "totalAssets": 4.5985,
+        "currentShares": 140706711,
+        "change": -2665880,
+        "change_p": -1.8594
+      },
+      "19": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.559,
+        "totalAssets": 6.6331,
+        "currentShares": 135827760,
+        "change": -4523611,
+        "change_p": -3.2231
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0177,
+        "totalAssets": 6.4054,
+        "currentShares": 733305621,
+        "change": 3117705,
+        "change_p": 0.427
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5464,
+        "totalAssets": 7.5839,
+        "currentShares": 618781589,
+        "change": -6222588,
+        "change_p": -0.9956
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 7.5646,
+        "currentShares": 312356660,
+        "change": -170028,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2726,
+        "totalAssets": 7.3148,
+        "currentShares": 309248004,
+        "change": 509794,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1596,
+        "totalAssets": 7.5581,
+        "currentShares": 281784117,
+        "change": -692517,
+        "change_p": -0.2452
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9985,
+        "totalAssets": 13.3151,
+        "currentShares": 242629354,
+        "change": -389754,
+        "change_p": -0.1604
+      },
+      "6": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.7602,
+        "totalAssets": 8.6822,
+        "currentShares": 184736390,
+        "change": -617996,
+        "change_p": -0.3334
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 7.5654,
+        "currentShares": 136906450,
+        "change": -745135,
+        "change_p": -0.5413
+      },
+      "8": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 7.4873,
+        "currentShares": 129716473,
+        "change": 180200,
+        "change_p": 0.1391
+      },
+      "9": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5319,
+        "totalAssets": 18.5232,
+        "currentShares": 129246346,
+        "change": -147436,
+        "change_p": -0.1139
+      },
+      "10": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 7.556,
+        "currentShares": 109754352,
+        "change": 630076,
+        "change_p": 0.5774
+      },
+      "11": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4488,
+        "totalAssets": 6.0536,
+        "currentShares": 109053636,
+        "change": 3767443,
+        "change_p": 3.5783
+      },
+      "12": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4365,
+        "totalAssets": 6.0369,
+        "currentShares": 106060680,
+        "change": -2992956,
+        "change_p": -2.7445
+      },
+      "13": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.3994,
+        "totalAssets": 15.8124,
+        "currentShares": 97063370,
+        "change": 58900,
+        "change_p": 0.0607
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3967,
+        "totalAssets": 7.7542,
+        "currentShares": 96389612,
+        "change": -1518793,
+        "change_p": -1.5512
+      },
+      "15": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3967,
+        "totalAssets": 7.7542,
+        "currentShares": 96389612,
+        "change": 96389612,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3967,
+        "totalAssets": 7.7542,
+        "currentShares": 96389612,
+        "change": -1518793,
+        "change_p": -1.5512
+      },
+      "17": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3612,
+        "totalAssets": 7.524,
+        "currentShares": 87772147,
+        "change": -339730,
+        "change_p": -0.3856
+      },
+      "18": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.3519,
+        "totalAssets": 8.9294,
+        "currentShares": 85500650,
+        "change": -2943000,
+        "change_p": -3.3275
+      },
+      "19": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3412,
+        "totalAssets": 12.9248,
+        "currentShares": 82913537,
+        "change": 78995,
+        "change_p": 0.0954
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 40.8373,
+    "ForwardPE": 24.5098,
+    "PriceSalesTTM": 23.4419,
+    "PriceBookMRQ": 30.8421,
+    "EnterpriseValue": 5009445000000,
+    "EnterpriseValueRevenue": 22.2274,
+    "EnterpriseValueEbitda": 33.2042
+  },
+  "Highlights": {
+    "MarketCapitalization": 5062002737152,
+    "MarketCapitalizationMln": 5062002.7372,
+    "EBITDA": 133230002176,
+    "PERatio": 40.8373,
+    "PEGRatio": 0.71,
+    "WallStreetTargetPrice": 268.6148,
+    "BookValue": 6.472,
+    "DividendShare": 0.04,
+    "DividendYield": 0.0002,
+    "EarningsShare": 5.1,
+    "EPSEstimateCurrentYear": 4.696,
+    "EPSEstimateNextYear": 7.8576,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.5381,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.556,
+    "OperatingMarginTTM": 0.6502,
+    "ReturnOnAssetsTTM": 0.5119,
+    "ReturnOnEquityTTM": 1.0149,
+    "RevenueTTM": 215938007040,
+    "RevenuePerShareTTM": 8.865,
+    "QuarterlyRevenueGrowthYOY": 0.732,
+    "GrossProfitTTM": 153462996992,
+    "DilutedEpsTTM": 5.1,
+    "QuarterlyEarningsGrowthYOY": 0.956
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.45,
+    "TotalEsgPercentile": 11.56,
+    "EnvironmentScore": 8.83,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 9.65,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 11.46,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NVDA",
+    "Type": "Common Stock",
+    "Name": "NVIDIA Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBJQV0",
+    "ISIN": "US67066G1040",
+    "LEI": "549300S4KLFTLO7GSQ80",
+    "PrimaryTicker": "NVDA.US",
+    "CUSIP": "67066G104",
+    "CIK": "0001045810",
+    "EmployerIdNumber": "94-3177549",
+    "FiscalYearEnd": "January",
+    "IPODate": "1999-01-22",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. The company sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants worldwide. It has a collaboration with Tech Mahindra Limited to develop artificial intelligence powered telco network operations reasoning agent. The company has a strategic partnership with Lumentum Holdings Inc. to develop optics technologies for AI and data centers. It also has a strategic partnership with Nebius Group N.V. to develop and deploy hyperscale cloud for the artificial intelligence market. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+    "Address": "2788 San Tomas Expressway, Santa Clara, CA, United States, 95051",
+    "AddressData": {
+      "Street": "2788 San Tomas Expressway",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95051"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NVDC34",
+        "Exchange": "SA",
+        "Name": "NVIDIA Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jen-Hsun  Huang",
+        "Title": "Co-Founder, CEO & Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Ms. Colette M. Kress",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Ms. Debora  Shoquist",
+        "Title": "Executive Vice President of Operations",
+        "YearBorn": "1955"
+      },
+      "3": {
+        "Name": "Mr. Timothy S. Teter J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Mr. Ajay K. Puri",
+        "Title": "Executive Vice President of Worldwide Field Operations",
+        "YearBorn": "1955"
+      },
+      "5": {
+        "Name": "Mr. Chris A. Malachowsky",
+        "Title": "Co-Founder",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Donald F. Robertson Jr.",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Prof. William J. Dally Ph.D.",
+        "Title": "Chief Scientist & Senior VP of Research",
+        "YearBorn": "1961"
+      },
+      "8": {
+        "Name": "Mr. Toshiya  Hari",
+        "Title": "Vice President of Investor Relations & Strategic Finance",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Mylene  Mangalindan",
+        "Title": "Vice President of Corporate Communications",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 486 2000",
+    "WebURL": "https://www.nvidia.com",
+    "LogoURL": "/img/logos/US/NVDA.png",
+    "FullTimeEmployees": 42000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 24300000000,
+    "SharesFloat": 23321682000,
+    "PercentInsiders": 4.2090000000000005,
+    "PercentInstitutions": 70.045,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0121
+  }
+}

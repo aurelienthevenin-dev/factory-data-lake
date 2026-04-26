@@ -1,0 +1,572 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2373,
+        "totalAssets": 0.5302,
+        "currentShares": 390014981,
+        "change": 4801761,
+        "change_p": 1.2465
+      },
+      "1": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.6381,
+        "totalAssets": 0.9362,
+        "currentShares": 195829757,
+        "change": -15207723,
+        "change_p": -7.2062
+      },
+      "2": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3589,
+        "totalAssets": 0.5743,
+        "currentShares": 99598678,
+        "change": -801262,
+        "change_p": -0.7981
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.116,
+        "totalAssets": 1.1392,
+        "currentShares": 89341444,
+        "change": -3814096,
+        "change_p": -4.0943
+      },
+      "4": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4659,
+        "totalAssets": 0.6208,
+        "currentShares": 61894705,
+        "change": 2679805,
+        "change_p": 4.5256
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.0035,
+        "totalAssets": 0.7333,
+        "currentShares": 42367807,
+        "change": -4696613,
+        "change_p": -9.9791
+      },
+      "6": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 0.8818,
+        "totalAssets": 4.2082,
+        "currentShares": 37230399,
+        "change": 54419,
+        "change_p": 0.1464
+      },
+      "7": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 0.8749,
+        "totalAssets": 2.8781,
+        "currentShares": 36940035,
+        "change": 449565,
+        "change_p": 1.232
+      },
+      "8": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8259,
+        "totalAssets": 1.9629,
+        "currentShares": 34871951,
+        "change": -12258559,
+        "change_p": -26.0098
+      },
+      "9": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2288,
+        "totalAssets": 0.7292,
+        "currentShares": 34743202,
+        "change": 782561,
+        "change_p": 2.3043
+      },
+      "10": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.721,
+        "totalAssets": 0.4435,
+        "currentShares": 30443811,
+        "change": 723911,
+        "change_p": 2.4358
+      },
+      "11": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6282,
+        "totalAssets": 0.5515,
+        "currentShares": 26522252,
+        "change": 421242,
+        "change_p": 1.6139
+      },
+      "12": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 0.6267,
+        "totalAssets": 0.3889,
+        "currentShares": 26461233,
+        "change": -6194347,
+        "change_p": -18.9687
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.61,
+        "totalAssets": 0.2962,
+        "currentShares": 25756102,
+        "change": -8665348,
+        "change_p": -25.1743
+      },
+      "14": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.5554,
+        "totalAssets": 0.5974,
+        "currentShares": 23448825,
+        "change": 5494225,
+        "change_p": 30.6007
+      },
+      "15": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.4986,
+        "totalAssets": 0.3459,
+        "currentShares": 21049875,
+        "change": -10838435,
+        "change_p": -33.9887
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.4874,
+        "totalAssets": 0.5052,
+        "currentShares": 20579000,
+        "change": -1545760,
+        "change_p": -6.9866
+      },
+      "17": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.4853,
+        "totalAssets": 0.6557,
+        "currentShares": 20490399,
+        "change": 151649,
+        "change_p": 0.7456
+      },
+      "18": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.4366,
+        "totalAssets": 0.4646,
+        "currentShares": 18432988,
+        "change": 9323768,
+        "change_p": 102.3553
+      },
+      "19": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.2277,
+        "totalAssets": 0.6411,
+        "currentShares": 17850018,
+        "change": 7937023,
+        "change_p": 80.0669
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1765,
+        "totalAssets": 0.6459,
+        "currentShares": 134118081,
+        "change": 82086,
+        "change_p": 0.0612
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5463,
+        "totalAssets": 0.7264,
+        "currentShares": 107508304,
+        "change": -1478661,
+        "change_p": -1.3567
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 2.296,
+        "currentShares": 88613219,
+        "change": -296442,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5107,
+        "totalAssets": 1.78,
+        "currentShares": 63784516,
+        "change": -5365394,
+        "change_p": -7.7591
+      },
+      "4": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.3879,
+        "totalAssets": 1.8389,
+        "currentShares": 58599832,
+        "change": -5184684,
+        "change_p": -8.1284
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.7246,
+        "currentShares": 54272589,
+        "change": -29544,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2772,
+        "totalAssets": 0.6928,
+        "currentShares": 53925242,
+        "change": 88888,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1593,
+        "totalAssets": 0.7238,
+        "currentShares": 48947491,
+        "change": -120344,
+        "change_p": -0.2453
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0629,
+        "totalAssets": 1.3578,
+        "currentShares": 44877853,
+        "change": -356042,
+        "change_p": -0.7871
+      },
+      "9": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.7274,
+        "totalAssets": 1.7422,
+        "currentShares": 30712450,
+        "change": -126700,
+        "change_p": -0.4108
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.7247,
+        "currentShares": 23787657,
+        "change": -215063,
+        "change_p": -0.896
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.7172,
+        "currentShares": 22538439,
+        "change": -49500,
+        "change_p": -0.2191
+      },
+      "12": {
+        "name": "Fidelity Blue Chip Growth",
+        "date": "2026-02-28",
+        "totalShares": 0.5233,
+        "totalAssets": 2.442,
+        "currentShares": 22096590,
+        "change": 1436800,
+        "change_p": 6.9546
+      },
+      "13": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.5136,
+        "totalAssets": 2.3826,
+        "currentShares": 21684447,
+        "change": 8723007,
+        "change_p": 67.2997
+      },
+      "14": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4807,
+        "totalAssets": 1.1762,
+        "currentShares": 20295204,
+        "change": 6408654,
+        "change_p": 46.1501
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.7238,
+        "currentShares": 19069972,
+        "change": 41373,
+        "change_p": 0.2174
+      },
+      "16": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4051,
+        "totalAssets": 1.4701,
+        "currentShares": 17105744,
+        "change": 16295,
+        "change_p": 0.0954
+      },
+      "17": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.398,
+        "totalAssets": 0.6797,
+        "currentShares": 16805987,
+        "change": -244767,
+        "change_p": -1.4355
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.398,
+        "totalAssets": 0.6797,
+        "currentShares": 16805987,
+        "change": -244767,
+        "change_p": -1.4355
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.398,
+        "totalAssets": 0.6797,
+        "currentShares": 16805987,
+        "change": 16805987,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 29.8194,
+    "ForwardPE": 28.9855,
+    "PriceSalesTTM": 8.3013,
+    "PriceBookMRQ": 12.5567,
+    "EnterpriseValue": 391318281928,
+    "EnterpriseValueRevenue": 8.3796,
+    "EnterpriseValueEbitda": 11.5296
+  },
+  "Highlights": {
+    "MarketCapitalization": 389246222336,
+    "MarketCapitalizationMln": 389246.2223,
+    "EBITDA": 14288497664,
+    "PERatio": 29.8194,
+    "PEGRatio": 1.8289,
+    "WallStreetTargetPrice": 114.3843,
+    "BookValue": 6.304,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 3.1,
+    "EPSEstimateCurrentYear": 3.6008,
+    "EPSEstimateNextYear": 3.831,
+    "EPSEstimateNextQuarter": 0.8412,
+    "EPSEstimateCurrentQuarter": 1.345,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2852,
+    "OperatingMarginTTM": 0.323,
+    "ReturnOnAssetsTTM": 0.154,
+    "ReturnOnEquityTTM": 0.4849,
+    "RevenueTTM": 46889992192,
+    "RevenuePerShareTTM": 11.067,
+    "QuarterlyRevenueGrowthYOY": 0.162,
+    "GrossProfitTTM": 22989572096,
+    "DilutedEpsTTM": 3.1,
+    "QuarterlyEarningsGrowthYOY": 0.864
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.55,
+    "TotalEsgPercentile": 19.25,
+    "EnvironmentScore": 3.16,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 10.56,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 15.32,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NFLX",
+    "Type": "Common Stock",
+    "Name": "Netflix Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000CL9VN6",
+    "ISIN": "US64110L1061",
+    "LEI": "549300Y7VHGU0I7CE873",
+    "PrimaryTicker": "NFLX.US",
+    "CUSIP": "64110L106",
+    "CIK": "0001065280",
+    "EmployerIdNumber": "77-0467272",
+    "FiscalYearEnd": "December",
+    "IPODate": "2002-05-23",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Entertainment",
+    "GicSubIndustry": "Movies & Entertainment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Netflix, Inc. provides entertainment services worldwide. The company offers television (TV) series, documentaries, feature films, games, and live programming across various genres and languages. It also provides members the ability to receive streaming content through a host of internet-connected devices, including TVs, digital video players, TV set-top boxes, and mobile devices. Netflix, Inc. was incorporated in 1997 and is headquartered in Los Gatos, California.",
+    "Address": "121 Albright Way, Los Gatos, CA, United States, 95032",
+    "AddressData": {
+      "Street": "121 Albright Way",
+      "City": "Los Gatos",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95032"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NFLX34",
+        "Exchange": "SA",
+        "Name": "Netflix Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Wilmot Reed Hastings Jr.",
+        "Title": "Co-Founder & Chairman",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Theodore A. Sarandos",
+        "Title": "Co-CEO, President & Director",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. Gregory K. Peters",
+        "Title": "Co-CEO, President & Director",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. Spencer Adam Neumann",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Vamsi  Murthy",
+        "Title": "Senior Director & Head of Marketing for India",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Pablo Perez De Rosso",
+        "Title": "Chief Financial Officer of EMEA",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(408) 540-3700",
+    "WebURL": "https://www.netflix.com",
+    "LogoURL": "/img/logos/US/nflx.png",
+    "FullTimeEmployees": 16000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 4210798528,
+    "SharesFloat": 4183473223,
+    "PercentInsiders": 0.581,
+    "PercentInstitutions": 84.44,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0186
+  }
+}

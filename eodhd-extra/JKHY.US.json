@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9901,
+        "totalAssets": 0.0229,
+        "currentShares": 8652967,
+        "change": -108252,
+        "change_p": -1.2356
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4488,
+        "totalAssets": 0.0159,
+        "currentShares": 6097243,
+        "change": -125932,
+        "change_p": -2.0236
+      },
+      "2": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 8.1211,
+        "totalAssets": 2.8704,
+        "currentShares": 5860784,
+        "change": 1275440,
+        "change_p": 27.8156
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.6858,
+        "totalAssets": 0.0212,
+        "currentShares": 4103290,
+        "change": 97140,
+        "change_p": 2.4248
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.4838,
+        "totalAssets": 0.0227,
+        "currentShares": 2514185,
+        "change": -2803679,
+        "change_p": -52.7219
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9476,
+        "totalAssets": 0.0239,
+        "currentShares": 2127231,
+        "change": -28052,
+        "change_p": -1.3015
+      },
+      "6": {
+        "name": "Atlantic Trust Group, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6152,
+        "totalAssets": 0.5822,
+        "currentShares": 1887305,
+        "change": -36,
+        "change_p": -0.0019
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.4953,
+        "totalAssets": 0.0423,
+        "currentShares": 1800777,
+        "change": 155616,
+        "change_p": 9.459
+      },
+      "8": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 2.2166,
+        "totalAssets": 0.0438,
+        "currentShares": 1599660,
+        "change": 1347742,
+        "change_p": 534.9923
+      },
+      "9": {
+        "name": "APG Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 2.1661,
+        "totalAssets": 0.6894,
+        "currentShares": 1563234,
+        "change": -2215687,
+        "change_p": -58.6328
+      },
+      "10": {
+        "name": "Apg All Pensions Group",
+        "date": "2025-12-31",
+        "totalShares": 2.1661,
+        "totalAssets": 0.6894,
+        "currentShares": 1563234,
+        "change": -393105,
+        "change_p": -20.0939
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.8721,
+        "totalAssets": 0.006,
+        "currentShares": 1351058,
+        "change": 916077,
+        "change_p": 210.6016
+      },
+      "12": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.8687,
+        "totalAssets": 0.0382,
+        "currentShares": 1348588,
+        "change": -22681,
+        "change_p": -1.654
+      },
+      "13": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5487,
+        "totalAssets": 0.1518,
+        "currentShares": 1117638,
+        "change": 339440,
+        "change_p": 43.6187
+      },
+      "14": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.5063,
+        "totalAssets": 0.1639,
+        "currentShares": 1087028,
+        "change": -24604,
+        "change_p": -2.2133
+      },
+      "15": {
+        "name": "Mackenzie Investments",
+        "date": "2025-09-30",
+        "totalShares": 1.2969,
+        "totalAssets": 0.1689,
+        "currentShares": 935946,
+        "change": 9059,
+        "change_p": 0.9774
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.1737,
+        "totalAssets": 0.0198,
+        "currentShares": 847002,
+        "change": 364878,
+        "change_p": 75.6814
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0495,
+        "totalAssets": 0.0144,
+        "currentShares": 757392,
+        "change": -20005,
+        "change_p": -2.5733
+      },
+      "18": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.0027,
+        "totalAssets": 0.114,
+        "currentShares": 723625,
+        "change": -46949,
+        "change_p": -6.0927
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9876,
+        "totalAssets": 0.019,
+        "currentShares": 712751,
+        "change": 32468,
+        "change_p": 4.7727
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 3.2579,
+        "totalAssets": 0.9535,
+        "currentShares": 2351133,
+        "change": 2351133,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1683,
+        "totalAssets": 0.0181,
+        "currentShares": 2286492,
+        "change": 4352,
+        "change_p": 0.1907
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5478,
+        "totalAssets": 0.0204,
+        "currentShares": 1838685,
+        "change": -22874,
+        "change_p": -1.2288
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3091,
+        "totalAssets": 0.1585,
+        "currentShares": 1666391,
+        "change": 22814,
+        "change_p": 1.3881
+      },
+      "4": {
+        "name": "Eaton Vance Atlanta Capital SMID-Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.471,
+        "totalAssets": 1.5364,
+        "currentShares": 1061565,
+        "change": 100358,
+        "change_p": 10.4408
+      },
+      "5": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4403,
+        "totalAssets": 0.1926,
+        "currentShares": 1039447,
+        "change": 3013,
+        "change_p": 0.2907
+      },
+      "6": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2929,
+        "totalAssets": 0.374,
+        "currentShares": 933057,
+        "change": 20238,
+        "change_p": 2.2171
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2853,
+        "totalAssets": 0.0204,
+        "currentShares": 927548,
+        "change": -504,
+        "change_p": -0.0543
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2763,
+        "totalAssets": 0.02,
+        "currentShares": 921086,
+        "change": 1515,
+        "change_p": 0.1648
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1668,
+        "totalAssets": 0.0205,
+        "currentShares": 842030,
+        "change": -2058,
+        "change_p": -0.2438
+      },
+      "10": {
+        "name": "Neuberger Genesis Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8368,
+        "totalAssets": 1.2772,
+        "currentShares": 603877,
+        "change": -35092,
+        "change_p": -5.492
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8248,
+        "totalAssets": 0.4549,
+        "currentShares": 595234,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6835,
+        "totalAssets": 0.1615,
+        "currentShares": 493296,
+        "change": 825,
+        "change_p": 0.1675
+      },
+      "13": {
+        "name": "Virtus KAR Small-Cap Core I",
+        "date": "2025-12-31",
+        "totalShares": 0.6145,
+        "totalAssets": 4.3665,
+        "currentShares": 443455,
+        "change": 134232,
+        "change_p": 43.4094
+      },
+      "14": {
+        "name": "Spiltan Globalfond Investmentbolag",
+        "date": "2026-03-31",
+        "totalShares": 0.6085,
+        "totalAssets": 4.2314,
+        "currentShares": 439162,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5643,
+        "totalAssets": 0.0204,
+        "currentShares": 407228,
+        "change": -3302,
+        "change_p": -0.8043
+      },
+      "16": {
+        "name": "Tandem Large Cap Core WRAP",
+        "date": "2026-03-31",
+        "totalShares": 0.56,
+        "totalAssets": 3.332,
+        "currentShares": 404164,
+        "change": -41353,
+        "change_p": -9.282
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.0544,
+        "currentShares": 404076,
+        "change": 4889,
+        "change_p": 1.2247
+      },
+      "18": {
+        "name": "Invesco S&P 500® Low Volatility ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5595,
+        "totalAssets": 0.8742,
+        "currentShares": 403748,
+        "change": -200,
+        "change_p": -0.0495
+      },
+      "19": {
+        "name": "First Trust SMID Cp Rising Div Achv ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5559,
+        "totalAssets": 0.6278,
+        "currentShares": 401198,
+        "change": 78,
+        "change_p": 0.0194
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.6858,
+    "ForwardPE": 21.322,
+    "PriceSalesTTM": 4.4389,
+    "PriceBookMRQ": 4.9333,
+    "EnterpriseValue": 10860189620,
+    "EnterpriseValueRevenue": 4.4066,
+    "EnterpriseValueEbitda": 12.4718
+  },
+  "Highlights": {
+    "MarketCapitalization": 10939803648,
+    "MarketCapitalizationMln": 10939.8036,
+    "EBITDA": 696465984,
+    "PERatio": 21.6858,
+    "PEGRatio": 2.112,
+    "WallStreetTargetPrice": 199.3572,
+    "BookValue": 30.527,
+    "DividendShare": 2.32,
+    "DividendYield": 0.0154,
+    "EarningsShare": 6.97,
+    "EPSEstimateCurrentYear": 6.4686,
+    "EPSEstimateNextYear": 6.993,
+    "EPSEstimateNextQuarter": 1.4686,
+    "EPSEstimateCurrentQuarter": 1.42,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2059,
+    "OperatingMarginTTM": 0.257,
+    "ReturnOnAssetsTTM": 0.1335,
+    "ReturnOnEquityTTM": 0.2428,
+    "RevenueTTM": 2464529920,
+    "RevenuePerShareTTM": 33.913,
+    "QuarterlyRevenueGrowthYOY": 0.079,
+    "GrossProfitTTM": 1080510976,
+    "DilutedEpsTTM": 6.97,
+    "QuarterlyEarningsGrowthYOY": 0.284
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.4,
+    "TotalEsgPercentile": 15.98,
+    "EnvironmentScore": 2.82,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 11.52,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 7.2,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "JKHY",
+    "Type": "Common Stock",
+    "Name": "Jack Henry & Associates Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BMH2Q7",
+    "ISIN": "US4262811015",
+    "LEI": "529900X1QS8C54W0JB21",
+    "PrimaryTicker": "JKHY.US",
+    "CUSIP": "426281101",
+    "CIK": "0000779152",
+    "EmployerIdNumber": "43-1128385",
+    "FiscalYearEnd": "June",
+    "IPODate": "1985-11-20",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Information Technology Services",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Financial Services",
+    "GicSubIndustry": "Transaction & Payment Processing Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Jack Henry & Associates, Inc. operates as a financial technology company that connects people and financial institutions through technology solutions and payment processing services. It operates through four segments: Core, Payments, Complementary, and Corporate and Other. The Core segment provides core information processing platforms to banks and credit unions, which consist of integrated applications required to process deposit, loan, general ledger transactions, and maintain centralized accountholder information. The Payments segment offers secure payment processing tools and services, including ATM, automated clearing house origination and remote deposit capture processing, and risk management products and services, as well as debit and credit card processing services, and online and mobile bill pay solutions. The Complementary segment provides software, and hosted processing platforms and services comprising digital/mobile banking, treasury, online account opening, fraud/anti-money laundering, and lending/deposit solutions. The Corporate and Other segment offers hardware and other products. It offers specialized financial performance, imaging and payment, information security and risk management, retail delivery, and online and mobile solutions to financial services organizations and corporate entities. The company also provides SilverLake system, a system primarily designed for commercial-focused banks; Symitar, a system designed for credit unions; CIF 20/20, a parameter-driven system for banks; and Core Director, a system with point-and-click operation for banks. It provides digital products and services under the Banno Digital Platform, and electronic payment solutions; hardware systems; implementation, training, and support and service solutions; data center solutions; and data and transaction processing, and software licensing and related services, as well as professional services. The company was founded in 1976 and is headquartered in Monett, Missouri.",
+    "Address": "663 West Highway 60, Monett, MO, United States, 65708-8215",
+    "AddressData": {
+      "Street": "663 West Highway 60",
+      "City": "Monett",
+      "State": "MO",
+      "Country": "United States",
+      "ZIP": "65708-8215"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Gregory R. Adelson",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Ms. Mimi L. Carsley",
+        "Title": "CFO & Treasurer",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Shanon G. McLachlan",
+        "Title": "Senior VP, Executive Officer & COO",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Mr. Craig Keith Morgan",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Ms. Renee A. Swearingen",
+        "Title": "Senior VP, Chief Accounting Officer & Assistant Treasurer",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Mr. Benjamin  Metz",
+        "Title": "VP and Chief Digital & Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Dennis  McDonald",
+        "Title": "VP & Chief Information and Security Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Vance  Sherard C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Michael  Carnovali",
+        "Title": "Chief Risk & Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mark  Folk",
+        "Title": "Director of Corporate Communications",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "417 235 6652",
+    "WebURL": "https://www.jackhenry.com",
+    "LogoURL": "/img/logos/US/JKHY.png",
+    "FullTimeEmployees": 7200,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 72167368,
+    "SharesFloat": 71665805,
+    "PercentInsiders": 0.6,
+    "PercentInstitutions": 105.406,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0809
+  }
+}

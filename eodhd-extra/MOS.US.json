@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.6177,
+        "totalAssets": 0.0492,
+        "currentShares": 40061882,
+        "change": 3056031,
+        "change_p": 8.2582
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3221,
+        "totalAssets": 0.0137,
+        "currentShares": 39123171,
+        "change": 461524,
+        "change_p": 1.1938
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0804,
+        "totalAssets": 0.0156,
+        "currentShares": 25655631,
+        "change": 668596,
+        "change_p": 2.6758
+      },
+      "3": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 4.2227,
+        "totalAssets": 0.0678,
+        "currentShares": 13407136,
+        "change": 830985,
+        "change_p": 6.6076
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0738,
+        "totalAssets": 0.0156,
+        "currentShares": 12934562,
+        "change": -121722,
+        "change_p": -0.9323
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.8933,
+        "totalAssets": 0.0502,
+        "currentShares": 9186429,
+        "change": 331739,
+        "change_p": 3.7465
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6706,
+        "totalAssets": 0.0126,
+        "currentShares": 8479395,
+        "change": 63822,
+        "change_p": 0.7584
+      },
+      "7": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4439,
+        "totalAssets": 0.0981,
+        "currentShares": 7759651,
+        "change": -687673,
+        "change_p": -8.1407
+      },
+      "8": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.4257,
+        "totalAssets": 0.0479,
+        "currentShares": 7701610,
+        "change": 3894947,
+        "change_p": 102.3192
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8076,
+        "totalAssets": 0.017,
+        "currentShares": 5739237,
+        "change": 2620930,
+        "change_p": 84.0498
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.639,
+        "totalAssets": 0.0109,
+        "currentShares": 5204015,
+        "change": -136690,
+        "change_p": -2.5594
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4788,
+        "totalAssets": 0.0208,
+        "currentShares": 4695115,
+        "change": 14703,
+        "change_p": 0.3141
+      },
+      "12": {
+        "name": "Donald Smith & Co Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4559,
+        "totalAssets": 2.0859,
+        "currentShares": 4622405,
+        "change": 929329,
+        "change_p": 25.1641
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3483,
+        "totalAssets": 0.011,
+        "currentShares": 4280977,
+        "change": -52496,
+        "change_p": -1.2114
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2148,
+        "totalAssets": 0.0091,
+        "currentShares": 3856963,
+        "change": -246330,
+        "change_p": -6.0032
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1954,
+        "totalAssets": 0.0142,
+        "currentShares": 3795475,
+        "change": 96789,
+        "change_p": 2.6168
+      },
+      "16": {
+        "name": "Squarepoint Ops LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.147,
+        "totalAssets": 0.0934,
+        "currentShares": 3641860,
+        "change": 1572407,
+        "change_p": 75.9818
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0672,
+        "totalAssets": 0.0035,
+        "currentShares": 3388456,
+        "change": 2258759,
+        "change_p": 199.9438
+      },
+      "18": {
+        "name": "BB&T Corp.",
+        "date": "2025-09-30",
+        "totalShares": 1.0198,
+        "totalAssets": 0.1518,
+        "currentShares": 3237903,
+        "change": 1215063,
+        "change_p": 60.0672
+      },
+      "19": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 0.9495,
+        "totalAssets": 0.0398,
+        "currentShares": 3014612,
+        "change": -1496471,
+        "change_p": -33.1732
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.183,
+        "totalAssets": 0.0129,
+        "currentShares": 10106343,
+        "change": 75328,
+        "change_p": 0.751
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5458,
+        "totalAssets": 0.0145,
+        "currentShares": 8083068,
+        "change": -75510,
+        "change_p": -0.9255
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3081,
+        "totalAssets": 0.1125,
+        "currentShares": 7328303,
+        "change": 119708,
+        "change_p": 1.6606
+      },
+      "3": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 2.0343,
+        "totalAssets": 0.0814,
+        "currentShares": 6459163,
+        "change": -138544,
+        "change_p": -2.0999
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.878,
+        "totalAssets": 0.1783,
+        "currentShares": 5962702,
+        "change": 17554,
+        "change_p": 0.2953
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4688,
+        "totalAssets": 0.1958,
+        "currentShares": 4663468,
+        "change": 34106,
+        "change_p": 0.7367
+      },
+      "6": {
+        "name": "Donald Smith & Co. All Eq Accounts Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.4429,
+        "totalAssets": 1.9909,
+        "currentShares": 4581427,
+        "change": 920530,
+        "change_p": 25.1449
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2868,
+        "totalAssets": 0.0145,
+        "currentShares": 4085730,
+        "change": -2220,
+        "change_p": -0.0543
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2722,
+        "totalAssets": 0.015,
+        "currentShares": 4039400,
+        "change": 6638,
+        "change_p": 0.1646
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1657,
+        "totalAssets": 0.0145,
+        "currentShares": 3701003,
+        "change": -9065,
+        "change_p": -0.2443
+      },
+      "10": {
+        "name": "Fidelity Series Value Discovery",
+        "date": "2026-02-28",
+        "totalShares": 0.9291,
+        "totalAssets": 0.5119,
+        "currentShares": 2950100,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "DFA US Small Cap Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.929,
+        "totalAssets": 0.4509,
+        "currentShares": 2949774,
+        "change": 199421,
+        "change_p": 7.2507
+      },
+      "12": {
+        "name": "Fidelity Series Stk Selec Lg Cp Val",
+        "date": "2026-02-28",
+        "totalShares": 0.84,
+        "totalAssets": 0.4752,
+        "currentShares": 2667100,
+        "change": 85500,
+        "change_p": 3.3119
+      },
+      "13": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8258,
+        "totalAssets": 1.0132,
+        "currentShares": 2621994,
+        "change": 109064,
+        "change_p": 4.3401
+      },
+      "14": {
+        "name": "Fidelity Series Large Cap Stock",
+        "date": "2026-02-28",
+        "totalShares": 0.7885,
+        "totalAssets": 0.2717,
+        "currentShares": 2503400,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "FlexShares Mstar Glbl Upstrm Nat Res ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7134,
+        "totalAssets": 0.7672,
+        "currentShares": 2265176,
+        "change": 9064,
+        "change_p": 0.4018
+      },
+      "16": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6921,
+        "totalAssets": 0.4008,
+        "currentShares": 2197518,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Dimensional US Targeted Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5702,
+        "totalAssets": 0.3648,
+        "currentShares": 1810571,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5625,
+        "totalAssets": 0.0144,
+        "currentShares": 1785880,
+        "change": -12840,
+        "change_p": -0.7138
+      },
+      "19": {
+        "name": "DNB Global A",
+        "date": "2026-02-28",
+        "totalShares": 0.5561,
+        "totalAssets": 1.0093,
+        "currentShares": 1765512,
+        "change": 1765512,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 14.1176,
+    "ForwardPE": 17.094,
+    "PriceSalesTTM": 0.6329,
+    "PriceBookMRQ": 0.6386,
+    "EnterpriseValue": 12720216516,
+    "EnterpriseValueRevenue": 1.0554,
+    "EnterpriseValueEbitda": 5.0794
+  },
+  "Highlights": {
+    "MarketCapitalization": 7628319744,
+    "MarketCapitalizationMln": 7628.3197,
+    "EBITDA": 2258299904,
+    "PERatio": 14.1176,
+    "PEGRatio": 1.7099,
+    "WallStreetTargetPrice": 30.8,
+    "BookValue": 38.074,
+    "DividendShare": 0.88,
+    "DividendYield": 0.0362,
+    "EarningsShare": 1.7,
+    "EPSEstimateCurrentYear": 1.547,
+    "EPSEstimateNextYear": 2.4363,
+    "EPSEstimateNextQuarter": 0.4708,
+    "EPSEstimateCurrentQuarter": 0.4681,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0449,
+    "OperatingMarginTTM": 0.0279,
+    "ReturnOnAssetsTTM": 0.0284,
+    "ReturnOnEquityTTM": 0.0482,
+    "RevenueTTM": 12052400128,
+    "RevenuePerShareTTM": 37.984,
+    "QuarterlyRevenueGrowthYOY": 0.056,
+    "GrossProfitTTM": 1901900032,
+    "DilutedEpsTTM": 1.7,
+    "QuarterlyEarningsGrowthYOY": 2.395
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 37.5,
+    "TotalEsgPercentile": 77.08,
+    "EnvironmentScore": 18.72,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 12.39,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 8.89,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MOS",
+    "Type": "Common Stock",
+    "Name": "The Mosaic Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BFXHL6",
+    "ISIN": "US61945C1036",
+    "LEI": "2YD5STGSJNMUB7H76907",
+    "PrimaryTicker": "MOS.US",
+    "CUSIP": "449669100",
+    "CIK": "0001285785",
+    "EmployerIdNumber": "20-1026454",
+    "FiscalYearEnd": "December",
+    "IPODate": "2004-10-25",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Agricultural Inputs",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Fertilizers & Agricultural Chemicals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Mosaic Company, through its subsidiaries, produces and markets concentrated phosphate and potash crop nutrients. It operates in three segments: Phosphates, Potash, and Mosaic Fertilizantes. The company owns and operates mines and production facilities, which produce concentrated phosphate crop nutrients and phosphate-based animal feed ingredients, as well as concentrated phosphate crop nutrients, such as diammonium phosphate, monoammonium phosphate, and MicroEssentials, a value-added ammoniated phosphate product. It also mines, processes, and sells potash to crop nutrient manufacturers, distributors, retailers, and to customers for industrial use; and owns and operates mines, chemical plants, crop nutrient blending and bagging facilities, port terminals and warehouses, which produce and sell concentrated phosphate and potash-based crop nutrients, and phosphate-based animal feed ingredients. In addition, the company produces a double sulfate of potash magnesia product under the K-Mag brand; and purchases phosphate, potash, and nitrogen products to produce blended crop nutrients. Further, it offers triple superphosphate, single superphosphate, and dicalcium phosphate; feed phosphate under the Biofos and Nexfos brands; potash for de-icing and as a water softener regenerant; and phosphogypsum. The company sells its products to wholesale distributors, retail chains, cooperatives, independent retailers, and national accounts through its sales force. It also exports its products. The company operates in the United States, Brazil, China, Canada, Paraguay, Argentina, Japan, Colombia, India, Australia, Peru, Mexico, Honduras, the Dominican Republic, Indonesia, and internationally. The Mosaic Company was incorporated in 1987 and is headquartered in Tampa, Florida.",
+    "Address": "101 East Kennedy Blvd, Tampa, FL, United States, 33602",
+    "AddressData": {
+      "Street": "101 East Kennedy Blvd",
+      "City": "Tampa",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "33602"
+    },
+    "Listings": {
+      "0": {
+        "Code": "02M",
+        "Exchange": "F",
+        "Name": "The Mosaic Company"
+      },
+      "1": {
+        "Code": "02M",
+        "Exchange": "XETRA",
+        "Name": "The Mosaic Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Bruce M. Bodine Jr.",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. Luciano Siani Pires",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Ms. Karen A. Swager",
+        "Title": "Executive Vice President of Operations",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. Walter F. Precourt III",
+        "Title": "Senior VP & Chief Administrative Officer",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Ms. Yijun  Wang",
+        "Title": "Executive Vice President of Commercial",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Russell A. Flugel",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. Paul Abdelmassieh Massoud C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Philip Eugene Bauer",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1973"
+      },
+      "8": {
+        "Name": "Mr. Benjamin James Pratt",
+        "Title": "Senior Vice President of Government & Public Affairs",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Christopher Anthony Lewis",
+        "Title": "Senior Vice President of Human Resources",
+        "YearBorn": "1962"
+      }
+    },
+    "Phone": "800 918 8270",
+    "WebURL": "https://www.mosaicco.com",
+    "LogoURL": "/img/logos/US/MOS.png",
+    "FullTimeEmployees": 13249,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 317846644,
+    "SharesFloat": 315600226,
+    "PercentInsiders": 0.296,
+    "PercentInstitutions": 96.25,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0766
+  }
+}

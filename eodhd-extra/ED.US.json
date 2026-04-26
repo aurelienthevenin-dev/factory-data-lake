@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3869,
+        "totalAssets": 0.0657,
+        "currentShares": 45636041,
+        "change": 461108,
+        "change_p": 1.0207
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 11.1243,
+        "totalAssets": 0.0721,
+        "currentShares": 40984309,
+        "change": -29889,
+        "change_p": -0.0729
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.528,
+        "totalAssets": 0.0838,
+        "currentShares": 24050572,
+        "change": 63346,
+        "change_p": 0.2641
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7111,
+        "totalAssets": 0.061,
+        "currentShares": 9988113,
+        "change": 17294,
+        "change_p": 0.1734
+      },
+      "4": {
+        "name": "Lazard Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6735,
+        "totalAssets": 1.0375,
+        "currentShares": 6165594,
+        "change": 205041,
+        "change_p": 3.44
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.573,
+        "totalAssets": 0.0353,
+        "currentShares": 5795375,
+        "change": 419541,
+        "change_p": 7.8042
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3386,
+        "totalAssets": 0.0524,
+        "currentShares": 4931590,
+        "change": 325535,
+        "change_p": 7.0675
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2721,
+        "totalAssets": 0.0504,
+        "currentShares": 4686662,
+        "change": 344561,
+        "change_p": 7.9354
+      },
+      "8": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2259,
+        "totalAssets": 0.0986,
+        "currentShares": 4516607,
+        "change": -839234,
+        "change_p": -15.6695
+      },
+      "9": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1942,
+        "totalAssets": 0.0969,
+        "currentShares": 4399844,
+        "change": 48314,
+        "change_p": 1.1103
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1207,
+        "totalAssets": 0.0531,
+        "currentShares": 4128793,
+        "change": 57365,
+        "change_p": 1.409
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9944,
+        "totalAssets": 0.011,
+        "currentShares": 3663512,
+        "change": 1868753,
+        "change_p": 104.1228
+      },
+      "12": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9819,
+        "totalAssets": 0.117,
+        "currentShares": 3617361,
+        "change": 1820877,
+        "change_p": 101.3578
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9726,
+        "totalAssets": 0.0568,
+        "currentShares": 3583423,
+        "change": 179278,
+        "change_p": 5.2665
+      },
+      "14": {
+        "name": "ATLAS Infrastructure Partners (UK) Ltd",
+        "date": "2025-12-31",
+        "totalShares": 0.7712,
+        "totalAssets": 14.15,
+        "currentShares": 2841409,
+        "change": 214649,
+        "change_p": 8.1716
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7638,
+        "totalAssets": 0.0343,
+        "currentShares": 2813890,
+        "change": 557021,
+        "change_p": 24.6811
+      },
+      "16": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7054,
+        "totalAssets": 0.1354,
+        "currentShares": 2598941,
+        "change": 693263,
+        "change_p": 36.3788
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6552,
+        "totalAssets": 0.0373,
+        "currentShares": 2413914,
+        "change": 19946,
+        "change_p": 0.8332
+      },
+      "18": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.6322,
+        "totalAssets": 0.0629,
+        "currentShares": 2329335,
+        "change": 612854,
+        "change_p": 35.7041
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6213,
+        "totalAssets": 0.0413,
+        "currentShares": 2288918,
+        "change": 45110,
+        "change_p": 2.0104
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1187,
+        "totalAssets": 0.0651,
+        "currentShares": 11489960,
+        "change": 74290,
+        "change_p": 0.6508
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4946,
+        "totalAssets": 0.0731,
+        "currentShares": 9190677,
+        "change": -93262,
+        "change_p": -1.0046
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1182,
+        "totalAssets": 0.4445,
+        "currentShares": 7804013,
+        "change": -40810,
+        "change_p": -0.5202
+      },
+      "3": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.669,
+        "totalAssets": 2.8655,
+        "currentShares": 6148886,
+        "change": -5247,
+        "change_p": -0.0853
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2591,
+        "totalAssets": 0.0729,
+        "currentShares": 4638966,
+        "change": -2520,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2468,
+        "totalAssets": 0.069,
+        "currentShares": 4593377,
+        "change": 7588,
+        "change_p": 0.1655
+      },
+      "6": {
+        "name": "Lazard Global Listed Infrastructure Open",
+        "date": "2026-03-31",
+        "totalShares": 1.1769,
+        "totalAssets": 4.0623,
+        "currentShares": 4335930,
+        "change": 469690,
+        "change_p": 12.1485
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1384,
+        "totalAssets": 0.073,
+        "currentShares": 4194104,
+        "change": -10290,
+        "change_p": -0.2447
+      },
+      "8": {
+        "name": "Lazard Glbl Listed Infrastruct USD Hedge",
+        "date": "2025-12-31",
+        "totalShares": 1.0494,
+        "totalAssets": 3.4369,
+        "currentShares": 3866240,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9062,
+        "totalAssets": 0.1674,
+        "currentShares": 3338730,
+        "change": -21148,
+        "change_p": -0.6294
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7868,
+        "totalAssets": 1.5865,
+        "currentShares": 2898798,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "iShares MSCI USA Min Vol Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7516,
+        "totalAssets": 1.391,
+        "currentShares": 2769131,
+        "change": -3417,
+        "change_p": -0.1232
+      },
+      "12": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6749,
+        "totalAssets": 2.5948,
+        "currentShares": 2486323,
+        "change": 28079,
+        "change_p": 1.1422
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6378,
+        "totalAssets": 0.7655,
+        "currentShares": 2349882,
+        "change": 97109,
+        "change_p": 4.3106
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5523,
+        "totalAssets": 0.073,
+        "currentShares": 2034874,
+        "change": -8632,
+        "change_p": -0.4224
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.523,
+        "totalAssets": 0.0722,
+        "currentShares": 1926747,
+        "change": 2700,
+        "change_p": 0.1403
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4425,
+        "totalAssets": 0.0728,
+        "currentShares": 1630253,
+        "change": 9374,
+        "change_p": 0.5783
+      },
+      "17": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.4319,
+        "totalAssets": 1.6308,
+        "currentShares": 1591284,
+        "change": -757,
+        "change_p": -0.0475
+      },
+      "18": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4218,
+        "totalAssets": 0.2062,
+        "currentShares": 1553860,
+        "change": 4585,
+        "change_p": 0.2959
+      },
+      "19": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4175,
+        "totalAssets": 1.0322,
+        "currentShares": 1538069,
+        "change": 266529,
+        "change_p": 20.9611
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.5448,
+    "ForwardPE": 18.0832,
+    "PriceSalesTTM": 2.375,
+    "PriceBookMRQ": 1.6791,
+    "EnterpriseValue": 67365442371,
+    "EnterpriseValueRevenue": 3.9819,
+    "EnterpriseValueEbitda": 10.952
+  },
+  "Highlights": {
+    "MarketCapitalization": 40180019200,
+    "MarketCapitalizationMln": 40180.0192,
+    "EBITDA": 6022000128,
+    "PERatio": 19.5448,
+    "PEGRatio": 2.6215,
+    "WallStreetTargetPrice": 111.625,
+    "BookValue": 66.986,
+    "DividendShare": 3.4,
+    "DividendYield": 0.0308,
+    "EarningsShare": 5.58,
+    "EPSEstimateCurrentYear": 6.1025,
+    "EPSEstimateNextYear": 6.4921,
+    "EPSEstimateNextQuarter": 2.1785,
+    "EPSEstimateCurrentQuarter": 0.8604,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1196,
+    "OperatingMarginTTM": 0.178,
+    "ReturnOnAssetsTTM": 0.0319,
+    "ReturnOnEquityTTM": 0.0877,
+    "RevenueTTM": 16917999616,
+    "RevenuePerShareTTM": 47.336,
+    "QuarterlyRevenueGrowthYOY": 0.089,
+    "GrossProfitTTM": 9009000448,
+    "DilutedEpsTTM": 5.58,
+    "QuarterlyEarningsGrowthYOY": -0.083
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.49,
+    "TotalEsgPercentile": 52.48,
+    "EnvironmentScore": 11.17,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 20.03,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 10.29,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ED",
+    "Type": "Common Stock",
+    "Name": "Consolidated Edison Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BHLYS1",
+    "ISIN": "US2091151041",
+    "LEI": "54930033SBW53OO8T749",
+    "PrimaryTicker": "ED.US",
+    "CUSIP": "209111103",
+    "CIK": "0001047862",
+    "EmployerIdNumber": "13-3965100",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Multi-Utilities",
+    "GicSubIndustry": "Multi-Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Consolidated Edison, Inc., through its subsidiaries, engages in the regulated electric, gas, and steam delivery businesses in the United States. The company offers electric services to approximately 3.7 million customers in New York City and Westchester County; gas to approximately 1.1 million customers in Manhattan, the Bronx, parts of Queens, and Westchester County; and steam to approximately 1,490 customers in parts of Manhattan. It also supplies electricity to approximately 0.3 million customers in southeastern New York and northern New Jersey; and gas to approximately 0.1 million customers in southeastern New York. In addition, the company operates 552 circuit miles of transmission lines; 16 transmission substations; 63 distribution substations; 89,675 in-service line transformers; 3,764 pole miles of overhead distribution lines; and 2,417 miles of underground distribution lines, as well as 4,374 miles of mains and 379, 939 service lines for natural gas distribution. Further, it invests in electric and gas transmission projects. The company primarily sells electricity to industrial, commercial, residential, and government customers. Consolidated Edison, Inc. was founded in 1823 and is based in New York, New York.",
+    "Address": "4 Irving Place, New York, NY, United States, 10003",
+    "AddressData": {
+      "Street": "4 Irving Place",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10003"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timothy P. Cawley",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Kirkland B. Andrews",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Kamran  Ziaee",
+        "Title": "SVP & Chief Information Officer",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Ms. Deneen Lynette Donnley J.D.",
+        "Title": "Senior VP & General Counsel",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Matthew  Ketschke",
+        "Title": "President of Consolidated Edison Company of New York, Inc.",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Joseph  Miller",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Ms. Yukari  Saegusa",
+        "Title": "VP, Treasurer & Investor Relations",
+        "YearBorn": "1968"
+      },
+      "7": {
+        "Name": "Mr. Robert  Sanchez",
+        "Title": "President of Shared Services of Con Edison of New York",
+        "YearBorn": "1966"
+      },
+      "8": {
+        "Name": "Ms. Sylvia V. Dooley",
+        "Title": "VP & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Stuart  Nachmias",
+        "Title": "President & CEO of Con Edison Transmission, Inc.",
+        "YearBorn": "1965"
+      }
+    },
+    "Phone": "212 460 4600",
+    "WebURL": "https://www.conedison.com",
+    "LogoURL": "/img/logos/US/ed.png",
+    "FullTimeEmployees": 15407,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 368421246,
+    "SharesFloat": 360633317,
+    "PercentInsiders": 0.179,
+    "PercentInstitutions": 72.775,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0294
+  }
+}

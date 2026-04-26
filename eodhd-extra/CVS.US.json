@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4186,
+        "totalAssets": 0.1389,
+        "currentShares": 120709530,
+        "change": 1824424,
+        "change_p": 1.5346
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3505,
+        "totalAssets": 0.1582,
+        "currentShares": 119836144,
+        "change": -2850536,
+        "change_p": -2.3234
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.5049,
+        "totalAssets": 0.1593,
+        "currentShares": 70550472,
+        "change": 43673491,
+        "change_p": 162.494
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.2795,
+        "totalAssets": 0.7303,
+        "currentShares": 67662911,
+        "change": -719247,
+        "change_p": -1.0518
+      },
+      "4": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 4.8775,
+        "totalAssets": 2.6778,
+        "currentShares": 62509988,
+        "change": -10666598,
+        "change_p": -14.5765
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5988,
+        "totalAssets": 0.1541,
+        "currentShares": 58938286,
+        "change": 149701,
+        "change_p": 0.2546
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.2005,
+        "totalAssets": 0.166,
+        "currentShares": 41017981,
+        "change": -2317280,
+        "change_p": -5.3473
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2659,
+        "totalAssets": 0.1416,
+        "currentShares": 29040271,
+        "change": 52506,
+        "change_p": 0.1811
+      },
+      "8": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.153,
+        "totalAssets": 0.3432,
+        "currentShares": 27592356,
+        "change": 900153,
+        "change_p": 3.3723
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8955,
+        "totalAssets": 0.2885,
+        "currentShares": 24293058,
+        "change": 760579,
+        "change_p": 3.232
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6383,
+        "totalAssets": 0.1783,
+        "currentShares": 20996288,
+        "change": 1299301,
+        "change_p": 6.5964
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4952,
+        "totalAssets": 0.0875,
+        "currentShares": 19162143,
+        "change": 1845978,
+        "change_p": 10.6604
+      },
+      "12": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.4485,
+        "totalAssets": 0.2582,
+        "currentShares": 18564392,
+        "change": 12233675,
+        "change_p": 193.2431
+      },
+      "13": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3575,
+        "totalAssets": 0.1403,
+        "currentShares": 17397735,
+        "change": 784591,
+        "change_p": 4.7227
+      },
+      "14": {
+        "name": "Pzena Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2158,
+        "totalAssets": 3.7018,
+        "currentShares": 15581307,
+        "change": -263665,
+        "change_p": -1.664
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0812,
+        "totalAssets": 0.1709,
+        "currentShares": 13857346,
+        "change": -83285,
+        "change_p": -0.5974
+      },
+      "16": {
+        "name": "Davis Selected Advisers",
+        "date": "2025-12-31",
+        "totalShares": 0.9957,
+        "totalAssets": 4.5515,
+        "currentShares": 12760511,
+        "change": 1356870,
+        "change_p": 11.8986
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9498,
+        "totalAssets": 0.1174,
+        "currentShares": 12173218,
+        "change": -3129,
+        "change_p": -0.0257
+      },
+      "18": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.9397,
+        "totalAssets": 0.1764,
+        "currentShares": 12043423,
+        "change": 574173,
+        "change_p": 5.0062
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8094,
+        "totalAssets": 0.053,
+        "currentShares": 10373682,
+        "change": 615392,
+        "change_p": 6.3064
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 3.2657,
+        "totalAssets": 2.7754,
+        "currentShares": 41853204,
+        "change": -6369690,
+        "change_p": -13.2089
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.154,
+        "totalAssets": 0.1454,
+        "currentShares": 40422383,
+        "change": 278412,
+        "change_p": 0.6935
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5278,
+        "totalAssets": 0.1635,
+        "currentShares": 32396404,
+        "change": -255687,
+        "change_p": -0.7831
+      },
+      "3": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.4761,
+        "totalAssets": 1.143,
+        "currentShares": 31734083,
+        "change": 1064204,
+        "change_p": 3.4699
+      },
+      "4": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.3931,
+        "totalAssets": 1.169,
+        "currentShares": 30669879,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.8487,
+        "totalAssets": 1.2017,
+        "currentShares": 23692996,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.4455,
+        "totalAssets": 0.5047,
+        "currentShares": 18524992,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2753,
+        "totalAssets": 0.163,
+        "currentShares": 16344107,
+        "change": -8892,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2605,
+        "totalAssets": 0.1723,
+        "currentShares": 16155114,
+        "change": 26631,
+        "change_p": 0.1651
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1506,
+        "totalAssets": 0.1629,
+        "currentShares": 14746371,
+        "change": -36260,
+        "change_p": -0.2453
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9175,
+        "totalAssets": 0.3742,
+        "currentShares": 11758165,
+        "change": -75311,
+        "change_p": -0.6364
+      },
+      "11": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8748,
+        "totalAssets": 0.7367,
+        "currentShares": 11210986,
+        "change": 890970,
+        "change_p": 8.6334
+      },
+      "12": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8052,
+        "totalAssets": 0.7344,
+        "currentShares": 10320016,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7255,
+        "totalAssets": 1.7196,
+        "currentShares": 9298534,
+        "change": 28192,
+        "change_p": 0.3041
+      },
+      "14": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.6633,
+        "totalAssets": 0.3966,
+        "currentShares": 8500940,
+        "change": 888515,
+        "change_p": 11.6719
+      },
+      "15": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.594,
+        "totalAssets": 0.3734,
+        "currentShares": 7612425,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5645,
+        "totalAssets": 1.4483,
+        "currentShares": 7234835,
+        "change": 7234835,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5593,
+        "totalAssets": 0.1631,
+        "currentShares": 7167412,
+        "change": -24694,
+        "change_p": -0.3433
+      },
+      "18": {
+        "name": "Six Circles U.S. Unconstrained Equity",
+        "date": "2025-09-30",
+        "totalShares": 0.5478,
+        "totalAssets": 1.7395,
+        "currentShares": 7020738,
+        "change": 317182,
+        "change_p": 4.7315
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5299,
+        "totalAssets": 0.1614,
+        "currentShares": 6791245,
+        "change": 24300,
+        "change_p": 0.3591
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 56.0719,
+    "ForwardPE": 11.0132,
+    "PriceSalesTTM": 0.2498,
+    "PriceBookMRQ": 1.3437,
+    "EnterpriseValue": 169240247169,
+    "EnterpriseValueRevenue": 0.4239,
+    "EnterpriseValueEbitda": 17.2822
+  },
+  "Highlights": {
+    "MarketCapitalization": 99888242688,
+    "MarketCapitalizationMln": 99888.2427,
+    "EBITDA": 14625000448,
+    "PERatio": 56.0719,
+    "PEGRatio": 0.2285,
+    "WallStreetTargetPrice": 96.5769,
+    "BookValue": 59.177,
+    "DividendShare": 2.66,
+    "DividendYield": 0.0337,
+    "EarningsShare": 1.39,
+    "EPSEstimateCurrentYear": 7.1609,
+    "EPSEstimateNextYear": 8.1824,
+    "EPSEstimateNextQuarter": 2.2518,
+    "EPSEstimateCurrentQuarter": 0.9966,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0044,
+    "OperatingMarginTTM": 0.0157,
+    "ReturnOnAssetsTTM": 0.0247,
+    "ReturnOnEquityTTM": 0.0229,
+    "RevenueTTM": 399833989120,
+    "RevenuePerShareTTM": 315.575,
+    "QuarterlyRevenueGrowthYOY": 0.084,
+    "GrossProfitTTM": 53128998912,
+    "DilutedEpsTTM": 1.39,
+    "QuarterlyEarningsGrowthYOY": 0.766
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.73,
+    "TotalEsgPercentile": 18.84,
+    "EnvironmentScore": 1.92,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 9.06,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 2.75,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CVS",
+    "Type": "Common Stock",
+    "Name": "CVS Health Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BGRY34",
+    "ISIN": "US1266501006",
+    "LEI": "549300EJG376EN5NQE29",
+    "PrimaryTicker": "CVS.US",
+    "CUSIP": "585745102",
+    "CIK": "0000064803",
+    "EmployerIdNumber": "05-0494040",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-12-17",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Health Care Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "CVS Health Corporation provides health solutions in the United States. The company operates through Health Care Benefits, Health Services, and Pharmacy & Consumer Wellness segments. The Health Care Benefits segment offers traditional, voluntary, and consumer-directed health insurance products and related services, including medical, pharmacy, dental and behavioral health plans, medical management capabilities, Medicare Advantage and Medicare Supplement plans, PDPS and Medicaid health care management services. It serves employer groups, individuals, college students, part-time and hourly workers, health plans, health care providers, governmental units, government-sponsored plans, labor groups, and expatriates. The Health Services segment offers pharmacy benefit management solutions, including plan design and administration, formulary management, retail pharmacy network management, specialty and mail order pharmacy, clinical, disease management, medical spend management services, pharmacy and other administrative services. It serves employers, insurance companies, unions, government employee groups, health plans, PDPS, Medicaid managed care plans, CMS, plans offered on public health insurance, and other sponsors of health benefit plans. The Pharmacy & Consumer Wellness segment sells prescription and over-the-counter drugs, consumer health and beauty products, personal care products, and other general merchandise products. This segment also distributes prescription drugs; and provides related pharmacy consulting and other ancillary services to care facilities and other care settings. It operates online retail pharmacy websites, retail specialty pharmacy stores, compounding pharmacies and branches for infusion and enteral nutrition services. The company was formerly known as CVS Caremark Corporation and changed its name to CVS Health Corporation in September 2014. CVS Health Corporation was founded in 1963 and is headquartered in Woonsocket, Rhode Island.",
+    "Address": "One CVS Drive, Woonsocket, RI, United States, 02895",
+    "AddressData": {
+      "Street": "One CVS Drive",
+      "City": "Woonsocket",
+      "State": "RI",
+      "Country": "United States",
+      "ZIP": "02895"
+    },
+    "Listings": {
+      "0": {
+        "Code": "CVSH34",
+        "Exchange": "SA",
+        "Name": "CVS Health Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. J. David Joyner CEBS",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Brian O. Newman",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Tilak  Mandadi",
+        "Title": "EVP of Ventures and Chief Experience & Technology Officer",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Prem S. Shah Pharm.D",
+        "Title": "Executive VP & Group President",
+        "YearBorn": "1980"
+      },
+      "4": {
+        "Name": "Mr. Steven Hale Nelson M.B.A.",
+        "Title": "Executive VP & President of Aetna",
+        "YearBorn": "1959"
+      },
+      "5": {
+        "Name": "Mr. James David Clark",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. David A. Falkowski",
+        "Title": "Executive VP & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Samrat S. Khichi Esq.",
+        "Title": "Executive VP, Chief Policy Officer & General Counsel",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Ms. Heidi B. Capozzi",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1970"
+      },
+      "9": {
+        "Name": "Mr. Roger N. Farah",
+        "Title": "Executive Director",
+        "YearBorn": "1953"
+      }
+    },
+    "Phone": "401 765 1500",
+    "WebURL": "https://www.cvshealth.com",
+    "LogoURL": "/img/logos/US/cvs.png",
+    "FullTimeEmployees": 219000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1281604403,
+    "SharesFloat": 1269615752,
+    "PercentInsiders": 0.068,
+    "PercentInstitutions": 90.304,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0144
+  }
+}

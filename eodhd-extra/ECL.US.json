@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.968,
+        "totalAssets": 0.0964,
+        "currentShares": 25327693,
+        "change": 137578,
+        "change_p": 0.5462
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0175,
+        "totalAssets": 0.1086,
+        "currentShares": 22643410,
+        "change": 756267,
+        "change_p": 3.4553
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.597,
+        "totalAssets": 0.1065,
+        "currentShares": 12983126,
+        "change": 9381038,
+        "change_p": 260.4333
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9676,
+        "totalAssets": 0.1067,
+        "currentShares": 11205525,
+        "change": 1574,
+        "change_p": 0.014
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.6348,
+        "totalAssets": 0.1234,
+        "currentShares": 7441337,
+        "change": 220412,
+        "change_p": 3.0524
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9953,
+        "totalAssets": 0.0909,
+        "currentShares": 5635339,
+        "change": 46569,
+        "change_p": 0.8333
+      },
+      "6": {
+        "name": "Gates Bill & Melinda Foundation",
+        "date": "2025-12-31",
+        "totalShares": 1.8476,
+        "totalAssets": 3.874,
+        "currentShares": 5218044,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.3789,
+        "totalAssets": 0.139,
+        "currentShares": 3894309,
+        "change": 3894309,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3769,
+        "totalAssets": 2.0434,
+        "currentShares": 3888572,
+        "change": -182837,
+        "change_p": -4.4908
+      },
+      "9": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.3668,
+        "totalAssets": 0.9836,
+        "currentShares": 3860283,
+        "change": 202449,
+        "change_p": 5.5347
+      },
+      "10": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.2829,
+        "totalAssets": 0.1626,
+        "currentShares": 3623117,
+        "change": -3447955,
+        "change_p": -48.7614
+      },
+      "11": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2137,
+        "totalAssets": 0.2038,
+        "currentShares": 3427725,
+        "change": -597300,
+        "change_p": -14.8397
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1876,
+        "totalAssets": 0.0942,
+        "currentShares": 3354053,
+        "change": 208478,
+        "change_p": 6.6277
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0366,
+        "totalAssets": 0.1026,
+        "currentShares": 2927743,
+        "change": -129350,
+        "change_p": -4.2311
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9386,
+        "totalAssets": 0.181,
+        "currentShares": 2650916,
+        "change": -131915,
+        "change_p": -4.7403
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9336,
+        "totalAssets": 0.1138,
+        "currentShares": 2636762,
+        "change": -65390,
+        "change_p": -2.4199
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8704,
+        "totalAssets": 0.0457,
+        "currentShares": 2458141,
+        "change": -64763,
+        "change_p": -2.567
+      },
+      "17": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.8229,
+        "totalAssets": 0.1658,
+        "currentShares": 2323961,
+        "change": 34658,
+        "change_p": 1.5139
+      },
+      "18": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 0.8109,
+        "totalAssets": 0.5193,
+        "currentShares": 2290268,
+        "change": -50393,
+        "change_p": -2.1529
+      },
+      "19": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7732,
+        "totalAssets": 0.064,
+        "currentShares": 2183826,
+        "change": 1718268,
+        "change_p": 369.0771
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8536,
+        "totalAssets": 0.1074,
+        "currentShares": 8059379,
+        "change": -508,
+        "change_p": -0.0063
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2985,
+        "totalAssets": 0.1214,
+        "currentShares": 6491399,
+        "change": -64490,
+        "change_p": -0.9837
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1604,
+        "totalAssets": 0.1211,
+        "currentShares": 3277146,
+        "change": -1788,
+        "change_p": -0.0545
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1487,
+        "totalAssets": 0.1335,
+        "currentShares": 3244077,
+        "change": 5346,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0473,
+        "totalAssets": 0.121,
+        "currentShares": 2957886,
+        "change": -7252,
+        "change_p": -0.2446
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0125,
+        "totalAssets": 0.2394,
+        "currentShares": 2859511,
+        "change": -89068,
+        "change_p": -3.0207
+      },
+      "6": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7497,
+        "totalAssets": 0.3416,
+        "currentShares": 2117394,
+        "change": 2117394,
+        "change_p": 0
+      },
+      "7": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6468,
+        "totalAssets": 1.1098,
+        "currentShares": 1826653,
+        "change": 1003,
+        "change_p": 0.0549
+      },
+      "8": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5147,
+        "totalAssets": 0.3538,
+        "currentShares": 1453559,
+        "change": 725558,
+        "change_p": 99.6644
+      },
+      "9": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.5132,
+        "totalAssets": 0.4406,
+        "currentShares": 1449332,
+        "change": 193006,
+        "change_p": 15.3627
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5085,
+        "totalAssets": 0.1211,
+        "currentShares": 1436250,
+        "change": -7293,
+        "change_p": -0.5052
+      },
+      "11": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5054,
+        "totalAssets": 0.3235,
+        "currentShares": 1427283,
+        "change": 22528,
+        "change_p": 1.6037
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4818,
+        "totalAssets": 0.1198,
+        "currentShares": 1360736,
+        "change": 1880,
+        "change_p": 0.1384
+      },
+      "13": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.4448,
+        "totalAssets": 0.3426,
+        "currentShares": 1256326,
+        "change": -91637,
+        "change_p": -6.7982
+      },
+      "14": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 0.4382,
+        "totalAssets": 1.276,
+        "currentShares": 1237500,
+        "change": -67500,
+        "change_p": -5.1724
+      },
+      "15": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4373,
+        "totalAssets": 0.5109,
+        "currentShares": 1235000,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4077,
+        "totalAssets": 0.1209,
+        "currentShares": 1151359,
+        "change": 6606,
+        "change_p": 0.5771
+      },
+      "17": {
+        "name": "Pictet-Water I EUR",
+        "date": "2025-12-31",
+        "totalShares": 0.393,
+        "totalAssets": 3.5295,
+        "currentShares": 1110050,
+        "change": -67889,
+        "change_p": -5.7634
+      },
+      "18": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3761,
+        "totalAssets": 4.2815,
+        "currentShares": 1062070,
+        "change": 44127,
+        "change_p": 4.3349
+      },
+      "19": {
+        "name": "Folksam LO Världen",
+        "date": "2026-03-31",
+        "totalShares": 0.3757,
+        "totalAssets": 1.9171,
+        "currentShares": 1061016,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.0179,
+    "ForwardPE": 31.8471,
+    "PriceSalesTTM": 4.7329,
+    "PriceBookMRQ": 7.8462,
+    "EnterpriseValue": 85015231823,
+    "EnterpriseValueRevenue": 5.2866,
+    "EnterpriseValueEbitda": 22.1943
+  },
+  "Highlights": {
+    "MarketCapitalization": 76110381056,
+    "MarketCapitalizationMln": 76110.3811,
+    "EBITDA": 3928000000,
+    "PERatio": 37.0179,
+    "PEGRatio": 2.5057,
+    "WallStreetTargetPrice": 318.9524,
+    "BookValue": 34.645,
+    "DividendShare": 2.68,
+    "DividendYield": 0.0099,
+    "EarningsShare": 7.28,
+    "EPSEstimateCurrentYear": 8.4416,
+    "EPSEstimateNextYear": 9.6912,
+    "EPSEstimateNextQuarter": 1.694,
+    "EPSEstimateCurrentQuarter": 2.0667,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1291,
+    "OperatingMarginTTM": 0.1905,
+    "ReturnOnAssetsTTM": 0.0784,
+    "ReturnOnEquityTTM": 0.2252,
+    "RevenueTTM": 16081200128,
+    "RevenuePerShareTTM": 56.764,
+    "QuarterlyRevenueGrowthYOY": 0.048,
+    "GrossProfitTTM": 7158099968,
+    "DilutedEpsTTM": 7.28,
+    "QuarterlyEarningsGrowthYOY": 0.202
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.82,
+    "TotalEsgPercentile": 41.75,
+    "EnvironmentScore": 7.58,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 7.64,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 3.09,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ECL",
+    "Type": "Common Stock",
+    "Name": "Ecolab Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BHKYH4",
+    "ISIN": "US2788651006",
+    "LEI": "82DYEISM090VG8LTLS26",
+    "PrimaryTicker": "ECL.US",
+    "CUSIP": "278865100",
+    "CIK": "0000031462",
+    "EmployerIdNumber": "41-0231510",
+    "FiscalYearEnd": "December",
+    "IPODate": "1988-01-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Specialty Chemicals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ecolab Inc. provides water, hygiene, and infection prevention solutions and services in the United States and internationally. The company operates through four segments: Global Water, Global Institutional & Specialty, Global Pest Elimination, and Global Life Sciences. The Global Water segment offers water treatment and process applications, and cleaning and sanitizing solutions to manufacturing, food and beverage processing, transportation, chemical, primary metals and mining, power generation, global refining, petrochemical, pulp and paper industries. The Global Institutional & Specialty segment provides cleaning and sanitizing products to the foodservice, healthcare, hospitality, lodging, government, education and retail industries. The Global Pest Elimination segment provides pest elimination services to detect, prevent, and eliminate pests comprising rodents and insects in full-service and quick-service restaurants, food and beverage processors, hotels, grocery operations, and other commercial segments, including education, life sciences, and healthcare. The Global Life Sciences segment provides cleaning and contamination control solutions to pharmaceutical and personal care manufacturers. It offers its products under the Ecolab, Kay, Purolite, and Bioquell brand names. The company sells its products through field sales and corporate account personnel, distributors, and dealers. Ecolab Inc. was founded in 1923 and is headquartered in Saint Paul, Minnesota.",
+    "Address": "1 Ecolab Place, Saint Paul, MN, United States, 55102-2233",
+    "AddressData": {
+      "Street": "1 Ecolab Place",
+      "City": "Saint Paul",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55102-2233"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christophe  Beck",
+        "Title": "CEO, President & Chairman of the Board",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Scott D. Kirkland",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Ms. Margeaux M. King",
+        "Title": "Executive Vice President of Human Resources",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. Darrell R. Brown",
+        "Title": "Co-Chief Operating Officer of Global Markets",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Gregory Russell B. Cook",
+        "Title": "Co-Chief Operating Officer of Global Businesses",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Dr. Dan D. LeCloux",
+        "Title": "Executive VP & Chief Technical Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Andrew C. Hedberg",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Jandeen M. Boone J.D.",
+        "Title": "Executive VP, General Counsel, Secretary & Interim Chief Compliance Officer",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Ms. Chris  Leong",
+        "Title": "Executive VP and Chief Marketing & Innovation Officer",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Nicholas J. Alfano",
+        "Title": "Executive VP & President of Global Industrial Group",
+        "YearBorn": "1962"
+      }
+    },
+    "Phone": "800 232 6522",
+    "WebURL": "https://www.ecolab.com",
+    "LogoURL": "/img/logos/US/ECL.png",
+    "FullTimeEmployees": 48000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 282423768,
+    "SharesFloat": 281382952,
+    "PercentInsiders": 0.152,
+    "PercentInstitutions": 93.987,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0134
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.7294,
+        "totalAssets": 0.0779,
+        "currentShares": 25009288,
+        "change": 3210232,
+        "change_p": 14.7265
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6397,
+        "totalAssets": 0.0828,
+        "currentShares": 19637738,
+        "change": 866354,
+        "change_p": 4.6153
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.7637,
+        "totalAssets": 0.0808,
+        "currentShares": 9674568,
+        "change": 74052,
+        "change_p": 0.7713
+      },
+      "3": {
+        "name": "Eagle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9471,
+        "totalAssets": 5.0671,
+        "currentShares": 7575368,
+        "change": -88934,
+        "change_p": -1.1604
+      },
+      "4": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6289,
+        "totalAssets": 4.3352,
+        "currentShares": 6757472,
+        "change": 914981,
+        "change_p": 15.6608
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9809,
+        "totalAssets": 0.0673,
+        "currentShares": 5091926,
+        "change": 75922,
+        "change_p": 1.5136
+      },
+      "6": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.8933,
+        "totalAssets": 0.4134,
+        "currentShares": 4866633,
+        "change": 819381,
+        "change_p": 20.2454
+      },
+      "7": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6879,
+        "totalAssets": 1.64,
+        "currentShares": 4338773,
+        "change": 2028085,
+        "change_p": 87.7697
+      },
+      "8": {
+        "name": "Generation Investment Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.602,
+        "totalAssets": 6.1348,
+        "currentShares": 4118011,
+        "change": 1030616,
+        "change_p": 33.3814
+      },
+      "9": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4634,
+        "totalAssets": 0.1966,
+        "currentShares": 3761599,
+        "change": 1103421,
+        "change_p": 41.5104
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3418,
+        "totalAssets": 0.0563,
+        "currentShares": 3448956,
+        "change": -496593,
+        "change_p": -12.5862
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2415,
+        "totalAssets": 0.0465,
+        "currentShares": 3191219,
+        "change": 332575,
+        "change_p": 11.634
+      },
+      "12": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.1924,
+        "totalAssets": 0.1156,
+        "currentShares": 3064953,
+        "change": 2150538,
+        "change_p": 235.1818
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1534,
+        "totalAssets": 0.0214,
+        "currentShares": 2964834,
+        "change": 1206031,
+        "change_p": 68.5711
+      },
+      "14": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 1.0787,
+        "totalAssets": 0.4893,
+        "currentShares": 2772669,
+        "change": 116125,
+        "change_p": 4.3713
+      },
+      "15": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.0771,
+        "totalAssets": 0.4451,
+        "currentShares": 2768628,
+        "change": -452670,
+        "change_p": -14.0524
+      },
+      "16": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.0037,
+        "totalAssets": 0.5378,
+        "currentShares": 2580075,
+        "change": 257621,
+        "change_p": 11.0926
+      },
+      "17": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.9695,
+        "totalAssets": 0.2739,
+        "currentShares": 2492084,
+        "change": 2319394,
+        "change_p": 1343.0969
+      },
+      "18": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.928,
+        "totalAssets": 0.0905,
+        "currentShares": 2385497,
+        "change": 198360,
+        "change_p": 9.0694
+      },
+      "19": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.8923,
+        "totalAssets": 0.1197,
+        "currentShares": 2293548,
+        "change": 1458689,
+        "change_p": 174.7228
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.629,
+        "totalAssets": 0.044,
+        "currentShares": 6757832,
+        "change": 23870,
+        "change_p": 0.3545
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1099,
+        "totalAssets": 0.0495,
+        "currentShares": 5423371,
+        "change": -158095,
+        "change_p": -2.8325
+      },
+      "2": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 2.0739,
+        "totalAssets": 0.9051,
+        "currentShares": 5330868,
+        "change": 1391861,
+        "change_p": 35.3353
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.7901,
+        "totalAssets": 0.3008,
+        "currentShares": 4601439,
+        "change": 2286703,
+        "change_p": 98.7889
+      },
+      "4": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 1.7405,
+        "totalAssets": 0.1566,
+        "currentShares": 4474032,
+        "change": -14964,
+        "change_p": -0.3333
+      },
+      "5": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.4228,
+        "totalAssets": 1.238,
+        "currentShares": 3657352,
+        "change": 396400,
+        "change_p": 12.156
+      },
+      "6": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 1.0949,
+        "totalAssets": 1.1189,
+        "currentShares": 2814500,
+        "change": 381225,
+        "change_p": 15.6672
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0743,
+        "totalAssets": 0.0493,
+        "currentShares": 2761600,
+        "change": 4556,
+        "change_p": 0.1652
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.065,
+        "totalAssets": 0.0494,
+        "currentShares": 2737694,
+        "change": -1488,
+        "change_p": -0.0543
+      },
+      "9": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0123,
+        "totalAssets": 0.1064,
+        "currentShares": 2602153,
+        "change": 45982,
+        "change_p": 1.7989
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9571,
+        "totalAssets": 0.0492,
+        "currentShares": 2460277,
+        "change": -6076,
+        "change_p": -0.2464
+      },
+      "11": {
+        "name": "Pictet - Robotics I dy EUR",
+        "date": "2025-12-31",
+        "totalShares": 0.8092,
+        "totalAssets": 3.8301,
+        "currentShares": 2080077,
+        "change": 13615,
+        "change_p": 0.6589
+      },
+      "12": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.693,
+        "totalAssets": 0.1902,
+        "currentShares": 1781414,
+        "change": -2303,
+        "change_p": -0.1291
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6303,
+        "totalAssets": 0.7204,
+        "currentShares": 1620096,
+        "change": 735823,
+        "change_p": 83.2122
+      },
+      "14": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6217,
+        "totalAssets": 0.2463,
+        "currentShares": 1598079,
+        "change": 4198,
+        "change_p": 0.2634
+      },
+      "15": {
+        "name": "Janus Henderson Research D",
+        "date": "2026-01-31",
+        "totalShares": 0.6008,
+        "totalAssets": 0.9801,
+        "currentShares": 1544463,
+        "change": 212390,
+        "change_p": 15.9443
+      },
+      "16": {
+        "name": "Janus Henderson US Research Growth Eq",
+        "date": "2025-12-31",
+        "totalShares": 0.5182,
+        "totalAssets": 1.0161,
+        "currentShares": 1332073,
+        "change": 1037224,
+        "change_p": 351.7814
+      },
+      "17": {
+        "name": "Janus Henderson Glb Tech and Innovt T",
+        "date": "2026-01-31",
+        "totalShares": 0.5104,
+        "totalAssets": 2.6143,
+        "currentShares": 1312014,
+        "change": 112185,
+        "change_p": 9.3501
+      },
+      "18": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.49,
+        "totalAssets": 0.1919,
+        "currentShares": 1259475,
+        "change": 3668,
+        "change_p": 0.2921
+      },
+      "19": {
+        "name": "Janus Henderson Gbl Tech and Innovation",
+        "date": "2025-12-31",
+        "totalShares": 0.4668,
+        "totalAssets": 2.9891,
+        "currentShares": 1199829,
+        "change": 499025,
+        "change_p": 71.2075
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 46.2394,
+    "ForwardPE": 10.7527,
+    "PriceSalesTTM": 3.2228,
+    "PriceBookMRQ": 3.7765,
+    "EnterpriseValue": 27853808830,
+    "EnterpriseValueRevenue": 2.916,
+    "EnterpriseValueEbitda": 18.9482
+  },
+  "Highlights": {
+    "MarketCapitalization": 30784188416,
+    "MarketCapitalizationMln": 30784.1884,
+    "EBITDA": 1371000064,
+    "PERatio": 46.2394,
+    "PEGRatio": 0.4427,
+    "WallStreetTargetPrice": 179.2171,
+    "BookValue": 30.12,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.59,
+    "EPSEstimateCurrentYear": 9.1105,
+    "EPSEstimateNextYear": 10.7239,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.3212,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0726,
+    "OperatingMarginTTM": 0.1205,
+    "ReturnOnAssetsTTM": 0.0355,
+    "ReturnOnEquityTTM": 0.0823,
+    "RevenueTTM": 9552000000,
+    "RevenuePerShareTTM": 36.032,
+    "QuarterlyRevenueGrowthYOY": 0.145,
+    "GrossProfitTTM": 7231000064,
+    "DilutedEpsTTM": 2.59,
+    "QuarterlyEarningsGrowthYOY": 0.629
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.25,
+    "TotalEsgPercentile": 11.86,
+    "EnvironmentScore": 4.18,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 11.83,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 11.73,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "WDAY",
+    "Type": "Common Stock",
+    "Name": "Workday Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000VC0T95",
+    "ISIN": "US98138H1014",
+    "LEI": "549300J0DYC0N31V7G13",
+    "PrimaryTicker": "WDAY.US",
+    "CUSIP": "98138H101",
+    "CIK": "0001327811",
+    "EmployerIdNumber": "20-2480422",
+    "FiscalYearEnd": "January",
+    "IPODate": "2012-10-12",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Workday, Inc. provides enterprise cloud applications in the United States and internationally. The company offers a suite of financial management applications to maintain accounting information; manage financial processes, such as payables and receivables; identify real-time financial, operational, and management insights; perform financial consolidation; reduce time-to-close; promote internal control and auditability; and achieve consistency across finance operations. It also provides spend management solutions that help organizations to streamline supplier selection and contract management, build and execute sourcing events, such as requests for proposals, and manage indirect spend; expense management solutions to submit and approve expenses; and a suite of human capital management applications that enables HR teams to hire, onboard, pay, develop, reskill, and provide employee experiences. In addition, the company offers planning applications. Further, it provides supply chain and inventory solutions to healthcare organizations; solutions to manage the end-to-end student and faculty lifecycle; Workday Extend for customers and their developers to build custom applications. The company serves the professional and business services, financial services, healthcare, manufacturing, media, education, government, technology, media, retail, and hospitality industries. It sells its solutions through its direct sales organization. The company was formerly known as North Tahoe Power Tools, Inc. and changed its name to Workday, Inc. in July 2005. Workday, Inc. was incorporated in 2005 and is headquartered in Pleasanton, California.",
+    "Address": "6110 Stoneridge Mall Road, Pleasanton, CA, United States, 94588",
+    "AddressData": {
+      "Street": "6110 Stoneridge Mall Road",
+      "City": "Pleasanton",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94588"
+    },
+    "Listings": {
+      "0": {
+        "Code": "W7D",
+        "Exchange": "STU",
+        "Name": "WORKDAY-A (W7D.SG)"
+      },
+      "1": {
+        "Code": "W7D",
+        "Exchange": "MU",
+        "Name": "WORKDAY-A"
+      },
+      "2": {
+        "Code": "W7D",
+        "Exchange": "F",
+        "Name": "Workday Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Aneel  Bhusri",
+        "Title": "Co-Founder, CEO & Executive Chairman of the Board",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Robert  Enslin",
+        "Title": "President & Chief Commercial Officer",
+        "YearBorn": "1963"
+      },
+      "2": {
+        "Name": "Mr. Zane C. Rowe",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. David Albert Duffield",
+        "Title": "Co-Founder & CEO Emeritus",
+        "YearBorn": "1941"
+      },
+      "4": {
+        "Name": "Mr. Mark S. Garfield",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Ms. Rani  Johnson",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Mr. Justin Allen Furby",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Richard Harry Sauer J.D.",
+        "Title": "Chief Legal Officer, Head of Corporate Affairs & Corporate Secretary",
+        "YearBorn": "1964"
+      },
+      "8": {
+        "Name": "Ms. Emma  Chalwin",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Ms. Ashley D. Goldsmith",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "925 951 9000",
+    "WebURL": "https://www.workday.com",
+    "LogoURL": "/img/logos/US/wday.png",
+    "FullTimeEmployees": 21070,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 210000000,
+    "SharesFloat": 208241960,
+    "PercentInsiders": 2.23,
+    "PercentInstitutions": 97.58,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0789
+  }
+}

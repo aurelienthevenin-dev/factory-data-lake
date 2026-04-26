@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Bank of Nova Scotia",
+        "date": "2025-09-30",
+        "totalShares": 14.9884,
+        "totalAssets": 5.3813,
+        "currentShares": 162967411,
+        "change": 13589,
+        "change_p": 0.0083
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.4791,
+        "totalAssets": 0.0374,
+        "currentShares": 124811543,
+        "change": 1192323,
+        "change_p": 0.9645
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.562,
+        "totalAssets": 0.0305,
+        "currentShares": 93094508,
+        "change": -5520900,
+        "change_p": -5.5984
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 5.3066,
+        "totalAssets": 0.1154,
+        "currentShares": 57698160,
+        "change": 6408322,
+        "change_p": 12.4943
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2468,
+        "totalAssets": 0.0299,
+        "currentShares": 46175193,
+        "change": -1428059,
+        "change_p": -2.9999
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.9066,
+        "totalAssets": 0.0447,
+        "currentShares": 42475683,
+        "change": 3556161,
+        "change_p": 9.1372
+      },
+      "6": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.466,
+        "totalAssets": 0.9427,
+        "currentShares": 26812760,
+        "change": 1765548,
+        "change_p": 7.0489
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2058,
+        "totalAssets": 0.0304,
+        "currentShares": 23983690,
+        "change": 115968,
+        "change_p": 0.4859
+      },
+      "8": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.0337,
+        "totalAssets": 0.08,
+        "currentShares": 22112658,
+        "change": -14258036,
+        "change_p": -39.202
+      },
+      "9": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.9339,
+        "totalAssets": 0.059,
+        "currentShares": 21027471,
+        "change": 238514,
+        "change_p": 1.1473
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8073,
+        "totalAssets": 0.0579,
+        "currentShares": 19650452,
+        "change": -1462207,
+        "change_p": -6.9257
+      },
+      "11": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4531,
+        "totalAssets": 0.0736,
+        "currentShares": 15799619,
+        "change": 397523,
+        "change_p": 2.581
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2463,
+        "totalAssets": 0.0153,
+        "currentShares": 13550859,
+        "change": 131772,
+        "change_p": 0.982
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2332,
+        "totalAssets": 0.0339,
+        "currentShares": 13408544,
+        "change": 575884,
+        "change_p": 4.4876
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1705,
+        "totalAssets": 0.0281,
+        "currentShares": 12727117,
+        "change": 1496229,
+        "change_p": 13.3224
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0848,
+        "totalAssets": 0.0066,
+        "currentShares": 11794544,
+        "change": 4611873,
+        "change_p": 64.2083
+      },
+      "16": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9852,
+        "totalAssets": 1.1329,
+        "currentShares": 10712524,
+        "change": -1398823,
+        "change_p": -11.5497
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9829,
+        "totalAssets": 0.0463,
+        "currentShares": 10686773,
+        "change": -178716,
+        "change_p": -1.6448
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9425,
+        "totalAssets": 0.0245,
+        "currentShares": 10247697,
+        "change": -360737,
+        "change_p": -3.4005
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8307,
+        "totalAssets": 0.029,
+        "currentShares": 9032463,
+        "change": 15467,
+        "change_p": 0.1715
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1844,
+        "totalAssets": 0.0348,
+        "currentShares": 34623344,
+        "change": 169816,
+        "change_p": 0.4929
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1947,
+        "totalAssets": 0.0336,
+        "currentShares": 23862564,
+        "change": -26573,
+        "change_p": -0.1112
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1649,
+        "totalAssets": 0.2375,
+        "currentShares": 23538907,
+        "change": -216083,
+        "change_p": -0.9096
+      },
+      "3": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6919,
+        "totalAssets": 0.1824,
+        "currentShares": 18396323,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2914,
+        "totalAssets": 1.2631,
+        "currentShares": 14041742,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1077,
+        "totalAssets": 0.0335,
+        "currentShares": 12044425,
+        "change": -6552,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0873,
+        "totalAssets": 0.0327,
+        "currentShares": 11822446,
+        "change": 19460,
+        "change_p": 0.1649
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9953,
+        "totalAssets": 0.0334,
+        "currentShares": 10821750,
+        "change": -26705,
+        "change_p": -0.2462
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9262,
+        "totalAssets": 0.0895,
+        "currentShares": 10070777,
+        "change": -106770,
+        "change_p": -1.0491
+      },
+      "9": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.909,
+        "totalAssets": 0.0994,
+        "currentShares": 9883983,
+        "change": -8512340,
+        "change_p": -46.272
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8127,
+        "totalAssets": 0.2077,
+        "currentShares": 8836034,
+        "change": 26069,
+        "change_p": 0.2959
+      },
+      "11": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.7608,
+        "totalAssets": 0.0777,
+        "currentShares": 8271859,
+        "change": 356100,
+        "change_p": 4.4986
+      },
+      "12": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 0.6896,
+        "totalAssets": 0.6407,
+        "currentShares": 7498357,
+        "change": -220406,
+        "change_p": -2.8555
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6519,
+        "totalAssets": 0.4091,
+        "currentShares": 7088041,
+        "change": 266700,
+        "change_p": 3.9098
+      },
+      "14": {
+        "name": "Invesco KBW Bank ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6362,
+        "totalAssets": 2.8673,
+        "currentShares": 6916962,
+        "change": -22660,
+        "change_p": -0.3265
+      },
+      "15": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5891,
+        "totalAssets": 0.2661,
+        "currentShares": 6405590,
+        "change": 10857,
+        "change_p": 0.1698
+      },
+      "16": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5572,
+        "totalAssets": 0.8449,
+        "currentShares": 6058793,
+        "change": -802607,
+        "change_p": -11.6974
+      },
+      "17": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.5526,
+        "totalAssets": 0.8149,
+        "currentShares": 6008708,
+        "change": -381600,
+        "change_p": -5.9715
+      },
+      "18": {
+        "name": "Fidelity Low-Priced Stock",
+        "date": "2026-01-31",
+        "totalShares": 0.5286,
+        "totalAssets": 0.5205,
+        "currentShares": 5747049,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4854,
+        "totalAssets": 0.0335,
+        "currentShares": 5278003,
+        "change": 12615,
+        "change_p": 0.2396
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 13.5187,
+    "ForwardPE": 12.3001,
+    "PriceSalesTTM": 3.2664,
+    "PriceBookMRQ": 1.3685,
+    "EnterpriseValue": 41165148160,
+    "EnterpriseValueRevenue": 5.8176,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 23518148608,
+    "MarketCapitalizationMln": 23518.1486,
+    "EBITDA": null,
+    "PERatio": 13.5187,
+    "PEGRatio": 2.0841,
+    "WallStreetTargetPrice": 24.9211,
+    "BookValue": 16.083,
+    "DividendShare": 0.82,
+    "DividendYield": 0.0373,
+    "EarningsShare": 1.6,
+    "EPSEstimateCurrentYear": 1.8156,
+    "EPSEstimateNextYear": 2.1468,
+    "EPSEstimateNextQuarter": 0.4404,
+    "EPSEstimateCurrentQuarter": 0.4073,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2703,
+    "OperatingMarginTTM": 0.3605,
+    "ReturnOnAssetsTTM": 0.0103,
+    "ReturnOnEquityTTM": 0.0997,
+    "RevenueTTM": 7200000000,
+    "RevenuePerShareTTM": 6.573,
+    "QuarterlyRevenueGrowthYOY": 0.117,
+    "GrossProfitTTM": 7200000000,
+    "DilutedEpsTTM": 1.6,
+    "QuarterlyEarningsGrowthYOY": 0.337
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.92,
+    "TotalEsgPercentile": 38.36,
+    "EnvironmentScore": 0.82,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 11.03,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 11.22,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "KEY",
+    "Type": "Common Stock",
+    "Name": "KeyCorp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BMQPL1",
+    "ISIN": "US4932671088",
+    "LEI": "RKPI3RZGV1V1FJTH5T61",
+    "PrimaryTicker": "KEY.US",
+    "CUSIP": "493263107",
+    "CIK": "0000091576",
+    "EmployerIdNumber": "34-6542451",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-11-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Regional Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments, Consumer Bank and Commercial Bank. The company offers various deposits and investment products; personal finance and financial wellness, lending, student loan refinancing, mortgage and home equity, credit card, treasury, and business advisory; commercial leasing, investment management, consumer finance; and wealth management and investment services for institutional, non-profit, and high-net-worth clients. It also provides lending, cash management, equipment financing, and commercial mortgage loans; and capital market products and services, such as syndicated finance, debt and equity underwriting, fixed income and equity sales and trading, derivatives, foreign exchange, mergers and acquisition, other advisory services, and public finance to large corporate and institutional clients. In addition, the company offers personal and institutional trust custody services, personal financial and planning services, access to mutual funds, treasury services, and international banking services. Further, it provides community development financing, securities underwriting, brokerage, and investment banking services, as well as merchant services. The company was founded in 1849 and is headquartered in Cleveland, Ohio.",
+    "Address": "127 Public Square, Cleveland, OH, United States, 44114-1306",
+    "AddressData": {
+      "Street": "127 Public Square",
+      "City": "Cleveland",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44114-1306"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher Marrott Gorman",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Clark Harold Ibrahim Khayat J.D.",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Ms. Amy G. Brady",
+        "Title": "Non-Executive Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. Andrew Jackson Paine III",
+        "Title": "President of Key Institutional Bank",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Mohit  Ramani",
+        "Title": "Chief Risk Officer",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Ms. Stacy L. Gilbert",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. Brian James Mauney",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. James L. Waters J.D.",
+        "Title": "General Counsel & Corporate Secretary",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Ms. Susan E. Donlan",
+        "Title": "Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Angela G. Mago",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1966"
+      }
+    },
+    "Phone": "216 689 3000",
+    "WebURL": "https://www.key.com",
+    "LogoURL": "/img/logos/US/key.png",
+    "FullTimeEmployees": 17469,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1087293000,
+    "SharesFloat": 1082856845,
+    "PercentInsiders": 0.28700000000000003,
+    "PercentInstitutions": 90.735,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0
+  }
+}

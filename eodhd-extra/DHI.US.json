@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 12.7539,
+        "totalAssets": 0.7238,
+        "currentShares": 36948434,
+        "change": 6695592,
+        "change_p": 22.1321
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.2938,
+        "totalAssets": 0.0683,
+        "currentShares": 32718417,
+        "change": -303060,
+        "change_p": -0.9178
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2096,
+        "totalAssets": 0.0878,
+        "currentShares": 29577436,
+        "change": 336654,
+        "change_p": 1.1513
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.2713,
+        "totalAssets": 0.1069,
+        "currentShares": 21065188,
+        "change": 10330057,
+        "change_p": 96.2267
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2373,
+        "totalAssets": 0.0721,
+        "currentShares": 12275656,
+        "change": -360608,
+        "change_p": -2.8538
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.5635,
+        "totalAssets": 0.0545,
+        "currentShares": 7426660,
+        "change": -1303018,
+        "change_p": -14.9263
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4824,
+        "totalAssets": 0.0637,
+        "currentShares": 7191534,
+        "change": -73890,
+        "change_p": -1.017
+      },
+      "7": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.6041,
+        "totalAssets": 0.1236,
+        "currentShares": 4647088,
+        "change": 13155,
+        "change_p": 0.2839
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5561,
+        "totalAssets": 0.0695,
+        "currentShares": 4508122,
+        "change": 674132,
+        "change_p": 17.583
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2486,
+        "totalAssets": 0.0371,
+        "currentShares": 3617146,
+        "change": -200985,
+        "change_p": -5.264
+      },
+      "10": {
+        "name": "Greenhaven Associates Inc",
+        "date": "2026-03-31",
+        "totalShares": 1.1967,
+        "totalAssets": 7.8354,
+        "currentShares": 3466920,
+        "change": -17226,
+        "change_p": -0.4944
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.164,
+        "totalAssets": 0.09,
+        "currentShares": 3372020,
+        "change": 517752,
+        "change_p": 18.1396
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0608,
+        "totalAssets": 0.0666,
+        "currentShares": 3073101,
+        "change": -65412,
+        "change_p": -2.0842
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0563,
+        "totalAssets": 0.0925,
+        "currentShares": 3060158,
+        "change": -167674,
+        "change_p": -5.1946
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0318,
+        "totalAssets": 0.1263,
+        "currentShares": 2989250,
+        "change": -210926,
+        "change_p": -6.5911
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.996,
+        "totalAssets": 0.051,
+        "currentShares": 2885397,
+        "change": -145631,
+        "change_p": -4.8047
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9731,
+        "totalAssets": 0.0324,
+        "currentShares": 2819116,
+        "change": 2530,
+        "change_p": 0.0898
+      },
+      "17": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8467,
+        "totalAssets": 0.1853,
+        "currentShares": 2452983,
+        "change": 629699,
+        "change_p": 34.5365
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8275,
+        "totalAssets": 0.0882,
+        "currentShares": 2397164,
+        "change": -518852,
+        "change_p": -17.7932
+      },
+      "19": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7834,
+        "totalAssets": 0.194,
+        "currentShares": 2269557,
+        "change": 252878,
+        "change_p": 12.5393
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.899,
+        "totalAssets": 0.6084,
+        "currentShares": 14192606,
+        "change": 2300815,
+        "change_p": 19.3479
+      },
+      "1": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 4.1337,
+        "totalAssets": 0.5363,
+        "currentShares": 11975453,
+        "change": -2217153,
+        "change_p": -15.6219
+      },
+      "2": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 3.4548,
+        "totalAssets": 0.521,
+        "currentShares": 10008546,
+        "change": 3472697,
+        "change_p": 53.1331
+      },
+      "3": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.9476,
+        "totalAssets": 0.5877,
+        "currentShares": 8539286,
+        "change": 1396590,
+        "change_p": 19.5527
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8596,
+        "totalAssets": 0.0569,
+        "currentShares": 8284342,
+        "change": -31211,
+        "change_p": -0.3753
+      },
+      "5": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.4655,
+        "totalAssets": 0.4941,
+        "currentShares": 7142696,
+        "change": 924933,
+        "change_p": 14.8757
+      },
+      "6": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3679,
+        "totalAssets": 0.0662,
+        "currentShares": 6859836,
+        "change": -184958,
+        "change_p": -2.6255
+      },
+      "7": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9442,
+        "totalAssets": 0.3889,
+        "currentShares": 5632550,
+        "change": -80549,
+        "change_p": -1.4099
+      },
+      "8": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5219,
+        "totalAssets": 0.3926,
+        "currentShares": 4409140,
+        "change": -422877,
+        "change_p": -8.7516
+      },
+      "9": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.3451,
+        "totalAssets": 0.3474,
+        "currentShares": 3896941,
+        "change": -512199,
+        "change_p": -11.6168
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.203,
+        "totalAssets": 0.0746,
+        "currentShares": 3485208,
+        "change": 5722,
+        "change_p": 0.1644
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1954,
+        "totalAssets": 0.066,
+        "currentShares": 3463101,
+        "change": -1884,
+        "change_p": -0.0544
+      },
+      "12": {
+        "name": "Capital Group Growth Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.1021,
+        "totalAssets": 0.841,
+        "currentShares": 3192890,
+        "change": 591638,
+        "change_p": 22.7444
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0752,
+        "totalAssets": 0.0657,
+        "currentShares": 3114946,
+        "change": -7693,
+        "change_p": -0.2464
+      },
+      "14": {
+        "name": "iShares US Home Construction ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9032,
+        "totalAssets": 15.0061,
+        "currentShares": 2616526,
+        "change": 4956,
+        "change_p": 0.1898
+      },
+      "15": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8508,
+        "totalAssets": 0.7276,
+        "currentShares": 2464753,
+        "change": -1527,
+        "change_p": -0.0619
+      },
+      "16": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8317,
+        "totalAssets": 0.1465,
+        "currentShares": 2409604,
+        "change": -37477,
+        "change_p": -1.5315
+      },
+      "17": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.8124,
+        "totalAssets": 0.2225,
+        "currentShares": 2353467,
+        "change": 222504,
+        "change_p": 10.4415
+      },
+      "18": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.7697,
+        "totalAssets": 0.3143,
+        "currentShares": 2229939,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 0.7069,
+        "totalAssets": 0.5659,
+        "currentShares": 2048040,
+        "change": -1144850,
+        "change_p": -35.8562
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.0141,
+    "ForwardPE": 15.8228,
+    "PriceSalesTTM": 1.3597,
+    "PriceBookMRQ": 1.9806,
+    "EnterpriseValue": 49990280118,
+    "EnterpriseValueRevenue": 1.5425,
+    "EnterpriseValueEbitda": 12.7684
+  },
+  "Highlights": {
+    "MarketCapitalization": 45344378880,
+    "MarketCapitalizationMln": 45344.3789,
+    "EBITDA": 4268600064,
+    "PERatio": 15.0141,
+    "PEGRatio": 1.3848,
+    "WallStreetTargetPrice": 165.4286,
+    "BookValue": 82.915,
+    "DividendShare": 1.7,
+    "DividendYield": 0.0104,
+    "EarningsShare": 10.65,
+    "EPSEstimateCurrentYear": 10.6623,
+    "EPSEstimateNextYear": 12.1815,
+    "EPSEstimateNextQuarter": 2.7736,
+    "EPSEstimateCurrentQuarter": 2.1389,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0951,
+    "OperatingMarginTTM": 0.1126,
+    "ReturnOnAssetsTTM": 0.073,
+    "ReturnOnEquityTTM": 0.1308,
+    "RevenueTTM": 33348399104,
+    "RevenuePerShareTTM": 113.026,
+    "QuarterlyRevenueGrowthYOY": -0.023,
+    "GrossProfitTTM": 7202100224,
+    "DilutedEpsTTM": 10.65,
+    "QuarterlyEarningsGrowthYOY": -0.132
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28,
+    "TotalEsgPercentile": 32.48,
+    "EnvironmentScore": 13.47,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 15.42,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 14.6,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DHI",
+    "Type": "Common Stock",
+    "Name": "DR Horton Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DQTXY6",
+    "ISIN": "US23331A1097",
+    "LEI": null,
+    "PrimaryTicker": "DHI.US",
+    "CUSIP": "23331A109",
+    "CIK": "0000882184",
+    "EmployerIdNumber": "75-2386963",
+    "FiscalYearEnd": "September",
+    "IPODate": "1992-06-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Household Durables",
+    "GicSubIndustry": "Homebuilding",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "D.R. Horton, Inc. operates as a homebuilding company in East, North, Southeast, South Central, Southwest, and Northwest regions in the United States. It engages in the acquisition and development of land; and construction and sale of residential homes in 126 markets across 36 states under the names of D.R. Horton. The company also constructs and sells single-family detached homes; and attached homes, such as townhomes and duplexes. In addition, it provides mortgage financing and title agency services; and engages in the residential lot development business. Further, the company develops, constructs, owns, leases, and sells multi-family and single-family rental properties; conducts insurance-related operations; and owns water rights and other water-related assets, as well as non-residential real estate, including ranch land and improvements. It primarily serves homebuyers. D.R. Horton, Inc. was founded in 1978 and is headquartered in Arlington, Texas.",
+    "Address": "1341 Horton Circle, Arlington, TX, United States, 76011",
+    "AddressData": {
+      "Street": "1341 Horton Circle",
+      "City": "Arlington",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "76011"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. David V. Auld",
+        "Title": "Executive Chairman",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Mr. Paul J. Romanowski",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Bill W. Wheat",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Michael J. Murray",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Mr. Aron M. Odom",
+        "Title": "Senior VP & Corporate Controller",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Collin Michael Dawson",
+        "Title": "Vice President of Corporate Finance & Treasurer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Jessica Leigh Hansen",
+        "Title": "Senior VP of Communications & People and Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Thomas B. Montano",
+        "Title": "Senior VP, Corporate Compliance Officer & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Rick  Horton",
+        "Title": "President of South Region",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Matt  Farris",
+        "Title": "President of West Region",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "817 390 8200",
+    "WebURL": "https://www.drhorton.com",
+    "LogoURL": "/img/logos/US/DHI.png",
+    "FullTimeEmployees": 14341,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 283579613,
+    "SharesFloat": 252571603,
+    "PercentInsiders": 11.512,
+    "PercentInstitutions": 90.082,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0708
+  }
+}

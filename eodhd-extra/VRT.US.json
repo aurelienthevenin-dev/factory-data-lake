@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.9997,
+        "totalAssets": 0.0899,
+        "currentShares": 38258636,
+        "change": -574400,
+        "change_p": -1.4792
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.4311,
+        "totalAssets": 0.0953,
+        "currentShares": 36083094,
+        "change": 838930,
+        "change_p": 2.3803
+      },
+      "2": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.5422,
+        "totalAssets": 0.0995,
+        "currentShares": 9726516,
+        "change": -645923,
+        "change_p": -6.2273
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.211,
+        "totalAssets": 0.0443,
+        "currentShares": 8459323,
+        "change": 189484,
+        "change_p": 2.2913
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2095,
+        "totalAssets": 0.0382,
+        "currentShares": 8453402,
+        "change": 4261896,
+        "change_p": 101.6793
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8613,
+        "totalAssets": 0.1149,
+        "currentShares": 7121309,
+        "change": 4743586,
+        "change_p": 199.5012
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8468,
+        "totalAssets": 0.0705,
+        "currentShares": 7065912,
+        "change": 143821,
+        "change_p": 2.0777
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8018,
+        "totalAssets": 0.0569,
+        "currentShares": 6893672,
+        "change": -938138,
+        "change_p": -11.9786
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6846,
+        "totalAssets": 0.0589,
+        "currentShares": 6445091,
+        "change": -1834466,
+        "change_p": -22.1566
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5297,
+        "totalAssets": 0.1391,
+        "currentShares": 5852587,
+        "change": -78901,
+        "change_p": -1.3302
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3047,
+        "totalAssets": 0.0865,
+        "currentShares": 4991672,
+        "change": 800943,
+        "change_p": 19.1123
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0445,
+        "totalAssets": 0.1135,
+        "currentShares": 3996125,
+        "change": -259767,
+        "change_p": -6.1037
+      },
+      "12": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9971,
+        "totalAssets": 0.1618,
+        "currentShares": 3815043,
+        "change": -560136,
+        "change_p": -12.8026
+      },
+      "13": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9595,
+        "totalAssets": 0.0868,
+        "currentShares": 3670978,
+        "change": 4330,
+        "change_p": 0.1181
+      },
+      "14": {
+        "name": "Jane Street Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8987,
+        "totalAssets": 0.0841,
+        "currentShares": 3438320,
+        "change": 2423833,
+        "change_p": 238.922
+      },
+      "15": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8351,
+        "totalAssets": 0.2602,
+        "currentShares": 3195264,
+        "change": -236496,
+        "change_p": -6.8914
+      },
+      "16": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7367,
+        "totalAssets": 0.3656,
+        "currentShares": 2818560,
+        "change": -411876,
+        "change_p": -12.7499
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7095,
+        "totalAssets": 0.0524,
+        "currentShares": 2714604,
+        "change": -7350,
+        "change_p": -0.27
+      },
+      "18": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 0.6979,
+        "totalAssets": 0.3938,
+        "currentShares": 2670007,
+        "change": 1939749,
+        "change_p": 265.6252
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.6974,
+        "totalAssets": 0.0907,
+        "currentShares": 2668197,
+        "change": -54944,
+        "change_p": -2.0177
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1763,
+        "totalAssets": 0.1525,
+        "currentShares": 12152550,
+        "change": 58975,
+        "change_p": 0.4877
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5456,
+        "totalAssets": 0.1715,
+        "currentShares": 9739580,
+        "change": 9739580,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1224,
+        "totalAssets": 1.0239,
+        "currentShares": 8120089,
+        "change": -45030,
+        "change_p": -0.5515
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2852,
+        "totalAssets": 0.1711,
+        "currentShares": 4917342,
+        "change": -2676,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1595,
+        "totalAssets": 0.171,
+        "currentShares": 4436261,
+        "change": -10927,
+        "change_p": -0.2457
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1095,
+        "totalAssets": 0.3347,
+        "currentShares": 4244868,
+        "change": -143690,
+        "change_p": -3.2742
+      },
+      "6": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7606,
+        "totalAssets": 2.4957,
+        "currentShares": 2910083,
+        "change": -264478,
+        "change_p": -8.3312
+      },
+      "7": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6661,
+        "totalAssets": 3.4291,
+        "currentShares": 2548510,
+        "change": -4380,
+        "change_p": -0.1716
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.1711,
+        "currentShares": 2155312,
+        "change": 2155312,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5556,
+        "totalAssets": 1.8954,
+        "currentShares": 2125770,
+        "change": -14736,
+        "change_p": -0.6884
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.1694,
+        "currentShares": 2042100,
+        "change": 2042100,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Fidelity Extended Market Index",
+        "date": "2026-02-28",
+        "totalShares": 0.5233,
+        "totalAssets": 1.2461,
+        "currentShares": 2002007,
+        "change": 7869,
+        "change_p": 0.3946
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.1709,
+        "currentShares": 1727894,
+        "change": 1727894,
+        "change_p": 0
+      },
+      "13": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4013,
+        "totalAssets": 0.3439,
+        "currentShares": 1535516,
+        "change": 1465,
+        "change_p": 0.0955
+      },
+      "14": {
+        "name": "JPMorgan Mid Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.4013,
+        "totalAssets": 3.1994,
+        "currentShares": 1535470,
+        "change": 35716,
+        "change_p": 2.3815
+      },
+      "15": {
+        "name": "JPM US Mid Cap Growth-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.3991,
+        "totalAssets": 3.3526,
+        "currentShares": 1526952,
+        "change": 102329,
+        "change_p": 7.1829
+      },
+      "16": {
+        "name": "iShares Russell Mid-Cap ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3804,
+        "totalAssets": 0.7564,
+        "currentShares": 1455576,
+        "change": 1919,
+        "change_p": 0.132
+      },
+      "17": {
+        "name": "Fidelity Mid Cap Index",
+        "date": "2026-02-28",
+        "totalShares": 0.363,
+        "totalAssets": 0.7241,
+        "currentShares": 1388728,
+        "change": 4483,
+        "change_p": 0.3239
+      },
+      "18": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3612,
+        "totalAssets": 0.1702,
+        "currentShares": 1381793,
+        "change": 1381793,
+        "change_p": 0
+      },
+      "19": {
+        "name": "American Century US Premier Lg Cp Gr",
+        "date": "2026-03-31",
+        "totalShares": 0.356,
+        "totalAssets": 1.435,
+        "currentShares": 1362000,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 81.2714,
+    "ForwardPE": 52.9101,
+    "PriceSalesTTM": 11.458,
+    "PriceBookMRQ": 29.1142,
+    "EnterpriseValue": 124351411548,
+    "EnterpriseValueRevenue": 11.4679,
+    "EnterpriseValueEbitda": 53.9852
+  },
+  "Highlights": {
+    "MarketCapitalization": 124243828736,
+    "MarketCapitalizationMln": 124243.8287,
+    "EBITDA": 2383000064,
+    "PERatio": 81.2714,
+    "PEGRatio": 1.9787,
+    "WallStreetTargetPrice": 324.44,
+    "BookValue": 10.303,
+    "DividendShare": 0.138,
+    "DividendYield": 0.0004,
+    "EarningsShare": 3.98,
+    "EPSEstimateCurrentYear": 6.4781,
+    "EPSEstimateNextYear": 8.5462,
+    "EPSEstimateNextQuarter": 1.4334,
+    "EPSEstimateCurrentQuarter": 1.0114,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1437,
+    "OperatingMarginTTM": 0.1636,
+    "ReturnOnAssetsTTM": 0.1115,
+    "ReturnOnEquityTTM": 0.451,
+    "RevenueTTM": 10843400192,
+    "RevenuePerShareTTM": 28.369,
+    "QuarterlyRevenueGrowthYOY": 0.301,
+    "GrossProfitTTM": 4028400128,
+    "DilutedEpsTTM": 3.98,
+    "QuarterlyEarningsGrowthYOY": 1.357
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "VRT",
+    "Type": "Common Stock",
+    "Name": "Vertiv Holdings Co",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00L2B8KW8",
+    "ISIN": "US92537N1081",
+    "LEI": "549300KTTIRAOGXCRV69",
+    "PrimaryTicker": "VRT.US",
+    "CUSIP": "36255F201",
+    "CIK": "0001674101",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "2018-07-30",
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Electrical Equipment & Parts",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Electrical Equipment",
+    "GicSubIndustry": "Electrical Components & Equipment",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessments, remote monitoring, training, spare parts, and critical digital infrastructure software services. The company offers its products primarily under the Vertiv, Liebert, NetSure, Geist, Energy Labs, ERS, Albér, and Avocent brands. It serves through a network of direct sales professionals, independent sales representatives, channel partners, and original equipment manufacturers. The company is headquartered in Westerville, Ohio.",
+    "Address": "505 N. Cleveland Ave., Westerville, OH, United States, 43082",
+    "AddressData": {
+      "Street": "505 N. Cleveland Ave.",
+      "City": "Westerville",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "43082"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. David M. Cote J.D.",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1953"
+      },
+      "1": {
+        "Name": "Mr. Giordano  Albertazzi",
+        "Title": "CEO & Director",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Ms. Stephanie L. Gill Esq.",
+        "Title": "Chief Legal Counsel & Corporate Secretary",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. David J. Fallon CPA",
+        "Title": "Consultant",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Anand  Sanghi",
+        "Title": "President of Americas",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Anders  Karlborg",
+        "Title": "Executive Vice President of Manufacturing, Logistics and Operational Excellence",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Mr. Craig  Chamberlin",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Eric M. Johnson",
+        "Title": "Chief Accounting Officer & Corporate Controller",
+        "YearBorn": "1977"
+      },
+      "8": {
+        "Name": "Mr. Scott  Armul",
+        "Title": "Chief Product and Technology Officer",
+        "YearBorn": "1984"
+      },
+      "9": {
+        "Name": "Mr. Mike  Giresi",
+        "Title": "Global Chief Information Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "614 888 0246",
+    "WebURL": "https://www.vertiv.com",
+    "LogoURL": "/img/logos/US/VRT.png",
+    "FullTimeEmployees": 34000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 384108816,
+    "SharesFloat": 377657264,
+    "PercentInsiders": 0.371,
+    "PercentInstitutions": 80.63900000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.035
+  }
+}

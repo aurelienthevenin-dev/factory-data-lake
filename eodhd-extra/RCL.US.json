@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 13.3684,
+        "totalAssets": 1.5813,
+        "currentShares": 36165358,
+        "change": 3215382,
+        "change_p": 9.7584
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.1831,
+        "totalAssets": 0.1223,
+        "currentShares": 30253450,
+        "change": 187283,
+        "change_p": 0.6229
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.767,
+        "totalAssets": 0.119,
+        "currentShares": 21012063,
+        "change": 689996,
+        "change_p": 3.3953
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.4582,
+        "totalAssets": 1.0388,
+        "currentShares": 20176544,
+        "change": 920042,
+        "change_p": 4.7778
+      },
+      "4": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 6.1219,
+        "totalAssets": 0.6283,
+        "currentShares": 16561587,
+        "change": -425978,
+        "change_p": -2.5076
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9097,
+        "totalAssets": 0.1191,
+        "currentShares": 10576751,
+        "change": 84202,
+        "change_p": 0.8025
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6782,
+        "totalAssets": 0.0702,
+        "currentShares": 7245310,
+        "change": 3723752,
+        "change_p": 105.7416
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6076,
+        "totalAssets": 0.1211,
+        "currentShares": 7054191,
+        "change": 155491,
+        "change_p": 2.2539
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1654,
+        "totalAssets": 0.0618,
+        "currentShares": 3152719,
+        "change": 376233,
+        "change_p": 13.5507
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1651,
+        "totalAssets": 0.1607,
+        "currentShares": 3151895,
+        "change": -166101,
+        "change_p": -5.0061
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9238,
+        "totalAssets": 0.0855,
+        "currentShares": 2499008,
+        "change": -321354,
+        "change_p": -11.3941
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9148,
+        "totalAssets": 0.1024,
+        "currentShares": 2474766,
+        "change": 66714,
+        "change_p": 2.7705
+      },
+      "12": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 0.891,
+        "totalAssets": 0.5089,
+        "currentShares": 2410521,
+        "change": -346400,
+        "change_p": -12.5647
+      },
+      "13": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8007,
+        "totalAssets": 0.1257,
+        "currentShares": 2166216,
+        "change": -852083,
+        "change_p": -28.2306
+      },
+      "14": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.7212,
+        "totalAssets": 0.2882,
+        "currentShares": 1951024,
+        "change": 426059,
+        "change_p": 27.9389
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7091,
+        "totalAssets": 0.1122,
+        "currentShares": 1918296,
+        "change": 47401,
+        "change_p": 2.5336
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.6053,
+        "totalAssets": 0.0489,
+        "currentShares": 1637573,
+        "change": -1625801,
+        "change_p": -49.8196
+      },
+      "17": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.6008,
+        "totalAssets": 0.0563,
+        "currentShares": 1625361,
+        "change": 751170,
+        "change_p": 85.9274
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.56,
+        "totalAssets": 0.0657,
+        "currentShares": 1515043,
+        "change": 16417,
+        "change_p": 1.0955
+      },
+      "19": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.5507,
+        "totalAssets": 0.079,
+        "currentShares": 1489733,
+        "change": -808339,
+        "change_p": -35.1747
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 6.9889,
+        "totalAssets": 1.5696,
+        "currentShares": 18906989,
+        "change": -393024,
+        "change_p": -2.0364
+      },
+      "1": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 6.6013,
+        "totalAssets": 1.6039,
+        "currentShares": 17858269,
+        "change": -1048720,
+        "change_p": -5.5467
+      },
+      "2": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 4.2934,
+        "totalAssets": 1.9265,
+        "currentShares": 11614788,
+        "change": 378058,
+        "change_p": 3.3645
+      },
+      "3": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.1536,
+        "totalAssets": 1.7812,
+        "currentShares": 11236730,
+        "change": 9901,
+        "change_p": 0.0882
+      },
+      "4": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.8333,
+        "totalAssets": 1.3892,
+        "currentShares": 10370176,
+        "change": 911636,
+        "change_p": 9.6382
+      },
+      "5": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 3.4654,
+        "totalAssets": 1.2938,
+        "currentShares": 9374937,
+        "change": -995239,
+        "change_p": -9.5971
+      },
+      "6": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8588,
+        "totalAssets": 0.1066,
+        "currentShares": 7733857,
+        "change": -29121,
+        "change_p": -0.3751
+      },
+      "7": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 2.4877,
+        "totalAssets": 1.2125,
+        "currentShares": 6729861,
+        "change": 226459,
+        "change_p": 3.4822
+      },
+      "8": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.404,
+        "totalAssets": 1.1148,
+        "currentShares": 6503402,
+        "change": 656925,
+        "change_p": 11.2363
+      },
+      "9": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3684,
+        "totalAssets": 0.1239,
+        "currentShares": 6407085,
+        "change": -116475,
+        "change_p": -1.7855
+      },
+      "10": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 2.0167,
+        "totalAssets": 0.9754,
+        "currentShares": 5455859,
+        "change": 755403,
+        "change_p": 16.0708
+      },
+      "11": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9442,
+        "totalAssets": 0.7283,
+        "currentShares": 5259705,
+        "change": -74974,
+        "change_p": -1.4054
+      },
+      "12": {
+        "name": "Loomis Sayles MFD Class C",
+        "date": "2025-12-31",
+        "totalShares": 1.8267,
+        "totalAssets": 0.2727,
+        "currentShares": 4941737,
+        "change": 1481160,
+        "change_p": 42.801
+      },
+      "13": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.7375,
+        "totalAssets": 0.8104,
+        "currentShares": 4700456,
+        "change": 127188,
+        "change_p": 2.7811
+      },
+      "14": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1956,
+        "totalAssets": 0.1236,
+        "currentShares": 3234374,
+        "change": -1764,
+        "change_p": -0.0545
+      },
+      "15": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1931,
+        "totalAssets": 0.134,
+        "currentShares": 3227672,
+        "change": 5321,
+        "change_p": 0.1651
+      },
+      "16": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0767,
+        "totalAssets": 0.1233,
+        "currentShares": 2912699,
+        "change": -7154,
+        "change_p": -0.245
+      },
+      "17": {
+        "name": "Capital Group Dividend Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0342,
+        "totalAssets": 2.641,
+        "currentShares": 2797817,
+        "change": 27563,
+        "change_p": 0.995
+      },
+      "18": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.9675,
+        "totalAssets": 0.594,
+        "currentShares": 2617271,
+        "change": 1279349,
+        "change_p": 95.6221
+      },
+      "19": {
+        "name": "Loomis Sayles CPFD CIT",
+        "date": "2025-12-31",
+        "totalShares": 0.8835,
+        "totalAssets": 0.0732,
+        "currentShares": 2390000,
+        "change": 2390000,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.6985,
+    "ForwardPE": 14.3472,
+    "PriceSalesTTM": 4.0099,
+    "PriceBookMRQ": 6.9588,
+    "EnterpriseValue": 91055430330,
+    "EnterpriseValueRevenue": 5.0773,
+    "EnterpriseValueEbitda": 12.8555
+  },
+  "Highlights": {
+    "MarketCapitalization": 71917248512,
+    "MarketCapitalizationMln": 71917.2485,
+    "EBITDA": 6637000192,
+    "PERatio": 16.6985,
+    "PEGRatio": 1.0859,
+    "WallStreetTargetPrice": 346.875,
+    "BookValue": 37.116,
+    "DividendShare": 3.5,
+    "DividendYield": 0.0134,
+    "EarningsShare": 15.92,
+    "EPSEstimateCurrentYear": 17.3302,
+    "EPSEstimateNextYear": 20.0346,
+    "EPSEstimateNextQuarter": 2.9079,
+    "EPSEstimateCurrentQuarter": 2.7965,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.238,
+    "OperatingMarginTTM": 0.2198,
+    "ReturnOnAssetsTTM": 0.0781,
+    "ReturnOnEquityTTM": 0.4773,
+    "RevenueTTM": 17934999552,
+    "RevenuePerShareTTM": 66.181,
+    "QuarterlyRevenueGrowthYOY": 0.133,
+    "GrossProfitTTM": 9077999616,
+    "DilutedEpsTTM": 15.92,
+    "QuarterlyEarningsGrowthYOY": 0.371
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.81,
+    "TotalEsgPercentile": 26.14,
+    "EnvironmentScore": 7,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 8.31,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 2,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "RCL",
+    "Type": "Common Stock",
+    "Name": "Royal Caribbean Cruises Ltd",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BB5792",
+    "ISIN": "LR0008862868",
+    "LEI": "K2NEH8QNVW44JIWK7Z55",
+    "PrimaryTicker": "RCL.US",
+    "CUSIP": "V7780T103",
+    "CIK": "0000884887",
+    "EmployerIdNumber": "98-0081645",
+    "FiscalYearEnd": "December",
+    "IPODate": "1993-04-28",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Royal Caribbean Cruises Ltd. operates as a cruise company worldwide. The company operates cruises under the Royal Caribbean International, Celebrity Cruises, and Silversea Cruises brands, which comprise a range of itineraries. As of December 31, 2025, it operated 69 ships. Royal Caribbean Cruises Ltd. was founded in 1968 and is headquartered in Miami, Florida.",
+    "Address": "1050 Caribbean Way, Miami, FL, United States, 33132-2096",
+    "AddressData": {
+      "Street": "1050 Caribbean Way",
+      "City": "Miami",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "33132-2096"
+    },
+    "Listings": {
+      "0": {
+        "Code": "0I1W",
+        "Exchange": "LSE",
+        "Name": "Royal Caribbean Group"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jason T. Liberty",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1976"
+      },
+      "1": {
+        "Name": "Mr. Naftali  Holtz",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1978"
+      },
+      "2": {
+        "Name": "Mr. Harri U. Kulovaara",
+        "Title": "Executive Vice President of Maritime & Newbuilding",
+        "YearBorn": "1953"
+      },
+      "3": {
+        "Name": "Mr. Michael W. Bayley",
+        "Title": "President & CEO of Royal Caribbean International",
+        "YearBorn": "1959"
+      },
+      "4": {
+        "Name": "Ms. Laura J. Hodges Bethge",
+        "Title": "President of Celebrity Cruises",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Henry L. Pujol",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Ms. Martha Cecilia Poulter",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Mr. Blake  Vanier",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Robert Alexander Lake Jr.",
+        "Title": "Senior VP, Chief Legal Officer & Secretary",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Ms. Dana  Ritzcovan",
+        "Title": "Executive VP and Chief People & Outreach Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "305 539 6000",
+    "WebURL": "https://www.rclinvestor.com",
+    "LogoURL": "/img/logos/US/rcl.png",
+    "FullTimeEmployees": 107950,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 268192721,
+    "SharesFloat": 256644790,
+    "PercentInsiders": 1.831,
+    "PercentInstitutions": 89.925,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0552
+  }
+}

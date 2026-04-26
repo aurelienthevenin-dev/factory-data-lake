@@ -1,0 +1,580 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 15.2148,
+        "totalAssets": 5.0309,
+        "currentShares": 59031051,
+        "change": 58797600,
+        "change_p": 25186.2704
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 9.9083,
+        "totalAssets": 0.431,
+        "currentShares": 38442856,
+        "change": 14551167,
+        "change_p": 60.9047
+      },
+      "2": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.7807,
+        "totalAssets": 0.1752,
+        "currentShares": 37947566,
+        "change": 275228,
+        "change_p": 0.7306
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.361,
+        "totalAssets": 0.1871,
+        "currentShares": 28559488,
+        "change": 168659,
+        "change_p": 0.5941
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3673,
+        "totalAssets": 0.2199,
+        "currentShares": 16944554,
+        "change": 105144,
+        "change_p": 0.6244
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.2933,
+        "totalAssets": 0.2895,
+        "currentShares": 12777429,
+        "change": 240075,
+        "change_p": 1.9149
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.2373,
+        "totalAssets": 0.3188,
+        "currentShares": 12560077,
+        "change": -564662,
+        "change_p": -4.3023
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2953,
+        "totalAssets": 0.1446,
+        "currentShares": 8905537,
+        "change": -3062093,
+        "change_p": -25.5865
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2312,
+        "totalAssets": 0.1694,
+        "currentShares": 8656864,
+        "change": 48966,
+        "change_p": 0.5688
+      },
+      "9": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.4184,
+        "totalAssets": 0.5652,
+        "currentShares": 5503013,
+        "change": -1786415,
+        "change_p": -24.5069
+      },
+      "10": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2886,
+        "totalAssets": 0.417,
+        "currentShares": 4999447,
+        "change": -100615,
+        "change_p": -1.9728
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2487,
+        "totalAssets": 0.1893,
+        "currentShares": 4844900,
+        "change": -171956,
+        "change_p": -3.4276
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2324,
+        "totalAssets": 0.1629,
+        "currentShares": 4781410,
+        "change": 117713,
+        "change_p": 2.524
+      },
+      "13": {
+        "name": "Coatue Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2169,
+        "totalAssets": 3.7629,
+        "currentShares": 4721223,
+        "change": -73554,
+        "change_p": -1.534
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1446,
+        "totalAssets": 0.2126,
+        "currentShares": 4440790,
+        "change": -49644,
+        "change_p": -1.1056
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.139,
+        "totalAssets": 0.2606,
+        "currentShares": 4419026,
+        "change": -92170,
+        "change_p": -2.0431
+      },
+      "16": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.1211,
+        "totalAssets": 0.7432,
+        "currentShares": 4349782,
+        "change": 622283,
+        "change_p": 16.6944
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0765,
+        "totalAssets": 0.2449,
+        "currentShares": 4176833,
+        "change": 183612,
+        "change_p": 4.5981
+      },
+      "18": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.987,
+        "totalAssets": 0.3292,
+        "currentShares": 3829411,
+        "change": 254286,
+        "change_p": 7.1126
+      },
+      "19": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.8734,
+        "totalAssets": 0.3994,
+        "currentShares": 3388653,
+        "change": -324902,
+        "change_p": -8.7491
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1799,
+        "totalAssets": 0.221,
+        "currentShares": 12337601,
+        "change": 52009,
+        "change_p": 0.4233
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5493,
+        "totalAssets": 0.2486,
+        "currentShares": 9890951,
+        "change": -98624,
+        "change_p": -0.9873
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2866,
+        "totalAssets": 0.2479,
+        "currentShares": 4991976,
+        "change": -2712,
+        "change_p": -0.0543
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.274,
+        "totalAssets": 0.2481,
+        "currentShares": 4942876,
+        "change": 8147,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1623,
+        "totalAssets": 0.2481,
+        "currentShares": 4509717,
+        "change": -11074,
+        "change_p": -0.245
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9252,
+        "totalAssets": 0.5688,
+        "currentShares": 3589602,
+        "change": -29127,
+        "change_p": -0.8049
+      },
+      "6": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.6472,
+        "totalAssets": 2.1461,
+        "currentShares": 2511127,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.6431,
+        "totalAssets": 2.1646,
+        "currentShares": 2495016,
+        "change": -16111,
+        "change_p": -0.6416
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.564,
+        "totalAssets": 0.248,
+        "currentShares": 2188291,
+        "change": -11949,
+        "change_p": -0.5431
+      },
+      "9": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5605,
+        "totalAssets": 0.6627,
+        "currentShares": 2174698,
+        "change": 34309,
+        "change_p": 1.6029
+      },
+      "10": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5563,
+        "totalAssets": 2.7468,
+        "currentShares": 2158273,
+        "change": -14952,
+        "change_p": -0.688
+      },
+      "11": {
+        "name": "Janus Concentrated Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 0.5485,
+        "totalAssets": 2.8331,
+        "currentShares": 2128251,
+        "change": 417977,
+        "change_p": 24.4392
+      },
+      "12": {
+        "name": "Janus Henderson Forty S",
+        "date": "2026-01-31",
+        "totalShares": 0.5485,
+        "totalAssets": 3.229,
+        "currentShares": 2128251,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5344,
+        "totalAssets": 0.2454,
+        "currentShares": 2073317,
+        "change": 2880,
+        "change_p": 0.1391
+      },
+      "14": {
+        "name": "First Trust NASDAQ® Cln Edge®StGidIfsETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4564,
+        "totalAssets": 8.2884,
+        "currentShares": 1770934,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4521,
+        "totalAssets": 0.2477,
+        "currentShares": 1754263,
+        "change": 10094,
+        "change_p": 0.5787
+      },
+      "16": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4518,
+        "totalAssets": 1.4318,
+        "currentShares": 1752771,
+        "change": 952,
+        "change_p": 0.0543
+      },
+      "17": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 0.4274,
+        "totalAssets": 1.7537,
+        "currentShares": 1658203,
+        "change": -70800,
+        "change_p": -4.0948
+      },
+      "18": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4254,
+        "totalAssets": 0.9576,
+        "currentShares": 1650363,
+        "change": 105857,
+        "change_p": 6.8538
+      },
+      "19": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.4084,
+        "totalAssets": 1.0648,
+        "currentShares": 1584722,
+        "change": -41145,
+        "change_p": -2.5306
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 40.6443,
+    "ForwardPE": 31.9489,
+    "PriceSalesTTM": 5.9922,
+    "PriceBookMRQ": 8.4788,
+    "EnterpriseValue": 174428776830,
+    "EnterpriseValueRevenue": 6.3549,
+    "EnterpriseValueEbitda": 28.2293
+  },
+  "Highlights": {
+    "MarketCapitalization": 164474748928,
+    "MarketCapitalizationMln": 164474.7489,
+    "EBITDA": 6310000128,
+    "PERatio": 40.6443,
+    "PEGRatio": 3.1446,
+    "WallStreetTargetPrice": 412.9518,
+    "BookValue": 50.077,
+    "DividendShare": 4.16,
+    "DividendYield": 0.0098,
+    "EarningsShare": 10.43,
+    "EPSEstimateCurrentYear": 13.305,
+    "EPSEstimateNextYear": 15.4961,
+    "EPSEstimateNextQuarter": 3.0056,
+    "EPSEstimateCurrentQuarter": 3.3186,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1489,
+    "OperatingMarginTTM": 0.1997,
+    "ReturnOnAssetsTTM": 0.0833,
+    "ReturnOnEquityTTM": 0.2153,
+    "RevenueTTM": 27448000512,
+    "RevenuePerShareTTM": 70.398,
+    "QuarterlyRevenueGrowthYOY": 0.131,
+    "GrossProfitTTM": 10368000000,
+    "DilutedEpsTTM": 10.43,
+    "QuarterlyEarningsGrowthYOY": 0.189
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.6,
+    "TotalEsgPercentile": 18.32,
+    "EnvironmentScore": 9.75,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 12.32,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 11.03,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ETN",
+    "Type": "Common Stock",
+    "Name": "Eaton Corporation PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJ3PD2",
+    "ISIN": "IE00B8KQN827",
+    "LEI": "0NZWDMRCE180888QQE14",
+    "PrimaryTicker": "ETN.US",
+    "CUSIP": "278058102",
+    "CIK": "0001551182",
+    "EmployerIdNumber": "98-1059235",
+    "FiscalYearEnd": "December",
+    "IPODate": "1972-06-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Electrical Equipment",
+    "GicSubIndustry": "Electrical Components & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Eaton Corporation plc operates as a power management company in the United States, Canada, Latin America, Europe, and the Asia Pacific. The company operates through Electrical Americas, Electrical Global, Aerospace, Vehicle, and eMobility segments. It offers electrical components, industrial components, power distribution and assemblies, residential products, single and three phase power quality and connectivity products, wiring devices, circuit protection products, utility power distribution products, and power reliability equipment; and hazardous duty electrical equipment, emergency lighting, fire detection, intrinsically safe explosion-proof instrumentation, and structural support systems. It also provides pumps, motors, hydraulic power units, hoses and fittings, and electro-hydraulic pumps; valves, cylinders, electronic controls, electromechanical actuators, sensors, aircraft flap and slat systems, and nose wheel steering systems; hose, thermoplastic tubing products, fittings, adapters, couplings, and sealing and ducting products; air-to-air refueling systems, fuel pumps, fuel inerting products, sensors, and adapters and regulators; oxygen generation system, payload carriages, and thermal management products; wiring connectors and cables; hydraulic and bag filters, strainers and cartridges, and golf grips for manufacturers of commercial and military aircraft, and related after-market customers, as well as industrial applications. In addition, the company offers transmissions, clutches, hybrid power systems, superchargers, engine valves and valve actuation systems, locking and limited slip differentials, transmission controls, and fuel vapor components for the vehicle industry; voltage inverters, converters, fuses, circuit protection units, vehicle controls, power distribution systems, fuel tank isolation valves, and commercial vehicle hybrid systems. The company formerly known as Abeiron Limited. The company was founded in 1911 and is based in Dublin, Ireland.",
+    "Address": "Eaton House, Dublin, Ireland, D04 Y0C2",
+    "AddressData": {
+      "Street": "Eaton House",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "ZIP": "D04 Y0C2"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Paulo Ruiz Sternadt",
+        "Title": "CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Ms. Lucy Clark Dougherty",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Kaled H. Awada",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Mr. Heath B. Monesmith",
+        "Title": "President & COO of Electrical Sector",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. David B. Foster",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Rogerio  Branco",
+        "Title": "Executive VP and Chief Supply Chain & Operations Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Raja Ramana Macha B.E., M.B.A.",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1966"
+      },
+      "7": {
+        "Name": "Mr. Shailendra  Shukla",
+        "Title": "Managing Director of Vehicle Group India",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Marco  Martini",
+        "Title": "President of Vehicle Group in Europe, Middle East & Africa",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "353 1 637 2900",
+    "WebURL": "https://www.eaton.com",
+    "LogoURL": "/img/logos/US/ETN.png",
+    "FullTimeEmployees": 97303,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 387985340,
+    "SharesFloat": 387252207,
+    "PercentInsiders": 0.065,
+    "PercentInstitutions": 85.724,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0228
+  }
+}

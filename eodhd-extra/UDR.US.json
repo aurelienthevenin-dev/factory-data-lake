@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.3125,
+        "totalAssets": 0.0265,
+        "currentShares": 49902666,
+        "change": -393979,
+        "change_p": -0.7833
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.0553,
+        "totalAssets": 0.0214,
+        "currentShares": 32769460,
+        "change": 155173,
+        "change_p": 0.4758
+      },
+      "2": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 9.0497,
+        "totalAssets": 0.1157,
+        "currentShares": 29492515,
+        "change": 55410,
+        "change_p": 0.1882
+      },
+      "3": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.1436,
+        "totalAssets": 1.7837,
+        "currentShares": 26539436,
+        "change": 451174,
+        "change_p": 1.7294
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.7184,
+        "totalAssets": 0.0283,
+        "currentShares": 21894906,
+        "change": 477618,
+        "change_p": 2.2301
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.3749,
+        "totalAssets": 0.0965,
+        "currentShares": 14257639,
+        "change": -229053,
+        "change_p": -1.5811
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.2757,
+        "totalAssets": 0.0261,
+        "currentShares": 13934308,
+        "change": -1876488,
+        "change_p": -11.8684
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.1655,
+        "totalAssets": 0.0606,
+        "currentShares": 10316113,
+        "change": 509196,
+        "change_p": 5.1922
+      },
+      "8": {
+        "name": "CenterSquare Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8811,
+        "totalAssets": 3.3991,
+        "currentShares": 9389350,
+        "change": 592992,
+        "change_p": 6.7413
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6268,
+        "totalAssets": 0.0193,
+        "currentShares": 8560665,
+        "change": 87214,
+        "change_p": 1.0293
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.31,
+        "totalAssets": 0.0084,
+        "currentShares": 7528240,
+        "change": 3368718,
+        "change_p": 80.9881
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.949,
+        "totalAssets": 0.0408,
+        "currentShares": 6351828,
+        "change": -224040,
+        "change_p": -3.407
+      },
+      "12": {
+        "name": "Daiwa Securities Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.6934,
+        "totalAssets": 0.6939,
+        "currentShares": 5518629,
+        "change": 299745,
+        "change_p": 5.7435
+      },
+      "13": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5163,
+        "totalAssets": 0.0282,
+        "currentShares": 4941636,
+        "change": 228169,
+        "change_p": 4.8408
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4436,
+        "totalAssets": 0.0362,
+        "currentShares": 4704492,
+        "change": 83122,
+        "change_p": 1.7986
+      },
+      "15": {
+        "name": "CBRE Investment Management Listed Real Assets LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4382,
+        "totalAssets": 2.5241,
+        "currentShares": 4687007,
+        "change": 320400,
+        "change_p": 7.3375
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3985,
+        "totalAssets": 0.0217,
+        "currentShares": 4557636,
+        "change": -107668,
+        "change_p": -2.3078
+      },
+      "17": {
+        "name": "PGGM Investments",
+        "date": "2025-12-31",
+        "totalShares": 1.2683,
+        "totalAssets": 2.4005,
+        "currentShares": 4133474,
+        "change": 154119,
+        "change_p": 3.873
+      },
+      "18": {
+        "name": "Prudential Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2301,
+        "totalAssets": 0.1775,
+        "currentShares": 4008828,
+        "change": 3511963,
+        "change_p": 706.8244
+      },
+      "19": {
+        "name": "Rush Island Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0943,
+        "totalAssets": 8.1738,
+        "currentShares": 3566132,
+        "change": 3566132,
+        "change_p": 0
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 4.276,
+        "totalAssets": 0.4307,
+        "currentShares": 13935189,
+        "change": 9644454,
+        "change_p": 224.7739
+      },
+      "1": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.5858,
+        "totalAssets": 0.6075,
+        "currentShares": 11685918,
+        "change": -45471,
+        "change_p": -0.3876
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1949,
+        "totalAssets": 0.0176,
+        "currentShares": 10411939,
+        "change": -42596,
+        "change_p": -0.4074
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3495,
+        "totalAssets": 0.0182,
+        "currentShares": 7656791,
+        "change": -79327,
+        "change_p": -1.0254
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3284,
+        "totalAssets": 0.1543,
+        "currentShares": 7588139,
+        "change": 82605,
+        "change_p": 1.1006
+      },
+      "5": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.6561,
+        "totalAssets": 0.1099,
+        "currentShares": 5397101,
+        "change": 5397101,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4774,
+        "totalAssets": 0.1907,
+        "currentShares": 4814730,
+        "change": 14148,
+        "change_p": 0.2947
+      },
+      "7": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3166,
+        "totalAssets": 0.1411,
+        "currentShares": 4290735,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3031,
+        "totalAssets": 0.3639,
+        "currentShares": 4246652,
+        "change": 77634,
+        "change_p": 1.8622
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1859,
+        "totalAssets": 0.0181,
+        "currentShares": 3864642,
+        "change": -2100,
+        "change_p": -0.0543
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1744,
+        "totalAssets": 0.0192,
+        "currentShares": 3827291,
+        "change": 6275,
+        "change_p": 0.1642
+      },
+      "11": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 1.1048,
+        "totalAssets": 0.5467,
+        "currentShares": 3600414,
+        "change": -106017,
+        "change_p": -2.8604
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0826,
+        "totalAssets": 0.0183,
+        "currentShares": 3528101,
+        "change": -8575,
+        "change_p": -0.2425
+      },
+      "13": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 1.0767,
+        "totalAssets": 1.3664,
+        "currentShares": 3508959,
+        "change": -173956,
+        "change_p": -4.7233
+      },
+      "14": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 1.0767,
+        "totalAssets": 1.3626,
+        "currentShares": 3508959,
+        "change": -173956,
+        "change_p": -4.7233
+      },
+      "15": {
+        "name": "Daiwa US-REIT Open Mother Fund",
+        "date": "2025-09-17",
+        "totalShares": 1.0641,
+        "totalAssets": 2.4609,
+        "currentShares": 3467717,
+        "change": -1375258,
+        "change_p": -28.397
+      },
+      "16": {
+        "name": "Fidelity Real Estate Investment Port",
+        "date": "2026-02-28",
+        "totalShares": 0.8624,
+        "totalAssets": 3.2614,
+        "currentShares": 2810575,
+        "change": -20100,
+        "change_p": -0.7101
+      },
+      "17": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 0.8141,
+        "totalAssets": 1.0889,
+        "currentShares": 2653141,
+        "change": -1171887,
+        "change_p": -30.6373
+      },
+      "18": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.7815,
+        "totalAssets": 0.0622,
+        "currentShares": 2546876,
+        "change": 369426,
+        "change_p": 16.966
+      },
+      "19": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.763,
+        "totalAssets": 1.1475,
+        "currentShares": 2486578,
+        "change": -5584,
+        "change_p": -0.2241
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.7699,
+    "ForwardPE": 54.9451,
+    "PriceSalesTTM": 7.485,
+    "PriceBookMRQ": 3.5345,
+    "EnterpriseValue": 17516750298,
+    "EnterpriseValueRevenue": 10.2299,
+    "EnterpriseValueEbitda": 13.6721
+  },
+  "Highlights": {
+    "MarketCapitalization": 13090524160,
+    "MarketCapitalizationMln": 13090.5242,
+    "EBITDA": 1035198016,
+    "PERatio": 30.7699,
+    "PEGRatio": 8.1715,
+    "WallStreetTargetPrice": 40.5238,
+    "BookValue": 9.886,
+    "DividendShare": 1.72,
+    "DividendYield": 0.0493,
+    "EarningsShare": 1.13,
+    "EPSEstimateCurrentYear": 0.48,
+    "EPSEstimateNextYear": 0.5404,
+    "EPSEstimateNextQuarter": 0.13,
+    "EPSEstimateCurrentQuarter": 0.1552,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.216,
+    "OperatingMarginTTM": 0.222,
+    "ReturnOnAssetsTTM": 0.0209,
+    "ReturnOnEquityTTM": 0.0938,
+    "RevenueTTM": 1748904960,
+    "RevenuePerShareTTM": 5.295,
+    "QuarterlyRevenueGrowthYOY": 0.015,
+    "GrossProfitTTM": 1165136000,
+    "DilutedEpsTTM": 1.13,
+    "QuarterlyEarningsGrowthYOY": 0.976
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.6,
+    "TotalEsgPercentile": 10.22,
+    "EnvironmentScore": 8.27,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 10.73,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.6,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "UDR",
+    "Type": "Common Stock",
+    "Name": "UDR Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C41023",
+    "ISIN": "US9026531049",
+    "LEI": "P3CH2EG5X6Z1XWU1OO74",
+    "PrimaryTicker": "UDR.US",
+    "CUSIP": "910197102",
+    "CIK": "0000074208",
+    "EmployerIdNumber": "54-0857512",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-07",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Residential REITs",
+    "GicSubIndustry": "Multi-Family Residential REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "UDR, Inc. is a S&P 500 company, is a leading multifamily real estate investment trust with a demonstrated performance history of delivering superior and dependable returns by successfully managing, buying, selling, developing and redeveloping attractive real estate properties in targeted U.S. markets. As of December 31, 2025, UDR owned or had an ownership position in 60,941 apartment homes, including 300 apartment homes under development. For over 53 years, UDR has delivered long-term value to shareholders, the best standard of service to residents and the highest quality experience for associates. UDR, Inc. was incorporated in 1972 in Maryland, USA.",
+    "Address": "1745 Shea Center Drive, Highlands Ranch, CO, United States, 80129-1540",
+    "AddressData": {
+      "Street": "1745 Shea Center Drive",
+      "City": "Highlands Ranch",
+      "State": "CO",
+      "Country": "United States",
+      "ZIP": "80129-1540"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Thomas W. Toomey CPA",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. David Dooley Bragg",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1980"
+      },
+      "2": {
+        "Name": "Mr. Michael D. Lacy",
+        "Title": "Senior VP & COO",
+        "YearBorn": "1982"
+      },
+      "3": {
+        "Name": "Mr. Keith  Benson J.D.",
+        "Title": "Senior VP & Chief Legal Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. H. Andrew Cantor",
+        "Title": "Senior Vice President of Investments",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Tracy L. Hofmeister",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Joshua A. Gampp",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Philip J. Curry",
+        "Title": "VP of Information & Security",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Shane  Summers",
+        "Title": "Vice President of Operations, Sourcing & Administration",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Trent Nathan Trujillo",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "720 283 6120",
+    "WebURL": "https://www.udr.com",
+    "LogoURL": "/img/logos/US/Udr.png",
+    "FullTimeEmployees": 1420,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 328571965,
+    "SharesFloat": 295951340,
+    "PercentInsiders": 0.438,
+    "PercentInstitutions": 108.535,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0612
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.6701,
+        "totalAssets": 0.1176,
+        "currentShares": 38873991,
+        "change": 408464,
+        "change_p": 1.0619
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9225,
+        "totalAssets": 0.112,
+        "currentShares": 31848393,
+        "change": -1648409,
+        "change_p": -4.9211
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2891,
+        "totalAssets": 0.1201,
+        "currentShares": 17242132,
+        "change": 85291,
+        "change_p": 0.4971
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.9597,
+        "totalAssets": 0.1694,
+        "currentShares": 15918142,
+        "change": -201717,
+        "change_p": -1.2514
+      },
+      "4": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.9693,
+        "totalAssets": 0.3906,
+        "currentShares": 11936742,
+        "change": 1101055,
+        "change_p": 10.1614
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.5762,
+        "totalAssets": 0.0623,
+        "currentShares": 10356222,
+        "change": 3101493,
+        "change_p": 42.7513
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.3443,
+        "totalAssets": 0.2104,
+        "currentShares": 9424039,
+        "change": 1496583,
+        "change_p": 18.8785
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2044,
+        "totalAssets": 0.1136,
+        "currentShares": 8861852,
+        "change": 30078,
+        "change_p": 0.3406
+      },
+      "8": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.1233,
+        "totalAssets": 0.5745,
+        "currentShares": 8535855,
+        "change": -73129,
+        "change_p": -0.8494
+      },
+      "9": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9801,
+        "totalAssets": 0.3988,
+        "currentShares": 7960172,
+        "change": -641073,
+        "change_p": -7.4533
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.9208,
+        "totalAssets": 0.1052,
+        "currentShares": 7721474,
+        "change": -412386,
+        "change_p": -5.07
+      },
+      "11": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 1.8127,
+        "totalAssets": 4.0369,
+        "currentShares": 7287068,
+        "change": -669698,
+        "change_p": -8.4167
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2404,
+        "totalAssets": 0.1579,
+        "currentShares": 4986284,
+        "change": -37506,
+        "change_p": -0.7466
+      },
+      "13": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1786,
+        "totalAssets": 0.2187,
+        "currentShares": 4737807,
+        "change": 3768,
+        "change_p": 0.0796
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1528,
+        "totalAssets": 0.0564,
+        "currentShares": 4634418,
+        "change": 304721,
+        "change_p": 7.0379
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0762,
+        "totalAssets": 0.1112,
+        "currentShares": 4326237,
+        "change": -40470,
+        "change_p": -0.9268
+      },
+      "16": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0713,
+        "totalAssets": 1.7994,
+        "currentShares": 4306696,
+        "change": -234970,
+        "change_p": -5.1737
+      },
+      "17": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0271,
+        "totalAssets": 0.4521,
+        "currentShares": 4128991,
+        "change": -296914,
+        "change_p": -6.7085
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9545,
+        "totalAssets": 0.2608,
+        "currentShares": 3836936,
+        "change": 1994431,
+        "change_p": 108.2456
+      },
+      "19": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.8485,
+        "totalAssets": 0.3129,
+        "currentShares": 3411137,
+        "change": 1596876,
+        "change_p": 88.018
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1851,
+        "totalAssets": 0.1335,
+        "currentShares": 12804038,
+        "change": 411494,
+        "change_p": 3.3205
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5593,
+        "totalAssets": 0.1505,
+        "currentShares": 10288557,
+        "change": 201951,
+        "change_p": 2.0022
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2916,
+        "totalAssets": 0.15,
+        "currentShares": 5192419,
+        "change": -2832,
+        "change_p": -0.0545
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2415,
+        "totalAssets": 0.1415,
+        "currentShares": 4990701,
+        "change": 8231,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1873,
+        "totalAssets": 1.8149,
+        "currentShares": 4773094,
+        "change": -195060,
+        "change_p": -3.9262
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1651,
+        "totalAssets": 0.1499,
+        "currentShares": 4683805,
+        "change": -11515,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1638,
+        "totalAssets": 0.8757,
+        "currentShares": 4678631,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.1401,
+        "totalAssets": 1.7396,
+        "currentShares": 4583249,
+        "change": -119001,
+        "change_p": -2.5307
+      },
+      "8": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.0488,
+        "totalAssets": 0.8027,
+        "currentShares": 4216235,
+        "change": -462396,
+        "change_p": -9.8831
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9274,
+        "totalAssets": 0.3437,
+        "currentShares": 3728105,
+        "change": 69622,
+        "change_p": 1.903
+      },
+      "10": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.8026,
+        "totalAssets": 1.4153,
+        "currentShares": 3226593,
+        "change": 66807,
+        "change_p": 2.1143
+      },
+      "11": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7601,
+        "totalAssets": 1.5376,
+        "currentShares": 3055550,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.7335,
+        "totalAssets": 0.5061,
+        "currentShares": 2948630,
+        "change": -123627,
+        "change_p": -4.024
+      },
+      "13": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.6888,
+        "totalAssets": 1.2758,
+        "currentShares": 2769138,
+        "change": -46810,
+        "change_p": -1.6623
+      },
+      "14": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6869,
+        "totalAssets": 1.1905,
+        "currentShares": 2761176,
+        "change": 4686,
+        "change_p": 0.17
+      },
+      "15": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.6755,
+        "totalAssets": 1.2426,
+        "currentShares": 2715383,
+        "change": -19427,
+        "change_p": -0.7104
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5661,
+        "totalAssets": 0.15,
+        "currentShares": 2275598,
+        "change": 53480,
+        "change_p": 2.4067
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5432,
+        "totalAssets": 0.3871,
+        "currentShares": 2183655,
+        "change": 17906,
+        "change_p": 0.8268
+      },
+      "18": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.5389,
+        "totalAssets": 0.2083,
+        "currentShares": 2166297,
+        "change": -8036,
+        "change_p": -0.3696
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5363,
+        "totalAssets": 0.1485,
+        "currentShares": 2156057,
+        "change": 65600,
+        "change_p": 3.1381
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 12.7677,
+    "ForwardPE": 12.2699,
+    "PriceSalesTTM": 3.8488,
+    "PriceBookMRQ": 1.4221,
+    "EnterpriseValue": 148709720064,
+    "EnterpriseValueRevenue": 6.6047,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 88685125632,
+    "MarketCapitalizationMln": 88685.1256,
+    "EBITDA": null,
+    "PERatio": 12.7677,
+    "PEGRatio": 1.7286,
+    "WallStreetTargetPrice": 253.325,
+    "BookValue": 140.433,
+    "DividendShare": 6.7,
+    "DividendYield": 0.0298,
+    "EarningsShare": 17.22,
+    "EPSEstimateCurrentYear": 18.3854,
+    "EPSEstimateNextYear": 21.0108,
+    "EPSEstimateNextQuarter": 4.3835,
+    "EPSEstimateCurrentQuarter": 3.9637,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.3131,
+    "OperatingMarginTTM": 0.3673,
+    "ReturnOnAssetsTTM": 0.0126,
+    "ReturnOnEquityTTM": 0.121,
+    "RevenueTTM": 23042000896,
+    "RevenuePerShareTTM": 57.931,
+    "QuarterlyRevenueGrowthYOY": 0.138,
+    "GrossProfitTTM": 23042000896,
+    "DilutedEpsTTM": 17.22,
+    "QuarterlyEarningsGrowthYOY": 0.178
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.75,
+    "TotalEsgPercentile": 25.88,
+    "EnvironmentScore": 1.11,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 11.4,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 6.97,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PNC",
+    "Type": "Common Stock",
+    "Name": "PNC Financial Services Group Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRD0D8",
+    "ISIN": "US6934751057",
+    "LEI": "CFGNEKW0P8842LEUIA51",
+    "PrimaryTicker": "PNC.US",
+    "CUSIP": "693475105",
+    "CIK": "0000713676",
+    "EmployerIdNumber": "25-1435979",
+    "FiscalYearEnd": "December",
+    "IPODate": "1988-09-07",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Regional Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "The PNC Financial Services Group, Inc. operates as a diversified financial services company in the United States. It operates through three segments: Retail Banking, Corporate & Institutional Banking, and Asset Management Group segments. The Retail Banking segment offers checking, savings, and money market accounts, and time deposit; residential mortgages, home equity loans and lines of credit, auto loans, credit cards, education loans, and personal and small business loans and lines of credit; and brokerage, insurance, and investment and cash management services. This segment serves consumer and small business customers through a network of branches, digital channels, ATMs, and through phone-based customer contact centers. The Corporate & Institutional Banking segment provides secured and unsecured loans, letters of credit, and equipment leases; cash and investment management, receivables and disbursement management, funds transfer, international payment, and access to online/mobile information management and reporting services; asset-backed financing, securities underwriting, loan syndications, mergers and acquisitions and equity capital markets advisory, and customer related services; and commercial loan servicing and technology solutions. It serves mid-sized and large corporations, and government and not-for-profit entities. The Asset Management Group segment offers investment and retirement planning, customized investment management, credit and cash management solutions, and trust management and administration services for high net worth and ultra high net worth individuals, and their families; and multi-generational family planning services. It also offers outsourced chief investment officer, custody, cash and fixed income client solutions, and retirement plan fiduciary investment services for institutional clients. The company was founded in 1865 and is headquartered in Pittsburgh, Pennsylvania.",
+    "Address": "The Tower at PNC Plaza, Pittsburgh, PA, United States, 15222-2401",
+    "AddressData": {
+      "Street": "The Tower at PNC Plaza",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "15222-2401"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. William S. Demchak",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Mark Kenneth Wiedman J.D.",
+        "Title": "President",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Robert Q. Reilly",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Ms. Deborah  Guild",
+        "Title": "Executive VP & Head of Technology",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Alexander E. C. Overstrom",
+        "Title": "Executive VP & Head of Retail Banking",
+        "YearBorn": "1984"
+      },
+      "5": {
+        "Name": "Ms. Laura L. Long J.D.",
+        "Title": "Executive VP, General Counsel & Chief Administrative Officer",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. Bryan K. Gill",
+        "Title": "EVP, Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Amanda  Rosseter Schab",
+        "Title": "Executive VP, Chief Communications & Brand Officer",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Ms. Jenn  Garbach",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Vicki C. Henn",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1969"
+      }
+    },
+    "Phone": "888 762 2265",
+    "WebURL": "https://www.pnc.com",
+    "LogoURL": "/img/logos/US/pnc.png",
+    "FullTimeEmployees": 56366,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 402000000,
+    "SharesFloat": 399018118,
+    "PercentInsiders": 0.305,
+    "PercentInstitutions": 85.906,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0174
+  }
+}

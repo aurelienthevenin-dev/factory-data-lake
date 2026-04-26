@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.9202,
+        "totalAssets": 0.0146,
+        "currentShares": 15096018,
+        "change": 683176,
+        "change_p": 4.7401
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.0883,
+        "totalAssets": 0.009,
+        "currentShares": 7034002,
+        "change": -91923,
+        "change_p": -1.29
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.144,
+        "totalAssets": 0.0195,
+        "currentShares": 5728671,
+        "change": 2679093,
+        "change_p": 87.8513
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9448,
+        "totalAssets": 0.0139,
+        "currentShares": 5453238,
+        "change": -434540,
+        "change_p": -7.3804
+      },
+      "4": {
+        "name": "Impax Asset Management Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 3.3634,
+        "totalAssets": 1.9454,
+        "currentShares": 4649544,
+        "change": -200614,
+        "change_p": -4.1362
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.2711,
+        "totalAssets": 0.0523,
+        "currentShares": 4521991,
+        "change": -241041,
+        "change_p": -5.0607
+      },
+      "6": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8914,
+        "totalAssets": 0.1344,
+        "currentShares": 3997041,
+        "change": 788210,
+        "change_p": 24.5638
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5301,
+        "totalAssets": 0.0144,
+        "currentShares": 3497615,
+        "change": 3526,
+        "change_p": 0.1009
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0312,
+        "totalAssets": 0.0125,
+        "currentShares": 2807942,
+        "change": -99681,
+        "change_p": -3.4283
+      },
+      "9": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6961,
+        "totalAssets": 0.2768,
+        "currentShares": 2344631,
+        "change": 60260,
+        "change_p": 2.6379
+      },
+      "10": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.5818,
+        "totalAssets": 0.1419,
+        "currentShares": 2186659,
+        "change": -267193,
+        "change_p": -10.8887
+      },
+      "11": {
+        "name": "Earnest Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4981,
+        "totalAssets": 0.5936,
+        "currentShares": 2071019,
+        "change": -11963,
+        "change_p": -0.5743
+      },
+      "12": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.4215,
+        "totalAssets": 0.0955,
+        "currentShares": 1965048,
+        "change": -543899,
+        "change_p": -21.6784
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.3707,
+        "totalAssets": 0.0266,
+        "currentShares": 1894823,
+        "change": 23129,
+        "change_p": 1.2357
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3011,
+        "totalAssets": 0.009,
+        "currentShares": 1798652,
+        "change": 81468,
+        "change_p": 4.7443
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.0503,
+        "totalAssets": 0.0104,
+        "currentShares": 1451866,
+        "change": 49722,
+        "change_p": 3.5461
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9632,
+        "totalAssets": 0.0029,
+        "currentShares": 1331586,
+        "change": 804910,
+        "change_p": 152.8283
+      },
+      "17": {
+        "name": "SEI Investments Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9552,
+        "totalAssets": 0.1042,
+        "currentShares": 1320411,
+        "change": 44262,
+        "change_p": 3.4684
+      },
+      "18": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9255,
+        "totalAssets": 0.0449,
+        "currentShares": 1279356,
+        "change": 617179,
+        "change_p": 93.2045
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9151,
+        "totalAssets": 0.0104,
+        "currentShares": 1265041,
+        "change": 494503,
+        "change_p": 64.1763
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.6126,
+        "totalAssets": 0.0119,
+        "currentShares": 3611637,
+        "change": 14843,
+        "change_p": 0.4127
+      },
+      "1": {
+        "name": "Impax Water Strategy Composite",
+        "date": "2026-01-31",
+        "totalShares": 2.1566,
+        "totalAssets": 3.0764,
+        "currentShares": 2981230,
+        "change": -61930,
+        "change_p": -2.0351
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0713,
+        "totalAssets": 0.0133,
+        "currentShares": 2863296,
+        "change": -50180,
+        "change_p": -1.7223
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.8934,
+        "totalAssets": 0.1039,
+        "currentShares": 2617374,
+        "change": 43019,
+        "change_p": 1.6711
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.8439,
+        "totalAssets": 0.1971,
+        "currentShares": 2549051,
+        "change": 7467,
+        "change_p": 0.2938
+      },
+      "5": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.6552,
+        "totalAssets": 1.3662,
+        "currentShares": 2288197,
+        "change": -1088,
+        "change_p": -0.0475
+      },
+      "6": {
+        "name": "Pictet-Water I EUR",
+        "date": "2025-12-31",
+        "totalShares": 1.3173,
+        "totalAssets": 1.4751,
+        "currentShares": 1821052,
+        "change": -27723,
+        "change_p": -1.4995
+      },
+      "7": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.0597,
+        "totalAssets": 0.245,
+        "currentShares": 1464951,
+        "change": 35242,
+        "change_p": 2.465
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0458,
+        "totalAssets": 0.0132,
+        "currentShares": 1445714,
+        "change": -792,
+        "change_p": -0.0548
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0437,
+        "totalAssets": 0.015,
+        "currentShares": 1442777,
+        "change": 2354,
+        "change_p": 0.1634
+      },
+      "10": {
+        "name": "BNP Paribas Aqua C C",
+        "date": "2026-02-28",
+        "totalShares": 1.0023,
+        "totalAssets": 2.9011,
+        "currentShares": 1385566,
+        "change": -97028,
+        "change_p": -6.5445
+      },
+      "11": {
+        "name": "BNP Paribas Aqua I",
+        "date": "2026-02-28",
+        "totalShares": 1.0008,
+        "totalAssets": 2.9255,
+        "currentShares": 1383532,
+        "change": -114779,
+        "change_p": -7.6606
+      },
+      "12": {
+        "name": "Impax Leaders Strategy Composite",
+        "date": "2026-01-31",
+        "totalShares": 0.9924,
+        "totalAssets": 1.8154,
+        "currentShares": 1371852,
+        "change": -518,
+        "change_p": -0.0377
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.947,
+        "totalAssets": 0.0133,
+        "currentShares": 1309130,
+        "change": -3185,
+        "change_p": -0.2427
+      },
+      "14": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9364,
+        "totalAssets": 0.1385,
+        "currentShares": 1294430,
+        "change": 753099,
+        "change_p": 139.1199
+      },
+      "15": {
+        "name": "EARNEST Partners Smid Cap Core Founders",
+        "date": "2026-03-31",
+        "totalShares": 0.9155,
+        "totalAssets": 1.7095,
+        "currentShares": 1265525,
+        "change": -7111,
+        "change_p": -0.5588
+      },
+      "16": {
+        "name": "First Trust SMID Cp Rising Div Achv ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8968,
+        "totalAssets": 0.8094,
+        "currentShares": 1239772,
+        "change": 242,
+        "change_p": 0.0195
+      },
+      "17": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.7804,
+        "totalAssets": 0.0381,
+        "currentShares": 1078858,
+        "change": -55573,
+        "change_p": -4.8988
+      },
+      "18": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7505,
+        "totalAssets": 0.3308,
+        "currentShares": 1037523,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Scotia Wealth US Dividend Pool K",
+        "date": "2025-12-31",
+        "totalShares": 0.7237,
+        "totalAssets": 2.4955,
+        "currentShares": 1000415,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.9421,
+    "ForwardPE": 16.3666,
+    "PriceSalesTTM": 2.3236,
+    "PriceBookMRQ": 4.8429,
+    "EnterpriseValue": 8996929297,
+    "EnterpriseValueRevenue": 2.3489,
+    "EnterpriseValueEbitda": 11.0568
+  },
+  "Highlights": {
+    "MarketCapitalization": 8899878912,
+    "MarketCapitalizationMln": 8899.8789,
+    "EBITDA": 813100032,
+    "PERatio": 16.9421,
+    "PEGRatio": 1.3646,
+    "WallStreetTargetPrice": 78.3,
+    "BookValue": 13.411,
+    "DividendShare": 1.38,
+    "DividendYield": 0.0212,
+    "EarningsShare": 3.8,
+    "EPSEstimateCurrentYear": 3.9774,
+    "EPSEstimateNextYear": 4.3245,
+    "EPSEstimateNextQuarter": 0.9923,
+    "EPSEstimateCurrentQuarter": 0.8416,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1426,
+    "OperatingMarginTTM": 0.1795,
+    "ReturnOnAssetsTTM": 0.1426,
+    "ReturnOnEquityTTM": 0.292,
+    "RevenueTTM": 3830200064,
+    "RevenuePerShareTTM": 27.159,
+    "QuarterlyRevenueGrowthYOY": 0,
+    "GrossProfitTTM": 1487399936,
+    "DilutedEpsTTM": 3.8,
+    "QuarterlyEarningsGrowthYOY": 0.191
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.56,
+    "TotalEsgPercentile": 66.16,
+    "EnvironmentScore": 9.03,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 14.92,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 8.12,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AOS",
+    "Type": "Common Stock",
+    "Name": "Smith AO Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BC1L02",
+    "ISIN": "US8318652091",
+    "LEI": "549300XG4US7UJNECY36",
+    "PrimaryTicker": "AOS.US",
+    "CUSIP": "831865100",
+    "CIK": "0000091142",
+    "EmployerIdNumber": "39-0619790",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Building Products",
+    "GicSubIndustry": "Building Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "A. O. Smith Corporation manufactures and markets residential and commercial gas and electric water heaters, boilers, heat pumps, tanks, and water treatment products in North America, China, Europe, and India. The company offers water heaters for residences, restaurants, hotels, office buildings, laundries, car washes, and small businesses; boilers for hospitals, schools, hotels, homes, apartments, and condominiums, and other large commercial buildings; and water treatment products comprising point-of-entry water softeners, well water solutions, and whole-home water filtration products, and point-of-use carbon and reverse osmosis products for residences, restaurants, hotels, and offices. It also provides commercial water treatment and filtration products; expansion tanks, commercial solar water heating systems, swimming pool and spa heaters, and related products and parts; and electric wall-hung, gas tankless, combi-boiler, and heat pump and solar water heaters. The company offers its products under the A. O. Smith, State, Lochinvar, Hague, Water-Right, Master Water, Atlantic Filter, Impact, and Water Tec brands. It distributes its products through independent wholesale plumbing distributors, as well as to retail channels consisting of hardware and home center chains, and manufacturer representative firms, as well as offers Aquasana branded products directly to consumers through e-commerce channels; and A. O. Smith branded water treatment products through dealer network and Amazon. A. O. Smith Corporation was founded in 1874 and is headquartered in Milwaukee, Wisconsin.",
+    "Address": "11270 West Park Place, Milwaukee, WI, United States, 53224",
+    "AddressData": {
+      "Street": "11270 West Park Place",
+      "City": "Milwaukee",
+      "State": "WI",
+      "Country": "United States",
+      "ZIP": "53224"
+    },
+    "Listings": {
+      "0": {
+        "Code": "3SM",
+        "Exchange": "F",
+        "Name": "Smith AO Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Kevin J. Wheeler",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Stephen M. Shafer",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Charles T. Lauber",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Ming  Cheng Ph.D.",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Christopher T. Howe",
+        "Title": "Senior VP & Chief Digital Information Officer",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. James F. Stern J.D.",
+        "Title": "Executive VP of Corporate Development and Strategy & Secretary",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Ms. Helen E. Gurholt",
+        "Title": "Vice President of Investor Relations and Financial Planning & Analysis",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Mr. Paul J. Jones",
+        "Title": "Senior VP, General Counsel & Chief Compliance Officer",
+        "YearBorn": "1971"
+      },
+      "8": {
+        "Name": "Mr. Curtis E. Selby",
+        "Title": "Senior Vice President of Human Resources & Public Affairs",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Dr. D. Samuel Karge",
+        "Title": "Senior VP & President of North America Water Treatment",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "414 359 4000",
+    "WebURL": "https://www.aosmith.com",
+    "LogoURL": "/img/logos/US/aos.png",
+    "FullTimeEmployees": 11500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 112376652,
+    "SharesFloat": 110273763,
+    "PercentInsiders": 0.453,
+    "PercentInstitutions": 93.081,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0677
+  }
+}

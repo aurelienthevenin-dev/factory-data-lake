@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.2937,
+        "totalAssets": 0.2479,
+        "currentShares": 126553498,
+        "change": 1322682,
+        "change_p": 1.0562
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2028,
+        "totalAssets": 0.2185,
+        "currentShares": 100848100,
+        "change": 6289930,
+        "change_p": 6.6519
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.0293,
+        "totalAssets": 0.5955,
+        "currentShares": 86420795,
+        "change": -13395833,
+        "change_p": -13.4204
+      },
+      "3": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 6.2443,
+        "totalAssets": 6.5427,
+        "currentShares": 76769791,
+        "change": 75964718,
+        "change_p": 9435.7553
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.557,
+        "totalAssets": 0.2407,
+        "currentShares": 56025072,
+        "change": 676797,
+        "change_p": 1.2228
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.5847,
+        "totalAssets": 0.5835,
+        "currentShares": 44071827,
+        "change": 2398815,
+        "change_p": 5.7563
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.7548,
+        "totalAssets": 0.1256,
+        "currentShares": 33868224,
+        "change": 18807698,
+        "change_p": 124.8808
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4661,
+        "totalAssets": 0.2522,
+        "currentShares": 30318652,
+        "change": 748813,
+        "change_p": 2.5324
+      },
+      "8": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.9522,
+        "totalAssets": 0.5328,
+        "currentShares": 24000408,
+        "change": -4278253,
+        "change_p": -15.1289
+      },
+      "9": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.9262,
+        "totalAssets": 0.5016,
+        "currentShares": 23680749,
+        "change": 5674225,
+        "change_p": 31.5121
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.842,
+        "totalAssets": 0.1901,
+        "currentShares": 22646169,
+        "change": -237929,
+        "change_p": -1.0397
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.837,
+        "totalAssets": 0.3265,
+        "currentShares": 22585063,
+        "change": 1276265,
+        "change_p": 5.9894
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.474,
+        "totalAssets": 0.1358,
+        "currentShares": 18121298,
+        "change": -1456462,
+        "change_p": -7.4394
+      },
+      "13": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.3875,
+        "totalAssets": 0.9118,
+        "currentShares": 17058240,
+        "change": 4854743,
+        "change_p": 39.7816
+      },
+      "14": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.3386,
+        "totalAssets": 0.4105,
+        "currentShares": 16456876,
+        "change": 933791,
+        "change_p": 6.0155
+      },
+      "15": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.2943,
+        "totalAssets": 0.6934,
+        "currentShares": 15913076,
+        "change": -2623367,
+        "change_p": -14.1525
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0507,
+        "totalAssets": 0.2045,
+        "currentShares": 12917398,
+        "change": -16368,
+        "change_p": -0.1266
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.045,
+        "totalAssets": 0.3949,
+        "currentShares": 12847238,
+        "change": 300232,
+        "change_p": 2.3929
+      },
+      "18": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0102,
+        "totalAssets": 0.2941,
+        "currentShares": 12420002,
+        "change": 3576596,
+        "change_p": 40.4436
+      },
+      "19": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.9645,
+        "totalAssets": 0.9386,
+        "currentShares": 11858355,
+        "change": 4578898,
+        "change_p": 62.9016
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1759,
+        "totalAssets": 0.2471,
+        "currentShares": 39046017,
+        "change": 331105,
+        "change_p": 0.8552
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.546,
+        "totalAssets": 0.2779,
+        "currentShares": 31301308,
+        "change": -180708,
+        "change_p": -0.574
+      },
+      "2": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 2.2084,
+        "totalAssets": 2.3374,
+        "currentShares": 27150560,
+        "change": -1753900,
+        "change_p": -6.0679
+      },
+      "3": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.3936,
+        "totalAssets": 0.7066,
+        "currentShares": 17133613,
+        "change": 10123184,
+        "change_p": 144.4018
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2852,
+        "totalAssets": 0.2772,
+        "currentShares": 15800882,
+        "change": -8604,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2671,
+        "totalAssets": 0.3037,
+        "currentShares": 15577645,
+        "change": 25676,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1594,
+        "totalAssets": 0.277,
+        "currentShares": 14254400,
+        "change": -35035,
+        "change_p": -0.2452
+      },
+      "7": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0836,
+        "totalAssets": 0.5297,
+        "currentShares": 13322384,
+        "change": -44528,
+        "change_p": -0.3331
+      },
+      "8": {
+        "name": "Fidelity Contrafund Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.9178,
+        "totalAssets": 2.6043,
+        "currentShares": 11283419,
+        "change": -670407,
+        "change_p": -5.6083
+      },
+      "9": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7502,
+        "totalAssets": 1.3821,
+        "currentShares": 9222723,
+        "change": 24567,
+        "change_p": 0.2671
+      },
+      "10": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6715,
+        "totalAssets": 0.8572,
+        "currentShares": 8255900,
+        "change": -9365,
+        "change_p": -0.1133
+      },
+      "11": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6297,
+        "totalAssets": 0.5946,
+        "currentShares": 7742162,
+        "change": 769252,
+        "change_p": 11.032
+      },
+      "12": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.5823,
+        "totalAssets": 0.9191,
+        "currentShares": 7159301,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5702,
+        "totalAssets": 0.282,
+        "currentShares": 7010429,
+        "change": 2469604,
+        "change_p": 54.3867
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.2773,
+        "currentShares": 6925490,
+        "change": -8238,
+        "change_p": -0.1188
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5598,
+        "totalAssets": 0.7409,
+        "currentShares": 6882516,
+        "change": 167460,
+        "change_p": 2.4938
+      },
+      "16": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.5442,
+        "totalAssets": 0.5535,
+        "currentShares": 6690332,
+        "change": 4836409,
+        "change_p": 260.8743
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.2744,
+        "currentShares": 6561720,
+        "change": 36600,
+        "change_p": 0.5609
+      },
+      "18": {
+        "name": "Fidelity Contrafund K6",
+        "date": "2026-02-28",
+        "totalShares": 0.5005,
+        "totalAssets": 2.4745,
+        "currentShares": 6153208,
+        "change": -265837,
+        "change_p": -4.1414
+      },
+      "19": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.486,
+        "totalAssets": 1.8458,
+        "currentShares": 5974644,
+        "change": -1241606,
+        "change_p": -17.2057
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 44.8234,
+    "ForwardPE": 33.7838,
+    "PriceSalesTTM": 7.9697,
+    "PriceBookMRQ": 13.7653,
+    "EnterpriseValue": 188125871444,
+    "EnterpriseValueRevenue": 8.1709,
+    "EnterpriseValueEbitda": 27.3845
+  },
+  "Highlights": {
+    "MarketCapitalization": 184058068992,
+    "MarketCapitalizationMln": 184058.069,
+    "EBITDA": 6970800128,
+    "PERatio": 44.8234,
+    "PEGRatio": 1.6728,
+    "WallStreetTargetPrice": 169.7778,
+    "BookValue": 10.935,
+    "DividendShare": 0.745,
+    "DividendYield": 0.005,
+    "EarningsShare": 3.34,
+    "EPSEstimateCurrentYear": 4.4104,
+    "EPSEstimateNextYear": 5.1943,
+    "EPSEstimateNextQuarter": 0.8955,
+    "EPSEstimateCurrentQuarter": 0.9411,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1849,
+    "OperatingMarginTTM": 0.2747,
+    "ReturnOnAssetsTTM": 0.1311,
+    "ReturnOnEquityTTM": 0.3685,
+    "RevenueTTM": 23094700032,
+    "RevenuePerShareTTM": 18.958,
+    "QuarterlyRevenueGrowthYOY": 0.491,
+    "GrossProfitTTM": 8595500032,
+    "DilutedEpsTTM": 3.34,
+    "QuarterlyEarningsGrowthYOY": 0.576
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27.31,
+    "TotalEsgPercentile": 37.12,
+    "EnvironmentScore": 13.02,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 9.02,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.27,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "APH",
+    "Type": "Common Stock",
+    "Name": "Amphenol Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000B9YJ35",
+    "ISIN": "US0320951017",
+    "LEI": "549300D3L3G0R4U4VT04",
+    "PrimaryTicker": "APH.US",
+    "CUSIP": "032094203",
+    "CIK": "0000820313",
+    "EmployerIdNumber": "22-2785165",
+    "FiscalYearEnd": "December",
+    "IPODate": "1991-11-08",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Electronic Components",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Electronic Equipment, Instruments & Components",
+    "GicSubIndustry": "Electronic Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Amphenol Corporation, together with its subsidiaries, designs, manufactures, and markets electrical, electronic, and fiber optic connectors in the United States, China, and internationally. It operates through three segments: Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor Systems. The company offers connectors and connector systems, including high speed, radio frequency, power, fiber optic and other interconnect products; busbars and power distribution systems; power interconnect products; and other products. It also provides value-add products, such as backplane interconnect systems, cable assemblies and harnesses, and cable management products; and other products comprising flexible and rigid printed circuit boards, hinges, other mechanical, and production related products. In addition, the company offers consumer device, network infrastructure, and other antennas; coaxial, power, and specialty cables; and sensors and sensor-based products. It sells its products through its sales force, independent representatives, and a network of electronics distributors to original equipment manufacturers, electronic manufacturing services companies, original design manufacturers, and service providers in the automotive, commercial aerospace, communications networks, defense, industrial, information technology and data communications, mobile devices markets. Additionally, the company provides telecommunication and IT networking solutions. The company was founded in 1932 and is headquartered in Wallingford, Connecticut.",
+    "Address": "358 Hall Avenue, Wallingford, CT, United States, 06492",
+    "AddressData": {
+      "Street": "358 Hall Avenue",
+      "City": "Wallingford",
+      "State": "CT",
+      "Country": "United States",
+      "ZIP": "06492"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Richard Adam Norwitt J.D.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Craig A. Lampo CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Luc  Walter",
+        "Title": "President of Harsh Environment Solutions Division",
+        "YearBorn": "1959"
+      },
+      "3": {
+        "Name": "Mr. William J. Doherty",
+        "Title": "President of Communications Solutions Division",
+        "YearBorn": "1959"
+      },
+      "4": {
+        "Name": "Mr. Peter J. Straub",
+        "Title": "President of the Interconnect & Sensor Systems Division",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Michael R. Ivas",
+        "Title": "SVP, Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Ms. Sherri Ann Scribner",
+        "Title": "Vice President of Strategy & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Lance E. D'Amico J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Mr. Ben J. Reed",
+        "Title": "Vice President of Corporate Development",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. David M. Silverman",
+        "Title": "Executive Vice President of Human Resources",
+        "YearBorn": "1978"
+      }
+    },
+    "Phone": "203 265 8900",
+    "WebURL": "https://www.amphenol.com",
+    "LogoURL": "/img/logos/US/aph.png",
+    "FullTimeEmployees": 170000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1229430709,
+    "SharesFloat": 1221360247,
+    "PercentInsiders": 0.47400000000000003,
+    "PercentInstitutions": 98.706,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0138
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0422,
+        "totalAssets": 0.1397,
+        "currentShares": 114410675,
+        "change": 971773,
+        "change_p": 0.8566
+      },
+      "1": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.4368,
+        "totalAssets": 0.9704,
+        "currentShares": 84727405,
+        "change": 7007268,
+        "change_p": 9.016
+      },
+      "2": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.2134,
+        "totalAssets": 1.2775,
+        "currentShares": 82181929,
+        "change": -3278421,
+        "change_p": -3.8362
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.8947,
+        "totalAssets": 0.1163,
+        "currentShares": 78550846,
+        "change": 2029733,
+        "change_p": 2.6525
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1729,
+        "totalAssets": 0.1395,
+        "currentShares": 47541895,
+        "change": 28563,
+        "change_p": 0.0601
+      },
+      "5": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.9279,
+        "totalAssets": 1.111,
+        "currentShares": 33357068,
+        "change": 21634761,
+        "change_p": 184.5606
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3148,
+        "totalAssets": 0.1365,
+        "currentShares": 26373084,
+        "change": 225168,
+        "change_p": 0.8611
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2984,
+        "totalAssets": 0.1341,
+        "currentShares": 26185239,
+        "change": 1351640,
+        "change_p": 5.4428
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2746,
+        "totalAssets": 0.1113,
+        "currentShares": 25914380,
+        "change": -2259317,
+        "change_p": -8.0192
+      },
+      "9": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.731,
+        "totalAssets": 0.3172,
+        "currentShares": 19721234,
+        "change": 1791707,
+        "change_p": 9.9931
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.4816,
+        "totalAssets": 0.0428,
+        "currentShares": 16879934,
+        "change": 4740127,
+        "change_p": 39.0461
+      },
+      "11": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.3832,
+        "totalAssets": 0.208,
+        "currentShares": 15758440,
+        "change": 1066668,
+        "change_p": 7.2603
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3559,
+        "totalAssets": 0.0886,
+        "currentShares": 15447997,
+        "change": -73934,
+        "change_p": -0.4763
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2848,
+        "totalAssets": 0.1319,
+        "currentShares": 14637807,
+        "change": 1036187,
+        "change_p": 7.6181
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1929,
+        "totalAssets": 0.1811,
+        "currentShares": 13590494,
+        "change": 832540,
+        "change_p": 6.5257
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1205,
+        "totalAssets": 0.1382,
+        "currentShares": 12765827,
+        "change": -412998,
+        "change_p": -3.1338
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0582,
+        "totalAssets": 0.1245,
+        "currentShares": 12056151,
+        "change": 616529,
+        "change_p": 5.3894
+      },
+      "17": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0558,
+        "totalAssets": 0.3457,
+        "currentShares": 12028803,
+        "change": 3063,
+        "change_p": 0.0255
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9203,
+        "totalAssets": 0.139,
+        "currentShares": 10484501,
+        "change": -1166512,
+        "change_p": -10.0121
+      },
+      "19": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8893,
+        "totalAssets": 0.2234,
+        "currentShares": 10132070,
+        "change": -908436,
+        "change_p": -8.2282
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1759,
+        "totalAssets": 0.1624,
+        "currentShares": 36182944,
+        "change": 220675,
+        "change_p": 0.6136
+      },
+      "1": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.5678,
+        "totalAssets": 0.9942,
+        "currentShares": 29254744,
+        "change": 12535377,
+        "change_p": 74.9752
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5463,
+        "totalAssets": 0.1827,
+        "currentShares": 29010463,
+        "change": -229786,
+        "change_p": -0.7859
+      },
+      "3": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.3145,
+        "totalAssets": 2.1613,
+        "currentShares": 26368754,
+        "change": 5133408,
+        "change_p": 24.1739
+      },
+      "4": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0984,
+        "totalAssets": 0.5772,
+        "currentShares": 23906914,
+        "change": -79980,
+        "change_p": -0.3334
+      },
+      "5": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.0656,
+        "totalAssets": 1.2708,
+        "currentShares": 23533780,
+        "change": 4927785,
+        "change_p": 26.4849
+      },
+      "6": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.0579,
+        "totalAssets": 0.6856,
+        "currentShares": 23445861,
+        "change": 4599318,
+        "change_p": 24.404
+      },
+      "7": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8639,
+        "totalAssets": 1.6035,
+        "currentShares": 21235346,
+        "change": 2689948,
+        "change_p": 14.5047
+      },
+      "8": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.6626,
+        "totalAssets": 1.1985,
+        "currentShares": 18941998,
+        "change": 3140192,
+        "change_p": 19.8724
+      },
+      "9": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6542,
+        "totalAssets": 0.4724,
+        "currentShares": 18846543,
+        "change": 470763,
+        "change_p": 2.5619
+      },
+      "10": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.6426,
+        "totalAssets": 0.8408,
+        "currentShares": 18713658,
+        "change": 1000871,
+        "change_p": 5.6506
+      },
+      "11": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6331,
+        "totalAssets": 0.8905,
+        "currentShares": 18605995,
+        "change": -5776852,
+        "change_p": -23.6923
+      },
+      "12": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5547,
+        "totalAssets": 0.7164,
+        "currentShares": 17712787,
+        "change": 707389,
+        "change_p": 4.1598
+      },
+      "13": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.4025,
+        "totalAssets": 0.93,
+        "currentShares": 15979094,
+        "change": 939625,
+        "change_p": 6.2477
+      },
+      "14": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3201,
+        "totalAssets": 0.7829,
+        "currentShares": 15039469,
+        "change": 3274223,
+        "change_p": 27.8296
+      },
+      "15": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2849,
+        "totalAssets": 0.1821,
+        "currentShares": 14638400,
+        "change": -7968,
+        "change_p": -0.0544
+      },
+      "16": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2699,
+        "totalAssets": 0.1893,
+        "currentShares": 14468478,
+        "change": 23850,
+        "change_p": 0.1651
+      },
+      "17": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1583,
+        "totalAssets": 0.1818,
+        "currentShares": 13196938,
+        "change": -32487,
+        "change_p": -0.2456
+      },
+      "18": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0987,
+        "totalAssets": 0.3529,
+        "currentShares": 12517895,
+        "change": -254934,
+        "change_p": -1.9959
+      },
+      "19": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.9479,
+        "totalAssets": 0.6335,
+        "currentShares": 10799810,
+        "change": 1518123,
+        "change_p": 16.3561
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 82.225,
+    "ForwardPE": 43.8596,
+    "PriceSalesTTM": 2.9817,
+    "PriceBookMRQ": 68.4639,
+    "EnterpriseValue": 135278522000,
+    "EnterpriseValueRevenue": 3.5881,
+    "EnterpriseValueEbitda": 29.5665
+  },
+  "Highlights": {
+    "MarketCapitalization": 112414728192,
+    "MarketCapitalizationMln": 112414.7282,
+    "EBITDA": 5297299968,
+    "PERatio": 82.225,
+    "PEGRatio": 1.7156,
+    "WallStreetTargetPrice": 100.9706,
+    "BookValue": -7.364,
+    "DividendShare": 2.46,
+    "DividendYield": 0.0247,
+    "EarningsShare": 1.2,
+    "EPSEstimateCurrentYear": 2.2793,
+    "EPSEstimateNextYear": 2.9097,
+    "EPSEstimateNextQuarter": 0.4164,
+    "EPSEstimateCurrentQuarter": 0.5869,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0363,
+    "OperatingMarginTTM": 0.0926,
+    "ReturnOnAssetsTTM": 0.0687,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 37701701632,
+    "RevenuePerShareTTM": 33.164,
+    "QuarterlyRevenueGrowthYOY": 0.055,
+    "GrossProfitTTM": 8357600256,
+    "DilutedEpsTTM": 1.2,
+    "QuarterlyEarningsGrowthYOY": -0.625
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.08,
+    "TotalEsgPercentile": 27.52,
+    "EnvironmentScore": 3.67,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 13.57,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 6.84,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SBUX",
+    "Type": "Common Stock",
+    "Name": "Starbucks Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000CTQBF3",
+    "ISIN": "US8552441094",
+    "LEI": "OQSJ1DU9TAOC51A47K68",
+    "PrimaryTicker": "SBUX.US",
+    "CUSIP": "855244109",
+    "CIK": "0000829224",
+    "EmployerIdNumber": "91-1325671",
+    "FiscalYearEnd": "September",
+    "IPODate": "1992-06-26",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Restaurants",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Restaurants",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of coffee internationally. The company operates through three segments: North America, International, and Channel Development. Its stores offer coffee, tea, and other beverages, roasted whole beans and ground coffees, complementary food, packaged coffees, single-serve products, and ready-to-drink beverages; and various food products, such as pastries, breakfast sandwiches, and lunch items. The company also licenses its trademarks through licensed stores, and grocery and foodservice accounts. The company offers its products under the Starbucks Coffee, Teavana, Seattle's Best Coffee, Ethos, and Starbucks Reserve brands. Starbucks Corporation was founded in 1971 and is based in Seattle, Washington.",
+    "Address": "2401 Utah Avenue South, Seattle, WA, United States, 98134",
+    "AddressData": {
+      "Street": "2401 Utah Avenue South",
+      "City": "Seattle",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98134"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SBUB34",
+        "Exchange": "SA",
+        "Name": "Starbucks Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Brian R. Niccol",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Ms. Catherine R. Smith CPA",
+        "Title": "Executive VP, CFO & Principal Accounting Officer",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Mike  Grams",
+        "Title": "EVP & COO",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. Brady  Brewer",
+        "Title": "Chief Executive Officer of Starbucks International",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Ms. Sara  Kelly",
+        "Title": "Executive VP & Chief Partner Officer",
+        "YearBorn": "1980"
+      },
+      "5": {
+        "Name": "Mr. Bao Giang Val Bauduin",
+        "Title": "Senior VP of North America Finance",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Mr. Anand  Varadarajan",
+        "Title": "EVP & CTO",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Pilar  Ramos",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1973"
+      },
+      "8": {
+        "Name": "Mr. Andy  Adams",
+        "Title": "Senior Vice President of Global Growth & Concepts",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Janet  Landers",
+        "Title": "Senior Vice President of Business Technology",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "206 447 1575",
+    "WebURL": "https://www.starbucks.com",
+    "LogoURL": "/img/logos/US/SBUX.png",
+    "FullTimeEmployees": 381000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1139300000,
+    "SharesFloat": 1137032793,
+    "PercentInsiders": 0.13,
+    "PercentInstitutions": 85.007,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0421
+  }
+}

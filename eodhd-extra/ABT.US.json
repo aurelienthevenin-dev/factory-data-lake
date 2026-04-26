@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.103,
+        "totalAssets": 0.3189,
+        "currentShares": 175556716,
+        "change": 2402408,
+        "change_p": 1.3874
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.1465,
+        "totalAssets": 0.3319,
+        "currentShares": 141559956,
+        "change": 272930,
+        "change_p": 0.1932
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5018,
+        "totalAssets": 0.3633,
+        "currentShares": 78225991,
+        "change": -128279,
+        "change_p": -0.1637
+      },
+      "3": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.6387,
+        "totalAssets": 1.2418,
+        "currentShares": 63229445,
+        "change": 1614706,
+        "change_p": 2.6206
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.3819,
+        "totalAssets": 0.2358,
+        "currentShares": 58766434,
+        "change": 19461935,
+        "change_p": 49.5158
+      },
+      "5": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.2627,
+        "totalAssets": 3.351,
+        "currentShares": 39319009,
+        "change": 39005451,
+        "change_p": 12439.6287
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.2541,
+        "totalAssets": 0.9059,
+        "currentShares": 39169239,
+        "change": 400400,
+        "change_p": 1.0328
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2234,
+        "totalAssets": 0.3133,
+        "currentShares": 38634796,
+        "change": 3428144,
+        "change_p": 9.7372
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2103,
+        "totalAssets": 0.2956,
+        "currentShares": 38407499,
+        "change": -134395,
+        "change_p": -0.3487
+      },
+      "9": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.7646,
+        "totalAssets": 1.5195,
+        "currentShares": 30662861,
+        "change": 12893766,
+        "change_p": 72.5629
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3499,
+        "totalAssets": 0.3144,
+        "currentShares": 23456714,
+        "change": 1207025,
+        "change_p": 5.4249
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.3486,
+        "totalAssets": 0.5145,
+        "currentShares": 23434760,
+        "change": 188616,
+        "change_p": 0.8114
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1973,
+        "totalAssets": 0.189,
+        "currentShares": 20805826,
+        "change": -889652,
+        "change_p": -4.1006
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1764,
+        "totalAssets": 0.3503,
+        "currentShares": 20442820,
+        "change": -598428,
+        "change_p": -2.8441
+      },
+      "14": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9615,
+        "totalAssets": 0.4254,
+        "currentShares": 16707340,
+        "change": -481273,
+        "change_p": -2.8
+      },
+      "15": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9093,
+        "totalAssets": 0.2264,
+        "currentShares": 15800759,
+        "change": 5451244,
+        "change_p": 52.6715
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8918,
+        "totalAssets": 0.2381,
+        "currentShares": 15496045,
+        "change": -632166,
+        "change_p": -3.9196
+      },
+      "17": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.8356,
+        "totalAssets": 0.5866,
+        "currentShares": 14519346,
+        "change": -577561,
+        "change_p": -3.8257
+      },
+      "18": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8029,
+        "totalAssets": 0.2944,
+        "currentShares": 13951907,
+        "change": 4713135,
+        "change_p": 51.0147
+      },
+      "19": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 0.7819,
+        "totalAssets": 1.337,
+        "currentShares": 13587118,
+        "change": 0,
+        "change_p": 0
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1764,
+        "totalAssets": 0.2838,
+        "currentShares": 55194742,
+        "change": 188373,
+        "change_p": 0.3425
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5481,
+        "totalAssets": 0.3195,
+        "currentShares": 44278357,
+        "change": -445612,
+        "change_p": -0.9964
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.7721,
+        "totalAssets": 3.7235,
+        "currentShares": 30792987,
+        "change": 51244,
+        "change_p": 0.1667
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2863,
+        "totalAssets": 0.3187,
+        "currentShares": 22351889,
+        "change": -12168,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2735,
+        "totalAssets": 0.3437,
+        "currentShares": 22129318,
+        "change": 36470,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1597,
+        "totalAssets": 0.3182,
+        "currentShares": 20152406,
+        "change": -49539,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1328,
+        "totalAssets": 1.1845,
+        "currentShares": 19684594,
+        "change": 378651,
+        "change_p": 1.9613
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.7305,
+        "currentShares": 16059635,
+        "change": -137389,
+        "change_p": -0.8482
+      },
+      "8": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.924,
+        "totalAssets": 1.1432,
+        "currentShares": 16055338,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9213,
+        "totalAssets": 0.8243,
+        "currentShares": 16008699,
+        "change": -3675895,
+        "change_p": -18.674
+      },
+      "10": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7314,
+        "totalAssets": 3.36,
+        "currentShares": 12709406,
+        "change": 38528,
+        "change_p": 0.3041
+      },
+      "11": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.7122,
+        "totalAssets": 1.1626,
+        "currentShares": 12376508,
+        "change": 733686,
+        "change_p": 6.3016
+      },
+      "12": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.6988,
+        "totalAssets": 0.7515,
+        "currentShares": 12143362,
+        "change": -3911976,
+        "change_p": -24.3656
+      },
+      "13": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.67,
+        "totalAssets": 1.308,
+        "currentShares": 11642822,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5638,
+        "totalAssets": 0.3187,
+        "currentShares": 9796886,
+        "change": -53445,
+        "change_p": -0.5426
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5603,
+        "totalAssets": 0.8516,
+        "currentShares": 9736149,
+        "change": 153599,
+        "change_p": 1.6029
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5342,
+        "totalAssets": 0.3154,
+        "currentShares": 9282363,
+        "change": 12900,
+        "change_p": 0.1392
+      },
+      "17": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.4995,
+        "totalAssets": 0.8875,
+        "currentShares": 8678880,
+        "change": 1580620,
+        "change_p": 22.2677
+      },
+      "18": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.4923,
+        "totalAssets": 0.7244,
+        "currentShares": 8554879,
+        "change": -1073404,
+        "change_p": -11.1484
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.452,
+        "totalAssets": 0.3183,
+        "currentShares": 7853860,
+        "change": 45095,
+        "change_p": 0.5775
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.8892,
+    "ForwardPE": 16.6945,
+    "PriceSalesTTM": 3.5086,
+    "PriceBookMRQ": 3.0827,
+    "EnterpriseValue": 165621171885,
+    "EnterpriseValueRevenue": 3.6695,
+    "EnterpriseValueEbitda": 16.1566
+  },
+  "Highlights": {
+    "MarketCapitalization": 158355046400,
+    "MarketCapitalizationMln": 158355.0464,
+    "EBITDA": 12152000512,
+    "PERatio": 25.8892,
+    "PEGRatio": 1.3683,
+    "WallStreetTargetPrice": 118.64,
+    "BookValue": 30.018,
+    "DividendShare": 2.44,
+    "DividendYield": 0.0264,
+    "EarningsShare": 3.52,
+    "EPSEstimateCurrentYear": 5.4837,
+    "EPSEstimateNextYear": 6.0648,
+    "EPSEstimateNextQuarter": 1.317,
+    "EPSEstimateCurrentQuarter": 1.1462,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.139,
+    "OperatingMarginTTM": 0.165,
+    "ReturnOnAssetsTTM": 0.0663,
+    "ReturnOnEquityTTM": 0.1296,
+    "RevenueTTM": 45134000128,
+    "RevenuePerShareTTM": 25.924,
+    "QuarterlyRevenueGrowthYOY": 0.078,
+    "GrossProfitTTM": 25485000704,
+    "DilutedEpsTTM": 3.52,
+    "QuarterlyEarningsGrowthYOY": -0.197
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.35,
+    "TotalEsgPercentile": 60.66,
+    "EnvironmentScore": 3.98,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 20.71,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 13.15,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ABT",
+    "Type": "Common Stock",
+    "Name": "Abbott Laboratories",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000B9ZXB4",
+    "ISIN": "US0028241000",
+    "LEI": "HQD377W2YR662HK5JX27",
+    "PrimaryTicker": "ABT.US",
+    "CUSIP": "002824100",
+    "CIK": "0000001800",
+    "EmployerIdNumber": "36-0698440",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Abbott Laboratories, together with its subsidiaries, discovers, develops, manufactures, and sells health care products worldwide. It operates in four segments: Established Pharmaceutical Products, Diagnostic Products, Nutritional Products, and Medical Devices. The company offers generic pharmaceuticals for the treatment of pancreatic exocrine insufficiency, irritable bowel syndrome or biliary spasm, intrahepatic cholestasis or depressive symptoms, gynecological disorder, hormone replacement therapy, dyslipidemia, hypertension, hypothyroidism, hypertriglyceridemia, Ménière's disease and vestibular vertigo, pain, fever, inflammation, and migraine, as well as provides anti-infective clarithromycin, influenza vaccine, and products to regulate physiological rhythm of the colon. It also provides laboratory and transfusion medicine systems in the areas of immunoassay, clinical chemistry, hematology, and transfusion serology testing; molecular diagnostics polymerase chain reaction instrument systems that automate the extraction, purification, and preparation of DNA and RNA from patient samples, and detect and measure infectious agents; point of care systems; cartridges for testing blood gas, chemistry, electrolytes, coagulation, and immunoassay; rapid diagnostics lateral flow testing products; molecular point-of-care testing for HIV, SARS-CoV-2, influenza A and B, RSV, and strep A; cardiometabolic test systems; and drug and alcohol test. In addition, the company offers pediatric and adult nutritional products and infant formula; rhythm management, electrophysiology, heart failure, vascular, and structural heart devices for the treatment of cardiovascular diseases; diabetes care products, such as glucose and blood glucose monitoring systems; and neuromodulation devices for the management of chronic pain and movement disorders. The company also provides cancer screening and diagnostic test products. The company was formerly known as Abbott Alkaloidal Company and changed its name to Abbott Laboratories in 1915. Abbott Labor",
+    "Address": "100 Abbott Park Road, Abbott Park, IL, United States, 60064-6400",
+    "AddressData": {
+      "Street": "100 Abbott Park Road",
+      "City": "Abbott Park",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60064-6400"
+    },
+    "Listings": {
+      "0": {
+        "Code": "ABTT34",
+        "Exchange": "SA",
+        "Name": "Abbott Laboratories"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert B. Ford",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. Philip P. Boudreau",
+        "Title": "CFO & Executive VP of Finance",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Daniel Gesua Sive Salvadori",
+        "Title": "Executive VP and Group President of Established Pharmaceuticals & Nutritional Products",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Mr. Christopher J. Scoggins",
+        "Title": "Executive Vice President of Diabetes Care",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Ms. Lisa D. Earnhardt",
+        "Title": "Executive VP & Group President of Medical Devices",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Ms. Sabina  Ewing",
+        "Title": "Senior VP of Business & Technology Services and Chief Information Officer",
+        "YearBorn": "1974"
+      },
+      "6": {
+        "Name": "Mr. Michael  Comilla",
+        "Title": "Vice President of Investor Relations.",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Erica L. Battaglia",
+        "Title": "VP and Chief Ethics & Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Elizabeth  Cushman",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1970"
+      },
+      "9": {
+        "Name": "Ms. Melissa  Brotz",
+        "Title": "Senior Vice President of Global Marketing & External Affairs",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "224 667 6100",
+    "WebURL": "https://www.abbott.com",
+    "LogoURL": "/img/logos/US/Abt.png",
+    "FullTimeEmployees": 122000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1737674869,
+    "SharesFloat": 1727135152,
+    "PercentInsiders": 0.541,
+    "PercentInstitutions": 82.415,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0153
+  }
+}

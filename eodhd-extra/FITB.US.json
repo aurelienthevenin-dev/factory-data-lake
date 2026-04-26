@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2703,
+        "totalAssets": 0.057,
+        "currentShares": 83948876,
+        "change": 637207,
+        "change_p": 0.7648
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.7049,
+        "totalAssets": 0.081,
+        "currentShares": 60716974,
+        "change": 30130757,
+        "change_p": 98.5109
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6516,
+        "totalAssets": 0.047,
+        "currentShares": 60234107,
+        "change": -465518,
+        "change_p": -0.7669
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.5944,
+        "totalAssets": 0.2072,
+        "currentShares": 32549669,
+        "change": 1719361,
+        "change_p": 5.5769
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.4604,
+        "totalAssets": 0.0488,
+        "currentShares": 31336355,
+        "change": -287105,
+        "change_p": -0.9079
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.7721,
+        "totalAssets": 0.1197,
+        "currentShares": 25103405,
+        "change": 5416148,
+        "change_p": 27.5109
+      },
+      "6": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6435,
+        "totalAssets": 0.1741,
+        "currentShares": 23939023,
+        "change": 530489,
+        "change_p": 2.2662
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.3438,
+        "totalAssets": 0.149,
+        "currentShares": 21224600,
+        "change": 546914,
+        "change_p": 2.6449
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0095,
+        "totalAssets": 0.0524,
+        "currentShares": 18197466,
+        "change": 96656,
+        "change_p": 0.534
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.771,
+        "totalAssets": 0.0485,
+        "currentShares": 16037185,
+        "change": 2293439,
+        "change_p": 16.6871
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5317,
+        "totalAssets": 0.0695,
+        "currentShares": 13870195,
+        "change": 5179709,
+        "change_p": 59.6021
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2325,
+        "totalAssets": 0.0301,
+        "currentShares": 11161357,
+        "change": 1166600,
+        "change_p": 11.6721
+      },
+      "12": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2008,
+        "totalAssets": 0.1333,
+        "currentShares": 10874010,
+        "change": 2196388,
+        "change_p": 25.3109
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9219,
+        "totalAssets": 0.082,
+        "currentShares": 8348805,
+        "change": -33760,
+        "change_p": -0.4027
+      },
+      "14": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9178,
+        "totalAssets": 0.6424,
+        "currentShares": 8311663,
+        "change": -4724,
+        "change_p": -0.0568
+      },
+      "15": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8759,
+        "totalAssets": 0.0881,
+        "currentShares": 7931624,
+        "change": 690648,
+        "change_p": 9.5381
+      },
+      "16": {
+        "name": "APG Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 0.7293,
+        "totalAssets": 0.747,
+        "currentShares": 6603934,
+        "change": 4136607,
+        "change_p": 167.6554
+      },
+      "17": {
+        "name": "Apg All Pensions Group",
+        "date": "2025-12-31",
+        "totalShares": 0.7293,
+        "totalAssets": 0.747,
+        "currentShares": 6603934,
+        "change": 6037584,
+        "change_p": 1066.0517
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7285,
+        "totalAssets": 0.0376,
+        "currentShares": 6597112,
+        "change": -34444,
+        "change_p": -0.5194
+      },
+      "19": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.7124,
+        "totalAssets": 0.0557,
+        "currentShares": 6450801,
+        "change": 731799,
+        "change_p": 12.7959
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.153,
+        "totalAssets": 0.0664,
+        "currentShares": 28552198,
+        "change": 133081,
+        "change_p": 0.4683
+      },
+      "1": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.9335,
+        "totalAssets": 0.8716,
+        "currentShares": 26564377,
+        "change": 3680602,
+        "change_p": 16.0839
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.531,
+        "totalAssets": 0.0748,
+        "currentShares": 22919477,
+        "change": -207660,
+        "change_p": -0.8979
+      },
+      "3": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2273,
+        "totalAssets": 1.0696,
+        "currentShares": 20169724,
+        "change": 33580,
+        "change_p": 0.1668
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1463,
+        "totalAssets": 0.4544,
+        "currentShares": 19435737,
+        "change": -119340,
+        "change_p": -0.6103
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2776,
+        "totalAssets": 0.0746,
+        "currentShares": 11569625,
+        "change": -6300,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.264,
+        "totalAssets": 0.0756,
+        "currentShares": 11446240,
+        "change": 3047896,
+        "change_p": 36.2916
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1538,
+        "totalAssets": 0.0747,
+        "currentShares": 10448799,
+        "change": -25627,
+        "change_p": -0.2447
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9182,
+        "totalAssets": 0.1712,
+        "currentShares": 8315335,
+        "change": -59523,
+        "change_p": -0.7107
+      },
+      "9": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.9023,
+        "totalAssets": 0.8848,
+        "currentShares": 8170707,
+        "change": 143292,
+        "change_p": 1.785
+      },
+      "10": {
+        "name": "Franklin Income A1",
+        "date": "2026-03-31",
+        "totalShares": 0.773,
+        "totalAssets": 0.4165,
+        "currentShares": 7000000,
+        "change": 1000000,
+        "change_p": 16.6667
+      },
+      "11": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.7329,
+        "totalAssets": 0.117,
+        "currentShares": 6637000,
+        "change": 1500000,
+        "change_p": 29.1999
+      },
+      "12": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 0.7082,
+        "totalAssets": 2.3186,
+        "currentShares": 6413611,
+        "change": -206900,
+        "change_p": -3.1251
+      },
+      "13": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 0.7082,
+        "totalAssets": 2.3186,
+        "currentShares": 6413611,
+        "change": -206900,
+        "change_p": -3.1251
+      },
+      "14": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.7082,
+        "totalAssets": 2.3224,
+        "currentShares": 6413611,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.681,
+        "totalAssets": 0.2589,
+        "currentShares": 6166945,
+        "change": 666945,
+        "change_p": 12.1263
+      },
+      "16": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.6805,
+        "totalAssets": 0.9339,
+        "currentShares": 6162703,
+        "change": 3509403,
+        "change_p": 132.2656
+      },
+      "17": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6794,
+        "totalAssets": 0.5923,
+        "currentShares": 6152763,
+        "change": 10428,
+        "change_p": 0.1698
+      },
+      "18": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.678,
+        "totalAssets": 0.8947,
+        "currentShares": 6139840,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "CREF Total Global Stock Account R3",
+        "date": "2026-02-28",
+        "totalShares": 0.6494,
+        "totalAssets": 0.2082,
+        "currentShares": 5880650,
+        "change": 538465,
+        "change_p": 10.0795
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.7205,
+    "ForwardPE": 12.4069,
+    "PriceSalesTTM": 4.9981,
+    "PriceBookMRQ": 1.444,
+    "EnterpriseValue": 61436055552,
+    "EnterpriseValueRevenue": 7.1879,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 44983169024,
+    "MarketCapitalizationMln": 44983.169,
+    "EBITDA": null,
+    "PERatio": 16.7205,
+    "PEGRatio": 1.9394,
+    "WallStreetTargetPrice": 57.295,
+    "BookValue": 30.179,
+    "DividendShare": 1.57,
+    "DividendYield": 0.0309,
+    "EarningsShare": 2.97,
+    "EPSEstimateCurrentYear": 3.0538,
+    "EPSEstimateNextYear": 4.8696,
+    "EPSEstimateNextQuarter": 0.8675,
+    "EPSEstimateCurrentQuarter": 0.2211,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2413,
+    "OperatingMarginTTM": 0.0796,
+    "ReturnOnAssetsTTM": 0.0085,
+    "ReturnOnEquityTTM": 0.0797,
+    "RevenueTTM": 8999999488,
+    "RevenuePerShareTTM": 12.736,
+    "QuarterlyRevenueGrowthYOY": 0.33,
+    "GrossProfitTTM": 8999999488,
+    "DilutedEpsTTM": 2.97,
+    "QuarterlyEarningsGrowthYOY": -0.789
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24,
+    "TotalEsgPercentile": 42.56,
+    "EnvironmentScore": 2.22,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 12.73,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 9.05,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FITB",
+    "Type": "Common Stock",
+    "Name": "Fifth Third Bancorp",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJL3N0",
+    "ISIN": "US3167731005",
+    "LEI": "THRNG6BD57P9QWTQLG42",
+    "PrimaryTicker": "FITB.US",
+    "CUSIP": "316773100",
+    "CIK": "0000035527",
+    "EmployerIdNumber": "31-0854434",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Fifth Third Bancorp operates as the bank holding company for Fifth Third Bank, National Association that provides a range of financial products and services in the United States. It operates through three segments: Commercial Banking, Consumer and Small Business Banking, and Wealth and Asset Management. The Commercial Banking segment offers credit intermediation, cash management, and financial services; lending and depository products; and cash management, foreign exchange and international trade finance, derivatives and capital markets services, asset-based lending, real estate finance, public finance, commercial leasing, and syndicated finance for business, government, and professional customers. Its Consumer and Small Banking segment engages in the provision of a range of deposit and loan products to individuals and small businesses; residential mortgage activities, including the origination, retention and servicing of residential mortgage loans, sales and securitizations of loans, and associated hedging activities; home equity loans and lines of credit, credit cards, automobile and other indirect lending, and other consumer lending services; and home improvement and solar energy installation loans through contractors and installers. The Wealth and Asset Management segment provides various wealth management services, such as wealth planning, investment management, banking, insurance, trust, and estate services for for individuals, companies, and not-for-profit organizations; retail brokerage services for individual clients; and advisory services for institutional clients. Fifth Third Bancorp was founded in 1858 and is headquartered in Cincinnati, Ohio.",
+    "Address": "38 Fountain Square Plaza, Cincinnati, OH, United States, 45263",
+    "AddressData": {
+      "Street": "38 Fountain Square Plaza",
+      "City": "Cincinnati",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "45263"
+    },
+    "Listings": {
+      "0": {
+        "Code": "FITBI",
+        "Exchange": "US",
+        "Name": "Fifth Third Bancorp"
+      },
+      "1": {
+        "Code": "FITBO",
+        "Exchange": "US",
+        "Name": "Fifth Third Bancorp"
+      },
+      "2": {
+        "Code": "FITBP",
+        "Exchange": "US",
+        "Name": "Fifth Third Bancorp"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timothy N. Spence",
+        "Title": "Chairman, CEO & President",
+        "YearBorn": "1979"
+      },
+      "1": {
+        "Name": "Mr. Bryan D. Preston",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. James C. Leonard CPA",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Jude A. Schramm",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Robert P. Shaffer",
+        "Title": "Executive VP & Chief Risk Officer",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Kevin Patrick Lavender",
+        "Title": "EVP & Vice Chair of Commercial Bank",
+        "YearBorn": "1962"
+      },
+      "6": {
+        "Name": "Mr. Jeffrey A. Lopper",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "7": {
+        "Name": "Mr. Matt  Curoe",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Christian  Gonzalez Esq.",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1981"
+      },
+      "9": {
+        "Name": "Ms. Melissa S. Stevens",
+        "Title": "Executive VP & Chief Marketing Officer",
+        "YearBorn": "1975"
+      }
+    },
+    "Phone": "800 972 3030",
+    "WebURL": "https://www.53.com",
+    "LogoURL": "/img/logos/US/fitb.png",
+    "FullTimeEmployees": 25980,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 905823000,
+    "SharesFloat": 901927961,
+    "PercentInsiders": 0.35100000000000003,
+    "PercentInstitutions": 70.485,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.053
+  }
+}

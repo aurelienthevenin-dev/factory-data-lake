@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3017,
+        "totalAssets": 0.0357,
+        "currentShares": 17864333,
+        "change": -338278,
+        "change_p": -1.8584
+      },
+      "1": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.7273,
+        "totalAssets": 0.675,
+        "currentShares": 13400000,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.1249,
+        "totalAssets": 0.025,
+        "currentShares": 10621190,
+        "change": -217125,
+        "change_p": -2.0033
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.1742,
+        "totalAssets": 0.1358,
+        "currentShares": 7238575,
+        "change": 553974,
+        "change_p": 8.2873
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.7956,
+        "totalAssets": 0.0307,
+        "currentShares": 6582032,
+        "change": -290972,
+        "change_p": -4.2335
+      },
+      "5": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.7152,
+        "totalAssets": 0.1393,
+        "currentShares": 6442600,
+        "change": 2105546,
+        "change_p": 48.5478
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.4707,
+        "totalAssets": 0.1455,
+        "currentShares": 6018653,
+        "change": 739393,
+        "change_p": 14.0056
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.3259,
+        "totalAssets": 0.0284,
+        "currentShares": 4033393,
+        "change": -67953,
+        "change_p": -1.6568
+      },
+      "8": {
+        "name": "Grantham, Mayo, Van Otterloo & Co., LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2283,
+        "totalAssets": 1.3626,
+        "currentShares": 3864034,
+        "change": 153094,
+        "change_p": 4.1255
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1565,
+        "totalAssets": 0.0317,
+        "currentShares": 3739549,
+        "change": 54184,
+        "change_p": 1.4702
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.0847,
+        "totalAssets": 0.0146,
+        "currentShares": 3615158,
+        "change": 1334497,
+        "change_p": 58.5136
+      },
+      "11": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.865,
+        "totalAssets": 0.5639,
+        "currentShares": 3234152,
+        "change": 1184811,
+        "change_p": 57.8142
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.803,
+        "totalAssets": 0.0967,
+        "currentShares": 3126644,
+        "change": 1356903,
+        "change_p": 76.6724
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5919,
+        "totalAssets": 0.0225,
+        "currentShares": 2760497,
+        "change": -98063,
+        "change_p": -3.4305
+      },
+      "14": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.3824,
+        "totalAssets": 0.2733,
+        "currentShares": 2397275,
+        "change": 237073,
+        "change_p": 10.9746
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2279,
+        "totalAssets": 0.0457,
+        "currentShares": 2129373,
+        "change": 106531,
+        "change_p": 5.2664
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1194,
+        "totalAssets": 0.0287,
+        "currentShares": 1941126,
+        "change": 467456,
+        "change_p": 31.7205
+      },
+      "17": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0305,
+        "totalAssets": 0.7364,
+        "currentShares": 1787066,
+        "change": 122915,
+        "change_p": 7.386
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0023,
+        "totalAssets": 0.0503,
+        "currentShares": 1738114,
+        "change": -116572,
+        "change_p": -6.2853
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8421,
+        "totalAssets": 0.031,
+        "currentShares": 1460270,
+        "change": 1340,
+        "change_p": 0.0918
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.9128,
+        "totalAssets": 0.2874,
+        "currentShares": 5051063,
+        "change": 1587682,
+        "change_p": 45.842
+      },
+      "1": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.8508,
+        "totalAssets": 0.3276,
+        "currentShares": 4943675,
+        "change": 253207,
+        "change_p": 5.3983
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5425,
+        "totalAssets": 0.0331,
+        "currentShares": 4408958,
+        "change": -15883,
+        "change_p": -0.359
+      },
+      "3": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.4991,
+        "totalAssets": 0.326,
+        "currentShares": 4333671,
+        "change": -610004,
+        "change_p": -12.3391
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0618,
+        "totalAssets": 0.0377,
+        "currentShares": 3575456,
+        "change": -50548,
+        "change_p": -1.394
+      },
+      "5": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.0043,
+        "totalAssets": 0.767,
+        "currentShares": 3475684,
+        "change": 142986,
+        "change_p": 4.2904
+      },
+      "6": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.7279,
+        "totalAssets": 0.2262,
+        "currentShares": 2996422,
+        "change": -46622,
+        "change_p": -1.5321
+      },
+      "7": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.2396,
+        "totalAssets": 0.4674,
+        "currentShares": 2149685,
+        "change": 281985,
+        "change_p": 15.098
+      },
+      "8": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2247,
+        "totalAssets": 2.8191,
+        "currentShares": 2123802,
+        "change": -884,
+        "change_p": -0.0416
+      },
+      "9": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 1.2237,
+        "totalAssets": 2.7403,
+        "currentShares": 2122034,
+        "change": -75906,
+        "change_p": -3.4535
+      },
+      "10": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.2019,
+        "totalAssets": 0.1767,
+        "currentShares": 2084138,
+        "change": 2084138,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 1.2019,
+        "totalAssets": 0.2047,
+        "currentShares": 2084138,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0411,
+        "totalAssets": 0.0376,
+        "currentShares": 1805403,
+        "change": -984,
+        "change_p": -0.0545
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0346,
+        "totalAssets": 0.0378,
+        "currentShares": 1794058,
+        "change": 2963,
+        "change_p": 0.1654
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9458,
+        "totalAssets": 0.0378,
+        "currentShares": 1640062,
+        "change": -4018,
+        "change_p": -0.2444
+      },
+      "15": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.9365,
+        "totalAssets": 0.872,
+        "currentShares": 1624000,
+        "change": 100000,
+        "change_p": 6.5617
+      },
+      "16": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8474,
+        "totalAssets": 1.4223,
+        "currentShares": 1469397,
+        "change": -694,
+        "change_p": -0.0472
+      },
+      "17": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.7786,
+        "totalAssets": 0.1464,
+        "currentShares": 1350165,
+        "change": 1350165,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7393,
+        "totalAssets": 0.0852,
+        "currentShares": 1281968,
+        "change": -21636,
+        "change_p": -1.6597
+      },
+      "19": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7146,
+        "totalAssets": 0.3549,
+        "currentShares": 1239275,
+        "change": 184170,
+        "change_p": 17.4551
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.2331,
+    "ForwardPE": 13.2802,
+    "PriceSalesTTM": 2.9394,
+    "PriceBookMRQ": 3.3942,
+    "EnterpriseValue": 38533137777,
+    "EnterpriseValueRevenue": 4.2163,
+    "EnterpriseValueEbitda": 12.2014
+  },
+  "Highlights": {
+    "MarketCapitalization": 26862960640,
+    "MarketCapitalizationMln": 26862.9606,
+    "EBITDA": 3388199936,
+    "PERatio": 16.2331,
+    "PEGRatio": 2.9502,
+    "WallStreetTargetPrice": 177.5455,
+    "BookValue": 44.472,
+    "DividendShare": 4.08,
+    "DividendYield": 0.0256,
+    "EarningsShare": 9.61,
+    "EPSEstimateCurrentYear": 11.6349,
+    "EPSEstimateNextYear": 12.363,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.7133,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.1846,
+    "OperatingMarginTTM": 0.2697,
+    "ReturnOnAssetsTTM": 0.0852,
+    "ReturnOnEquityTTM": 0.2264,
+    "RevenueTTM": 9139000320,
+    "RevenuePerShareTTM": 52.1,
+    "QuarterlyRevenueGrowthYOY": -0.113,
+    "GrossProfitTTM": 4720399872,
+    "DilutedEpsTTM": 9.61,
+    "QuarterlyEarningsGrowthYOY": -0.15
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.89,
+    "TotalEsgPercentile": 33.08,
+    "EnvironmentScore": 7.98,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 10.34,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 4.08,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "Yes"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "STZ",
+    "Type": "Common Stock",
+    "Name": "Constellation Brands Inc Class A",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000J1QLT0",
+    "ISIN": "US21036P1084",
+    "LEI": "5493005GKEG8QCVY7037",
+    "PrimaryTicker": "STZ.US",
+    "CUSIP": "137219101",
+    "CIK": "0000016918",
+    "EmployerIdNumber": "16-0716709",
+    "FiscalYearEnd": "February",
+    "IPODate": "1987-01-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Brewers",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Beverages",
+    "GicSubIndustry": "Distillers & Vintners",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Constellation Brands, Inc., together with its subsidiaries, produces, imports, markets, and sells beer, wine, and spirits in the United States, Canada, Mexico, New Zealand, and Italy. It offers beer under the Corona Extra, Corona Familiar, Corona Sunbrew, Corona Light, Corona Non-Alcoholic, Corona Premier, Modelo Especial, Modelo Chelada, Modelo Negra, Modelo Spiked Aguas Frescas, Modelo Oro, Modelo Noche Especial, Victoria, Vicky Chamoy, and Pacifico brand names. The company also offers wine under the Sea Smoke, Schrader Cellars, Kim Crawford, Mount Veeder, Ruffino, My Favorite Neighbor, Robert Mondavi Winery, and The Prisoner Wine Company brand names; and spirits under the Casa Noble, High West, Mi CAMPO, and Nelson's Green Brier brand names. It provides its products to wholesale distributors, retailers, and state alcohol beverage control agencies. Constellation Brands, Inc. was founded in 1945 and is headquartered in Rochester, New York.",
+    "Address": "50 East Broad Street, Rochester, NY, United States, 14614",
+    "AddressData": {
+      "Street": "50 East Broad Street",
+      "City": "Rochester",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "14614"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Nicholas Ian Fink J.D.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. William A. Newlands",
+        "Title": "Strategic Advisor",
+        "YearBorn": "1959"
+      },
+      "2": {
+        "Name": "Mr. Michael  Becka",
+        "Title": "Senior VP of Corporate Finance",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Mr. Blair  Veenema",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Steve  King",
+        "Title": "SVP of Corporate Development and Financial Planning & Analytics",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Bertram E. Silk",
+        "Title": "Senior Vice President",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Thomas D. Roberts",
+        "Title": "Senior Vice President",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Oksana S. Dominach",
+        "Title": "Senior VP of Beer Finance",
+        "YearBorn": "1965"
+      },
+      "8": {
+        "Name": "Mr. Dan  Towner",
+        "Title": "Senior Vice President of Global HR Operations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Karena  Breslin",
+        "Title": "SVP of Digital and Transformation & Media",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "585 678 7100",
+    "WebURL": "https://www.cbrands.com",
+    "LogoURL": "/img/logos/MX/STZ.png",
+    "FullTimeEmployees": 9400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 172172544,
+    "SharesFloat": 144132069,
+    "PercentInsiders": 20,
+    "PercentInstitutions": 79.892,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0343
+  }
+}

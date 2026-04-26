@@ -1,0 +1,577 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.1107,
+        "totalAssets": 0.0753,
+        "currentShares": 28161938,
+        "change": -220351,
+        "change_p": -0.7764
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.2362,
+        "totalAssets": 0.0582,
+        "currentShares": 19839492,
+        "change": -1236826,
+        "change_p": -5.8683
+      },
+      "2": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 8.6055,
+        "totalAssets": 0.5976,
+        "currentShares": 18484786,
+        "change": -1158353,
+        "change_p": -5.897
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.8218,
+        "totalAssets": 0.0727,
+        "currentShares": 12505355,
+        "change": -384230,
+        "change_p": -2.9809
+      },
+      "4": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 4.5297,
+        "totalAssets": 2.2689,
+        "currentShares": 9729925,
+        "change": 5574911,
+        "change_p": 134.1731
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7315,
+        "totalAssets": 0.0666,
+        "currentShares": 5867345,
+        "change": 45495,
+        "change_p": 0.7815
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.8565,
+        "totalAssets": 0.0787,
+        "currentShares": 3987850,
+        "change": -81346,
+        "change_p": -1.9991
+      },
+      "7": {
+        "name": "Blackstone Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7774,
+        "totalAssets": 2.5748,
+        "currentShares": 3817996,
+        "change": 191507,
+        "change_p": 5.2808
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6,
+        "totalAssets": 0.0907,
+        "currentShares": 3436922,
+        "change": -308211,
+        "change_p": -8.2296
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5892,
+        "totalAssets": 0.0346,
+        "currentShares": 3413591,
+        "change": -197397,
+        "change_p": -5.4666
+      },
+      "10": {
+        "name": "Tortoise Midstream Energy Fund, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5777,
+        "totalAssets": 7.9564,
+        "currentShares": 3389006,
+        "change": 572562,
+        "change_p": 20.3293
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.536,
+        "totalAssets": 0.0747,
+        "currentShares": 3299308,
+        "change": 1084455,
+        "change_p": 48.9628
+      },
+      "12": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3007,
+        "totalAssets": 0.2826,
+        "currentShares": 2793877,
+        "change": 785705,
+        "change_p": 39.1254
+      },
+      "13": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3002,
+        "totalAssets": 0.3836,
+        "currentShares": 2792920,
+        "change": 1972,
+        "change_p": 0.0707
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2455,
+        "totalAssets": 0.048,
+        "currentShares": 2675312,
+        "change": -269899,
+        "change_p": -9.164
+      },
+      "15": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0988,
+        "totalAssets": 0.062,
+        "currentShares": 2360311,
+        "change": 212887,
+        "change_p": 9.9136
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0501,
+        "totalAssets": 0.0873,
+        "currentShares": 2255590,
+        "change": -16036,
+        "change_p": -0.7059
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0128,
+        "totalAssets": 0.0466,
+        "currentShares": 2175544,
+        "change": 84757,
+        "change_p": 4.0538
+      },
+      "18": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9451,
+        "totalAssets": 0.0191,
+        "currentShares": 2030013,
+        "change": 45282,
+        "change_p": 2.2815
+      },
+      "19": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 0.9266,
+        "totalAssets": 0.2456,
+        "currentShares": 1990319,
+        "change": 3569,
+        "change_p": 0.1796
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Core Plus Full Discretion CIT D",
+        "date": "2025-12-31",
+        "totalShares": 4.9045,
+        "totalAssets": 0.3446,
+        "currentShares": 10535000,
+        "change": 10535000,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Loomis Sayles CPFD CIT",
+        "date": "2025-12-31",
+        "totalShares": 4.9045,
+        "totalAssets": 0.3446,
+        "currentShares": 10535000,
+        "change": 10535000,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-12-31",
+        "totalShares": 4.9045,
+        "totalAssets": 0.3446,
+        "currentShares": 10535000,
+        "change": 10535000,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Loomis Sayles Strategic Alpha",
+        "date": "2025-12-31",
+        "totalShares": 3.2332,
+        "totalAssets": 0.5465,
+        "currentShares": 6945000,
+        "change": 6945000,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1767,
+        "totalAssets": 0.0857,
+        "currentShares": 6823547,
+        "change": 34633,
+        "change_p": 0.5101
+      },
+      "5": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5441,
+        "totalAssets": 0.0963,
+        "currentShares": 5464739,
+        "change": -56869,
+        "change_p": -1.0299
+      },
+      "6": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.3714,
+        "totalAssets": 0.7836,
+        "currentShares": 5093748,
+        "change": 360198,
+        "change_p": 7.6095
+      },
+      "7": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3153,
+        "totalAssets": 2.8466,
+        "currentShares": 4973398,
+        "change": 50954,
+        "change_p": 1.0351
+      },
+      "8": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1618,
+        "totalAssets": 0.5859,
+        "currentShares": 4643660,
+        "change": -21957,
+        "change_p": -0.4706
+      },
+      "9": {
+        "name": "LS Global Credit / Corporate GBP Hedged",
+        "date": "2025-12-31",
+        "totalShares": 1.9832,
+        "totalAssets": 0.4428,
+        "currentShares": 4260000,
+        "change": 4260000,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.7607,
+        "totalAssets": 2.7157,
+        "currentShares": 3782000,
+        "change": 1349000,
+        "change_p": 55.446
+      },
+      "11": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.3946,
+        "totalAssets": 0.8841,
+        "currentShares": 2995522,
+        "change": -287944,
+        "change_p": -8.7695
+      },
+      "12": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2845,
+        "totalAssets": 0.0961,
+        "currentShares": 2759060,
+        "change": -1500,
+        "change_p": -0.0543
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2718,
+        "totalAssets": 0.086,
+        "currentShares": 2731805,
+        "change": 4504,
+        "change_p": 0.1651
+      },
+      "14": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.159,
+        "totalAssets": 0.1964,
+        "currentShares": 2489509,
+        "change": -153799,
+        "change_p": -5.8184
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1583,
+        "totalAssets": 0.0959,
+        "currentShares": 2487981,
+        "change": -6125,
+        "change_p": -0.2456
+      },
+      "16": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0461,
+        "totalAssets": 0.6534,
+        "currentShares": 2247029,
+        "change": 2247029,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7611,
+        "totalAssets": 1.403,
+        "currentShares": 1634942,
+        "change": -147382,
+        "change_p": -8.2691
+      },
+      "18": {
+        "name": "Tortoise Energy Infrastructure TR Ins",
+        "date": "2026-03-31",
+        "totalShares": 0.7524,
+        "totalAssets": 10.1047,
+        "currentShares": 1616074,
+        "change": -35837,
+        "change_p": -2.1694
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.25,
+    "ForwardPE": 22.7273,
+    "PriceSalesTTM": 3.0383,
+    "PriceBookMRQ": 16.7975,
+    "EnterpriseValue": 68889040382,
+    "EnterpriseValueRevenue": 4.0456,
+    "EnterpriseValueEbitda": 14.1908
+  },
+  "Highlights": {
+    "MarketCapitalization": 51736748032,
+    "MarketCapitalizationMln": 51736.748,
+    "EBITDA": 4846499840,
+    "PERatio": 28.25,
+    "PEGRatio": 1.2282,
+    "WallStreetTargetPrice": 265.0953,
+    "BookValue": 14.292,
+    "DividendShare": 4,
+    "DividendYield": 0.0167,
+    "EarningsShare": 8.52,
+    "EPSEstimateCurrentYear": 10.4516,
+    "EPSEstimateNextYear": 11.5899,
+    "EPSEstimateNextQuarter": 2.4745,
+    "EPSEstimateCurrentQuarter": 2.3952,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1129,
+    "OperatingMarginTTM": 0.2262,
+    "ReturnOnAssetsTTM": 0.0868,
+    "ReturnOnEquityTTM": 0.5138,
+    "RevenueTTM": 17028299776,
+    "RevenuePerShareTTM": 78.798,
+    "QuarterlyRevenueGrowthYOY": -0.079,
+    "GrossProfitTTM": 6520500224,
+    "DilutedEpsTTM": 8.52,
+    "QuarterlyEarningsGrowthYOY": 0.745
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 39.35,
+    "TotalEsgPercentile": 80.86,
+    "EnvironmentScore": 19.93,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 21.2,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 9.71,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TRGP",
+    "Type": "Common Stock",
+    "Name": "Targa Resources Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0015XMW40",
+    "ISIN": "US87612G1013",
+    "LEI": "5493003QENHHS261UR94",
+    "PrimaryTicker": "TRGP.US",
+    "CUSIP": "87612G101",
+    "CIK": "0001389170",
+    "EmployerIdNumber": "20-3701075",
+    "FiscalYearEnd": "December",
+    "IPODate": "2010-12-07",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Midstream",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Storage & Transportation",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Targa Resources Corp., together with its subsidiaries, owns, operates, acquires, and develops a portfolio of complementary domestic infrastructure assets in North America. It operates in two segments, Gathering and Processing, and Logistics and Transportation. The company is involved in gathering, compressing, treating, processing, transporting, and selling natural gas; storing, fractionating, treating, transporting, and selling natural gas liquids (NGL) and NGL products, including services to liquefied petroleum gas exporters; and gathering, storing, terminaling, purchasing, and selling crude oil. It is involved in the purchase and resale of NGL products; and sale of propane, as well as provision of related logistics services to multi-state retailers, independent retailers, and other end-users. In addition, the company offers NGL balancing services; and transportation services to refineries and petrochemical companies in the Gulf Coast area, as well as purchases, markets, and resells natural gas. The company also leased and owned railcars, tractors, vacuum trucks and pressurized NGL barges. Targa Resources Corp. was incorporated in 2005 and is headquartered in Houston, Texas.",
+    "Address": "811 Louisiana Street, Houston, TX, United States, 77002",
+    "AddressData": {
+      "Street": "811 Louisiana Street",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77002"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Matthew J. Meloy",
+        "Title": "CEO & Director",
+        "YearBorn": "1978"
+      },
+      "1": {
+        "Name": "Ms. Jennifer R. Kneale",
+        "Title": "President",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Mr. William A. Byers",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Mr. Patrick J. McDonie",
+        "Title": "President of Gathering & Processing",
+        "YearBorn": "1961"
+      },
+      "4": {
+        "Name": "Mr. Robert M. Muraro",
+        "Title": "Chief Commercial Officer",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. John Christopher Eklof",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. Tristan James Richardson",
+        "Title": "VP of Investor Relations & Fundamentals",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Gerald R. Shrader",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1960"
+      },
+      "8": {
+        "Name": "Mr. Denny  Latham",
+        "Title": "Executive Vice President of Permian",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Benjamin J. Branstetter",
+        "Title": "President of Logistics & Transportation",
+        "YearBorn": "1986"
+      }
+    },
+    "Phone": "713 584 1000",
+    "WebURL": "https://www.targaresources.com",
+    "LogoURL": "/img/logos/US/TRGP.png",
+    "FullTimeEmployees": 3570,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 214801969,
+    "SharesFloat": 211712474,
+    "PercentInsiders": 1.393,
+    "PercentInstitutions": 96.367,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0254
+  }
+}

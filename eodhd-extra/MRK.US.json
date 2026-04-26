@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.297,
+        "totalAssets": 0.3881,
+        "currentShares": 254322763,
+        "change": 2185853,
+        "change_p": 0.8669
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.6999,
+        "totalAssets": 0.3157,
+        "currentShares": 214876600,
+        "change": -3464232,
+        "change_p": -1.5866
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7849,
+        "totalAssets": 0.3472,
+        "currentShares": 118180178,
+        "change": -313686,
+        "change_p": -0.2647
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.4996,
+        "totalAssets": 1.5943,
+        "currentShares": 86435458,
+        "change": 11156354,
+        "change_p": 14.82
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.8505,
+        "totalAssets": 0.177,
+        "currentShares": 70403294,
+        "change": 38581522,
+        "change_p": 121.2425
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4312,
+        "totalAssets": 0.3893,
+        "currentShares": 60047984,
+        "change": 249110,
+        "change_p": 0.4166
+      },
+      "6": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.9662,
+        "totalAssets": 0.7943,
+        "currentShares": 48563804,
+        "change": -5135656,
+        "change_p": -9.5637
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8052,
+        "totalAssets": 0.2266,
+        "currentShares": 44586535,
+        "change": 385841,
+        "change_p": 0.8729
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6534,
+        "totalAssets": 0.2192,
+        "currentShares": 40836566,
+        "change": 7409816,
+        "change_p": 22.1673
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5378,
+        "totalAssets": 0.4277,
+        "currentShares": 37981502,
+        "change": 1870213,
+        "change_p": 5.179
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.131,
+        "totalAssets": 0.2999,
+        "currentShares": 27933141,
+        "change": -812286,
+        "change_p": -2.8258
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0709,
+        "totalAssets": 0.1506,
+        "currentShares": 26449436,
+        "change": -1571698,
+        "change_p": -5.609
+      },
+      "12": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0071,
+        "totalAssets": 0.8936,
+        "currentShares": 24873327,
+        "change": 805201,
+        "change_p": 3.3455
+      },
+      "13": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8824,
+        "totalAssets": 0.3282,
+        "currentShares": 21794354,
+        "change": -203076,
+        "change_p": -0.9232
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8035,
+        "totalAssets": 0.2624,
+        "currentShares": 19844936,
+        "change": 2821766,
+        "change_p": 16.576
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8007,
+        "totalAssets": 0.4617,
+        "currentShares": 19776842,
+        "change": -882315,
+        "change_p": -4.2708
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7996,
+        "totalAssets": 0.3599,
+        "currentShares": 19749865,
+        "change": -5383464,
+        "change_p": -21.4196
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7834,
+        "totalAssets": 0.2498,
+        "currentShares": 19348718,
+        "change": 4327351,
+        "change_p": 28.808
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6845,
+        "totalAssets": 0.2223,
+        "currentShares": 16906008,
+        "change": 5194,
+        "change_p": 0.0307
+      },
+      "19": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.678,
+        "totalAssets": 0.3505,
+        "currentShares": 16746990,
+        "change": -10285611,
+        "change_p": -38.0489
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.18,
+        "totalAssets": 0.4732,
+        "currentShares": 78542379,
+        "change": 22668,
+        "change_p": 0.0289
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5589,
+        "totalAssets": 0.5343,
+        "currentShares": 63201694,
+        "change": -639011,
+        "change_p": -1.0009
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2917,
+        "totalAssets": 0.5329,
+        "currentShares": 31904087,
+        "change": -17364,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2789,
+        "totalAssets": 0.5221,
+        "currentShares": 31586851,
+        "change": 52065,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.1723,
+        "totalAssets": 4.0586,
+        "currentShares": 28954813,
+        "change": 48208,
+        "change_p": 0.1668
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1649,
+        "totalAssets": 0.5323,
+        "currentShares": 28770982,
+        "change": -70756,
+        "change_p": -0.2453
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9251,
+        "totalAssets": 1.2178,
+        "currentShares": 22849883,
+        "change": -265066,
+        "change_p": -1.1467
+      },
+      "7": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7345,
+        "totalAssets": 5.6191,
+        "currentShares": 18141047,
+        "change": 54992,
+        "change_p": 0.3041
+      },
+      "8": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7333,
+        "totalAssets": 4.8089,
+        "currentShares": 18111825,
+        "change": -153368,
+        "change_p": -0.8397
+      },
+      "9": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6459,
+        "totalAssets": 2.686,
+        "currentShares": 15952264,
+        "change": -694449,
+        "change_p": -4.1717
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5662,
+        "totalAssets": 0.533,
+        "currentShares": 13983835,
+        "change": -75897,
+        "change_p": -0.5398
+      },
+      "11": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5627,
+        "totalAssets": 1.4242,
+        "currentShares": 13897138,
+        "change": 219251,
+        "change_p": 1.603
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5364,
+        "totalAssets": 0.5275,
+        "currentShares": 13249311,
+        "change": 18400,
+        "change_p": 0.1391
+      },
+      "13": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4629,
+        "totalAssets": 1.0034,
+        "currentShares": 11432332,
+        "change": 4634925,
+        "change_p": 68.1867
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4539,
+        "totalAssets": 0.5323,
+        "currentShares": 11210383,
+        "change": 64357,
+        "change_p": 0.5774
+      },
+      "15": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3987,
+        "totalAssets": 0.4471,
+        "currentShares": 9846247,
+        "change": -176456,
+        "change_p": -1.7606
+      },
+      "16": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3987,
+        "totalAssets": 0.4471,
+        "currentShares": 9846247,
+        "change": 9846247,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3987,
+        "totalAssets": 0.4471,
+        "currentShares": 9846247,
+        "change": -176456,
+        "change_p": -1.7606
+      },
+      "18": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.394,
+        "totalAssets": 1.3133,
+        "currentShares": 9730345,
+        "change": -524406,
+        "change_p": -5.1138
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3632,
+        "totalAssets": 0.5304,
+        "currentShares": 8970944,
+        "change": -29735,
+        "change_p": -0.3304
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.3709,
+    "ForwardPE": 22.4215,
+    "PriceSalesTTM": 4.2513,
+    "PriceBookMRQ": 5.3815,
+    "EnterpriseValue": 317871554591,
+    "EnterpriseValueRevenue": 4.8895,
+    "EnterpriseValueEbitda": 11.2473
+  },
+  "Highlights": {
+    "MarketCapitalization": 276379500544,
+    "MarketCapitalizationMln": 276379.5005,
+    "EBITDA": 29105000448,
+    "PERatio": 15.3709,
+    "PEGRatio": 3.5048,
+    "WallStreetTargetPrice": 129.7407,
+    "BookValue": 21.258,
+    "DividendShare": 3.24,
+    "DividendYield": 0.0283,
+    "EarningsShare": 7.28,
+    "EPSEstimateCurrentYear": 5.1094,
+    "EPSEstimateNextYear": 9.7141,
+    "EPSEstimateNextQuarter": -1.3978,
+    "EPSEstimateCurrentQuarter": 2.0105,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2808,
+    "OperatingMarginTTM": 0.3277,
+    "ReturnOnAssetsTTM": 0.1204,
+    "ReturnOnEquityTTM": 0.3688,
+    "RevenueTTM": 65010999296,
+    "RevenuePerShareTTM": 25.984,
+    "QuarterlyRevenueGrowthYOY": 0.05,
+    "GrossProfitTTM": 50196000768,
+    "DilutedEpsTTM": 7.28,
+    "QuarterlyEarningsGrowthYOY": -0.193
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.35,
+    "TotalEsgPercentile": 47.16,
+    "EnvironmentScore": 3.15,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 15.55,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 12.65,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MRK",
+    "Type": "Common Stock",
+    "Name": "Merck & Company Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BPD168",
+    "ISIN": "US58933Y1055",
+    "LEI": "MZK1AT00SJV4XB7WNL71",
+    "PrimaryTicker": "MRK.US",
+    "CUSIP": "589339209",
+    "CIK": "0000310158",
+    "EmployerIdNumber": "22-1918501",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Pharmaceuticals",
+    "GicSubIndustry": "Pharmaceuticals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Merck & Co., Inc. operates as a healthcare company worldwide. It offers human health pharmaceutical for various areas under the Keytruda, Keytruda Qlex, Welireg, Gardasil, ProQuad, M-M-R II, Varivax, Vaxneuvance, Capvaxive, RotaTeq, Pneumovax 23, Bridion, Prevymis, Dificid, Zerbaxa, Winrevair, Adempas/ Verquvo, Ohtuvayre, Lagevrio, Isentress/Isentress HD, Delstrigo, Pifeltro, Belsomra, Januvia, and Janumet brands. The company also provides veterinary pharmaceuticals, vaccines and health management solutions and services, such as livestock products under the Nuflor, Bovilis/Vista, Bovilis Cryptium, Banamine, Estrumate, Matrix, Resflor, Zuprevo, Revalor, Safe-Guard, M+Pac, Porcilis, Circumvent, Nobilis/Innovax, Paracox and Coccivac, Exzolt, Slice, Imvixa, Clynav, Aquavac/Norvax, Aquaflor, Flexolt brands; Allflex Livestock Intelligence solutions; and companion animal products under the Bravecto One-Month, Bravecto Injectable/Quantum, Bravecto TriUNO, Bravecto Plus, Sentinel Spectrum, Sentinel Flavor Tabs, Numelvi, Optimmune, Nobivac NXT, GilvetMab, Otomax, Mometamax, Mometamax Ultra, Posatex, Caninsulin/Vetsulin, Panacur, Safeguard, Regumate, Prestige, Scalibor/Exspot, Sure Petcare, and Home Again brands. It has development and commercialization agreement for three of Daiichi Sankyo's deruxtecan ADC candidates; AstraZeneca PLC to co-development and co-commercialize AstraZeneca's Lynparza products for multiple cancer types; licensed to develop, manufacture and commercialize LM-299, a novel investigational PD-1/VEGF bispecific antibody from LaNova; and collaboration agreement with Eisai Co., Ltd., Bayer AG, and Ridgeback Biotherapeutics LP, as well Moderna, Inc. Merck & Co., Inc. has strategic collaboration with Infinimmune, Inc. to discover and develop antibodies against multiple therapeutic targets. The company was founded in 1891 and is headquartered in Rahway, New Jersey.",
+    "Address": "126 East Lincoln Avenue, Rahway, NJ, United States, 07065",
+    "AddressData": {
+      "Street": "126 East Lincoln Avenue",
+      "City": "Rahway",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "07065"
+    },
+    "Listings": {
+      "0": {
+        "Code": "MRCK34",
+        "Exchange": "SA",
+        "Name": "Merck & Co. Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert M. Davis J.D.",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Ms. Caroline A. Litchfield",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Ms. Jennifer L. Zachary J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. Sanat  Chattopadhyay",
+        "Title": "Executive VP & President of Merck Manufacturing Division",
+        "YearBorn": "1960"
+      },
+      "4": {
+        "Name": "Dr. Dean Y. Li M.D., Ph.D.",
+        "Title": "Executive VP & President of Merck Research Laboratories",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Mr. Dalton E. Smart III",
+        "Title": "Senior VP of Finance, Principal Accounting Officer & Global Controller",
+        "YearBorn": "1967"
+      },
+      "6": {
+        "Name": "Mr. David Michael Williams",
+        "Title": "Executive VP and Chief Information & Digital Officer",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Mr. Peter  Dannenbaum",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Chirfi  Guindo",
+        "Title": "Executive Vice President of Strategic Access, Policy & Communications",
+        "YearBorn": "1966"
+      },
+      "9": {
+        "Name": "Ms. Betty D. Larson",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "908 740 4000",
+    "WebURL": "https://www.merck.com",
+    "LogoURL": "/img/logos/US/mrk.png",
+    "FullTimeEmployees": 73000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2469879206,
+    "SharesFloat": 2468386728,
+    "PercentInsiders": 0.064,
+    "PercentInstitutions": 81.799,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0111
+  }
+}

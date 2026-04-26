@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4181,
+        "totalAssets": 0.1941,
+        "currentShares": 134107293,
+        "change": 637996,
+        "change_p": 0.478
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 11.3272,
+        "totalAssets": 0.1806,
+        "currentShares": 122326677,
+        "change": 4060819,
+        "change_p": 3.4336
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5817,
+        "totalAssets": 0.1447,
+        "currentShares": 49479627,
+        "change": -153580,
+        "change_p": -0.3094
+      },
+      "3": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 2.7576,
+        "totalAssets": 2.4575,
+        "currentShares": 29780063,
+        "change": 5643496,
+        "change_p": 23.3815
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5012,
+        "totalAssets": 0.169,
+        "currentShares": 27011084,
+        "change": 946824,
+        "change_p": 3.6327
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7113,
+        "totalAssets": 0.0941,
+        "currentShares": 18481031,
+        "change": 904515,
+        "change_p": 5.1462
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.6672,
+        "totalAssets": 0.0455,
+        "currentShares": 18004308,
+        "change": 10929665,
+        "change_p": 154.4907
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3383,
+        "totalAssets": 0.1544,
+        "currentShares": 14452956,
+        "change": -1321761,
+        "change_p": -8.379
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2918,
+        "totalAssets": 0.1853,
+        "currentShares": 13950517,
+        "change": -1637400,
+        "change_p": -10.5043
+      },
+      "9": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2703,
+        "totalAssets": 2.4106,
+        "currentShares": 13717958,
+        "change": -1915919,
+        "change_p": -12.2549
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2243,
+        "totalAssets": 0.1426,
+        "currentShares": 13221331,
+        "change": -72889,
+        "change_p": -0.5483
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0295,
+        "totalAssets": 0.0568,
+        "currentShares": 11117757,
+        "change": -291574,
+        "change_p": -2.5556
+      },
+      "12": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0091,
+        "totalAssets": 0.1648,
+        "currentShares": 10897467,
+        "change": -429233,
+        "change_p": -3.7896
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8496,
+        "totalAssets": 0.1922,
+        "currentShares": 9174938,
+        "change": 32808,
+        "change_p": 0.3589
+      },
+      "14": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8138,
+        "totalAssets": 0.2858,
+        "currentShares": 8788771,
+        "change": -1596275,
+        "change_p": -15.3709
+      },
+      "15": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.8096,
+        "totalAssets": 0.5113,
+        "currentShares": 8743228,
+        "change": 4588018,
+        "change_p": 110.416
+      },
+      "16": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7822,
+        "totalAssets": 0.2269,
+        "currentShares": 8447262,
+        "change": 5202577,
+        "change_p": 160.3415
+      },
+      "17": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.7786,
+        "totalAssets": 0.2282,
+        "currentShares": 8408360,
+        "change": 1026333,
+        "change_p": 13.9031
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7425,
+        "totalAssets": 0.1468,
+        "currentShares": 8018175,
+        "change": -2404531,
+        "change_p": -23.0701
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7267,
+        "totalAssets": 0.1738,
+        "currentShares": 7847582,
+        "change": -309087,
+        "change_p": -3.7894
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2,
+        "totalAssets": 0.1874,
+        "currentShares": 34557472,
+        "change": 47407,
+        "change_p": 0.1374
+      },
+      "1": {
+        "name": "VanEck Gold Miners ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.589,
+        "totalAssets": 10.9264,
+        "currentShares": 27959557,
+        "change": -191268,
+        "change_p": -0.6794
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5731,
+        "totalAssets": 0.2114,
+        "currentShares": 27787659,
+        "change": -281179,
+        "change_p": -1.0017
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2989,
+        "totalAssets": 0.2109,
+        "currentShares": 14026919,
+        "change": -7632,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.286,
+        "totalAssets": 0.241,
+        "currentShares": 13887691,
+        "change": 22893,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1731,
+        "totalAssets": 0.2109,
+        "currentShares": 12669052,
+        "change": -31115,
+        "change_p": -0.245
+      },
+      "6": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0881,
+        "totalAssets": 0.6401,
+        "currentShares": 11750444,
+        "change": -11968100,
+        "change_p": -50.4588
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.931,
+        "totalAssets": 0.4822,
+        "currentShares": 10054477,
+        "change": -114702,
+        "change_p": -1.1279
+      },
+      "8": {
+        "name": "BGF World Gold A2",
+        "date": "2026-03-31",
+        "totalShares": 0.7002,
+        "totalAssets": 7.0613,
+        "currentShares": 7561485,
+        "change": -691263,
+        "change_p": -8.3762
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5693,
+        "totalAssets": 0.2109,
+        "currentShares": 6148471,
+        "change": -33648,
+        "change_p": -0.5443
+      },
+      "10": {
+        "name": "Fidelity Select Gold",
+        "date": "2026-02-28",
+        "totalShares": 0.5633,
+        "totalAssets": 13.0845,
+        "currentShares": 6082748,
+        "change": -50400,
+        "change_p": -0.8218
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5394,
+        "totalAssets": 0.2087,
+        "currentShares": 5825301,
+        "change": 8100,
+        "change_p": 0.1392
+      },
+      "12": {
+        "name": "Invesco Gold & Special Minerals A",
+        "date": "2025-12-31",
+        "totalShares": 0.4624,
+        "totalAssets": 11.7949,
+        "currentShares": 4993734,
+        "change": 432680,
+        "change_p": 9.4864
+      },
+      "13": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4564,
+        "totalAssets": 0.2106,
+        "currentShares": 4928817,
+        "change": 28228,
+        "change_p": 0.576
+      },
+      "14": {
+        "name": "iShares MSCI Global Gold Miners ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.433,
+        "totalAssets": 15.9919,
+        "currentShares": 4676088,
+        "change": -5787,
+        "change_p": -0.1236
+      },
+      "15": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 0.4324,
+        "totalAssets": 0.7706,
+        "currentShares": 4670093,
+        "change": -149981,
+        "change_p": -3.1116
+      },
+      "16": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4148,
+        "totalAssets": 7.3486,
+        "currentShares": 4479667,
+        "change": 186309,
+        "change_p": 4.3395
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4009,
+        "totalAssets": 0.1865,
+        "currentShares": 4329077,
+        "change": 4329077,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4009,
+        "totalAssets": 0.1865,
+        "currentShares": 4329077,
+        "change": -83453,
+        "change_p": -1.8913
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4009,
+        "totalAssets": 0.1865,
+        "currentShares": 4329077,
+        "change": -83453,
+        "change_p": -1.8913
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.6347,
+    "ForwardPE": 13.4771,
+    "PriceSalesTTM": 5.6841,
+    "PriceBookMRQ": 3.8382,
+    "EnterpriseValue": 123207373417,
+    "EnterpriseValueRevenue": 4.935,
+    "EnterpriseValueEbitda": 7.604
+  },
+  "Highlights": {
+    "MarketCapitalization": 128853614592,
+    "MarketCapitalizationMln": 128853.6146,
+    "EBITDA": 13845999616,
+    "PERatio": 15.6347,
+    "PEGRatio": 2.7807,
+    "WallStreetTargetPrice": 141.213,
+    "BookValue": 31.113,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 7.72,
+    "EPSEstimateCurrentYear": 9.2274,
+    "EPSEstimateNextYear": 10.6635,
+    "EPSEstimateNextQuarter": 2.3067,
+    "EPSEstimateCurrentQuarter": 2.2209,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.3125,
+    "OperatingMarginTTM": 0.5811,
+    "ReturnOnAssetsTTM": 0.1213,
+    "ReturnOnEquityTTM": 0.2234,
+    "RevenueTTM": 22669000704,
+    "RevenuePerShareTTM": 20.496,
+    "QuarterlyRevenueGrowthYOY": 0.206,
+    "GrossProfitTTM": 14334999552,
+    "DilutedEpsTTM": 7.72,
+    "QuarterlyEarningsGrowthYOY": -0.046
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.2,
+    "TotalEsgPercentile": 35.6,
+    "EnvironmentScore": 11.88,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.06,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 9.25,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NEM",
+    "Type": "Common Stock",
+    "Name": "Newmont Goldcorp Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BPWXK1",
+    "ISIN": "US6516391066",
+    "LEI": "549300VSP3RIX7FGDZ51",
+    "PrimaryTicker": "NEM.US",
+    "CUSIP": "651639106",
+    "CIK": "0001164727",
+    "EmployerIdNumber": "84-1611629",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Gold",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Metals & Mining",
+    "GicSubIndustry": "Gold",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Newmont Corporation operates as a gold producer. It also explores for copper, silver, lead, zinc, and other metals. It has operations and/or assets in the United States, Papua New Guinea, Australia, Ghana, Suriname, Argentina, Dominican Republic, Chile, Peru, Ecuador, Mexico, and Canada. The company was founded in 1916 and is headquartered in Denver, Colorado.",
+    "Address": "6900 E Layton Avenue, Denver, CO, United States, 80237",
+    "AddressData": {
+      "Street": "6900 E Layton Avenue",
+      "City": "Denver",
+      "State": "CO",
+      "Country": "United States",
+      "ZIP": "80237"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NGT",
+        "Exchange": "TO",
+        "Name": "Newmont Goldcorp Corp"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Natascha  Viljoen BEng (PrEng), EMBA",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Peter I. Wexler J.D.",
+        "Title": "EVP, Chief Legal Officer & Interim CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Francois  Hardy",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Peter Ivan Toth BBus (IB), MIB",
+        "Title": "Executive VP, Chief Sustainability & Development Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Neil  Backhouse",
+        "Title": "Group Head of Treasury & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Logan  Hennessey",
+        "Title": "SVP, Group Head of Legal Governance & Compliance, Deputy General Counsel and Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Shannon  Brushe",
+        "Title": "Global Media Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Bryan R. Teets",
+        "Title": "Group Head of Internal Audit",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Brian C. Tabolt CPA",
+        "Title": "Group Head of Financial Planning & Analysis",
+        "YearBorn": "1981"
+      },
+      "9": {
+        "Name": "Mr. Mark  Rodgers",
+        "Title": "Managing Director of Africa Asia Pacific",
+        "YearBorn": "1965"
+      }
+    },
+    "Phone": "303 863 7414",
+    "WebURL": "https://www.newmont.com",
+    "LogoURL": "/img/logos/US/Nem.png",
+    "FullTimeEmployees": 17500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1067552764,
+    "SharesFloat": 1085839887,
+    "PercentInsiders": 0.252,
+    "PercentInstitutions": 82.114,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0192
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.6616,
+        "totalAssets": 0.0456,
+        "currentShares": 38934118,
+        "change": -65738,
+        "change_p": -0.1686
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.2104,
+        "totalAssets": 0.0293,
+        "currentShares": 20548945,
+        "change": 141157,
+        "change_p": 0.6917
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.9172,
+        "totalAssets": 0.048,
+        "currentShares": 16863327,
+        "change": 2298652,
+        "change_p": 15.7824
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.6894,
+        "totalAssets": 0.0396,
+        "currentShares": 16214042,
+        "change": 10000337,
+        "change_p": 160.94
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.01,
+        "totalAssets": 0.0426,
+        "currentShares": 8578075,
+        "change": -300816,
+        "change_p": -3.388
+      },
+      "5": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.7617,
+        "totalAssets": 0.2049,
+        "currentShares": 7870437,
+        "change": 79608,
+        "change_p": 1.0218
+      },
+      "6": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.3343,
+        "totalAssets": 0.0973,
+        "currentShares": 6652469,
+        "change": 2820553,
+        "change_p": 73.6069
+      },
+      "7": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2289,
+        "totalAssets": 0.9027,
+        "currentShares": 6352034,
+        "change": 33557,
+        "change_p": 0.5311
+      },
+      "8": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2221,
+        "totalAssets": 0.0795,
+        "currentShares": 6332695,
+        "change": -3582637,
+        "change_p": -36.1323
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.1427,
+        "totalAssets": 0.0605,
+        "currentShares": 6106513,
+        "change": 510551,
+        "change_p": 9.1236
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0624,
+        "totalAssets": 0.029,
+        "currentShares": 5877506,
+        "change": 1641541,
+        "change_p": 38.7525
+      },
+      "11": {
+        "name": "Beutel, Goodman & Company Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 1.9735,
+        "totalAssets": 2.7899,
+        "currentShares": 5624143,
+        "change": -325170,
+        "change_p": -5.4657
+      },
+      "12": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9362,
+        "totalAssets": 1.3309,
+        "currentShares": 5518055,
+        "change": 397864,
+        "change_p": 7.7705
+      },
+      "13": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.8244,
+        "totalAssets": 0.0736,
+        "currentShares": 5199477,
+        "change": -433662,
+        "change_p": -7.6984
+      },
+      "14": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 1.8127,
+        "totalAssets": 0.279,
+        "currentShares": 5165887,
+        "change": -251297,
+        "change_p": -4.6389
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6916,
+        "totalAssets": 0.0817,
+        "currentShares": 4820978,
+        "change": -264088,
+        "change_p": -5.1934
+      },
+      "16": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.6461,
+        "totalAssets": 0.0699,
+        "currentShares": 4691101,
+        "change": 1760469,
+        "change_p": 60.0713
+      },
+      "17": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5356,
+        "totalAssets": 0.018,
+        "currentShares": 4376166,
+        "change": 1022999,
+        "change_p": 30.5084
+      },
+      "18": {
+        "name": "Baird Financial Group, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5279,
+        "totalAssets": 0.5481,
+        "currentShares": 4354333,
+        "change": -23971,
+        "change_p": -0.5475
+      },
+      "19": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.4871,
+        "totalAssets": 0.0514,
+        "currentShares": 4238001,
+        "change": 3752881,
+        "change_p": 773.5985
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 3.6472,
+        "totalAssets": 3.2405,
+        "currentShares": 10394104,
+        "change": -11980,
+        "change_p": -0.1151
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.4592,
+        "totalAssets": 0.0372,
+        "currentShares": 9858221,
+        "change": -194991,
+        "change_p": -1.9396
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.8109,
+        "totalAssets": 0.0424,
+        "currentShares": 8010810,
+        "change": -194210,
+        "change_p": -2.367
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.5114,
+        "totalAssets": 0.3244,
+        "currentShares": 7157073,
+        "change": -64543,
+        "change_p": -0.8937
+      },
+      "4": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.809,
+        "totalAssets": 0.5581,
+        "currentShares": 5155511,
+        "change": 640124,
+        "change_p": 14.1765
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.5999,
+        "totalAssets": 0.5653,
+        "currentShares": 4559564,
+        "change": -77986,
+        "change_p": -1.6816
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.4244,
+        "totalAssets": 0.0462,
+        "currentShares": 4059422,
+        "change": 6698,
+        "change_p": 0.1653
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4188,
+        "totalAssets": 0.0423,
+        "currentShares": 4043425,
+        "change": -2196,
+        "change_p": -0.0543
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2741,
+        "totalAssets": 0.0421,
+        "currentShares": 3631125,
+        "change": -8967,
+        "change_p": -0.2463
+      },
+      "9": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2271,
+        "totalAssets": 1.1816,
+        "currentShares": 3497065,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.1258,
+        "totalAssets": 0.4083,
+        "currentShares": 3208479,
+        "change": 230300,
+        "change_p": 7.7329
+      },
+      "11": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.9928,
+        "totalAssets": 0.1757,
+        "currentShares": 2829267,
+        "change": 903386,
+        "change_p": 46.9077
+      },
+      "12": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.9777,
+        "totalAssets": 0.1517,
+        "currentShares": 2786385,
+        "change": 1003484,
+        "change_p": 56.2838
+      },
+      "13": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9615,
+        "totalAssets": 3.3495,
+        "currentShares": 2740150,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "BNY Mellon Dynamic Value Fund A",
+        "date": "2026-03-31",
+        "totalShares": 0.9356,
+        "totalAssets": 1.8325,
+        "currentShares": 2666249,
+        "change": 24541,
+        "change_p": 0.929
+      },
+      "15": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.761,
+        "totalAssets": 0.1915,
+        "currentShares": 2168793,
+        "change": 6419,
+        "change_p": 0.2968
+      },
+      "16": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.7332,
+        "totalAssets": 1.5316,
+        "currentShares": 2089525,
+        "change": -318308,
+        "change_p": -13.2197
+      },
+      "17": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.7074,
+        "totalAssets": 1.4013,
+        "currentShares": 2016073,
+        "change": -355155,
+        "change_p": -14.9777
+      },
+      "18": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7051,
+        "totalAssets": 0.8329,
+        "currentShares": 2009384,
+        "change": 8512,
+        "change_p": 0.4254
+      },
+      "19": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.6256,
+        "totalAssets": 0.1011,
+        "currentShares": 1782901,
+        "change": 496143,
+        "change_p": 38.5576
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 6.9686,
+    "PriceSalesTTM": 1.3609,
+    "PriceBookMRQ": 1.8175,
+    "EnterpriseValue": 25745253136,
+    "EnterpriseValueRevenue": 1.4906,
+    "EnterpriseValueEbitda": 31.4657
+  },
+  "Highlights": {
+    "MarketCapitalization": 23504875520,
+    "MarketCapitalizationMln": 23504.8755,
+    "EBITDA": 2793299968,
+    "PERatio": null,
+    "PEGRatio": 15.9708,
+    "WallStreetTargetPrice": 100.9,
+    "BookValue": 38.473,
+    "DividendShare": 2.9,
+    "DividendYield": 0.0378,
+    "EarningsShare": -0.27,
+    "EPSEstimateCurrentYear": 10.8413,
+    "EPSEstimateNextYear": 12.4407,
+    "EPSEstimateNextQuarter": 1.7655,
+    "EPSEstimateCurrentQuarter": 2.9364,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0032,
+    "OperatingMarginTTM": 0.1488,
+    "ReturnOnAssetsTTM": 0.0377,
+    "ReturnOnEquityTTM": 0.0048,
+    "RevenueTTM": 17271900160,
+    "RevenuePerShareTTM": 84.294,
+    "QuarterlyRevenueGrowthYOY": 0.279,
+    "GrossProfitTTM": 3207500032,
+    "DilutedEpsTTM": -0.27,
+    "QuarterlyEarningsGrowthYOY": -0.103
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.96,
+    "TotalEsgPercentile": 14.96,
+    "EnvironmentScore": 2.43,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 10.6,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 4.29,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "OMC",
+    "Type": "Common Stock",
+    "Name": "Omnicom Group Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BS9489",
+    "ISIN": "US6819191064",
+    "LEI": "HKUPACFHSSASQK8HLS17",
+    "PrimaryTicker": "OMC.US",
+    "CUSIP": "681919106",
+    "CIK": "0000029989",
+    "EmployerIdNumber": "13-1514814",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Advertising Agencies",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Media",
+    "GicSubIndustry": "Advertising",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Omnicom Group Inc., together with its subsidiaries, offers advertising, marketing, and corporate communications services. It provides a range of services in the areas of media and advertising, precision marketing, public relations, healthcare, branding and retail commerce, experiential, execution, and support. The company's services include advertising, branding, content marketing, crisis communications, customer data analytics and data-driven decision making, customer relationship management, decision sciences, digital experience design, digital transformation, e-commerce optimization, entertainment marketing, experiential marketing, field marketing, healthcare marketing and communications, in-store design, investor relations, and marketing research.Its services also comprise media planning and buying, merchandising and point of sale, mobile marketing, multi-cultural marketing, organizational communications, package design, performance marketing, product placement, promotional marketing, public affairs, public relations, retail media and e-commerce, shopper marketing, structured innovation, studio production, social media and influencer marketing, and sports and event marketing. It operates in the North and Latin America, Europe, the Middle East and Africa (EMEA), and the Asia Pacific. The company was incorporated in 1944 and is based in New York, New York.",
+    "Address": "280 Park Avenue, New York, NY, United States, 10017",
+    "AddressData": {
+      "Street": "280 Park Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10017"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John D. Wren",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1953"
+      },
+      "1": {
+        "Name": "Mr. Daryl D. Simm",
+        "Title": "Co-President & Co-COO",
+        "YearBorn": "1961"
+      },
+      "2": {
+        "Name": "Mr. Philip J. Angelastro",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Louis F. Januzzi",
+        "Title": "Senior VP, General Counsel & Secretary",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Philippe  Krakowsky",
+        "Title": "Co-President, Co-COO & Director",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Mr. Jonathan B. Nelson",
+        "Title": "Founder & CEO of Omnicom Digital",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Andrew L. Castellaneta",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1959"
+      },
+      "7": {
+        "Name": "Mr. Paolo  Yuvienco",
+        "Title": "Executive VP & Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Dr. Craig  Cuyar",
+        "Title": "Senior VP & Global Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Gregory H. Lundberg",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(212) 415-3600",
+    "WebURL": "https://www.omc.com",
+    "LogoURL": "/img/logos/US/OMC.png",
+    "FullTimeEmployees": 120000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 284988976,
+    "SharesFloat": 307617798,
+    "PercentInsiders": 0.876,
+    "PercentInstitutions": 112.50500000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1057
+  }
+}

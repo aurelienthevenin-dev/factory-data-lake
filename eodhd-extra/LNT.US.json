@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.0811,
+        "totalAssets": 0.0318,
+        "currentShares": 33785294,
+        "change": 383612,
+        "change_p": 1.1485
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.3047,
+        "totalAssets": 0.0284,
+        "currentShares": 24031970,
+        "change": 254124,
+        "change_p": 1.0687
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.3868,
+        "totalAssets": 0.0386,
+        "currentShares": 16495557,
+        "change": -238881,
+        "change_p": -1.4275
+      },
+      "3": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 4.2246,
+        "totalAssets": 0.3358,
+        "currentShares": 10911145,
+        "change": 135623,
+        "change_p": 1.2586
+      },
+      "4": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.3215,
+        "totalAssets": 0.3147,
+        "currentShares": 8578743,
+        "change": -544124,
+        "change_p": -5.9644
+      },
+      "5": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8625,
+        "totalAssets": 0.1259,
+        "currentShares": 7393170,
+        "change": -1378513,
+        "change_p": -15.7155
+      },
+      "6": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.7776,
+        "totalAssets": 0.1504,
+        "currentShares": 7173906,
+        "change": 167581,
+        "change_p": 2.3919
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7381,
+        "totalAssets": 0.0283,
+        "currentShares": 7071908,
+        "change": 128998,
+        "change_p": 1.858
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8381,
+        "totalAssets": 0.0504,
+        "currentShares": 4747485,
+        "change": -117629,
+        "change_p": -2.4178
+      },
+      "9": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.575,
+        "totalAssets": 0.2566,
+        "currentShares": 4067962,
+        "change": 215188,
+        "change_p": 5.5853
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4251,
+        "totalAssets": 0.0619,
+        "currentShares": 3680611,
+        "change": 4488,
+        "change_p": 0.1221
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2978,
+        "totalAssets": 0.0153,
+        "currentShares": 3351791,
+        "change": 152056,
+        "change_p": 4.7521
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2202,
+        "totalAssets": 0.0129,
+        "currentShares": 3151558,
+        "change": -343726,
+        "change_p": -9.834
+      },
+      "13": {
+        "name": "Reaves W H & Co Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1837,
+        "totalAssets": 3.4765,
+        "currentShares": 3057253,
+        "change": 1278166,
+        "change_p": 71.8439
+      },
+      "14": {
+        "name": "Mairs & Power Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1449,
+        "totalAssets": 1.8501,
+        "currentShares": 2956947,
+        "change": -36696,
+        "change_p": -1.2258
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0209,
+        "totalAssets": 0.0053,
+        "currentShares": 2636770,
+        "change": 1178994,
+        "change_p": 80.8762
+      },
+      "16": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9879,
+        "totalAssets": 0.3103,
+        "currentShares": 2551622,
+        "change": 1605934,
+        "change_p": 169.8165
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9013,
+        "totalAssets": 0.0235,
+        "currentShares": 2327921,
+        "change": 19206,
+        "change_p": 0.8319
+      },
+      "18": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8953,
+        "totalAssets": 0.0077,
+        "currentShares": 2312362,
+        "change": 896457,
+        "change_p": 63.3134
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8538,
+        "totalAssets": 0.0318,
+        "currentShares": 2205045,
+        "change": -101277,
+        "change_p": -4.3913
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.154,
+        "totalAssets": 0.0293,
+        "currentShares": 8146097,
+        "change": 16696,
+        "change_p": 0.2054
+      },
+      "1": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 2.7982,
+        "totalAssets": 2.0602,
+        "currentShares": 7227173,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 2.7982,
+        "totalAssets": 2.118,
+        "currentShares": 7227173,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5344,
+        "totalAssets": 0.033,
+        "currentShares": 6545695,
+        "change": -66174,
+        "change_p": -1.0008
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1507,
+        "totalAssets": 0.2006,
+        "currentShares": 5554828,
+        "change": -32273,
+        "change_p": -0.5776
+      },
+      "5": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 1.8682,
+        "totalAssets": 2.3126,
+        "currentShares": 4825000,
+        "change": -971000,
+        "change_p": -16.7529
+      },
+      "6": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6956,
+        "totalAssets": 1.2939,
+        "currentShares": 4379207,
+        "change": -3735,
+        "change_p": -0.0852
+      },
+      "7": {
+        "name": "Franklin Utilities A1",
+        "date": "2026-03-31",
+        "totalShares": 1.3551,
+        "totalAssets": 3.2403,
+        "currentShares": 3500000,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2794,
+        "totalAssets": 0.0329,
+        "currentShares": 3304364,
+        "change": -1800,
+        "change_p": -0.0544
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2666,
+        "totalAssets": 0.0316,
+        "currentShares": 3271327,
+        "change": 5381,
+        "change_p": 0.1648
+      },
+      "10": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2654,
+        "totalAssets": 1.0522,
+        "currentShares": 3268162,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1488,
+        "totalAssets": 0.0328,
+        "currentShares": 2967079,
+        "change": -7350,
+        "change_p": -0.2471
+      },
+      "12": {
+        "name": "CREF Total Global Stock Account R3",
+        "date": "2026-02-28",
+        "totalShares": 1.0456,
+        "totalAssets": 0.1398,
+        "currentShares": 2700440,
+        "change": -178285,
+        "change_p": -6.1932
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9493,
+        "totalAssets": 0.2063,
+        "currentShares": 2451931,
+        "change": 7205,
+        "change_p": 0.2947
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9484,
+        "totalAssets": 0.85,
+        "currentShares": 2449386,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.921,
+        "totalAssets": 0.932,
+        "currentShares": 2378788,
+        "change": -96328,
+        "change_p": -3.8919
+      },
+      "16": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9202,
+        "totalAssets": 0.0756,
+        "currentShares": 2376566,
+        "change": -15310,
+        "change_p": -0.6401
+      },
+      "17": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.8965,
+        "totalAssets": 0.9677,
+        "currentShares": 2315532,
+        "change": -29142,
+        "change_p": -1.2429
+      },
+      "18": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.7899,
+        "totalAssets": 0.9058,
+        "currentShares": 2040000,
+        "change": 50000,
+        "change_p": 2.5126
+      },
+      "19": {
+        "name": "Mairs & Power Multi Cap",
+        "date": "2025-12-31",
+        "totalShares": 0.7542,
+        "totalAssets": 2.2881,
+        "currentShares": 1948000,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.0287,
+    "ForwardPE": 21.3675,
+    "PriceSalesTTM": 4.2815,
+    "PriceBookMRQ": 2.5578,
+    "EnterpriseValue": 30318620960,
+    "EnterpriseValueRevenue": 6.9506,
+    "EnterpriseValueEbitda": 15.2126
+  },
+  "Highlights": {
+    "MarketCapitalization": 18675972096,
+    "MarketCapitalizationMln": 18675.9721,
+    "EBITDA": 1852000000,
+    "PERatio": 23.0287,
+    "PEGRatio": 2.4554,
+    "WallStreetTargetPrice": 77.0909,
+    "BookValue": 28.522,
+    "DividendShare": 2.03,
+    "DividendYield": 0.0279,
+    "EarningsShare": 3.14,
+    "EPSEstimateCurrentYear": 3.4189,
+    "EPSEstimateNextYear": 3.6801,
+    "EPSEstimateNextQuarter": 0.8454,
+    "EPSEstimateCurrentQuarter": 0.5844,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1857,
+    "OperatingMarginTTM": 0.1673,
+    "ReturnOnAssetsTTM": 0.0264,
+    "ReturnOnEquityTTM": 0.113,
+    "RevenueTTM": 4361999872,
+    "RevenuePerShareTTM": 16.973,
+    "QuarterlyRevenueGrowthYOY": 0.09,
+    "GrossProfitTTM": 1992000000,
+    "DilutedEpsTTM": 3.14,
+    "QuarterlyEarningsGrowthYOY": -0.058
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.44,
+    "TotalEsgPercentile": 56.2,
+    "EnvironmentScore": 18.76,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.22,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 10.46,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LNT",
+    "Type": "Common Stock",
+    "Name": "Alliant Energy Corp",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DW4Q75",
+    "ISIN": "US0188021085",
+    "LEI": "5493009ML300G373MZ12",
+    "PrimaryTicker": "LNT.US",
+    "CUSIP": "929305100",
+    "CIK": "0000352541",
+    "EmployerIdNumber": "39-1380265",
+    "FiscalYearEnd": "December",
+    "IPODate": "1988-01-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Alliant Energy Corporation operates as a utility holding company that provides regulated electric and natural gas services in the United States. It operates through IPL and WPL segments. The company's IPL segment engages primarily in the generation and distribution of electricity and the distribution and transportation of natural gas to retail customers in select markets in Iowa. This segment also sells electricity to wholesale customers in Minnesota, Illinois and Iowa; and generates and distributes steam for two customers in Cedar Rapids, Iowa. Its WPL segment generates and distributes electricity, and distributes and transports natural gas to retail customers in select markets in Wisconsin; and sells electricity to wholesale customers in Wisconsin. It serves retail customers in the farming, agriculture, industrial manufacturing, chemical, packaging, and food industries, as well as wholesale customers comprising municipalities and rural electric cooperatives. In addition, the company owns and operates a short-line rail freight service in Iowa; a Mississippi River barge, rail, and truck freight terminal in Illinois; freight brokerage services; wind turbine blade recycling services; and a rail-served warehouse in Iowa. Further, it holds interests in a natural gas-fired electric generating unit near Sheboygan Falls, Wisconsin; and a wind farm located in Oklahoma. The company was formerly known as Interstate Energy Corp. and changed its name to Alliant Energy Corporation in May 1999. Alliant Energy Corporation is headquartered in Madison, Wisconsin.",
+    "Address": "4902 North Biltmore Lane, Madison, WI, United States, 53718",
+    "AddressData": {
+      "Street": "4902 North Biltmore Lane",
+      "City": "Madison",
+      "State": "WI",
+      "Country": "United States",
+      "ZIP": "53718"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Lisa M. Barton",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Robert J. Durian CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. David A. de Leon",
+        "Title": "Senior Vice President of Operations",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Rajagopalan  Sundararajan",
+        "Title": "Executive VP & Chief Strategy Officer",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Antonio P. Smyth",
+        "Title": "Executive Vice President of Power Generation & Gas Strategy",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Dylan M. Syse",
+        "Title": "Chief Accounting Officer & Controller",
+        "YearBorn": "1986"
+      },
+      "6": {
+        "Name": "Mr. Alberto G. Ruocco",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Melissa A. Kehoe",
+        "Title": "Vice President of Strategic Financial Planning & Investor Relations",
+        "YearBorn": "1985"
+      },
+      "8": {
+        "Name": "Ms. Amy L. Cralam",
+        "Title": "VP & General Counsel",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Aimee L. Davis",
+        "Title": "Vice President of Marketing, Communications & Customer Operations",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "608 458 3311",
+    "WebURL": "https://www.alliantenergy.com",
+    "LogoURL": "/img/logos/US/LNT.png",
+    "FullTimeEmployees": 2948,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 258276483,
+    "SharesFloat": 256348835,
+    "PercentInsiders": 0.156,
+    "PercentInstitutions": 91.217,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0923
+  }
+}

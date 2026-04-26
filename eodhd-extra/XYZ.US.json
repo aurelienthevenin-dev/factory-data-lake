@@ -1,0 +1,581 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.2022,
+        "totalAssets": 0.0633,
+        "currentShares": 67111793,
+        "change": -514692,
+        "change_p": -0.7611
+      },
+      "1": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 8.0172,
+        "totalAssets": 0.3714,
+        "currentShares": 48030833,
+        "change": 712510,
+        "change_p": 1.5058
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.718,
+        "totalAssets": 0.0509,
+        "currentShares": 40247051,
+        "change": 8853393,
+        "change_p": 28.2012
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8221,
+        "totalAssets": 0.0574,
+        "currentShares": 22897834,
+        "change": 11139823,
+        "change_p": 94.7424
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.3535,
+        "totalAssets": 0.0879,
+        "currentShares": 20090673,
+        "change": 169094,
+        "change_p": 0.8488
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.6746,
+        "totalAssets": 0.1418,
+        "currentShares": 16023441,
+        "change": 4727217,
+        "change_p": 41.8478
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4048,
+        "totalAssets": 0.0577,
+        "currentShares": 14406899,
+        "change": 67560,
+        "change_p": 0.4712
+      },
+      "7": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 1.6485,
+        "totalAssets": 0.5342,
+        "currentShares": 9875845,
+        "change": -1779458,
+        "change_p": -15.2674
+      },
+      "8": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 1.2556,
+        "totalAssets": 0.5902,
+        "currentShares": 7522059,
+        "change": -200944,
+        "change_p": -2.6019
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2422,
+        "totalAssets": 0.0518,
+        "currentShares": 7441802,
+        "change": 1324105,
+        "change_p": 21.6438
+      },
+      "10": {
+        "name": "Tiger Technology Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0624,
+        "totalAssets": 1.3942,
+        "currentShares": 6364840,
+        "change": 1941528,
+        "change_p": 43.8931
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0083,
+        "totalAssets": 0.0296,
+        "currentShares": 6040812,
+        "change": -250438,
+        "change_p": -3.9807
+      },
+      "12": {
+        "name": "Sands Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9898,
+        "totalAssets": 1.1741,
+        "currentShares": 5929883,
+        "change": -5673174,
+        "change_p": -48.8938
+      },
+      "13": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9813,
+        "totalAssets": 0.0195,
+        "currentShares": 5879057,
+        "change": 507229,
+        "change_p": 9.4424
+      },
+      "14": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9362,
+        "totalAssets": 0.064,
+        "currentShares": 5608969,
+        "change": 625232,
+        "change_p": 12.5454
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8661,
+        "totalAssets": 0.0861,
+        "currentShares": 5188834,
+        "change": -2691502,
+        "change_p": -34.1547
+      },
+      "16": {
+        "name": "Dragoneer Investment Group, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8309,
+        "totalAssets": 7.0658,
+        "currentShares": 4978155,
+        "change": -1571592,
+        "change_p": -23.9947
+      },
+      "17": {
+        "name": "Contour Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.779,
+        "totalAssets": 7.0878,
+        "currentShares": 4666891,
+        "change": 1088299,
+        "change_p": 30.4114
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7722,
+        "totalAssets": 0.0428,
+        "currentShares": 4626238,
+        "change": 1413566,
+        "change_p": 43.9997
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6973,
+        "totalAssets": 0.0423,
+        "currentShares": 4177389,
+        "change": 133115,
+        "change_p": 3.2914
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.9025,
+        "totalAssets": 0.0524,
+        "currentShares": 17388462,
+        "change": 72179,
+        "change_p": 0.4168
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3278,
+        "totalAssets": 0.059,
+        "currentShares": 13945599,
+        "change": -138663,
+        "change_p": -0.9845
+      },
+      "2": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.2761,
+        "totalAssets": 0.2678,
+        "currentShares": 13636084,
+        "change": 1424038,
+        "change_p": 11.6609
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.0384,
+        "totalAssets": 0.2366,
+        "currentShares": 12212046,
+        "change": 4270410,
+        "change_p": 53.7724
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9748,
+        "totalAssets": 0.3583,
+        "currentShares": 11831106,
+        "change": -72361,
+        "change_p": -0.6079
+      },
+      "5": {
+        "name": "T. Rowe Price US Large-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.4117,
+        "totalAssets": 2.431,
+        "currentShares": 8457158,
+        "change": -376292,
+        "change_p": -4.2599
+      },
+      "6": {
+        "name": "T. Rowe Price Lrg Cp Gr I",
+        "date": "2026-03-31",
+        "totalShares": 1.3441,
+        "totalAssets": 2.5807,
+        "currentShares": 8052667,
+        "change": -83702,
+        "change_p": -1.0287
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.175,
+        "totalAssets": 0.0588,
+        "currentShares": 7039390,
+        "change": -3828,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1634,
+        "totalAssets": 0.0593,
+        "currentShares": 6969750,
+        "change": 11493,
+        "change_p": 0.1652
+      },
+      "9": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0988,
+        "totalAssets": 0.1247,
+        "currentShares": 6582801,
+        "change": -315917,
+        "change_p": -4.5794
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.067,
+        "totalAssets": 0.0592,
+        "currentShares": 6392380,
+        "change": -15631,
+        "change_p": -0.2439
+      },
+      "11": {
+        "name": "T. Rowe Price Large Cap Growth Tr-B",
+        "date": "2026-03-31",
+        "totalShares": 0.8656,
+        "totalAssets": 2.6203,
+        "currentShares": 5185517,
+        "change": -258151,
+        "change_p": -4.7422
+      },
+      "12": {
+        "name": "MS INVF Global Opportunity Z",
+        "date": "2025-12-31",
+        "totalShares": 0.7383,
+        "totalAssets": 2.0585,
+        "currentShares": 4423078,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6953,
+        "totalAssets": 0.858,
+        "currentShares": 4165608,
+        "change": -381688,
+        "change_p": -8.3937
+      },
+      "14": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6249,
+        "totalAssets": 0.4668,
+        "currentShares": 3743717,
+        "change": 6336,
+        "change_p": 0.1695
+      },
+      "15": {
+        "name": "AMOne Global ESG Hi Quality Gr Eq MF",
+        "date": "2025-07-14",
+        "totalShares": 0.6021,
+        "totalAssets": 3.2374,
+        "currentShares": 3607395,
+        "change": 1026994,
+        "change_p": 39.7998
+      },
+      "16": {
+        "name": "Sands Capital Select Growth TE Inst EQ",
+        "date": "2025-12-31",
+        "totalShares": 0.5341,
+        "totalAssets": 2.8225,
+        "currentShares": 3199954,
+        "change": 294377,
+        "change_p": 10.1314
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5148,
+        "totalAssets": 0.0588,
+        "currentShares": 3084233,
+        "change": -20700,
+        "change_p": -0.6667
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.488,
+        "totalAssets": 0.0582,
+        "currentShares": 2923536,
+        "change": 4100,
+        "change_p": 0.1404
+      },
+      "19": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 0.451,
+        "totalAssets": 0.3274,
+        "currentShares": 2701637,
+        "change": 307763,
+        "change_p": 12.8563
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 34.1095,
+    "ForwardPE": 19.4932,
+    "PriceSalesTTM": 1.7991,
+    "PriceBookMRQ": 1.9327,
+    "EnterpriseValue": 39915693480,
+    "EnterpriseValueRevenue": 1.6498,
+    "EnterpriseValueEbitda": 11.6877
+  },
+  "Highlights": {
+    "MarketCapitalization": 43527045120,
+    "MarketCapitalizationMln": 43527.0451,
+    "EBITDA": 2070484992,
+    "PERatio": 34.1095,
+    "PEGRatio": 0.8138,
+    "WallStreetTargetPrice": 86.154,
+    "BookValue": 36.879,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.1,
+    "EPSEstimateCurrentYear": 3.6152,
+    "EPSEstimateNextYear": 4.7755,
+    "EPSEstimateNextQuarter": 0.6848,
+    "EPSEstimateCurrentQuarter": 0.649,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.054,
+    "OperatingMarginTTM": 0.0797,
+    "ReturnOnAssetsTTM": 0.0288,
+    "ReturnOnEquityTTM": 0.0601,
+    "RevenueTTM": 24193683456,
+    "RevenuePerShareTTM": 39.516,
+    "QuarterlyRevenueGrowthYOY": 0.036,
+    "GrossProfitTTM": 10416779264,
+    "DilutedEpsTTM": 2.1,
+    "QuarterlyEarningsGrowthYOY": -0.939
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.42,
+    "TotalEsgPercentile": 22.32,
+    "EnvironmentScore": 1.84,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 11.53,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 8.22,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "XYZ",
+    "Type": "Common Stock",
+    "Name": "Block, Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0018SLC07",
+    "ISIN": "US8522341036",
+    "LEI": "549300OHIIUWSTIZME52",
+    "PrimaryTicker": "XYZ.US",
+    "CUSIP": "852234103",
+    "CIK": "0001512673",
+    "EmployerIdNumber": "80-0429876",
+    "FiscalYearEnd": "December",
+    "IPODate": "2015-11-19",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Professional Services",
+    "GicSubIndustry": "Data Processing & Outsourced Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Block, Inc., together with its subsidiaries, builds ecosystems focused on commerce and financial products and services in the United States and internationally. It operates through two segments: Square and Cash App. The Square segment offers managed payment services; software solutions; hardware products, such as registers, terminals, stands, and readers for contactless and chips; banking services consisting of lending, instant transfer, and checking and savings accounts; and full-service setup and support services. This segment also provides loyalty, marketing, team management, and payroll services; and gift cards. It also offers Square Handheld, a portable point-of sale device for transaction purposes. The Cash App segment offers financial tools, including peer-to-peer payments, bitcoin, and stock investment brokerage; Cash App Card, a debit card; Cash App Pay, mobile-friendly way for cash app customers to pay at merchants across online and in-person channels; direct deposit, stock brokerage, and tax preparation services; and Afterpay, a buy now, pay later platform. In addition, the company operates TIDAL, a platform for musicians and fans; TBD, an open developer platform focused on making the decentralized financial world accessible; Bitkey, a self-custody bitcoin wallet; and proto. The company was formerly known as Square, Inc. and changed its name to Block, Inc. in December 2021. Block, Inc. was incorporated in 2009 and is based in Oakland, California.",
+    "Address": "1955 Broadway, Oakland, CA, United States, 94612",
+    "AddressData": {
+      "Street": "1955 Broadway",
+      "City": "Oakland",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94612"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jack  Dorsey",
+        "Title": "Co-Founder, Block Head & Chairman",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Mr. James Morgan McKelvey Jr.",
+        "Title": "Co-Founder & Director",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Ms. Amrita  Ahuja",
+        "Title": "Foundational Lead, Interim Principal Accounting Officer, COO, CFO & Treasurer",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Owen Britton Jennings",
+        "Title": "Business Lead",
+        "YearBorn": "1991"
+      },
+      "4": {
+        "Name": "Mr. Matthew  Ross",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Chrysty  Esperanza",
+        "Title": "Counsel Lead, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1979"
+      },
+      "6": {
+        "Name": "Mr. Nicholas David Molnar",
+        "Title": "Sales & Marketing Lead",
+        "YearBorn": "1990"
+      },
+      "7": {
+        "Name": "Alex  Fisher",
+        "Title": "Global Head of Partnerships, GTM Strategy & Operations of Square, Afterpay & Cash App",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Arnaud  Weber",
+        "Title": "Block Engineering Lead",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "415-375-3176",
+    "WebURL": "https://www.block.xyz",
+    "LogoURL": "/img/logos/US/XYZ.png",
+    "FullTimeEmployees": 10205,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 539103000,
+    "SharesFloat": 532812019,
+    "PercentInsiders": 1.396,
+    "PercentInstitutions": 83.767,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0406
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0562,
+        "totalAssets": 0.133,
+        "currentShares": 78258757,
+        "change": 1957592,
+        "change_p": 2.5656
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.6409,
+        "totalAssets": 0.1457,
+        "currentShares": 67245096,
+        "change": 424625,
+        "change_p": 0.6355
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.4301,
+        "totalAssets": 0.1813,
+        "currentShares": 42257762,
+        "change": 602300,
+        "change_p": 1.4459
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4791,
+        "totalAssets": 0.1399,
+        "currentShares": 19292633,
+        "change": 230375,
+        "change_p": 1.2085
+      },
+      "4": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.0617,
+        "totalAssets": 0.6064,
+        "currentShares": 16044472,
+        "change": -825100,
+        "change_p": -4.8911
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.6201,
+        "totalAssets": 0.259,
+        "currentShares": 12607783,
+        "change": -437745,
+        "change_p": -3.3555
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6,
+        "totalAssets": 0.0933,
+        "currentShares": 12451834,
+        "change": 185106,
+        "change_p": 1.509
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5294,
+        "totalAssets": 0.0711,
+        "currentShares": 11902255,
+        "change": -1031737,
+        "change_p": -7.9769
+      },
+      "8": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2263,
+        "totalAssets": 1.8422,
+        "currentShares": 9543071,
+        "change": -783981,
+        "change_p": -7.5915
+      },
+      "9": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1476,
+        "totalAssets": 0.1627,
+        "currentShares": 8931127,
+        "change": 58375,
+        "change_p": 0.6579
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0887,
+        "totalAssets": 0.0711,
+        "currentShares": 8472710,
+        "change": 334056,
+        "change_p": 4.1046
+      },
+      "11": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.0697,
+        "totalAssets": 0.1688,
+        "currentShares": 8324921,
+        "change": -8383125,
+        "change_p": -50.1742
+      },
+      "12": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0577,
+        "totalAssets": 0.0305,
+        "currentShares": 8231486,
+        "change": 4749324,
+        "change_p": 136.3901
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.997,
+        "totalAssets": 0.1228,
+        "currentShares": 7758700,
+        "change": 31703,
+        "change_p": 0.4103
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9357,
+        "totalAssets": 0.2247,
+        "currentShares": 7281986,
+        "change": 288499,
+        "change_p": 4.1253
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7944,
+        "totalAssets": 0.1607,
+        "currentShares": 6182010,
+        "change": -153647,
+        "change_p": -2.4251
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7645,
+        "totalAssets": 0.1826,
+        "currentShares": 5949307,
+        "change": -172584,
+        "change_p": -2.8191
+      },
+      "17": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.6479,
+        "totalAssets": 0.1091,
+        "currentShares": 5041923,
+        "change": 8698,
+        "change_p": 0.1728
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6264,
+        "totalAssets": 0.1082,
+        "currentShares": 4875039,
+        "change": 17037,
+        "change_p": 0.3507
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.575,
+        "totalAssets": 0.0872,
+        "currentShares": 4474852,
+        "change": -183016,
+        "change_p": -3.9292
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1754,
+        "totalAssets": 0.1621,
+        "currentShares": 24711156,
+        "change": 96328,
+        "change_p": 0.3913
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5445,
+        "totalAssets": 0.1822,
+        "currentShares": 19801538,
+        "change": -201433,
+        "change_p": -1.007
+      },
+      "2": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7024,
+        "totalAssets": 7.1426,
+        "currentShares": 13248251,
+        "change": -11304,
+        "change_p": -0.0853
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2844,
+        "totalAssets": 0.1818,
+        "currentShares": 9995642,
+        "change": -5436,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2717,
+        "totalAssets": 0.1729,
+        "currentShares": 9896694,
+        "change": 16299,
+        "change_p": 0.165
+      },
+      "5": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1617,
+        "totalAssets": 1.9303,
+        "currentShares": 9040560,
+        "change": -369455,
+        "change_p": -3.9262
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1597,
+        "totalAssets": 0.1818,
+        "currentShares": 9025181,
+        "change": -22148,
+        "change_p": -0.2448
+      },
+      "7": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.1155,
+        "totalAssets": 2.0303,
+        "currentShares": 8680979,
+        "change": -225396,
+        "change_p": -2.5307
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.924,
+        "totalAssets": 0.4172,
+        "currentShares": 7190443,
+        "change": -53126,
+        "change_p": -0.7334
+      },
+      "9": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.71,
+        "totalAssets": 0.54,
+        "currentShares": 5525233,
+        "change": -233877,
+        "change_p": -4.061
+      },
+      "10": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6884,
+        "totalAssets": 6.468,
+        "currentShares": 5356965,
+        "change": 60515,
+        "change_p": 1.1426
+      },
+      "11": {
+        "name": "Franklin Income A1",
+        "date": "2026-03-31",
+        "totalShares": 0.6425,
+        "totalAssets": 0.8384,
+        "currentShares": 5000000,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.563,
+        "totalAssets": 0.1818,
+        "currentShares": 4381562,
+        "change": -26963,
+        "change_p": -0.6116
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5334,
+        "totalAssets": 0.1799,
+        "currentShares": 4151225,
+        "change": 5700,
+        "change_p": 0.1375
+      },
+      "14": {
+        "name": "iShares U.S. Equity Fac Rotation Act ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5308,
+        "totalAssets": 1.8015,
+        "currentShares": 4131020,
+        "change": 2400,
+        "change_p": 0.0581
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4513,
+        "totalAssets": 0.1816,
+        "currentShares": 3512414,
+        "change": 20191,
+        "change_p": 0.5782
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3977,
+        "totalAssets": 0.1565,
+        "currentShares": 3095214,
+        "change": -18246,
+        "change_p": -0.586
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3977,
+        "totalAssets": 0.1565,
+        "currentShares": 3095214,
+        "change": 3095214,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3977,
+        "totalAssets": 0.1565,
+        "currentShares": 3095214,
+        "change": -18246,
+        "change_p": -0.586
+      },
+      "19": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3915,
+        "totalAssets": 0.4476,
+        "currentShares": 3046358,
+        "change": -120295,
+        "change_p": -3.7988
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.1696,
+    "ForwardPE": 19.1205,
+    "PriceSalesTTM": 3.1156,
+    "PriceBookMRQ": 1.9588,
+    "EnterpriseValue": 191239862682,
+    "EnterpriseValueRevenue": 5.9323,
+    "EnterpriseValueEbitda": 11.2164
+  },
+  "Highlights": {
+    "MarketCapitalization": 99043639296,
+    "MarketCapitalizationMln": 99043.6393,
+    "EBITDA": 16280999936,
+    "PERatio": 20.1696,
+    "PEGRatio": 2.7107,
+    "WallStreetTargetPrice": 139.7222,
+    "BookValue": 65.384,
+    "DividendShare": 4.22,
+    "DividendYield": 0.033,
+    "EarningsShare": 6.31,
+    "EPSEstimateCurrentYear": 6.6994,
+    "EPSEstimateNextYear": 7.159,
+    "EPSEstimateNextQuarter": 1.7165,
+    "EPSEstimateCurrentQuarter": 1.4927,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1563,
+    "OperatingMarginTTM": 0.2809,
+    "ReturnOnAssetsTTM": 0.0281,
+    "ReturnOnEquityTTM": 0.0972,
+    "RevenueTTM": 31790000128,
+    "RevenuePerShareTTM": 40.914,
+    "QuarterlyRevenueGrowthYOY": 0.08,
+    "GrossProfitTTM": 16497999872,
+    "DilutedEpsTTM": 6.31,
+    "QuarterlyEarningsGrowthYOY": -0.022
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.98,
+    "TotalEsgPercentile": 68.64,
+    "EnvironmentScore": 15.6,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 13.72,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 6.15,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DUK",
+    "Type": "Common Stock",
+    "Name": "Duke Energy Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BHGDH5",
+    "ISIN": "US26441C2044",
+    "LEI": "I1BZKREC126H0VB1BL91",
+    "PrimaryTicker": "DUK.US",
+    "CUSIP": "264399585",
+    "CIK": "0001326160",
+    "EmployerIdNumber": "20-2777218",
+    "FiscalYearEnd": "December",
+    "IPODate": "1983-04-06",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Duke Energy Corporation, through its subsidiaries, operates as an energy company in the United States. The company operates through two segments: Electric Utilities and Infrastructure (EU&I); and Gas Utilities and Infrastructure (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity to customers in the Southeast and Midwest regions. It generates electricity through coal, hydroelectric, natural gas, oil, renewables, and nuclear fuel. This segment also engages in the wholesale of electricity to municipalities, electric cooperative utilities, and other load-serving entities. The GU&I segment distributes natural gas to customers in the residential, commercial, industrial, and power generation natural gas sectors; and invests in pipeline transmission projects, renewable natural gas projects, and natural gas storage facilities. The company was formerly known as Duke Energy Holding Corp. and changed its name to Duke Energy Corporation in April 2006. Duke Energy Corporation was founded in 1904 and is headquartered in Charlotte, North Carolina.",
+    "Address": "525 South Tryon Street, Charlotte, NC, United States, 28202",
+    "AddressData": {
+      "Street": "525 South Tryon Street",
+      "City": "Charlotte",
+      "State": "NC",
+      "Country": "United States",
+      "ZIP": "28202"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DUKB",
+        "Exchange": "US",
+        "Name": "Duke Energy Corp"
+      },
+      "1": {
+        "Code": "DUKB34",
+        "Exchange": "SA",
+        "Name": "Duke Energy Corporation"
+      },
+      "2": {
+        "Code": "DUKH_old",
+        "Exchange": "US",
+        "Name": "Duke Energy Corporation JR SUB DEB 73"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Harry K. Sideris",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Brian D. Savoy",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. T. Preston Gillespie Jr.",
+        "Title": "Executive Vice President of Nuclear Program Strategy",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Kodwo  Ghartey-Tagoe J.D.",
+        "Title": "Executive VP, CEO of Duke Energy Carolinas & Head of the Natural Gas Business Unit",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Louis E. Renjel",
+        "Title": "Executive VP, CEO of Duke Energy Florida & Midwest and Chief Corporate Affairs Officer",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Ms. Abigail L. Motsinger",
+        "Title": "Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1984"
+      },
+      "6": {
+        "Name": "Mr. Richard  Donaldson",
+        "Title": "SVP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Bonnie B. Titone",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Mr. Mike  Switzer",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Alexander Robert Glenn",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1965"
+      }
+    },
+    "Phone": "800 488 3853",
+    "WebURL": "https://www.duke-energy.com/home",
+    "LogoURL": "/img/logos/US/DUK.png",
+    "FullTimeEmployees": 26441,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 778216672,
+    "SharesFloat": 775672252,
+    "PercentInsiders": 0.11900000000000001,
+    "PercentInstitutions": 70.82000000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0225
+  }
+}

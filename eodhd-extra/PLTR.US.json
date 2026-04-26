@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.0081,
+        "totalAssets": 0.5552,
+        "currentShares": 215444098,
+        "change": 1557828,
+        "change_p": 0.7283
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8818,
+        "totalAssets": 0.602,
+        "currentShares": 188505957,
+        "change": 11275223,
+        "change_p": 6.3619
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2338,
+        "totalAssets": 0.6405,
+        "currentShares": 101258899,
+        "change": 6777771,
+        "change_p": 7.1737
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.8989,
+        "totalAssets": 0.3789,
+        "currentShares": 69332036,
+        "change": 53253795,
+        "change_p": 331.2165
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2662,
+        "totalAssets": 0.5924,
+        "currentShares": 54200265,
+        "change": 805047,
+        "change_p": 1.5077
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2644,
+        "totalAssets": 0.334,
+        "currentShares": 30240527,
+        "change": -2708067,
+        "change_p": -8.2191
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2113,
+        "totalAssets": 0.5509,
+        "currentShares": 28971257,
+        "change": 4708806,
+        "change_p": 19.4078
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9114,
+        "totalAssets": 0.6265,
+        "currentShares": 21798785,
+        "change": 1213529,
+        "change_p": 5.8951
+      },
+      "8": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8817,
+        "totalAssets": 0.4921,
+        "currentShares": 21088462,
+        "change": 769238,
+        "change_p": 3.7858
+      },
+      "9": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7938,
+        "totalAssets": 0.1721,
+        "currentShares": 18984930,
+        "change": -3445860,
+        "change_p": -15.3622
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6878,
+        "totalAssets": 0.2035,
+        "currentShares": 16449634,
+        "change": -134198,
+        "change_p": -0.8092
+      },
+      "11": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.6695,
+        "totalAssets": 0.7734,
+        "currentShares": 16012307,
+        "change": 333149,
+        "change_p": 2.1248
+      },
+      "12": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6668,
+        "totalAssets": 0.4405,
+        "currentShares": 15947000,
+        "change": 422249,
+        "change_p": 2.7198
+      },
+      "13": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6481,
+        "totalAssets": 0.614,
+        "currentShares": 15499686,
+        "change": 520693,
+        "change_p": 3.4762
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.6353,
+        "totalAssets": 0.2966,
+        "currentShares": 15195251,
+        "change": 5031692,
+        "change_p": 49.5072
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5877,
+        "totalAssets": 0.5541,
+        "currentShares": 14056448,
+        "change": 351510,
+        "change_p": 2.5648
+      },
+      "16": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.5524,
+        "totalAssets": 0.5226,
+        "currentShares": 13212069,
+        "change": 3317011,
+        "change_p": 33.5219
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5342,
+        "totalAssets": 0.4181,
+        "currentShares": 12776527,
+        "change": 287995,
+        "change_p": 2.3061
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5213,
+        "totalAssets": 0.2718,
+        "currentShares": 12466709,
+        "change": -1167369,
+        "change_p": -8.5621
+      },
+      "19": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.4604,
+        "totalAssets": 0.6374,
+        "currentShares": 11011757,
+        "change": 1134420,
+        "change_p": 11.4851
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8913,
+        "totalAssets": 0.5066,
+        "currentShares": 69149664,
+        "change": 502982,
+        "change_p": 0.7327
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4321,
+        "totalAssets": 0.598,
+        "currentShares": 58167511,
+        "change": -586373,
+        "change_p": -0.998
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0108,
+        "totalAssets": 1.8958,
+        "currentShares": 48092628,
+        "change": -160863,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2277,
+        "totalAssets": 0.5965,
+        "currentShares": 29363293,
+        "change": -15984,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2155,
+        "totalAssets": 0.5324,
+        "currentShares": 29071015,
+        "change": 47921,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1072,
+        "totalAssets": 0.5958,
+        "currentShares": 26481552,
+        "change": -65121,
+        "change_p": -0.2453
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9701,
+        "totalAssets": 1.068,
+        "currentShares": 23202467,
+        "change": 8727,
+        "change_p": 0.0376
+      },
+      "7": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7166,
+        "totalAssets": 2.9736,
+        "currentShares": 17139106,
+        "change": 45442,
+        "change_p": 0.2658
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6046,
+        "totalAssets": 1.7382,
+        "currentShares": 14460101,
+        "change": -16422,
+        "change_p": -0.1134
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5381,
+        "totalAssets": 0.5965,
+        "currentShares": 12869978,
+        "change": -70037,
+        "change_p": -0.5412
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5099,
+        "totalAssets": 0.5904,
+        "currentShares": 12194092,
+        "change": 17000,
+        "change_p": 0.1396
+      },
+      "11": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4314,
+        "totalAssets": 0.5958,
+        "currentShares": 10317477,
+        "change": 59205,
+        "change_p": 0.5771
+      },
+      "12": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3785,
+        "totalAssets": 0.6941,
+        "currentShares": 9052679,
+        "change": -73115,
+        "change_p": -0.8012
+      },
+      "13": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3785,
+        "totalAssets": 0.6941,
+        "currentShares": 9052679,
+        "change": 9052679,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3785,
+        "totalAssets": 0.6941,
+        "currentShares": 9052679,
+        "change": -73115,
+        "change_p": -0.8012
+      },
+      "15": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3726,
+        "totalAssets": 1.8907,
+        "currentShares": 8911444,
+        "change": 38192,
+        "change_p": 0.4304
+      },
+      "16": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3686,
+        "totalAssets": 1.1527,
+        "currentShares": 8816410,
+        "change": 8400,
+        "change_p": 0.0954
+      },
+      "17": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3452,
+        "totalAssets": 0.5936,
+        "currentShares": 8256423,
+        "change": -18766,
+        "change_p": -0.2268
+      },
+      "18": {
+        "name": "Russell 1000 Index Fund",
+        "date": "2026-03-31",
+        "totalShares": 0.2976,
+        "totalAssets": 0.5325,
+        "currentShares": 7117841,
+        "change": 60515,
+        "change_p": 0.8575
+      },
+      "19": {
+        "name": "Russell 1000 Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.2851,
+        "totalAssets": 0.6194,
+        "currentShares": 6817855,
+        "change": 6817855,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 227.127,
+    "ForwardPE": 111.1111,
+    "PriceSalesTTM": 76.4672,
+    "PriceBookMRQ": 46.3263,
+    "EnterpriseValue": 335277172486,
+    "EnterpriseValueRevenue": 74.9148,
+    "EnterpriseValueEbitda": 232.8055
+  },
+  "Highlights": {
+    "MarketCapitalization": 342224863232,
+    "MarketCapitalizationMln": 342224.8632,
+    "EBITDA": 1440160000,
+    "PERatio": 227.127,
+    "PEGRatio": 2.8297,
+    "WallStreetTargetPrice": 186.4672,
+    "BookValue": 3.089,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.63,
+    "EPSEstimateCurrentYear": 1.3224,
+    "EPSEstimateNextYear": 1.8625,
+    "EPSEstimateNextQuarter": 0.2083,
+    "EPSEstimateCurrentQuarter": 0.2302,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3631,
+    "OperatingMarginTTM": 0.409,
+    "ReturnOnAssetsTTM": 0.116,
+    "ReturnOnEquityTTM": 0.2598,
+    "RevenueTTM": 4475445760,
+    "RevenuePerShareTTM": 1.889,
+    "QuarterlyRevenueGrowthYOY": 0.7,
+    "GrossProfitTTM": 3686268928,
+    "DilutedEpsTTM": 0.63,
+    "QuarterlyEarningsGrowthYOY": 6.476
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "PLTR",
+    "Type": "Common Stock",
+    "Name": "Palantir Technologies Inc.",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000N7QR55",
+    "ISIN": "US69608A1088",
+    "LEI": "549300UVN46B3BBDHO85",
+    "PrimaryTicker": "PLTR.US",
+    "CUSIP": "69608A108",
+    "CIK": "0001321655",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "2020-09-30",
+    "InternationalDomestic": null,
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Systems Software",
+    "HomeCategory": null,
+    "IsDelisted": false,
+    "Description": "Palantir Technologies Inc. builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and operations in the United States, the United Kingdom, and internationally. It provides Palantir Gotham integrates with other platforms for defense offerings which enables users to see, understand, and act in the modern battlespace; operations centers to the tactical edge; integrating data from domains and sensors in near real-time; and situational awareness and accelerating operational decision-making, as well as facilitates the hand-off between analysts and operational users, helping operators plan and execute real-world responses to threats that have been identified within the platform. The company also offers Palantir Foundry, a platform that helps organizations operate by creating a central operating system for their data; and allows individual users to integrate and analyze the data they need in one place. In addition, it provides Palantir Apollo, a software that delivers software and updates across the business, as well as enables customers to deploy their software virtually in any environment; and Palantir Artificial Intelligence Platform that provides unified access to open-source, self-hosted, and commercial large language models (LLMs) that can transform structured and unstructured data into LLM-understandable objects and can turn organizations' actions and processes into tools for humans and LLM-driven agents. The company also has a strategic partnership with Ondas Inc. to develop and deploy AI-enabled operational capabilities to scale stratospheric, aerial, and land-based ISR missions. The company was incorporated in 2003 and is headquartered in Aventura, Florida.",
+    "Address": "19505 Biscayne Blvd, Aventura, FL, United States, 33180",
+    "AddressData": {
+      "Street": "19505 Biscayne Blvd",
+      "City": "Aventura",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "33180"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Peter Andreas Thiel J.D.",
+        "Title": "Co-Founder & Chairman",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Dr. Alexander C. Karp J.D.",
+        "Title": "Co-Founder, CEO & Director",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Stephen Andrew Cohen",
+        "Title": "Co-Founder, President, Secretary & Director",
+        "YearBorn": "1984"
+      },
+      "3": {
+        "Name": "Mr. David A. Glazer J.D.",
+        "Title": "CFO & Treasurer",
+        "YearBorn": "1985"
+      },
+      "4": {
+        "Name": "Mr. Shyam  Sankar",
+        "Title": "CTO & Executive VP",
+        "YearBorn": "1983"
+      },
+      "5": {
+        "Name": "Mr. Ryan D. Taylor J.D.",
+        "Title": "Chief Revenue Officer & Chief Legal Officer",
+        "YearBorn": "1983"
+      },
+      "6": {
+        "Name": "Mr. Joseph Todd Lonsdale",
+        "Title": "Co-Founder",
+        "YearBorn": "1983"
+      },
+      "7": {
+        "Name": "Mr. Jeffrey  Buckley B.S., CPA",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1984"
+      },
+      "8": {
+        "Name": "Mr. David B. MacNaughton",
+        "Title": "President of Palantir Canada",
+        "YearBorn": "1950"
+      },
+      "9": {
+        "Name": "Kevin  Kawasaki",
+        "Title": "Head of Business Development",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "720 358 3679",
+    "WebURL": "https://www.palantir.com",
+    "LogoURL": "/img/logos/US/PLTR.png",
+    "FullTimeEmployees": 4429,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2291470751,
+    "SharesFloat": 2209310438,
+    "PercentInsiders": 3.583,
+    "PercentInstitutions": 61.92100000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0243
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.402,
+        "totalAssets": 0.3109,
+        "currentShares": 22694452,
+        "change": 11436171,
+        "change_p": 101.5801
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.3608,
+        "totalAssets": 0.1524,
+        "currentShares": 22583185,
+        "change": 198332,
+        "change_p": 0.886
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.8642,
+        "totalAssets": 0.1484,
+        "currentShares": 18540596,
+        "change": 392876,
+        "change_p": 2.1649
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8462,
+        "totalAssets": 0.1653,
+        "currentShares": 10388900,
+        "change": 2632,
+        "change_p": 0.0253
+      },
+      "4": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.5512,
+        "totalAssets": 0.6074,
+        "currentShares": 9592004,
+        "change": 3358264,
+        "change_p": 53.8724
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.7894,
+        "totalAssets": 0.3686,
+        "currentShares": 7534293,
+        "change": 598220,
+        "change_p": 8.6248
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2362,
+        "totalAssets": 0.1434,
+        "currentShares": 6040187,
+        "change": -665755,
+        "change_p": -9.9278
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0735,
+        "totalAssets": 0.161,
+        "currentShares": 5600552,
+        "change": 17269,
+        "change_p": 0.3093
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.577,
+        "totalAssets": 0.1179,
+        "currentShares": 4259702,
+        "change": -116088,
+        "change_p": -2.653
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3643,
+        "totalAssets": 0.1835,
+        "currentShares": 3685016,
+        "change": 581232,
+        "change_p": 18.7266
+      },
+      "10": {
+        "name": "Gates Bill & Melinda Foundation",
+        "date": "2025-12-31",
+        "totalShares": 1.317,
+        "totalAssets": 4.6838,
+        "currentShares": 3557378,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1607,
+        "totalAssets": 1.8447,
+        "currentShares": 3135045,
+        "change": 978857,
+        "change_p": 45.3976
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0598,
+        "totalAssets": 0.0888,
+        "currentShares": 2862529,
+        "change": -126973,
+        "change_p": -4.2473
+      },
+      "13": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0563,
+        "totalAssets": 0.4534,
+        "currentShares": 2853156,
+        "change": 131138,
+        "change_p": 4.8177
+      },
+      "14": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.0511,
+        "totalAssets": 1.0381,
+        "currentShares": 2838973,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0393,
+        "totalAssets": 0.1642,
+        "currentShares": 2807115,
+        "change": -27636,
+        "change_p": -0.9749
+      },
+      "16": {
+        "name": "Parnassus Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9781,
+        "totalAssets": 3.1899,
+        "currentShares": 2642017,
+        "change": -451317,
+        "change_p": -14.59
+      },
+      "17": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9021,
+        "totalAssets": 0.1988,
+        "currentShares": 2436723,
+        "change": 597087,
+        "change_p": 32.4568
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7415,
+        "totalAssets": 0.1956,
+        "currentShares": 2002728,
+        "change": -43400,
+        "change_p": -2.1211
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6965,
+        "totalAssets": 0.1348,
+        "currentShares": 1881190,
+        "change": -412356,
+        "change_p": -17.979
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0178,
+        "totalAssets": 0.23,
+        "currentShares": 8151264,
+        "change": 27884,
+        "change_p": 0.3433
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3762,
+        "totalAssets": 0.2541,
+        "currentShares": 6418424,
+        "change": -47002,
+        "change_p": -0.727
+      },
+      "2": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.4008,
+        "totalAssets": 1.0689,
+        "currentShares": 3783643,
+        "change": 990012,
+        "change_p": 35.4382
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1997,
+        "totalAssets": 0.2535,
+        "currentShares": 3240530,
+        "change": -1764,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1845,
+        "totalAssets": 0.269,
+        "currentShares": 3199454,
+        "change": 5272,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.1507,
+        "totalAssets": 0.6642,
+        "currentShares": 3108093,
+        "change": 1816760,
+        "change_p": 140.6887
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0832,
+        "totalAssets": 0.2535,
+        "currentShares": 2925769,
+        "change": -7203,
+        "change_p": -0.2456
+      },
+      "7": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0343,
+        "totalAssets": 0.6247,
+        "currentShares": 2793631,
+        "change": 994403,
+        "change_p": 55.2683
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.878,
+        "totalAssets": 0.5919,
+        "currentShares": 2371556,
+        "change": -20903,
+        "change_p": -0.8737
+      },
+      "9": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.756,
+        "totalAssets": 0.6678,
+        "currentShares": 2042064,
+        "change": 433085,
+        "change_p": 26.9168
+      },
+      "10": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.756,
+        "totalAssets": 0.8317,
+        "currentShares": 2042064,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.7331,
+        "totalAssets": 2.5998,
+        "currentShares": 1980149,
+        "change": -95427,
+        "change_p": -4.5976
+      },
+      "12": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.6495,
+        "totalAssets": 0.6511,
+        "currentShares": 1754344,
+        "change": 78129,
+        "change_p": 4.661
+      },
+      "13": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.5891,
+        "totalAssets": 2.3982,
+        "currentShares": 1591165,
+        "change": 20264,
+        "change_p": 1.29
+      },
+      "14": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.5791,
+        "totalAssets": 0.5769,
+        "currentShares": 1564062,
+        "change": 159510,
+        "change_p": 11.3566
+      },
+      "15": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.546,
+        "totalAssets": 2.6056,
+        "currentShares": 1474822,
+        "change": -110440,
+        "change_p": -6.9667
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5258,
+        "totalAssets": 0.2535,
+        "currentShares": 1420354,
+        "change": -3822,
+        "change_p": -0.2684
+      },
+      "17": {
+        "name": "Parnassus Core Equity Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.5219,
+        "totalAssets": 3.5621,
+        "currentShares": 1409755,
+        "change": -444025,
+        "change_p": -23.9524
+      },
+      "18": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.52,
+        "totalAssets": 0.4019,
+        "currentShares": 1404552,
+        "change": 1005107,
+        "change_p": 251.6259
+      },
+      "19": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5186,
+        "totalAssets": 2.8078,
+        "currentShares": 1400853,
+        "change": -9696,
+        "change_p": -0.6874
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 31.6802,
+    "ForwardPE": 33.3333,
+    "PriceSalesTTM": 3.2521,
+    "PriceBookMRQ": 6.0795,
+    "EnterpriseValue": 214493005579,
+    "EnterpriseValueRevenue": 4.6887,
+    "EnterpriseValueEbitda": 18.6063
+  },
+  "Highlights": {
+    "MarketCapitalization": 151973167104,
+    "MarketCapitalizationMln": 151973.1671,
+    "EBITDA": 8588000256,
+    "PERatio": 31.6802,
+    "PEGRatio": 1.7853,
+    "WallStreetTargetPrice": 665.0996,
+    "BookValue": 97.369,
+    "DividendShare": 6.48,
+    "DividendYield": 0.0109,
+    "EarningsShare": 17.76,
+    "EPSEstimateCurrentYear": 17.8957,
+    "EPSEstimateNextYear": 23.0183,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.0967,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.103,
+    "OperatingMarginTTM": 0.1748,
+    "ReturnOnAssetsTTM": 0.0396,
+    "ReturnOnEquityTTM": 0.1957,
+    "RevenueTTM": 46731001856,
+    "RevenuePerShareTTM": 172.71,
+    "QuarterlyRevenueGrowthYOY": -0.111,
+    "GrossProfitTTM": 12266000384,
+    "DilutedEpsTTM": 17.76,
+    "QuarterlyEarningsGrowthYOY": -0.085
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.81,
+    "TotalEsgPercentile": 22.52,
+    "EnvironmentScore": 8.89,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 15.47,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 10.45,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DE",
+    "Type": "Common Stock",
+    "Name": "Deere & Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BH1NH9",
+    "ISIN": "US2441991054",
+    "LEI": "PWFTNG3EI0Y73OXWDH08",
+    "PrimaryTicker": "DE.US",
+    "CUSIP": "244199105",
+    "CIK": "0000315189",
+    "EmployerIdNumber": "36-2382580",
+    "FiscalYearEnd": "October",
+    "IPODate": "1972-06-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Agricultural & Farm Machinery",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Deere & Company engages in the manufacture and distribution of various equipment worldwide. The company operates through four segments: Production and Precision Agriculture, Small Agriculture and Turf, Construction and Forestry, and Financial Services. The Production and Precision Agriculture segment provides four-wheel-drive track and row crop tractors, harvesters, cotton pickers and strippers, sugarcane harvesters and loaders, soil preparation, tillage, seeding, and crop care equipment, as well as application equipment, including sprayers and nutrient management, soil preparation machinery, and related attachments and service parts. The Small Agriculture and Turf segment offers specialty, utility, and compact tractors; self-propelled forage harvesters and attachments; rotary mowers, hay and forage equipment, and utility vehicles; turf and utility equipment, including riding lawn, commercial mowing, and golf course equipment, and utility vehicles, as well as implements for mowing, tilling, snow and debris handling, aerating, residential, commercial, golf, and sports turf care applications. The Construction and Forestry segment provides backhoe loaders, crawler dozers and loaders, four-wheel-drive loaders, excavators, motor graders, articulated dump trucks, skid-steer loaders, milling machines, recyclers, slipform and asphalt pavers, surface miners, compactors, tandem, static rollers, mobile crushers and screens, mobile and stationary asphalt plants, and log harvesters; and road building and rehabilitation equipment. The Financial Services segment finances sales and leases agriculture and turf, and construction and forestry equipment. It also offers wholesale financing to dealers of the foregoing equipment; and extended equipment warranties. Deere & Company has a strategic partnership with Tarter USA to develop and produce flex wing rotary cutters. The company was founded in 1837 and is headquartered in Moline, Illinois.",
+    "Address": "One John Deere Place, Moline, IL, United States, 61265",
+    "AddressData": {
+      "Street": "One John Deere Place",
+      "City": "Moline",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "61265"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John C. May II",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1969"
+      },
+      "1": {
+        "Name": "Mr. Ryan D. Campbell",
+        "Title": "Acting CFO & President of Worldwide Construction, Forestry & Power Systems",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Ms. Deanna M. Kovar",
+        "Title": "President of Worldwide Ag & Turf Div, Production and Precision Ag and Americas and Australia",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Mr. Jahmy J. Hindman",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Josh  Beal",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Renee A. Mailhot",
+        "Title": "VP & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Kellye L. Walker J.D.",
+        "Title": "Senior VP, Chief Legal Officer, Global Law Services & Regulatory Affairs and Corporate Secretary",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Ms. Felecia J. Pryor J.D.",
+        "Title": "Senior VP & Chief People Officer",
+        "YearBorn": "1975"
+      },
+      "8": {
+        "Name": "Dr. J. B. Penn",
+        "Title": "Chief Economist",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Andrew C. Traeger",
+        "Title": "Chief Risk Officer & Senior VP of International Business at John Deere Financial",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "309 765 8000",
+    "WebURL": "https://www.deere.com/en",
+    "LogoURL": "/img/logos/US/DE.png",
+    "FullTimeEmployees": 73100,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 270107282,
+    "SharesFloat": 269575171,
+    "PercentInsiders": 0.165,
+    "PercentInstitutions": 83.25,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0167
+  }
+}

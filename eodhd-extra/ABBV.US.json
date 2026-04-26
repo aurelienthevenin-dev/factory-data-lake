@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.2207,
+        "totalAssets": 0.5988,
+        "currentShares": 180779699,
+        "change": 3032438,
+        "change_p": 1.706
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2531,
+        "totalAssets": 0.5917,
+        "currentShares": 145977089,
+        "change": -1478975,
+        "change_p": -1.003
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.3926,
+        "totalAssets": 0.7843,
+        "currentShares": 113069632,
+        "change": 55855225,
+        "change_p": 97.6244
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5129,
+        "totalAssets": 0.6409,
+        "currentShares": 79821657,
+        "change": -202472,
+        "change_p": -0.253
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5232,
+        "totalAssets": 0.6282,
+        "currentShares": 44629980,
+        "change": 4190487,
+        "change_p": 10.3624
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.355,
+        "totalAssets": 0.5839,
+        "currentShares": 41654784,
+        "change": -45217,
+        "change_p": -0.1084
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4512,
+        "totalAssets": 0.6274,
+        "currentShares": 25668761,
+        "change": 2566724,
+        "change_p": 11.1104
+      },
+      "7": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.4365,
+        "totalAssets": 1.0717,
+        "currentShares": 25408200,
+        "change": 177370,
+        "change_p": 0.703
+      },
+      "8": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.423,
+        "totalAssets": 0.8936,
+        "currentShares": 25169844,
+        "change": -788262,
+        "change_p": -3.0367
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4222,
+        "totalAssets": 0.395,
+        "currentShares": 25154905,
+        "change": 45260,
+        "change_p": 0.1802
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2783,
+        "totalAssets": 0.2634,
+        "currentShares": 22609389,
+        "change": 1574302,
+        "change_p": 7.4842
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2464,
+        "totalAssets": 0.653,
+        "currentShares": 22046227,
+        "change": 32853,
+        "change_p": 0.1492
+      },
+      "12": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.8439,
+        "totalAssets": 0.5977,
+        "currentShares": 14926683,
+        "change": 4389782,
+        "change_p": 41.661
+      },
+      "13": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8227,
+        "totalAssets": 0.8402,
+        "currentShares": 14551400,
+        "change": -556471,
+        "change_p": -3.6833
+      },
+      "14": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.739,
+        "totalAssets": 0.4062,
+        "currentShares": 13071444,
+        "change": 6736161,
+        "change_p": 106.3277
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7347,
+        "totalAssets": 0.3642,
+        "currentShares": 12995625,
+        "change": -399594,
+        "change_p": -2.9831
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7113,
+        "totalAssets": 0.6326,
+        "currentShares": 12581121,
+        "change": -2021476,
+        "change_p": -13.8433
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6955,
+        "totalAssets": 0.511,
+        "currentShares": 12301919,
+        "change": -204578,
+        "change_p": -1.6358
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.686,
+        "totalAssets": 0.6148,
+        "currentShares": 12133331,
+        "change": 129247,
+        "change_p": 1.0767
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6625,
+        "totalAssets": 0.425,
+        "currentShares": 11718236,
+        "change": -86248,
+        "change_p": -0.7306
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1757,
+        "totalAssets": 0.6119,
+        "currentShares": 56170913,
+        "change": 270134,
+        "change_p": 0.4832
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5444,
+        "totalAssets": 0.6879,
+        "currentShares": 45004828,
+        "change": -453678,
+        "change_p": -0.998
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2845,
+        "totalAssets": 0.6861,
+        "currentShares": 22718869,
+        "change": -12372,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2716,
+        "totalAssets": 0.6968,
+        "currentShares": 22492191,
+        "change": 37076,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1584,
+        "totalAssets": 0.6854,
+        "currentShares": 20488943,
+        "change": -50372,
+        "change_p": -0.2452
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9239,
+        "totalAssets": 1.5747,
+        "currentShares": 16341478,
+        "change": -121713,
+        "change_p": -0.7393
+      },
+      "6": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7303,
+        "totalAssets": 7.2344,
+        "currentShares": 12917805,
+        "change": 39168,
+        "change_p": 0.3041
+      },
+      "7": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6204,
+        "totalAssets": 2.1834,
+        "currentShares": 10972838,
+        "change": 1907403,
+        "change_p": 21.0404
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.563,
+        "totalAssets": 0.6862,
+        "currentShares": 9957573,
+        "change": -54099,
+        "change_p": -0.5404
+      },
+      "9": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5595,
+        "totalAssets": 1.8336,
+        "currentShares": 9895794,
+        "change": 146267,
+        "change_p": 1.5002
+      },
+      "10": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5443,
+        "totalAssets": 1.0502,
+        "currentShares": 9627943,
+        "change": 2838851,
+        "change_p": 41.8149
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5334,
+        "totalAssets": 0.6791,
+        "currentShares": 9434574,
+        "change": 13200,
+        "change_p": 0.1401
+      },
+      "12": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5125,
+        "totalAssets": 1.8574,
+        "currentShares": 9065435,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.4794,
+        "totalAssets": 1.5211,
+        "currentShares": 8479662,
+        "change": 432545,
+        "change_p": 5.3752
+      },
+      "14": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4697,
+        "totalAssets": 1.0892,
+        "currentShares": 8308752,
+        "change": 1651198,
+        "change_p": 24.8019
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4513,
+        "totalAssets": 0.6854,
+        "currentShares": 7982600,
+        "change": 45780,
+        "change_p": 0.5768
+      },
+      "16": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4043,
+        "totalAssets": 1.39,
+        "currentShares": 7150433,
+        "change": 6815,
+        "change_p": 0.0954
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3961,
+        "totalAssets": 0.6905,
+        "currentShares": 7006182,
+        "change": -82379,
+        "change_p": -1.1621
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3961,
+        "totalAssets": 0.6905,
+        "currentShares": 7006182,
+        "change": -82379,
+        "change_p": -1.1621
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3961,
+        "totalAssets": 0.6905,
+        "currentShares": 7006182,
+        "change": 7006182,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 84.1992,
+    "ForwardPE": 14.0449,
+    "PriceSalesTTM": 5.7467,
+    "PriceBookMRQ": 50.4573,
+    "EnterpriseValue": 413709771933,
+    "EnterpriseValueRevenue": 6.7644,
+    "EnterpriseValueEbitda": 23.4676
+  },
+  "Highlights": {
+    "MarketCapitalization": 351470780416,
+    "MarketCapitalizationMln": 351470.7804,
+    "EBITDA": 29254000640,
+    "PERatio": 84.1992,
+    "PEGRatio": 0.4667,
+    "WallStreetTargetPrice": 249.2667,
+    "BookValue": -1.85,
+    "DividendShare": 6.65,
+    "DividendYield": 0.0331,
+    "EarningsShare": 2.36,
+    "EPSEstimateCurrentYear": 14.2287,
+    "EPSEstimateNextYear": 16.0852,
+    "EPSEstimateNextQuarter": 3.1001,
+    "EPSEstimateCurrentQuarter": 2.6527,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0691,
+    "OperatingMarginTTM": 0.3411,
+    "ReturnOnAssetsTTM": 0.0981,
+    "ReturnOnEquityTTM": 0.6225,
+    "RevenueTTM": 61160001536,
+    "RevenuePerShareTTM": 34.573,
+    "QuarterlyRevenueGrowthYOY": 0.1,
+    "GrossProfitTTM": 43803000832,
+    "DilutedEpsTTM": 2.36,
+    "QuarterlyEarningsGrowthYOY": -0.887
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.86,
+    "TotalEsgPercentile": 65.78,
+    "EnvironmentScore": 4.96,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 22.65,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 16.25,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ABBV",
+    "Type": "Common Stock",
+    "Name": "AbbVie Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0025Y4RY4",
+    "ISIN": "US00287Y1091",
+    "LEI": "FR5LCKFTG8054YNNRU85",
+    "PrimaryTicker": "ABBV.US",
+    "CUSIP": "00287Y109",
+    "CIK": "0001551152",
+    "EmployerIdNumber": "32-0375147",
+    "FiscalYearEnd": "December",
+    "IPODate": "2013-01-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Biotechnology",
+    "GicSubIndustry": "Biotechnology",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacturing, commercializing, and sale of medicines and therapies worldwide. The company offers Skyrizi to treat autoimmune diseases; Rinvoq to treat inflammatory diseases; Imbruvica for the treatment of adult patients with blood cancers; Venclexta to treat blood cancers; Elahere to treat various cancer; and Epkinly to treat lymphoma; and Emrelis for the treatment of lung cancer. It also provides facial injectables, plastics and regenerative medicine, body contouring, and skincare products; botox Cosmetic for the treatment of glabellar lines, crow's feet, forehead lines, and platysma bands; Juvederm Collection to treat volume loss in the temples, undereye, cheeks, chin, lips and lower face; Vraylar to treat schizophrenia, bipolar disorder, and depressive disorder; Duodopa to treat Parkinson's disease; Ubrelvy to treat migraine; Qulipta for episodic and chronic migraine; and Vyalev for the treatment of motor fluctuations, as well as Botox Therapeutic to treat chronic migraine, overactive bladder, spasticity, cervical dystonia, and other conditions. In addition, the company offers Ozurdex for visual impairment; Lumigan/Ganfort and Alphagan/Combigan for the reduction of elevated intraocular pressure in patients with open angle glaucoma or ocular hypertension; and other eye care products, including Refresh/Optive, Xen, Durysta, and Restasis. Further, it provides Mavyret to treat chronic hepatitis C virus genotype 1-6 infection; Creon, a pancreatic enzyme therapy; and Linzess/Constella to treat irritable bowel syndrome with constipation and chronic idiopathic constipation. The company was incorporated in 2012 and is headquartered in North Chicago, Illinois.",
+    "Address": "1 North Waukegan Road, North Chicago, IL, United States, 60064-6400",
+    "AddressData": {
+      "Street": "1 North Waukegan Road",
+      "City": "North Chicago",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60064-6400"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert A. Michael CPA",
+        "Title": "CEO & Chairman of the Board",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Scott T. Reents",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Dr. Azita  Saleki-Gerhardt Ph.D.",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Dr. Roopal B. Thakkar M.D.",
+        "Title": "Executive VP of Research & Development and Chief Scientific Officer",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Jeffrey Ryan Stewart",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Linda  Ray",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Elizabeth  Shea",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Perry C. Siatis",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1975"
+      },
+      "8": {
+        "Name": "Mr. Demetris D. Crum",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1981"
+      },
+      "9": {
+        "Name": "Mr. Wulff-Erik  von Borcke",
+        "Title": "Senior VP & President of Oncology",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "847 932 7900",
+    "WebURL": "https://www.abbvie.com",
+    "LogoURL": "/img/logos/US/abbv.png",
+    "FullTimeEmployees": 57000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1768762377,
+    "SharesFloat": 1765057035,
+    "PercentInsiders": 0.117,
+    "PercentInstitutions": 76.775,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0137
+  }
+}

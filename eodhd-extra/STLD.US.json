@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.7613,
+        "totalAssets": 0.0418,
+        "currentShares": 17021248,
+        "change": -137907,
+        "change_p": -0.8037
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4046,
+        "totalAssets": 0.0297,
+        "currentShares": 12163335,
+        "change": -35954,
+        "change_p": -0.2947
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.0518,
+        "totalAssets": 0.0355,
+        "currentShares": 7311113,
+        "change": 10300,
+        "change_p": 0.1411
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5379,
+        "totalAssets": 0.0383,
+        "currentShares": 3672896,
+        "change": -15124,
+        "change_p": -0.4101
+      },
+      "4": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.5035,
+        "totalAssets": 0.1133,
+        "currentShares": 3623054,
+        "change": 9959,
+        "change_p": 0.2756
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3945,
+        "totalAssets": 0.0293,
+        "currentShares": 3465423,
+        "change": 341125,
+        "change_p": 10.9185
+      },
+      "6": {
+        "name": "Life Cycle Investment Partners Limited",
+        "date": "2025-12-31",
+        "totalShares": 2.3924,
+        "totalAssets": 4.1044,
+        "currentShares": 3462392,
+        "change": 3462392,
+        "change_p": 0
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.3023,
+        "totalAssets": 0.0604,
+        "currentShares": 3331896,
+        "change": 677659,
+        "change_p": 25.5312
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.297,
+        "totalAssets": 0.0496,
+        "currentShares": 3324290,
+        "change": -3591875,
+        "change_p": -51.9345
+      },
+      "9": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.1088,
+        "totalAssets": 0.0264,
+        "currentShares": 3051950,
+        "change": 1751451,
+        "change_p": 134.6753
+      },
+      "10": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.7678,
+        "totalAssets": 0.9104,
+        "currentShares": 2558428,
+        "change": 252753,
+        "change_p": 10.9622
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4927,
+        "totalAssets": 0.0768,
+        "currentShares": 2160250,
+        "change": -69032,
+        "change_p": -3.0966
+      },
+      "12": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.4793,
+        "totalAssets": 0.3107,
+        "currentShares": 2140819,
+        "change": -199661,
+        "change_p": -8.5308
+      },
+      "13": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4727,
+        "totalAssets": 0.2038,
+        "currentShares": 2131392,
+        "change": -25806,
+        "change_p": -1.1963
+      },
+      "14": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.4639,
+        "totalAssets": 0.0089,
+        "currentShares": 2118520,
+        "change": 500480,
+        "change_p": 30.9313
+      },
+      "15": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.424,
+        "totalAssets": 0.0938,
+        "currentShares": 2060896,
+        "change": 1525276,
+        "change_p": 284.7683
+      },
+      "16": {
+        "name": "Robeco Institutional Asset Management BV",
+        "date": "2025-12-31",
+        "totalShares": 1.3876,
+        "totalAssets": 0.4846,
+        "currentShares": 2008199,
+        "change": 72122,
+        "change_p": 3.7252
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2774,
+        "totalAssets": 0.0406,
+        "currentShares": 1848713,
+        "change": -2500,
+        "change_p": -0.135
+      },
+      "18": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2394,
+        "totalAssets": 0.3147,
+        "currentShares": 1793630,
+        "change": 1070042,
+        "change_p": 147.88
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1575,
+        "totalAssets": 0.0299,
+        "currentShares": 1675192,
+        "change": 3804,
+        "change_p": 0.2276
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0495,
+        "totalAssets": 0.0398,
+        "currentShares": 4413275,
+        "change": 29987,
+        "change_p": 0.6841
+      },
+      "1": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.4375,
+        "totalAssets": 0.2072,
+        "currentShares": 3527611,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.4375,
+        "totalAssets": 0.1779,
+        "currentShares": 3527611,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4151,
+        "totalAssets": 0.0442,
+        "currentShares": 3495151,
+        "change": -35802,
+        "change_p": -1.0139
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2192,
+        "totalAssets": 0.0441,
+        "currentShares": 1764479,
+        "change": -960,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2071,
+        "totalAssets": 0.045,
+        "currentShares": 1746973,
+        "change": 2881,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1067,
+        "totalAssets": 0.1735,
+        "currentShares": 1601591,
+        "change": 26095,
+        "change_p": 1.6563
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1035,
+        "totalAssets": 0.0442,
+        "currentShares": 1596972,
+        "change": -3920,
+        "change_p": -0.2449
+      },
+      "8": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0354,
+        "totalAssets": 0.1357,
+        "currentShares": 1498506,
+        "change": -9158,
+        "change_p": -0.6074
+      },
+      "9": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.8395,
+        "totalAssets": 1.4607,
+        "currentShares": 1215000,
+        "change": -126000,
+        "change_p": -9.396
+      },
+      "10": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7836,
+        "totalAssets": 3.0933,
+        "currentShares": 1134002,
+        "change": 47279,
+        "change_p": 4.3506
+      },
+      "11": {
+        "name": "Stt Strt®SPDR®S&P®Mtls &MngETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7563,
+        "totalAssets": 4.4626,
+        "currentShares": 1094543,
+        "change": 10712,
+        "change_p": 0.9883
+      },
+      "12": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7042,
+        "totalAssets": 0.302,
+        "currentShares": 1019156,
+        "change": 7452,
+        "change_p": 0.7366
+      },
+      "13": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7042,
+        "totalAssets": 1.577,
+        "currentShares": 1019070,
+        "change": 616,
+        "change_p": 0.0605
+      },
+      "14": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6517,
+        "totalAssets": 0.1991,
+        "currentShares": 943198,
+        "change": 2751,
+        "change_p": 0.2925
+      },
+      "15": {
+        "name": "BGF World Mining A2",
+        "date": "2025-12-31",
+        "totalShares": 0.5998,
+        "totalAssets": 2.4253,
+        "currentShares": 867974,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.534,
+        "totalAssets": 0.0441,
+        "currentShares": 772850,
+        "change": -5187,
+        "change_p": -0.6667
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5311,
+        "totalAssets": 0.1179,
+        "currentShares": 768606,
+        "change": 12133,
+        "change_p": 1.6039
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5063,
+        "totalAssets": 0.0437,
+        "currentShares": 732777,
+        "change": 1000,
+        "change_p": 0.1367
+      },
+      "19": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.5042,
+        "totalAssets": 0.7479,
+        "currentShares": 729733,
+        "change": -21186,
+        "change_p": -2.8213
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.3337,
+    "ForwardPE": 16.129,
+    "PriceSalesTTM": 1.7282,
+    "PriceBookMRQ": 3.5538,
+    "EnterpriseValue": 36214002736,
+    "EnterpriseValueRevenue": 1.9048,
+    "EnterpriseValueEbitda": 15.1295
+  },
+  "Highlights": {
+    "MarketCapitalization": 32857878528,
+    "MarketCapitalizationMln": 32857.8785,
+    "EBITDA": 2315760128,
+    "PERatio": 24.3337,
+    "PEGRatio": 10.9053,
+    "WallStreetTargetPrice": 222.5209,
+    "BookValue": 61.799,
+    "DividendShare": 2.03,
+    "DividendYield": 0.009,
+    "EarningsShare": 9.32,
+    "EPSEstimateCurrentYear": 14.8175,
+    "EPSEstimateNextYear": 16.8983,
+    "EPSEstimateNextQuarter": 3.7551,
+    "EPSEstimateCurrentQuarter": 2.7854,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0722,
+    "OperatingMarginTTM": 0.1034,
+    "ReturnOnAssetsTTM": 0.0666,
+    "ReturnOnEquityTTM": 0.1525,
+    "RevenueTTM": 19012243456,
+    "RevenuePerShareTTM": 129.83,
+    "QuarterlyRevenueGrowthYOY": 0.191,
+    "GrossProfitTTM": 2668861952,
+    "DilutedEpsTTM": 9.32,
+    "QuarterlyEarningsGrowthYOY": 0.931
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 39.48,
+    "TotalEsgPercentile": 78.04,
+    "EnvironmentScore": 19.6,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 22.22,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 12.66,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "STLD",
+    "Type": "Common Stock",
+    "Name": "Steel Dynamics Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000HGYNZ9",
+    "ISIN": "US8581191009",
+    "LEI": "549300HGGKEL4FYTTQ83",
+    "PrimaryTicker": "STLD.US",
+    "CUSIP": "858119100",
+    "CIK": "0001022671",
+    "EmployerIdNumber": "35-1929476",
+    "FiscalYearEnd": "December",
+    "IPODate": "1996-11-21",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Steel",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Metals & Mining",
+    "GicSubIndustry": "Steel",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Steel Dynamics, Inc., together with its subsidiaries, operates as a steel producer and metal recycler in the United States. It operates through four segments: Steel Operations, Metals Recycling Operations, Steel Fabrication Operations, and Aluminum Operations. The Steel Operations segment offers hot rolled, cold rolled, and coated steel products; parallel flange beams and channel sections, large unequal leg angles, and reinforcing steel bars, standard strength carbon, intermediate alloy hardness, and premium grade rail products; engineered special-bar-quality products, merchant-bar-quality products, and other engineered round steel bars; channels, angles, flats, merchant rounds, and reinforcing steel bars; and specialty shapes and light structural steel products. This segment also engages in turning, polishing, straightening, chamfering, precision saw-cutting, and heat treating of bar products. Its products are used in construction, automotive, manufacturing, transportation, heavy and agricultural equipment, energy, and pipe and tube markets. The Metals Recycling Operations segment is involved in the ferrous and nonferrous scrap metal processing, transportation, marketing, brokerage, and scrap management services. Its ferrous products include heavy melting steel, busheling, bundled scrap, shredded scrap, steel turnings, and cast-iron products; and nonferrous products comprise aluminum, brass, copper, stainless steel, and other nonferrous metals. The Steel Fabrication Operations segment produces steel non-residential building components, such as steel joists, joist girders, and steel deck products for non-residential steel fabricators, metal building companies, general construction contractors, developers, property owners, brokers, and governmental entities. The Aluminum Operations segment offers recycled aluminum flat rolled products. The company also exports its products. Steel Dynamics, Inc. was incorporated in 1993 and is headquartered in Fort Wayne, Indiana.",
+    "Address": "7575 West Jefferson Boulevard, Fort Wayne, IN, United States, 46804",
+    "AddressData": {
+      "Street": "7575 West Jefferson Boulevard",
+      "City": "Fort Wayne",
+      "State": "IN",
+      "Country": "United States",
+      "ZIP": "46804"
+    },
+    "Listings": {
+      "0": {
+        "Code": "STLD",
+        "Exchange": "MX",
+        "Name": "Steel Dynamics Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark D. Millett",
+        "Title": "Co-Founder, Chairman & CEO",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Barry T. Schneider",
+        "Title": "President & COO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Richard P. Teets Jr.",
+        "Title": "Co-Founder & Director",
+        "YearBorn": "1955"
+      },
+      "3": {
+        "Name": "Ms. Theresa E. Wagler",
+        "Title": "Executive VP, CFO & Company Secretary",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Christopher A. Graham",
+        "Title": "Senior Vice President of Flat Roll Steel Group",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Mr. David A. Lipschitz",
+        "Title": "Investor Relations Director",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. James S. Anderson",
+        "Title": "Senior Vice President of Long Products Steel Group",
+        "YearBorn": "1961"
+      },
+      "7": {
+        "Name": "Mr. Miguel  Alvarez",
+        "Title": "Senior Vice President of Aluminum Group",
+        "YearBorn": "1968"
+      },
+      "8": {
+        "Name": "Mr. Matt  Bell",
+        "Title": "VP & Head of Metals Recycling Platform",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Richard A. Poinsatte CPA",
+        "Title": "Senior VP & Treasurer",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "260 969 3500",
+    "WebURL": "https://www.steeldynamics.com",
+    "LogoURL": "/img/logos/US/stld.png",
+    "FullTimeEmployees": 14400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 144722225,
+    "SharesFloat": 134933428,
+    "PercentInsiders": 6.5680000000000005,
+    "PercentInstitutions": 86.164,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0356
+  }
+}

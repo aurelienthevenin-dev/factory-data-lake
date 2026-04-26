@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2763,
+        "totalAssets": 0.0872,
+        "currentShares": 20825837,
+        "change": 272651,
+        "change_p": 1.3266
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6601,
+        "totalAssets": 0.0786,
+        "currentShares": 14952286,
+        "change": 281910,
+        "change_p": 1.9216
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.3357,
+        "totalAssets": 0.0876,
+        "currentShares": 9733814,
+        "change": 4053006,
+        "change_p": 71.3456
+      },
+      "3": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 4.2867,
+        "totalAssets": 1.4999,
+        "currentShares": 9623885,
+        "change": -1250364,
+        "change_p": -11.4984
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1561,
+        "totalAssets": 0.0972,
+        "currentShares": 9330730,
+        "change": -51345,
+        "change_p": -0.5473
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1728,
+        "totalAssets": 0.0865,
+        "currentShares": 4878029,
+        "change": 36205,
+        "change_p": 0.7478
+      },
+      "6": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8487,
+        "totalAssets": 0.5039,
+        "currentShares": 4150431,
+        "change": 1505916,
+        "change_p": 56.9449
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7105,
+        "totalAssets": 0.1234,
+        "currentShares": 3840146,
+        "change": -7101517,
+        "change_p": -64.9035
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6734,
+        "totalAssets": 0.116,
+        "currentShares": 3756930,
+        "change": 1361121,
+        "change_p": 56.8126
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4646,
+        "totalAssets": 0.067,
+        "currentShares": 3287998,
+        "change": 221581,
+        "change_p": 7.2261
+      },
+      "10": {
+        "name": "Pentwater Capital Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3447,
+        "totalAssets": 4.5824,
+        "currentShares": 3019000,
+        "change": 269000,
+        "change_p": 9.7818
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2225,
+        "totalAssets": 0.1055,
+        "currentShares": 2744672,
+        "change": -11965,
+        "change_p": -0.434
+      },
+      "12": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.1308,
+        "totalAssets": 0.1101,
+        "currentShares": 2538641,
+        "change": 565364,
+        "change_p": 28.651
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1055,
+        "totalAssets": 0.0451,
+        "currentShares": 2481789,
+        "change": 94013,
+        "change_p": 3.9373
+      },
+      "14": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0149,
+        "totalAssets": 0.3606,
+        "currentShares": 2278400,
+        "change": 1825612,
+        "change_p": 403.1935
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9859,
+        "totalAssets": 0.1341,
+        "currentShares": 2213431,
+        "change": 33821,
+        "change_p": 1.5517
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9231,
+        "totalAssets": 0.0975,
+        "currentShares": 2072337,
+        "change": 960841,
+        "change_p": 86.4457
+      },
+      "17": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9037,
+        "totalAssets": 0.2944,
+        "currentShares": 2028929,
+        "change": -125886,
+        "change_p": -5.8421
+      },
+      "18": {
+        "name": "London Company of Virginia",
+        "date": "2025-12-31",
+        "totalShares": 0.8066,
+        "totalAssets": 3.0165,
+        "currentShares": 1810853,
+        "change": 5729,
+        "change_p": 0.3174
+      },
+      "19": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8017,
+        "totalAssets": 0.0265,
+        "currentShares": 1799834,
+        "change": -1412197,
+        "change_p": -43.9659
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1756,
+        "totalAssets": 0.1025,
+        "currentShares": 7129298,
+        "change": 35222,
+        "change_p": 0.4965
+      },
+      "1": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 2.7789,
+        "totalAssets": 1.5051,
+        "currentShares": 6238800,
+        "change": -886800,
+        "change_p": -12.4453
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5475,
+        "totalAssets": 0.1154,
+        "currentShares": 5719239,
+        "change": -50520,
+        "change_p": -0.8756
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2869,
+        "totalAssets": 0.1151,
+        "currentShares": 2889075,
+        "change": -1572,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.272,
+        "totalAssets": 0.12,
+        "currentShares": 2855606,
+        "change": 4708,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1627,
+        "totalAssets": 0.1152,
+        "currentShares": 2610426,
+        "change": -6419,
+        "change_p": -0.2453
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9245,
+        "totalAssets": 0.2639,
+        "currentShares": 2075592,
+        "change": -13339,
+        "change_p": -0.6386
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5636,
+        "totalAssets": 0.1151,
+        "currentShares": 1265259,
+        "change": -5519,
+        "change_p": -0.4343
+      },
+      "8": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5559,
+        "totalAssets": 1.2744,
+        "currentShares": 1247917,
+        "change": -8640,
+        "change_p": -0.6876
+      },
+      "9": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5462,
+        "totalAssets": 3.0256,
+        "currentShares": 1226205,
+        "change": 756,
+        "change_p": 0.0617
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.534,
+        "totalAssets": 0.1139,
+        "currentShares": 1198777,
+        "change": 2640,
+        "change_p": 0.2207
+      },
+      "11": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.5091,
+        "totalAssets": 0.1244,
+        "currentShares": 1142952,
+        "change": 250000,
+        "change_p": 27.997
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4518,
+        "totalAssets": 0.1149,
+        "currentShares": 1014295,
+        "change": 6636,
+        "change_p": 0.6586
+      },
+      "13": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3978,
+        "totalAssets": 0.1112,
+        "currentShares": 893007,
+        "change": -5984,
+        "change_p": -0.6656
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3978,
+        "totalAssets": 0.1112,
+        "currentShares": 893007,
+        "change": -5984,
+        "change_p": -0.6656
+      },
+      "15": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3978,
+        "totalAssets": 0.1112,
+        "currentShares": 893007,
+        "change": 893007,
+        "change_p": 0
+      },
+      "16": {
+        "name": "BlackRock Event Driven Equity Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.3969,
+        "totalAssets": 5.6924,
+        "currentShares": 890955,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3938,
+        "totalAssets": 0.2847,
+        "currentShares": 884097,
+        "change": -35030,
+        "change_p": -3.8112
+      },
+      "18": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.3885,
+        "totalAssets": 0.8153,
+        "currentShares": 872270,
+        "change": -109778,
+        "change_p": -11.1785
+      },
+      "19": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.3792,
+        "totalAssets": 0.5694,
+        "currentShares": 851216,
+        "change": -288719,
+        "change_p": -25.3277
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 26.957,
+    "ForwardPE": 26.3158,
+    "PriceSalesTTM": 5.8947,
+    "PriceBookMRQ": 4.6417,
+    "EnterpriseValue": 87536438879,
+    "EnterpriseValueRevenue": 7.22,
+    "EnterpriseValueEbitda": 15.0325
+  },
+  "Highlights": {
+    "MarketCapitalization": 71797923840,
+    "MarketCapitalizationMln": 71797.9238,
+    "EBITDA": 5597000192,
+    "PERatio": 26.957,
+    "PEGRatio": 4.4356,
+    "WallStreetTargetPrice": 313.7778,
+    "BookValue": 69.276,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 11.86,
+    "EPSEstimateCurrentYear": 12.16,
+    "EPSEstimateNextYear": 13.3968,
+    "EPSEstimateNextQuarter": 3.1359,
+    "EPSEstimateCurrentQuarter": 2.4935,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2359,
+    "OperatingMarginTTM": 0.3117,
+    "ReturnOnAssetsTTM": 0.0591,
+    "ReturnOnEquityTTM": 0.1925,
+    "RevenueTTM": 12179999744,
+    "RevenuePerShareTTM": 54.133,
+    "QuarterlyRevenueGrowthYOY": -0.017,
+    "GrossProfitTTM": 5597000192,
+    "DilutedEpsTTM": 11.86,
+    "QuarterlyEarningsGrowthYOY": -0.114
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.77,
+    "TotalEsgPercentile": 39.34,
+    "EnvironmentScore": 11.94,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 13.27,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 6.05,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NSC",
+    "Type": "Common Stock",
+    "Name": "Norfolk Southern Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQ5DS5",
+    "ISIN": "US6558441084",
+    "LEI": "54930036C8MWP850MI84",
+    "PrimaryTicker": "NSC.US",
+    "CUSIP": "655844108",
+    "CIK": "0000702165",
+    "EmployerIdNumber": "52-1188014",
+    "FiscalYearEnd": "December",
+    "IPODate": "1982-06-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Ground Transportation",
+    "GicSubIndustry": "Rail Transportation",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Norfolk Southern Corporation, together with its subsidiaries, engages in the rail transportation of raw materials, intermediate products, and finished goods in the United States. The company transports agriculture, forest, and consumer products comprising soybeans, wheat, corn, fertilizers, livestock and poultry feed, food products, food oils, flour, sweeteners, ethanol, lumber and wood products, pulp board and paper products, wood fibers, wood pulp, beverages, and canned goods; chemicals, including sulfur and related chemicals, petroleum products comprising crude oil, chlorine and bleaching compounds, plastics, rubber, industrial chemicals, chemical wastes, sand, and natural gas liquids; metals and construction materials, such as steel, aluminum products, machinery, scrap metals, cement, aggregates, minerals, clay, transportation equipment, and military-related products; and automotive, including finished motor vehicles and automotive parts, as well as coal. It also transports overseas freight through various Atlantic and Gulf Coast ports; and operates an intermodal network. Norfolk Southern Corporation was incorporated in 1980 and is headquartered in Atlanta, Georgia.",
+    "Address": "650 West Peachtree Street NW, Atlanta, GA, United States, 30308-1925",
+    "AddressData": {
+      "Street": "650 West Peachtree Street NW",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30308-1925"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark R. George",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Jason A. Zampi",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. John F. Orr",
+        "Title": "COO & Executive VP",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Anil  Bhatt",
+        "Title": "Executive VP and Chief Information & Digital Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Claude E. Elkins Jr.",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Michael T. Barr",
+        "Title": "Vice President Treasurer & Investor Relations and Integrated Resource Planning",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Jason M. Morris",
+        "Title": "Senior Vice President & Chief Legal Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Angela D. Kolar",
+        "Title": "VP & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Elizabeth  Talton-Buck",
+        "Title": "VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Ann A. Adams Ph.D.",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "855 667 3655",
+    "WebURL": "https://www.norfolksouthern.com",
+    "LogoURL": "/img/logos/US/NSC.png",
+    "FullTimeEmployees": 19300,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 224504829,
+    "SharesFloat": 224199235,
+    "PercentInsiders": 0.082,
+    "PercentInstitutions": 78.834,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0377
+  }
+}

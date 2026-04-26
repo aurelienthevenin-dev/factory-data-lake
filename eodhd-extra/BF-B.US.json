@@ -1,0 +1,224 @@
+{
+  "Holders": {
+    "Institutions": {},
+    "Funds": {}
+  },
+  "Valuation": {
+    "TrailingPE": 16.4593,
+    "ForwardPE": 16.6113,
+    "PriceSalesTTM": 3.3212,
+    "PriceBookMRQ": 3.1914,
+    "EnterpriseValue": 15447280067,
+    "EnterpriseValueRevenue": 3.9587,
+    "EnterpriseValueEbitda": 13.0071
+  },
+  "Highlights": {
+    "MarketCapitalization": 12985899008,
+    "MarketCapitalizationMln": 12985.899,
+    "EBITDA": 1208999936,
+    "PERatio": 16.4593,
+    "PEGRatio": 4.6134,
+    "WallStreetTargetPrice": 29.2267,
+    "BookValue": 8.899,
+    "DividendShare": 0.911,
+    "DividendYield": 0.0321,
+    "EarningsShare": 1.72,
+    "EPSEstimateCurrentYear": 1.7426,
+    "EPSEstimateNextYear": 1.6995,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.4652,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.2064,
+    "OperatingMarginTTM": 0.3191,
+    "ReturnOnAssetsTTM": 0.086,
+    "ReturnOnEquityTTM": 0.2042,
+    "RevenueTTM": 3910000128,
+    "RevenuePerShareTTM": 8.326,
+    "QuarterlyRevenueGrowthYOY": 0.02,
+    "GrossProfitTTM": 2320000000,
+    "DilutedEpsTTM": 1.72,
+    "QuarterlyEarningsGrowthYOY": 0.013
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27.77,
+    "TotalEsgPercentile": 36,
+    "EnvironmentScore": 12.67,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 17.2,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 10.4,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "Yes"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BF-B",
+    "Type": "Common Stock",
+    "Name": "Brown-Forman Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": null,
+    "ISIN": "US1156372096",
+    "LEI": "549300873K3LXF7ARU34",
+    "PrimaryTicker": "BF-B.US",
+    "CUSIP": "115637209",
+    "CIK": "0000014693",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "April",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": null,
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Wineries & Distilleries",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Beverages",
+    "GicSubIndustry": "Distillers & Vintners",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Brown-Forman Corporation, together with its subsidiaries, manufactures, distills, bottles, imports, exports, markets, and sells a variety of alcohol beverages. It provides spirits, wines, whiskey spirits, whiskey-based flavored liqueurs, ready-to-drink cocktails, ready-to-pour products, vodkas, tequilas, gin, brandy, rum, bourbons, and liqueurs. The company offers its products primarily under the Jack Daniel's, Woodford Reserve, Old Forester, Gentleman Jack, Herradura, el Jimador, Fords Gin, The Glendronach, Benriach, Glenglassaugh, and Slane brands. It is also involved in the sale of used barrels, and bulk whiskey and wine; and provision of contract bottling services. The company serves retail customers and consumers through distributors and state governments; and retailers, wholesalers, and provincial governments directly. It operates in the United States, Germany, Australia, the United Kingdom, Canada, France, Mexico, Poland, Brazil, Türkiye, and internationally. Brown-Forman Corporation was founded in 1870 and is headquartered in Louisville, Kentucky.",
+    "Address": "850 Dixie Highway, Louisville, KY, United States, 40210",
+    "AddressData": {
+      "Street": "850 Dixie Highway",
+      "City": "Louisville",
+      "State": "KY",
+      "Country": "United States",
+      "ZIP": "40210"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Marshall B. Farrer",
+        "Title": "Executive Chairman",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Lawson E. Whiting",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Timothy M. Nall",
+        "Title": "Executive VP, Chief Global Supply Chain & Technology Officer",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Mr. Jeremy J. Shepherd",
+        "Title": "Executive VP & Chief Marketing Officer",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Campbell P. Brown",
+        "Title": "Executive Director",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Ms. Leanne D. Cunningham",
+        "Title": "Executive Officer",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. James W. Peters",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Ms. Angela S. Enyard",
+        "Title": "Senior Vice President & Chief Accounting Officer",
+        "YearBorn": "1989"
+      },
+      "8": {
+        "Name": "Mr. Larry  Combs",
+        "Title": "Chief Information Officer and Director of Supply Chain Integration & Strategy",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Susanne J. Perram",
+        "Title": "VP & Director of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "502 585 1100",
+    "WebURL": "https://www.brown-forman.com",
+    "LogoURL": "/img/logos/US/BF-B.png",
+    "FullTimeEmployees": 5000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 290262390,
+    "SharesFloat": 324197964,
+    "PercentInsiders": 2.944,
+    "PercentInstitutions": 76.66199999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1254
+  }
+}

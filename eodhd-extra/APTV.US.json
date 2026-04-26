@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.7393,
+        "totalAssets": 0.0276,
+        "currentShares": 25021258,
+        "change": -326359,
+        "change_p": -1.2875
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.8233,
+        "totalAssets": 0.0284,
+        "currentShares": 18806161,
+        "change": 406090,
+        "change_p": 2.207
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5263,
+        "totalAssets": 0.0288,
+        "currentShares": 9647337,
+        "change": -106889,
+        "change_p": -1.0958
+      },
+      "3": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 4.4794,
+        "totalAssets": 0.2343,
+        "currentShares": 9547504,
+        "change": -543138,
+        "change_p": -5.3826
+      },
+      "4": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 3.9152,
+        "totalAssets": 0.0679,
+        "currentShares": 8344872,
+        "change": 5594183,
+        "change_p": 203.3739
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7313,
+        "totalAssets": 0.0272,
+        "currentShares": 5821615,
+        "change": 99876,
+        "change_p": 1.7456
+      },
+      "6": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.6399,
+        "totalAssets": 0.1053,
+        "currentShares": 5626616,
+        "change": -1224221,
+        "change_p": -17.8697
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2256,
+        "totalAssets": 0.0123,
+        "currentShares": 4743578,
+        "change": 2577507,
+        "change_p": 118.9946
+      },
+      "8": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 2.1487,
+        "totalAssets": 0.2998,
+        "currentShares": 4579726,
+        "change": 1167946,
+        "change_p": 34.2327
+      },
+      "9": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0632,
+        "totalAssets": 1.1143,
+        "currentShares": 4397489,
+        "change": -3168505,
+        "change_p": -41.8782
+      },
+      "10": {
+        "name": "Impax Asset Management Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0031,
+        "totalAssets": 2.0324,
+        "currentShares": 4269536,
+        "change": -253609,
+        "change_p": -5.6069
+      },
+      "11": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.9208,
+        "totalAssets": 0.3248,
+        "currentShares": 4094090,
+        "change": -100819,
+        "change_p": -2.4034
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7539,
+        "totalAssets": 0.0145,
+        "currentShares": 3738331,
+        "change": -1479302,
+        "change_p": -28.352
+      },
+      "13": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.6992,
+        "totalAssets": 0.0983,
+        "currentShares": 3621596,
+        "change": -209845,
+        "change_p": -5.4769
+      },
+      "14": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6983,
+        "totalAssets": 0.8227,
+        "currentShares": 3619797,
+        "change": -2503,
+        "change_p": -0.0691
+      },
+      "15": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.6212,
+        "totalAssets": 0.0743,
+        "currentShares": 3455549,
+        "change": -123795,
+        "change_p": -3.4586
+      },
+      "16": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.6188,
+        "totalAssets": 0.0684,
+        "currentShares": 3450314,
+        "change": 3450314,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5407,
+        "totalAssets": 0.0446,
+        "currentShares": 3283826,
+        "change": -335021,
+        "change_p": -9.2577
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5178,
+        "totalAssets": 0.0302,
+        "currentShares": 3235072,
+        "change": -80979,
+        "change_p": -2.442
+      },
+      "19": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3681,
+        "totalAssets": 0.3705,
+        "currentShares": 2915906,
+        "change": 81492,
+        "change_p": 2.8751
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1692,
+        "totalAssets": 0.0235,
+        "currentShares": 6754886,
+        "change": -67722,
+        "change_p": -0.9926
+      },
+      "1": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 2.6526,
+        "totalAssets": 0.9561,
+        "currentShares": 5653843,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5415,
+        "totalAssets": 0.0264,
+        "currentShares": 5416975,
+        "change": -138295,
+        "change_p": -2.4894
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3045,
+        "totalAssets": 0.2053,
+        "currentShares": 4911787,
+        "change": 4138,
+        "change_p": 0.0843
+      },
+      "4": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4665,
+        "totalAssets": 0.3574,
+        "currentShares": 3125779,
+        "change": -25703,
+        "change_p": -0.8156
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2902,
+        "totalAssets": 0.027,
+        "currentShares": 2749884,
+        "change": 4536,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.283,
+        "totalAssets": 0.0264,
+        "currentShares": 2734639,
+        "change": -1488,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1585,
+        "totalAssets": 0.201,
+        "currentShares": 2469284,
+        "change": 7336,
+        "change_p": 0.298
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1487,
+        "totalAssets": 0.0262,
+        "currentShares": 2448274,
+        "change": -6076,
+        "change_p": -0.2476
+      },
+      "9": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.0883,
+        "totalAssets": 1.2533,
+        "currentShares": 2319530,
+        "change": 34400,
+        "change_p": 1.5054
+      },
+      "10": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.0883,
+        "totalAssets": 1.2533,
+        "currentShares": 2319530,
+        "change": 34400,
+        "change_p": 1.5054
+      },
+      "11": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.0883,
+        "totalAssets": 1.2554,
+        "currentShares": 2319530,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0249,
+        "totalAssets": 0.262,
+        "currentShares": 2184500,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.984,
+        "totalAssets": 0.9618,
+        "currentShares": 2097393,
+        "change": -84933,
+        "change_p": -3.8919
+      },
+      "14": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.9579,
+        "totalAssets": 0.8674,
+        "currentShares": 2041620,
+        "change": -25694,
+        "change_p": -1.2429
+      },
+      "15": {
+        "name": "First Trust NASDAQ® Cln Edge®StGidIfsETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8485,
+        "totalAssets": 1.6434,
+        "currentShares": 1808566,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Impax Leaders Strategy Composite",
+        "date": "2026-01-31",
+        "totalShares": 0.6964,
+        "totalAssets": 2.0246,
+        "currentShares": 1484310,
+        "change": -463,
+        "change_p": -0.0312
+      },
+      "17": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6415,
+        "totalAssets": 0.5336,
+        "currentShares": 1367241,
+        "change": -39694,
+        "change_p": -2.8213
+      },
+      "18": {
+        "name": "Bridge Builder Large Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.5957,
+        "totalAssets": 0.3385,
+        "currentShares": 1269773,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5619,
+        "totalAssets": 0.0264,
+        "currentShares": 1197585,
+        "change": -26122,
+        "change_p": -2.1347
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 80.1333,
+    "ForwardPE": 9.4429,
+    "PriceSalesTTM": 0.74,
+    "PriceBookMRQ": 1.3985,
+    "EnterpriseValue": 19118867443,
+    "EnterpriseValueRevenue": 0.9373,
+    "EnterpriseValueEbitda": 8.4187
+  },
+  "Highlights": {
+    "MarketCapitalization": 15093878784,
+    "MarketCapitalizationMln": 15093.8788,
+    "EBITDA": 3190000128,
+    "PERatio": 80.1333,
+    "PEGRatio": 0.9439,
+    "WallStreetTargetPrice": 87.0872,
+    "BookValue": 43.277,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.75,
+    "EPSEstimateCurrentYear": 6.2235,
+    "EPSEstimateNextYear": 6.7209,
+    "EPSEstimateNextQuarter": 1.9057,
+    "EPSEstimateCurrentQuarter": 1.8561,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0081,
+    "OperatingMarginTTM": 0.1031,
+    "ReturnOnAssetsTTM": 0.0591,
+    "ReturnOnEquityTTM": 0.0195,
+    "RevenueTTM": 20398000128,
+    "RevenuePerShareTTM": 92.718,
+    "QuarterlyRevenueGrowthYOY": 0.05,
+    "GrossProfitTTM": 3907000064,
+    "DilutedEpsTTM": 0.75,
+    "QuarterlyEarningsGrowthYOY": -0.434
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.51,
+    "TotalEsgPercentile": 7.82,
+    "EnvironmentScore": 3.82,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 1.69,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 2.49,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "APTV",
+    "Type": "Common Stock",
+    "Name": "Aptiv PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG01R914LT5",
+    "ISIN": "JE00BTDN8H13",
+    "LEI": null,
+    "PrimaryTicker": "APTV.US",
+    "CUSIP": "G27823106",
+    "CIK": "0001521332",
+    "EmployerIdNumber": "98-1029562",
+    "FiscalYearEnd": "December",
+    "IPODate": "2011-11-17",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Parts",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Automobiles & Components",
+    "GicIndustry": "Automobile Components",
+    "GicSubIndustry": "Automotive Parts & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Aptiv PLC, an industrial technology company, provides hardware and software solutions to support automotive and other industries in North America, Europe, the Middle East, Africa, the Asia Pacific, and South America. It operates through three segments: Advanced Safety and User Experience, Engineered Components, and Electrical Distribution Systems. The company offers active safety, user experience and smart vehicle compute, and software products for vehicle safety and security, including intelligent sensors, compute platforms, and software tools and services. It also provides connection systems, interconnects, and cable management and protection solutions for the distribution of power, signal, and data. Aptiv PLC was incorporated in 2011 and is based in Schaffhausen, Switzerland.",
+    "Address": "Spitalstrasse 5, Schaffhausen, Switzerland, 8200",
+    "AddressData": {
+      "Street": "Spitalstrasse 5",
+      "City": "Schaffhausen",
+      "Country": "Switzerland",
+      "ZIP": "8200"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Kevin P. Clark",
+        "Title": "Chairman, CEO & President of Intelligent Systems",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Joseph R. Massaro",
+        "Title": "Vice Chair & President of Engineered Components Group",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Varun  Laroyia",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Joseph T. Liotine",
+        "Title": "CEO Director of Versigent",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Allan J. Brazier",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Mr. Matthew  Peterson",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Ms. Betsy Miller Frank",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Katherine Hargrove Ramundo J.D.",
+        "Title": "Executive VP, Chief Legal Officer, Chief Compliance Officer & Secretary",
+        "YearBorn": "1968"
+      },
+      "8": {
+        "Name": "Ms. Lisa  Scalzo",
+        "Title": "Senior VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Josie  Archer",
+        "Title": "Senior Vice President of Global Sales",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "41 52 580 96 00",
+    "WebURL": "https://www.aptiv.com",
+    "LogoURL": "/img/logos/US/APTV.png",
+    "FullTimeEmployees": 140000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 213141325,
+    "SharesFloat": 210940040,
+    "PercentInsiders": 0.567,
+    "PercentInstitutions": 103.26299999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0514
+  }
+}

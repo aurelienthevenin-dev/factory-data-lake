@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3911,
+        "totalAssets": 0.0296,
+        "currentShares": 50787057,
+        "change": 50787057,
+        "change_p": 0
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.7376,
+        "totalAssets": 0.0433,
+        "currentShares": 31713883,
+        "change": -1695960,
+        "change_p": -5.0762
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4395,
+        "totalAssets": 0.0492,
+        "currentShares": 18196142,
+        "change": -167833,
+        "change_p": -0.9139
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6886,
+        "totalAssets": 0.0272,
+        "currentShares": 11019892,
+        "change": 74355,
+        "change_p": 0.6793
+      },
+      "4": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6015,
+        "totalAssets": 0.1122,
+        "currentShares": 10662674,
+        "change": 1695097,
+        "change_p": 18.9025
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.1539,
+        "totalAssets": 0.1084,
+        "currentShares": 8828110,
+        "change": 1942589,
+        "change_p": 28.2127
+      },
+      "6": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8278,
+        "totalAssets": 1.0029,
+        "currentShares": 7491426,
+        "change": 5303219,
+        "change_p": 242.3545
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7618,
+        "totalAssets": 0.0341,
+        "currentShares": 7220941,
+        "change": -124702,
+        "change_p": -1.6976
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7313,
+        "totalAssets": 0.1379,
+        "currentShares": 7096122,
+        "change": 98590,
+        "change_p": 1.4089
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5277,
+        "totalAssets": 0.0146,
+        "currentShares": 6261348,
+        "change": 4525335,
+        "change_p": 260.674
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1725,
+        "totalAssets": 0.0401,
+        "currentShares": 4805814,
+        "change": 120164,
+        "change_p": 2.5645
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.144,
+        "totalAssets": 0.0248,
+        "currentShares": 4688724,
+        "change": -78662,
+        "change_p": -1.65
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0908,
+        "totalAssets": 0.0446,
+        "currentShares": 4470761,
+        "change": -26003,
+        "change_p": -0.5783
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9298,
+        "totalAssets": 0.0188,
+        "currentShares": 3810942,
+        "change": -1950048,
+        "change_p": -33.8492
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8165,
+        "totalAssets": 0.0282,
+        "currentShares": 3346621,
+        "change": 8868,
+        "change_p": 0.2657
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7906,
+        "totalAssets": 0.0202,
+        "currentShares": 3240352,
+        "change": 94519,
+        "change_p": 3.0046
+      },
+      "16": {
+        "name": "Eurizon Capital SGR SpA",
+        "date": "2025-12-31",
+        "totalShares": 0.7901,
+        "totalAssets": 0.4058,
+        "currentShares": 3238258,
+        "change": 3238258,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7734,
+        "totalAssets": 0.0443,
+        "currentShares": 3169908,
+        "change": 29543,
+        "change_p": 0.9408
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7213,
+        "totalAssets": 0.0361,
+        "currentShares": 2956322,
+        "change": 638667,
+        "change_p": 27.5566
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7183,
+        "totalAssets": 0.0263,
+        "currentShares": 2944275,
+        "change": -115685,
+        "change_p": -3.7806
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1643,
+        "totalAssets": 0.0298,
+        "currentShares": 12969493,
+        "change": -264855,
+        "change_p": -2.0013
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5415,
+        "totalAssets": 0.0335,
+        "currentShares": 10416649,
+        "change": -357500,
+        "change_p": -3.3181
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3035,
+        "totalAssets": 0.2603,
+        "currentShares": 9441166,
+        "change": -74358,
+        "change_p": -0.7814
+      },
+      "3": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4659,
+        "totalAssets": 0.453,
+        "currentShares": 6008056,
+        "change": -102630,
+        "change_p": -1.6795
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3009,
+        "totalAssets": 0.0356,
+        "currentShares": 5332019,
+        "change": 8822,
+        "change_p": 0.1657
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2834,
+        "totalAssets": 0.0335,
+        "currentShares": 5260373,
+        "change": -2868,
+        "change_p": -0.0545
+      },
+      "6": {
+        "name": "CREF Total Global Stock Account R3",
+        "date": "2026-02-28",
+        "totalShares": 1.1876,
+        "totalAssets": 0.1743,
+        "currentShares": 4867537,
+        "change": -327282,
+        "change_p": -6.3002
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1504,
+        "totalAssets": 0.0332,
+        "currentShares": 4715266,
+        "change": -11662,
+        "change_p": -0.2467
+      },
+      "8": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 1.0857,
+        "totalAssets": 1.3613,
+        "currentShares": 4450000,
+        "change": 4450000,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0145,
+        "totalAssets": 0.403,
+        "currentShares": 4158185,
+        "change": 4158185,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9211,
+        "totalAssets": 0.2027,
+        "currentShares": 3775333,
+        "change": 11135,
+        "change_p": 0.2958
+      },
+      "11": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8247,
+        "totalAssets": 2.346,
+        "currentShares": 3380114,
+        "change": 140447,
+        "change_p": 4.3352
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5622,
+        "totalAssets": 0.0334,
+        "currentShares": 2304282,
+        "change": -66636,
+        "change_p": -2.8106
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5329,
+        "totalAssets": 0.0331,
+        "currentShares": 2184305,
+        "change": -49100,
+        "change_p": -2.1984
+      },
+      "14": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4614,
+        "totalAssets": 0.4581,
+        "currentShares": 1891026,
+        "change": 1891026,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4509,
+        "totalAssets": 0.0334,
+        "currentShares": 1848217,
+        "change": -33266,
+        "change_p": -1.7681
+      },
+      "16": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.4491,
+        "totalAssets": 0.5322,
+        "currentShares": 1840741,
+        "change": -23166,
+        "change_p": -1.2429
+      },
+      "17": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.426,
+        "totalAssets": 0.4743,
+        "currentShares": 1746118,
+        "change": 1746118,
+        "change_p": 0
+      },
+      "18": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.4245,
+        "totalAssets": 0.539,
+        "currentShares": 1739887,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "CREF Global Equities R3",
+        "date": "2026-02-28",
+        "totalShares": 0.4142,
+        "totalAssets": 0.2345,
+        "currentShares": 1697780,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 220.6191,
+    "ForwardPE": 20.1613,
+    "PriceSalesTTM": 2.7726,
+    "PriceBookMRQ": 1.3655,
+    "EnterpriseValue": 21485005114,
+    "EnterpriseValueRevenue": 3.137,
+    "EnterpriseValueEbitda": 18.5216
+  },
+  "Highlights": {
+    "MarketCapitalization": 18989611008,
+    "MarketCapitalizationMln": 18989.611,
+    "EBITDA": 1512000000,
+    "PERatio": 220.6191,
+    "PEGRatio": 1.7173,
+    "WallStreetTargetPrice": 55.6,
+    "BookValue": 34.016,
+    "DividendShare": 1.43,
+    "DividendYield": 0.0308,
+    "EarningsShare": 0.21,
+    "EPSEstimateCurrentYear": 2.2678,
+    "EPSEstimateNextYear": 2.5421,
+    "EPSEstimateNextQuarter": 0.4751,
+    "EPSEstimateCurrentQuarter": 0.4315,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.1137,
+    "OperatingMarginTTM": 0.3469,
+    "ReturnOnAssetsTTM": 0.0186,
+    "ReturnOnEquityTTM": 0.0052,
+    "RevenueTTM": 6848999936,
+    "RevenuePerShareTTM": 16.405,
+    "QuarterlyRevenueGrowthYOY": -0.452,
+    "GrossProfitTTM": 2363000064,
+    "DilutedEpsTTM": 0.21,
+    "QuarterlyEarningsGrowthYOY": -0.669
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 36.53,
+    "TotalEsgPercentile": 71.32,
+    "EnvironmentScore": 18.72,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 14.02,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 11.8,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DD",
+    "Type": "Common Stock",
+    "Name": "Dupont De Nemours Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00BN961G4",
+    "ISIN": "US26614N1028",
+    "LEI": "5493004JF0SDFLM8GD76",
+    "PrimaryTicker": "DD.US",
+    "CUSIP": "26614N102",
+    "CIK": "0001666700",
+    "EmployerIdNumber": "51-0014090",
+    "FiscalYearEnd": "December",
+    "IPODate": "2019-06-03",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Diversified Chemicals",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "DuPont de Nemours, Inc. provides technology-based materials and solutions in the United States, Canada, the Asia Pacific, Latin America, Europe, the Middle East, and Africa. It operates through two segments, Healthcare & Water Technologies and Diversified Industrials. The company offers specialty components for medical devices, packaging and garments, and protective suits under the brand TYVEK; provides water filtration and separation solutions, including elements, modules, and systems serving primarily industrial wastewater and energy markets, municipal and desalination applications, and life sciences and specialty sectors. It also offers AMBERLITE ion exchange resins, FILMTEC reverse osmosis and nanofiltration elements, and INGE and ITEGRATEC ultrafiltration modules. In addition, the company offers engineered products and integrated solutions for the non-residential, residential, and repair-and-remodel construction markets, includes TYVEK house wrap, STYROFOAM insulation, and CORIAN solid surface. Further, it engages in the design and production of engineered components, systems, and process solutions used in OEM and operational applications, such as automotive, aerospace, printing, and packaging. Additionally, the company offers Vespel shapes and parts, MOLYKOTE specialty lubricants, BETAFORCE and BETASEAL structural adhesives, and Cyrel flexographic printing plates. The company was formerly known as DowDuPont Inc. and changed its name to DuPont de Nemours, Inc. in June 2019. DuPont de Nemours, Inc. was incorporated in 2015 and is headquartered in Wilmington, Delaware.",
+    "Address": "Building 730, Wilmington, DE, United States, 19805",
+    "AddressData": {
+      "Street": "Building 730",
+      "City": "Wilmington",
+      "State": "DE",
+      "Country": "United States",
+      "ZIP": "19805"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DD",
+        "Exchange": "BA",
+        "Name": "Dupont De Nemours Inc DRC"
+      },
+      "1": {
+        "Code": "DDNB34",
+        "Exchange": "SA",
+        "Name": "DuPont de Nemours Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Lori D. Koch",
+        "Title": "CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Ms. Antonella B. Franzen",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Erik T. Hoover J.D.",
+        "Title": "Senior VP & General Counsel",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Christopher P. Raia",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Jeroen  Bloemhard",
+        "Title": "President of Healthcare & Water Technologies",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Mr. David  Koch",
+        "Title": "Chief Operations & Engineering Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Madeleine G. Barber",
+        "Title": "VP of Tax, Controller & Chief Accounting Officer",
+        "YearBorn": "1964"
+      },
+      "7": {
+        "Name": "Mr. Marty  DeGroot",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Matthew S. Abbott",
+        "Title": "SVP, Chief Information Officer & Chief Procurement Officer",
+        "YearBorn": "1977"
+      },
+      "9": {
+        "Name": "Ann  Giancristoforo",
+        "Title": "VP of Investor Relations, Corporate FP&A, Strategic Finance",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "302 295 5783",
+    "WebURL": "https://www.dupont.com",
+    "LogoURL": "/img/logos/US/dd.png",
+    "FullTimeEmployees": 15000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 409877186,
+    "SharesFloat": 407590765,
+    "PercentInsiders": 0.183,
+    "PercentInstitutions": 79.96,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0284
+  }
+}

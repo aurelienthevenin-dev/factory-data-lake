@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.6491,
+        "totalAssets": 0.0736,
+        "currentShares": 3000648,
+        "change": -69101,
+        "change_p": -2.251
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.7907,
+        "totalAssets": 0.0609,
+        "currentShares": 2322563,
+        "change": -211966,
+        "change_p": -8.3631
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5134,
+        "totalAssets": 0.0556,
+        "currentShares": 1070684,
+        "change": -12726,
+        "change_p": -1.1746
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.7711,
+        "totalAssets": 0.2057,
+        "currentShares": 894593,
+        "change": 86200,
+        "change_p": 10.6631
+      },
+      "4": {
+        "name": "Valley Forge Capital Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 3.2435,
+        "totalAssets": 29.4879,
+        "currentShares": 769424,
+        "change": 1002,
+        "change_p": 0.1304
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.0314,
+        "totalAssets": 0.0749,
+        "currentShares": 719120,
+        "change": 8886,
+        "change_p": 1.2511
+      },
+      "6": {
+        "name": "Edgewood Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3108,
+        "totalAssets": 4.4131,
+        "currentShares": 548161,
+        "change": -211734,
+        "change_p": -27.8636
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0591,
+        "totalAssets": 0.0443,
+        "currentShares": 488473,
+        "change": -20768,
+        "change_p": -4.0782
+      },
+      "8": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7035,
+        "totalAssets": 0.3051,
+        "currentShares": 404105,
+        "change": 30253,
+        "change_p": 8.0922
+      },
+      "9": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.6778,
+        "totalAssets": 0.3689,
+        "currentShares": 398000,
+        "change": 42233,
+        "change_p": 11.871
+      },
+      "10": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.605,
+        "totalAssets": 0.1009,
+        "currentShares": 380750,
+        "change": 2867,
+        "change_p": 0.7587
+      },
+      "11": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4808,
+        "totalAssets": 0.2985,
+        "currentShares": 351273,
+        "change": 15351,
+        "change_p": 4.5698
+      },
+      "12": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3631,
+        "totalAssets": 0.1051,
+        "currentShares": 323354,
+        "change": -13248,
+        "change_p": -3.9358
+      },
+      "13": {
+        "name": "Kensico Capital Management Corp",
+        "date": "2025-12-31",
+        "totalShares": 1.2886,
+        "totalAssets": 8.7815,
+        "currentShares": 305680,
+        "change": -19200,
+        "change_p": -5.9099
+      },
+      "14": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.2882,
+        "totalAssets": 0.0954,
+        "currentShares": 305577,
+        "change": 305577,
+        "change_p": 0
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2223,
+        "totalAssets": 0.0524,
+        "currentShares": 289958,
+        "change": 89827,
+        "change_p": 44.8841
+      },
+      "16": {
+        "name": "Akre Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1696,
+        "totalAssets": 5.1427,
+        "currentShares": 277445,
+        "change": 16596,
+        "change_p": 6.3623
+      },
+      "17": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0259,
+        "totalAssets": 0.3115,
+        "currentShares": 243374,
+        "change": 62724,
+        "change_p": 34.7213
+      },
+      "18": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9977,
+        "totalAssets": 0.0106,
+        "currentShares": 236678,
+        "change": -324254,
+        "change_p": -57.8063
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9781,
+        "totalAssets": 0.0444,
+        "currentShares": 232016,
+        "change": -9502,
+        "change_p": -3.9343
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Loomis Sayles Strategic Alpha",
+        "date": "2025-12-31",
+        "totalShares": 11.8075,
+        "totalAssets": 0.2065,
+        "currentShares": 2801000,
+        "change": 21000,
+        "change_p": 0.7554
+      },
+      "1": {
+        "name": "Loomis Sayles HYCSV CIT",
+        "date": "2025-12-31",
+        "totalShares": 7.8113,
+        "totalAssets": 0.7981,
+        "currentShares": 1853000,
+        "change": 26000,
+        "change_p": 1.4231
+      },
+      "2": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-06-30",
+        "totalShares": 6.7869,
+        "totalAssets": 0.0502,
+        "currentShares": 1610000,
+        "change": 1610000,
+        "change_p": 0
+      },
+      "3": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 3.7296,
+        "totalAssets": 1.0793,
+        "currentShares": 884751,
+        "change": 432291,
+        "change_p": 95.5424
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0129,
+        "totalAssets": 0.0382,
+        "currentShares": 714714,
+        "change": 2134,
+        "change_p": 0.2995
+      },
+      "5": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5513,
+        "totalAssets": 0.0454,
+        "currentShares": 605212,
+        "change": -3446,
+        "change_p": -0.5662
+      },
+      "6": {
+        "name": "Loomis Sayles US High Yield",
+        "date": "2025-12-31",
+        "totalShares": 2.445,
+        "totalAssets": 0.7459,
+        "currentShares": 580000,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0523,
+        "totalAssets": 0.2615,
+        "currentShares": 486845,
+        "change": -2704,
+        "change_p": -0.5523
+      },
+      "8": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.9073,
+        "totalAssets": 0.7947,
+        "currentShares": 452460,
+        "change": 282385,
+        "change_p": 166.0356
+      },
+      "9": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8802,
+        "totalAssets": 0.2245,
+        "currentShares": 446034,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.8802,
+        "totalAssets": 0.1554,
+        "currentShares": 446034,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2863,
+        "totalAssets": 0.0452,
+        "currentShares": 305137,
+        "change": -168,
+        "change_p": -0.055
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2719,
+        "totalAssets": 0.0568,
+        "currentShares": 301727,
+        "change": 498,
+        "change_p": 0.1653
+      },
+      "13": {
+        "name": "Akre Focus ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2654,
+        "totalAssets": 4.8808,
+        "currentShares": 300187,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 1.1882,
+        "totalAssets": 1.377,
+        "currentShares": 281855,
+        "change": 1081,
+        "change_p": 0.385
+      },
+      "15": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.177,
+        "totalAssets": 1.5424,
+        "currentShares": 279200,
+        "change": 26764,
+        "change_p": 10.6023
+      },
+      "16": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1623,
+        "totalAssets": 0.0453,
+        "currentShares": 275721,
+        "change": -686,
+        "change_p": -0.2482
+      },
+      "17": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1553,
+        "totalAssets": 0.0921,
+        "currentShares": 274073,
+        "change": -1508,
+        "change_p": -0.5472
+      },
+      "18": {
+        "name": "Edgewood Growth Instl",
+        "date": "2025-12-31",
+        "totalShares": 1.0035,
+        "totalAssets": 4.4768,
+        "currentShares": 238054,
+        "change": -167296,
+        "change_p": -41.272
+      },
+      "19": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 0.9517,
+        "totalAssets": 0.4853,
+        "currentShares": 225756,
+        "change": 66293,
+        "change_p": 41.5727
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.1705,
+    "ForwardPE": 23.3645,
+    "PriceSalesTTM": 11.5539,
+    "PriceBookMRQ": 82.3284,
+    "EnterpriseValue": 26294688007,
+    "EnterpriseValueRevenue": 12.7467,
+    "EnterpriseValueEbitda": 26.138
+  },
+  "Highlights": {
+    "MarketCapitalization": 23834101760,
+    "MarketCapitalizationMln": 23834.1018,
+    "EBITDA": 1005726976,
+    "PERatio": 37.1705,
+    "PEGRatio": 0.8904,
+    "WallStreetTargetPrice": 1641.8206,
+    "BookValue": -76.09,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 27.03,
+    "EPSEstimateCurrentYear": 41.5588,
+    "EPSEstimateNextYear": 52.5771,
+    "EPSEstimateNextQuarter": 10.5781,
+    "EPSEstimateCurrentQuarter": 7.0847,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3189,
+    "OperatingMarginTTM": 0.4572,
+    "ReturnOnAssetsTTM": 0.3476,
+    "ReturnOnEquityTTM": 0.3562,
+    "RevenueTTM": 2062860032,
+    "RevenuePerShareTTM": 85.684,
+    "QuarterlyRevenueGrowthYOY": 0.164,
+    "GrossProfitTTM": 1709222016,
+    "DilutedEpsTTM": 27.03,
+    "QuarterlyEarningsGrowthYOY": 0.077
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "FICO",
+    "Type": "Common Stock",
+    "Name": "Fair Isaac Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DW76Y6",
+    "ISIN": "US3032501047",
+    "LEI": "RI6HET5SJUEY30V1PS26",
+    "PrimaryTicker": "FICO.US",
+    "CUSIP": "303250104",
+    "CIK": "0000814547",
+    "EmployerIdNumber": "94-1499887",
+    "FiscalYearEnd": "September",
+    "IPODate": "1987-07-22",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Fair Isaac Corporation provides analytics software in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Scores and Software. The Scores segment offers business-to-business scoring solutions and services that give clients access to predictive credit and other scores that can be integrated into their transaction streams and decision-making processes, as well as business-to-consumer scoring solutions comprising myFICO.com subscription offerings. Its Software segment provides pre-configured analytic and decision management solution designed for various business needs or processes, such as account origination, customer management, customer engagement, fraud detection, and marketing, as well as associated professional services. This segment also offers FICO Platform, a modular software offering designed to support advanced analytic and decision use cases, as well as stand-alone analytic and decisioning software that can be configured by customers to address a wide range of business use cases. In addition, the company offers analytic and decisioning software comprising FICO Decision Modeler, FICO Blaze Advisor, FICO Xpress Optimization, FICO Analytics Workbench, FICO Data Orchestrator, FICO DMP Streaming, FICO Business Outcome Simulator, and FICO Decision Optimizer; pre-configured solutions consisting of FICO Fraud Solutions, FICO Originations, FICO Customer Communication Service, FICO Strategy Director, and FICO TRIAD Customer Manager; and professional services software, including FICO Implementation Services and FICO Analytic Services. It markets its products and services primarily through its direct sales organization and indirect channels, as well as online. The company was formerly known as Fair Isaac & Company, Inc. and changed its name to Fair Isaac Corporation in July 1992. Fair Isaac Corporation was founded in 1956 and is headquartered in Bozeman, Montana.",
+    "Address": "5 West Mendenhall, Bozeman, MT, United States, 59715",
+    "AddressData": {
+      "Street": "5 West Mendenhall",
+      "City": "Bozeman",
+      "State": "MT",
+      "Country": "United States",
+      "ZIP": "59715"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. William J. Lansing J.D.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. Steven P. Weber",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "NA"
+      },
+      "2": {
+        "Name": "Mr. Mark Russell Scadina",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Richard Shawn Deal",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Mr. Nikhil  Behl",
+        "Title": "President of Software",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Michael S. Leonard",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Amir  Hermelin",
+        "Title": "VP & CTO",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Dave  Singleton",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. John  Chen",
+        "Title": "Managing Director of China Operations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Thomas A. Bowers",
+        "Title": "Executive Vice President of Corporate Strategy",
+        "YearBorn": "1956"
+      }
+    },
+    "Phone": "(406) 982-7276",
+    "WebURL": "https://www.fico.com",
+    "LogoURL": "/img/logos/US/FICO.png",
+    "FullTimeEmployees": 3762,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 23722134,
+    "SharesFloat": 23052221,
+    "PercentInsiders": 2.733,
+    "PercentInstitutions": 91.315,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0691
+  }
+}

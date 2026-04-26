@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3394,
+        "totalAssets": 0.7498,
+        "currentShares": 429761518,
+        "change": 287990,
+        "change_p": 0.0671
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.4537,
+        "totalAssets": 0.6115,
+        "currentShares": 309816586,
+        "change": 2622570,
+        "change_p": 0.8537
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.9728,
+        "totalAssets": 0.8081,
+        "currentShares": 206698526,
+        "change": -1948585,
+        "change_p": -0.9339
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.6106,
+        "totalAssets": 0.5069,
+        "currentShares": 150075006,
+        "change": 55365479,
+        "change_p": 58.4582
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.169,
+        "totalAssets": 0.8082,
+        "currentShares": 131721707,
+        "change": 4365511,
+        "change_p": 3.4278
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3078,
+        "totalAssets": 0.7093,
+        "currentShares": 95923254,
+        "change": -231011,
+        "change_p": -0.2403
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8023,
+        "totalAssets": 0.5114,
+        "currentShares": 74913804,
+        "change": 771438,
+        "change_p": 1.0405
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.7879,
+        "totalAssets": 0.5683,
+        "currentShares": 74315406,
+        "change": -1118508,
+        "change_p": -1.4828
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5244,
+        "totalAssets": 0.8157,
+        "currentShares": 63362667,
+        "change": 6185309,
+        "change_p": 10.8178
+      },
+      "9": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1085,
+        "totalAssets": 0.9319,
+        "currentShares": 46073991,
+        "change": -524322,
+        "change_p": -1.1252
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0592,
+        "totalAssets": 0.635,
+        "currentShares": 44026019,
+        "change": 445283,
+        "change_p": 1.0217
+      },
+      "11": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9317,
+        "totalAssets": 1.0889,
+        "currentShares": 38728643,
+        "change": 2660910,
+        "change_p": 7.3775
+      },
+      "12": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8202,
+        "totalAssets": 0.6375,
+        "currentShares": 34090589,
+        "change": 293446,
+        "change_p": 0.8683
+      },
+      "13": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.805,
+        "totalAssets": 0.7432,
+        "currentShares": 33458442,
+        "change": -162485,
+        "change_p": -0.4833
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7594,
+        "totalAssets": 0.3808,
+        "currentShares": 31564916,
+        "change": -1497681,
+        "change_p": -4.5298
+      },
+      "15": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7578,
+        "totalAssets": 1.2937,
+        "currentShares": 31497852,
+        "change": 303359,
+        "change_p": 0.9725
+      },
+      "16": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 0.7343,
+        "totalAssets": 2.8846,
+        "currentShares": 30520300,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.6453,
+        "totalAssets": 0.6772,
+        "currentShares": 26823412,
+        "change": -3302138,
+        "change_p": -10.9613
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6305,
+        "totalAssets": 0.3868,
+        "currentShares": 26205058,
+        "change": 1949208,
+        "change_p": 8.036
+      },
+      "19": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 0.5772,
+        "totalAssets": 0.4526,
+        "currentShares": 23993545,
+        "change": -218515,
+        "change_p": -0.9025
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1843,
+        "totalAssets": 1.1247,
+        "currentShares": 132356333,
+        "change": -1035479,
+        "change_p": -0.7763
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5599,
+        "totalAssets": 1.2687,
+        "currentShares": 106404918,
+        "change": -2063808,
+        "change_p": -1.9027
+      },
+      "2": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4748,
+        "totalAssets": 23.7422,
+        "currentShares": 61301435,
+        "change": 627216,
+        "change_p": 1.0337
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2924,
+        "totalAssets": 1.2656,
+        "currentShares": 53717986,
+        "change": -29244,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2912,
+        "totalAssets": 1.0926,
+        "currentShares": 53668723,
+        "change": 88465,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1657,
+        "totalAssets": 1.2643,
+        "currentShares": 48452931,
+        "change": -119119,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9265,
+        "totalAssets": 2.8947,
+        "currentShares": 38508527,
+        "change": -777488,
+        "change_p": -1.979
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5664,
+        "totalAssets": 1.2657,
+        "currentShares": 23544477,
+        "change": -344673,
+        "change_p": -1.4428
+      },
+      "8": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5629,
+        "totalAssets": 3.3821,
+        "currentShares": 23398708,
+        "change": -65950,
+        "change_p": -0.2811
+      },
+      "9": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5367,
+        "totalAssets": 1.2526,
+        "currentShares": 22307998,
+        "change": -172500,
+        "change_p": -0.7673
+      },
+      "10": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4541,
+        "totalAssets": 1.2641,
+        "currentShares": 18875056,
+        "change": -63054,
+        "change_p": -0.3329
+      },
+      "11": {
+        "name": "Vanguard Energy ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4256,
+        "totalAssets": 22.5205,
+        "currentShares": 17691322,
+        "change": 965154,
+        "change_p": 5.7703
+      },
+      "12": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.4141,
+        "totalAssets": 1.1886,
+        "currentShares": 17213171,
+        "change": 15097,
+        "change_p": 0.0878
+      },
+      "13": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4027,
+        "totalAssets": 0.8688,
+        "currentShares": 16737021,
+        "change": 16737021,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4027,
+        "totalAssets": 0.8688,
+        "currentShares": 16737021,
+        "change": -369852,
+        "change_p": -2.162
+      },
+      "15": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4027,
+        "totalAssets": 0.8688,
+        "currentShares": 16737021,
+        "change": -369852,
+        "change_p": -2.162
+      },
+      "16": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.398,
+        "totalAssets": 3.1489,
+        "currentShares": 16541247,
+        "change": -653723,
+        "change_p": -3.8018
+      },
+      "17": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3632,
+        "totalAssets": 1.2588,
+        "currentShares": 15094642,
+        "change": -205107,
+        "change_p": -1.3406
+      },
+      "18": {
+        "name": "Russell 1000 Index Fund",
+        "date": "2026-03-31",
+        "totalShares": 0.3312,
+        "totalAssets": 1.1945,
+        "currentShares": 13766842,
+        "change": 117044,
+        "change_p": 0.8575
+      },
+      "19": {
+        "name": "Blackrock Russ 1000 Eq Idx Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.3174,
+        "totalAssets": 0.8115,
+        "currentShares": 13194360,
+        "change": -269364,
+        "change_p": -2.0007
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.2254,
+    "ForwardPE": 14.771,
+    "PriceSalesTTM": 1.9109,
+    "PriceBookMRQ": 2.4122,
+    "EnterpriseValue": 658542888739,
+    "EnterpriseValueRevenue": 2.0331,
+    "EnterpriseValueEbitda": 9.7039
+  },
+  "Highlights": {
+    "MarketCapitalization": 618953244672,
+    "MarketCapitalizationMln": 618953.2447,
+    "EBITDA": 59385999360,
+    "PERatio": 22.2254,
+    "PEGRatio": 1.3806,
+    "WallStreetTargetPrice": 164.4091,
+    "BookValue": 62.069,
+    "DividendShare": 4,
+    "DividendYield": 0.0266,
+    "EarningsShare": 6.7,
+    "EPSEstimateCurrentYear": 10.0761,
+    "EPSEstimateNextYear": 10.0431,
+    "EPSEstimateNextQuarter": 1.5771,
+    "EPSEstimateCurrentQuarter": 1.6928,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.089,
+    "OperatingMarginTTM": 0.0953,
+    "ReturnOnAssetsTTM": 0.049,
+    "ReturnOnEquityTTM": 0.1108,
+    "RevenueTTM": 323904995328,
+    "RevenuePerShareTTM": 75.239,
+    "QuarterlyRevenueGrowthYOY": -0.013,
+    "GrossProfitTTM": 100567998464,
+    "DilutedEpsTTM": 6.7,
+    "QuarterlyEarningsGrowthYOY": -0.11
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.83,
+    "TotalEsgPercentile": 63.58,
+    "EnvironmentScore": 12.19,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 9.41,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 7.23,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "XOM",
+    "Type": "Common Stock",
+    "Name": "Exxon Mobil Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000GZQ728",
+    "ISIN": "US30231G1022",
+    "LEI": "J3WHBG0MTS7O8ZVMDC91",
+    "PrimaryTicker": "XOM.US",
+    "CUSIP": "302290101",
+    "CIK": "0000034088",
+    "EmployerIdNumber": "13-5409005",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Integrated",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Integrated Oil & Gas",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Exxon Mobil Corporation engages in the exploration and production of crude oil and natural gas in the United States, Canada, and internationally. The company operates through Upstream, Energy Products, Chemical Products, and Specialty Products segments. Its Upstream segment explores for and produces crude oil and natural gas. The Energy Products segment offers fuels, aromatics, and catalysts, as well as licensing services. Its Chemical Products segment manufactures and sells olefins, polyolefins, and intermediates. The Specialty Products segment offers finished lubricants, basestocks, waxes, synthetics, elastomers, and resins. It is also involved in the manufacture, trade, transport, and sale of crude oil, natural gas, petroleum products, petrochemicals, and other specialty products; and pursuit of lower-emission and business opportunities, including carbon capture and storage, hydrogen, lower-emission fuels, Proxxima resin systems, carbon materials, low-carbon data center, and lithium. In addition, the company offers aviation fuel. It sells its products under the Exxon, Esso, and Mobil brands. Exxon Mobil Corporation was founded in 1870 and is headquartered in Spring, Texas.",
+    "Address": "22777 Springwoods Village Parkway, Spring, TX, United States, 77389-1425",
+    "AddressData": {
+      "Street": "22777 Springwoods Village Parkway",
+      "City": "Spring",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77389-1425"
+    },
+    "Listings": {
+      "0": {
+        "Code": "EXXO34",
+        "Exchange": "SA",
+        "Name": "Exxon Mobil Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Darren W. Woods",
+        "Title": "Chairman of the Board, President & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Jon M. Gibbs",
+        "Title": "Senior President of ExxonMobil Global Operations",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Neil A. Chapman",
+        "Title": "Senior Vice President",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. Jack P. Williams Jr.",
+        "Title": "Senior Vice President",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Neil A. Hansen",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Leonard M. Fox",
+        "Title": "VP of Tax, Principal Accounting Officer & Controller",
+        "YearBorn": "1964"
+      },
+      "6": {
+        "Name": "Mr. James R. Chapman",
+        "Title": "VP of Investor Relations & Treasurer",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Mr. Jeffrey A. Taylor J.D.",
+        "Title": "VP, General Counsel & Secretary",
+        "YearBorn": "1965"
+      },
+      "8": {
+        "Name": "Inge A. Van Coppenolle",
+        "Title": "Vice President of Human Resources",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Tracey C. Gunnlaugsson",
+        "Title": "President of Global Trading",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "972-940-6000",
+    "WebURL": "https://corporate.exxonmobil.com",
+    "LogoURL": "/img/logos/US/XOM.png",
+    "FullTimeEmployees": 57900,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 4156559415,
+    "SharesFloat": 4157888247,
+    "PercentInsiders": 0.086,
+    "PercentInstitutions": 68.066,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0116
+  }
+}

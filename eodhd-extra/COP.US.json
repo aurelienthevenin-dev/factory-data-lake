@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.8659,
+        "totalAssets": 0.1632,
+        "currentShares": 120251183,
+        "change": 408304,
+        "change_p": 0.3407
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3021,
+        "totalAssets": 0.1474,
+        "currentShares": 89001461,
+        "change": -2867755,
+        "change_p": -3.1216
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.3734,
+        "totalAssets": 0.2148,
+        "currentShares": 65494216,
+        "change": -1665855,
+        "change_p": -2.4804
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.2896,
+        "totalAssets": 0.1827,
+        "currentShares": 64472742,
+        "change": 26260953,
+        "change_p": 68.7247
+      },
+      "4": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.9677,
+        "totalAssets": 0.7096,
+        "currentShares": 48360060,
+        "change": 2714663,
+        "change_p": 5.9473
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.5939,
+        "totalAssets": 0.4433,
+        "currentShares": 43804396,
+        "change": 489025,
+        "change_p": 1.129
+      },
+      "6": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.4008,
+        "totalAssets": 0.6029,
+        "currentShares": 41450162,
+        "change": 2350645,
+        "change_p": 6.012
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2902,
+        "totalAssets": 0.1605,
+        "currentShares": 27913741,
+        "change": -95442,
+        "change_p": -0.3408
+      },
+      "8": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.9746,
+        "totalAssets": 0.3948,
+        "currentShares": 24067806,
+        "change": -4269743,
+        "change_p": -15.0674
+      },
+      "9": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.9693,
+        "totalAssets": 2.8398,
+        "currentShares": 24002747,
+        "change": 5138469,
+        "change_p": 27.2392
+      },
+      "10": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.8326,
+        "totalAssets": 0.6742,
+        "currentShares": 22336728,
+        "change": -887858,
+        "change_p": -3.8229
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7352,
+        "totalAssets": 0.1009,
+        "currentShares": 21149238,
+        "change": 1601713,
+        "change_p": 8.1939
+      },
+      "12": {
+        "name": "Eagle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6278,
+        "totalAssets": 5.784,
+        "currentShares": 19840430,
+        "change": -280620,
+        "change_p": -1.3947
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5641,
+        "totalAssets": 0.1223,
+        "currentShares": 19063971,
+        "change": 91503,
+        "change_p": 0.4823
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4129,
+        "totalAssets": 0.0986,
+        "currentShares": 17221455,
+        "change": 448492,
+        "change_p": 2.6739
+      },
+      "15": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2181,
+        "totalAssets": 0.4744,
+        "currentShares": 14847367,
+        "change": 193401,
+        "change_p": 1.3198
+      },
+      "16": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1806,
+        "totalAssets": 0.3394,
+        "currentShares": 14390243,
+        "change": -925407,
+        "change_p": -6.0422
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0766,
+        "totalAssets": 0.1956,
+        "currentShares": 13122148,
+        "change": -352898,
+        "change_p": -2.6189
+      },
+      "18": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0661,
+        "totalAssets": 0.2823,
+        "currentShares": 12994674,
+        "change": 2216010,
+        "change_p": 20.5592
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9994,
+        "totalAssets": 0.1474,
+        "currentShares": 12180610,
+        "change": -21673,
+        "change_p": -0.1776
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1857,
+        "totalAssets": 0.2567,
+        "currentShares": 38828861,
+        "change": -253870,
+        "change_p": -0.6496
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5593,
+        "totalAssets": 0.2894,
+        "currentShares": 31194670,
+        "change": -591536,
+        "change_p": -1.861
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2526,
+        "totalAssets": 4.3304,
+        "currentShares": 27455507,
+        "change": 45724,
+        "change_p": 0.1668
+      },
+      "3": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.9644,
+        "totalAssets": 7.215,
+        "currentShares": 23943684,
+        "change": 244988,
+        "change_p": 1.0338
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.292,
+        "totalAssets": 0.2887,
+        "currentShares": 15748060,
+        "change": -8568,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2902,
+        "totalAssets": 0.2382,
+        "currentShares": 15726066,
+        "change": 25927,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1881,
+        "totalAssets": 0.651,
+        "currentShares": 14481036,
+        "change": 1650958,
+        "change_p": 12.8679
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1648,
+        "totalAssets": 0.2882,
+        "currentShares": 14197152,
+        "change": -34937,
+        "change_p": -0.2455
+      },
+      "8": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.1545,
+        "totalAssets": 0.9315,
+        "currentShares": 14071630,
+        "change": -409406,
+        "change_p": -2.8272
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9268,
+        "totalAssets": 0.6607,
+        "currentShares": 11296476,
+        "change": -217196,
+        "change_p": -1.8864
+      },
+      "10": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8968,
+        "totalAssets": 1.6368,
+        "currentShares": 10930375,
+        "change": -803519,
+        "change_p": -6.8478
+      },
+      "11": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8681,
+        "totalAssets": 1.8043,
+        "currentShares": 10580746,
+        "change": -432398,
+        "change_p": -3.9262
+      },
+      "12": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.7679,
+        "totalAssets": 2.4144,
+        "currentShares": 9360041,
+        "change": -209564,
+        "change_p": -2.1899
+      },
+      "13": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7613,
+        "totalAssets": 1.8818,
+        "currentShares": 9279302,
+        "change": -1144399,
+        "change_p": -10.9788
+      },
+      "14": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7376,
+        "totalAssets": 0.7547,
+        "currentShares": 8990438,
+        "change": 86887,
+        "change_p": 0.9759
+      },
+      "15": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.6524,
+        "totalAssets": 2.5462,
+        "currentShares": 7952162,
+        "change": -1617443,
+        "change_p": -16.9019
+      },
+      "16": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.6294,
+        "totalAssets": 2.7949,
+        "currentShares": 7671602,
+        "change": 1074000,
+        "change_p": 16.2786
+      },
+      "17": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.6254,
+        "totalAssets": 2.345,
+        "currentShares": 7622108,
+        "change": -122416,
+        "change_p": -1.5807
+      },
+      "18": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.625,
+        "totalAssets": 0.5959,
+        "currentShares": 7617834,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5663,
+        "totalAssets": 0.2887,
+        "currentShares": 6902579,
+        "change": -98095,
+        "change_p": -1.4012
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.1447,
+    "ForwardPE": 13.3869,
+    "PriceSalesTTM": 2.462,
+    "PriceBookMRQ": 2.3507,
+    "EnterpriseValue": 168051752709,
+    "EnterpriseValueRevenue": 2.851,
+    "EnterpriseValueEbitda": 6.5722
+  },
+  "Highlights": {
+    "MarketCapitalization": 148407549952,
+    "MarketCapitalizationMln": 148407.55,
+    "EBITDA": 24160999424,
+    "PERatio": 19.1447,
+    "PEGRatio": 1.2282,
+    "WallStreetTargetPrice": 138,
+    "BookValue": 52.635,
+    "DividendShare": 3.18,
+    "DividendYield": 0.0256,
+    "EarningsShare": 6.36,
+    "EPSEstimateCurrentYear": 7.6358,
+    "EPSEstimateNextYear": 8.1323,
+    "EPSEstimateNextQuarter": 1.1894,
+    "EPSEstimateCurrentQuarter": 1.098,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1325,
+    "OperatingMarginTTM": 0.163,
+    "ReturnOnAssetsTTM": 0.0642,
+    "ReturnOnEquityTTM": 0.1236,
+    "RevenueTTM": 60279001088,
+    "RevenuePerShareTTM": 48.145,
+    "QuarterlyRevenueGrowthYOY": -0.068,
+    "GrossProfitTTM": 27836999680,
+    "DilutedEpsTTM": 6.36,
+    "QuarterlyEarningsGrowthYOY": -0.39
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.83,
+    "TotalEsgPercentile": 60.08,
+    "EnvironmentScore": 19.94,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 11.86,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 12.03,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "COP",
+    "Type": "Common Stock",
+    "Name": "ConocoPhillips",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQQH30",
+    "ISIN": "US20825C1045",
+    "LEI": "WPTL2Z3FIYTHSP5V2253",
+    "PrimaryTicker": "COP.US",
+    "CUSIP": "208251504",
+    "CIK": "0001163165",
+    "EmployerIdNumber": "01-0562944",
+    "FiscalYearEnd": "December",
+    "IPODate": "1981-12-31",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Exploration & Production",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; global LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects. It serves in the United States, Canada, China, Equatorial Guinea, Libya, Malaysia, Norway, Singapore, the United Kingdom, and internationally. ConocoPhillips was founded in 1917 and is headquartered in Houston, Texas.",
+    "Address": "925 North Eldridge Parkway, Houston, TX, United States, 77079-2703",
+    "AddressData": {
+      "Street": "925 North Eldridge Parkway",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77079-2703"
+    },
+    "Listings": {
+      "0": {
+        "Code": "COP",
+        "Exchange": "F",
+        "Name": "Compugroup Medical SE & Co. KGaA"
+      },
+      "1": {
+        "Code": "COPH34",
+        "Exchange": "SA",
+        "Name": "ConocoPhillips"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ryan M. Lance",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Andrew M. O'Brien",
+        "Title": "Executive VP of Strategy & Commercial and CFO",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. Kirk L. Johnson",
+        "Title": "Executive Vice President of Global Operations & Technical Functions",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Ms. Kelly Brunetti Rose J.D.",
+        "Title": "Senior VP of Legal, General Counsel & Corporate Secretary",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Mr. Nicholas G. Olds",
+        "Title": "Executive Vice President of Lower 48 & Global HSE",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Guy Allen Baber IV, CPA",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Heather G. Hrap",
+        "Title": "Senior Vice President of Human Resources & Real Estate and Facilities Services",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Mr. Andrew D. Lundquist",
+        "Title": "Senior Vice President of Government Affairs",
+        "YearBorn": "1961"
+      },
+      "8": {
+        "Name": "Mr. Dodd W. DeCamp",
+        "Title": "President-Middle East Russia & Caspian Region",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. John David Wright BSc, CFA, P.Eng.",
+        "Title": "President of Global Supply",
+        "YearBorn": "1960"
+      }
+    },
+    "Phone": "281 293 1000",
+    "WebURL": "https://www.conocophillips.com",
+    "LogoURL": "/img/logos/US/COP.png",
+    "FullTimeEmployees": 9900,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1218853041,
+    "SharesFloat": 1219882250,
+    "PercentInsiders": 0.127,
+    "PercentInstitutions": 85.78,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0197
+  }
+}

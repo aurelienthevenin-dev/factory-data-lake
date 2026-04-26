@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 10.516,
+    "ForwardPE": 10.1833,
+    "PriceSalesTTM": 0.8889,
+    "PriceBookMRQ": 1.9142,
+    "EnterpriseValue": 42739924325,
+    "EnterpriseValueRevenue": 1.1712,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 37867671552,
+    "MarketCapitalizationMln": 37867.6716,
+    "EBITDA": 6375000064,
+    "PERatio": 10.516,
+    "PEGRatio": 0.8009,
+    "WallStreetTargetPrice": 129.3041,
+    "BookValue": 66.3036,
+    "DividendShare": 8,
+    "DividendYield": 0.0618,
+    "EarningsShare": 12.21,
+    "EPSEstimateCurrentYear": 15.8654,
+    "EPSEstimateNextYear": 16.0674,
+    "EPSEstimateNextQuarter": 2.9854,
+    "EPSEstimateCurrentQuarter": 2.2862,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1113,
+    "OperatingMarginTTM": 0.0767,
+    "ReturnOnAssetsTTM": 0.0302,
+    "ReturnOnEquityTTM": 0.1944,
+    "RevenueTTM": 42600001536,
+    "RevenuePerShareTTM": 144.599,
+    "QuarterlyRevenueGrowthYOY": -0.069,
+    "GrossProfitTTM": 8121999872,
+    "DilutedEpsTTM": 12.21,
+    "QuarterlyEarningsGrowthYOY": -0.272
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.58,
+    "TotalEsgPercentile": 30.92,
+    "EnvironmentScore": 5.59,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 16.14,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 16.85,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SREN",
+    "Type": "Common Stock",
+    "Name": "Swiss Re AG",
+    "Exchange": "SW",
+    "CurrencyCode": "CHF",
+    "CurrencyName": "Swiss Franc",
+    "CurrencySymbol": "CHF",
+    "CountryName": "Switzerland",
+    "CountryISO": "CH",
+    "OpenFigi": "BBG001P1Z4F4",
+    "ISIN": "CH0126881561",
+    "LEI": "529900PS9YW3YY29F326",
+    "PrimaryTicker": "SREN.SW",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Reinsurance",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Reinsurance",
+    "Description": "Swiss Re AG, together with its subsidiaries, provides reinsurance, insurance, other insurance-based forms of risk transfer, and other insurance-related services worldwide. The company operates through Property & Casualty Reinsurance, Life & Health Reinsurance, and Corporate Solutions segments. The Property & Casualty Reinsurance segment underwrites property reinsurance, including property, credit, surety and political, engineering and project, aviation, marine, agriculture, renewable energy, retakaful, and facultative reinsurance solutions; and casualty reinsurance, such as liability, motor, worker's compensation, personal accident, management and professional liability, cyber, and facultative reinsurance solutions. Its Life & Health Reinsurance segment underwrites life and health insurance products. The Corporate Solutions segment offers standard risk transfer covers and multi-line programs to customized solutions. It serves stock and mutual insurance companies, public sector and governmental entities, mid-sized and large corporations, and individuals. The company was founded in 1863 and is headquartered in Zurich, Switzerland.",
+    "Address": "Mythenquai 50/60, Zurich, Switzerland, 8022",
+    "AddressData": {
+      "Street": "Mythenquai 50/60",
+      "City": "Zurich",
+      "Country": "Switzerland",
+      "ZIP": "8022"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Alexander Andreas M. Berger",
+        "Title": "Group Chief Executive Officer",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Dr. Anders  Malmstrom",
+        "Title": "Group Chief Financial Officer",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Ms. Velina  Peneva",
+        "Title": "Group Chief Investment Officer and Co-Head Client Solutions & Analytics of Swiss Re Asset Management",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. Thomas  Bohun",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Hermann  Geiger Ph.D.",
+        "Title": "Group Chief Legal Officer and Head of Legal & Compliance",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Ms. Elena  Logutenkova",
+        "Title": "Head of Media Relations & Corporate Reporting Group Communications",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Nicole  Pieterse",
+        "Title": "Group Chief People Officer",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Mr. Mark  Senkevics BE",
+        "Title": "MD and Head of Property & Casualty Underwriting - Asia, Australia & New Zealand",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Beat  Strebel",
+        "Title": "Head of the Middle East & Africa business",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Pravina  Ladva",
+        "Title": "Group Chief Digital & Technology Officer",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "41 43 285 2121",
+    "WebURL": "https://www.swissre.com",
+    "LogoURL": "/img/logos/SW/SREN.png",
+    "FullTimeEmployees": 13806,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 294919585,
+    "SharesFloat": 278000048,
+    "PercentInsiders": 0.105,
+    "PercentInstitutions": 38.964999999999996,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

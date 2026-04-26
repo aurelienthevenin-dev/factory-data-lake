@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 10.5568,
+    "ForwardPE": 9.901,
+    "PriceSalesTTM": 3.2766,
+    "PriceBookMRQ": 1.8158,
+    "EnterpriseValue": 114428469248,
+    "EnterpriseValueRevenue": 3.4853,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 103698776064,
+    "MarketCapitalizationMln": 103698.7761,
+    "EBITDA": null,
+    "PERatio": 10.5568,
+    "PEGRatio": 1.8678,
+    "WallStreetTargetPrice": 20.8874,
+    "BookValue": 10.078,
+    "DividendShare": 0.92,
+    "DividendYield": 0.0493,
+    "EarningsShare": 1.76,
+    "EPSEstimateCurrentYear": 1.9864,
+    "EPSEstimateNextYear": 2.2049,
+    "EPSEstimateNextQuarter": 0.48,
+    "EPSEstimateCurrentQuarter": 0.4267,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3321,
+    "OperatingMarginTTM": 0.509,
+    "ReturnOnAssetsTTM": 0.0136,
+    "ReturnOnEquityTTM": 0.1827,
+    "RevenueTTM": 31648000000,
+    "RevenuePerShareTTM": 5.506,
+    "QuarterlyRevenueGrowthYOY": 0.003,
+    "GrossProfitTTM": 31648000000,
+    "DilutedEpsTTM": 1.76,
+    "QuarterlyEarningsGrowthYOY": 0.054
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.79,
+    "TotalEsgPercentile": 59.58,
+    "EnvironmentScore": 5.39,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 21.82,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 17.07,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BBVA",
+    "Type": "Common Stock",
+    "Name": "Banco Bilbao Vizcaya Argentaria SA",
+    "Exchange": "MC",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Spain",
+    "CountryISO": "ES",
+    "OpenFigi": null,
+    "ISIN": "ES0113211835",
+    "LEI": "K8MS7FD7N5Z2WQ51AZ71",
+    "PrimaryTicker": "BBVA.MC",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "Banco Bilbao Vizcaya Argentaria, S.A., together with its subsidiaries, provides various financial services in Spain, Mexico, Turkey, South America, Europe, the United States, and Asia. The company offers traditional retail, wholesale, investment, and transaction banking. It also engages in financial, insurance, asset management, and capital markets businesses, as well as digital banking. The company was formerly known as Banco Bilbao Vizcaya, S.A. and changed its name to Banco Bilbao Vizcaya Argentaria, S.A. in January 2000. Banco Bilbao Vizcaya Argentaria, S.A. was founded in 1857 and is headquartered in Bilbao, Spain.",
+    "Address": "Plaza San Nicolás, 4, Bilbao, Spain, 48005",
+    "AddressData": {
+      "Street": "Plaza San Nicolás, 4",
+      "City": "Bilbao",
+      "Country": "Spain",
+      "ZIP": "48005"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Carlos  Torres Vila",
+        "Title": "President & Group Executive Chairman",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Onur  Genc",
+        "Title": "CEO & Executive Director",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Ms. Maria Luisa Gomez Bravo",
+        "Title": "Global Head of Finance & CFO",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Mr. Ricardo  Marine",
+        "Title": "Executive Director of Institutional Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Francisco Javier Rodríguez Soler",
+        "Title": "Global Head of Sustainability and Corporate & Investment Banking",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Patricia Bueno Olalla",
+        "Title": "Global Head of Shareholder & Investor Relations",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Ms. Maria Jesus Arribas de Paz",
+        "Title": "Global Head of Legal",
+        "YearBorn": "1964"
+      },
+      "7": {
+        "Name": "Mr. Jaime Saenz de Tejada Pulido",
+        "Title": "Global Head of Commercial Client Solutions",
+        "YearBorn": "1968"
+      },
+      "8": {
+        "Name": "Mr. Paul Garcia Tobin",
+        "Title": "Global Head of Talent & Culture",
+        "YearBorn": "1973"
+      },
+      "9": {
+        "Name": "Mr. David  Puente Vicente",
+        "Title": "Global Head of Retail Client Solutions",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "34 900 10 28 01",
+    "WebURL": "https://www.bbva.com",
+    "LogoURL": "/img/logos/MC/BBVA.png",
+    "FullTimeEmployees": 123193,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 5581204510,
+    "SharesFloat": 5653341906,
+    "PercentInsiders": 0.10200000000000001,
+    "PercentInstitutions": 44.993,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

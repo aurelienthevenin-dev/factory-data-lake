@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0615,
+        "totalAssets": 0.1008,
+        "currentShares": 63475226,
+        "change": 363782,
+        "change_p": 0.5764
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.8313,
+        "totalAssets": 0.0619,
+        "currentShares": 35950643,
+        "change": 691078,
+        "change_p": 1.96
+      },
+      "2": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.3662,
+        "totalAssets": 0.4409,
+        "currentShares": 22977556,
+        "change": 3597283,
+        "change_p": 18.5616
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2569,
+        "totalAssets": 0.0764,
+        "currentShares": 22402328,
+        "change": -132268,
+        "change_p": -0.587
+      },
+      "4": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.4316,
+        "totalAssets": 0.0853,
+        "currentShares": 12796417,
+        "change": -1419330,
+        "change_p": -9.9842
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3389,
+        "totalAssets": 0.0834,
+        "currentShares": 12308610,
+        "change": 50622,
+        "change_p": 0.413
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2206,
+        "totalAssets": 0.0344,
+        "currentShares": 11685942,
+        "change": 5887503,
+        "change_p": 101.536
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.0899,
+        "totalAssets": 0.3884,
+        "currentShares": 10998211,
+        "change": -368336,
+        "change_p": -3.2405
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7081,
+        "totalAssets": 0.0502,
+        "currentShares": 8989010,
+        "change": 3525633,
+        "change_p": 64.5321
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4163,
+        "totalAssets": 0.0444,
+        "currentShares": 7453604,
+        "change": -314371,
+        "change_p": -4.047
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2628,
+        "totalAssets": 0.0779,
+        "currentShares": 6645465,
+        "change": 1674712,
+        "change_p": 33.6913
+      },
+      "11": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.1432,
+        "totalAssets": 0.1216,
+        "currentShares": 6016243,
+        "change": 45090,
+        "change_p": 0.7551
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0255,
+        "totalAssets": 0.0836,
+        "currentShares": 5396888,
+        "change": 184502,
+        "change_p": 3.5397
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0056,
+        "totalAssets": 0.0666,
+        "currentShares": 5292298,
+        "change": -61849,
+        "change_p": -1.1552
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9802,
+        "totalAssets": 0.1185,
+        "currentShares": 5158679,
+        "change": -91151,
+        "change_p": -1.7363
+      },
+      "15": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.964,
+        "totalAssets": 0.1896,
+        "currentShares": 5073161,
+        "change": -34795,
+        "change_p": -0.6812
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8277,
+        "totalAssets": 0.0585,
+        "currentShares": 4356033,
+        "change": 639727,
+        "change_p": 17.2141
+      },
+      "17": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.7705,
+        "totalAssets": 0.3227,
+        "currentShares": 4054998,
+        "change": -226416,
+        "change_p": -5.2883
+      },
+      "18": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7645,
+        "totalAssets": 1.316,
+        "currentShares": 4023118,
+        "change": 707280,
+        "change_p": 21.3304
+      },
+      "19": {
+        "name": "U.S. Bancorp",
+        "date": "2025-09-30",
+        "totalShares": 0.6846,
+        "totalAssets": 0.4198,
+        "currentShares": 3602874,
+        "change": -1131,
+        "change_p": -0.0314
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1735,
+        "totalAssets": 0.0966,
+        "currentShares": 16701059,
+        "change": 93801,
+        "change_p": 0.5648
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5423,
+        "totalAssets": 0.1086,
+        "currentShares": 13378952,
+        "change": -130186,
+        "change_p": -0.9637
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1587,
+        "totalAssets": 0.6603,
+        "currentShares": 11360620,
+        "change": -54664,
+        "change_p": -0.4789
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0979,
+        "totalAssets": 0.3436,
+        "currentShares": 11040567,
+        "change": -36937,
+        "change_p": -0.3334
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2832,
+        "totalAssets": 0.1083,
+        "currentShares": 6753146,
+        "change": -3672,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2701,
+        "totalAssets": 0.1125,
+        "currentShares": 6683871,
+        "change": 11013,
+        "change_p": 0.165
+      },
+      "6": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1649,
+        "totalAssets": 1.223,
+        "currentShares": 6130584,
+        "change": -250536,
+        "change_p": -3.9262
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.159,
+        "totalAssets": 0.1084,
+        "currentShares": 6099527,
+        "change": -14994,
+        "change_p": -0.2452
+      },
+      "8": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.1317,
+        "totalAssets": 1.0433,
+        "currentShares": 5955691,
+        "change": -584066,
+        "change_p": -8.931
+      },
+      "9": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.1186,
+        "totalAssets": 1.3267,
+        "currentShares": 5886745,
+        "change": -152845,
+        "change_p": -2.5307
+      },
+      "10": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.94,
+        "totalAssets": 0.4517,
+        "currentShares": 4946980,
+        "change": 1493793,
+        "change_p": 43.2584
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9236,
+        "totalAssets": 0.2487,
+        "currentShares": 4860465,
+        "change": -28856,
+        "change_p": -0.5902
+      },
+      "12": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.65,
+        "totalAssets": 1.1373,
+        "currentShares": 3420898,
+        "change": 142843,
+        "change_p": 4.3576
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5625,
+        "totalAssets": 0.1083,
+        "currentShares": 2960276,
+        "change": -13816,
+        "change_p": -0.4645
+      },
+      "14": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5548,
+        "totalAssets": 1.1999,
+        "currentShares": 2919532,
+        "change": -20232,
+        "change_p": -0.6882
+      },
+      "15": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5377,
+        "totalAssets": 1.647,
+        "currentShares": 2829826,
+        "change": 1948,
+        "change_p": 0.0689
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5329,
+        "totalAssets": 0.1072,
+        "currentShares": 2804617,
+        "change": 4900,
+        "change_p": 0.175
+      },
+      "17": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5054,
+        "totalAssets": 0.6046,
+        "currentShares": 2659521,
+        "change": -374472,
+        "change_p": -12.3425
+      },
+      "18": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4512,
+        "totalAssets": 0.4098,
+        "currentShares": 2374480,
+        "change": 410100,
+        "change_p": 20.8768
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4509,
+        "totalAssets": 0.1082,
+        "currentShares": 2373016,
+        "change": 14427,
+        "change_p": 0.6117
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.1596,
+    "ForwardPE": 21.0526,
+    "PriceSalesTTM": 2.348,
+    "PriceBookMRQ": 3.4657,
+    "EnterpriseValue": 72893517427,
+    "EnterpriseValueRevenue": 2.5623,
+    "EnterpriseValueEbitda": 19.2349
+  },
+  "Highlights": {
+    "MarketCapitalization": 66788593664,
+    "MarketCapitalizationMln": 66788.5937,
+    "EBITDA": 3423000064,
+    "PERatio": 28.1596,
+    "PEGRatio": 1.2685,
+    "WallStreetTargetPrice": 127.9624,
+    "BookValue": 36.665,
+    "DividendShare": 1.32,
+    "DividendYield": 0.0104,
+    "EarningsShare": 4.51,
+    "EPSEstimateCurrentYear": 5.6566,
+    "EPSEstimateNextYear": 6.7444,
+    "EPSEstimateNextQuarter": 1.1545,
+    "EPSEstimateCurrentQuarter": 1.055,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0835,
+    "OperatingMarginTTM": 0.0921,
+    "ReturnOnAssetsTTM": 0.0437,
+    "ReturnOnEquityTTM": 0.1292,
+    "RevenueTTM": 28444798976,
+    "RevenuePerShareTTM": 54.088,
+    "QuarterlyRevenueGrowthYOY": -0.137,
+    "GrossProfitTTM": 3983800064,
+    "DilutedEpsTTM": 4.51,
+    "QuarterlyEarningsGrowthYOY": -0.359
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.96,
+    "TotalEsgPercentile": 72.95,
+    "EnvironmentScore": 9.32,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 16.26,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 7.38,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PCAR",
+    "Type": "Common Stock",
+    "Name": "PACCAR Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQVTF5",
+    "ISIN": "US6937181088",
+    "LEI": "KDTEY8BWE486IKZ3CC07",
+    "PrimaryTicker": "PCAR.US",
+    "CUSIP": "693718108",
+    "CIK": "0000075362",
+    "EmployerIdNumber": "91-0351110",
+    "FiscalYearEnd": "December",
+    "IPODate": "1986-07-09",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Construction Machinery & Heavy Transportation Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "PACCAR Inc designs, manufactures, and distributes light, medium, and heavy-duty commercial trucks in the United States, Canada, Australia, Mexico, Europe, Central and South America, and internationally. It operates through three segments: Truck, Parts, and Financial Services. The Truck segment designs, manufactures, and distributes trucks for the over-the-road and off-highway hauling of commercial and consumer goods; and diesel engine products. It sells its trucks through a network of independent dealers under the Kenworth, Peterbilt, and DAF nameplates. The Parts segment distributes aftermarket parts for trucks and related commercial vehicles. The Financial Services segment conducts full-service leasing operations under the PacLease trade name, as well as provides finance and leasing products and services to customers and dealers. This segment offers equipment financing and administrative support services for its franchisees; retail loan and leasing services for small, medium, and large commercial trucking companies, as well as independent owners/operators and other businesses; and truck inventory financing services to independent dealers. In addition, this segment offers loans and leases directly to customers for the acquisition of trucks and related equipment; and operates its own full-service lease outlets. The company manufactures and markets industrial winches under the Braden, Carco, and Gearmatic nameplates. PACCAR Inc was founded in 1905 and is headquartered in Bellevue, Washington.",
+    "Address": "777 - 106th Avenue N.E., Bellevue, WA, United States, 98004",
+    "AddressData": {
+      "Street": "777 - 106th Avenue N.E.",
+      "City": "Bellevue",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98004"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. R. Preston Feight",
+        "Title": "CEO & Director",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Kevin D. Baney",
+        "Title": "President",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Brice J. Poplawski",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Mark C. Pigott",
+        "Title": "Executive Chairman",
+        "YearBorn": "1954"
+      },
+      "4": {
+        "Name": "Mr. John N. Rich",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Ms. A. Lily Ley",
+        "Title": "VP & Chief Information Officer",
+        "YearBorn": "1966"
+      },
+      "6": {
+        "Name": "Mr. Ken  Hastings",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Michael K. Walton",
+        "Title": "VP & General Counsel",
+        "YearBorn": "1966"
+      },
+      "8": {
+        "Name": "Paulo Henrique Bolgar",
+        "Title": "VP & Chief Human Resources Officer",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Laura J. Bloch",
+        "Title": "Senior Vice President",
+        "YearBorn": "1978"
+      }
+    },
+    "Phone": "425 468 7400",
+    "WebURL": "https://www.paccar.com",
+    "LogoURL": "/img/logos/US/PCAR.png",
+    "FullTimeEmployees": 25900,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 525894443,
+    "SharesFloat": 515550099,
+    "PercentInsiders": 1.8599999999999999,
+    "PercentInstitutions": 75.644,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0247
+  }
+}

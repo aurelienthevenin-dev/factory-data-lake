@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8883,
+        "totalAssets": 0.0445,
+        "currentShares": 17447092,
+        "change": 157857,
+        "change_p": 0.913
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.06,
+        "totalAssets": 0.0362,
+        "currentShares": 14763952,
+        "change": 1208486,
+        "change_p": 8.9151
+      },
+      "2": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 10.056,
+        "totalAssets": 1.966,
+        "currentShares": 14757997,
+        "change": -196700,
+        "change_p": -1.3153
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.4227,
+        "totalAssets": 0.0846,
+        "currentShares": 9425863,
+        "change": 8138103,
+        "change_p": 631.9581
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.9876,
+        "totalAssets": 0.0356,
+        "currentShares": 7319749,
+        "change": -149058,
+        "change_p": -1.9957
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8614,
+        "totalAssets": 0.0455,
+        "currentShares": 4199399,
+        "change": 130618,
+        "change_p": 3.2102
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.4198,
+        "totalAssets": 0.1095,
+        "currentShares": 3551269,
+        "change": -695235,
+        "change_p": -16.3719
+      },
+      "7": {
+        "name": "Point72 Asset Management, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.9169,
+        "totalAssets": 0.5537,
+        "currentShares": 2813192,
+        "change": -1059709,
+        "change_p": -27.3622
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7981,
+        "totalAssets": 0.0497,
+        "currentShares": 2638834,
+        "change": 374657,
+        "change_p": 16.5472
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.7285,
+        "totalAssets": 0.0106,
+        "currentShares": 2536700,
+        "change": 1534198,
+        "change_p": 153.0369
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6477,
+        "totalAssets": 0.0534,
+        "currentShares": 2418127,
+        "change": 98001,
+        "change_p": 4.224
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5342,
+        "totalAssets": 0.0191,
+        "currentShares": 2251535,
+        "change": 295325,
+        "change_p": 15.0968
+      },
+      "12": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.3283,
+        "totalAssets": 0.1357,
+        "currentShares": 1949368,
+        "change": 881886,
+        "change_p": 82.6137
+      },
+      "13": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1724,
+        "totalAssets": 0.3135,
+        "currentShares": 1720595,
+        "change": 1720595,
+        "change_p": 0
+      },
+      "14": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0416,
+        "totalAssets": 0.1411,
+        "currentShares": 1528616,
+        "change": -254965,
+        "change_p": -14.2951
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0216,
+        "totalAssets": 0.0269,
+        "currentShares": 1499332,
+        "change": -37648,
+        "change_p": -2.4495
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9946,
+        "totalAssets": 0.057,
+        "currentShares": 1459597,
+        "change": -133802,
+        "change_p": -8.3973
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9807,
+        "totalAssets": 0.0438,
+        "currentShares": 1439208,
+        "change": -304001,
+        "change_p": -17.4392
+      },
+      "18": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.9263,
+        "totalAssets": 0.0413,
+        "currentShares": 1359424,
+        "change": 561769,
+        "change_p": 70.4276
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8313,
+        "totalAssets": 0.0116,
+        "currentShares": 1220018,
+        "change": 156627,
+        "change_p": 14.729
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 5.6964,
+        "totalAssets": 1.9346,
+        "currentShares": 8359880,
+        "change": -92900,
+        "change_p": -1.099
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1728,
+        "totalAssets": 0.0428,
+        "currentShares": 4656418,
+        "change": 14975,
+        "change_p": 0.3226
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5471,
+        "totalAssets": 0.0482,
+        "currentShares": 3738143,
+        "change": -35194,
+        "change_p": -0.9327
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.2925,
+        "currentShares": 3170329,
+        "change": -18012,
+        "change_p": -0.5649
+      },
+      "4": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 2.0838,
+        "totalAssets": 0.3458,
+        "currentShares": 3058179,
+        "change": 160300,
+        "change_p": 5.5316
+      },
+      "5": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.9853,
+        "totalAssets": 1.2934,
+        "currentShares": 2913639,
+        "change": -700236,
+        "change_p": -19.3763
+      },
+      "6": {
+        "name": "Vanguard Capital Opportunity Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.5894,
+        "totalAssets": 1.5839,
+        "currentShares": 2332567,
+        "change": -3990,
+        "change_p": -0.1708
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2858,
+        "totalAssets": 0.048,
+        "currentShares": 1887001,
+        "change": -1032,
+        "change_p": -0.0547
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2721,
+        "totalAssets": 0.0478,
+        "currentShares": 1866971,
+        "change": 3081,
+        "change_p": 0.1653
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1644,
+        "totalAssets": 0.0482,
+        "currentShares": 1708800,
+        "change": -4165,
+        "change_p": -0.2431
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.1102,
+        "currentShares": 1356328,
+        "change": -9400,
+        "change_p": -0.6883
+      },
+      "11": {
+        "name": "Vanguard PRIMECAP Core Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8973,
+        "totalAssets": 1.7297,
+        "currentShares": 1316936,
+        "change": -2930,
+        "change_p": -0.222
+      },
+      "12": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.8465,
+        "totalAssets": 0.1079,
+        "currentShares": 1242366,
+        "change": 40675,
+        "change_p": 3.3848
+      },
+      "13": {
+        "name": "Fidelity Contrafund Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.7943,
+        "totalAssets": 0.3534,
+        "currentShares": 1165729,
+        "change": 194165,
+        "change_p": 19.9848
+      },
+      "14": {
+        "name": "iShares Biotechnology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.745,
+        "totalAssets": 2.4623,
+        "currentShares": 1093314,
+        "change": 2268,
+        "change_p": 0.2079
+      },
+      "15": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7309,
+        "totalAssets": 0.5064,
+        "currentShares": 1072621,
+        "change": 3248,
+        "change_p": 0.3037
+      },
+      "16": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 0.5038,
+        "currentShares": 954652,
+        "change": 39021,
+        "change_p": 4.2617
+      },
+      "17": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6212,
+        "totalAssets": 0.196,
+        "currentShares": 911734,
+        "change": 2751,
+        "change_p": 0.3026
+      },
+      "18": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.5757,
+        "totalAssets": 0.6441,
+        "currentShares": 844854,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.048,
+        "currentShares": 826722,
+        "change": -4938,
+        "change_p": -0.5938
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.9761,
+    "ForwardPE": 12.6103,
+    "PriceSalesTTM": 2.7359,
+    "PriceBookMRQ": 1.5103,
+    "EnterpriseValue": 29820837392,
+    "EnterpriseValueRevenue": 3.067,
+    "EnterpriseValueEbitda": 11.6496
+  },
+  "Highlights": {
+    "MarketCapitalization": 27059337216,
+    "MarketCapitalizationMln": 27059.3372,
+    "EBITDA": 3603699968,
+    "PERatio": 20.9761,
+    "PEGRatio": 3.9409,
+    "WallStreetTargetPrice": 212.0273,
+    "BookValue": 124.365,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 8.79,
+    "EPSEstimateCurrentYear": 15.5901,
+    "EPSEstimateNextYear": 16.0313,
+    "EPSEstimateNextQuarter": 3.4538,
+    "EPSEstimateCurrentQuarter": 1.6299,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1307,
+    "OperatingMarginTTM": 0.1964,
+    "ReturnOnAssetsTTM": 0.0614,
+    "ReturnOnEquityTTM": 0.0739,
+    "RevenueTTM": 9890599936,
+    "RevenuePerShareTTM": 67.513,
+    "QuarterlyRevenueGrowthYOY": -0.071,
+    "GrossProfitTTM": 7808200192,
+    "DilutedEpsTTM": 8.79,
+    "QuarterlyEarningsGrowthYOY": 0.192
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.95,
+    "TotalEsgPercentile": 33.82,
+    "EnvironmentScore": 1.02,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 13.48,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 7.45,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BIIB",
+    "Type": "Common Stock",
+    "Name": "Biogen Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C17X76",
+    "ISIN": "US09062X1037",
+    "LEI": "W8J5WZB5IY3K0NDQT671",
+    "PrimaryTicker": "BIIB.US",
+    "CUSIP": "449370105",
+    "CIK": "0000875045",
+    "EmployerIdNumber": "33-0112644",
+    "FiscalYearEnd": "December",
+    "IPODate": "1991-09-16",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Biotechnology",
+    "GicSubIndustry": "Biotechnology",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Biogen Inc. discovers, develops, manufactures, and delivers therapies in the United States, Europe, Germany, Asia, and internationally. The company provides TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, and TYSABRI for multiple sclerosis (MS); SPINRAZA for spinal muscular atrophy; SKYCLARYS to treat Friedreich's Ataxia; QALSODY for treating amyotrophic lateral sclerosis; FUMADERM to treat plaque psoriasis; BENEPALI, an etanercept biosimilar referencing ENBREL; IMRALDI, an adalimumab biosimilar referencing HUMIRA; FLIXABI, an infliximab biosimilar referencing REMICADE. It offers LEQEMBI for the treatment of Alzheimer's disease; ZURZUVAE for the treatment of postpartum depression; RITUXAN to treat non-Hodgkin's lymphoma, chronic lymphocytic leukemia (CLL), rheumatoid arthritis, two forms of ANCA-associated vasculitis, and pemphigus vulgaris; RITUXAN HYCELA for non-Hodgkin's lymphoma and CLL; GAZYVA to treat CLL and follicular lymphoma; OCREVUS for relapsing MS and primary progressive MS; LUNSUMIO to treat relapsed or refractory follicular lymphoma; glofitamab for aRelapsed or refractory diffuse large B-cell lymphoma; and other anti-CD20 therapies. Biogen Inc. has collaboration and license agreements with Merz Therapeutics; Alkermes Pharma Ireland Limited; Denali Therapeutics Inc.; UCB; Eisai Co., Ltd.; Genentech, Inc.; Neurimmune SubOne AG; Ionis Pharmaceuticals, Inc.; Samsung Bioepis; and Sage Therapeutics, Inc., as well as collaborations with Stoke Therapeutics, Inc. for the development and commercialization of zorevunersen, a disease modifying medicine for the treatment of Dravet syndrome; Dayra Therapeutics, Inc. to develop oral macrocyclic peptides; Vanqua Bio, Inc. for developing Vanqua's preclinical oral C5aR1 antagonist compound; City Therapeutics, Inc. to develop select novel RNAi therapies; and ALTEOGEN Inc. to develop subcutaneous (SC) formulations of biologics utilizing ALT-B4. The company was founded in 1978 and is headquartered in Cambridge, Massachusetts.",
+    "Address": "225 Binney Street, Cambridge, MA, United States, 02142",
+    "AddressData": {
+      "Street": "225 Binney Street",
+      "City": "Cambridge",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02142"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BIIB34",
+        "Exchange": "SA",
+        "Name": "Biogen Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher A. Viehbacher",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Ms. Nicole  Murphy",
+        "Title": "Executive VP and Head of Pharmaceutical Operations & Technology",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Ms. Susan H. Alexander Esq.",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1957"
+      },
+      "3": {
+        "Name": "Dr. Priya  Singhal M.D., M.P.H.",
+        "Title": "Executive VP & Head of Development",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Ms. Robin C. Kramer",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Sean  Godbout",
+        "Title": "VP, Chief Accounting Officer & Global Corporate Controller",
+        "YearBorn": "1974"
+      },
+      "6": {
+        "Name": "Mr. Guy  Hadari",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Tim  Power M.B.A., Ph.D.",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Adam  Keeney Ph.D.",
+        "Title": "Executive VP & Head of Corporate Development",
+        "YearBorn": "1977"
+      },
+      "9": {
+        "Name": "Dr. Ginger  Gregory Ph.D.",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1968"
+      }
+    },
+    "Phone": "617 679 2000",
+    "WebURL": "https://www.biogen.com",
+    "LogoURL": "/img/logos/US/BIIB.png",
+    "FullTimeEmployees": 7500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 146758528,
+    "SharesFloat": 146277160,
+    "PercentInsiders": 0.165,
+    "PercentInstitutions": 98.815,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0337
+  }
+}

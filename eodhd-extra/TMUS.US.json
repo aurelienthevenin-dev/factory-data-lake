@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.8858,
+        "totalAssets": 0.126,
+        "currentShares": 42816368,
+        "change": 19294,
+        "change_p": 0.0451
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.5502,
+        "totalAssets": 0.1639,
+        "currentShares": 39118701,
+        "change": 1987133,
+        "change_p": 5.3516
+      },
+      "2": {
+        "name": "SoftBank Group Corp",
+        "date": "2025-12-31",
+        "totalShares": 2.5869,
+        "totalAssets": 37.4153,
+        "currentShares": 28503696,
+        "change": -16671036,
+        "change_p": -36.9035
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1994,
+        "totalAssets": 0.2012,
+        "currentShares": 24234085,
+        "change": 1092769,
+        "change_p": 4.7222
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9311,
+        "totalAssets": 0.5449,
+        "currentShares": 21278097,
+        "change": 3176155,
+        "change_p": 17.5459
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.505,
+        "totalAssets": 0.59,
+        "currentShares": 16583428,
+        "change": 3121759,
+        "change_p": 23.19
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4278,
+        "totalAssets": 0.1629,
+        "currentShares": 15732362,
+        "change": 995525,
+        "change_p": 6.7554
+      },
+      "7": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.3475,
+        "totalAssets": 0.4726,
+        "currentShares": 14847697,
+        "change": 1121409,
+        "change_p": 8.1698
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2535,
+        "totalAssets": 0.2002,
+        "currentShares": 13812043,
+        "change": 595787,
+        "change_p": 4.508
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1079,
+        "totalAssets": 0.1526,
+        "currentShares": 12207254,
+        "change": -51292,
+        "change_p": -0.4184
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8261,
+        "totalAssets": 0.0653,
+        "currentShares": 9102732,
+        "change": 5245767,
+        "change_p": 136.0076
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7172,
+        "totalAssets": 0.2981,
+        "currentShares": 7903104,
+        "change": 453096,
+        "change_p": 6.0818
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.5971,
+        "totalAssets": 0.1429,
+        "currentShares": 6579580,
+        "change": 377196,
+        "change_p": 6.0815
+      },
+      "13": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 0.5614,
+        "totalAssets": 0.678,
+        "currentShares": 6185972,
+        "change": 2442450,
+        "change_p": 65.2447
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.5603,
+        "totalAssets": 0.3685,
+        "currentShares": 6173287,
+        "change": -125647,
+        "change_p": -1.9947
+      },
+      "15": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 0.5255,
+        "totalAssets": 0.7863,
+        "currentShares": 5790255,
+        "change": -290042,
+        "change_p": -4.7702
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.479,
+        "totalAssets": 0.1314,
+        "currentShares": 5277899,
+        "change": -109958,
+        "change_p": -2.0408
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.447,
+        "totalAssets": 0.1508,
+        "currentShares": 4925209,
+        "change": 28823,
+        "change_p": 0.5887
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.4153,
+        "totalAssets": 0.1965,
+        "currentShares": 4576393,
+        "change": 7217,
+        "change_p": 0.1579
+      },
+      "19": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.4046,
+        "totalAssets": 0.6738,
+        "currentShares": 4458113,
+        "change": -193109,
+        "change_p": -4.1518
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0988,
+        "totalAssets": 1.3089,
+        "currentShares": 23125514,
+        "change": -77357,
+        "change_p": -0.3334
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2709,
+        "totalAssets": 0.1473,
+        "currentShares": 14003656,
+        "change": -148157,
+        "change_p": -1.0469
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0948,
+        "totalAssets": 0.1781,
+        "currentShares": 12063682,
+        "change": -307188,
+        "change_p": -2.4832
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.5555,
+        "totalAssets": 0.1774,
+        "currentShares": 6120794,
+        "change": 10089,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5527,
+        "totalAssets": 0.1776,
+        "currentShares": 6089992,
+        "change": -3312,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4981,
+        "totalAssets": 0.1773,
+        "currentShares": 5488144,
+        "change": -13524,
+        "change_p": -0.2458
+      },
+      "6": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4847,
+        "totalAssets": 4.6432,
+        "currentShares": 5340224,
+        "change": -6155,
+        "change_p": -0.1151
+      },
+      "7": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.4233,
+        "totalAssets": 0.7913,
+        "currentShares": 4664337,
+        "change": 1865500,
+        "change_p": 66.6527
+      },
+      "8": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3889,
+        "totalAssets": 1.3054,
+        "currentShares": 4285075,
+        "change": 18352,
+        "change_p": 0.4301
+      },
+      "9": {
+        "name": "Loomis Sayles Long Dur Government/Credit",
+        "date": "2025-12-31",
+        "totalShares": 0.3417,
+        "totalAssets": 0.4707,
+        "currentShares": 3765000,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.3297,
+        "totalAssets": 0.6151,
+        "currentShares": 3633324,
+        "change": 659468,
+        "change_p": 22.1755
+      },
+      "11": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.3079,
+        "totalAssets": 1.1017,
+        "currentShares": 3392085,
+        "change": 1139695,
+        "change_p": 50.5994
+      },
+      "12": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.2819,
+        "totalAssets": 0.5656,
+        "currentShares": 3106447,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.2632,
+        "totalAssets": 1.2839,
+        "currentShares": 2899866,
+        "change": 60042,
+        "change_p": 2.1143
+      },
+      "14": {
+        "name": "T. Rowe Price US Lrg-Cap Core Gr Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.2592,
+        "totalAssets": 0.8429,
+        "currentShares": 2855533,
+        "change": 264717,
+        "change_p": 10.2175
+      },
+      "15": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.2492,
+        "totalAssets": 1.3442,
+        "currentShares": 2746143,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "T. Rowe Price Comm & Tech Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.2489,
+        "totalAssets": 7.1397,
+        "currentShares": 2742679,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "T. Rowe Price Blue Chip Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.248,
+        "totalAssets": 0.9758,
+        "currentShares": 2733090,
+        "change": -121854,
+        "change_p": -4.2682
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2423,
+        "totalAssets": 0.1777,
+        "currentShares": 2669454,
+        "change": -55693,
+        "change_p": -2.0437
+      },
+      "19": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.2326,
+        "totalAssets": 0.1694,
+        "currentShares": 2562892,
+        "change": -121416,
+        "change_p": -4.5232
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.5267,
+    "ForwardPE": 18.0832,
+    "PriceSalesTTM": 2.3682,
+    "PriceBookMRQ": 3.612,
+    "EnterpriseValue": 330509501757,
+    "EnterpriseValueRevenue": 3.7426,
+    "EnterpriseValueEbitda": 10.4714
+  },
+  "Highlights": {
+    "MarketCapitalization": 209133551616,
+    "MarketCapitalizationMln": 209133.5516,
+    "EBITDA": 32821000192,
+    "PERatio": 19.5267,
+    "PEGRatio": 0.7434,
+    "WallStreetTargetPrice": 268.3462,
+    "BookValue": 53.484,
+    "DividendShare": 3.8,
+    "DividendYield": 0.0196,
+    "EarningsShare": 9.72,
+    "EPSEstimateCurrentYear": 10.392,
+    "EPSEstimateNextYear": 13.3726,
+    "EPSEstimateNextQuarter": 2.6762,
+    "EPSEstimateCurrentQuarter": 2.0642,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1245,
+    "OperatingMarginTTM": 0.1837,
+    "ReturnOnAssetsTTM": 0.0568,
+    "ReturnOnEquityTTM": 0.1818,
+    "RevenueTTM": 88308998144,
+    "RevenuePerShareTTM": 78.289,
+    "QuarterlyRevenueGrowthYOY": 0.113,
+    "GrossProfitTTM": 55779999744,
+    "DilutedEpsTTM": 9.72,
+    "QuarterlyEarningsGrowthYOY": -0.266
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.59,
+    "TotalEsgPercentile": 45.54,
+    "EnvironmentScore": 2.66,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 12.6,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 7.82,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TMUS",
+    "Type": "Common Stock",
+    "Name": "T-Mobile US Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000NDV1D4",
+    "ISIN": "US8725901040",
+    "LEI": "549300QHIJYOHPACPG31",
+    "PrimaryTicker": "TMUS.US",
+    "CUSIP": "872590104",
+    "CIK": "0001283699",
+    "EmployerIdNumber": "20-0836269",
+    "FiscalYearEnd": "December",
+    "IPODate": "2007-04-19",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "GicSector": "Communication Services",
+    "GicGroup": "Telecommunication Services",
+    "GicIndustry": "Wireless Telecommunication Services",
+    "GicSubIndustry": "Wireless Telecommunication Services",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "T-Mobile US, Inc., together with its subsidiaries, provides wireless communications services in the United States, Puerto Rico, and the United States Virgin Islands. The company offers voice, messaging, and data services to postpaid, prepaid, and wholesale and other services customers. It also provides wireless devices, including smartphones, wearables, tablets, home broadband gateways, headsets, and other mobile communication devices, as well as accessories; financing through equipment installment plans; reinsurance for device insurance policies and extended warranty contracts. The company offers services under the T-Mobile, Metro by T-Mobile, and Mint Mobile brands through its owned and operated retail stores, customer care channels, national retailers, and its websites, as well as through T-Mobile, Metro by T-Mobile, and Mint Mobile apps. It also sells devices to dealers and other third-party distributors for resale through independent third-party retail outlets and various third-party websites. The company was founded in 1994 and is headquartered in Bellevue, Washington. T-Mobile US, Inc. operates as a subsidiary of Deutsche Telekom AG.",
+    "Address": "12920 SE 38th Street, Bellevue, WA, United States, 98006-1350",
+    "AddressData": {
+      "Street": "12920 SE 38th Street",
+      "City": "Bellevue",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98006-1350"
+    },
+    "Listings": {
+      "0": {
+        "Code": "TM5",
+        "Exchange": "XETRA",
+        "Name": "T-MOBILE US INC.DL-00001"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Peter  Osvaldik",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1977"
+      },
+      "1": {
+        "Name": "Mr. Jonathan A. Freier",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Mark W. Nelson Esq., J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Michael J. Katz",
+        "Title": "Chief Business & Product Officer",
+        "YearBorn": "1980"
+      },
+      "4": {
+        "Name": "Mr. Srinivasan  Gopalan",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. Daniel J. Drobac",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Dr. John C. B. Saw Ph.D.",
+        "Title": "President of Technology & CTO",
+        "YearBorn": "1962"
+      },
+      "7": {
+        "Name": "Mr. Jeff  Simon",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Quan  Yao C.F.A.",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Doug  Chartier",
+        "Title": "Senior Vice President of Sales and Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "425 378 4000",
+    "WebURL": "https://www.t-mobile.com",
+    "LogoURL": "/img/logos/US/TMUS.png",
+    "FullTimeEmployees": 75000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1101862739,
+    "SharesFloat": 515484445,
+    "PercentInsiders": 55.806,
+    "PercentInstitutions": 42.575,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0433
+  }
+}

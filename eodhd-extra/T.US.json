@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.5108,
+        "totalAssets": 0.2391,
+        "currentShares": 664055700,
+        "change": 3585661,
+        "change_p": 0.5429
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2352,
+        "totalAssets": 0.2843,
+        "currentShares": 574993630,
+        "change": 12222975,
+        "change_p": 2.1719
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6372,
+        "totalAssets": 0.3171,
+        "currentShares": 323775045,
+        "change": 2704536,
+        "change_p": 0.8423
+      },
+      "3": {
+        "name": "Newport Trust Co.",
+        "date": "2025-12-31",
+        "totalShares": 2.6274,
+        "totalAssets": 10.9035,
+        "currentShares": 183451879,
+        "change": -1868518,
+        "change_p": -1.0083
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6024,
+        "totalAssets": 0.1537,
+        "currentShares": 181703640,
+        "change": 113612892,
+        "change_p": 166.8551
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4492,
+        "totalAssets": 0.2614,
+        "currentShares": 171003772,
+        "change": -2968463,
+        "change_p": -1.7063
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6559,
+        "totalAssets": 0.2215,
+        "currentShares": 115619316,
+        "change": 12826862,
+        "change_p": 12.4784
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5732,
+        "totalAssets": 0.1878,
+        "currentShares": 109840721,
+        "change": -150386,
+        "change_p": -0.1367
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2581,
+        "totalAssets": 0.2334,
+        "currentShares": 87841255,
+        "change": 10831745,
+        "change_p": 14.0655
+      },
+      "9": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2318,
+        "totalAssets": 3.5187,
+        "currentShares": 86007645,
+        "change": -20777716,
+        "change_p": -19.4575
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1068,
+        "totalAssets": 0.3915,
+        "currentShares": 77280607,
+        "change": 85215,
+        "change_p": 0.1104
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0475,
+        "totalAssets": 0.2642,
+        "currentShares": 73140558,
+        "change": -2731136,
+        "change_p": -3.5997
+      },
+      "12": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.8895,
+        "totalAssets": 0.2848,
+        "currentShares": 62108173,
+        "change": -3499662,
+        "change_p": -5.3342
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8282,
+        "totalAssets": 0.2573,
+        "currentShares": 57823362,
+        "change": 4584316,
+        "change_p": 8.6108
+      },
+      "14": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8177,
+        "totalAssets": 0.0723,
+        "currentShares": 57091566,
+        "change": 14912983,
+        "change_p": 35.3568
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7865,
+        "totalAssets": 0.3562,
+        "currentShares": 54915436,
+        "change": -332048,
+        "change_p": -0.601
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.739,
+        "totalAssets": 0.1992,
+        "currentShares": 51600464,
+        "change": 225708,
+        "change_p": 0.4393
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7161,
+        "totalAssets": 0.2605,
+        "currentShares": 50001906,
+        "change": -1386197,
+        "change_p": -2.6975
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7146,
+        "totalAssets": 0.306,
+        "currentShares": 49893316,
+        "change": -9432442,
+        "change_p": -15.8994
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6866,
+        "totalAssets": 0.2641,
+        "currentShares": 47940052,
+        "change": -619514,
+        "change_p": -1.2758
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.185,
+        "totalAssets": 0.3229,
+        "currentShares": 222381107,
+        "change": -1869086,
+        "change_p": -0.8335
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5528,
+        "totalAssets": 0.3631,
+        "currentShares": 178241517,
+        "change": -4106035,
+        "change_p": -2.2518
+      },
+      "2": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2922,
+        "totalAssets": 0.3374,
+        "currentShares": 90222119,
+        "change": 148722,
+        "change_p": 0.1651
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2888,
+        "totalAssets": 0.3623,
+        "currentShares": 89986775,
+        "change": -48984,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.162,
+        "totalAssets": 0.3618,
+        "currentShares": 81134280,
+        "change": -199528,
+        "change_p": -0.2453
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9267,
+        "totalAssets": 0.831,
+        "currentShares": 64701211,
+        "change": -1335398,
+        "change_p": -2.0222
+      },
+      "6": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7022,
+        "totalAssets": 1.0038,
+        "currentShares": 49030024,
+        "change": 11567006,
+        "change_p": 30.8758
+      },
+      "7": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6011,
+        "totalAssets": 5.0365,
+        "currentShares": 41966986,
+        "change": -48370,
+        "change_p": -0.1151
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5649,
+        "totalAssets": 0.3623,
+        "currentShares": 39442004,
+        "change": -716346,
+        "change_p": -1.7838
+      },
+      "9": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5352,
+        "totalAssets": 0.3586,
+        "currentShares": 37369985,
+        "change": -421800,
+        "change_p": -1.1161
+      },
+      "10": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4529,
+        "totalAssets": 0.3619,
+        "currentShares": 31619109,
+        "change": -217534,
+        "change_p": -0.6833
+      },
+      "11": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.4047,
+        "totalAssets": 1.5491,
+        "currentShares": 28254371,
+        "change": -477611,
+        "change_p": -1.6623
+      },
+      "12": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4021,
+        "totalAssets": 0.3008,
+        "currentShares": 28076572,
+        "change": -615346,
+        "change_p": -2.1447
+      },
+      "13": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4021,
+        "totalAssets": 0.3008,
+        "currentShares": 28076572,
+        "change": 28076572,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4021,
+        "totalAssets": 0.3008,
+        "currentShares": 28076572,
+        "change": -615346,
+        "change_p": -2.1447
+      },
+      "15": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.3968,
+        "totalAssets": 1.7663,
+        "currentShares": 27705888,
+        "change": -198222,
+        "change_p": -0.7104
+      },
+      "16": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3876,
+        "totalAssets": 0.8802,
+        "currentShares": 27059743,
+        "change": -1068110,
+        "change_p": -3.7973
+      },
+      "17": {
+        "name": "Thornburg Investment Income Builder A",
+        "date": "2026-02-28",
+        "totalShares": 0.3867,
+        "totalAssets": 3.4692,
+        "currentShares": 27002773,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Thornburg Investment Income Builder Sep",
+        "date": "2026-02-28",
+        "totalShares": 0.3867,
+        "totalAssets": 3.4655,
+        "currentShares": 27002773,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3622,
+        "totalAssets": 0.3603,
+        "currentShares": 25286242,
+        "change": -378833,
+        "change_p": -1.4761
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 8.6184,
+    "ForwardPE": 11.5473,
+    "PriceSalesTTM": 1.4458,
+    "PriceBookMRQ": 1.6768,
+    "EnterpriseValue": 322147650000,
+    "EnterpriseValueRevenue": 2.5639,
+    "EnterpriseValueEbitda": 5.8897
+  },
+  "Highlights": {
+    "MarketCapitalization": 182932226048,
+    "MarketCapitalizationMln": 182932.226,
+    "EBITDA": 44418998272,
+    "PERatio": 8.6184,
+    "PEGRatio": 1.4993,
+    "WallStreetTargetPrice": 30.4348,
+    "BookValue": 15.706,
+    "DividendShare": 1.11,
+    "DividendYield": 0.0417,
+    "EarningsShare": 3.04,
+    "EPSEstimateCurrentYear": 2.3097,
+    "EPSEstimateNextYear": 2.5503,
+    "EPSEstimateNextQuarter": 0.5883,
+    "EPSEstimateCurrentQuarter": 0.5511,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1694,
+    "OperatingMarginTTM": 0.2113,
+    "ReturnOnAssetsTTM": 0.0412,
+    "ReturnOnEquityTTM": 0.1837,
+    "RevenueTTM": 126527995904,
+    "RevenuePerShareTTM": 17.771,
+    "QuarterlyRevenueGrowthYOY": 0.029,
+    "GrossProfitTTM": 75175002112,
+    "DilutedEpsTTM": 3.04,
+    "QuarterlyEarningsGrowthYOY": -0.122
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.57,
+    "TotalEsgPercentile": 25.2,
+    "EnvironmentScore": 8.35,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 15.4,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 14.32,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "T",
+    "Type": "Common Stock",
+    "Name": "AT&T Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BSJK37",
+    "ISIN": "US00206R1023",
+    "LEI": "549300Z40J86GGSTL398",
+    "PrimaryTicker": "T.US",
+    "CUSIP": "78387G202",
+    "CIK": "0000732717",
+    "EmployerIdNumber": "43-1301883",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-07-19",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "GicSector": "Communication Services",
+    "GicGroup": "Telecommunication Services",
+    "GicIndustry": "Diversified Telecommunication Services",
+    "GicSubIndustry": "Integrated Telecommunication Services",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "AT&T Inc. provides telecommunications and technology services worldwide. It operates through two segments, Communications and Latin America. The Communications segment offers wireless voice and data communications services; and sells handsets, wireless data cards, wireless computing devices, carrying cases/protective covers, and wireless chargers through its own company-owned stores, agents, and third-party retail stores. It also provides AT&T Dedicated Internet, fiber ethernet and broadband, fixed wireless, and hosted and managed professional services; and copper-based voice and data, Virtual Private Networks (VPN), wholesale, outsourcing, and IP, as well as customer premises equipment for multinational corporations, small and mid-sized businesses, governmental, and wholesale customers. In addition, this segment offers broadband services, including fiber connections, legacy telephony voice communication services, and other VoIP services and equipment to residential customers. This segment markets its communications services and products under the AT&T, AT&T Business, Cricket, AT&T PREPAID, AT&T Fiber, and AT&T Internet Air brand names. Its Latin America segment provides postpaid and prepaid wireless services in Mexico under the AT&T and Unefon brand names, as well as sells smartphones through its stores, agents and third-party retail stores. The company was formerly known as SBC Communications Inc. and changed its name to AT&T Inc. in 2005. AT&T Inc. was incorporated in 1983 and is based in Dallas, Texas.",
+    "Address": "208 South Akard Street, Dallas, TX, United States, 75202",
+    "AddressData": {
+      "Street": "208 South Akard Street",
+      "City": "Dallas",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75202"
+    },
+    "Listings": {
+      "0": {
+        "Code": "ATTB34",
+        "Exchange": "SA",
+        "Name": "AT&T Inc."
+      },
+      "1": {
+        "Code": "TBB",
+        "Exchange": "US",
+        "Name": "AT&T Inc"
+      },
+      "2": {
+        "Code": "TBC",
+        "Exchange": "US",
+        "Name": "AT&T Inc ELKS"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. John T. Stankey",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Pascal  Desroches CPA",
+        "Title": "Senior EVP & CFO",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Jeffery Scott McElfresh",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. David R. McAtee II",
+        "Title": "Senior EVP & General Counsel",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Ms. Lori M. Lee",
+        "Title": "Global Marketing Officer and Senior EVP of International",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Ms. Sabrina  Sanders",
+        "Title": "Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Mr. Brett Joseph Feldman",
+        "Title": "Senior Vice President of Finance & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Larry  Solomon",
+        "Title": "Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Rick  Moore",
+        "Title": "Senior Vice President of Corporate Development",
+        "YearBorn": "1952"
+      },
+      "9": {
+        "Name": "Ms. Kellyn Smith Kenny M.B.A.",
+        "Title": "Chief Marketing & Growth Officer",
+        "YearBorn": "1978"
+      }
+    },
+    "Phone": "210 821 4105",
+    "WebURL": "https://www.att.com",
+    "LogoURL": "/img/logos/US/t.png",
+    "FullTimeEmployees": 132590,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 6965000000,
+    "SharesFloat": 6950373500,
+    "PercentInsiders": 0.086,
+    "PercentInstitutions": 68.66,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.017
+  }
+}

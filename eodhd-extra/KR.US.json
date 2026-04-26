@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5975,
+        "totalAssets": 0.0699,
+        "currentShares": 77169425,
+        "change": 868529,
+        "change_p": 1.1383
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9545,
+        "totalAssets": 0.0647,
+        "currentShares": 54853210,
+        "change": -64739,
+        "change_p": -0.1179
+      },
+      "2": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.1623,
+        "totalAssets": 1.2608,
+        "currentShares": 50000000,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.2154,
+        "totalAssets": 0.0747,
+        "currentShares": 31948112,
+        "change": 386503,
+        "change_p": 1.2246
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.2761,
+        "totalAssets": 0.2197,
+        "currentShares": 20068489,
+        "change": -13299062,
+        "change_p": -39.8563
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6487,
+        "totalAssets": 0.0623,
+        "currentShares": 16225118,
+        "change": -299939,
+        "change_p": -1.8151
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.4759,
+        "totalAssets": 0.0483,
+        "currentShares": 15166478,
+        "change": 1512854,
+        "change_p": 11.0802
+      },
+      "7": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1872,
+        "totalAssets": 1.3787,
+        "currentShares": 13398072,
+        "change": 1360946,
+        "change_p": 11.3062
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.9985,
+        "totalAssets": 0.1605,
+        "currentShares": 12242401,
+        "change": 122606,
+        "change_p": 1.0116
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8217,
+        "totalAssets": 0.0455,
+        "currentShares": 11159269,
+        "change": 1172234,
+        "change_p": 11.7376
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.7453,
+        "totalAssets": 0.0216,
+        "currentShares": 10691388,
+        "change": 4827888,
+        "change_p": 82.338
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2448,
+        "totalAssets": 0.0584,
+        "currentShares": 7625582,
+        "change": -813071,
+        "change_p": -9.6351
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2295,
+        "totalAssets": 0.0503,
+        "currentShares": 7531387,
+        "change": 306141,
+        "change_p": 4.2371
+      },
+      "13": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.1096,
+        "totalAssets": 0.9261,
+        "currentShares": 6797438,
+        "change": -91835,
+        "change_p": -1.333
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0927,
+        "totalAssets": 0.0577,
+        "currentShares": 6693565,
+        "change": -34521,
+        "change_p": -0.5131
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0329,
+        "totalAssets": 0.0672,
+        "currentShares": 6327182,
+        "change": 865559,
+        "change_p": 15.848
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9565,
+        "totalAssets": 0.0858,
+        "currentShares": 5859414,
+        "change": -1347447,
+        "change_p": -18.6967
+      },
+      "17": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.8497,
+        "totalAssets": 0.2797,
+        "currentShares": 5204987,
+        "change": 524768,
+        "change_p": 11.2125
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8237,
+        "totalAssets": 0.0699,
+        "currentShares": 5045745,
+        "change": -147315,
+        "change_p": -2.8368
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7784,
+        "totalAssets": 0.0463,
+        "currentShares": 4768229,
+        "change": 51165,
+        "change_p": 1.0847
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.9546,
+        "totalAssets": 0.0656,
+        "currentShares": 18099079,
+        "change": -760265,
+        "change_p": -4.0312
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.256,
+        "totalAssets": 0.0703,
+        "currentShares": 13819627,
+        "change": -866218,
+        "change_p": -5.8983
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0086,
+        "totalAssets": 0.448,
+        "currentShares": 12304094,
+        "change": -658983,
+        "change_p": -5.0835
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2666,
+        "totalAssets": 0.0707,
+        "currentShares": 7758740,
+        "change": 12797,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2216,
+        "totalAssets": 0.0752,
+        "currentShares": 7483370,
+        "change": -4068,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.1214,
+        "totalAssets": 1.0474,
+        "currentShares": 6869525,
+        "change": 350623,
+        "change_p": 5.3786
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0993,
+        "totalAssets": 0.0749,
+        "currentShares": 6734004,
+        "change": -16611,
+        "change_p": -0.2461
+      },
+      "7": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0874,
+        "totalAssets": 0.347,
+        "currentShares": 6660932,
+        "change": -6532710,
+        "change_p": -49.5141
+      },
+      "8": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.0806,
+        "totalAssets": 1.0097,
+        "currentShares": 6619695,
+        "change": 6619695,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9944,
+        "totalAssets": 2.8444,
+        "currentShares": 6091593,
+        "change": -2669,
+        "change_p": -0.0438
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6961,
+        "totalAssets": 0.1367,
+        "currentShares": 4264044,
+        "change": -288108,
+        "change_p": -6.3291
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6048,
+        "totalAssets": 0.7717,
+        "currentShares": 3704962,
+        "change": -17522,
+        "change_p": -0.4707
+      },
+      "12": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.5854,
+        "totalAssets": 0.1108,
+        "currentShares": 3586068,
+        "change": -3110,
+        "change_p": -0.0866
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5355,
+        "totalAssets": 0.0752,
+        "currentShares": 3280322,
+        "change": -171848,
+        "change_p": -4.978
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5074,
+        "totalAssets": 0.0744,
+        "currentShares": 3108014,
+        "change": -141900,
+        "change_p": -4.3663
+      },
+      "15": {
+        "name": "LS Global Credit / Corporate GBP Hedged",
+        "date": "2025-12-31",
+        "totalShares": 0.5036,
+        "totalAssets": 0.2981,
+        "currentShares": 3085000,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 0.4605,
+        "totalAssets": 0.7295,
+        "currentShares": 2820685,
+        "change": -76299,
+        "change_p": -2.6337
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4293,
+        "totalAssets": 0.0751,
+        "currentShares": 2629635,
+        "change": -108207,
+        "change_p": -3.9523
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3955,
+        "totalAssets": 0.0653,
+        "currentShares": 2422743,
+        "change": 5668,
+        "change_p": 0.2345
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3955,
+        "totalAssets": 0.0653,
+        "currentShares": 2422743,
+        "change": 5668,
+        "change_p": 0.2345
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 43.6558,
+    "ForwardPE": 13.1579,
+    "PriceSalesTTM": 0.2882,
+    "PriceBookMRQ": 7.1417,
+    "EnterpriseValue": 62442974720,
+    "EnterpriseValueRevenue": 0.4229,
+    "EnterpriseValueEbitda": 10.8427
+  },
+  "Highlights": {
+    "MarketCapitalization": 42546450432,
+    "MarketCapitalizationMln": 42546.4504,
+    "EBITDA": 8090999808,
+    "PERatio": 43.6558,
+    "PEGRatio": 1.6249,
+    "WallStreetTargetPrice": 75.4546,
+    "BookValue": 9.252,
+    "DividendShare": 1.37,
+    "DividendYield": 0.0198,
+    "EarningsShare": 1.54,
+    "EPSEstimateCurrentYear": 4.8005,
+    "EPSEstimateNextYear": 5.2812,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.2022,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0069,
+    "OperatingMarginTTM": 0.0344,
+    "ReturnOnAssetsTTM": 0.0576,
+    "ReturnOnEquityTTM": 0.1441,
+    "RevenueTTM": 147642007552,
+    "RevenuePerShareTTM": 226.445,
+    "QuarterlyRevenueGrowthYOY": 0.012,
+    "GrossProfitTTM": 35582001152,
+    "DilutedEpsTTM": 1.54,
+    "QuarterlyEarningsGrowthYOY": 0.509
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.85,
+    "TotalEsgPercentile": 22.82,
+    "EnvironmentScore": 5.05,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 12.51,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 4.29,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "KR",
+    "Type": "Common Stock",
+    "Name": "Kroger Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BMY992",
+    "ISIN": "US5010441013",
+    "LEI": "6CPEOKI6OYJ13Q6O7870",
+    "PrimaryTicker": "KR.US",
+    "CUSIP": "501044101",
+    "CIK": "0000056873",
+    "EmployerIdNumber": "31-0345740",
+    "FiscalYearEnd": "January",
+    "IPODate": "1928-01-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Grocery Stores",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Consumer Staples Distribution & Retail",
+    "GicIndustry": "Consumer Staples Distribution & Retail",
+    "GicSubIndustry": "Food Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Kroger Co. operates as a food and drug retailer in the United States. The company operates combination food and drug stores, multi-department stores, marketplace stores, and price impact warehouses. Its combination food and drug stores offer natural food and organic sections, pharmacies, general merchandise, pet centers, fresh seafood, and organic produce; and its multi-department stores provide apparel, home fashion and furnishings, outdoor living, electronics, automotive products, and toys. The company's marketplace stores offer full-service grocery, pharmacy, health and beauty care, and perishable goods, as well as general merchandise, including apparel, home goods, and toys; and its price impact warehouse stores provide grocery, and health and beauty care items, as well as meat, dairy, baked goods, and fresh produce items. It also manufactures and processes food products for sale in its supermarkets and online; and sells fuel through its fuel centers. The company sells its products through its stores, fuel centers, and online platforms. The Kroger Co. was founded in 1883 and is based in Cincinnati, Ohio.",
+    "Address": "1014 Vine Street, Cincinnati, OH, United States, 45202",
+    "AddressData": {
+      "Street": "1014 Vine Street",
+      "City": "Cincinnati",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "45202"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Mary Ellen Adcock",
+        "Title": "Executive VP and Chief Merchant & Marketing Officer",
+        "YearBorn": "1976"
+      },
+      "1": {
+        "Name": "Mr. Timothy A. Massa",
+        "Title": "Chief People Officer",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Yael  Cosset",
+        "Title": "Executive VP & Chief Digital Officer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Gregory S. Foran",
+        "Title": "CEO & Director",
+        "YearBorn": "1961"
+      },
+      "4": {
+        "Name": "Mr. David John Christopher Kennerley",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Robinson C. Quast CPA",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. George H. Vincent Esq., J.D.",
+        "Title": "EVP, Secretary & General Counsel",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Keith G. Dailey",
+        "Title": "Group VP of Corporate Affairs,",
+        "YearBorn": "1981"
+      },
+      "8": {
+        "Name": "Ms. Dana  Zurcher",
+        "Title": "President of the Columbus Division",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Valerie L. Jabbar",
+        "Title": "Senior Vice President of Retail Divisions",
+        "YearBorn": "1969"
+      }
+    },
+    "Phone": "513 762 4000",
+    "WebURL": "https://www.thekrogerco.com",
+    "LogoURL": "/img/logos/US/KR.png",
+    "FullTimeEmployees": 403000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 612575611,
+    "SharesFloat": 788814580,
+    "PercentInsiders": 9.116,
+    "PercentInstitutions": 82.216,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0486
+  }
+}

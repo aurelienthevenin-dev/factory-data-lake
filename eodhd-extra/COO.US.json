@@ -1,0 +1,571 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0693,
+        "totalAssets": 0.028,
+        "currentShares": 23548923,
+        "change": -425898,
+        "change_p": -1.7764
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8539,
+        "totalAssets": 0.0184,
+        "currentShares": 15324157,
+        "change": -128850,
+        "change_p": -0.8338
+      },
+      "2": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 7.6604,
+        "totalAssets": 0.4845,
+        "currentShares": 14946476,
+        "change": 5119872,
+        "change_p": 52.1022
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.2319,
+        "totalAssets": 0.1138,
+        "currentShares": 10208203,
+        "change": -343389,
+        "change_p": -3.2544
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4008,
+        "totalAssets": 0.0204,
+        "currentShares": 8586552,
+        "change": -73189,
+        "change_p": -0.8452
+      },
+      "5": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.6896,
+        "totalAssets": 1.5836,
+        "currentShares": 7198895,
+        "change": -351351,
+        "change_p": -4.6535
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7034,
+        "totalAssets": 0.0266,
+        "currentShares": 5274687,
+        "change": -28026,
+        "change_p": -0.5285
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.2649,
+        "totalAssets": 0.0477,
+        "currentShares": 4419074,
+        "change": -204864,
+        "change_p": -4.4305
+      },
+      "8": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1422,
+        "totalAssets": 0.06,
+        "currentShares": 4179671,
+        "change": -2005321,
+        "change_p": -32.4224
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9462,
+        "totalAssets": 0.0279,
+        "currentShares": 3797253,
+        "change": -2750065,
+        "change_p": -42.0029
+      },
+      "10": {
+        "name": "Browning West LP",
+        "date": "2025-12-31",
+        "totalShares": 1.8918,
+        "totalAssets": 19.1669,
+        "currentShares": 3691083,
+        "change": 3691083,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8645,
+        "totalAssets": 0.2213,
+        "currentShares": 3637899,
+        "change": -240956,
+        "change_p": -6.212
+      },
+      "12": {
+        "name": "Jana Partners Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.8039,
+        "totalAssets": 15.0105,
+        "currentShares": 3519620,
+        "change": 1085013,
+        "change_p": 44.5662
+      },
+      "13": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.7545,
+        "totalAssets": 0.1071,
+        "currentShares": 3423213,
+        "change": -297078,
+        "change_p": -7.9853
+      },
+      "14": {
+        "name": "Sustainable Growth Advisers, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.7265,
+        "totalAssets": 1.9146,
+        "currentShares": 3368567,
+        "change": -763968,
+        "change_p": -18.4867
+      },
+      "15": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6851,
+        "totalAssets": 1.3808,
+        "currentShares": 3287837,
+        "change": 2720594,
+        "change_p": 479.617
+      },
+      "16": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.6352,
+        "totalAssets": 0.0689,
+        "currentShares": 3190534,
+        "change": -594374,
+        "change_p": -15.7038
+      },
+      "17": {
+        "name": "Generation Investment Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.4604,
+        "totalAssets": 1.6199,
+        "currentShares": 2849428,
+        "change": 2849428,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.4432,
+        "totalAssets": 0.0744,
+        "currentShares": 2815806,
+        "change": -283944,
+        "change_p": -9.1602
+      },
+      "19": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.411,
+        "totalAssets": 0.0057,
+        "currentShares": 2752986,
+        "change": 57695,
+        "change_p": 2.1406
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1738,
+        "totalAssets": 0.0222,
+        "currentShares": 6192457,
+        "change": -87211,
+        "change_p": -1.3888
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5571,
+        "totalAssets": 0.0251,
+        "currentShares": 4989202,
+        "change": -121739,
+        "change_p": -2.3819
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.309,
+        "totalAssets": 0.1939,
+        "currentShares": 4505150,
+        "change": -9939,
+        "change_p": -0.2201
+      },
+      "3": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 2.1904,
+        "totalAssets": 1.3908,
+        "currentShares": 4273800,
+        "change": -391100,
+        "change_p": -8.3839
+      },
+      "4": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 2.1886,
+        "totalAssets": 1.3546,
+        "currentShares": 4270200,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8488,
+        "totalAssets": 0.1817,
+        "currentShares": 3607314,
+        "change": -345214,
+        "change_p": -8.734
+      },
+      "6": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 1.8488,
+        "totalAssets": 0.1689,
+        "currentShares": 3607314,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.6284,
+        "totalAssets": 1.7595,
+        "currentShares": 3177281,
+        "change": 1233825,
+        "change_p": 63.4861
+      },
+      "8": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4692,
+        "totalAssets": 0.3375,
+        "currentShares": 2866651,
+        "change": -32963,
+        "change_p": -1.1368
+      },
+      "9": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 1.4633,
+        "totalAssets": 1.3809,
+        "currentShares": 2855143,
+        "change": -310800,
+        "change_p": -9.817
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2967,
+        "totalAssets": 0.0283,
+        "currentShares": 2530107,
+        "change": 4181,
+        "change_p": 0.1655
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2909,
+        "totalAssets": 0.025,
+        "currentShares": 2518797,
+        "change": -1368,
+        "change_p": -0.0543
+      },
+      "12": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 1.276,
+        "totalAssets": 0.8447,
+        "currentShares": 2489595,
+        "change": -754936,
+        "change_p": -23.268
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2066,
+        "totalAssets": 0.1974,
+        "currentShares": 2354269,
+        "change": 6943,
+        "change_p": 0.2958
+      },
+      "14": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 1.1936,
+        "totalAssets": 1.8063,
+        "currentShares": 2328972,
+        "change": 250725,
+        "change_p": 12.0643
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1553,
+        "totalAssets": 0.0248,
+        "currentShares": 2254203,
+        "change": -5586,
+        "change_p": -0.2472
+      },
+      "16": {
+        "name": "Franklin Mutual Shares Z",
+        "date": "2026-03-31",
+        "totalShares": 0.9623,
+        "totalAssets": 2.0062,
+        "currentShares": 1877499,
+        "change": 189704,
+        "change_p": 11.2398
+      },
+      "17": {
+        "name": "T. Rowe Price U.S. Mid-Cap Val Eq Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.8972,
+        "totalAssets": 1.3466,
+        "currentShares": 1750528,
+        "change": -238563,
+        "change_p": -11.9936
+      },
+      "18": {
+        "name": "Touchstone Mid Cap Y",
+        "date": "2026-03-31",
+        "totalShares": 0.8854,
+        "totalAssets": 2.8195,
+        "currentShares": 1727579,
+        "change": -189855,
+        "change_p": -9.9015
+      },
+      "19": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 0.8605,
+        "totalAssets": 0.6034,
+        "currentShares": 1678964,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.0498,
+    "ForwardPE": 14.43,
+    "PriceSalesTTM": 3.0274,
+    "PriceBookMRQ": 1.5154,
+    "EnterpriseValue": 15049431294,
+    "EnterpriseValueRevenue": 3.6248,
+    "EnterpriseValueEbitda": 13.8871
+  },
+  "Highlights": {
+    "MarketCapitalization": 12569269248,
+    "MarketCapitalizationMln": 12569.2692,
+    "EBITDA": 1099399936,
+    "PERatio": 32.0498,
+    "PEGRatio": 1.6943,
+    "WallStreetTargetPrice": 91.0667,
+    "BookValue": 42.869,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.01,
+    "EPSEstimateCurrentYear": 4.6169,
+    "EPSEstimateNextYear": 5.0205,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.0286,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0967,
+    "OperatingMarginTTM": 0.2078,
+    "ReturnOnAssetsTTM": 0.0364,
+    "ReturnOnEquityTTM": 0.0487,
+    "RevenueTTM": 4151800064,
+    "RevenuePerShareTTM": 20.955,
+    "QuarterlyRevenueGrowthYOY": 0.062,
+    "GrossProfitTTM": 2717100032,
+    "DilutedEpsTTM": 2.01,
+    "QuarterlyEarningsGrowthYOY": 0.269
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.29,
+    "TotalEsgPercentile": 23.8,
+    "EnvironmentScore": 4.6,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 8.68,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 5.5,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "COO",
+    "Type": "Common Stock",
+    "Name": "The Cooper Companies, Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BG3445",
+    "ISIN": "US2166485019",
+    "LEI": null,
+    "PrimaryTicker": "COO.US",
+    "CUSIP": "216640102",
+    "CIK": "0000711404",
+    "EmployerIdNumber": "94-2657368",
+    "FiscalYearEnd": "October",
+    "IPODate": "1983-12-30",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Supplies",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Cooper Companies, Inc., together with its subsidiaries, develops, manufactures, and markets contact lens wearers. The company operates in two segments, CooperVision and CooperSurgical. The CooperVision segment offers spherical, toric, and multifocal contact lenses that address vision challenges, such as astigmatism, presbyopia, and myopia. Its CooperSurgical segment focuses on family and women's health care, which provides fertility products and services, medical devices, and contraception, as well as cryostorage, such as cord blood and cord tissue storage. This segment offers Paragard, a hormone-free intrauterine device; and fertility consumables and equipment, donor gamete services, and genomic services, including genetic testing. The company sells its products to distributors, group purchasing organizations, eye care and health care professionals, including independent practices, corporate retailers, hospitals and clinics, and authorized resellers. The Cooper Companies, Inc. was founded in 1958 and is headquartered in San Ramon, California.",
+    "Address": "6101 Bollinger Canyon Road, San Ramon, CA, United States, 94583",
+    "AddressData": {
+      "Street": "6101 Bollinger Canyon Road",
+      "City": "San Ramon",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94583"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Albert G. White III",
+        "Title": "President, CEO & Non-Independent Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Brian G. Andrews",
+        "Title": "Executive VP, CFO, Treasurer & Principal Accounting Officer",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Mr. Daniel G. McBride Esq.",
+        "Title": "Executive VP, COO General Counsel & Secretary",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Ms. Holly R. Sheffield",
+        "Title": "President of CooperSurgical, Inc.",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Gerard H. Warner III",
+        "Title": "President of CooperVision, Inc.",
+        "YearBorn": "1965"
+      },
+      "5": {
+        "Name": "Mr. Kim  Duncan",
+        "Title": "Vice President of Investor Relations & Risk Management",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Agostino  Ricupati CPA",
+        "Title": "Senior Vice President & Tax",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "925 460 3600",
+    "WebURL": "https://www.coopercos.com",
+    "LogoURL": "/img/logos/US/COO.png",
+    "FullTimeEmployees": 15000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 195114398,
+    "SharesFloat": 193678356,
+    "PercentInsiders": 0.615,
+    "PercentInstitutions": 106.243,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0381
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.8611,
+        "totalAssets": 2.829,
+        "currentShares": 845400528,
+        "change": -4937929,
+        "change_p": -0.5807
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.7168,
+        "totalAssets": 2.7766,
+        "currentShares": 722344070,
+        "change": 9522155,
+        "change_p": 1.3358
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.5491,
+        "totalAssets": 2.9061,
+        "currentShares": 381681441,
+        "change": 7584156,
+        "change_p": 2.0273
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.397,
+        "totalAssets": 2.403,
+        "currentShares": 365321874,
+        "change": 172521947,
+        "change_p": 89.4824
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.0822,
+        "totalAssets": 3.9011,
+        "currentShares": 331470804,
+        "change": 2589222,
+        "change_p": 0.7873
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0933,
+        "totalAssets": 3.1938,
+        "currentShares": 225120994,
+        "change": 2479324,
+        "change_p": 1.1136
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5144,
+        "totalAssets": 2.1651,
+        "currentShares": 162864808,
+        "change": 2366189,
+        "change_p": 1.4743
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3297,
+        "totalAssets": 3.3592,
+        "currentShares": 142999597,
+        "change": -15198274,
+        "change_p": -9.6071
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3241,
+        "totalAssets": 3.5163,
+        "currentShares": 142399855,
+        "change": 17334851,
+        "change_p": 13.8607
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9024,
+        "totalAssets": 2.726,
+        "currentShares": 97051517,
+        "change": 454810,
+        "change_p": 0.4708
+      },
+      "10": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.8372,
+        "totalAssets": 3.8363,
+        "currentShares": 90036034,
+        "change": -4248928,
+        "change_p": -4.5065
+      },
+      "11": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.8181,
+        "totalAssets": 7.4983,
+        "currentShares": 87982814,
+        "change": 87557736,
+        "change_p": 20598.0399
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7839,
+        "totalAssets": 1.2554,
+        "currentShares": 84302784,
+        "change": -1334450,
+        "change_p": -1.5583
+      },
+      "13": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6482,
+        "totalAssets": 2.7457,
+        "currentShares": 69705859,
+        "change": 4108526,
+        "change_p": 6.2633
+      },
+      "14": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 0.647,
+        "totalAssets": 2.5176,
+        "currentShares": 69579830,
+        "change": 5665363,
+        "change_p": 8.864
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6439,
+        "totalAssets": 3.3016,
+        "currentShares": 69247324,
+        "change": -8670933,
+        "change_p": -11.1282
+      },
+      "16": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.6158,
+        "totalAssets": 2.6786,
+        "currentShares": 66223281,
+        "change": 7709941,
+        "change_p": 13.1764
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5971,
+        "totalAssets": 1.8178,
+        "currentShares": 64210840,
+        "change": 685132,
+        "change_p": 1.0785
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5953,
+        "totalAssets": 2.2963,
+        "currentShares": 64023640,
+        "change": 611472,
+        "change_p": 0.9643
+      },
+      "19": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5498,
+        "totalAssets": 3.5738,
+        "currentShares": 59129590,
+        "change": -3420204,
+        "change_p": -5.468
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8538,
+        "totalAssets": 3.2014,
+        "currentShares": 306900330,
+        "change": 2576756,
+        "change_p": 0.8467
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3131,
+        "totalAssets": 3.641,
+        "currentShares": 248759740,
+        "change": -1452636,
+        "change_p": -0.5806
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1676,
+        "totalAssets": 3.6316,
+        "currentShares": 125569614,
+        "change": -68352,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1512,
+        "totalAssets": 3.4706,
+        "currentShares": 123802237,
+        "change": 204084,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0534,
+        "totalAssets": 3.6286,
+        "currentShares": 113282119,
+        "change": -278418,
+        "change_p": -0.2452
+      },
+      "5": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.7589,
+        "totalAssets": 4.5804,
+        "currentShares": 81610317,
+        "change": -273007,
+        "change_p": -0.3334
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.6516,
+        "totalAssets": 4.5924,
+        "currentShares": 70074627,
+        "change": -509658,
+        "change_p": -0.7221
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5118,
+        "totalAssets": 3.632,
+        "currentShares": 55037410,
+        "change": -68822,
+        "change_p": -0.1249
+      },
+      "8": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4849,
+        "totalAssets": 3.5945,
+        "currentShares": 52146994,
+        "change": 289300,
+        "change_p": 0.5579
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4744,
+        "totalAssets": 3.4683,
+        "currentShares": 51023428,
+        "change": 5965306,
+        "change_p": 13.2391
+      },
+      "10": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.419,
+        "totalAssets": 3.0956,
+        "currentShares": 45058122,
+        "change": -7751711,
+        "change_p": -14.6785
+      },
+      "11": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4103,
+        "totalAssets": 3.6275,
+        "currentShares": 44122058,
+        "change": 436002,
+        "change_p": 0.998
+      },
+      "12": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.4072,
+        "totalAssets": 5.42,
+        "currentShares": 43789020,
+        "change": -2047600,
+        "change_p": -4.4672
+      },
+      "13": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.359,
+        "totalAssets": 4.8469,
+        "currentShares": 38610081,
+        "change": 7419428,
+        "change_p": 23.7873
+      },
+      "14": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3588,
+        "totalAssets": 3.8414,
+        "currentShares": 38582455,
+        "change": -360492,
+        "change_p": -0.9257
+      },
+      "15": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3588,
+        "totalAssets": 3.8414,
+        "currentShares": 38582455,
+        "change": -360492,
+        "change_p": -0.9257
+      },
+      "16": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3588,
+        "totalAssets": 3.8414,
+        "currentShares": 38582455,
+        "change": 38582455,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3281,
+        "totalAssets": 3.6121,
+        "currentShares": 35285046,
+        "change": 16013,
+        "change_p": 0.0454
+      },
+      "18": {
+        "name": "Russell 1000 Index Fund",
+        "date": "2026-03-31",
+        "totalShares": 0.2907,
+        "totalAssets": 3.3293,
+        "currentShares": 31258540,
+        "change": 265757,
+        "change_p": 0.8575
+      },
+      "19": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.29,
+        "totalAssets": 4.0916,
+        "currentShares": 31190653,
+        "change": 550655,
+        "change_p": 1.7972
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 36.7674,
+    "ForwardPE": 31.348,
+    "PriceSalesTTM": 3.96,
+    "PriceBookMRQ": 6.6734,
+    "EnterpriseValue": 2868972932418,
+    "EnterpriseValueRevenue": 3.8681,
+    "EnterpriseValueEbitda": 16.7723
+  },
+  "Highlights": {
+    "MarketCapitalization": 2839014801408,
+    "MarketCapitalizationMln": 2839014.8014,
+    "EBITDA": 145730994176,
+    "PERatio": 36.7674,
+    "PEGRatio": 1.8456,
+    "WallStreetTargetPrice": 283.4766,
+    "BookValue": 38.306,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 7.18,
+    "EPSEstimateCurrentYear": 7.7577,
+    "EPSEstimateNextYear": 9.5573,
+    "EPSEstimateNextQuarter": 1.7189,
+    "EPSEstimateCurrentQuarter": 1.9596,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1083,
+    "OperatingMarginTTM": 0.1053,
+    "ReturnOnAssetsTTM": 0.0693,
+    "ReturnOnEquityTTM": 0.2229,
+    "RevenueTTM": 716923994112,
+    "RevenuePerShareTTM": 67.279,
+    "QuarterlyRevenueGrowthYOY": 0.136,
+    "GrossProfitTTM": 360509997056,
+    "DilutedEpsTTM": 7.18,
+    "QuarterlyEarningsGrowthYOY": 0.05
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.42,
+    "TotalEsgPercentile": 52.16,
+    "EnvironmentScore": 10.63,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 18.52,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 12.78,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AMZN",
+    "Type": "Common Stock",
+    "Name": "Amazon.com Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BVPV84",
+    "ISIN": "US0231351067",
+    "LEI": "ZXTILKJKG63JELOEG630",
+    "PrimaryTicker": "AMZN.US",
+    "CUSIP": "023135106",
+    "CIK": "0001018724",
+    "EmployerIdNumber": "91-1646860",
+    "FiscalYearEnd": "December",
+    "IPODate": "1997-05-15",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Internet Retail",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Discretionary Distribution & Retail",
+    "GicIndustry": "Broadline Retail",
+    "GicSubIndustry": "Broadline Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS). It also manufactures and sells electronic devices, including Kindle, fire tablets, fire TVs, echo, ring, blink, and eero; and develops and produces media content. In addition, the company offers programs that enable sellers to sell their products in its stores; and programs that allow authors, independent publishers, musicians, filmmakers, Twitch streamers, skill and app developers, and others to publish and sell content. Further, it provides compute, storage, Artificial intelligence, database, analytics, machine learning, and other services, as well as advertising services through programs, such as sponsored ads, display, and video advertising. Additionally, the company offers Amazon Prime, a membership program. The company's products offered through its stores include merchandise and content purchased for resale and products offered by third-party sellers. It serves consumers, sellers, developers, enterprises, content creators, advertisers, and employees. The company was incorporated in 1994 and is headquartered in Seattle, Washington.",
+    "Address": "410 Terry Avenue North, Seattle, WA, United States, 98109-5210",
+    "AddressData": {
+      "Street": "410 Terry Avenue North",
+      "City": "Seattle",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98109-5210"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AMZO34",
+        "Exchange": "SA",
+        "Name": "Amazon.com Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jeffrey P. Bezos",
+        "Title": "Founder & Executive Chairman",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Andrew R. Jassy",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Brian T. Olsavsky",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. David A. Zapolsky J.D.",
+        "Title": "Senior VP and Chief Global Affairs & Legal Officer",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Douglas J. Herrington",
+        "Title": "Chief Executive Officer of Worldwide Amazon Stores",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Mr. Matthew S. Garman",
+        "Title": "Chief Executive Officer of Amazon Web Series",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Ms. Shelley L. Reynolds",
+        "Title": "VP, Worldwide Controller & Principal Accounting Officer",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Dr. Werner  Vogels",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Dave  Fildes",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Drew  Herdener",
+        "Title": "Senior Vice President of Communications & Corporate Responsibility",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "206 266 1000",
+    "WebURL": "https://www.amazon.com",
+    "LogoURL": "/img/logos/US/amzn.png",
+    "FullTimeEmployees": 1576000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 10754251799,
+    "SharesFloat": 9756110785,
+    "PercentInsiders": 8.944,
+    "PercentInstitutions": 67.415,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0089
+  }
+}

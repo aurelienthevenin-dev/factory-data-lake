@@ -1,0 +1,39 @@
+{
+  "_doc": "Canonical investable universe — human-maintained, version-controlled. EODHD INDX endpoints drift (SMI stale composition, SX5E missing Italian .MI names, SP100 double-counts GOOG+GOOGL). This file is the SOURCE OF TRUTH for index membership; sync-index-constituents.ts unions it with EODHD and logs divergence. Update on rebalance (SMI annually, SX5E annually, SP100/500 quarterly). When the integration test fails, this is what to edit.",
+  "lastReviewed": "2026-04-21",
+
+  "SMI": {
+    "expectedCount": 20,
+    "members": [
+      "ABBN.SW", "ALC.SW",  "CFR.SW",  "GEBN.SW", "GIVN.SW",
+      "HOLN.SW", "KNIN.SW", "LOGN.SW", "LONN.SW", "NESN.SW",
+      "NOVN.SW", "PGHN.SW", "ROG.SW",  "SGSN.SW", "SIKA.SW",
+      "SLHN.SW", "SOON.SW", "SREN.SW", "UBSG.SW", "ZURN.SW"
+    ],
+    "note": "EODHD SSMI.INDX returns a ~2017 snapshot (18 names) with rotated-out members (ADEN, BAER, SCMN, UHR) and missing current members (ALC, HOLN, KNIN, LOGN, PGHN, SOON). Canonical list overrides."
+  },
+
+  "SP100": {
+    "expectedCount": 100,
+    "excludeFromEodhd": ["GOOG.US"],
+    "note": "EODHD OEX.INDX returns 101 (both GOOG Class C + GOOGL Class A). SP100 methodology counts dual-class issuers once — drop GOOG, keep GOOGL (voting class)."
+  },
+
+  "EUROSTOXX50": {
+    "expectedCount": 50,
+    "addToEodhd": [
+      { "eodhd": "RACE.US", "yahoo": "RACE",   "scrapeable": true,  "note": "Ferrari — Milan primary (RACE.MI), NYSE dual-listed. EODHD catalogs only the US leg." },
+      { "eodhd": "STLA.US", "yahoo": "STLA",   "scrapeable": true,  "note": "Stellantis — NYSE primary for US data, Milan leg STLAM.MI not catalogued by EODHD." },
+      { "eodhd": "ENEL.MI", "yahoo": "ENEL.MI","scrapeable": false, "note": "Borsa Italiana absent from EODHD exchanges-list; no US dual-listing with meaningful liquidity. Skipped by screener; roster member for completeness." },
+      { "eodhd": "ENI.MI",  "yahoo": "ENI.MI", "scrapeable": false, "note": "Same catalog gap as ENEL.MI. US ADR E.US exists but has different ISIN and lower liquidity." },
+      { "eodhd": "ISP.MI",  "yahoo": "ISP.MI", "scrapeable": false, "note": "Intesa Sanpaolo — same catalog gap. ADR ISNPY trades OTC only, not suitable." }
+    ],
+    "note": "EODHD SX5E.INDX returns 48; Borsa Italiana not in /exchanges-list so 5 .MI names (ENEL, ENI, ISP, RACE, STLAM) return null fundamentals. RACE/STLA added via US dual-listings (scrapeable); ENEL/ENI/ISP stay as roster-only with scrapeable=false."
+  },
+
+  "SP500": {
+    "expectedCountMin": 500,
+    "expectedCountMax": 510,
+    "note": "S&P 500 has 500 companies but ~503-505 issues (dual-class: GOOG/GOOGL, FOX/FOXA, NWS/NWSA, BF.A/BF.B). EODHD GSPC.INDX returns 503 — within tolerance. Full roster too large to hand-maintain; trust EODHD for SP500 and gate on count range."
+  }
+}

@@ -1,0 +1,576 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.7452,
+        "totalAssets": 0.1063,
+        "currentShares": 38989266,
+        "change": 40646,
+        "change_p": 0.1044
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.1906,
+        "totalAssets": 0.1034,
+        "currentShares": 28768707,
+        "change": 598909,
+        "change_p": 2.1261
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.7744,
+        "totalAssets": 0.1075,
+        "currentShares": 15101014,
+        "change": -17176,
+        "change_p": -0.1136
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3229,
+        "totalAssets": 0.1078,
+        "currentShares": 9293485,
+        "change": 97220,
+        "change_p": 1.0572
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8388,
+        "totalAssets": 0.0705,
+        "currentShares": 7356711,
+        "change": -1540544,
+        "change_p": -17.3148
+      },
+      "5": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2276,
+        "totalAssets": 0.0988,
+        "currentShares": 4911318,
+        "change": 758536,
+        "change_p": 18.2657
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2139,
+        "totalAssets": 0.1571,
+        "currentShares": 4856762,
+        "change": -54604,
+        "change_p": -1.1118
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0889,
+        "totalAssets": 0.0541,
+        "currentShares": 4356450,
+        "change": 142976,
+        "change_p": 3.3933
+      },
+      "8": {
+        "name": "Fort Washington Investment Advisors Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0629,
+        "totalAssets": 4.2592,
+        "currentShares": 4252541,
+        "change": 220,
+        "change_p": 0.0052
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0581,
+        "totalAssets": 0.026,
+        "currentShares": 4233422,
+        "change": 1855301,
+        "change_p": 78.0154
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0148,
+        "totalAssets": 0.1066,
+        "currentShares": 4060006,
+        "change": -29414,
+        "change_p": -0.7193
+      },
+      "11": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.8415,
+        "totalAssets": 0.1132,
+        "currentShares": 3366697,
+        "change": -3770243,
+        "change_p": -52.8272
+      },
+      "12": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.6822,
+        "totalAssets": 0.4444,
+        "currentShares": 2729394,
+        "change": 158785,
+        "change_p": 6.1769
+      },
+      "13": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6541,
+        "totalAssets": 0.134,
+        "currentShares": 2617151,
+        "change": -96182,
+        "change_p": -3.5448
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.6426,
+        "totalAssets": 0.0565,
+        "currentShares": 2570960,
+        "change": 84120,
+        "change_p": 3.3826
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6398,
+        "totalAssets": 0.1205,
+        "currentShares": 2559852,
+        "change": 12841,
+        "change_p": 0.5042
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6099,
+        "totalAssets": 0.0563,
+        "currentShares": 2440216,
+        "change": 52486,
+        "change_p": 2.1982
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6098,
+        "totalAssets": 0.1087,
+        "currentShares": 2439726,
+        "change": -871305,
+        "change_p": -26.3152
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5816,
+        "totalAssets": 0.0971,
+        "currentShares": 2327098,
+        "change": -33353,
+        "change_p": -1.413
+      },
+      "19": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.5648,
+        "totalAssets": 0.1155,
+        "currentShares": 2259786,
+        "change": 36375,
+        "change_p": 1.636
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.6974,
+        "totalAssets": 0.0914,
+        "currentShares": 10791782,
+        "change": -12708,
+        "change_p": -0.1176
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.1633,
+        "totalAssets": 0.1029,
+        "currentShares": 8655188,
+        "change": -131159,
+        "change_p": -1.4928
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0977,
+        "totalAssets": 0.3825,
+        "currentShares": 8392733,
+        "change": -28079,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.092,
+        "totalAssets": 0.1026,
+        "currentShares": 4368977,
+        "change": -2376,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0865,
+        "totalAssets": 0.1167,
+        "currentShares": 4347120,
+        "change": 7166,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9834,
+        "totalAssets": 0.1024,
+        "currentShares": 3934512,
+        "change": -9702,
+        "change_p": -0.246
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9597,
+        "totalAssets": 0.2044,
+        "currentShares": 3839637,
+        "change": -125335,
+        "change_p": -3.1611
+      },
+      "7": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.9176,
+        "totalAssets": 0.3125,
+        "currentShares": 3671327,
+        "change": -40837,
+        "change_p": -1.1001
+      },
+      "8": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 0.5241,
+        "totalAssets": 1.1865,
+        "currentShares": 2096836,
+        "change": -94700,
+        "change_p": -4.3212
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4787,
+        "totalAssets": 0.1026,
+        "currentShares": 1915028,
+        "change": -20771,
+        "change_p": -1.073
+      },
+      "10": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4757,
+        "totalAssets": 0.2742,
+        "currentShares": 1903171,
+        "change": 21888,
+        "change_p": 1.1635
+      },
+      "11": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4721,
+        "totalAssets": 1.1368,
+        "currentShares": 1888844,
+        "change": -13080,
+        "change_p": -0.6877
+      },
+      "12": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 0.4562,
+        "totalAssets": 1.1965,
+        "currentShares": 1825000,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4535,
+        "totalAssets": 0.1016,
+        "currentShares": 1814505,
+        "change": -6400,
+        "change_p": -0.3515
+      },
+      "14": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3887,
+        "totalAssets": 0.3815,
+        "currentShares": 1555221,
+        "change": 6696,
+        "change_p": 0.4324
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3837,
+        "totalAssets": 0.1025,
+        "currentShares": 1535251,
+        "change": 1269,
+        "change_p": 0.0827
+      },
+      "16": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3811,
+        "totalAssets": 0.5547,
+        "currentShares": 1524617,
+        "change": -945,
+        "change_p": -0.0619
+      },
+      "17": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3468,
+        "totalAssets": 0.2098,
+        "currentShares": 1387657,
+        "change": 1320,
+        "change_p": 0.0952
+      },
+      "18": {
+        "name": "T. Rowe Price Growth Stock",
+        "date": "2026-03-31",
+        "totalShares": 0.3413,
+        "totalAssets": 0.5234,
+        "currentShares": 1365628,
+        "change": 441400,
+        "change_p": 47.7588
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3408,
+        "totalAssets": 0.1106,
+        "currentShares": 1363362,
+        "change": -5192,
+        "change_p": -0.3794
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.4255,
+    "ForwardPE": 32.8947,
+    "PriceSalesTTM": 6.382,
+    "PriceBookMRQ": 14.8408,
+    "EnterpriseValue": 73798457076,
+    "EnterpriseValueRevenue": 6.6924,
+    "EnterpriseValueEbitda": 24.2328
+  },
+  "Highlights": {
+    "MarketCapitalization": 70375317504,
+    "MarketCapitalizationMln": 70375.3175,
+    "EBITDA": 2903095040,
+    "PERatio": 37.4255,
+    "PEGRatio": 2.8234,
+    "WallStreetTargetPrice": 212.4118,
+    "BookValue": 11.971,
+    "DividendShare": 1.74,
+    "DividendYield": 0.0098,
+    "EarningsShare": 4.7,
+    "EPSEstimateCurrentYear": 4.8875,
+    "EPSEstimateNextYear": 5.4247,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.2351,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.1757,
+    "OperatingMarginTTM": 0.2322,
+    "ReturnOnAssetsTTM": 0.1594,
+    "ReturnOnEquityTTM": 0.413,
+    "RevenueTTM": 11027210240,
+    "RevenuePerShareTTM": 27.426,
+    "QuarterlyRevenueGrowthYOY": 0.089,
+    "GrossProfitTTM": 5553490944,
+    "DilutedEpsTTM": 4.7,
+    "QuarterlyEarningsGrowthYOY": 0.097
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.38,
+    "TotalEsgPercentile": 42.24,
+    "EnvironmentScore": 6.48,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 14.95,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 10.44,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CTAS",
+    "Type": "Common Stock",
+    "Name": "Cintas Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000H3YXF8",
+    "ISIN": "US1729081059",
+    "LEI": "549300QVUQTTKMTE0G41",
+    "PrimaryTicker": "CTAS.US",
+    "CUSIP": "172908105",
+    "CIK": "0000723254",
+    "EmployerIdNumber": "31-1188630",
+    "FiscalYearEnd": "May",
+    "IPODate": "1983-08-19",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Business Services",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Commercial Services & Supplies",
+    "GicSubIndustry": "Diversified Support Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Cintas Corporation engages in the provision of corporate identity uniforms and related business services primarily in the United States, Canada, and Latin America. It operates through Uniform Rental and Facility Services, First Aid and Safety Services, and All Other segments. The company rents and services uniforms and other garments, including flame resistant clothing, mats, mops and shop towels, and other ancillary items; and provides restroom cleaning services and supplies, as well as sells uniforms. In addition, the company offers first aid and safety services, and fire protection products and services. It provides its products and services through its distribution network and local delivery routes, or local representatives to small service and manufacturing companies, as well as major corporations. The company was founded in 1968 and is based in Cincinnati, Ohio. Cintas Corporation was formerly a subsidiary of Cintas Corporation.",
+    "Address": "6800 Cintas Boulevard, Cincinnati, OH, United States, 45262-5737",
+    "AddressData": {
+      "Street": "6800 Cintas Boulevard",
+      "City": "Cincinnati",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "45262-5737"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Scott D. Farmer",
+        "Title": "Executive Chairman",
+        "YearBorn": "1959"
+      },
+      "1": {
+        "Name": "Mr. Todd M. Schneider",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. James N. Rozakis",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Mr. David Brock Denton",
+        "Title": "Senior VP, Secretary & General Counsel",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Scott A. Garula",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Jared S. Mattingley",
+        "Title": "VP, Treasurer, Investor Relations & Corporate Controller",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Max  Langenkamp",
+        "Title": "Senior Vice President of Human Resources",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. William L. Cronin",
+        "Title": "Senior VP & Assistant to CEO",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "513 459 1200",
+    "WebURL": "https://www.cintas.com",
+    "LogoURL": "/img/logos/US/CTAS.png",
+    "FullTimeEmployees": 48300,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 400087119,
+    "SharesFloat": 342082488,
+    "PercentInsiders": 14.974000000000002,
+    "PercentInstitutions": 68.074,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0333
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.4857,
+        "totalAssets": 0.0178,
+        "currentShares": 41584782,
+        "change": 399487,
+        "change_p": 0.97
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.4455,
+        "totalAssets": 0.0134,
+        "currentShares": 29527917,
+        "change": 916447,
+        "change_p": 3.2031
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.0717,
+        "totalAssets": 0.0422,
+        "currentShares": 28045311,
+        "change": 15741014,
+        "change_p": 127.931
+      },
+      "3": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 5.1894,
+        "totalAssets": 0.5043,
+        "currentShares": 20580514,
+        "change": -1266152,
+        "change_p": -5.7956
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.314,
+        "totalAssets": 0.0153,
+        "currentShares": 17108595,
+        "change": -162036,
+        "change_p": -0.9382
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.2346,
+        "totalAssets": 0.0515,
+        "currentShares": 12828040,
+        "change": 12828040,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.512,
+        "totalAssets": 0.0156,
+        "currentShares": 9962232,
+        "change": 1858694,
+        "change_p": 22.9368
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3247,
+        "totalAssets": 0.0168,
+        "currentShares": 9219644,
+        "change": -29708,
+        "change_p": -0.3212
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0717,
+        "totalAssets": 0.0334,
+        "currentShares": 8216163,
+        "change": 1115131,
+        "change_p": 15.7038
+      },
+      "9": {
+        "name": "Theleme Partners LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.0378,
+        "totalAssets": 15.5152,
+        "currentShares": 8081810,
+        "change": 13000,
+        "change_p": 0.1611
+      },
+      "10": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9491,
+        "totalAssets": 0.4432,
+        "currentShares": 7729700,
+        "change": 956800,
+        "change_p": 14.1269
+      },
+      "11": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8513,
+        "totalAssets": 0.3054,
+        "currentShares": 7342096,
+        "change": -187885,
+        "change_p": -2.4952
+      },
+      "12": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3068,
+        "totalAssets": 0.0838,
+        "currentShares": 5182759,
+        "change": -963615,
+        "change_p": -15.6778
+      },
+      "13": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.2107,
+        "totalAssets": 0.0194,
+        "currentShares": 4801547,
+        "change": 859315,
+        "change_p": 21.7977
+      },
+      "14": {
+        "name": "Flagship Ventures Management, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.168,
+        "totalAssets": 42.1564,
+        "currentShares": 4632149,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1653,
+        "totalAssets": 0.0212,
+        "currentShares": 4621558,
+        "change": 309126,
+        "change_p": 7.1683
+      },
+      "16": {
+        "name": "BNP Paribas Arbitrage, SA",
+        "date": "2025-12-31",
+        "totalShares": 1.047,
+        "totalAssets": 0.0555,
+        "currentShares": 4152432,
+        "change": 3058933,
+        "change_p": 279.7381
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9962,
+        "totalAssets": 0.0143,
+        "currentShares": 3950619,
+        "change": 770870,
+        "change_p": 24.2431
+      },
+      "18": {
+        "name": "Alyeska Investment Group, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.8141,
+        "totalAssets": 0.2689,
+        "currentShares": 3228531,
+        "change": 3228531,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7326,
+        "totalAssets": 0.0096,
+        "currentShares": 2905509,
+        "change": -184772,
+        "change_p": -5.9791
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 3.1519,
+        "totalAssets": 0.2073,
+        "currentShares": 12500000,
+        "change": 2977747,
+        "change_p": 31.2715
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8492,
+        "totalAssets": 0.0288,
+        "currentShares": 11299571,
+        "change": 180399,
+        "change_p": 1.6224
+      },
+      "2": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.4011,
+        "totalAssets": 0.0836,
+        "currentShares": 9522253,
+        "change": 9522253,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2331,
+        "totalAssets": 0.0316,
+        "currentShares": 8856177,
+        "change": -87178,
+        "change_p": -0.9748
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.0692,
+        "totalAssets": 0.2509,
+        "currentShares": 8206078,
+        "change": 220340,
+        "change_p": 2.7592
+      },
+      "5": {
+        "name": "Scottish Mortgage Ord",
+        "date": "2026-02-28",
+        "totalShares": 1.9838,
+        "totalAssets": 2.0584,
+        "currentShares": 7867553,
+        "change": 1783,
+        "change_p": 0.0227
+      },
+      "6": {
+        "name": "Vanguard International Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.5346,
+        "totalAssets": 0.4043,
+        "currentShares": 6086166,
+        "change": -156402,
+        "change_p": -2.5054
+      },
+      "7": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 1.4164,
+        "totalAssets": 0.2767,
+        "currentShares": 5617183,
+        "change": 899700,
+        "change_p": 19.0716
+      },
+      "8": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3168,
+        "totalAssets": 0.4368,
+        "currentShares": 5222306,
+        "change": 94066,
+        "change_p": 1.8343
+      },
+      "9": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 1.2135,
+        "totalAssets": 0.3126,
+        "currentShares": 4812597,
+        "change": 705700,
+        "change_p": 17.1833
+      },
+      "10": {
+        "name": "Fidelity OTC",
+        "date": "2026-02-28",
+        "totalShares": 1.1306,
+        "totalAssets": 0.6704,
+        "currentShares": 4483800,
+        "change": 426200,
+        "change_p": 10.5037
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1272,
+        "totalAssets": 0.0315,
+        "currentShares": 4470372,
+        "change": -2436,
+        "change_p": -0.0545
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1158,
+        "totalAssets": 0.0316,
+        "currentShares": 4424989,
+        "change": 7299,
+        "change_p": 0.1652
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0168,
+        "totalAssets": 0.0315,
+        "currentShares": 4032671,
+        "change": -9898,
+        "change_p": -0.2448
+      },
+      "14": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 1.0086,
+        "totalAssets": 0.4092,
+        "currentShares": 4000000,
+        "change": 952900,
+        "change_p": 31.2724
+      },
+      "15": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.8505,
+        "totalAssets": 0.1065,
+        "currentShares": 3372980,
+        "change": 452057,
+        "change_p": 15.4765
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7822,
+        "totalAssets": 0.1848,
+        "currentShares": 3102222,
+        "change": 9170,
+        "change_p": 0.2965
+      },
+      "17": {
+        "name": "Capital Group Growth Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.7683,
+        "totalAssets": 0.1643,
+        "currentShares": 3047100,
+        "change": 3047100,
+        "change_p": 0
+      },
+      "18": {
+        "name": "iShares Biotechnology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6803,
+        "totalAssets": 1.6837,
+        "currentShares": 2698057,
+        "change": 5598,
+        "change_p": 0.2079
+      },
+      "19": {
+        "name": "Baillie Gifford US Equity Growth",
+        "date": "2026-02-28",
+        "totalShares": 0.643,
+        "totalAssets": 1.6845,
+        "currentShares": 2550076,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 23.0415,
+    "PriceSalesTTM": 10.3492,
+    "PriceBookMRQ": 2.4231,
+    "EnterpriseValue": 15624851509,
+    "EnterpriseValueRevenue": 8.5669,
+    "EnterpriseValueEbitda": 4.6412
+  },
+  "Highlights": {
+    "MarketCapitalization": 20118851584,
+    "MarketCapitalizationMln": 20118.8516,
+    "EBITDA": -2859000064,
+    "PERatio": null,
+    "PEGRatio": 0,
+    "WallStreetTargetPrice": 46.1,
+    "BookValue": 21.954,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": -7.26,
+    "EPSEstimateCurrentYear": -7.3792,
+    "EPSEstimateNextYear": -4.5535,
+    "EPSEstimateNextQuarter": -2.1913,
+    "EPSEstimateCurrentQuarter": -2.601,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -1.4516,
+    "OperatingMarginTTM": -1.264,
+    "ReturnOnAssetsTTM": -0.1451,
+    "ReturnOnEquityTTM": -0.2887,
+    "RevenueTTM": 1944000000,
+    "RevenuePerShareTTM": 4.997,
+    "QuarterlyRevenueGrowthYOY": -0.298,
+    "GrossProfitTTM": -2056000000,
+    "DilutedEpsTTM": -7.26,
+    "QuarterlyEarningsGrowthYOY": -0.851
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "MRNA",
+    "Type": "Common Stock",
+    "Name": "Moderna Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG003PHHZT1",
+    "ISIN": "US60770K1079",
+    "LEI": "549300EI6OKH5K5Q2G38",
+    "PrimaryTicker": "MRNA.US",
+    "CUSIP": "60770K107",
+    "CIK": "0001682852",
+    "EmployerIdNumber": "81-3467528",
+    "FiscalYearEnd": "December",
+    "IPODate": "2018-12-07",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Biotechnology",
+    "GicSubIndustry": "Biotechnology",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Moderna, Inc., a biotechnology company, provides messenger RNA medicines in the United States, Europe, and internationally. The company's respiratory vaccines include spikevax, mNEXSPIKE, mRESVIA, COVID, RSV, seasonal influenza, combination, and pandemic influenza vaccine; latent vaccines comprise cytomegalovirus, epstein-barr virus, and human immunodeficiency virus vaccines; enteric viruses include norovirus; public health vaccines consist of Zika, Nipah, and Mpox vaccines; and bacterial diseases vaccines, such as lyme vaccines. It also provides oncology therapeutics, such as intismeran autogene, cancer antigen therapy, t-cell engager, and cell therapy enhancer; and rare disease products, including propionic and methylmalonic acidemia, and cystic fibrosis. It has strategic alliances and collaborations with Merck & Co., Inc; Vertex Pharmaceuticals Incorporated; Vertex Pharmaceuticals (Europe) Limited; immatics N.V.; Defense Advanced Research Projects Agency; Biomedical Advanced Research and Development Authority; Institute for Life Changing Medicines; The Bill & Melinda Gates Foundation; and OpenAI. The company was formerly known as Moderna Therapeutics, Inc. and changed its name to Moderna, Inc. in August 2018. Moderna, Inc. was founded in 2010 and is headquartered in Cambridge, Massachusetts.",
+    "Address": "325 Binney Street, Cambridge, MA, United States, 02142",
+    "AddressData": {
+      "Street": "325 Binney Street",
+      "City": "Cambridge",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02142"
+    },
+    "Listings": {
+      "0": {
+        "Code": "0QF",
+        "Exchange": "STU",
+        "Name": "MODERNA"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Stéphane  Bancel M.B.A.",
+        "Title": "CEO & Director",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Dr. Stephen  Hoge M.D.",
+        "Title": "President",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. James M. Mock",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Ms. Shannon Thyme Klinger J.D.",
+        "Title": "Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Dr. Jerh  Collins Ph.D.",
+        "Title": "Chief Technical Operations & Quality Officer",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Ms. Lavina  Talukdar CFA",
+        "Title": "Senior VP & Head of Investor Relations",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Ms. Tracey  Franklin",
+        "Title": "Chief People & Digital Technology Officer",
+        "YearBorn": "1980"
+      },
+      "7": {
+        "Name": "Dr. Charbel  Haber M.P.H., Ph.D.",
+        "Title": "Senior VP & Head of Global Regulatory Science",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Patrick Norman Bergstedt",
+        "Title": "Senior Vice President of Commercial Vaccines",
+        "YearBorn": "1962"
+      },
+      "9": {
+        "Name": "Dr. John  Lepore J.D., M.D.",
+        "Title": "Senior Vice President of Government Engagement",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "617 714 6500",
+    "WebURL": "https://www.modernatx.com",
+    "LogoURL": "/img/logos/US/MRNA.png",
+    "FullTimeEmployees": 4700,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 396586862,
+    "SharesFloat": 368427140,
+    "PercentInsiders": 7.316000000000001,
+    "PercentInstitutions": 77.302,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1871
+  }
+}

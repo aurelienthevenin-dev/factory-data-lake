@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 12.5067,
+        "totalAssets": 0.3287,
+        "currentShares": 66221329,
+        "change": 12447372,
+        "change_p": 23.1476
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.1548,
+        "totalAssets": 0.0368,
+        "currentShares": 64357913,
+        "change": 310834,
+        "change_p": 0.4853
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 11.9764,
+        "totalAssets": 0.3916,
+        "currentShares": 63413335,
+        "change": 14422616,
+        "change_p": 29.4395
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 10.2997,
+        "totalAssets": 0.3965,
+        "currentShares": 54535444,
+        "change": 204654,
+        "change_p": 0.3767
+      },
+      "4": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.7737,
+        "totalAssets": 0.0334,
+        "currentShares": 41160707,
+        "change": -468183,
+        "change_p": -1.1247
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.5926,
+        "totalAssets": 0.0477,
+        "currentShares": 29612060,
+        "change": 225444,
+        "change_p": 0.7672
+      },
+      "6": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.1865,
+        "totalAssets": 0.1404,
+        "currentShares": 16872094,
+        "change": -1865802,
+        "change_p": -9.9574
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.66,
+        "totalAssets": 0.0196,
+        "currentShares": 14084428,
+        "change": 6403659,
+        "change_p": 83.3726
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5642,
+        "totalAssets": 0.0329,
+        "currentShares": 13577185,
+        "change": 115558,
+        "change_p": 0.8584
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7226,
+        "totalAssets": 0.0667,
+        "currentShares": 9121170,
+        "change": 960240,
+        "change_p": 11.7663
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.5428,
+        "totalAssets": 0.0945,
+        "currentShares": 8168966,
+        "change": 710017,
+        "change_p": 9.519
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2481,
+        "totalAssets": 0.0186,
+        "currentShares": 6608717,
+        "change": 448905,
+        "change_p": 7.2876
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1991,
+        "totalAssets": 0.0268,
+        "currentShares": 6349147,
+        "change": 333022,
+        "change_p": 5.5355
+      },
+      "13": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.1959,
+        "totalAssets": 0.0339,
+        "currentShares": 6332121,
+        "change": 111311,
+        "change_p": 1.7893
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1721,
+        "totalAssets": 0.03,
+        "currentShares": 6206041,
+        "change": 663423,
+        "change_p": 11.9695
+      },
+      "15": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.03,
+        "totalAssets": 1.1007,
+        "currentShares": 5453523,
+        "change": -32255,
+        "change_p": -0.588
+      },
+      "16": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0023,
+        "totalAssets": 0.0827,
+        "currentShares": 5307193,
+        "change": 1278183,
+        "change_p": 31.7245
+      },
+      "17": {
+        "name": "Atlas FRM LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9443,
+        "totalAssets": 19.2366,
+        "currentShares": 5000000,
+        "change": 1800000,
+        "change_p": 56.25
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9045,
+        "totalAssets": 0.0284,
+        "currentShares": 4789211,
+        "change": -149058,
+        "change_p": -3.0184
+      },
+      "19": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.8872,
+        "totalAssets": 0.0357,
+        "currentShares": 4697790,
+        "change": -6181600,
+        "change_p": -56.8194
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 7.9745,
+        "totalAssets": 1.4914,
+        "currentShares": 42223727,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 6.5985,
+        "totalAssets": 1.1412,
+        "currentShares": 34938367,
+        "change": -7285360,
+        "change_p": -17.2542
+      },
+      "2": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.3591,
+        "totalAssets": 0.4366,
+        "currentShares": 23080570,
+        "change": 2582058,
+        "change_p": 12.5963
+      },
+      "3": {
+        "name": "Capital Group Dividend Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 3.4065,
+        "totalAssets": 2.2089,
+        "currentShares": 18036985,
+        "change": 2297234,
+        "change_p": 14.5951
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1758,
+        "totalAssets": 0.0301,
+        "currentShares": 16815439,
+        "change": 122644,
+        "change_p": 0.7347
+      },
+      "5": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 3.0115,
+        "totalAssets": 0.2855,
+        "currentShares": 15945633,
+        "change": -7134937,
+        "change_p": -30.9132
+      },
+      "6": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.7103,
+        "totalAssets": 0.3088,
+        "currentShares": 14350508,
+        "change": 13514876,
+        "change_p": 1617.3239
+      },
+      "7": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5392,
+        "totalAssets": 0.0337,
+        "currentShares": 13444966,
+        "change": -137333,
+        "change_p": -1.0111
+      },
+      "8": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 2.1922,
+        "totalAssets": 1.4802,
+        "currentShares": 11607515,
+        "change": -679127,
+        "change_p": -5.5274
+      },
+      "9": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1544,
+        "totalAssets": 0.2049,
+        "currentShares": 11407204,
+        "change": -69578,
+        "change_p": -0.6063
+      },
+      "10": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.8797,
+        "totalAssets": 0.8282,
+        "currentShares": 9952768,
+        "change": -5016964,
+        "change_p": -33.5141
+      },
+      "11": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8052,
+        "totalAssets": 0.1121,
+        "currentShares": 9558156,
+        "change": 7050465,
+        "change_p": 281.1537
+      },
+      "12": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.418,
+        "totalAssets": 0.1741,
+        "currentShares": 7508111,
+        "change": 3533259,
+        "change_p": 88.8903
+      },
+      "13": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.4176,
+        "totalAssets": 0.8404,
+        "currentShares": 7506006,
+        "change": -2142000,
+        "change_p": -22.2015
+      },
+      "14": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3671,
+        "totalAssets": 1.1594,
+        "currentShares": 7238436,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2819,
+        "totalAssets": 0.0337,
+        "currentShares": 6787633,
+        "change": -3696,
+        "change_p": -0.0544
+      },
+      "16": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2691,
+        "totalAssets": 0.0391,
+        "currentShares": 6719953,
+        "change": 11086,
+        "change_p": 0.1652
+      },
+      "17": {
+        "name": "American Funds IS® Growth-Income 1",
+        "date": "2026-03-31",
+        "totalShares": 1.2094,
+        "totalAssets": 0.5602,
+        "currentShares": 6403770,
+        "change": 597196,
+        "change_p": 10.2848
+      },
+      "18": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1532,
+        "totalAssets": 0.0335,
+        "currentShares": 6105930,
+        "change": -15043,
+        "change_p": -0.2458
+      },
+      "19": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.0966,
+        "totalAssets": 0.5243,
+        "currentShares": 5806574,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 19.802,
+    "PriceSalesTTM": 0.7315,
+    "PriceBookMRQ": 1.1977,
+    "EnterpriseValue": 26930967516,
+    "EnterpriseValueRevenue": 1.1395,
+    "EnterpriseValueEbitda": 414.3226
+  },
+  "Highlights": {
+    "MarketCapitalization": 17287725056,
+    "MarketCapitalizationMln": 17287.7251,
+    "EBITDA": 3948000000,
+    "PERatio": null,
+    "PEGRatio": 1.5804,
+    "WallStreetTargetPrice": 42.7,
+    "BookValue": 28.079,
+    "DividendShare": 1.85,
+    "DividendYield": 0.0552,
+    "EarningsShare": -5.61,
+    "EPSEstimateCurrentYear": 1.563,
+    "EPSEstimateNextYear": 2.7687,
+    "EPSEstimateNextQuarter": 0.2943,
+    "EPSEstimateCurrentQuarter": 0.2509,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.1488,
+    "OperatingMarginTTM": 0.0648,
+    "ReturnOnAssetsTTM": 0.0247,
+    "ReturnOnEquityTTM": -0.2468,
+    "RevenueTTM": 23633999872,
+    "RevenuePerShareTTM": 46.735,
+    "QuarterlyRevenueGrowthYOY": 0.531,
+    "GrossProfitTTM": 7027999744,
+    "DilutedEpsTTM": -5.61,
+    "QuarterlyEarningsGrowthYOY": -0.901
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.48,
+    "TotalEsgPercentile": 39.22,
+    "EnvironmentScore": 14.24,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 0.67,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 1.57,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "IP",
+    "Type": "Common Stock",
+    "Name": "International Paper",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BM5SR2",
+    "ISIN": "US4601461035",
+    "LEI": "824LMFJDH41EY779Q875",
+    "PrimaryTicker": "IP.US",
+    "CUSIP": "460146103",
+    "CIK": "0000051434",
+    "EmployerIdNumber": "13-0872805",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Packaging & Containers",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Containers & Packaging",
+    "GicSubIndustry": "Paper & Plastic Packaging Products & Materials",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "International Paper Company produces and sells renewable fiber-based packaging in North America, Latin America, Europe, South America, and North Africa. It operates through two segments, Packaging Solutions North America and Packaging Solutions EMEA. The company offers linerboard, medium, whitetop, and saturating kraft; and converts containerboard into corrugated boxes, bulk bins, shipping containers and specialty packaging through its converting facilities. Its products support customers in various industries, such as food and beverage, agriculture, industrial manufacturing, personal care pharmaceuticals and consumer goods. The company was founded in 1898 and is headquartered in Memphis, Tennessee.",
+    "Address": "6400 Poplar Avenue, Memphis, TN, United States, 38197",
+    "AddressData": {
+      "Street": "6400 Poplar Avenue",
+      "City": "Memphis",
+      "State": "TN",
+      "Country": "United States",
+      "ZIP": "38197"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Andrew K. Silvernail",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Lance T. Loeffler",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Joseph R. Saab",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Timothy S. Nicholls",
+        "Title": "Executive VP & President of DS Smith",
+        "YearBorn": "1961"
+      },
+      "4": {
+        "Name": "Mr. William Thomas Hamic",
+        "Title": "EVP & President of North American Packaging Solutions",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Michael H. Anderson",
+        "Title": "VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mandi  Gilliland",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Melissa S. Flores",
+        "Title": "Senior Vice President & Chief Human Resources Officer",
+        "YearBorn": "1983"
+      },
+      "8": {
+        "Name": "Ms. Sophie N. Beckham",
+        "Title": "VP & Chief Sustainability Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Errol A. Harris",
+        "Title": "VP & Treasurer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "901 419 9000",
+    "WebURL": "https://www.internationalpaper.com",
+    "LogoURL": "/img/logos/US/IP.png",
+    "FullTimeEmployees": 62602,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 529486211,
+    "SharesFloat": 527033868,
+    "PercentInsiders": 0.194,
+    "PercentInstitutions": 102.644,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.158
+  }
+}

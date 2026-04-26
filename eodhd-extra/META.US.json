@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.9064,
+        "totalAssets": 1.9139,
+        "currentShares": 199995630,
+        "change": 7269279,
+        "change_p": 3.7718
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6215,
+        "totalAssets": 2.1534,
+        "currentShares": 167495652,
+        "change": 1159665,
+        "change_p": 0.6972
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.8365,
+        "totalAssets": 4.1176,
+        "currentShares": 122341612,
+        "change": -7659737,
+        "change_p": -5.892
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.326,
+        "totalAssets": 2.4074,
+        "currentShares": 109429536,
+        "change": 54707666,
+        "change_p": 99.974
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.4174,
+        "totalAssets": 2.2014,
+        "currentShares": 86445582,
+        "change": -480092,
+        "change_p": -0.5523
+      },
+      "5": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.7535,
+        "totalAssets": 5.9359,
+        "currentShares": 69650056,
+        "change": 69519638,
+        "change_p": 53305.2477
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0876,
+        "totalAssets": 2.1435,
+        "currentShares": 52806712,
+        "change": 878396,
+        "change_p": 1.6916
+      },
+      "7": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.5639,
+        "totalAssets": 3.5513,
+        "currentShares": 39558637,
+        "change": 310947,
+        "change_p": 0.7923
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5294,
+        "totalAssets": 3.0396,
+        "currentShares": 38688170,
+        "change": -2309772,
+        "change_p": -5.6339
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.452,
+        "totalAssets": 1.6331,
+        "currentShares": 36729219,
+        "change": -490068,
+        "change_p": -1.3167
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3267,
+        "totalAssets": 2.3698,
+        "currentShares": 33559173,
+        "change": 2187128,
+        "change_p": 6.9716
+      },
+      "11": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.0165,
+        "totalAssets": 2.6607,
+        "currentShares": 25713823,
+        "change": 1224462,
+        "change_p": 5
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8888,
+        "totalAssets": 2.1121,
+        "currentShares": 22481689,
+        "change": -190436,
+        "change_p": -0.84
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7354,
+        "totalAssets": 0.9265,
+        "currentShares": 18601400,
+        "change": 855992,
+        "change_p": 4.8237
+      },
+      "14": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.7066,
+        "totalAssets": 2.1779,
+        "currentShares": 17873714,
+        "change": -5876055,
+        "change_p": -24.7415
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.6781,
+        "totalAssets": 1.9847,
+        "currentShares": 17153754,
+        "change": 142229,
+        "change_p": 0.8361
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6151,
+        "totalAssets": 1.5959,
+        "currentShares": 15559200,
+        "change": 1125021,
+        "change_p": 7.7941
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6114,
+        "totalAssets": 1.2522,
+        "currentShares": 15466876,
+        "change": -2403104,
+        "change_p": -13.4477
+      },
+      "18": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5835,
+        "totalAssets": 2.6217,
+        "currentShares": 14759164,
+        "change": 9264552,
+        "change_p": 168.6116
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5667,
+        "totalAssets": 2.0984,
+        "currentShares": 14334386,
+        "change": 2218,
+        "change_p": 0.0155
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7466,
+        "totalAssets": 1.9909,
+        "currentShares": 69476773,
+        "change": 588675,
+        "change_p": 0.8545
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2019,
+        "totalAssets": 2.2395,
+        "currentShares": 55698056,
+        "change": -318544,
+        "change_p": -0.5687
+      },
+      "2": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 1.1683,
+        "totalAssets": 11.2909,
+        "currentShares": 29554059,
+        "change": -1460900,
+        "change_p": -4.7103
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1114,
+        "totalAssets": 2.2336,
+        "currentShares": 28113995,
+        "change": -15300,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0957,
+        "totalAssets": 2.3982,
+        "currentShares": 27716371,
+        "change": 45690,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0027,
+        "totalAssets": 2.2318,
+        "currentShares": 25363279,
+        "change": -62328,
+        "change_p": -0.2451
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.911,
+        "totalAssets": 4.1487,
+        "currentShares": 23044175,
+        "change": 49572,
+        "change_p": 0.2156
+      },
+      "7": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.8864,
+        "totalAssets": 3.457,
+        "currentShares": 22422049,
+        "change": -74992,
+        "change_p": -0.3333
+      },
+      "8": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.8737,
+        "totalAssets": 4.127,
+        "currentShares": 22101562,
+        "change": 2233488,
+        "change_p": 11.2416
+      },
+      "9": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7854,
+        "totalAssets": 3.9035,
+        "currentShares": 19868074,
+        "change": -2679474,
+        "change_p": -11.8837
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4871,
+        "totalAssets": 2.2339,
+        "currentShares": 12322587,
+        "change": -14412,
+        "change_p": -0.1168
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4616,
+        "totalAssets": 2.2108,
+        "currentShares": 11675455,
+        "change": 65760,
+        "change_p": 0.5664
+      },
+      "12": {
+        "name": "Fidelity Contrafund Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.4021,
+        "totalAssets": 10.4188,
+        "currentShares": 10172149,
+        "change": -220808,
+        "change_p": -2.1246
+      },
+      "13": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3905,
+        "totalAssets": 2.2311,
+        "currentShares": 9878698,
+        "change": 98450,
+        "change_p": 1.0066
+      },
+      "14": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.387,
+        "totalAssets": 3.6676,
+        "currentShares": 9790623,
+        "change": 88185,
+        "change_p": 0.9089
+      },
+      "15": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3836,
+        "totalAssets": 3.9359,
+        "currentShares": 9702438,
+        "change": 481039,
+        "change_p": 5.2166
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3415,
+        "totalAssets": 2.4595,
+        "currentShares": 8638175,
+        "change": -65088,
+        "change_p": -0.7479
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3415,
+        "totalAssets": 2.4595,
+        "currentShares": 8638175,
+        "change": 8638175,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3415,
+        "totalAssets": 2.4595,
+        "currentShares": 8638175,
+        "change": -65088,
+        "change_p": -0.7479
+      },
+      "19": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3199,
+        "totalAssets": 2.7902,
+        "currentShares": 8091111,
+        "change": 2203808,
+        "change_p": 37.4332
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.7369,
+    "ForwardPE": 22.6244,
+    "PriceSalesTTM": 8.5264,
+    "PriceBookMRQ": 7.8875,
+    "EnterpriseValue": 1715816882898,
+    "EnterpriseValueRevenue": 8.5378,
+    "EnterpriseValueEbitda": 16.2309
+  },
+  "Highlights": {
+    "MarketCapitalization": 1713511989248,
+    "MarketCapitalizationMln": 1713511.9892,
+    "EBITDA": 101891997696,
+    "PERatio": 28.7369,
+    "PEGRatio": 1.1035,
+    "WallStreetTargetPrice": 855.1127,
+    "BookValue": 85.867,
+    "DividendShare": 2.1,
+    "DividendYield": 0.0032,
+    "EarningsShare": 23.49,
+    "EPSEstimateCurrentYear": 29.5891,
+    "EPSEstimateNextYear": 34.3788,
+    "EPSEstimateNextQuarter": 6.356,
+    "EPSEstimateCurrentQuarter": 8.2225,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3008,
+    "OperatingMarginTTM": 0.4131,
+    "ReturnOnAssetsTTM": 0.1621,
+    "ReturnOnEquityTTM": 0.3024,
+    "RevenueTTM": 200965996544,
+    "RevenuePerShareTTM": 79.717,
+    "QuarterlyRevenueGrowthYOY": 0.238,
+    "GrossProfitTTM": 164790992896,
+    "DilutedEpsTTM": 23.49,
+    "QuarterlyEarningsGrowthYOY": 0.107
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.4,
+    "TotalEsgPercentile": 59.14,
+    "EnvironmentScore": 0.07,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 13.68,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 8.28,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "META",
+    "Type": "Common Stock",
+    "Name": "Meta Platforms Inc.",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000MM2P62",
+    "ISIN": "US30303M1027",
+    "LEI": "BQ4BKCS1HXDV9HN80Z93",
+    "PrimaryTicker": "META.US",
+    "CUSIP": "30303M102",
+    "CIK": "0001326801",
+    "EmployerIdNumber": "20-1665019",
+    "FiscalYearEnd": "December",
+    "IPODate": "2012-05-18",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Internet Content & Information",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Interactive Media & Services",
+    "GicSubIndustry": "Interactive Media & Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses in the United States, Canada, Europe, Asia-Pacific, and internationally. It operates through two segments, Family of Apps (FoA) and Reality Labs (RL). The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that brings people closer through Instagram feed, stories, reels, live, and messaging; Messenger, a messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls; Meta AI, an assistant that's available across apps, as a stand-alone app, on AI glasses, and on the web; Threads, an application for text-based updates and public conversations; and WhatsApp, a messaging application that is used by people and businesses to communicate and transact in a private way. The RL segment provides virtual and augmented reality products, including consumer hardware, software, and content that help people feel connected anytime and anywhere, as well as Meta Quest devices that enable social experiences across gaming, fitness, entertainment, and more. The segment also includes wearables such as AI glasses like Ray Ban Meta and Oakley Meta glasses, featuring Meta AI for advanced conversational and hands free interaction; and the Meta Ray Ban Display, which combines AI glasses with an integrated lens display and the Meta Neural Band, a wrist worn device using electromyography that lets people control their AI glasses through neuromuscular signals. Meta Platforms, Inc. has a collaboration with Microsoft Corporation, NVIDIA Corporation, Advanced Micro Devices, Inc., Broadcom Inc., and OpenAI, L.L.C. The company was formerly known as Facebook, Inc. and changed its name to Meta Platforms, Inc. in October 2021. The company was incorporated in ",
+    "Address": "1 Meta Way, Menlo Park, CA, United States, 94025",
+    "AddressData": {
+      "Street": "1 Meta Way",
+      "City": "Menlo Park",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94025"
+    },
+    "Listings": {
+      "0": {
+        "Code": "FB2A",
+        "Exchange": "F",
+        "Name": "Meta Platforms Inc"
+      },
+      "1": {
+        "Code": "FB2A",
+        "Exchange": "XETRA",
+        "Name": "Meta Platforms Inc"
+      },
+      "2": {
+        "Code": "FBOK34",
+        "Exchange": "SA",
+        "Name": "Facebook Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark Elliot Zuckerberg",
+        "Title": "Founder, Chairman & CEO",
+        "YearBorn": "1984"
+      },
+      "1": {
+        "Name": "Ms. Dina  Powell McCormick",
+        "Title": "President & Vice Chairman",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Ms. Susan J. S. Li",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1986"
+      },
+      "3": {
+        "Name": "Mr. Javier  Olivan",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Andrew  Bosworth",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "1982"
+      },
+      "5": {
+        "Name": "Mr. Christopher K. Cox",
+        "Title": "Chief Product Officer",
+        "YearBorn": "1983"
+      },
+      "6": {
+        "Name": "Mr. Dana  White",
+        "Title": "Independent Director",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Mr. Aaron A. Anderson",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Atish  Banerjea",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1966"
+      },
+      "9": {
+        "Name": "Mr. Henry T. A. Moniz",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "1965"
+      }
+    },
+    "Phone": "650 543 4800",
+    "WebURL": "https://www.meta.com",
+    "LogoURL": "/img/logos/US/meta.png",
+    "FullTimeEmployees": 78865,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2196045588,
+    "SharesFloat": 2185080601,
+    "PercentInsiders": 0.121,
+    "PercentInstitutions": 78.85600000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0121
+  }
+}

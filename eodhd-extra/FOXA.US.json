@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.7452,
+        "totalAssets": 0.0259,
+        "currentShares": 24439701,
+        "change": -144454,
+        "change_p": -0.5876
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.9351,
+        "totalAssets": 0.0232,
+        "currentShares": 20993657,
+        "change": -941367,
+        "change_p": -4.2916
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4025,
+        "totalAssets": 0.041,
+        "currentShares": 18727973,
+        "change": 2143273,
+        "change_p": 12.9232
+      },
+      "3": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.9399,
+        "totalAssets": 0.1121,
+        "currentShares": 12506321,
+        "change": 9475623,
+        "change_p": 312.6548
+      },
+      "4": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 2.73,
+        "totalAssets": 0.4581,
+        "currentShares": 11613443,
+        "change": -1538526,
+        "change_p": -11.6981
+      },
+      "5": {
+        "name": "Independent Franchise Partners LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.2985,
+        "totalAssets": 4.5436,
+        "currentShares": 9777519,
+        "change": -798593,
+        "change_p": -7.5509
+      },
+      "6": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.5493,
+        "totalAssets": 1.0501,
+        "currentShares": 6590489,
+        "change": -546314,
+        "change_p": -7.6549
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5361,
+        "totalAssets": 0.0294,
+        "currentShares": 6534627,
+        "change": 29923,
+        "change_p": 0.46
+      },
+      "8": {
+        "name": "Holocene Advisors, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.1489,
+        "totalAssets": 0.75,
+        "currentShares": 4887456,
+        "change": -774718,
+        "change_p": -13.6823
+      },
+      "9": {
+        "name": "Genworth Financial Wealth Mgmt Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1408,
+        "totalAssets": 0.7231,
+        "currentShares": 4852728,
+        "change": -22888,
+        "change_p": -0.4694
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9823,
+        "totalAssets": 0.016,
+        "currentShares": 4178453,
+        "change": -104221,
+        "change_p": -2.4335
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8725,
+        "totalAssets": 0.0569,
+        "currentShares": 3711753,
+        "change": -66379,
+        "change_p": -1.7569
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.846,
+        "totalAssets": 0.0154,
+        "currentShares": 3598740,
+        "change": 300833,
+        "change_p": 9.1219
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8077,
+        "totalAssets": 0.0341,
+        "currentShares": 3435726,
+        "change": -450950,
+        "change_p": -11.6025
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8057,
+        "totalAssets": 0.0277,
+        "currentShares": 3427589,
+        "change": -119976,
+        "change_p": -3.3819
+      },
+      "15": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.7987,
+        "totalAssets": 0.1804,
+        "currentShares": 3397832,
+        "change": 119330,
+        "change_p": 3.6398
+      },
+      "16": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.7475,
+        "totalAssets": 0.0349,
+        "currentShares": 3179645,
+        "change": 2907456,
+        "change_p": 1068.1754
+      },
+      "17": {
+        "name": "Robeco Institutional Asset Management BV",
+        "date": "2025-12-31",
+        "totalShares": 0.737,
+        "totalAssets": 0.3263,
+        "currentShares": 3135084,
+        "change": -373670,
+        "change_p": -10.6496
+      },
+      "18": {
+        "name": "Jericho Capital Asset Management LP",
+        "date": "2025-12-31",
+        "totalShares": 0.6989,
+        "totalAssets": 2.475,
+        "currentShares": 2973000,
+        "change": 2973000,
+        "change_p": 0
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6908,
+        "totalAssets": 0.029,
+        "currentShares": 2938581,
+        "change": 1203675,
+        "change_p": 69.3798
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 2.1979,
+        "totalAssets": 0.5709,
+        "currentShares": 9349875,
+        "change": -1326500,
+        "change_p": -12.4246
+      },
+      "1": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.5587,
+        "totalAssets": 1.603,
+        "currentShares": 6630626,
+        "change": -7645,
+        "change_p": -0.1152
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.3973,
+        "totalAssets": 0.0174,
+        "currentShares": 5943995,
+        "change": 25800,
+        "change_p": 0.4359
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1918,
+        "totalAssets": 0.0208,
+        "currentShares": 5069989,
+        "change": -293130,
+        "change_p": -5.4657
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.9176,
+        "totalAssets": 0.1147,
+        "currentShares": 3903362,
+        "change": -141086,
+        "change_p": -3.4884
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.6222,
+        "totalAssets": 0.0199,
+        "currentShares": 2647021,
+        "change": 3044,
+        "change_p": 0.1151
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6064,
+        "totalAssets": 0.0209,
+        "currentShares": 2579730,
+        "change": -1404,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5418,
+        "totalAssets": 0.0207,
+        "currentShares": 2304737,
+        "change": -5733,
+        "change_p": -0.2481
+      },
+      "8": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4304,
+        "totalAssets": 0.1254,
+        "currentShares": 1830832,
+        "change": 5371,
+        "change_p": 0.2942
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.393,
+        "totalAssets": 0.0433,
+        "currentShares": 1671719,
+        "change": -63582,
+        "change_p": -3.664
+      },
+      "10": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3711,
+        "totalAssets": 0.4646,
+        "currentShares": 1578739,
+        "change": 1084,
+        "change_p": 0.0687
+      },
+      "11": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3606,
+        "totalAssets": 1.4539,
+        "currentShares": 1533845,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "First Trust SMID Cp Rising Div Achv ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3457,
+        "totalAssets": 0.8503,
+        "currentShares": 1470492,
+        "change": 287,
+        "change_p": 0.0195
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2719,
+        "totalAssets": 0.1944,
+        "currentShares": 1156483,
+        "change": -77248,
+        "change_p": -6.2613
+      },
+      "14": {
+        "name": "Clark Navigator All Cap Core U.S. Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.2674,
+        "totalAssets": 1.9783,
+        "currentShares": 1137319,
+        "change": 6525,
+        "change_p": 0.577
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.2619,
+        "totalAssets": 0.0206,
+        "currentShares": 1114120,
+        "change": -56781,
+        "change_p": -4.8493
+      },
+      "16": {
+        "name": "Pacer US Small Cap Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.261,
+        "totalAssets": 1.9969,
+        "currentShares": 1110146,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "AMG Yacktman I",
+        "date": "2026-03-31",
+        "totalShares": 0.2586,
+        "totalAssets": 0.9314,
+        "currentShares": 1100000,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.2518,
+        "totalAssets": 0.0207,
+        "currentShares": 1071302,
+        "change": -39400,
+        "change_p": -3.5473
+      },
+      "19": {
+        "name": "JPM US Large Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.2428,
+        "totalAssets": 1.2191,
+        "currentShares": 1032736,
+        "change": 1032736,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.0719,
+    "ForwardPE": 13.3333,
+    "PriceSalesTTM": 1.6127,
+    "PriceBookMRQ": 2.5131,
+    "EnterpriseValue": 31409101641,
+    "EnterpriseValueRevenue": 1.8946,
+    "EnterpriseValueEbitda": 9.3675
+  },
+  "Highlights": {
+    "MarketCapitalization": 26736142336,
+    "MarketCapitalizationMln": 26736.1423,
+    "EBITDA": 3532999936,
+    "PERatio": 15.0719,
+    "PEGRatio": 14.8209,
+    "WallStreetTargetPrice": 71,
+    "BookValue": 25.697,
+    "DividendShare": 0.55,
+    "DividendYield": 0.0085,
+    "EarningsShare": 4.17,
+    "EPSEstimateCurrentYear": 4.6311,
+    "EPSEstimateNextYear": 5.1584,
+    "EPSEstimateNextQuarter": 1.1591,
+    "EPSEstimateCurrentQuarter": 0.517,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1141,
+    "OperatingMarginTTM": 0.1135,
+    "ReturnOnAssetsTTM": 0.0881,
+    "ReturnOnEquityTTM": 0.1682,
+    "RevenueTTM": 16577999872,
+    "RevenuePerShareTTM": 37.212,
+    "QuarterlyRevenueGrowthYOY": 0.02,
+    "GrossProfitTTM": 5874999808,
+    "DilutedEpsTTM": 4.17,
+    "QuarterlyEarningsGrowthYOY": -0.358
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 46.87,
+    "TotalEsgPercentile": 38.36,
+    "EnvironmentScore": 57.03,
+    "EnvironmentScorePercentile": 67.82,
+    "SocialScore": 43.63,
+    "SocialScorePercentile": 43.3,
+    "GovernanceScore": 49.2,
+    "GovernanceScorePercentile": 0.02,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FOXA",
+    "Type": "Common Stock",
+    "Name": "Fox Corp Class A",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00JHNJW99",
+    "ISIN": "US35137L1052",
+    "LEI": "549300DDU6FDRBIELS05",
+    "PrimaryTicker": "FOXA.US",
+    "CUSIP": "35137L105",
+    "CIK": "0001754301",
+    "EmployerIdNumber": "26-0075658",
+    "FiscalYearEnd": "June",
+    "IPODate": "2019-03-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Media",
+    "GicSubIndustry": "Broadcasting",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Fox Corporation operates as a news, sports, and entertainment company in the United States. It operates in four segments: Cable Network Programming, Television, Credible, and The FOX Studio Lot. The Cable Network Programming segment produces and licenses news and sports content for distribution through traditional cable television systems, direct broadcast satellite operators, telecommunication companies, virtual multi-channel video programming distributors, and other digital platforms. Its Television segment produces, acquires, markets, and distributes programming through the FOX broadcast network, advertising-supported video-on-demand service Tubi, and operates full power broadcast television stations, including duopolies and other digital platforms. This segment also produces content for third parties. The Credible segment engages in the consumer finance marketplace. Its FOX Studio Lot segment provides television and film production services along with office space, studio operation services, and all operations of the facility. Fox Corporation was incorporated in 2018 and is headquartered in New York, New York.",
+    "Address": "1211 Avenue of the Americas, New York, NY, United States, 10036",
+    "AddressData": {
+      "Street": "1211 Avenue of the Americas",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10036"
+    },
+    "Listings": {
+      "0": {
+        "Code": "FOX",
+        "Exchange": "US",
+        "Name": "Fox Corp Class B"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Lachlan Keith Murdoch",
+        "Title": "Executive Chairman & CEO",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. John P. Nallen",
+        "Title": "President & COO",
+        "YearBorn": "1957"
+      },
+      "2": {
+        "Name": "Mr. Steven Silvester Tomsic",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Adam G. Ciongoli J.D.",
+        "Title": "Chief Legal & Policy Officer",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Ms. Gabrielle  Brown",
+        "Title": "Executive VP & Chief Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Nicholas  Trutanich",
+        "Title": "Executive VP of Litigation, Chief Ethics & Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Brian  Nick",
+        "Title": "Chief Communications Officer & Executive VP",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Jeff  Collins",
+        "Title": "President of Advertising Sales, Marketing & Brand Partnership",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Kevin E. Lord",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1963"
+      },
+      "9": {
+        "Name": "Mr. Jason  Klarman",
+        "Title": "Chief Digital & Marketing Officer of FOX News Media",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "212 852 7000",
+    "WebURL": "https://www.foxcorporation.com",
+    "LogoURL": "/img/logos/US/foxa.png",
+    "FullTimeEmployees": 10400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 200693856,
+    "SharesFloat": 334986650,
+    "PercentInsiders": 1.3010000000000002,
+    "PercentInstitutions": 123.03999999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.183
+  }
+}

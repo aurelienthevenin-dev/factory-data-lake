@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.7532,
+        "totalAssets": 0.0472,
+        "currentShares": 49074378,
+        "change": -381665,
+        "change_p": -0.7717
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.0888,
+        "totalAssets": 0.0457,
+        "currentShares": 38821843,
+        "change": -210253,
+        "change_p": -0.5387
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3802,
+        "totalAssets": 0.0393,
+        "currentShares": 16855113,
+        "change": -2965,
+        "change_p": -0.0176
+      },
+      "3": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 4.0417,
+        "totalAssets": 0.8578,
+        "currentShares": 15552587,
+        "change": -329581,
+        "change_p": -2.0752
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.2296,
+        "totalAssets": 0.0251,
+        "currentShares": 12427514,
+        "change": 6272922,
+        "change_p": 101.9226
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8602,
+        "totalAssets": 0.0449,
+        "currentShares": 11006183,
+        "change": 42411,
+        "change_p": 0.3868
+      },
+      "6": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9445,
+        "totalAssets": 0.1093,
+        "currentShares": 7482531,
+        "change": -1648083,
+        "change_p": -18.0501
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.8926,
+        "totalAssets": 0.0517,
+        "currentShares": 7282743,
+        "change": 2089947,
+        "change_p": 40.247
+      },
+      "8": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5047,
+        "totalAssets": 0.2307,
+        "currentShares": 5789944,
+        "change": -4300430,
+        "change_p": -42.6191
+      },
+      "9": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 1.278,
+        "totalAssets": 0.0887,
+        "currentShares": 4917921,
+        "change": -101554,
+        "change_p": -2.0232
+      },
+      "10": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2038,
+        "totalAssets": 0.0805,
+        "currentShares": 4632271,
+        "change": -1711205,
+        "change_p": -26.9758
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.203,
+        "totalAssets": 0.0491,
+        "currentShares": 4629139,
+        "change": -332374,
+        "change_p": -6.699
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1312,
+        "totalAssets": 0.0177,
+        "currentShares": 4352808,
+        "change": -1249747,
+        "change_p": -22.3067
+      },
+      "13": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.1251,
+        "totalAssets": 0.0936,
+        "currentShares": 4329213,
+        "change": 1479952,
+        "change_p": 51.9416
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1245,
+        "totalAssets": 0.0198,
+        "currentShares": 4327022,
+        "change": 1319133,
+        "change_p": 43.8558
+      },
+      "15": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0235,
+        "totalAssets": 0.1433,
+        "currentShares": 3938568,
+        "change": 1735081,
+        "change_p": 78.7425
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9671,
+        "totalAssets": 0.032,
+        "currentShares": 3721544,
+        "change": -113876,
+        "change_p": -2.9691
+      },
+      "17": {
+        "name": "Federated Hermes Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8888,
+        "totalAssets": 0.4064,
+        "currentShares": 3420262,
+        "change": -212877,
+        "change_p": -5.8593
+      },
+      "18": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.8219,
+        "totalAssets": 0.0349,
+        "currentShares": 3162653,
+        "change": -962109,
+        "change_p": -23.3252
+      },
+      "19": {
+        "name": "Atlantic Trust Group, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8129,
+        "totalAssets": 0.3509,
+        "currentShares": 3128114,
+        "change": 220313,
+        "change_p": 7.5766
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1772,
+        "totalAssets": 0.0385,
+        "currentShares": 12225879,
+        "change": -114934,
+        "change_p": -0.9313
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5466,
+        "totalAssets": 0.0433,
+        "currentShares": 9799374,
+        "change": -230884,
+        "change_p": -2.3019
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1606,
+        "totalAssets": 0.2627,
+        "currentShares": 8314081,
+        "change": -162703,
+        "change_p": -1.9194
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0991,
+        "totalAssets": 0.1367,
+        "currentShares": 8077454,
+        "change": -27004,
+        "change_p": -0.3332
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2899,
+        "totalAssets": 0.0487,
+        "currentShares": 4963444,
+        "change": 8184,
+        "change_p": 0.1652
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.0431,
+        "currentShares": 4946613,
+        "change": -2688,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.261,
+        "totalAssets": 0.0959,
+        "currentShares": 4852240,
+        "change": -315141,
+        "change_p": -6.0987
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1548,
+        "totalAssets": 0.0429,
+        "currentShares": 4443700,
+        "change": -10976,
+        "change_p": -0.2464
+      },
+      "8": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0849,
+        "totalAssets": 0.6158,
+        "currentShares": 4174754,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "AllianceBernstein US L/C Growth Eqty MF",
+        "date": "2026-02-27",
+        "totalShares": 0.7754,
+        "totalAssets": 0.6454,
+        "currentShares": 2983610,
+        "change": 983850,
+        "change_p": 49.1984
+      },
+      "10": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7607,
+        "totalAssets": 0.6292,
+        "currentShares": 2927322,
+        "change": -310989,
+        "change_p": -9.6034
+      },
+      "11": {
+        "name": "BlackRock Mid-Cap Growth Equity Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.7516,
+        "totalAssets": 3.5902,
+        "currentShares": 2892286,
+        "change": -171964,
+        "change_p": -5.6119
+      },
+      "12": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.731,
+        "totalAssets": 0.4549,
+        "currentShares": 2812955,
+        "change": 8528,
+        "change_p": 0.3041
+      },
+      "13": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6807,
+        "totalAssets": 0.8833,
+        "currentShares": 2619257,
+        "change": -4505,
+        "change_p": -0.1717
+      },
+      "14": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6805,
+        "totalAssets": 0.1928,
+        "currentShares": 2618442,
+        "change": 7729,
+        "change_p": 0.296
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5641,
+        "totalAssets": 0.0432,
+        "currentShares": 2170471,
+        "change": -40216,
+        "change_p": -1.8192
+      },
+      "16": {
+        "name": "Xtrackers MSCI World Swap ETF 1C",
+        "date": "2025-12-31",
+        "totalShares": 0.5576,
+        "totalAssets": 1.3381,
+        "currentShares": 2145773,
+        "change": -122753,
+        "change_p": -5.4111
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5339,
+        "totalAssets": 0.0427,
+        "currentShares": 2054485,
+        "change": -24600,
+        "change_p": -1.1832
+      },
+      "18": {
+        "name": "JPMorgan Mid Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.466,
+        "totalAssets": 1.0764,
+        "currentShares": 1793200,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "JPM US Mid Cap Growth-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.4634,
+        "totalAssets": 0.9813,
+        "currentShares": 1783253,
+        "change": -16433,
+        "change_p": -0.9131
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.0341,
+    "ForwardPE": 25.1256,
+    "PriceSalesTTM": 5.0961,
+    "PriceBookMRQ": 8.8107,
+    "EnterpriseValue": 23585235657,
+    "EnterpriseValueRevenue": 5.059,
+    "EnterpriseValueEbitda": 17.3612
+  },
+  "Highlights": {
+    "MarketCapitalization": 23758200832,
+    "MarketCapitalizationMln": 23758.2008,
+    "EBITDA": 1163600000,
+    "PERatio": 30.0341,
+    "PEGRatio": 1.3695,
+    "WallStreetTargetPrice": 86.875,
+    "BookValue": 7.136,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.05,
+    "EPSEstimateCurrentYear": 2.4943,
+    "EPSEstimateNextYear": 2.9904,
+    "EPSEstimateNextQuarter": 0.4762,
+    "EPSEstimateCurrentQuarter": 0.6507,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1794,
+    "OperatingMarginTTM": 0.2564,
+    "ReturnOnAssetsTTM": 0.0889,
+    "ReturnOnEquityTTM": 0.345,
+    "RevenueTTM": 4662000128,
+    "RevenuePerShareTTM": 11.948,
+    "QuarterlyRevenueGrowthYOY": 0.131,
+    "GrossProfitTTM": 2801900032,
+    "DilutedEpsTTM": 2.05,
+    "QuarterlyEarningsGrowthYOY": 0.78
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.18,
+    "TotalEsgPercentile": 50.12,
+    "EnvironmentScore": 10.43,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 17.04,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 13.2,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DXCM",
+    "Type": "Common Stock",
+    "Name": "DexCom Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000QTF8K1",
+    "ISIN": "US2521311074",
+    "LEI": "549300YSK3QDSFR5EU59",
+    "PrimaryTicker": "DXCM.US",
+    "CUSIP": "252131107",
+    "CIK": "0001093557",
+    "EmployerIdNumber": "33-0857544",
+    "FiscalYearEnd": "December",
+    "IPODate": "2005-04-14",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "DexCom, Inc., a medical device company, focuses on the design, development, and commercialization of continuous glucose monitoring (CGM) systems for the management of diabetes and metabolic health in the United States and internationally. The company offers Dexcom G7 and G7 15 Day, an integrated continuous glucose monitoring system; Dexcom G6, a CGM system; Dexcom ONE+ to replace fingerstick blood glucose testing for diabetes treatment decisions; Stelo, a biosensor designed for adults with prediabetes and Type 2 diabetes who do not use insulin; Dexcom Share, a remote monitoring system; and Dexcom Follow application. It markets its products directly to endocrinologists, physicians, and diabetes educators. The company was incorporated in 1999 and is headquartered in San Diego, California.",
+    "Address": "6340 Sequence Drive, San Diego, CA, United States, 92121",
+    "AddressData": {
+      "Street": "6340 Sequence Drive",
+      "City": "San Diego",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92121"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Kevin Ronald Sayer",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. Jacob Steven Leach",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1978"
+      },
+      "2": {
+        "Name": "Mr. Michael Jon Brown J.D.",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Ms. Sadie M. Stern",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Jon  Coleman",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Mr. Girish  Naganathan",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Sean  Christensen",
+        "Title": "Vice President of Finance and Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Matthew  Dolan",
+        "Title": "Executive Vice President of Strategy & Corporate Development",
+        "YearBorn": "1981"
+      },
+      "8": {
+        "Name": "Mr. Donald M. Abbey",
+        "Title": "Executive Vice President of Global Business Services, Regulatory, Medical & Clinical Affairs",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Keri  Leone",
+        "Title": "Senior Director of Global Medical Science & Education",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "858 200 0200",
+    "WebURL": "https://www.dexcom.com",
+    "LogoURL": "/img/logos/US/DXCM.png",
+    "FullTimeEmployees": 11000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 385872977,
+    "SharesFloat": 382944366,
+    "PercentInsiders": 0.28400000000000003,
+    "PercentInstitutions": 101.505,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0493
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.785,
+        "totalAssets": 0.0978,
+        "currentShares": 23347787,
+        "change": -94262,
+        "change_p": -0.4021
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.1449,
+        "totalAssets": 0.0704,
+        "currentShares": 17048182,
+        "change": -438276,
+        "change_p": -2.5064
+      },
+      "2": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 6.5305,
+        "totalAssets": 2.4297,
+        "currentShares": 15582168,
+        "change": -642992,
+        "change_p": -3.9629
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8301,
+        "totalAssets": 0.0752,
+        "currentShares": 9138843,
+        "change": -186422,
+        "change_p": -1.9991
+      },
+      "4": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 3.5677,
+        "totalAssets": 1.8613,
+        "currentShares": 8512671,
+        "change": -929579,
+        "change_p": -9.8449
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6035,
+        "totalAssets": 0.0439,
+        "currentShares": 6212246,
+        "change": 2917646,
+        "change_p": 88.5584
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0982,
+        "totalAssets": 0.0737,
+        "currentShares": 5006509,
+        "change": 2053626,
+        "change_p": 69.5465
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0895,
+        "totalAssets": 0.0891,
+        "currentShares": 4985778,
+        "change": 45818,
+        "change_p": 0.9275
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.0179,
+        "totalAssets": 0.2831,
+        "currentShares": 4814938,
+        "change": 269567,
+        "change_p": 5.9306
+      },
+      "9": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.5191,
+        "totalAssets": 0.1641,
+        "currentShares": 3624636,
+        "change": -685766,
+        "change_p": -15.9096
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5167,
+        "totalAssets": 0.1345,
+        "currentShares": 3618898,
+        "change": 108426,
+        "change_p": 3.0886
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4229,
+        "totalAssets": 0.0485,
+        "currentShares": 3395031,
+        "change": 62454,
+        "change_p": 1.874
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2464,
+        "totalAssets": 0.0919,
+        "currentShares": 2974052,
+        "change": 310300,
+        "change_p": 11.649
+      },
+      "13": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2253,
+        "totalAssets": 0.443,
+        "currentShares": 2923679,
+        "change": 189774,
+        "change_p": 6.9415
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0803,
+        "totalAssets": 0.1562,
+        "currentShares": 2577706,
+        "change": 70141,
+        "change_p": 2.7972
+      },
+      "15": {
+        "name": "Gates Bill & Melinda Foundation",
+        "date": "2025-12-31",
+        "totalShares": 0.9993,
+        "totalAssets": 1.9478,
+        "currentShares": 2384362,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9359,
+        "totalAssets": 1.9269,
+        "currentShares": 2233225,
+        "change": -2464,
+        "change_p": -0.1102
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.926,
+        "totalAssets": 0.0667,
+        "currentShares": 2209454,
+        "change": -56850,
+        "change_p": -2.5085
+      },
+      "18": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8555,
+        "totalAssets": 0.6124,
+        "currentShares": 2041209,
+        "change": 57281,
+        "change_p": 2.8873
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7807,
+        "totalAssets": 0.0788,
+        "currentShares": 1862891,
+        "change": -207429,
+        "change_p": -10.0192
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 4.4254,
+        "totalAssets": 2.5487,
+        "currentShares": 10559255,
+        "change": -490500,
+        "change_p": -4.439
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8162,
+        "totalAssets": 0.1199,
+        "currentShares": 6719687,
+        "change": 4415,
+        "change_p": 0.0657
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3085,
+        "totalAssets": 0.1379,
+        "currentShares": 5508322,
+        "change": -73468,
+        "change_p": -1.3162
+      },
+      "3": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.304,
+        "totalAssets": 2.0881,
+        "currentShares": 5497458,
+        "change": -780170,
+        "change_p": -12.4278
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1653,
+        "totalAssets": 0.1375,
+        "currentShares": 2780367,
+        "change": -1512,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1578,
+        "totalAssets": 0.1427,
+        "currentShares": 2762596,
+        "change": 4554,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.0516,
+        "totalAssets": 1.8839,
+        "currentShares": 2509078,
+        "change": 51951,
+        "change_p": 2.1143
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0497,
+        "totalAssets": 0.1372,
+        "currentShares": 2504769,
+        "change": -6174,
+        "change_p": -0.2459
+      },
+      "8": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9958,
+        "totalAssets": 1.6547,
+        "currentShares": 2376070,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.9579,
+        "totalAssets": 0.4097,
+        "currentShares": 2285607,
+        "change": -22231,
+        "change_p": -0.9633
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8196,
+        "totalAssets": 0.3086,
+        "currentShares": 1955711,
+        "change": -21267,
+        "change_p": -1.0757
+      },
+      "11": {
+        "name": "Vanguard Capital Opportunity Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5873,
+        "totalAssets": 1.5618,
+        "currentShares": 1401274,
+        "change": -34200,
+        "change_p": -2.3825
+      },
+      "12": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5526,
+        "totalAssets": 0.6002,
+        "currentShares": 1318440,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5108,
+        "totalAssets": 0.1375,
+        "currentShares": 1218706,
+        "change": -10602,
+        "change_p": -0.8624
+      },
+      "14": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5038,
+        "totalAssets": 1.5234,
+        "currentShares": 1202037,
+        "change": -8328,
+        "change_p": -0.6881
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4839,
+        "totalAssets": 0.1361,
+        "currentShares": 1154691,
+        "change": -2500,
+        "change_p": -0.216
+      },
+      "16": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4464,
+        "totalAssets": 0.1478,
+        "currentShares": 1065157,
+        "change": -299596,
+        "change_p": -21.9524
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4095,
+        "totalAssets": 0.1374,
+        "currentShares": 977018,
+        "change": 2198,
+        "change_p": 0.2255
+      },
+      "18": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.3875,
+        "totalAssets": 1.8125,
+        "currentShares": 924484,
+        "change": 545717,
+        "change_p": 144.0772
+      },
+      "19": {
+        "name": "Invesco Large Cap Value",
+        "date": "2025-12-31",
+        "totalShares": 0.3747,
+        "totalAssets": 2.0029,
+        "currentShares": 894120,
+        "change": -42241,
+        "change_p": -4.5112
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.7033,
+    "ForwardPE": 17.762,
+    "PriceSalesTTM": 1.007,
+    "PriceBookMRQ": 3.1438,
+    "EnterpriseValue": 127712487013,
+    "EnterpriseValueRevenue": 1.3892,
+    "EnterpriseValueEbitda": 11.5724
+  },
+  "Highlights": {
+    "MarketCapitalization": 92574646272,
+    "MarketCapitalizationMln": 92574.6463,
+    "EBITDA": 11559999488,
+    "PERatio": 20.7033,
+    "PEGRatio": 1.3882,
+    "WallStreetTargetPrice": 401.8889,
+    "BookValue": 124.703,
+    "DividendShare": 5.8,
+    "DividendYield": 0.0148,
+    "EarningsShare": 18.74,
+    "EPSEstimateCurrentYear": 19.6849,
+    "EPSEstimateNextYear": 22.3533,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 4.1344,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.0488,
+    "OperatingMarginTTM": 0.0694,
+    "ReturnOnAssetsTTM": 0.0503,
+    "ReturnOnEquityTTM": 0.1587,
+    "RevenueTTM": 91932999680,
+    "RevenuePerShareTTM": 388.723,
+    "QuarterlyRevenueGrowthYOY": 0.083,
+    "GrossProfitTTM": 25329000448,
+    "DilutedEpsTTM": 18.74,
+    "QuarterlyEarningsGrowthYOY": 0.173
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.26,
+    "TotalEsgPercentile": 24.64,
+    "EnvironmentScore": 3.75,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 10.02,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 2.49,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FDX",
+    "Type": "Common Stock",
+    "Name": "FedEx Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJF1Z8",
+    "ISIN": "US31428X1063",
+    "LEI": "549300E707U7WNPZN687",
+    "PrimaryTicker": "FDX.US",
+    "CUSIP": "31304N107",
+    "CIK": "0001048911",
+    "EmployerIdNumber": "62-1721435",
+    "FiscalYearEnd": "May",
+    "IPODate": "1978-04-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Air Freight & Logistics",
+    "GicSubIndustry": "Air Freight & Logistics",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "FedEx Corporation, together with its subsidiaries, provides transportation, e-commerce, and business services in the United States and internationally. It operates through Federal Express and FedEx Freight segments. The company offers transportation services, including express, freight, less-than-truckload freight, and time-specific freight-shipping; and small-package ground delivery services. It also provides e-commerce and digital solutions; dataworks; printing and shipping management, including digital printing, professional finishing, document creation, design solutions, direct mail, signs and graphics, custom-branded boxes, copying, computer rental, free Wi-Fi, corporate print solutions, shredding, expedited U.S. passport processing and renewal, and digital notarization; packing services, as well as packing supplies and boxes; document and business services; and retail access for package transportation. In addition, the company offers logistics services, air and ocean freight-forwarding and cargo transportation, specialty transportation, customs brokerage and clearance, trade management tools and data, and door-to-door solutions; and third party logistics and supply chain management solutions, such as inbound logistics, warehousing and distribution, fulfillment, contract packaging and product configuration, systems integration, returns process and disposition, test, repair, refurbishment, and product liquidation. Further, it provides sales, marketing, administrative, information technology, and back-office support services. FedEx Corporation was founded in 1971 and is headquartered in Memphis, Tennessee.",
+    "Address": "942 South Shady Grove Road, Memphis, TN, United States, 38120",
+    "AddressData": {
+      "Street": "942 South Shady Grove Road",
+      "City": "Memphis",
+      "State": "TN",
+      "Country": "United States",
+      "ZIP": "38120"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. R. Brad Martin",
+        "Title": "Executive Chairman",
+        "YearBorn": "1952"
+      },
+      "1": {
+        "Name": "Mr. Rajesh  Subramaniam",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. John W. Dietrich",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Ms. Brie A. Carere",
+        "Title": "Executive VP & Chief Customer Officer",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Mr. John Alan Smith",
+        "Title": "COO of Federal Express Corporation for U.S. & Canada",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Mr. Guy M. Erwin II",
+        "Title": "Corporate VP, Staff VP, Corporate Controller & Chief Accounting Officer",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Vishal  Talwar",
+        "Title": "Executive VP, Chief Digital & Information Officer and President of FedEx Dataworks",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Jenifer  Hollander",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Gina F. Adams",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1959"
+      },
+      "9": {
+        "Name": "Ms. Jill C. Brannon",
+        "Title": "Executive VP & Chief Sales Officer",
+        "YearBorn": "1964"
+      }
+    },
+    "Phone": "901 818 7500",
+    "WebURL": "https://www.fedex.com",
+    "LogoURL": "/img/logos/US/FDX.png",
+    "FullTimeEmployees": 300000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 238606756,
+    "SharesFloat": 220336637,
+    "PercentInsiders": 7.446999999999999,
+    "PercentInstitutions": 80.676,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0138
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.8281,
+        "totalAssets": 0.142,
+        "currentShares": 11142535,
+        "change": 33606,
+        "change_p": 0.3025
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8018,
+        "totalAssets": 0.1307,
+        "currentShares": 9847128,
+        "change": 61670,
+        "change_p": 0.6302
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.5455,
+        "totalAssets": 0.2504,
+        "currentShares": 9523727,
+        "change": -71152,
+        "change_p": -0.7416
+      },
+      "3": {
+        "name": "Procyon Private Wealth Partners, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.0164,
+        "totalAssets": 0.3707,
+        "currentShares": 5069377,
+        "change": 3,
+        "change_p": 0.0001
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.2228,
+        "totalAssets": 0.1823,
+        "currentShares": 4067747,
+        "change": 338937,
+        "change_p": 9.0897
+      },
+      "5": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.0936,
+        "totalAssets": 0.2008,
+        "currentShares": 3904591,
+        "change": 22706,
+        "change_p": 0.5849
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.8246,
+        "totalAssets": 0.081,
+        "currentShares": 3565116,
+        "change": 1489882,
+        "change_p": 71.7934
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.2541,
+        "totalAssets": 0.2308,
+        "currentShares": 2844999,
+        "change": -19731,
+        "change_p": -0.6888
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1964,
+        "totalAssets": 0.1497,
+        "currentShares": 2772207,
+        "change": -10784,
+        "change_p": -0.3875
+      },
+      "9": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1506,
+        "totalAssets": 4.7756,
+        "currentShares": 2714350,
+        "change": -151959,
+        "change_p": -5.3016
+      },
+      "10": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0606,
+        "totalAssets": 0.3109,
+        "currentShares": 2600844,
+        "change": 16703,
+        "change_p": 0.6464
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8224,
+        "totalAssets": 0.2747,
+        "currentShares": 2300141,
+        "change": -45781,
+        "change_p": -1.9515
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7494,
+        "totalAssets": 0.3845,
+        "currentShares": 2207996,
+        "change": 13309,
+        "change_p": 0.6064
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6723,
+        "totalAssets": 0.0969,
+        "currentShares": 2110677,
+        "change": -16772,
+        "change_p": -0.7884
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5831,
+        "totalAssets": 0.1879,
+        "currentShares": 1998077,
+        "change": 61689,
+        "change_p": 3.1858
+      },
+      "15": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.3837,
+        "totalAssets": 1.3258,
+        "currentShares": 1746514,
+        "change": 79517,
+        "change_p": 4.7701
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2504,
+        "totalAssets": 0.2155,
+        "currentShares": 1578161,
+        "change": -23073,
+        "change_p": -1.441
+      },
+      "17": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0836,
+        "totalAssets": 0.3148,
+        "currentShares": 1367683,
+        "change": 94343,
+        "change_p": 7.4091
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0354,
+        "totalAssets": 0.1268,
+        "currentShares": 1306851,
+        "change": -20029,
+        "change_p": -1.5095
+      },
+      "19": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9681,
+        "totalAssets": 0.1882,
+        "currentShares": 1221897,
+        "change": -230718,
+        "change_p": -15.8829
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1755,
+        "totalAssets": 0.1797,
+        "currentShares": 4007995,
+        "change": 16888,
+        "change_p": 0.4231
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5462,
+        "totalAssets": 0.2022,
+        "currentShares": 3213692,
+        "change": -32124,
+        "change_p": -0.9897
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2858,
+        "totalAssets": 0.2018,
+        "currentShares": 1622923,
+        "change": -888,
+        "change_p": -0.0547
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2723,
+        "totalAssets": 0.2163,
+        "currentShares": 1605888,
+        "change": 2648,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1585,
+        "totalAssets": 0.2013,
+        "currentShares": 1462156,
+        "change": -3577,
+        "change_p": -0.244
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9241,
+        "totalAssets": 0.4626,
+        "currentShares": 1166358,
+        "change": -9575,
+        "change_p": -0.8142
+      },
+      "6": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.8892,
+        "totalAssets": 2.1774,
+        "currentShares": 1122337,
+        "change": -18972,
+        "change_p": -1.6623
+      },
+      "7": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8046,
+        "totalAssets": 0.4287,
+        "currentShares": 1015516,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.7524,
+        "totalAssets": 1.8696,
+        "currentShares": 949618,
+        "change": -158806,
+        "change_p": -14.3272
+      },
+      "9": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6766,
+        "totalAssets": 1.183,
+        "currentShares": 854000,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.2017,
+        "currentShares": 711133,
+        "change": -3777,
+        "change_p": -0.5283
+      },
+      "11": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 2.2341,
+        "currentShares": 701336,
+        "change": -4848,
+        "change_p": -0.6865
+      },
+      "12": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5502,
+        "totalAssets": 0.3118,
+        "currentShares": 694504,
+        "change": -321012,
+        "change_p": -31.6107
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.1996,
+        "currentShares": 673757,
+        "change": 1080,
+        "change_p": 0.1606
+      },
+      "14": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5001,
+        "totalAssets": 0.4626,
+        "currentShares": 631182,
+        "change": -50378,
+        "change_p": -7.3916
+      },
+      "15": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.4739,
+        "totalAssets": 1.7021,
+        "currentShares": 598176,
+        "change": -17161,
+        "change_p": -2.7889
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.2015,
+        "currentShares": 570075,
+        "change": 3393,
+        "change_p": 0.5987
+      },
+      "17": {
+        "name": "iShares U.S. Equity Fac Rotation Act ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4302,
+        "totalAssets": 1.619,
+        "currentShares": 543002,
+        "change": 318,
+        "change_p": 0.0586
+      },
+      "18": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3946,
+        "totalAssets": 0.1888,
+        "currentShares": 498079,
+        "change": 498079,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3946,
+        "totalAssets": 0.1888,
+        "currentShares": 498079,
+        "change": -13559,
+        "change_p": -2.6501
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 35.5906,
+    "ForwardPE": 28.8184,
+    "PriceSalesTTM": 6.0112,
+    "PriceBookMRQ": 8.5892,
+    "EnterpriseValue": 132362753262,
+    "EnterpriseValueRevenue": 6.469,
+    "EnterpriseValueEbitda": 24.1142
+  },
+  "Highlights": {
+    "MarketCapitalization": 122994212864,
+    "MarketCapitalizationMln": 122994.2129,
+    "EBITDA": 5358000128,
+    "PERatio": 35.5906,
+    "PEGRatio": 3.9534,
+    "WallStreetTargetPrice": 1034.8275,
+    "BookValue": 113.385,
+    "DividendShare": 7.03,
+    "DividendYield": 0.0072,
+    "EarningsShare": 27.38,
+    "EPSEstimateCurrentYear": 30.9745,
+    "EPSEstimateNextYear": 34.0263,
+    "EPSEstimateNextQuarter": 7.7245,
+    "EPSEstimateCurrentQuarter": 7.1662,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1729,
+    "OperatingMarginTTM": 0.2172,
+    "ReturnOnAssetsTTM": 0.0944,
+    "ReturnOnEquityTTM": 0.2578,
+    "RevenueTTM": 20461000704,
+    "RevenuePerShareTTM": 160.92,
+    "QuarterlyRevenueGrowthYOY": 0.091,
+    "GrossProfitTTM": 7657999872,
+    "DilutedEpsTTM": 27.38,
+    "QuarterlyEarningsGrowthYOY": -0.09
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.6,
+    "TotalEsgPercentile": 53.66,
+    "EnvironmentScore": 10.48,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 13.59,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 12.03,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PH",
+    "Type": "Common Stock",
+    "Name": "Parker-Hannifin Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BR3KL6",
+    "ISIN": "US7010941042",
+    "LEI": "5493002CONDB4N2HKI23",
+    "PrimaryTicker": "PH.US",
+    "CUSIP": "701094104",
+    "CIK": "0000076334",
+    "EmployerIdNumber": "34-0451060",
+    "FiscalYearEnd": "June",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Parker-Hannifin Corporation manufactures and sells motion and control technologies and systems for aerospace and defense, in-plant and industrial equipment, transportation, off-highway, energy, and HVAC and refrigeration markets in North America, Europe, Asia Pacific, and Latin America. The company operates through two segments: Diversified Industrial and Aerospace Systems. It offers various motion-control systems and components, such as active and passive vibration control, high purity sealing, coatings, high temperature sealing, cryogenic valves and fittings, HVAC/R controls and monitoring, elastomeric, fabric reinforced, metal, precision cut seals, hydrogen and natural gas filters, electric and hydraulic pumps and motors, industrial air, gas filtration, electric and hydraulic valves, miniature pumps and valves, electromagnetic interface shielding, pneumatic actuators, regulators and valves, electromechanical and hydraulic actuators, power take offs, electronics, drives and controllers, process filtration solutions, engine filtration solutions, rubber to substrate adhesives, fluid condition monitoring, sensors and diagnostics, fluid conveyance hose and tubing, structural adhesives, high pressure connectors, fittings, valves and regulators, thermal management, high purity fittings. The company also provides products for use in commercial and defense airframe and engine programs, such as avionics, electric and hydraulic braking systems, electric power, electromechanical actuators, engine exhaust systems and components, fire detection and suppression, flight control systems, fluid conveyance, fuel systems and components, fuel tank inserting systems, hydraulic pumps and motors, hydraulic valves and actuators, pneumatics, seals, sensors, and thermal management products. The company sells its products to original equipment manufacturers, distributors, direct-sales employees. Parker-Hannifin Corporation was founded in 1917 and is headquartered in Cleveland, Ohio.",
+    "Address": "6035 Parkland Boulevard, Cleveland, OH, United States, 44124-4141",
+    "AddressData": {
+      "Street": "6035 Parkland Boulevard",
+      "City": "Cleveland",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "44124-4141"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Jennifer A.  Parmentier",
+        "Title": "Chairman of the Board & CEO",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Andrew D. Ross",
+        "Title": "President & COO",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Todd M. Leombruno",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Joseph R. Leonti J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Patrick M. Scott",
+        "Title": "VP & President of Fluid Connectors Group",
+        "YearBorn": "1979"
+      },
+      "5": {
+        "Name": "Mr. Mark T. Czaja",
+        "Title": "VP and Chief Technology & Innovation Officer",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Mr. Dinu J. Parel",
+        "Title": "VP and Chief Digital & Information Officer",
+        "YearBorn": "1982"
+      },
+      "7": {
+        "Name": "Jeffrey J. Miller",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Aidan  Gormley",
+        "Title": "Director of Global Communications & Branding",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Douglas A. Gilbert",
+        "Title": "Vice President of Global Sales & Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "216 896 3000",
+    "WebURL": "https://www.parker.com",
+    "LogoURL": "/img/logos/US/PH.png",
+    "FullTimeEmployees": 57950,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 126216529,
+    "SharesFloat": 125793704,
+    "PercentInsiders": 0.163,
+    "PercentInstitutions": 90.975,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0107
+  }
+}

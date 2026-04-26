@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.6913,
+        "totalAssets": 0.0196,
+        "currentShares": 18154948,
+        "change": -72528,
+        "change_p": -0.3979
+      },
+      "1": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 8.2792,
+        "totalAssets": 0.1763,
+        "currentShares": 12856517,
+        "change": 88402,
+        "change_p": 0.6924
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6465,
+        "totalAssets": 0.0134,
+        "currentShares": 10321056,
+        "change": -1292244,
+        "change_p": -11.1273
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 6.3086,
+        "totalAssets": 0.0779,
+        "currentShares": 9796421,
+        "change": -2362894,
+        "change_p": -19.4328
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.6094,
+        "totalAssets": 0.0225,
+        "currentShares": 8710595,
+        "change": -712843,
+        "change_p": -7.5646
+      },
+      "5": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.1453,
+        "totalAssets": 0.0761,
+        "currentShares": 4884278,
+        "change": 555103,
+        "change_p": 12.8224
+      },
+      "6": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.8204,
+        "totalAssets": 0.0748,
+        "currentShares": 4379653,
+        "change": 1450170,
+        "change_p": 49.5026
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6023,
+        "totalAssets": 0.0185,
+        "currentShares": 4041089,
+        "change": 203200,
+        "change_p": 5.2946
+      },
+      "8": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.5294,
+        "totalAssets": 0.0555,
+        "currentShares": 3927876,
+        "change": 16697,
+        "change_p": 0.4269
+      },
+      "9": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0789,
+        "totalAssets": 0.7163,
+        "currentShares": 3228247,
+        "change": 124306,
+        "change_p": 4.0048
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9538,
+        "totalAssets": 0.0355,
+        "currentShares": 3034006,
+        "change": -310174,
+        "change_p": -9.275
+      },
+      "11": {
+        "name": "Clean Energy Transition LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.8907,
+        "totalAssets": 18.1975,
+        "currentShares": 2936073,
+        "change": 136855,
+        "change_p": 4.889
+      },
+      "12": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 1.6653,
+        "totalAssets": 0.1456,
+        "currentShares": 2586000,
+        "change": -61173,
+        "change_p": -2.3109
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5228,
+        "totalAssets": 0.0106,
+        "currentShares": 2364698,
+        "change": 204061,
+        "change_p": 9.4445
+      },
+      "14": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5042,
+        "totalAssets": 0.3062,
+        "currentShares": 2335884,
+        "change": -13073,
+        "change_p": -0.5565
+      },
+      "15": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.2054,
+        "totalAssets": 0.0448,
+        "currentShares": 1871839,
+        "change": -1327588,
+        "change_p": -41.4946
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1614,
+        "totalAssets": 0.0143,
+        "currentShares": 1803457,
+        "change": 222485,
+        "change_p": 14.0727
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0576,
+        "totalAssets": 0.019,
+        "currentShares": 1642324,
+        "change": 25903,
+        "change_p": 1.6025
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0285,
+        "totalAssets": 0.0186,
+        "currentShares": 1597048,
+        "change": 339878,
+        "change_p": 27.0352
+      },
+      "19": {
+        "name": "Fort Washington Investment Advisors Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0065,
+        "totalAssets": 0.6182,
+        "currentShares": 1562904,
+        "change": 9195,
+        "change_p": 0.5918
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 4.097,
+        "totalAssets": 0.4136,
+        "currentShares": 6362058,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.097,
+        "totalAssets": 0.4238,
+        "currentShares": 6362058,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.7835,
+        "totalAssets": 0.248,
+        "currentShares": 5875287,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 3.7835,
+        "totalAssets": 0.2517,
+        "currentShares": 5875287,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1734,
+        "totalAssets": 0.0175,
+        "currentShares": 4927804,
+        "change": 33610,
+        "change_p": 0.6867
+      },
+      "5": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5389,
+        "totalAssets": 0.0197,
+        "currentShares": 3942643,
+        "change": -41333,
+        "change_p": -1.0375
+      },
+      "6": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3063,
+        "totalAssets": 0.1532,
+        "currentShares": 3581398,
+        "change": 63494,
+        "change_p": 1.8049
+      },
+      "7": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8096,
+        "totalAssets": 1.2642,
+        "currentShares": 2810000,
+        "change": 129418,
+        "change_p": 4.828
+      },
+      "8": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 1.7954,
+        "totalAssets": 1.2259,
+        "currentShares": 2788000,
+        "change": -19000,
+        "change_p": -0.6769
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.5163,
+        "totalAssets": 0.1962,
+        "currentShares": 2354586,
+        "change": 6943,
+        "change_p": 0.2957
+      },
+      "10": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4673,
+        "totalAssets": 0.2666,
+        "currentShares": 2278476,
+        "change": 19492,
+        "change_p": 0.8629
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2818,
+        "totalAssets": 0.0196,
+        "currentShares": 1990531,
+        "change": -1080,
+        "change_p": -0.0542
+      },
+      "12": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.2742,
+        "totalAssets": 1.2731,
+        "currentShares": 1978685,
+        "change": -941,
+        "change_p": -0.0475
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2693,
+        "totalAssets": 0.0228,
+        "currentShares": 1971108,
+        "change": 3248,
+        "change_p": 0.1651
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1652,
+        "totalAssets": 0.0198,
+        "currentShares": 1809422,
+        "change": -4410,
+        "change_p": -0.2431
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8766,
+        "totalAssets": 0.4678,
+        "currentShares": 1361296,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8111,
+        "totalAssets": 0.5638,
+        "currentShares": 1259581,
+        "change": -51006,
+        "change_p": -3.8918
+      },
+      "17": {
+        "name": "Columbia Contrarian Large Cap Core",
+        "date": "2025-12-31",
+        "totalShares": 0.7942,
+        "totalAssets": 0.5685,
+        "currentShares": 1233294,
+        "change": 237027,
+        "change_p": 23.7915
+      },
+      "18": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7896,
+        "totalAssets": 0.6126,
+        "currentShares": 1226086,
+        "change": -15431,
+        "change_p": -1.2429
+      },
+      "19": {
+        "name": "Columbia Contrarian Core Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.7733,
+        "totalAssets": 0.5511,
+        "currentShares": 1200807,
+        "change": -55998,
+        "change_p": -4.4556
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.9208,
+    "ForwardPE": 14.5349,
+    "PriceSalesTTM": 0.7866,
+    "PriceBookMRQ": 1.3036,
+    "EnterpriseValue": 17520021468,
+    "EnterpriseValueRevenue": 1.1579,
+    "EnterpriseValueEbitda": 12.1112
+  },
+  "Highlights": {
+    "MarketCapitalization": 11901152256,
+    "MarketCapitalizationMln": 11901.1523,
+    "EBITDA": 1686300032,
+    "PERatio": 28.9208,
+    "PEGRatio": 1.3904,
+    "WallStreetTargetPrice": 89.225,
+    "BookValue": 58.403,
+    "DividendShare": 3.3,
+    "DividendYield": 0.0434,
+    "EarningsShare": 2.65,
+    "EPSEstimateCurrentYear": 5.212,
+    "EPSEstimateNextYear": 6.0652,
+    "EPSEstimateNextQuarter": 1.0428,
+    "EPSEstimateCurrentQuarter": 1.2828,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0266,
+    "OperatingMarginTTM": 0.1035,
+    "ReturnOnAssetsTTM": 0.0341,
+    "ReturnOnEquityTTM": 0.0452,
+    "RevenueTTM": 15130399744,
+    "RevenuePerShareTTM": 100.03,
+    "QuarterlyRevenueGrowthYOY": -0.01,
+    "GrossProfitTTM": 4634100224,
+    "DilutedEpsTTM": 2.65,
+    "QuarterlyEarningsGrowthYOY": -0.193
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.87,
+    "TotalEsgPercentile": 63.98,
+    "EnvironmentScore": 3.28,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 14.54,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 6.05,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SWK",
+    "Type": "Common Stock",
+    "Name": "Stanley Black & Decker Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BTQR96",
+    "ISIN": "US8545021011",
+    "LEI": "549300DJ09SMTO561131",
+    "PrimaryTicker": "SWK.US",
+    "CUSIP": "854502101",
+    "CIK": "0000093556",
+    "EmployerIdNumber": "06-0548860",
+    "FiscalYearEnd": "December",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Tools & Accessories",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Stanley Black & Decker, Inc. provides hand tools, power tools, outdoor products, and related accessories in the United States, Canada, Other Americas, Europe, and Asia. Its Tools & Outdoor segment offers professional grade corded and cordless electric power tools and equipment, including drills, impact wrenches and drivers, grinders, saws, routers, concrete prep and placement tools, and sanders; pneumatic tools and fasteners, such as nail guns, nails, staplers and staples, and concrete and masonry anchors; corded and cordless electric power tools; household power tools, hand-held vacuums, and small appliances; leveling and layout tools, planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, and industrial and automotive tools; drill, screwdriver, router bits, abrasives, saw blades, and threading products; tool boxes, sawhorses, medical cabinets, and engineered storage solutions; and electric and gas-powered lawn and garden products. This segment sells its products under the DEWALT, CRAFTSMAN, CUB ADET, STANLEY, BLACK+DECKER, and HUSTLER brands through retailers, third-party distributors, independent dealers, and a direct sales force. Its Industrial segment provides threaded fasteners, blind rivets and tools, blind inserts and tools, drawn arc weld studs and systems, engineered plastic and mechanical fasteners, self-piercing riveting systems, precision nut running systems, micro fasteners, high-strength structural fasteners, axel swage, latches, heat shields, pins, couplings, fitting, and other engineered products. This segment sells its products through direct sales force and third-party distributors to the automotive, manufacturing, electronics, construction, aerospace, and other industries. The company was formerly known as The Stanley Works and changed its name to Stanley Black & Decker, Inc. in March 2010. The company was founded in 1843 and is headquartered in New Britain, Connecticut.",
+    "Address": "1000 Stanley Drive, New Britain, CT, United States, 06053",
+    "AddressData": {
+      "Street": "1000 Stanley Drive",
+      "City": "New Britain",
+      "State": "CT",
+      "Country": "United States",
+      "ZIP": "06053"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SWT",
+        "Exchange": "US",
+        "Name": "Stanley Black Decker Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Donald  Allan Jr.",
+        "Title": "Executive Chair of the Board",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Christopher John Nelson",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Patrick D. Hallinan",
+        "Title": "Executive VP, CFO & Chief Administrative Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Ms. Deborah K. Wintner",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Tamer K. Abuaita",
+        "Title": "Senior Advisor",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. William D. Beck",
+        "Title": "Senior VP and President of Tools & Outdoor",
+        "YearBorn": "1979"
+      },
+      "6": {
+        "Name": "Mr. Agustin  Lopez Diaz",
+        "Title": "Senior VP & Chief Supply Chain Officer",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Mr. Scot D. Greulach",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1983"
+      },
+      "8": {
+        "Name": "Mr. Michael J. Wherley",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Francesca  Campbell",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1984"
+      }
+    },
+    "Phone": "860 225 5111",
+    "WebURL": "https://www.stanleyblackanddecker.com",
+    "LogoURL": "/img/logos/US/swk.png",
+    "FullTimeEmployees": 43500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 155286429,
+    "SharesFloat": 154608026,
+    "PercentInsiders": 0.293,
+    "PercentInstitutions": 94.979,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0483
+  }
+}

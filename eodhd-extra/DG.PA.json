@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 14.7514,
+    "ForwardPE": 14.2857,
+    "PriceSalesTTM": 0.9325,
+    "PriceBookMRQ": 2.3565,
+    "EnterpriseValue": 91541438708,
+    "EnterpriseValueRevenue": 1.2092,
+    "EnterpriseValueEbitda": 6.7049
+  },
+  "Highlights": {
+    "MarketCapitalization": 70589071360,
+    "MarketCapitalizationMln": 70589.0714,
+    "EBITDA": 12375000064,
+    "PERatio": 14.7514,
+    "PEGRatio": 2.6465,
+    "WallStreetTargetPrice": 143.6429,
+    "BookValue": 55.313,
+    "DividendShare": 5,
+    "DividendYield": 0.0382,
+    "EarningsShare": 8.65,
+    "EPSEstimateCurrentYear": 9.2022,
+    "EPSEstimateNextYear": 10.1636,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0648,
+    "OperatingMarginTTM": 0.1314,
+    "ReturnOnAssetsTTM": 0.0432,
+    "ReturnOnEquityTTM": 0.1543,
+    "RevenueTTM": 75702001664,
+    "RevenuePerShareTTM": 135.18,
+    "QuarterlyRevenueGrowthYOY": 0.052,
+    "GrossProfitTTM": 13447999488,
+    "DilutedEpsTTM": 8.65,
+    "QuarterlyEarningsGrowthYOY": 0.068
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.93,
+    "TotalEsgPercentile": 49.58,
+    "EnvironmentScore": 4.26,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 9.6,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 5.56,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DG",
+    "Type": "Common Stock",
+    "Name": "Vinci S.A.",
+    "Exchange": "PA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "France",
+    "CountryISO": "FR",
+    "OpenFigi": null,
+    "ISIN": "FR0000125486",
+    "LEI": "213800WFQ334R8UXUG83",
+    "PrimaryTicker": "DG.PA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Engineering & Construction",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Construction & Engineering",
+    "GicSubIndustry": "Construction & Engineering",
+    "Description": "Vinci SA, together with its subsidiaries, engages in concessions, energy, and construction businesses in France and internationally. It operates through Concessions, Energy Solutions, and Construction segments. The company's Concessions segment operates motorways, autoroutes, airports, highways, railways, and stadiums. Its Energy segment provides services to the manufacturing sector, infrastructure, building solutions and facilities management, and information and communication technology; and industrial and energy-related services, which includes development of renewable energy assets, as well as engineering, procurement, construction projects in the energy sector, and development of renewable energy production facilities of solar, and wind farms. The company's Construction segment engages in designing and undertaking projects, which includes general contractor; geotechnical, and structural engineering and related digital activities, as well as provision of services in nuclear engineering; undertaking building, civil engineering, roadworks, rail works, and water works; development of properties, including residential and commercial properties; and management of residences and property services. Vinci SA was founded in 1899 and is headquartered in Nanterre, France.",
+    "Address": "1973, boulevard de la Défense, Nanterre, France, 92000",
+    "AddressData": {
+      "Street": "1973, boulevard de la Défense",
+      "City": "Nanterre",
+      "Country": "France",
+      "ZIP": "92000"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Pierre  Anjolras",
+        "Title": "CEO & Director",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Christian  Labeyrie",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1956"
+      },
+      "2": {
+        "Name": "Mr. Gregoire  Thibault",
+        "Title": "Group Director of Investor Relations & Financial Communications",
+        "YearBorn": "1981"
+      },
+      "3": {
+        "Name": "Ms. Sophie  Deis-Beauquesne",
+        "Title": "General Counsel",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Pierre  Duprat",
+        "Title": "Vice-President of Corporate Communications",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Mr. Ludovic  Demierre",
+        "Title": "Vice-President of Human Resources",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Philippe  Chavent",
+        "Title": "Chief Operating Officer of VINCI Construction",
+        "YearBorn": "1968"
+      },
+      "7": {
+        "Name": "Mr. Hugues  Fourmentraux",
+        "Title": "Chief Operating Officer of VINCI Construction",
+        "YearBorn": "1968"
+      },
+      "8": {
+        "Name": "Gilles  Godard",
+        "Title": "Chief Digital Transformation Officer of VINCI Construction",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Marie  Bastart",
+        "Title": "Deputy Chief Financial Officer",
+        "YearBorn": "1966"
+      }
+    },
+    "Phone": "33 1 57 98 61 00",
+    "WebURL": "https://www.vinci.com",
+    "LogoURL": "/img/logos/PA/DG.png",
+    "FullTimeEmployees": 292101,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 552967865,
+    "SharesFloat": 477470100,
+    "PercentInsiders": 12.105,
+    "PercentInstitutions": 50.546,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

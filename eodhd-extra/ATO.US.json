@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.7132,
+        "totalAssets": 0.0511,
+        "currentShares": 21032554,
+        "change": 276485,
+        "change_p": 1.3321
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.8014,
+        "totalAssets": 0.0435,
+        "currentShares": 14560909,
+        "change": 220041,
+        "change_p": 1.5344
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 7.1893,
+        "totalAssets": 0.3126,
+        "currentShares": 11893826,
+        "change": 927986,
+        "change_p": 8.4625
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.4256,
+        "totalAssets": 0.0629,
+        "currentShares": 10630522,
+        "change": 356942,
+        "change_p": 3.4744
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 6.0509,
+        "totalAssets": 0.2941,
+        "currentShares": 10010508,
+        "change": -457320,
+        "change_p": -4.3688
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.7251,
+        "totalAssets": 0.1428,
+        "currentShares": 7817196,
+        "change": 73421,
+        "change_p": 0.9481
+      },
+      "6": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.8504,
+        "totalAssets": 2.1374,
+        "currentShares": 6370129,
+        "change": -864600,
+        "change_p": -11.9507
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5478,
+        "totalAssets": 0.0434,
+        "currentShares": 4214985,
+        "change": 78438,
+        "change_p": 1.8962
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.2589,
+        "totalAssets": 0.0433,
+        "currentShares": 3737053,
+        "change": 84786,
+        "change_p": 2.3215
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8734,
+        "totalAssets": 0.0834,
+        "currentShares": 3099360,
+        "change": 17022,
+        "change_p": 0.5522
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7578,
+        "totalAssets": 0.0301,
+        "currentShares": 2908094,
+        "change": 408214,
+        "change_p": 16.3293
+      },
+      "11": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.7453,
+        "totalAssets": 0.1576,
+        "currentShares": 2887367,
+        "change": 47860,
+        "change_p": 1.6855
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1951,
+        "totalAssets": 0.0355,
+        "currentShares": 1977131,
+        "change": 144112,
+        "change_p": 7.862
+      },
+      "13": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.1941,
+        "totalAssets": 0.1068,
+        "currentShares": 1975460,
+        "change": 25963,
+        "change_p": 1.3318
+      },
+      "14": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9872,
+        "totalAssets": 0.0736,
+        "currentShares": 1633172,
+        "change": 1102992,
+        "change_p": 208.041
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9554,
+        "totalAssets": 0.0588,
+        "currentShares": 1580574,
+        "change": 1686,
+        "change_p": 0.1068
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9185,
+        "totalAssets": 0.0332,
+        "currentShares": 1519505,
+        "change": -28678,
+        "change_p": -1.8524
+      },
+      "17": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.7709,
+        "totalAssets": 0.0414,
+        "currentShares": 1275449,
+        "change": 68328,
+        "change_p": 5.6604
+      },
+      "18": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 0.7664,
+        "totalAssets": 0.1836,
+        "currentShares": 1267928,
+        "change": 27145,
+        "change_p": 2.1877
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7535,
+        "totalAssets": 0.0256,
+        "currentShares": 1246554,
+        "change": -64291,
+        "change_p": -4.9045
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.2746,
+        "totalAssets": 0.8143,
+        "currentShares": 5417449,
+        "change": 89735,
+        "change_p": 1.6843
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1759,
+        "totalAssets": 0.0486,
+        "currentShares": 5254204,
+        "change": 146815,
+        "change_p": 2.8746
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5475,
+        "totalAssets": 0.0547,
+        "currentShares": 4214638,
+        "change": 85749,
+        "change_p": 2.0768
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3086,
+        "totalAssets": 0.4246,
+        "currentShares": 3819398,
+        "change": 147135,
+        "change_p": 4.0067
+      },
+      "4": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.9242,
+        "totalAssets": 1.265,
+        "currentShares": 3183395,
+        "change": -1971,
+        "change_p": -0.0619
+      },
+      "5": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.845,
+        "totalAssets": 0.3663,
+        "currentShares": 3052381,
+        "change": 2851615,
+        "change_p": 1420.3675
+      },
+      "6": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7036,
+        "totalAssets": 2.1436,
+        "currentShares": 2818421,
+        "change": -2403,
+        "change_p": -0.0852
+      },
+      "7": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4692,
+        "totalAssets": 0.7392,
+        "currentShares": 2430691,
+        "change": 72437,
+        "change_p": 3.0716
+      },
+      "8": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.4467,
+        "totalAssets": 0.6418,
+        "currentShares": 2393487,
+        "change": -313425,
+        "change_p": -11.5787
+      },
+      "9": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.4307,
+        "totalAssets": 0.4,
+        "currentShares": 2366976,
+        "change": -3050473,
+        "change_p": -56.3083
+      },
+      "10": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2851,
+        "totalAssets": 0.0545,
+        "currentShares": 2126001,
+        "change": -1152,
+        "change_p": -0.0542
+      },
+      "11": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2348,
+        "totalAssets": 0.0509,
+        "currentShares": 2042857,
+        "change": 3353,
+        "change_p": 0.1644
+      },
+      "12": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.1756,
+        "totalAssets": 0.5138,
+        "currentShares": 1944936,
+        "change": -265064,
+        "change_p": -11.9938
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1596,
+        "totalAssets": 0.0545,
+        "currentShares": 1918466,
+        "change": -4704,
+        "change_p": -0.2446
+      },
+      "14": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.9996,
+        "totalAssets": 0.2519,
+        "currentShares": 1653667,
+        "change": 474898,
+        "change_p": 40.2876
+      },
+      "15": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9382,
+        "totalAssets": 0.1479,
+        "currentShares": 1552084,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7954,
+        "totalAssets": 0.1465,
+        "currentShares": 1315930,
+        "change": -236154,
+        "change_p": -15.2153
+      },
+      "17": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7533,
+        "totalAssets": 1.1132,
+        "currentShares": 1246231,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "T. Rowe Price US Dividend Growth Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7128,
+        "totalAssets": 0.8229,
+        "currentShares": 1179183,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "T. Rowe Price Dividend Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.7097,
+        "totalAssets": 0.9568,
+        "currentShares": 1174199,
+        "change": -4984,
+        "change_p": -0.4227
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.1471,
+    "ForwardPE": 22.8833,
+    "PriceSalesTTM": 6.3008,
+    "PriceBookMRQ": 2.1754,
+    "EnterpriseValue": 40336943448,
+    "EnterpriseValueRevenue": 8.2839,
+    "EnterpriseValueEbitda": 16.4543
+  },
+  "Highlights": {
+    "MarketCapitalization": 30680651776,
+    "MarketCapitalizationMln": 30680.6518,
+    "EBITDA": 2391588096,
+    "PERatio": 24.1471,
+    "PEGRatio": 2.2414,
+    "WallStreetTargetPrice": 186.8182,
+    "BookValue": 86.336,
+    "DividendShare": 3.61,
+    "DividendYield": 0.0192,
+    "EarningsShare": 7.68,
+    "EPSEstimateCurrentYear": 8.2962,
+    "EPSEstimateNextYear": 8.8592,
+    "EPSEstimateNextQuarter": 3.3429,
+    "EPSEstimateCurrentQuarter": 2.4383,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2567,
+    "OperatingMarginTTM": 0.3885,
+    "ReturnOnAssetsTTM": 0.0365,
+    "ReturnOnEquityTTM": 0.0924,
+    "RevenueTTM": 4869341184,
+    "RevenuePerShareTTM": 30.329,
+    "QuarterlyRevenueGrowthYOY": 0.142,
+    "GrossProfitTTM": 2815628032,
+    "DilutedEpsTTM": 7.68,
+    "QuarterlyEarningsGrowthYOY": 0.094
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 40.15,
+    "TotalEsgPercentile": 80.88,
+    "EnvironmentScore": 18.85,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 19,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 9.8,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ATO",
+    "Type": "Common Stock",
+    "Name": "Atmos Energy Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRNGM2",
+    "ISIN": "US0495601058",
+    "LEI": "QVLWEGTD2S8GJMO8D383",
+    "PrimaryTicker": "ATO.US",
+    "CUSIP": "049560105",
+    "CIK": "0000731802",
+    "EmployerIdNumber": "75-1743247",
+    "FiscalYearEnd": "September",
+    "IPODate": "1987-01-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Gas",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Gas Utilities",
+    "GicSubIndustry": "Gas Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Atmos Energy Corporation, together with its subsidiaries, engages in the regulated natural gas distribution, and pipeline and storage businesses in the United States. It operates through two segments, Distribution, and Pipeline and Storage. The Distribution segment is involved in the regulated natural gas distribution and related sales operations in eight states. This segment distributes natural gas to approximately 3.4 million residential, commercial, public authority, and industrial customers; and owned 76,000 miles of underground distribution and transmission mains. The Pipeline and Storage segment engages in the pipeline and storage operations. This segment transports natural gas for third parties and manages five underground storage facilities in Texas; provides ancillary services customary to the pipeline industry, including parking arrangements, lending, and inventory sales; and owned 5,700 miles of gas transmission lines. Atmos Energy Corporation was founded in 1906 and is based in Dallas, Texas.",
+    "Address": "1800 Three Lincoln Centre, Dallas, TX, United States, 75240",
+    "AddressData": {
+      "Street": "1800 Three Lincoln Centre",
+      "City": "Dallas",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75240"
+    },
+    "Listings": {
+      "0": {
+        "Code": "ATO",
+        "Exchange": "F",
+        "Name": "ATS Automation Tooling Systems Inc."
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. John Kevin Akers",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Christopher T. Forsythe",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Ms. Jessica  Bateman Pulliam",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. John S. McDill",
+        "Title": "Senior Vice President of Utility Operations",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Jeffrey S. Knights",
+        "Title": "Senior Vice President of Technical & Operating Services",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Michelle H. Faulk",
+        "Title": "VP, Controller & Principal Accounting Officer",
+        "YearBorn": "1978"
+      },
+      "6": {
+        "Name": "Mr. Richard A Mitschke",
+        "Title": "VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Daniel M. Meziere CPA",
+        "Title": "VP of Investor Relations & Treasurer",
+        "YearBorn": "1961"
+      },
+      "8": {
+        "Name": "Ms. Liz C. Beauchamp",
+        "Title": "Vice President of Governmental & Public Affairs",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. John Matt Robbins",
+        "Title": "Senior Vice President of Human Resources",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "972 934 9227",
+    "WebURL": "https://www.atmosenergy.com",
+    "LogoURL": "/img/logos/US/ATO.png",
+    "FullTimeEmployees": 5487,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 165438946,
+    "SharesFloat": 164735830,
+    "PercentInsiders": 0.398,
+    "PercentInstitutions": 100.142,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0264
+  }
+}

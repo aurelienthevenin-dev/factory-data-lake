@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5864,
+        "totalAssets": 0.034,
+        "currentShares": 56978753,
+        "change": 190334,
+        "change_p": 0.3352
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.222,
+        "totalAssets": 0.0283,
+        "currentShares": 45351341,
+        "change": 137569,
+        "change_p": 0.3043
+      },
+      "2": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 6.4661,
+        "totalAssets": 0.6864,
+        "currentShares": 31798738,
+        "change": 17143904,
+        "change_p": 116.9846
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3511,
+        "totalAssets": 0.0265,
+        "currentShares": 21397509,
+        "change": -1789418,
+        "change_p": -7.7174
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6987,
+        "totalAssets": 0.0342,
+        "currentShares": 13271492,
+        "change": 697277,
+        "change_p": 5.5453
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.1565,
+        "totalAssets": 0.0596,
+        "currentShares": 10605256,
+        "change": -1120654,
+        "change_p": -9.5571
+      },
+      "6": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.8404,
+        "totalAssets": 0.4707,
+        "currentShares": 9050554,
+        "change": -77390,
+        "change_p": -0.8478
+      },
+      "7": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.7466,
+        "totalAssets": 0.207,
+        "currentShares": 8589500,
+        "change": -126556,
+        "change_p": -1.452
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7079,
+        "totalAssets": 0.0181,
+        "currentShares": 8398985,
+        "change": 2546310,
+        "change_p": 43.5068
+      },
+      "9": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.6975,
+        "totalAssets": 0.1883,
+        "currentShares": 8347666,
+        "change": -2281363,
+        "change_p": -21.4635
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6408,
+        "totalAssets": 0.0355,
+        "currentShares": 8069121,
+        "change": -18386240,
+        "change_p": -69.4991
+      },
+      "11": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4824,
+        "totalAssets": 0.0597,
+        "currentShares": 7290041,
+        "change": 1881041,
+        "change_p": 34.7761
+      },
+      "12": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3449,
+        "totalAssets": 0.0423,
+        "currentShares": 6614013,
+        "change": 530638,
+        "change_p": 8.7228
+      },
+      "13": {
+        "name": "Deerfield Management Co",
+        "date": "2025-12-31",
+        "totalShares": 1.3112,
+        "totalAssets": 3.3886,
+        "currentShares": 6447998,
+        "change": -2598002,
+        "change_p": -28.7199
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1019,
+        "totalAssets": 0.0274,
+        "currentShares": 5418959,
+        "change": 1145369,
+        "change_p": 26.8011
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0128,
+        "totalAssets": 0.0227,
+        "currentShares": 4980860,
+        "change": -82427,
+        "change_p": -1.6279
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9948,
+        "totalAssets": 0.0379,
+        "currentShares": 4892356,
+        "change": -203502,
+        "change_p": -3.9935
+      },
+      "17": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9556,
+        "totalAssets": 0.0179,
+        "currentShares": 4699227,
+        "change": 3975957,
+        "change_p": 549.7196
+      },
+      "18": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.9484,
+        "totalAssets": 0.0288,
+        "currentShares": 4663967,
+        "change": -1535592,
+        "change_p": -24.7694
+      },
+      "19": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9285,
+        "totalAssets": 0.079,
+        "currentShares": 4566222,
+        "change": -538018,
+        "change_p": -10.5406
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1833,
+        "totalAssets": 0.0257,
+        "currentShares": 15654588,
+        "change": 104292,
+        "change_p": 0.6707
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.419,
+        "totalAssets": 0.0274,
+        "currentShares": 11896067,
+        "change": -109254,
+        "change_p": -0.91
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2227,
+        "totalAssets": 0.0273,
+        "currentShares": 6012804,
+        "change": -3276,
+        "change_p": -0.0545
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2084,
+        "totalAssets": 0.0356,
+        "currentShares": 5942433,
+        "change": 9806,
+        "change_p": 0.1653
+      },
+      "4": {
+        "name": "Oakmark Select Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.1924,
+        "totalAssets": 2.9535,
+        "currentShares": 5864000,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1545,
+        "totalAssets": 0.1119,
+        "currentShares": 5677528,
+        "change": 96160,
+        "change_p": 1.7229
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1007,
+        "totalAssets": 0.0273,
+        "currentShares": 5413101,
+        "change": -13328,
+        "change_p": -0.2456
+      },
+      "7": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.08,
+        "totalAssets": 0.0875,
+        "currentShares": 5311098,
+        "change": -30105,
+        "change_p": -0.5636
+      },
+      "8": {
+        "name": "Loomis Sayles CPFD CIT",
+        "date": "2025-12-31",
+        "totalShares": 1.0391,
+        "totalAssets": 0.1348,
+        "currentShares": 5110000,
+        "change": 620000,
+        "change_p": 13.8085
+      },
+      "9": {
+        "name": "Core Plus Full Discretion CIT D",
+        "date": "2025-12-31",
+        "totalShares": 1.0391,
+        "totalAssets": 0.1348,
+        "currentShares": 5110000,
+        "change": 620000,
+        "change_p": 13.8085
+      },
+      "10": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-12-31",
+        "totalShares": 1.0391,
+        "totalAssets": 0.1348,
+        "currentShares": 5110000,
+        "change": 620000,
+        "change_p": 13.8085
+      },
+      "11": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9846,
+        "totalAssets": 0.1859,
+        "currentShares": 4841812,
+        "change": 14279,
+        "change_p": 0.2958
+      },
+      "12": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7346,
+        "totalAssets": 0.1947,
+        "currentShares": 3612607,
+        "change": 28213,
+        "change_p": 0.7871
+      },
+      "13": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6943,
+        "totalAssets": 0.2879,
+        "currentShares": 3414579,
+        "change": 10352,
+        "change_p": 0.3041
+      },
+      "14": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.5927,
+        "totalAssets": 0.5199,
+        "currentShares": 2914609,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5615,
+        "totalAssets": 1.4674,
+        "currentShares": 2761227,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5358,
+        "totalAssets": 0.0273,
+        "currentShares": 2635097,
+        "change": -11182,
+        "change_p": -0.4226
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5071,
+        "totalAssets": 0.027,
+        "currentShares": 2493798,
+        "change": 4700,
+        "change_p": 0.1888
+      },
+      "18": {
+        "name": "Invesco S&P 500 Revenue ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4845,
+        "totalAssets": 0.9644,
+        "currentShares": 2382436,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.4621,
+        "totalAssets": 0.033,
+        "currentShares": 2272628,
+        "change": -16277,
+        "change_p": -0.7111
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 13.7931,
+    "PriceSalesTTM": 0.1168,
+    "PriceBookMRQ": 1.0127,
+    "EnterpriseValue": 18048931737,
+    "EnterpriseValueRevenue": 0.0927,
+    "EnterpriseValueEbitda": 3.7927
+  },
+  "Highlights": {
+    "MarketCapitalization": 20565925888,
+    "MarketCapitalizationMln": 20565.9259,
+    "EBITDA": 2560999936,
+    "PERatio": null,
+    "PEGRatio": 0.9192,
+    "WallStreetTargetPrice": 43.4706,
+    "BookValue": 40.575,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": -13.77,
+    "EPSEstimateCurrentYear": 3.0191,
+    "EPSEstimateNextYear": 3.979,
+    "EPSEstimateNextQuarter": 2.079,
+    "EPSEstimateCurrentQuarter": -1.2201,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0379,
+    "OperatingMarginTTM": -0.0188,
+    "ReturnOnAssetsTTM": 0.0101,
+    "ReturnOnEquityTTM": -0.2868,
+    "RevenueTTM": 176151003136,
+    "RevenuePerShareTTM": 357.22,
+    "QuarterlyRevenueGrowthYOY": 0.232,
+    "GrossProfitTTM": 18449000448,
+    "DilutedEpsTTM": -13.77,
+    "QuarterlyEarningsGrowthYOY": 0.218
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.72,
+    "TotalEsgPercentile": 36.42,
+    "EnvironmentScore": 5.14,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 21.92,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 10.66,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CNC",
+    "Type": "Common Stock",
+    "Name": "Centene Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BDXCJ5",
+    "ISIN": "US15135B1017",
+    "LEI": "549300Z7JJ4TQSQGT333",
+    "PrimaryTicker": "CNC.US",
+    "CUSIP": "15135B101",
+    "CIK": "0001071739",
+    "EmployerIdNumber": "42-1406317",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-12-13",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare Plans",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Managed Health Care",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Centene Corporation operates as a managed care company that provides programs and services to under-insured families, and commercial organizations in the United States. It operates through four segments: Medicaid, Medicare, Commercial, and Other. The Medicaid segment offers the temporary assistance for needy families; medicaid expansion; aged, blind, or disabled; and children's health insurance programs, as well as long-term services and supports; foster care; and medicare-medicaid plans. This segment also provides healthcare products and services. The Medicare segment offers special needs and medicare supplement, and prescription drug plans. The Commercial segment provides health insurance marketplace product for individual and commercial group. The Other segment operates clinical healthcare and pharmacies, as well as offers vision and dental, behavioral health, and centralized services. It provides services through primary and specialty care physicians, hospitals, behavioral health practitioners, and ancillary providers. The company was founded in 1984 and is headquartered in Saint Louis, Missouri.",
+    "Address": "Centene Plaza, Saint Louis, MO, United States, 63105",
+    "AddressData": {
+      "Street": "Centene Plaza",
+      "City": "Saint Louis",
+      "State": "MO",
+      "Country": "United States",
+      "ZIP": "63105"
+    },
+    "Listings": {
+      "0": {
+        "Code": "QEN",
+        "Exchange": "F",
+        "Name": "Centene Corp"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Sarah M. London",
+        "Title": "CEO & Director",
+        "YearBorn": "1981"
+      },
+      "1": {
+        "Name": "Mr. Andrew Lynn Asher",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Ms. Susan R. Smith",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Christopher Andrew Koster",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Ms. Tanya M. McNally",
+        "Title": "Senior VP & Chief People Officer",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Theodore  Pienkos",
+        "Title": "Corporate Controller & Chief Accounting Officer",
+        "YearBorn": "1982"
+      },
+      "6": {
+        "Name": "Mr. Brian Phillip LeClaire M.B.A., Ph.D.",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1960"
+      },
+      "7": {
+        "Name": "Ms. Jennifer Lynch Gilligan",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Ashlee  Knuckey",
+        "Title": "Chief Risk, Ethics & Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Cary D. Hobbs",
+        "Title": "Executive VP & Chief of Staff",
+        "YearBorn": "1968"
+      }
+    },
+    "Phone": "314 725 4477",
+    "WebURL": "https://www.centene.com",
+    "LogoURL": "/img/logos/US/CNC.png",
+    "FullTimeEmployees": 61100,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 491772493,
+    "SharesFloat": 458812508,
+    "PercentInsiders": 0.313,
+    "PercentInstitutions": 99.406,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0318
+  }
+}

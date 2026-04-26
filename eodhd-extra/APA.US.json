@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2603,
+        "totalAssets": 0.0154,
+        "currentShares": 43327998,
+        "change": -698443,
+        "change_p": -1.5864
+      },
+      "1": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 10.0302,
+        "totalAssets": 2.5898,
+        "currentShares": 35446644,
+        "change": -314833,
+        "change_p": -0.8804
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.9319,
+        "totalAssets": 0.0206,
+        "currentShares": 24497220,
+        "change": -460194,
+        "change_p": -1.8439
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6582,
+        "totalAssets": 0.01,
+        "currentShares": 23530083,
+        "change": -362067,
+        "change_p": -1.5154
+      },
+      "4": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 4.3356,
+        "totalAssets": 0.0786,
+        "currentShares": 15321936,
+        "change": 1291706,
+        "change_p": 9.2066
+      },
+      "5": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.1624,
+        "totalAssets": 0.0559,
+        "currentShares": 14710034,
+        "change": 285542,
+        "change_p": 1.9796
+      },
+      "6": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 3.295,
+        "totalAssets": 0.36,
+        "currentShares": 11644670,
+        "change": -13361120,
+        "change_p": -53.4321
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.126,
+        "totalAssets": 0.0138,
+        "currentShares": 11047390,
+        "change": 6480422,
+        "change_p": 141.8977
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.9286,
+        "totalAssets": 0.0396,
+        "currentShares": 10349825,
+        "change": -1276229,
+        "change_p": -10.9773
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7908,
+        "totalAssets": 0.0149,
+        "currentShares": 9862673,
+        "change": -84766,
+        "change_p": -0.8521
+      },
+      "10": {
+        "name": "Smead Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.689,
+        "totalAssets": 4.8234,
+        "currentShares": 9503039,
+        "change": -658534,
+        "change_p": -6.4806
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.4224,
+        "totalAssets": 0.0126,
+        "currentShares": 8560686,
+        "change": 96103,
+        "change_p": 1.1354
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0302,
+        "totalAssets": 0.0215,
+        "currentShares": 7174811,
+        "change": 3119880,
+        "change_p": 76.9404
+      },
+      "13": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.4143,
+        "totalAssets": 0.0199,
+        "currentShares": 4998075,
+        "change": -226001,
+        "change_p": -4.3261
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3474,
+        "totalAssets": 0.0207,
+        "currentShares": 4761663,
+        "change": 1259226,
+        "change_p": 35.9529
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2627,
+        "totalAssets": 0.0139,
+        "currentShares": 4462476,
+        "change": 1018326,
+        "change_p": 29.5668
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.2535,
+        "totalAssets": 0.0169,
+        "currentShares": 4429773,
+        "change": 200375,
+        "change_p": 4.7377
+      },
+      "17": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.1891,
+        "totalAssets": 0.2241,
+        "currentShares": 4202160,
+        "change": 149734,
+        "change_p": 3.6949
+      },
+      "18": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1343,
+        "totalAssets": 0.0029,
+        "currentShares": 4008718,
+        "change": 2144378,
+        "change_p": 115.0208
+      },
+      "19": {
+        "name": "Pacer Advisors, INC.",
+        "date": "2025-12-31",
+        "totalShares": 0.8109,
+        "totalAssets": 0.1791,
+        "currentShares": 2865555,
+        "change": -352876,
+        "change_p": -10.9642
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 5.2564,
+        "totalAssets": 0.7161,
+        "currentShares": 18576257,
+        "change": -188710,
+        "change_p": -1.0057
+      },
+      "1": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 4.7149,
+        "totalAssets": 0.9058,
+        "currentShares": 16662367,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.17,
+        "totalAssets": 0.0238,
+        "currentShares": 11202709,
+        "change": -8489,
+        "change_p": -0.0757
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5557,
+        "totalAssets": 0.0269,
+        "currentShares": 9031891,
+        "change": -87970,
+        "change_p": -0.9646
+      },
+      "4": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3252,
+        "totalAssets": 0.7961,
+        "currentShares": 8217100,
+        "change": 84096,
+        "change_p": 1.034
+      },
+      "5": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3079,
+        "totalAssets": 0.2083,
+        "currentShares": 8155987,
+        "change": 101203,
+        "change_p": 1.2564
+      },
+      "6": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.249,
+        "totalAssets": 0.4126,
+        "currentShares": 7947834,
+        "change": 13156,
+        "change_p": 0.1658
+      },
+      "7": {
+        "name": "Smead US Value Composite",
+        "date": "2026-02-28",
+        "totalShares": 2.1661,
+        "totalAssets": 5.2928,
+        "currentShares": 7655072,
+        "change": -156581,
+        "change_p": -2.0045
+      },
+      "8": {
+        "name": "Smead Value Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.9421,
+        "totalAssets": 7.5238,
+        "currentShares": 6863221,
+        "change": -793111,
+        "change_p": -10.3589
+      },
+      "9": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.8622,
+        "totalAssets": 1.2531,
+        "currentShares": 6580896,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Oakmark Select Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.5861,
+        "totalAssets": 1.6781,
+        "currentShares": 5605200,
+        "change": -1896000,
+        "change_p": -25.276
+      },
+      "11": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4902,
+        "totalAssets": 0.2621,
+        "currentShares": 5266416,
+        "change": 15589,
+        "change_p": 0.2969
+      },
+      "12": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4686,
+        "totalAssets": 0.3627,
+        "currentShares": 5190078,
+        "change": 17254,
+        "change_p": 0.3336
+      },
+      "13": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.4437,
+        "totalAssets": 0.4857,
+        "currentShares": 5102209,
+        "change": -9582000,
+        "change_p": -65.2538
+      },
+      "14": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2918,
+        "totalAssets": 0.0269,
+        "currentShares": 4565241,
+        "change": -2484,
+        "change_p": -0.0544
+      },
+      "15": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2772,
+        "totalAssets": 0.0183,
+        "currentShares": 4513594,
+        "change": 7420,
+        "change_p": 0.1647
+      },
+      "16": {
+        "name": "Fidelity Puritan",
+        "date": "2026-01-31",
+        "totalShares": 1.2192,
+        "totalAssets": 0.3523,
+        "currentShares": 4308729,
+        "change": 551400,
+        "change_p": 14.6753
+      },
+      "17": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1674,
+        "totalAssets": 0.0269,
+        "currentShares": 4125627,
+        "change": -10094,
+        "change_p": -0.2441
+      },
+      "18": {
+        "name": "DFA US Small Cap Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.9959,
+        "totalAssets": 0.5868,
+        "currentShares": 3519402,
+        "change": 97129,
+        "change_p": 2.8381
+      },
+      "19": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9226,
+        "totalAssets": 1.9595,
+        "currentShares": 3260464,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 9.4561,
+    "ForwardPE": 8.726,
+    "PriceSalesTTM": 1.5353,
+    "PriceBookMRQ": 2.2423,
+    "EnterpriseValue": 17736460005,
+    "EnterpriseValueRevenue": 1.9884,
+    "EnterpriseValueEbitda": 3.301
+  },
+  "Highlights": {
+    "MarketCapitalization": 13333797888,
+    "MarketCapitalizationMln": 13333.7979,
+    "EBITDA": 5145999872,
+    "PERatio": 9.4561,
+    "PEGRatio": 1.0909,
+    "WallStreetTargetPrice": 41.2963,
+    "BookValue": 17.262,
+    "DividendShare": 1,
+    "DividendYield": 0.0259,
+    "EarningsShare": 3.99,
+    "EPSEstimateCurrentYear": 5.4539,
+    "EPSEstimateNextYear": 3.9803,
+    "EPSEstimateNextQuarter": 0.5371,
+    "EPSEstimateCurrentQuarter": 0.6421,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1651,
+    "OperatingMarginTTM": 0.3058,
+    "ReturnOnAssetsTTM": 0.0896,
+    "ReturnOnEquityTTM": 0.2532,
+    "RevenueTTM": 8684999680,
+    "RevenuePerShareTTM": 24.192,
+    "QuarterlyRevenueGrowthYOY": -0.28,
+    "GrossProfitTTM": 5906999808,
+    "DilutedEpsTTM": 3.99,
+    "QuarterlyEarningsGrowthYOY": -0.182
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 45.73,
+    "TotalEsgPercentile": 88.65,
+    "EnvironmentScore": 25.98,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 12.88,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.87,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "APA",
+    "Type": "Common Stock",
+    "Name": "APA Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00YTS96G2",
+    "ISIN": "US03743Q1085",
+    "LEI": null,
+    "PrimaryTicker": "APA.US",
+    "CUSIP": "037411600",
+    "CIK": "0000006769",
+    "EmployerIdNumber": "41-0747868",
+    "FiscalYearEnd": "December",
+    "IPODate": "1979-05-15",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas E&P",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Exploration & Production",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally. APA Corporation was incorporated in 1954 and is headquartered in Houston, Texas.",
+    "Address": "2000 W. Sam Houston Pkwy. S., Houston, TX, United States, 77042-3643",
+    "AddressData": {
+      "Street": "2000 W. Sam Houston Pkwy. S.",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77042-3643"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John J. Christmann IV",
+        "Title": "CEO & Director",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Stephen J. Riney",
+        "Title": "President",
+        "YearBorn": "1961"
+      },
+      "2": {
+        "Name": "Mr. Ben C. Rodgers",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Ms. Kimberly O. Warnica J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Ms. Tracey K. Henderson",
+        "Title": "Executive Vice President of Exploration",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Mr. Robert P. Rayphole",
+        "Title": "VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1974"
+      },
+      "6": {
+        "Name": "Mr. Mark D. Maddox",
+        "Title": "Executive Vice President of Administration",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Mr. Scott R. Grandt",
+        "Title": "Senior Vice President of U.S. Assets & Corporate Development",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Jessica  Jackson",
+        "Title": "Senior Vice President of EH&S, Supply Chain and Midstream and Marketing",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Castlen  Kennedy",
+        "Title": "Senior VP of HR and Corporate Affairs",
+        "YearBorn": "1979"
+      }
+    },
+    "Phone": "713 296 6000",
+    "WebURL": "https://www.apacorp.com",
+    "LogoURL": "/img/logos/US/Apa.png",
+    "FullTimeEmployees": 1791,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 353400414,
+    "SharesFloat": 351040122,
+    "PercentInsiders": 0.439,
+    "PercentInstitutions": 99.878,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0936
+  }
+}

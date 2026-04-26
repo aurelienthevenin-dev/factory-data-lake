@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.421,
+        "totalAssets": 0.1038,
+        "currentShares": 186455878,
+        "change": 1080999,
+        "change_p": 0.5831
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.082,
+        "totalAssets": 0.073,
+        "currentShares": 121320952,
+        "change": -6652296,
+        "change_p": -5.1982
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.5703,
+        "totalAssets": 0.1005,
+        "currentShares": 83617999,
+        "change": -160866,
+        "change_p": -0.192
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.9598,
+        "totalAssets": 0.2186,
+        "currentShares": 59442434,
+        "change": -22267537,
+        "change_p": -27.2519
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.5977,
+        "totalAssets": 0.3221,
+        "currentShares": 54006438,
+        "change": 1458650,
+        "change_p": 2.7759
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.439,
+        "totalAssets": 0.0762,
+        "currentShares": 36612710,
+        "change": 5972276,
+        "change_p": 19.4915
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2544,
+        "totalAssets": 0.0798,
+        "currentShares": 33840883,
+        "change": 510747,
+        "change_p": 1.5324
+      },
+      "7": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8465,
+        "totalAssets": 1.8722,
+        "currentShares": 27718458,
+        "change": 174564,
+        "change_p": 0.6338
+      },
+      "8": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.7569,
+        "totalAssets": 0.3296,
+        "currentShares": 26373025,
+        "change": -435466,
+        "change_p": -1.6244
+      },
+      "9": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.5571,
+        "totalAssets": 0.122,
+        "currentShares": 23374144,
+        "change": -2113511,
+        "change_p": -8.2923
+      },
+      "10": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.5378,
+        "totalAssets": 0.1243,
+        "currentShares": 23084831,
+        "change": 2572832,
+        "change_p": 12.5431
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4052,
+        "totalAssets": 0.0866,
+        "currentShares": 21093188,
+        "change": -531341,
+        "change_p": -2.4571
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2603,
+        "totalAssets": 0.037,
+        "currentShares": 18918517,
+        "change": 11884654,
+        "change_p": 168.9634
+      },
+      "13": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1349,
+        "totalAssets": 0.146,
+        "currentShares": 17036892,
+        "change": -3405321,
+        "change_p": -16.6583
+      },
+      "14": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.1082,
+        "totalAssets": 0.1119,
+        "currentShares": 16635566,
+        "change": 5589585,
+        "change_p": 50.6029
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.048,
+        "totalAssets": 0.1267,
+        "currentShares": 15732530,
+        "change": 366183,
+        "change_p": 2.383
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0232,
+        "totalAssets": 0.0675,
+        "currentShares": 15359990,
+        "change": -731543,
+        "change_p": -4.5461
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0149,
+        "totalAssets": 0.0157,
+        "currentShares": 15235418,
+        "change": 6203898,
+        "change_p": 68.6916
+      },
+      "18": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.9966,
+        "totalAssets": 0.156,
+        "currentShares": 14959725,
+        "change": 760851,
+        "change_p": 5.3585
+      },
+      "19": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7826,
+        "totalAssets": 1.3467,
+        "currentShares": 11747332,
+        "change": -243320,
+        "change_p": -2.0292
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1644,
+        "totalAssets": 0.1223,
+        "currentShares": 47501176,
+        "change": 270004,
+        "change_p": 0.5717
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5366,
+        "totalAssets": 0.1375,
+        "currentShares": 38077030,
+        "change": -349251,
+        "change_p": -0.9089
+      },
+      "2": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3079,
+        "totalAssets": 4.0643,
+        "currentShares": 34644504,
+        "change": 354488,
+        "change_p": 1.0338
+      },
+      "3": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2323,
+        "totalAssets": 2.0495,
+        "currentShares": 33509797,
+        "change": 55844,
+        "change_p": 0.1669
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1519,
+        "totalAssets": 0.8354,
+        "currentShares": 32303106,
+        "change": -166874,
+        "change_p": -0.5139
+      },
+      "5": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4138,
+        "totalAssets": 0.7702,
+        "currentShares": 21222273,
+        "change": 6955885,
+        "change_p": 48.7572
+      },
+      "6": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.364,
+        "totalAssets": 1.3419,
+        "currentShares": 20475698,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2815,
+        "totalAssets": 0.1373,
+        "currentShares": 19236283,
+        "change": -10476,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2665,
+        "totalAssets": 0.1303,
+        "currentShares": 19012047,
+        "change": 31336,
+        "change_p": 0.1651
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1562,
+        "totalAssets": 0.1372,
+        "currentShares": 17355427,
+        "change": -42630,
+        "change_p": -0.245
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9207,
+        "totalAssets": 0.3147,
+        "currentShares": 13820426,
+        "change": -88170,
+        "change_p": -0.6339
+      },
+      "11": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9165,
+        "totalAssets": 1.521,
+        "currentShares": 13758326,
+        "change": -8517,
+        "change_p": -0.0619
+      },
+      "12": {
+        "name": "DWS Top Dividende LD",
+        "date": "2026-02-28",
+        "totalShares": 0.8226,
+        "totalAssets": 2.2114,
+        "currentShares": 12348646,
+        "change": -22,
+        "change_p": -0.0002
+      },
+      "13": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.7611,
+        "totalAssets": 0.2227,
+        "currentShares": 11424739,
+        "change": 11424739,
+        "change_p": 0
+      },
+      "14": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.6847,
+        "totalAssets": 1.2311,
+        "currentShares": 10278195,
+        "change": 114350,
+        "change_p": 1.1251
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.648,
+        "totalAssets": 1.4388,
+        "currentShares": 9727002,
+        "change": 402713,
+        "change_p": 4.319
+      },
+      "16": {
+        "name": "VanEck Oil Services ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6222,
+        "totalAssets": 20.4973,
+        "currentShares": 9340568,
+        "change": -79880,
+        "change_p": -0.8479
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5612,
+        "totalAssets": 0.1372,
+        "currentShares": 8424161,
+        "change": -36778,
+        "change_p": -0.4347
+      },
+      "18": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 0.5469,
+        "totalAssets": 1.3043,
+        "currentShares": 8209600,
+        "change": 2250977,
+        "change_p": 37.7768
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5318,
+        "totalAssets": 0.1358,
+        "currentShares": 7982296,
+        "change": 18600,
+        "change_p": 0.2336
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.7357,
+    "ForwardPE": 18.6916,
+    "PriceSalesTTM": 2.3453,
+    "PriceBookMRQ": 3.0815,
+    "EnterpriseValue": 92509634682,
+    "EnterpriseValueRevenue": 2.5741,
+    "EnterpriseValueEbitda": 19.6369
+  },
+  "Highlights": {
+    "MarketCapitalization": 84288634880,
+    "MarketCapitalizationMln": 84288.6349,
+    "EBITDA": 7352249856,
+    "PERatio": 24.7357,
+    "PEGRatio": 1.9669,
+    "WallStreetTargetPrice": 56.3607,
+    "BookValue": 17.46,
+    "DividendShare": 1.15,
+    "DividendYield": 0.021,
+    "EarningsShare": 2.27,
+    "EPSEstimateCurrentYear": 2.7165,
+    "EPSEstimateNextYear": 3.3403,
+    "EPSEstimateNextQuarter": 0.6272,
+    "EPSEstimateCurrentQuarter": 0.7431,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0926,
+    "OperatingMarginTTM": 0.1227,
+    "ReturnOnAssetsTTM": 0.0647,
+    "ReturnOnEquityTTM": 0.1407,
+    "RevenueTTM": 35939000320,
+    "RevenuePerShareTTM": 24.713,
+    "QuarterlyRevenueGrowthYOY": 0.027,
+    "GrossProfitTTM": 6398000128,
+    "DilutedEpsTTM": 2.27,
+    "QuarterlyEarningsGrowthYOY": -0.138
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.29,
+    "TotalEsgPercentile": 42.48,
+    "EnvironmentScore": 9.22,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 6.74,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 6.33,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SLB",
+    "Type": "Common Stock",
+    "Name": "Schlumberger NV",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BT4384",
+    "ISIN": "AN8068571086",
+    "LEI": "213800ZUA17OK3QLGM62",
+    "PrimaryTicker": "SLB.US",
+    "CUSIP": "806857108",
+    "CIK": "0000087347",
+    "EmployerIdNumber": "52-0684746",
+    "FiscalYearEnd": "December",
+    "IPODate": "1981-12-31",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Energy Equipment & Services",
+    "GicSubIndustry": "Oil & Gas Equipment & Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "SLB N.V. engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems. The company provides field development and hydrocarbon production, carbon management, and integration of adjacent energy systems; reservoir interpretation and data processing services for exploration data; and well construction and production improvement services and products. It also offers subsurface geology and fluids evaluation information; stimulation services to restore or enhance well productivity through hydraulic fracturing, matrix stimulation, and water treatment; and intervention services to oil and gas operators. In addition, the company offers mud logging, directional drilling, measurement-while-drilling, and logging-while-drilling services, as well as engineering support services; supplies drilling fluid systems; designs, manufactures, and markets roller cone and fixed cutter drill bits; bottom-hole-assembly and borehole enlargement technologies; well planning, well drilling, engineering, supervision, logistics, procurement, and contracting of third parties, as well as drilling rig management solutions; and drilling equipment and services, as well as land drilling rigs and related services. Further, it provides artificial lift; supplies packers, safety valves, sand control technology, and various intelligent systems; midstream production systems; valves, chokes, actuators, and surface trees; and OneSubsea, an integrated solutions, products, systems, and services, including wellheads, subsea trees, manifolds and flowline connectors, control systems, connectors, and services. SLB N.V. was formerly known as Schlumberger Limited and change its name to SLB N.V. in October 2025. The company was founded in 1926 and is based in Houston, Texas.",
+    "Address": "5599 San Felipe, Houston, TX, United States, 77056",
+    "AddressData": {
+      "Street": "5599 San Felipe",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77056"
+    },
+    "Listings": {
+      "0": {
+        "Code": "SLBG34",
+        "Exchange": "SA",
+        "Name": "Schlumberger Limited"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Olivier  Le Peuch",
+        "Title": "CEO & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Stephane  Biguet",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Demosthenis  Pafitis",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Ms. Dianne B. Ralston J.D.",
+        "Title": "Chief Legal Officer & Secretary",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Mr. Abdellah  Merad",
+        "Title": "Executive Vice President of Core Services & Equipment",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Howard  Guild",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. Sebastien  Lehnherr",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. James R. McDonald",
+        "Title": "Senior Vice President of Investor Relations & Industry Affairs",
+        "YearBorn": "1979"
+      },
+      "8": {
+        "Name": "Giles  Powell",
+        "Title": "Director of Corporate Communication",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Aparna  Raman",
+        "Title": "Chief Strategy & Marketing Officer",
+        "YearBorn": "1975"
+      }
+    },
+    "Phone": "713 513 2000",
+    "WebURL": "https://www.slb.com",
+    "LogoURL": "/img/logos/US/SLB.png",
+    "FullTimeEmployees": 109000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1501133298,
+    "SharesFloat": 1490275800,
+    "PercentInsiders": 0.218,
+    "PercentInstitutions": 88.237,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0494
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.7316,
+        "totalAssets": 0.0278,
+        "currentShares": 108128327,
+        "change": 383490,
+        "change_p": 0.3559
+      },
+      "1": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 12.4831,
+        "totalAssets": 2.6346,
+        "currentShares": 85800309,
+        "change": 6636987,
+        "change_p": 8.3839
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 10.6982,
+        "totalAssets": 0.0375,
+        "currentShares": 73532306,
+        "change": 33825241,
+        "change_p": 85.187
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.0565,
+        "totalAssets": 0.0206,
+        "currentShares": 69121749,
+        "change": -605347,
+        "change_p": -0.8682
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.44,
+        "totalAssets": 0.0264,
+        "currentShares": 44264477,
+        "change": -2432040,
+        "change_p": -5.2082
+      },
+      "5": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 5.1534,
+        "totalAssets": 0.0672,
+        "currentShares": 35420993,
+        "change": -690271,
+        "change_p": -1.9115
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.6404,
+        "totalAssets": 0.0671,
+        "currentShares": 25021481,
+        "change": 2217322,
+        "change_p": 9.7233
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.3027,
+        "totalAssets": 0.0248,
+        "currentShares": 22700539,
+        "change": 493177,
+        "change_p": 2.2208
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.228,
+        "totalAssets": 0.0177,
+        "currentShares": 15313911,
+        "change": -2645547,
+        "change_p": -14.7307
+      },
+      "9": {
+        "name": "Daiwa Securities Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.087,
+        "totalAssets": 0.8239,
+        "currentShares": 14344979,
+        "change": -2647735,
+        "change_p": -15.5816
+      },
+      "10": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.8493,
+        "totalAssets": 0.0734,
+        "currentShares": 12710787,
+        "change": 3420840,
+        "change_p": 36.823
+      },
+      "11": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.6974,
+        "totalAssets": 0.1212,
+        "currentShares": 11666911,
+        "change": 1276516,
+        "change_p": 12.2855
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6433,
+        "totalAssets": 0.0246,
+        "currentShares": 11294719,
+        "change": -273008,
+        "change_p": -2.3601
+      },
+      "13": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5455,
+        "totalAssets": 0.0293,
+        "currentShares": 10622778,
+        "change": 485168,
+        "change_p": 4.7858
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5094,
+        "totalAssets": 0.0386,
+        "currentShares": 10374789,
+        "change": 173841,
+        "change_p": 1.7042
+      },
+      "15": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.448,
+        "totalAssets": 0.3848,
+        "currentShares": 9952445,
+        "change": 113870,
+        "change_p": 1.1574
+      },
+      "16": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2423,
+        "totalAssets": 0.0088,
+        "currentShares": 8538789,
+        "change": 321289,
+        "change_p": 3.9098
+      },
+      "17": {
+        "name": "CenterSquare Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1337,
+        "totalAssets": 1.3636,
+        "currentShares": 7792559,
+        "change": -1961795,
+        "change_p": -20.112
+      },
+      "18": {
+        "name": "Caisse De Depot Et Placement Du Quebec",
+        "date": "2025-12-31",
+        "totalShares": 0.9553,
+        "totalAssets": 0.1975,
+        "currentShares": 6566299,
+        "change": -494756,
+        "change_p": -7.0068
+      },
+      "19": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9208,
+        "totalAssets": 0.0589,
+        "currentShares": 6328906,
+        "change": 847919,
+        "change_p": 15.4702
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.724,
+        "totalAssets": 0.7547,
+        "currentShares": 25596291,
+        "change": -98745,
+        "change_p": -0.3843
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1671,
+        "totalAssets": 0.0209,
+        "currentShares": 21768399,
+        "change": 44653,
+        "change_p": 0.2055
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3692,
+        "totalAssets": 0.0219,
+        "currentShares": 16284526,
+        "change": -164013,
+        "change_p": -0.9971
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3106,
+        "totalAssets": 0.1831,
+        "currentShares": 15881511,
+        "change": 263547,
+        "change_p": 1.6875
+      },
+      "4": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 1.5235,
+        "totalAssets": 2.4375,
+        "currentShares": 10471410,
+        "change": -1705972,
+        "change_p": -14.0093
+      },
+      "5": {
+        "name": "Daiwa US-REIT Open Mother Fund",
+        "date": "2025-09-17",
+        "totalShares": 1.4009,
+        "totalAssets": 3.2344,
+        "currentShares": 9629023,
+        "change": -1967089,
+        "change_p": -16.9633
+      },
+      "6": {
+        "name": "Cohen & Steers Realty Shares L",
+        "date": "2026-03-31",
+        "totalShares": 1.3533,
+        "totalAssets": 2.4339,
+        "currentShares": 9301701,
+        "change": -1793255,
+        "change_p": -16.1628
+      },
+      "7": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3164,
+        "totalAssets": 0.2033,
+        "currentShares": 9047941,
+        "change": 26724,
+        "change_p": 0.2962
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1961,
+        "totalAssets": 0.0219,
+        "currentShares": 8221011,
+        "change": -4476,
+        "change_p": -0.0544
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1842,
+        "totalAssets": 0.0213,
+        "currentShares": 8139068,
+        "change": 13387,
+        "change_p": 0.1647
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0779,
+        "totalAssets": 0.0218,
+        "currentShares": 7408852,
+        "change": -18228,
+        "change_p": -0.2454
+      },
+      "11": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 1.0195,
+        "totalAssets": 1.5477,
+        "currentShares": 7007121,
+        "change": -3250066,
+        "change_p": -31.6857
+      },
+      "12": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 1.0195,
+        "totalAssets": 1.5434,
+        "currentShares": 7007121,
+        "change": -3250066,
+        "change_p": -31.6857
+      },
+      "13": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7693,
+        "totalAssets": 1.3841,
+        "currentShares": 5287876,
+        "change": -11872,
+        "change_p": -0.224
+      },
+      "14": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7351,
+        "totalAssets": 0.1594,
+        "currentShares": 5052712,
+        "change": 37787,
+        "change_p": 0.7535
+      },
+      "15": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.674,
+        "totalAssets": 1.2569,
+        "currentShares": 4632374,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6582,
+        "totalAssets": 0.8857,
+        "currentShares": 4523827,
+        "change": 31008,
+        "change_p": 0.6902
+      },
+      "17": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.6525,
+        "totalAssets": 0.943,
+        "currentShares": 4484986,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6465,
+        "totalAssets": 0.216,
+        "currentShares": 4443705,
+        "change": 107545,
+        "change_p": 2.4802
+      },
+      "19": {
+        "name": "DFA Real Estate Securities I",
+        "date": "2026-02-28",
+        "totalShares": 0.542,
+        "totalAssets": 1.0345,
+        "currentShares": 3725028,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19,
+    "ForwardPE": 23.2558,
+    "PriceSalesTTM": 2.3427,
+    "PriceBookMRQ": 2.2083,
+    "EnterpriseValue": 19354112609,
+    "EnterpriseValueRevenue": 3.1655,
+    "EnterpriseValueEbitda": 10.473
+  },
+  "Highlights": {
+    "MarketCapitalization": 14365265920,
+    "MarketCapitalizationMln": 14365.2659,
+    "EBITDA": 1644000000,
+    "PERatio": 19,
+    "PEGRatio": 2.223,
+    "WallStreetTargetPrice": 22,
+    "BookValue": 9.535,
+    "DividendShare": 0.8,
+    "DividendYield": 0.038,
+    "EarningsShare": 1.1,
+    "EPSEstimateCurrentYear": 1.082,
+    "EPSEstimateNextYear": 0.97,
+    "EPSEstimateNextQuarter": 0.3233,
+    "EPSEstimateCurrentQuarter": 0.1922,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1248,
+    "OperatingMarginTTM": 0.1209,
+    "ReturnOnAssetsTTM": 0.0407,
+    "ReturnOnEquityTTM": 0.1149,
+    "RevenueTTM": 6131999744,
+    "RevenuePerShareTTM": 8.869,
+    "QuarterlyRevenueGrowthYOY": 0.128,
+    "GrossProfitTTM": 1768000000,
+    "DilutedEpsTTM": 1.1,
+    "QuarterlyEarningsGrowthYOY": 0.271
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 10.89,
+    "TotalEsgPercentile": 6.7,
+    "EnvironmentScore": 2.74,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 6.21,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 3.94,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HST",
+    "Type": "Common Stock",
+    "Name": "Host Hotels & Resorts Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BL8804",
+    "ISIN": "US44107P1049",
+    "LEI": "N6EL63S0K3PB1YFTDI24",
+    "PrimaryTicker": "HST.US",
+    "CUSIP": "44107P104",
+    "CIK": "0001070750",
+    "EmployerIdNumber": "53-0085950",
+    "FiscalYearEnd": "December",
+    "IPODate": "1983-04-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Hotel & Motel",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Diversified REITs",
+    "GicSubIndustry": "Hotel & Resort REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Host Hotels & Resorts, Inc., herein referred to as we, Host Inc., or the Company, is a self-managed and self-administered real estate investment trust that owns hotel property. We conduct our operations as an umbrella partnership, REIT, through an operating partnership, Host Hotels & Resorts, L.P., of which we are the sole general partner. When distinguishing between Host Inc. and Host LP, the primary difference is approximately 1% of the partnership interests in Host LP held by outside partners as of December 31, 2025, which are non-controlling interests in Host LP in our consolidated balance sheets and are included in net (income) loss attributable to non-controlling interests in our condensed consolidated statements of operations. Host Hotels & Resorts, Inc. is incorporated in 1927 in Maryland, USA.",
+    "Address": "4747 Bethesda Avenue, Bethesda, MD, United States, 20814-1109",
+    "AddressData": {
+      "Street": "4747 Bethesda Avenue",
+      "City": "Bethesda",
+      "State": "MD",
+      "Country": "United States",
+      "ZIP": "20814-1109"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. James F. Risoleo",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Mr. Sourav  Ghosh",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Nathan S. Tyrrell",
+        "Title": "Executive VP & Chief Investment Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Ms. Julie P. Aslaksen J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Michael E. Lentz",
+        "Title": "Executive Vice President of Development, Design & Construction",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Ms. Jaime N. Marcus",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Michael  Rock",
+        "Title": "Senior Vice President of Asset Management",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Deanne  Brand",
+        "Title": "Senior VP of Strategy & Analytics and Treasurer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Padmanabh  Yardi",
+        "Title": "Senior Vice President of Information Technology",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Raj  Contractor",
+        "Title": "Senior Vice President of Investments",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "240 744 1000",
+    "WebURL": "https://www.hosthotels.com",
+    "LogoURL": "/img/logos/US/hst.png",
+    "FullTimeEmployees": 162,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 687333299,
+    "SharesFloat": 641519972,
+    "PercentInsiders": 1.4909999999999999,
+    "PercentInstitutions": 108.105,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0568
+  }
+}

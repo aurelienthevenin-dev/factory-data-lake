@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.8846,
+        "totalAssets": 0.0516,
+        "currentShares": 35645555,
+        "change": 495945,
+        "change_p": 1.411
+      },
+      "1": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 10.3535,
+        "totalAssets": 0.3199,
+        "currentShares": 28643216,
+        "change": -230522,
+        "change_p": -0.7984
+      },
+      "2": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 9.8425,
+        "totalAssets": 1.0755,
+        "currentShares": 27229529,
+        "change": 11706105,
+        "change_p": 75.4093
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.864,
+        "totalAssets": 0.0398,
+        "currentShares": 21756125,
+        "change": 323669,
+        "change_p": 1.5102
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.0771,
+        "totalAssets": 0.0508,
+        "currentShares": 14045845,
+        "change": 328401,
+        "change_p": 2.394
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.9501,
+        "totalAssets": 0.0255,
+        "currentShares": 8161550,
+        "change": 5741794,
+        "change_p": 237.2881
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6478,
+        "totalAssets": 0.045,
+        "currentShares": 7325175,
+        "change": -3349,
+        "change_p": -0.0457
+      },
+      "7": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.2713,
+        "totalAssets": 0.1507,
+        "currentShares": 6283529,
+        "change": 60519,
+        "change_p": 0.9725
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.858,
+        "totalAssets": 0.0845,
+        "currentShares": 5140239,
+        "change": 49282,
+        "change_p": 0.968
+      },
+      "9": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7833,
+        "totalAssets": 0.0251,
+        "currentShares": 4933452,
+        "change": 92511,
+        "change_p": 1.911
+      },
+      "10": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.7077,
+        "totalAssets": 0.2251,
+        "currentShares": 4724321,
+        "change": 40354,
+        "change_p": 0.8615
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2713,
+        "totalAssets": 0.0431,
+        "currentShares": 3517169,
+        "change": 334925,
+        "change_p": 10.5248
+      },
+      "12": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.221,
+        "totalAssets": 0.111,
+        "currentShares": 3378053,
+        "change": 116819,
+        "change_p": 3.582
+      },
+      "13": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0996,
+        "totalAssets": 0.0604,
+        "currentShares": 3042079,
+        "change": -42054,
+        "change_p": -1.3636
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0463,
+        "totalAssets": 0.0183,
+        "currentShares": 2894529,
+        "change": -42975,
+        "change_p": -1.463
+      },
+      "15": {
+        "name": "Bessemer Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9904,
+        "totalAssets": 0.4201,
+        "currentShares": 2740079,
+        "change": -35511,
+        "change_p": -1.2794
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8618,
+        "totalAssets": 0.0623,
+        "currentShares": 2384176,
+        "change": 158599,
+        "change_p": 7.1262
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8495,
+        "totalAssets": 0.0612,
+        "currentShares": 2350036,
+        "change": -16830,
+        "change_p": -0.7111
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.832,
+        "totalAssets": 0.0307,
+        "currentShares": 2301634,
+        "change": -73041,
+        "change_p": -3.0758
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7777,
+        "totalAssets": 0.0152,
+        "currentShares": 2151525,
+        "change": -149192,
+        "change_p": -6.4846
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1709,
+        "totalAssets": 0.0483,
+        "currentShares": 8772505,
+        "change": 226980,
+        "change_p": 2.6561
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5446,
+        "totalAssets": 0.0544,
+        "currentShares": 7039723,
+        "change": 81869,
+        "change_p": 1.1766
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1584,
+        "totalAssets": 0.3303,
+        "currentShares": 5971342,
+        "change": 91964,
+        "change_p": 1.5642
+      },
+      "3": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7021,
+        "totalAssets": 2.1312,
+        "currentShares": 4708859,
+        "change": -4014,
+        "change_p": -0.0852
+      },
+      "4": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 1.5449,
+        "totalAssets": 0.7095,
+        "currentShares": 4274004,
+        "change": -4560799,
+        "change_p": -51.6231
+      },
+      "5": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.3855,
+        "totalAssets": 0.982,
+        "currentShares": 3832983,
+        "change": -175736,
+        "change_p": -4.3838
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2842,
+        "totalAssets": 0.0542,
+        "currentShares": 3552690,
+        "change": -1932,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Janus Henderson Mid Cap Growth MA",
+        "date": "2025-09-30",
+        "totalShares": 1.2696,
+        "totalAssets": 1.5527,
+        "currentShares": 3512382,
+        "change": 3512382,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Janus Henderson Enterprise D",
+        "date": "2026-01-31",
+        "totalShares": 1.2696,
+        "totalAssets": 1.613,
+        "currentShares": 3512382,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Janus Inst Mid Cap Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 1.2696,
+        "totalAssets": 1.538,
+        "currentShares": 3512382,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2443,
+        "totalAssets": 0.0521,
+        "currentShares": 3442393,
+        "change": 5678,
+        "change_p": 0.1652
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1586,
+        "totalAssets": 0.0542,
+        "currentShares": 3205289,
+        "change": -7889,
+        "change_p": -0.2455
+      },
+      "12": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.1065,
+        "totalAssets": 0.9896,
+        "currentShares": 3061044,
+        "change": -564833,
+        "change_p": -15.5778
+      },
+      "13": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.0448,
+        "totalAssets": 0.9965,
+        "currentShares": 2890580,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 1.0049,
+        "totalAssets": 1.1845,
+        "currentShares": 2780000,
+        "change": 535000,
+        "change_p": 23.8307
+      },
+      "15": {
+        "name": "T. Rowe Price US Dividend Growth Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.985,
+        "totalAssets": 1.1328,
+        "currentShares": 2724941,
+        "change": -45900,
+        "change_p": -1.6565
+      },
+      "16": {
+        "name": "T. Rowe Price Dividend Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.9808,
+        "totalAssets": 1.3157,
+        "currentShares": 2713425,
+        "change": -11516,
+        "change_p": -0.4226
+      },
+      "17": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9234,
+        "totalAssets": 0.1244,
+        "currentShares": 2554746,
+        "change": 37308,
+        "change_p": 1.482
+      },
+      "18": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.8385,
+        "totalAssets": 0.5113,
+        "currentShares": 2319633,
+        "change": -39211,
+        "change_p": -1.6623
+      },
+      "19": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.8222,
+        "totalAssets": 0.5498,
+        "currentShares": 2274603,
+        "change": -16274,
+        "change_p": -0.7104
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.966,
+    "ForwardPE": 20.9644,
+    "PriceSalesTTM": 3.6295,
+    "PriceBookMRQ": 2.3132,
+    "EnterpriseValue": 50815993188,
+    "EnterpriseValueRevenue": 5.7752,
+    "EnterpriseValueEbitda": 12.5751
+  },
+  "Highlights": {
+    "MarketCapitalization": 30741706752,
+    "MarketCapitalizationMln": 30741.7068,
+    "EBITDA": 3719000064,
+    "PERatio": 20.966,
+    "PEGRatio": 2.8495,
+    "WallStreetTargetPrice": 120.5333,
+    "BookValue": 48.484,
+    "DividendShare": 2.84,
+    "DividendYield": 0.0253,
+    "EarningsShare": 5.3,
+    "EPSEstimateCurrentYear": 5.3825,
+    "EPSEstimateNextYear": 5.84,
+    "EPSEstimateNextQuarter": 1.0756,
+    "EPSEstimateCurrentQuarter": 0.6936,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1719,
+    "OperatingMarginTTM": 0.2461,
+    "ReturnOnAssetsTTM": 0.0305,
+    "ReturnOnEquityTTM": 0.1134,
+    "RevenueTTM": 8470000128,
+    "RevenuePerShareTTM": 31.312,
+    "QuarterlyRevenueGrowthYOY": -0.088,
+    "GrossProfitTTM": 4171000064,
+    "DilutedEpsTTM": 5.3,
+    "QuarterlyEarningsGrowthYOY": 0.195
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 37.12,
+    "TotalEsgPercentile": 72.38,
+    "EnvironmentScore": 18.52,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 11.69,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.4,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AEE",
+    "Type": "Common Stock",
+    "Name": "Ameren Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000B9X8C0",
+    "ISIN": "US0236081024",
+    "LEI": "XRZQ5S7HYJFPHJ78L959",
+    "PrimaryTicker": "AEE.US",
+    "CUSIP": "023608102",
+    "CIK": "0001002910",
+    "EmployerIdNumber": "43-1723446",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Multi-Utilities",
+    "GicSubIndustry": "Multi-Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ameren Corporation, together with its subsidiaries, operates as a public utility holding company in the United States. The company operates through four segments: Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois Natural Gas, and Ameren Transmission. It engages in the rate-regulated electric generation, transmission, and distribution business and natural gas transmission and distribution business. The company also generates electricity through coal, nuclear, and natural gas, as well as renewable energy, including hydroelectric, wind, methane gas, and solar energy centers. It serves residential, commercial, and industrial customers. Ameren Corporation was founded in 1881 and is headquartered in Saint Louis, Missouri.",
+    "Address": "1901 Chouteau Avenue, Saint Louis, MO, United States, 63103",
+    "AddressData": {
+      "Street": "1901 Chouteau Avenue",
+      "City": "Saint Louis",
+      "State": "MO",
+      "Country": "United States",
+      "ZIP": "63103"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Martin J. Lyons Jr.",
+        "Title": "President, CEO & Chairman of the Board",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Leonard P. Singh",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Mark C. Lindgren",
+        "Title": "Executive VP of Corporate Communications & Chief Human Resources Officer of Ameren Services",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Michael L. Moehn",
+        "Title": "Group President of Ameren Utilities & Interim President of Ameren Missouri",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Shawn E. Schukar",
+        "Title": "Chairman & President of Ameren Transmission Company of Illinois",
+        "YearBorn": "1962"
+      },
+      "5": {
+        "Name": "Ms. Theresa A. Shaw",
+        "Title": "Senior VP & Chief Accounting and Transformation Officer of Ameren Services",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. Andrew  Kirk",
+        "Title": "Senior Director of Investor Relations & Corporate Modeling",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. David M. Feinberg J.D.",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Ms. Gwendolyn Goosby Mizell",
+        "Title": "Senior VP & Chief Sustainability Officer of Ameren Services",
+        "YearBorn": "1962"
+      },
+      "9": {
+        "Name": "Mr. Ajay K. Arora",
+        "Title": "Senior VP & Chief Development Officer of Ameren Missouri",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "314 621 3222",
+    "WebURL": "https://www.amereninvestors.com",
+    "LogoURL": "/img/logos/US/aee.png",
+    "FullTimeEmployees": 8913,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 276653219,
+    "SharesFloat": 275036864,
+    "PercentInsiders": 0.306,
+    "PercentInstitutions": 85.911,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.035
+  }
+}

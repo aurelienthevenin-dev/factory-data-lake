@@ -1,0 +1,593 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.1231,
+        "totalAssets": 0.2881,
+        "currentShares": 138483870,
+        "change": 1612652,
+        "change_p": 1.1782
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5109,
+        "totalAssets": 0.2863,
+        "currentShares": 116429625,
+        "change": 157751,
+        "change_p": 0.1357
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.624,
+        "totalAssets": 0.2661,
+        "currentShares": 63256990,
+        "change": 31307236,
+        "change_p": 97.989
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3494,
+        "totalAssets": 0.2898,
+        "currentShares": 59499819,
+        "change": 1079970,
+        "change_p": 1.8486
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4575,
+        "totalAssets": 0.2971,
+        "currentShares": 33617937,
+        "change": 360936,
+        "change_p": 1.0853
+      },
+      "5": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0534,
+        "totalAssets": 0.6265,
+        "currentShares": 28090426,
+        "change": 295955,
+        "change_p": 1.0648
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8227,
+        "totalAssets": 0.212,
+        "currentShares": 24933881,
+        "change": 277260,
+        "change_p": 1.1245
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5537,
+        "totalAssets": 0.2025,
+        "currentShares": 21254586,
+        "change": 624838,
+        "change_p": 3.0288
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5376,
+        "totalAssets": 0.323,
+        "currentShares": 21034095,
+        "change": 3383432,
+        "change_p": 19.1689
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1165,
+        "totalAssets": 0.2744,
+        "currentShares": 15274321,
+        "change": -8926,
+        "change_p": -0.0584
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1009,
+        "totalAssets": 0.5274,
+        "currentShares": 15060657,
+        "change": -516416,
+        "change_p": -3.3152
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9954,
+        "totalAssets": 0.3013,
+        "currentShares": 13617747,
+        "change": 958701,
+        "change_p": 7.5732
+      },
+      "12": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9525,
+        "totalAssets": 0.3283,
+        "currentShares": 13030818,
+        "change": -273095,
+        "change_p": -2.0527
+      },
+      "13": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.9441,
+        "totalAssets": 0.3933,
+        "currentShares": 12915892,
+        "change": 4682959,
+        "change_p": 56.8808
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9171,
+        "totalAssets": 0.3826,
+        "currentShares": 12546006,
+        "change": -2006138,
+        "change_p": -13.7859
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9021,
+        "totalAssets": 0.2172,
+        "currentShares": 12340465,
+        "change": 391152,
+        "change_p": 3.2734
+      },
+      "16": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8333,
+        "totalAssets": 0.3044,
+        "currentShares": 11399700,
+        "change": 22481,
+        "change_p": 0.1976
+      },
+      "17": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.7162,
+        "totalAssets": 0.3821,
+        "currentShares": 9797165,
+        "change": 1155577,
+        "change_p": 13.3723
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.6953,
+        "totalAssets": 0.4445,
+        "currentShares": 9511450,
+        "change": 36953,
+        "change_p": 0.39
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6583,
+        "totalAssets": 0.2866,
+        "currentShares": 9005569,
+        "change": 102905,
+        "change_p": 1.1559
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1734,
+        "totalAssets": 0.3377,
+        "currentShares": 43411443,
+        "change": 157338,
+        "change_p": 0.3638
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5438,
+        "totalAssets": 0.3798,
+        "currentShares": 34799301,
+        "change": -371500,
+        "change_p": -1.0563
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0967,
+        "totalAssets": 1.2003,
+        "currentShares": 28682795,
+        "change": -95933,
+        "change_p": -0.3333
+      },
+      "3": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.5531,
+        "totalAssets": 3.9545,
+        "currentShares": 21246187,
+        "change": 35328,
+        "change_p": 0.1666
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2842,
+        "totalAssets": 0.3788,
+        "currentShares": 17567314,
+        "change": -9564,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.272,
+        "totalAssets": 0.3943,
+        "currentShares": 17401116,
+        "change": 28684,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1579,
+        "totalAssets": 0.3783,
+        "currentShares": 15839639,
+        "change": -38955,
+        "change_p": -0.2453
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9233,
+        "totalAssets": 0.869,
+        "currentShares": 12630255,
+        "change": -105317,
+        "change_p": -0.827
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5628,
+        "totalAssets": 0.3789,
+        "currentShares": 7699474,
+        "change": -46322,
+        "change_p": -0.598
+      },
+      "9": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5594,
+        "totalAssets": 1.0124,
+        "currentShares": 7652064,
+        "change": 114241,
+        "change_p": 1.5156
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5333,
+        "totalAssets": 0.375,
+        "currentShares": 7295375,
+        "change": 6500,
+        "change_p": 0.0892
+      },
+      "11": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4512,
+        "totalAssets": 0.3784,
+        "currentShares": 6172607,
+        "change": 32248,
+        "change_p": 0.5252
+      },
+      "12": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3965,
+        "totalAssets": 0.3358,
+        "currentShares": 5424272,
+        "change": 5424272,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3965,
+        "totalAssets": 0.3358,
+        "currentShares": 5424272,
+        "change": -69340,
+        "change_p": -1.2622
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3965,
+        "totalAssets": 0.3358,
+        "currentShares": 5424272,
+        "change": -69340,
+        "change_p": -1.2622
+      },
+      "15": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3922,
+        "totalAssets": 0.9349,
+        "currentShares": 5365250,
+        "change": -212075,
+        "change_p": -3.8025
+      },
+      "16": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3885,
+        "totalAssets": 1.1971,
+        "currentShares": 5314927,
+        "change": 22816,
+        "change_p": 0.4311
+      },
+      "17": {
+        "name": "Franklin Income A1",
+        "date": "2026-03-31",
+        "totalShares": 0.3655,
+        "totalAssets": 0.9943,
+        "currentShares": 5000000,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3608,
+        "totalAssets": 0.3768,
+        "currentShares": 4936367,
+        "change": -22083,
+        "change_p": -0.4454
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.4019,
+    "ForwardPE": 18.0832,
+    "PriceSalesTTM": 2.2261,
+    "PriceBookMRQ": 9.9521,
+    "EnterpriseValue": 254705826645,
+    "EnterpriseValueRevenue": 2.6685,
+    "EnterpriseValueEbitda": 15.6424
+  },
+  "Highlights": {
+    "MarketCapitalization": 212477296640,
+    "MarketCapitalizationMln": 212477.2966,
+    "EBITDA": 18695999488,
+    "PERatio": 24.4019,
+    "PEGRatio": 1.6744,
+    "WallStreetTargetPrice": 172,
+    "BookValue": 15.631,
+    "DividendShare": 5.69,
+    "DividendYield": 0.0365,
+    "EarningsShare": 6.37,
+    "EPSEstimateCurrentYear": 8.6595,
+    "EPSEstimateNextYear": 9.153,
+    "EPSEstimateNextQuarter": 2.2594,
+    "EPSEstimateCurrentQuarter": 1.5504,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0915,
+    "OperatingMarginTTM": 0.1696,
+    "ReturnOnAssetsTTM": 0.0909,
+    "ReturnOnEquityTTM": 0.4388,
+    "RevenueTTM": 95448997888,
+    "RevenuePerShareTTM": 69.785,
+    "QuarterlyRevenueGrowthYOY": 0.085,
+    "GrossProfitTTM": 51908001792,
+    "DilutedEpsTTM": 6.37,
+    "QuarterlyEarningsGrowthYOY": 0.278
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.64,
+    "TotalEsgPercentile": 30.46,
+    "EnvironmentScore": 12.22,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 11.8,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 9.62,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PEP",
+    "Type": "Common Stock",
+    "Name": "PepsiCo Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DH7JK6",
+    "ISIN": "US7134481081",
+    "LEI": "FJSUNZKFNQ5YPJ5OT455",
+    "PrimaryTicker": "PEP.US",
+    "CUSIP": "713448108",
+    "CIK": "0000077476",
+    "EmployerIdNumber": "13-1584302",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Beverages",
+    "GicSubIndustry": "Soft Drinks & Non-alcoholic Beverages",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through six segments: PepsiCo Foods North America; PepsiCo Beverages North America; International Beverages Franchise; Europe, Middle East and Africa; Latin America Foods; and Asia Pacific Foods. It offers cereals, chips, dips, granola bars, oatmeal, pasta, rice, and syrups and mixes; refrigerated dips and spreads; beverage concentrates, fountain syrups, and finished goods; and ready-to-drink tea and coffee products. The company also provides SodaStream sparkling water makers and related products, as well as various dairy products under the Agusha, Chudo, and Domik v Derevne brands. It serves wholesale and other distributors, foodservice customers, grocery stores, drug stores, convenience stores, discount/dollar stores, mass merchandisers, membership stores, hard discounters, e-commerce retailers and authorized independent bottlers, and others through a network of direct-store-delivery, customer warehouse, and distributor networks, as well as directly to consumers through e-commerce platforms and retailers. PepsiCo, Inc. was founded in 1898 and is based in Purchase, New York.",
+    "Address": "700 Anderson Hill Road, Purchase, NY, United States, 10577",
+    "AddressData": {
+      "Street": "700 Anderson Hill Road",
+      "City": "Purchase",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10577"
+    },
+    "Listings": {
+      "0": {
+        "Code": "PEP",
+        "Exchange": "F",
+        "Name": "PepsiCo Inc"
+      },
+      "1": {
+        "Code": "PEP",
+        "Exchange": "XETRA",
+        "Name": "PepsiCo Inc"
+      },
+      "2": {
+        "Code": "PEPB34",
+        "Exchange": "SA",
+        "Name": "PepsiCo Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ramon Luis Laguarta",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Stephen T. Schmitt",
+        "Title": "Executive Vice President & CFO",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Ms. Rebecca  Schmitt",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. James T. Caulfield",
+        "Title": "Advisor",
+        "YearBorn": "1960"
+      },
+      "4": {
+        "Name": "Mr. Silviu Yeugeniu Popovici",
+        "Title": "Chief Executive Officer of Europe, Middle East & Africa",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Gregg  Roden",
+        "Title": "Executive VP & COO",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Tara  Glasgow",
+        "Title": "Executive VP & Chief Science Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. David J. Flavell",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Ms. Jane Caroline Wakely",
+        "Title": "Executive VP, Chief Consumer & Marketing Officer and Chief Growth Officer of International Foods",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Mr. Stephen  Kehoe",
+        "Title": "Executive VP, & Chairman of PepsiCo Foundation & Chief Corporate Affairs Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(914) 253-2000",
+    "WebURL": "https://www.pepsico.com",
+    "LogoURL": "/img/logos/US/pep.png",
+    "FullTimeEmployees": 306000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1366768315,
+    "SharesFloat": 1362900361,
+    "PercentInsiders": 0.20400000000000001,
+    "PercentInstitutions": 80.144,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0169
+  }
+}

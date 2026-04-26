@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.3916,
+        "totalAssets": 0.0481,
+        "currentShares": 191319041,
+        "change": 7221022,
+        "change_p": 3.9224
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.8145,
+        "totalAssets": 0.042,
+        "currentShares": 138820359,
+        "change": -4313179,
+        "change_p": -3.0134
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.6223,
+        "totalAssets": 0.0446,
+        "currentShares": 73790155,
+        "change": -569336,
+        "change_p": -0.7657
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.4403,
+        "totalAssets": 0.2131,
+        "currentShares": 70083841,
+        "change": 68478435,
+        "change_p": 4265.4902
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.1143,
+        "totalAssets": 0.1172,
+        "currentShares": 63441220,
+        "change": -1407771,
+        "change_p": -2.1708
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.8993,
+        "totalAssets": 0.1607,
+        "currentShares": 59062922,
+        "change": 861263,
+        "change_p": 1.4798
+      },
+      "6": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8899,
+        "totalAssets": 1.0578,
+        "currentShares": 58871408,
+        "change": -4431545,
+        "change_p": -7.0005
+      },
+      "7": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 2.2933,
+        "totalAssets": 0.7,
+        "currentShares": 46716462,
+        "change": 14440109,
+        "change_p": 44.739
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1193,
+        "totalAssets": 0.0461,
+        "currentShares": 43171993,
+        "change": 464085,
+        "change_p": 1.0866
+      },
+      "9": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.8366,
+        "totalAssets": 0.3663,
+        "currentShares": 37412989,
+        "change": 17912,
+        "change_p": 0.0479
+      },
+      "10": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.44,
+        "totalAssets": 0.0791,
+        "currentShares": 29335497,
+        "change": -569720,
+        "change_p": -1.9051
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4151,
+        "totalAssets": 0.0255,
+        "currentShares": 28827490,
+        "change": -2368862,
+        "change_p": -7.5934
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2239,
+        "totalAssets": 0.0463,
+        "currentShares": 24932767,
+        "change": 2589461,
+        "change_p": 11.5894
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.154,
+        "totalAssets": 0.0246,
+        "currentShares": 23508535,
+        "change": 2832787,
+        "change_p": 13.701
+      },
+      "14": {
+        "name": "Federated Hermes Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0452,
+        "totalAssets": 0.6493,
+        "currentShares": 21292946,
+        "change": 956933,
+        "change_p": 4.7056
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.907,
+        "totalAssets": 0.0096,
+        "currentShares": 18476284,
+        "change": 9552686,
+        "change_p": 107.0497
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9059,
+        "totalAssets": 0.0672,
+        "currentShares": 18453707,
+        "change": -4443200,
+        "change_p": -19.4052
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8393,
+        "totalAssets": 0.02,
+        "currentShares": 17096801,
+        "change": -90421,
+        "change_p": -0.5261
+      },
+      "18": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8012,
+        "totalAssets": 0.0761,
+        "currentShares": 16322170,
+        "change": 9813549,
+        "change_p": 150.7777
+      },
+      "19": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.7326,
+        "totalAssets": 0.0704,
+        "currentShares": 14923981,
+        "change": -717189,
+        "change_p": -4.5853
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1665,
+        "totalAssets": 0.0506,
+        "currentShares": 64504683,
+        "change": 622145,
+        "change_p": 0.9739
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5372,
+        "totalAssets": 0.0568,
+        "currentShares": 51685334,
+        "change": -601739,
+        "change_p": -1.1508
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1527,
+        "totalAssets": 0.3454,
+        "currentShares": 43853869,
+        "change": -99171,
+        "change_p": -0.2256
+      },
+      "3": {
+        "name": "UniGlobal Vorsorge",
+        "date": "2026-02-28",
+        "totalShares": 1.455,
+        "totalAssets": 1.8278,
+        "currentShares": 29640167,
+        "change": 10343496,
+        "change_p": 53.6025
+      },
+      "4": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.3962,
+        "totalAssets": 0.7894,
+        "currentShares": 28443241,
+        "change": 28443241,
+        "change_p": 0
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2808,
+        "totalAssets": 0.0567,
+        "currentShares": 26091889,
+        "change": -14208,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2702,
+        "totalAssets": 0.058,
+        "currentShares": 25875176,
+        "change": 5900227,
+        "change_p": 29.5381
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1597,
+        "totalAssets": 0.0569,
+        "currentShares": 23623775,
+        "change": -57869,
+        "change_p": -0.2444
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.921,
+        "totalAssets": 0.1301,
+        "currentShares": 18761895,
+        "change": -68438,
+        "change_p": -0.3634
+      },
+      "9": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.792,
+        "totalAssets": 1.1328,
+        "currentShares": 16132987,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.7627,
+        "totalAssets": 1.0373,
+        "currentShares": 15536235,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7084,
+        "totalAssets": 0.1595,
+        "currentShares": 14431465,
+        "change": 14431465,
+        "change_p": 0
+      },
+      "12": {
+        "name": "R-co Valor C EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.691,
+        "totalAssets": 1.8616,
+        "currentShares": 14076149,
+        "change": 1680527,
+        "change_p": 13.5574
+      },
+      "13": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6811,
+        "totalAssets": 0.4499,
+        "currentShares": 13875333,
+        "change": 23496,
+        "change_p": 0.1696
+      },
+      "14": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6561,
+        "totalAssets": 1.1915,
+        "currentShares": 13364603,
+        "change": -388034,
+        "change_p": -2.8215
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6482,
+        "totalAssets": 0.5948,
+        "currentShares": 13204962,
+        "change": 583344,
+        "change_p": 4.6218
+      },
+      "16": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6317,
+        "totalAssets": 0.4635,
+        "currentShares": 12868115,
+        "change": 12868115,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Invesco Large Cap Value",
+        "date": "2025-12-31",
+        "totalShares": 0.5961,
+        "totalAssets": 1.6338,
+        "currentShares": 12142689,
+        "change": -573663,
+        "change_p": -4.5112
+      },
+      "18": {
+        "name": "Invesco Comstock A",
+        "date": "2026-01-31",
+        "totalShares": 0.5961,
+        "totalAssets": 1.6046,
+        "currentShares": 12142689,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Invesco KBW Bank ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5801,
+        "totalAssets": 3.8237,
+        "currentShares": 11817539,
+        "change": -38700,
+        "change_p": -0.3264
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 12.6154,
+    "ForwardPE": 10.7181,
+    "PriceSalesTTM": 4.0045,
+    "PriceBookMRQ": 1.1505,
+    "EnterpriseValue": 39766941696,
+    "EnterpriseValueRevenue": 6.8837,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 33244942336,
+    "MarketCapitalizationMln": 33244.9423,
+    "EBITDA": null,
+    "PERatio": 12.6154,
+    "PEGRatio": 1.949,
+    "WallStreetTargetPrice": 19.6389,
+    "BookValue": 14.629,
+    "DividendShare": 0.62,
+    "DividendYield": 0.0368,
+    "EarningsShare": 1.3,
+    "EPSEstimateCurrentYear": 1.4357,
+    "EPSEstimateNextYear": 1.9027,
+    "EPSEstimateNextQuarter": 0.2178,
+    "EPSEstimateCurrentQuarter": 0.3228,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2658,
+    "OperatingMarginTTM": 0.2969,
+    "ReturnOnAssetsTTM": 0.009,
+    "ReturnOnEquityTTM": 0.0839,
+    "RevenueTTM": 8302000128,
+    "RevenuePerShareTTM": 5.245,
+    "QuarterlyRevenueGrowthYOY": 0.34,
+    "GrossProfitTTM": 8302000128,
+    "DilutedEpsTTM": 1.3,
+    "QuarterlyEarningsGrowthYOY": -0.265
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.4,
+    "TotalEsgPercentile": 36.84,
+    "EnvironmentScore": 7.48,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 19.12,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 13.8,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HBAN",
+    "Type": "Common Stock",
+    "Name": "Huntington Bancshares Incorporated",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKWSR6",
+    "ISIN": "US4461501045",
+    "LEI": "549300XTVCVV9I7B5T19",
+    "PrimaryTicker": "HBAN.US",
+    "CUSIP": "446150104",
+    "CIK": "0000049196",
+    "EmployerIdNumber": "31-0724920",
+    "FiscalYearEnd": "December",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Regional Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Huntington Bancshares Incorporated operates as the bank holding company for The Huntington National Bank that provides commercial, consumer, and mortgage banking services. It offers financial products and services to consumer and business customers, including deposits, lending, payments, mortgage banking, dealer financing, investment management, trust, brokerage, insurance, and other financial products and services. The company also provides 24-Hour Grace, Asterisk-Free Checking, Money Scout, $50 Safety Zone, Standby Cash, Early Pay, Instant Access, Savings Goal Getter, And Huntington Heads Up; digitally powered consumer and business financial solutions to consumer finance, regional banking, branch banking, and wealth management customers; direct and indirect consumer loans; dealer finance loans and deposits; and private banking, wealth management and legacy planning through investment and portfolio management, fiduciary administration and trust, institutional custody, and full-service retail brokerage investment services. In addition, it offers equipment financing, asset-based lending, distribution finance, structured lending, municipal financing solutions, and Huntington ChoicePay. Additionally, the company provides lending, liquidity, treasury management and other payment services, and capital markets; government and non-profits, healthcare, technology and telecommunications, franchises, financial sponsors, fund finance, Native American financial, and global services; and corporate risk management, institutional sales and trading, debt and equity issuance, and additional advisory services. The company offers its products through a network of channels, including branches and ATMs, online and mobile banking, and through customer call centers to customers in middle market banking, corporate, specialty, and government banking, asset finance, commercial real estate banking, and capital markets. The company was founded in 1866 and is headquartered in Columbus, Ohio.",
+    "Address": "Huntington Center, Columbus, OH, United States, 43287",
+    "AddressData": {
+      "Street": "Huntington Center",
+      "City": "Columbus",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "43287"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Stephen D. Steinour",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1959"
+      },
+      "1": {
+        "Name": "Mr. Zachary J. Wasserman",
+        "Title": "CFO & Senior EVP",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Ms. Helga S. Houston",
+        "Title": "Senior Executive Vice President",
+        "YearBorn": "1961"
+      },
+      "3": {
+        "Name": "Mr. Scott D. Kleinman",
+        "Title": "Senior Executive VP & President of Commercial Banking",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Brantley J. Standridge",
+        "Title": "Senior EVP and President of Consumer & Regional Banking",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Ms. Nancy E. Maloney",
+        "Title": "Executive VP, Controller & Principal Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Kendall  Kowalski",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Mr. Eric Edmund Wasserstrom",
+        "Title": "Executive VP & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Marcy C. Hingst J.D.",
+        "Title": "Senior EVP, General Counsel & Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "9": {
+        "Name": "Mr. Timothy W. Miller",
+        "Title": "Executive VP & Chief Communications Officer",
+        "YearBorn": "1983"
+      }
+    },
+    "Phone": "614 480 2265",
+    "WebURL": "https://www.huntington.com",
+    "LogoURL": "/img/logos/US/hban.png",
+    "FullTimeEmployees": 24641,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2027130587,
+    "SharesFloat": 2014643463,
+    "PercentInsiders": 0.7979999999999999,
+    "PercentInstitutions": 73.117,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0345
+  }
+}

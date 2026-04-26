@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.3491,
+        "totalAssets": 0.0232,
+        "currentShares": 6646106,
+        "change": 8601,
+        "change_p": 0.1296
+      },
+      "1": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 12.0157,
+        "totalAssets": 0.5699,
+        "currentShares": 5982264,
+        "change": 2121725,
+        "change_p": 54.9593
+      },
+      "2": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 10.0636,
+        "totalAssets": 0.1947,
+        "currentShares": 5010373,
+        "change": 959259,
+        "change_p": 23.6789
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9629,
+        "totalAssets": 0.015,
+        "currentShares": 3964473,
+        "change": -18066,
+        "change_p": -0.4536
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.3923,
+        "totalAssets": 0.0202,
+        "currentShares": 2684646,
+        "change": -108041,
+        "change_p": -3.8687
+      },
+      "5": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8022,
+        "totalAssets": 0.5724,
+        "currentShares": 1395110,
+        "change": 747253,
+        "change_p": 115.3423
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7572,
+        "totalAssets": 0.0204,
+        "currentShares": 1372744,
+        "change": 2625,
+        "change_p": 0.1916
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6573,
+        "totalAssets": 0.0163,
+        "currentShares": 1322968,
+        "change": 319407,
+        "change_p": 31.8274
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.3256,
+        "totalAssets": 0.0268,
+        "currentShares": 1157832,
+        "change": -90562,
+        "change_p": -7.2543
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.2476,
+        "totalAssets": 0.0382,
+        "currentShares": 1119022,
+        "change": -56465,
+        "change_p": -4.8035
+      },
+      "10": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.9193,
+        "totalAssets": 0.0742,
+        "currentShares": 955577,
+        "change": -49932,
+        "change_p": -4.9658
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.8471,
+        "totalAssets": 0.0465,
+        "currentShares": 919639,
+        "change": 57139,
+        "change_p": 6.6248
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3474,
+        "totalAssets": 0.0173,
+        "currentShares": 670848,
+        "change": 6003,
+        "change_p": 0.9029
+      },
+      "13": {
+        "name": "Lyrical Asset Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3391,
+        "totalAssets": 2.1002,
+        "currentShares": 666694,
+        "change": -31707,
+        "change_p": -4.5399
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3288,
+        "totalAssets": 0.0183,
+        "currentShares": 661581,
+        "change": -22883,
+        "change_p": -3.3432
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2232,
+        "totalAssets": 0.008,
+        "currentShares": 608999,
+        "change": 64716,
+        "change_p": 11.8901
+      },
+      "16": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.1752,
+        "totalAssets": 0.1215,
+        "currentShares": 585106,
+        "change": -80577,
+        "change_p": -12.1044
+      },
+      "17": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1638,
+        "totalAssets": 0.1014,
+        "currentShares": 579426,
+        "change": -33493,
+        "change_p": -5.4645
+      },
+      "18": {
+        "name": "ING Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1408,
+        "totalAssets": 0.1345,
+        "currentShares": 567979,
+        "change": 115686,
+        "change_p": 25.5777
+      },
+      "19": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.0034,
+        "totalAssets": 0.0901,
+        "currentShares": 499546,
+        "change": 187,
+        "change_p": 0.0374
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 3.4336,
+        "totalAssets": 1.6348,
+        "currentShares": 1709500,
+        "change": -122500,
+        "change_p": -6.6867
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1656,
+        "totalAssets": 0.0172,
+        "currentShares": 1576074,
+        "change": -7272,
+        "change_p": -0.4593
+      },
+      "2": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 3.1195,
+        "totalAssets": 1.5008,
+        "currentShares": 1553100,
+        "change": -155000,
+        "change_p": -9.0744
+      },
+      "3": {
+        "name": "BNY Mellon Dynamic Value Fund A",
+        "date": "2026-03-31",
+        "totalShares": 2.6449,
+        "totalAssets": 2.6176,
+        "currentShares": 1316839,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5638,
+        "totalAssets": 0.0195,
+        "currentShares": 1276430,
+        "change": -10898,
+        "change_p": -0.8466
+      },
+      "5": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3044,
+        "totalAssets": 0.1504,
+        "currentShares": 1147303,
+        "change": 10028,
+        "change_p": 0.8818
+      },
+      "6": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6093,
+        "totalAssets": 0.2046,
+        "currentShares": 801218,
+        "change": 2358,
+        "change_p": 0.2952
+      },
+      "7": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4667,
+        "totalAssets": 0.2619,
+        "currentShares": 730201,
+        "change": -225,
+        "change_p": -0.0308
+      },
+      "8": {
+        "name": "FullerThaler Behavioral Sm-Cp Eq R6",
+        "date": "2025-12-31",
+        "totalShares": 1.3285,
+        "totalAssets": 1.4189,
+        "currentShares": 661438,
+        "change": 48728,
+        "change_p": 7.9529
+      },
+      "9": {
+        "name": "FullerThaler Behavioral Small-Cap Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.3285,
+        "totalAssets": 1.4189,
+        "currentShares": 661438,
+        "change": 48728,
+        "change_p": 7.9529
+      },
+      "10": {
+        "name": "FullerThaler Beh Small-Cap Equity SMA",
+        "date": "2025-12-31",
+        "totalShares": 1.3285,
+        "totalAssets": 1.4182,
+        "currentShares": 661438,
+        "change": 24287,
+        "change_p": 3.8118
+      },
+      "11": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.3032,
+        "totalAssets": 0.9417,
+        "currentShares": 648817,
+        "change": -26274,
+        "change_p": -3.8919
+      },
+      "12": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2919,
+        "totalAssets": 0.0195,
+        "currentShares": 643191,
+        "change": -348,
+        "change_p": -0.0541
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2801,
+        "totalAssets": 0.0195,
+        "currentShares": 637340,
+        "change": 1047,
+        "change_p": 0.1645
+      },
+      "14": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.2685,
+        "totalAssets": 0.8377,
+        "currentShares": 631564,
+        "change": -7948,
+        "change_p": -1.2428
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.18,
+        "totalAssets": 0.0197,
+        "currentShares": 587495,
+        "change": -1421,
+        "change_p": -0.2413
+      },
+      "16": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 1.1579,
+        "totalAssets": 0.8494,
+        "currentShares": 576496,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "T. Rowe Price U.S. Mid-Cap Gr Eq Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.1058,
+        "totalAssets": 1.5048,
+        "currentShares": 550520,
+        "change": -29980,
+        "change_p": -5.1645
+      },
+      "18": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0729,
+        "totalAssets": 0.8693,
+        "currentShares": 534160,
+        "change": -44529,
+        "change_p": -7.6948
+      },
+      "19": {
+        "name": "JNL/Newton Equity Income A",
+        "date": "2025-12-31",
+        "totalShares": 1.0114,
+        "totalAssets": 3.1606,
+        "currentShares": 503521,
+        "change": 9345,
+        "change_p": 1.891
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 13.6057,
+    "ForwardPE": 10.2145,
+    "PriceSalesTTM": 0.8928,
+    "PriceBookMRQ": 1.9541,
+    "EnterpriseValue": 11846711328,
+    "EnterpriseValueRevenue": 0.9245,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 11441051648,
+    "MarketCapitalizationMln": 11441.0516,
+    "EBITDA": 1475699968,
+    "PERatio": 13.6057,
+    "PEGRatio": 2.1593,
+    "WallStreetTargetPrice": 260,
+    "BookValue": 117.92,
+    "DividendShare": 3.28,
+    "DividendYield": 0.0142,
+    "EarningsShare": 16.89,
+    "EPSEstimateCurrentYear": 20.5357,
+    "EPSEstimateNextYear": 22.1084,
+    "EPSEstimateNextQuarter": 5.4502,
+    "EPSEstimateCurrentQuarter": 5.5032,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0681,
+    "OperatingMarginTTM": 0.1012,
+    "ReturnOnAssetsTTM": 0.0215,
+    "ReturnOnEquityTTM": 0.159,
+    "RevenueTTM": 12814300160,
+    "RevenuePerShareTTM": 253.901,
+    "QuarterlyRevenueGrowthYOY": 0.079,
+    "GrossProfitTTM": 1523900032,
+    "DilutedEpsTTM": 16.89,
+    "QuarterlyEarningsGrowthYOY": 0.151
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.65,
+    "TotalEsgPercentile": 46.54,
+    "EnvironmentScore": 7.26,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 17.15,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 19.75,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AIZ",
+    "Type": "Common Stock",
+    "Name": "Assurant Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BZX1N5",
+    "ISIN": "US04621X1081",
+    "LEI": "H3F39CAXWQRVWURFXL38",
+    "PrimaryTicker": "AIZ.US",
+    "CUSIP": "04621X108",
+    "CIK": "0001267238",
+    "EmployerIdNumber": "39-1126612",
+    "FiscalYearEnd": "December",
+    "IPODate": "2004-02-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Property & Casualty",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Property & Casualty Insurance",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Assurant, Inc. provides protection services to connected devices, homes, and automobiles in North America, Latin America, Europe, and the Asia Pacific. It operates through Global Lifestyle and Global Housing segments. The Global Lifestyle segment offers mobile device solutions, and extended service contracts and related services for consumer electronics and appliances, and credit and other insurance products; and vehicle protection, commercial equipment protection, and other related services. The Global Housing segment provides lender-placed homeowners, manufactured housing, and flood insurance; renters insurance and other products; and voluntary manufactured housing, and condominium and homeowners insurance products. The company was formerly known as Fortis, Inc. and changed its name to Assurant, Inc. in February 2004. Assurant, Inc. was founded in 1892 and is headquartered in Atlanta, Georgia.",
+    "Address": "260 Interstate North Circle SE, Atlanta, GA, United States, 30339-2210",
+    "AddressData": {
+      "Street": "260 Interstate North Circle SE",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30339-2210"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AIZP",
+        "Exchange": "US",
+        "Name": "Assurant Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Keith Warner Demmings",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. Keith Roland Meier",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Michael P. Campbell",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Robert A. Lonergan",
+        "Title": "Executive VP, Chief Strategy & Transformation Officer",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Biju  Nair",
+        "Title": "Executive VP & President of Global Connected Living",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Vadim  Lipovetsky",
+        "Title": "Chief Investment Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Dimitry  DiRienzo",
+        "Title": "Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Mr. Joseph A. Surber III",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Sean  Moshier",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Jay E. Rosenblum",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "770 763 1000",
+    "WebURL": "https://www.assurant.com",
+    "LogoURL": "/img/logos/US/AIZ.png",
+    "FullTimeEmployees": 14800,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 49786997,
+    "SharesFloat": 49280800,
+    "PercentInsiders": 0.76,
+    "PercentInstitutions": 97.558,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0222
+  }
+}

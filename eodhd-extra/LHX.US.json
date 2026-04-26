@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5335,
+        "totalAssets": 0.0996,
+        "currentShares": 23410806,
+        "change": 190955,
+        "change_p": 0.8224
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.8756,
+        "totalAssets": 0.0886,
+        "currentShares": 16578345,
+        "change": -1104738,
+        "change_p": -6.2474
+      },
+      "2": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 6.2346,
+        "totalAssets": 0.465,
+        "currentShares": 11645419,
+        "change": 329910,
+        "change_p": 2.9156
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6995,
+        "totalAssets": 0.093,
+        "currentShares": 8777926,
+        "change": -96556,
+        "change_p": -1.088
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.197,
+        "totalAssets": 0.1951,
+        "currentShares": 5971549,
+        "change": -2641437,
+        "change_p": -30.6681
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7554,
+        "totalAssets": 0.0929,
+        "currentShares": 5146713,
+        "change": 106430,
+        "change_p": 2.1116
+      },
+      "6": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6529,
+        "totalAssets": 0.2877,
+        "currentShares": 4955201,
+        "change": -26594,
+        "change_p": -0.5338
+      },
+      "7": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1231,
+        "totalAssets": 0.2173,
+        "currentShares": 3965728,
+        "change": -151302,
+        "change_p": -3.675
+      },
+      "8": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.9829,
+        "totalAssets": 0.1905,
+        "currentShares": 3703815,
+        "change": -1024146,
+        "change_p": -21.6615
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7096,
+        "totalAssets": 0.0591,
+        "currentShares": 3193223,
+        "change": -180724,
+        "change_p": -5.3565
+      },
+      "10": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6586,
+        "totalAssets": 0.7282,
+        "currentShares": 3098057,
+        "change": -106585,
+        "change_p": -3.326
+      },
+      "11": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2859,
+        "totalAssets": 0.7345,
+        "currentShares": 2401871,
+        "change": 519226,
+        "change_p": 27.5796
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1674,
+        "totalAssets": 0.1049,
+        "currentShares": 2180547,
+        "change": -34730,
+        "change_p": -1.5677
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1132,
+        "totalAssets": 0.019,
+        "currentShares": 2079270,
+        "change": 1073371,
+        "change_p": 106.7076
+      },
+      "14": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.0175,
+        "totalAssets": 0.8353,
+        "currentShares": 1900509,
+        "change": 1207334,
+        "change_p": 174.1745
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9697,
+        "totalAssets": 0.0652,
+        "currentShares": 1811237,
+        "change": 111474,
+        "change_p": 6.5582
+      },
+      "16": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.907,
+        "totalAssets": 0.0254,
+        "currentShares": 1694113,
+        "change": -622417,
+        "change_p": -26.8685
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8486,
+        "totalAssets": 0.0328,
+        "currentShares": 1585154,
+        "change": -143365,
+        "change_p": -8.2941
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8265,
+        "totalAssets": 0.0603,
+        "currentShares": 1543720,
+        "change": -12896,
+        "change_p": -0.8285
+      },
+      "19": {
+        "name": "AGF Management Ltd",
+        "date": "2025-09-30",
+        "totalShares": 0.8035,
+        "totalAssets": 2.0168,
+        "currentShares": 1500887,
+        "change": 205479,
+        "change_p": 15.8621
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1763,
+        "totalAssets": 0.1026,
+        "currentShares": 5932967,
+        "change": 17483,
+        "change_p": 0.2955
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5465,
+        "totalAssets": 0.1154,
+        "currentShares": 4756454,
+        "change": -54740,
+        "change_p": -1.1378
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1601,
+        "totalAssets": 0.7008,
+        "currentShares": 4034813,
+        "change": -30729,
+        "change_p": -0.7558
+      },
+      "3": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.1495,
+        "totalAssets": 0.5661,
+        "currentShares": 4015024,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.0316,
+        "totalAssets": 0.6569,
+        "currentShares": 3794710,
+        "change": -220314,
+        "change_p": -5.4872
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.1151,
+        "currentShares": 2400970,
+        "change": -1308,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2744,
+        "totalAssets": 0.1158,
+        "currentShares": 2380484,
+        "change": 3924,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.1829,
+        "totalAssets": 0.2893,
+        "currentShares": 2209538,
+        "change": -170615,
+        "change_p": -7.1682
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1629,
+        "totalAssets": 0.1153,
+        "currentShares": 2172207,
+        "change": -5341,
+        "change_p": -0.2453
+      },
+      "9": {
+        "name": "iShares US Aerospace & Defense ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.967,
+        "totalAssets": 4.6596,
+        "currentShares": 1806235,
+        "change": -14760,
+        "change_p": -0.8105
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.264,
+        "currentShares": 1726321,
+        "change": -14678,
+        "change_p": -0.8431
+      },
+      "11": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8917,
+        "totalAssets": 0.7822,
+        "currentShares": 1665610,
+        "change": -379871,
+        "change_p": -18.5712
+      },
+      "12": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.7461,
+        "totalAssets": 0.3397,
+        "currentShares": 1393700,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.7224,
+        "totalAssets": 0.3367,
+        "currentShares": 1349305,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.7224,
+        "totalAssets": 0.2782,
+        "currentShares": 1349305,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 1.207,
+        "currentShares": 1214960,
+        "change": 47466,
+        "change_p": 4.0656
+      },
+      "16": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.5988,
+        "totalAssets": 0.849,
+        "currentShares": 1118559,
+        "change": 368490,
+        "change_p": 49.1275
+      },
+      "17": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5755,
+        "totalAssets": 0.194,
+        "currentShares": 1075023,
+        "change": 290973,
+        "change_p": 37.1115
+      },
+      "18": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.5755,
+        "totalAssets": 0.2429,
+        "currentShares": 1075023,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.1151,
+        "currentShares": 1052318,
+        "change": -6875,
+        "change_p": -0.6491
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.1792,
+    "ForwardPE": 28.49,
+    "PriceSalesTTM": 4.6131,
+    "PriceBookMRQ": 3.1414,
+    "EnterpriseValue": 71727438246,
+    "EnterpriseValueRevenue": 3.2805,
+    "EnterpriseValueEbitda": 19.112
+  },
+  "Highlights": {
+    "MarketCapitalization": 59306389504,
+    "MarketCapitalizationMln": 59306.3895,
+    "EBITDA": 2146000000,
+    "PERatio": 37.1792,
+    "PEGRatio": 2.0932,
+    "WallStreetTargetPrice": 392.1579,
+    "BookValue": 102.781,
+    "DividendShare": 2.87,
+    "DividendYield": 0.0087,
+    "EarningsShare": 8.54,
+    "EPSEstimateCurrentYear": 11.6452,
+    "EPSEstimateNextYear": 13.5152,
+    "EPSEstimateNextQuarter": 2.7114,
+    "EPSEstimateCurrentQuarter": 2.7593,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1037,
+    "OperatingMarginTTM": 0.0973,
+    "ReturnOnAssetsTTM": 0.0424,
+    "ReturnOnEquityTTM": 0.0819,
+    "RevenueTTM": 12856000512,
+    "RevenuePerShareTTM": 75.757,
+    "QuarterlyRevenueGrowthYOY": 1.9,
+    "GrossProfitTTM": 3910000128,
+    "DilutedEpsTTM": 8.54,
+    "QuarterlyEarningsGrowthYOY": -0.061
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "LHX",
+    "Type": "Common Stock",
+    "Name": "L3Harris Technologies Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLGFJ9",
+    "ISIN": "US5024311095",
+    "LEI": "549300UTE50ZMDBG8A20",
+    "PrimaryTicker": "LHX.US",
+    "CUSIP": "502431109",
+    "CIK": "0000202058",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "1981-12-31",
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "L3Harris Technologies, Inc. provides mission-critical solutions for government and commercial customers worldwide. It operates through three segments: Space & Mission Systems (SMS), Communications & Spectrum Dominance (CSD), and Missile Solutions (MSL). The SMS segment integrates satellite and payload capabilities, including missile warning and defense, with maritime, air special missions, and other global defense and civil government programs. Its MSL segment unites propulsion, hypersonic, and other advanced missile technologies. The CSD segment provides tactical radios, software, waveforms, satellite terminals, and end-to-end battlefield systems for the U.S. Department of Defense, international, federal, and state agency customers; broadband communications; integrated vision solutions, such as helmet-mounted integrated night vision goggles with image intensifier tubes and weapon-mounted sights, aiming lasers, and range finders; and public safety radios and system applications and equipment. The company was formerly known as Harris Corporation and changed its name to L3Harris Technologies, Inc. in June 2019. L3Harris Technologies, Inc. was founded in 1895 and is headquartered in Melbourne, Florida.",
+    "Address": "1025 West NASA Boulevard, Melbourne, FL, United States, 32919",
+    "AddressData": {
+      "Street": "1025 West NASA Boulevard",
+      "City": "Melbourne",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "32919"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher E. Kubasik CPA",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Samir B. Mehta",
+        "Title": "President of Space & Mission Systems and Communications & Spectrum Dominance",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Kenneth L. Bedingfield",
+        "Title": "President of Missile Solutions",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Kenneth P. Sharp",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. David W. Zack",
+        "Title": "Vice President of Operations & Program Excellence",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. John P. Cantillon",
+        "Title": "VP & Principal Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Tony  Calderon",
+        "Title": "Vice President of Investor Relations & Corporate Development",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Terry L. Feiser",
+        "Title": "Vice President of Internal Audit & Compliance",
+        "YearBorn": "1956"
+      },
+      "8": {
+        "Name": "Mr. Christoph T. Feddersen",
+        "Title": "Senior VP, General Counsel & Secretary",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Ms. Melanie  Rakita",
+        "Title": "VP & Chief Human Resources Officer",
+        "YearBorn": "1979"
+      }
+    },
+    "Phone": "321 727 9100",
+    "WebURL": "https://www.l3harris.com",
+    "LogoURL": "/img/logos/US/LHX.png",
+    "FullTimeEmployees": 45000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 186785895,
+    "SharesFloat": 219817844,
+    "PercentInsiders": 0.33899999999999997,
+    "PercentInstitutions": 89.832,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0156
+  }
+}

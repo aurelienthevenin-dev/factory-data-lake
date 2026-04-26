@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.3123,
+        "totalAssets": 0.0193,
+        "currentShares": 13227980,
+        "change": -8953,
+        "change_p": -0.0676
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.6698,
+        "totalAssets": 0.0148,
+        "currentShares": 8353527,
+        "change": 331792,
+        "change_p": 4.1362
+      },
+      "2": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 8.4324,
+        "totalAssets": 0.0786,
+        "currentShares": 7284627,
+        "change": 15363,
+        "change_p": 0.2113
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.7195,
+        "totalAssets": 0.0234,
+        "currentShares": 6668743,
+        "change": 90127,
+        "change_p": 1.37
+      },
+      "4": {
+        "name": "Resolution Capital Limited",
+        "date": "2025-12-31",
+        "totalShares": 3.8247,
+        "totalAssets": 7.3611,
+        "currentShares": 3304051,
+        "change": 140835,
+        "change_p": 4.4523
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.0792,
+        "totalAssets": 0.0425,
+        "currentShares": 2660078,
+        "change": -52834,
+        "change_p": -1.9475
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.9809,
+        "totalAssets": 0.0078,
+        "currentShares": 2575132,
+        "change": 775304,
+        "change_p": 43.0766
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5446,
+        "totalAssets": 0.0137,
+        "currentShares": 2198241,
+        "change": 23214,
+        "change_p": 1.0673
+      },
+      "8": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1074,
+        "totalAssets": 0.0963,
+        "currentShares": 1820547,
+        "change": 979064,
+        "change_p": 116.3498
+      },
+      "9": {
+        "name": "ProShare Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8535,
+        "totalAssets": 0.2849,
+        "currentShares": 1601239,
+        "change": -195763,
+        "change_p": -10.8939
+      },
+      "10": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6523,
+        "totalAssets": 0.0224,
+        "currentShares": 1427382,
+        "change": 56151,
+        "change_p": 4.0949
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5713,
+        "totalAssets": 0.0176,
+        "currentShares": 1357425,
+        "change": 99161,
+        "change_p": 7.8808
+      },
+      "12": {
+        "name": "Rush Island Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.4876,
+        "totalAssets": 8.0945,
+        "currentShares": 1285095,
+        "change": -26393,
+        "change_p": -2.0124
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4248,
+        "totalAssets": 0.026,
+        "currentShares": 1230892,
+        "change": 23289,
+        "change_p": 1.9285
+      },
+      "14": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.2702,
+        "totalAssets": 0.0357,
+        "currentShares": 1097323,
+        "change": -474712,
+        "change_p": -30.1973
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2558,
+        "totalAssets": 0.0056,
+        "currentShares": 1084849,
+        "change": 549308,
+        "change_p": 102.5707
+      },
+      "16": {
+        "name": "PGGM Investments",
+        "date": "2025-12-31",
+        "totalShares": 1.188,
+        "totalAssets": 1.6379,
+        "currentShares": 1026327,
+        "change": -45488,
+        "change_p": -4.244
+      },
+      "17": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0844,
+        "totalAssets": 0.018,
+        "currentShares": 936810,
+        "change": -3327,
+        "change_p": -0.3539
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0171,
+        "totalAssets": 0.0095,
+        "currentShares": 878690,
+        "change": 377072,
+        "change_p": 75.1711
+      },
+      "19": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0102,
+        "totalAssets": 0.0054,
+        "currentShares": 872683,
+        "change": -119447,
+        "change_p": -12.0395
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.5311,
+        "totalAssets": 0.4986,
+        "currentShares": 3050437,
+        "change": -11749,
+        "change_p": -0.3837
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1747,
+        "totalAssets": 0.0146,
+        "currentShares": 2742565,
+        "change": 23499,
+        "change_p": 0.8642
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3144,
+        "totalAssets": 0.0149,
+        "currentShares": 1999376,
+        "change": -19366,
+        "change_p": -0.9593
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3054,
+        "totalAssets": 0.1273,
+        "currentShares": 1991615,
+        "change": 32368,
+        "change_p": 1.6521
+      },
+      "4": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.8786,
+        "totalAssets": 0.2021,
+        "currentShares": 1622890,
+        "change": 4847,
+        "change_p": 0.2996
+      },
+      "5": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 1.8675,
+        "totalAssets": 1.5515,
+        "currentShares": 1613306,
+        "change": -767,
+        "change_p": -0.0475
+      },
+      "6": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4673,
+        "totalAssets": 0.2217,
+        "currentShares": 1267614,
+        "change": 9386,
+        "change_p": 0.746
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1685,
+        "totalAssets": 0.0149,
+        "currentShares": 1009474,
+        "change": -552,
+        "change_p": -0.0547
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1565,
+        "totalAssets": 0.0145,
+        "currentShares": 999074,
+        "change": 1639,
+        "change_p": 0.1643
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0549,
+        "totalAssets": 0.0149,
+        "currentShares": 911342,
+        "change": -2254,
+        "change_p": -0.2467
+      },
+      "10": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9776,
+        "totalAssets": 1.2703,
+        "currentShares": 844557,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8837,
+        "totalAssets": 0.3921,
+        "currentShares": 763428,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7515,
+        "totalAssets": 0.942,
+        "currentShares": 649172,
+        "change": -1456,
+        "change_p": -0.2238
+      },
+      "13": {
+        "name": "Invesco S&P 500® Low Volatility ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7259,
+        "totalAssets": 0.9125,
+        "currentShares": 627124,
+        "change": -315,
+        "change_p": -0.0502
+      },
+      "14": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.6373,
+        "totalAssets": 0.6378,
+        "currentShares": 550533,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6242,
+        "totalAssets": 0.5852,
+        "currentShares": 539239,
+        "change": 4109,
+        "change_p": 0.7679
+      },
+      "16": {
+        "name": "FT Cboe Vest S&P 500® Dv Ast Tgt Inc ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5746,
+        "totalAssets": 1.563,
+        "currentShares": 496346,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "DFA Real Estate Securities I",
+        "date": "2026-02-28",
+        "totalShares": 0.517,
+        "totalAssets": 0.6887,
+        "currentShares": 446632,
+        "change": 10599,
+        "change_p": 2.4308
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.512,
+        "totalAssets": 0.0149,
+        "currentShares": 442296,
+        "change": -3233,
+        "change_p": -0.7257
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4851,
+        "totalAssets": 0.0147,
+        "currentShares": 419064,
+        "change": 600,
+        "change_p": 0.1434
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.7773,
+    "ForwardPE": 38.61,
+    "PriceSalesTTM": 7.4889,
+    "PriceBookMRQ": 3.1183,
+    "EnterpriseValue": 14712999749,
+    "EnterpriseValueRevenue": 11.5037,
+    "EnterpriseValueEbitda": 15.0886
+  },
+  "Highlights": {
+    "MarketCapitalization": 9592547328,
+    "MarketCapitalizationMln": 9592.5473,
+    "EBITDA": 814518976,
+    "PERatio": 23.7773,
+    "PEGRatio": 4.1109,
+    "WallStreetTargetPrice": 116.0526,
+    "BookValue": 35.807,
+    "DividendShare": 4.46,
+    "DividendYield": 0.04,
+    "EarningsShare": 4.67,
+    "EPSEstimateCurrentYear": 2.914,
+    "EPSEstimateNextYear": 3.182,
+    "EPSEstimateNextQuarter": 0.7375,
+    "EPSEstimateCurrentQuarter": 0.7625,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3209,
+    "OperatingMarginTTM": 0.3446,
+    "ReturnOnAssetsTTM": 0.0327,
+    "ReturnOnEquityTTM": 0.1224,
+    "RevenueTTM": 1280894976,
+    "RevenuePerShareTTM": 14.92,
+    "QuarterlyRevenueGrowthYOY": 0.075,
+    "GrossProfitTTM": 869945984,
+    "DilutedEpsTTM": 4.67,
+    "QuarterlyEarningsGrowthYOY": 0.987
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.86,
+    "TotalEsgPercentile": 7.44,
+    "EnvironmentScore": 7.22,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 10.01,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 10.14,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FRT",
+    "Type": "Common Stock",
+    "Name": "Federal Realty Investment Trust",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJVN28",
+    "ISIN": "US3137451015",
+    "LEI": null,
+    "PrimaryTicker": "FRT.US",
+    "CUSIP": "313747404",
+    "CIK": "0000034903",
+    "EmployerIdNumber": "52-0782497",
+    "FiscalYearEnd": "December",
+    "IPODate": "1973-05-03",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Retail",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Retail REITs",
+    "GicSubIndustry": "Retail REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Federal Realty Investment Trust is a recognized leader in the ownership, operation and redevelopment of high-quality retail-based properties located primarily in major coastal markets and select underserved regions with strong economic and demographic fundamentals. Founded in 1962, Federal Realty's mission is to deliver long-term, sustainable growth through investing in communities where retail demand exceeds supply. This includes a portfolio of open-air shopping centers and mixed-use destinations\"such as Santana Row, Pike & Rose and Assembly Row\"which together reflect the company's ability to create distinctive, high-performing environments that serve as vibrant destinations for their communities. As of December 31, 2025, Federal Realty's 104 properties include approximately 3,700 tenants in 28.8 million commercial square feet, and approximately 2,700 residential units. Federal Realty has increased its quarterly dividends to its shareholders for 58 consecutive years, the longest record in the REIT industry. The company is an S&P 500 index member, and its shares are traded on the NYSE under the symbol FRT. Federal Realty Investment Trust was incorporated in 1962 in Maryland, USA.",
+    "Address": "909 Rose Avenue, North Bethesda, MD, United States, 20852-4041",
+    "AddressData": {
+      "Street": "909 Rose Avenue",
+      "City": "North Bethesda",
+      "State": "MD",
+      "Country": "United States",
+      "ZIP": "20852-4041"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Donald C. Wood CPA",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Daniel  Guglielmone",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Ms. Dawn M. Becker J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Secretary",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Ms. Wendy A. Seher",
+        "Title": "Executive VP, Eastern Region President and Chief Operating Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Mr. Jeffrey  Kreshek",
+        "Title": "Executive VP, Western Region President and Chief Operating Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Jan W. Sweetnam",
+        "Title": "Executive VP & Chief Investment Officer",
+        "YearBorn": "1960"
+      },
+      "6": {
+        "Name": "Ms. Melissa  Solis",
+        "Title": "Chief Accounting Officer & Senior VP",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Mr. Porter  Bellew",
+        "Title": "Senior Vice President & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Jill Ryann Sawyer",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Laura  Houser",
+        "Title": "Vice President of Human Resources",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "301 998 8100",
+    "WebURL": "https://www.federalrealty.com",
+    "LogoURL": "/img/logos/US/frt.png",
+    "FullTimeEmployees": 314,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 86388213,
+    "SharesFloat": 77861532,
+    "PercentInsiders": 1.122,
+    "PercentInstitutions": 100.14,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0002
+  }
+}

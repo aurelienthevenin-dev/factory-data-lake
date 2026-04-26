@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.512,
+        "totalAssets": 0.0616,
+        "currentShares": 48636836,
+        "change": 10038,
+        "change_p": 0.0206
+      },
+      "1": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 9.9351,
+        "totalAssets": 3.2914,
+        "currentShares": 38619968,
+        "change": 38178808,
+        "change_p": 8654.1862
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2606,
+        "totalAssets": 0.0514,
+        "currentShares": 32110777,
+        "change": -436849,
+        "change_p": -1.3422
+      },
+      "3": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 4.3574,
+        "totalAssets": 0.4877,
+        "currentShares": 16938037,
+        "change": -2440723,
+        "change_p": -12.5948
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1179,
+        "totalAssets": 0.0508,
+        "currentShares": 16006990,
+        "change": -32593,
+        "change_p": -0.2032
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.8697,
+        "totalAssets": 0.0412,
+        "currentShares": 15042222,
+        "change": -7072364,
+        "change_p": -31.9805
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.3646,
+        "totalAssets": 0.0724,
+        "currentShares": 13078837,
+        "change": -398403,
+        "change_p": -2.9561
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7753,
+        "totalAssets": 0.0583,
+        "currentShares": 10788225,
+        "change": 29636,
+        "change_p": 0.2755
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.2681,
+        "totalAssets": 0.0824,
+        "currentShares": 8816541,
+        "change": 1528986,
+        "change_p": 20.9808
+      },
+      "9": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9087,
+        "totalAssets": 0.1692,
+        "currentShares": 7419634,
+        "change": 322255,
+        "change_p": 4.5405
+      },
+      "10": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.7604,
+        "totalAssets": 0.1927,
+        "currentShares": 6843069,
+        "change": -248945,
+        "change_p": -3.5102
+      },
+      "11": {
+        "name": "Fiera Capital Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.2914,
+        "totalAssets": 1.3906,
+        "currentShares": 5020052,
+        "change": -124171,
+        "change_p": -2.4138
+      },
+      "12": {
+        "name": "Mitsubishi UFJ Asset Management Co.,Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.2053,
+        "totalAssets": 0.2806,
+        "currentShares": 4685310,
+        "change": -92842,
+        "change_p": -1.9431
+      },
+      "13": {
+        "name": "StonePine Asset Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2039,
+        "totalAssets": 2.5413,
+        "currentShares": 4679997,
+        "change": 163476,
+        "change_p": 3.6195
+      },
+      "14": {
+        "name": "BLS Capital Fondsmæglerselskab A/S",
+        "date": "2025-12-31",
+        "totalShares": 1.2036,
+        "totalAssets": 13.8509,
+        "currentShares": 4678538,
+        "change": 225913,
+        "change_p": 5.0737
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1038,
+        "totalAssets": 0.0502,
+        "currentShares": 4290651,
+        "change": -102261,
+        "change_p": -2.3279
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0318,
+        "totalAssets": 0.0578,
+        "currentShares": 4010945,
+        "change": -518276,
+        "change_p": -11.4429
+      },
+      "17": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.0297,
+        "totalAssets": 0.289,
+        "currentShares": 4002589,
+        "change": 1979819,
+        "change_p": 97.8766
+      },
+      "18": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9294,
+        "totalAssets": 0.0553,
+        "currentShares": 3612811,
+        "change": 83626,
+        "change_p": 2.3696
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8382,
+        "totalAssets": 0.0647,
+        "currentShares": 3258341,
+        "change": -373593,
+        "change_p": -10.2863
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1764,
+        "totalAssets": 0.0477,
+        "currentShares": 12347174,
+        "change": 23769,
+        "change_p": 0.1929
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5464,
+        "totalAssets": 0.0536,
+        "currentShares": 9898315,
+        "change": -129157,
+        "change_p": -1.288
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.3257,
+        "currentShares": 8397247,
+        "change": -73029,
+        "change_p": -0.8622
+      },
+      "3": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.6576,
+        "totalAssets": 1.0469,
+        "currentShares": 6443437,
+        "change": 133413,
+        "change_p": 2.1143
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.0535,
+        "currentShares": 4997119,
+        "change": -2724,
+        "change_p": -0.0545
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2759,
+        "totalAssets": 0.0613,
+        "currentShares": 4959632,
+        "change": 8182,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1663,
+        "totalAssets": 0.0537,
+        "currentShares": 4533583,
+        "change": -11074,
+        "change_p": -0.2437
+      },
+      "7": {
+        "name": "MS INVF Global Brands A",
+        "date": "2025-12-31",
+        "totalShares": 0.9716,
+        "totalAssets": 1.984,
+        "currentShares": 3776712,
+        "change": -152818,
+        "change_p": -3.889
+      },
+      "8": {
+        "name": "Morgan Stanley Glbl Franchise",
+        "date": "2025-12-31",
+        "totalShares": 0.9716,
+        "totalAssets": 1.9833,
+        "currentShares": 3776712,
+        "change": -473671,
+        "change_p": -11.1442
+      },
+      "9": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9314,
+        "totalAssets": 2.4293,
+        "currentShares": 3620555,
+        "change": -1507,
+        "change_p": -0.0416
+      },
+      "10": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 0.9306,
+        "totalAssets": 2.4005,
+        "currentShares": 3617541,
+        "change": -33405,
+        "change_p": -0.915
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.1227,
+        "currentShares": 3592706,
+        "change": -35169,
+        "change_p": -0.9694
+      },
+      "12": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9027,
+        "totalAssets": 0.7389,
+        "currentShares": 3508893,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Fundsmith Equity I Acc",
+        "date": "2025-12-31",
+        "totalShares": 0.7931,
+        "totalAssets": 1.252,
+        "currentShares": 3083131,
+        "change": -1445141,
+        "change_p": -31.9137
+      },
+      "14": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.7073,
+        "totalAssets": 0.494,
+        "currentShares": 2749610,
+        "change": 2749610,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.6847,
+        "totalAssets": 1.3391,
+        "currentShares": 2661401,
+        "change": -11116,
+        "change_p": -0.4159
+      },
+      "16": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 0.561,
+        "currentShares": 2528591,
+        "change": 96235,
+        "change_p": 3.9565
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5631,
+        "totalAssets": 0.0535,
+        "currentShares": 2188709,
+        "change": -17916,
+        "change_p": -0.8119
+      },
+      "18": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 0.5924,
+        "currentShares": 2160064,
+        "change": -14952,
+        "change_p": -0.6874
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0529,
+        "currentShares": 2075000,
+        "change": -2500,
+        "change_p": -0.1203
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.1247,
+    "ForwardPE": 20.79,
+    "PriceSalesTTM": 2.0421,
+    "PriceBookMRQ": 13.1987,
+    "EnterpriseValue": 43637915122,
+    "EnterpriseValueRevenue": 2.5462,
+    "EnterpriseValueEbitda": 15.0909
+  },
+  "Highlights": {
+    "MarketCapitalization": 29910665216,
+    "MarketCapitalizationMln": 29910.6652,
+    "EBITDA": 2678000128,
+    "PERatio": 21.1247,
+    "PEGRatio": 1.454,
+    "WallStreetTargetPrice": 97.5,
+    "BookValue": -13.833,
+    "DividendShare": 1.68,
+    "DividendYield": 0.0211,
+    "EarningsShare": 3.69,
+    "EPSEstimateCurrentYear": 4.1747,
+    "EPSEstimateNextYear": 4.7301,
+    "EPSEstimateNextQuarter": 1.0176,
+    "EPSEstimateCurrentQuarter": 0.8976,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1011,
+    "OperatingMarginTTM": 0.1512,
+    "ReturnOnAssetsTTM": 0.1441,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 14647000064,
+    "RevenuePerShareTTM": 37.492,
+    "QuarterlyRevenueGrowthYOY": 0.064,
+    "GrossProfitTTM": 4495000064,
+    "DilutedEpsTTM": 3.69,
+    "QuarterlyEarningsGrowthYOY": 0.426
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "OTIS",
+    "Type": "Common Stock",
+    "Name": "Otis Worldwide Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00RP60KV0",
+    "ISIN": "US68902V1070",
+    "LEI": "549300ZLBKR8VSU25153",
+    "PrimaryTicker": "OTIS.US",
+    "CUSIP": "68902V107",
+    "CIK": "0001781335",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "2020-03-19",
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Otis Worldwide Corporation engages in manufacturing, installation, and servicing of elevators and escalators in the United States, China, and internationally. The company operates in two segments, New Equipment and Service. The New Equipment segment designs, manufactures, sells, and installs a range of passenger and freight elevators, as well as escalators and moving walkways for residential and commercial buildings, and infrastructure projects. This segment serves real-estate and building developers, and general contractors. It sells its products directly to customers, as well as through agents and distributors. The Service segment performs maintenance and repair services, as well as modernization services to upgrade elevators and escalators. Otis Worldwide Corporation was founded in 1853 and is headquartered in Farmington, Connecticut.",
+    "Address": "One Carrier Place, Farmington, CT, United States, 06032",
+    "AddressData": {
+      "Street": "One Carrier Place",
+      "City": "Farmington",
+      "State": "CT",
+      "Country": "United States",
+      "ZIP": "06032"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Judith F. Marks",
+        "Title": "Chair, President & CEO",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Ms. Cristina  Mendez",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1981"
+      },
+      "2": {
+        "Name": "Mr. Enrique  Minarro Viseras",
+        "Title": "EVP & Chief Operating Officer",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. Michael Patrick Ryan",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Ms. Rina  Leonard",
+        "Title": "Senior VP & Global Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Robert  Quartaro",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Nicolas  Lopez",
+        "Title": "President of Asia Pacific (APAC)",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Haran  Vela",
+        "Title": "Executive Vice President of Engineering",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Joseph Jay Armas",
+        "Title": "President of Otis Americas",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Thibault Pierre-Marie Lefébure",
+        "Title": "President of Otis EMEA",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "860 674 3000",
+    "WebURL": "https://www.otis.com",
+    "LogoURL": "/img/logos/US/OTIS.png",
+    "FullTimeEmployees": 72000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 383716076,
+    "SharesFloat": 387393658,
+    "PercentInsiders": 0.129,
+    "PercentInstitutions": 93.962,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0336
+  }
+}

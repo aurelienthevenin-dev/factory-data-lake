@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.3333,
+        "totalAssets": 0.096,
+        "currentShares": 26887218,
+        "change": 189229,
+        "change_p": 0.7088
+      },
+      "1": {
+        "name": "Briar Hall Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 8.9736,
+        "totalAssets": 100,
+        "currentShares": 25850978,
+        "change": 12248,
+        "change_p": 0.0474
+      },
+      "2": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 7.3001,
+        "totalAssets": 4.0681,
+        "currentShares": 21029900,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.2643,
+        "totalAssets": 0.0955,
+        "currentShares": 20926768,
+        "change": -786555,
+        "change_p": -3.6225
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3199,
+        "totalAssets": 0.1132,
+        "currentShares": 12444647,
+        "change": -31663,
+        "change_p": -0.2538
+      },
+      "5": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1466,
+        "totalAssets": 0.3985,
+        "currentShares": 11945584,
+        "change": -47623,
+        "change_p": -0.3971
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4107,
+        "totalAssets": 0.1055,
+        "currentShares": 6944651,
+        "change": 184301,
+        "change_p": 2.7262
+      },
+      "7": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.3495,
+        "totalAssets": 0.3355,
+        "currentShares": 6768520,
+        "change": -102512,
+        "change_p": -1.4919
+      },
+      "8": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.6094,
+        "totalAssets": 0.2108,
+        "currentShares": 4636392,
+        "change": 142837,
+        "change_p": 3.1787
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5961,
+        "totalAssets": 0.0726,
+        "currentShares": 4597933,
+        "change": 44691,
+        "change_p": 0.9815
+      },
+      "10": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2861,
+        "totalAssets": 0.3115,
+        "currentShares": 3705081,
+        "change": 54519,
+        "change_p": 1.4934
+      },
+      "11": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.2111,
+        "totalAssets": 0.2771,
+        "currentShares": 3488816,
+        "change": -247194,
+        "change_p": -6.6165
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1915,
+        "totalAssets": 0.0607,
+        "currentShares": 3432399,
+        "change": -12246,
+        "change_p": -0.3555
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1514,
+        "totalAssets": 0.1002,
+        "currentShares": 3316940,
+        "change": 358639,
+        "change_p": 12.1231
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1393,
+        "totalAssets": 0.0865,
+        "currentShares": 3281978,
+        "change": -42139,
+        "change_p": -1.2677
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9321,
+        "totalAssets": 0.1028,
+        "currentShares": 2685068,
+        "change": 26791,
+        "change_p": 1.0078
+      },
+      "16": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8982,
+        "totalAssets": 0.155,
+        "currentShares": 2587639,
+        "change": 33171,
+        "change_p": 1.2985
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8101,
+        "totalAssets": 0.1092,
+        "currentShares": 2333765,
+        "change": 7372,
+        "change_p": 0.3169
+      },
+      "18": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8026,
+        "totalAssets": 0.0181,
+        "currentShares": 2312086,
+        "change": 1311148,
+        "change_p": 130.9919
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7654,
+        "totalAssets": 0.0906,
+        "currentShares": 2204842,
+        "change": -15503,
+        "change_p": -0.6982
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0172,
+        "totalAssets": 0.1133,
+        "currentShares": 8691921,
+        "change": -23820,
+        "change_p": -0.2733
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3183,
+        "totalAssets": 0.1222,
+        "currentShares": 6678401,
+        "change": -112013,
+        "change_p": -1.6496
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1703,
+        "totalAssets": 0.1219,
+        "currentShares": 3371262,
+        "change": -1836,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1662,
+        "totalAssets": 0.1303,
+        "currentShares": 3359602,
+        "change": 5528,
+        "change_p": 0.1648
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.054,
+        "totalAssets": 0.1216,
+        "currentShares": 3036363,
+        "change": -7497,
+        "change_p": -0.2463
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8784,
+        "totalAssets": 0.2918,
+        "currentShares": 2530474,
+        "change": -35112,
+        "change_p": -1.3686
+      },
+      "6": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.8534,
+        "totalAssets": 0.3857,
+        "currentShares": 2458574,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8534,
+        "totalAssets": 0.3441,
+        "currentShares": 2458574,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7889,
+        "totalAssets": 1.0196,
+        "currentShares": 2272509,
+        "change": -92870,
+        "change_p": -3.9262
+      },
+      "9": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7575,
+        "totalAssets": 1.1335,
+        "currentShares": 2182122,
+        "change": -56657,
+        "change_p": -2.5307
+      },
+      "10": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.5509,
+        "totalAssets": 0.8684,
+        "currentShares": 1587062,
+        "change": -26827,
+        "change_p": -1.6623
+      },
+      "11": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.5402,
+        "totalAssets": 0.8908,
+        "currentShares": 1556254,
+        "change": -11134,
+        "change_p": -0.7104
+      },
+      "12": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5223,
+        "totalAssets": 0.8425,
+        "currentShares": 1504675,
+        "change": -930,
+        "change_p": -0.0618
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.513,
+        "totalAssets": 0.1219,
+        "currentShares": 1477789,
+        "change": -18160,
+        "change_p": -1.2139
+      },
+      "14": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5097,
+        "totalAssets": 0.3256,
+        "currentShares": 1468431,
+        "change": 4705,
+        "change_p": 0.3214
+      },
+      "15": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5059,
+        "totalAssets": 1.3498,
+        "currentShares": 1457346,
+        "change": -10104,
+        "change_p": -0.6885
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.486,
+        "totalAssets": 0.1206,
+        "currentShares": 1400005,
+        "change": -7240,
+        "change_p": -0.5145
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4112,
+        "totalAssets": 0.1217,
+        "currentShares": 1184538,
+        "change": -977,
+        "change_p": -0.0824
+      },
+      "18": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3938,
+        "totalAssets": 0.3313,
+        "currentShares": 1134378,
+        "change": -44962,
+        "change_p": -3.8125
+      },
+      "19": {
+        "name": "Capital Group Dividend Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3803,
+        "totalAssets": 0.9783,
+        "currentShares": 1095625,
+        "change": 23584,
+        "change_p": 2.1999
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.6467,
+    "ForwardPE": 23.9808,
+    "PriceSalesTTM": 4.8373,
+    "PriceBookMRQ": 24.3978,
+    "EnterpriseValue": 87042764897,
+    "EnterpriseValueRevenue": 5.4253,
+    "EnterpriseValueEbitda": 18.6988
+  },
+  "Highlights": {
+    "MarketCapitalization": 77609377792,
+    "MarketCapitalizationMln": 77609.3778,
+    "EBITDA": 4655000064,
+    "PERatio": 25.6467,
+    "PEGRatio": 2.7698,
+    "WallStreetTargetPrice": 275.875,
+    "BookValue": 11.175,
+    "DividendShare": 6.22,
+    "DividendYield": 0.0228,
+    "EarningsShare": 10.5,
+    "EPSEstimateCurrentYear": 11.2666,
+    "EPSEstimateNextYear": 12.1161,
+    "EPSEstimateNextQuarter": 2.5569,
+    "EPSEstimateCurrentQuarter": 2.6867,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1911,
+    "OperatingMarginTTM": 0.2675,
+    "ReturnOnAssetsTTM": 0.1705,
+    "ReturnOnEquityTTM": 0.9372,
+    "RevenueTTM": 16044000256,
+    "RevenuePerShareTTM": 55.039,
+    "QuarterlyRevenueGrowthYOY": 0.041,
+    "GrossProfitTTM": 7074999808,
+    "DilutedEpsTTM": 10.5,
+    "QuarterlyEarningsGrowthYOY": 0.073
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.97,
+    "TotalEsgPercentile": 27.46,
+    "EnvironmentScore": 11.24,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 13.29,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 12.95,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ITW",
+    "Type": "Common Stock",
+    "Name": "Illinois Tool Works Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BMBL90",
+    "ISIN": "US4523081093",
+    "LEI": "76NA4I14SZCFAYMNSV04",
+    "PrimaryTicker": "ITW.US",
+    "CUSIP": "452308109",
+    "CIK": "0000049826",
+    "EmployerIdNumber": "36-1258310",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-11-05",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Illinois Tool Works Inc. provides industrial products and equipment in North America, Europe, the Middle East, Africa, the Asia Pacific, and South America. It operates through seven segments: Automotive OEM; Food Equipment; Test & Measurement and Electronics; Welding; Polymers & Fluids; Construction Products; and Specialty Products. The Automotive OEM segment offers plastic and metal components, fasteners, and assemblies for automobiles, light trucks, and other industrial uses. The Food Equipment segment provides warewashing, cooking, refrigeration, and food processing equipment; kitchen exhaust, ventilation, and pollution control systems; and food equipment maintenance and repair services. The Test & Measurement and Electronics segment produce and sells test and measurement; and electronic manufacturing and maintenance, repair, and operations solutions. The Welding segment produces arc welding equipment, and metal arc welding consumables and related accessories. The Polymers & Fluids segment produces adhesives, sealants, lubrication and cutting fluids, and fluids and polymers for auto aftermarket maintenance and appearance. The Construction Products segment offers engineered fastening systems and solutions for the residential construction, renovation/remodel, and commercial construction markets. The Specialty Products segment provides beverage packaging equipment and consumables, product coding and marking equipment and consumables, and appliance components and fasteners. The company serves automotive OEM and aftermarket, commercial food equipment, construction, general industrial, industrial capital goods, consumer durables, and other markets, as well as MRO markets. It distributes its products directly to industrial manufacturers, as well as through independent distributors. Illinois Tool Works Inc. was founded in 1912 and is based in Glenview, Illinois.",
+    "Address": "155 Harlem Avenue, Glenview, IL, United States, 60025",
+    "AddressData": {
+      "Street": "155 Harlem Avenue",
+      "City": "Glenview",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60025"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher A. O'Herlihy",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Michael M. Larsen",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Ms. Mary Katherine Lawler",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Kenneth T. Escoe",
+        "Title": "Executive Vice President of Specialty Products",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Mr. Axel R. J. Beck",
+        "Title": "Executive Vice President of Food Equipment",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Randall J. Scheuneman",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Erin  Linnihan",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Christopher P. Rauch",
+        "Title": "Senior VP, General Counsel & Secretary",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Ms. Sharon A. Szafranski",
+        "Title": "Executive Vice President of Welding",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Javier Gracia Carbonell",
+        "Title": "Executive Vice President of Automotive OEM",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "847 724 7500",
+    "WebURL": "https://www.itw.com",
+    "LogoURL": "/img/logos/US/ITW.png",
+    "FullTimeEmployees": 43000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 288078076,
+    "SharesFloat": 261065970,
+    "PercentInsiders": 0.376,
+    "PercentInstitutions": 86.21,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0312
+  }
+}

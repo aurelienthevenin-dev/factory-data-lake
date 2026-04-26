@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 14.8231,
+        "totalAssets": 0.0646,
+        "currentShares": 158457308,
+        "change": 1705855,
+        "change_p": 1.0883
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.7631,
+        "totalAssets": 0.0657,
+        "currentShares": 115056881,
+        "change": -758833,
+        "change_p": -0.6552
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.8503,
+        "totalAssets": 0.0716,
+        "currentShares": 62538927,
+        "change": 2844265,
+        "change_p": 4.7647
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.3797,
+        "totalAssets": 0.0457,
+        "currentShares": 46818762,
+        "change": 25007619,
+        "change_p": 114.6552
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.3872,
+        "totalAssets": 0.0636,
+        "currentShares": 36209246,
+        "change": 1037345,
+        "change_p": 2.9494
+      },
+      "5": {
+        "name": "Allianz Asset Management AG",
+        "date": "2025-12-31",
+        "totalShares": 2.8337,
+        "totalAssets": 0.8615,
+        "currentShares": 30292364,
+        "change": 2305719,
+        "change_p": 8.2386
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.512,
+        "totalAssets": 0.1394,
+        "currentShares": 26852486,
+        "change": -24500786,
+        "change_p": -47.7103
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.4472,
+        "totalAssets": 0.0579,
+        "currentShares": 26160282,
+        "change": 3968349,
+        "change_p": 17.8819
+      },
+      "8": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.0196,
+        "totalAssets": 0.3551,
+        "currentShares": 21589046,
+        "change": -844429,
+        "change_p": -3.7641
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9039,
+        "totalAssets": 0.071,
+        "currentShares": 20352196,
+        "change": 3192102,
+        "change_p": 18.6019
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7887,
+        "totalAssets": 0.0575,
+        "currentShares": 19120754,
+        "change": 4183803,
+        "change_p": 28.0098
+      },
+      "11": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.627,
+        "totalAssets": 1.0231,
+        "currentShares": 17392705,
+        "change": -3262799,
+        "change_p": -15.7963
+      },
+      "12": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5779,
+        "totalAssets": 0.1275,
+        "currentShares": 16867336,
+        "change": 9055767,
+        "change_p": 115.9276
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5292,
+        "totalAssets": 0.0682,
+        "currentShares": 16347424,
+        "change": 2655916,
+        "change_p": 19.3983
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4138,
+        "totalAssets": 0.0892,
+        "currentShares": 15113247,
+        "change": 90418,
+        "change_p": 0.6019
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3157,
+        "totalAssets": 0.0877,
+        "currentShares": 14064459,
+        "change": 712916,
+        "change_p": 5.3396
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3027,
+        "totalAssets": 0.0716,
+        "currentShares": 13926069,
+        "change": -510380,
+        "change_p": -3.5354
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3025,
+        "totalAssets": 0.0608,
+        "currentShares": 13923811,
+        "change": 739298,
+        "change_p": 5.6073
+      },
+      "18": {
+        "name": "Man Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.067,
+        "totalAssets": 0.5452,
+        "currentShares": 11406537,
+        "change": 5720867,
+        "change_p": 100.619
+      },
+      "19": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0014,
+        "totalAssets": 1.0025,
+        "currentShares": 10705349,
+        "change": -1043225,
+        "change_p": -8.8796
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.4579,
+        "totalAssets": 1.5541,
+        "currentShares": 36964278,
+        "change": -332672,
+        "change_p": -0.892
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.9206,
+        "totalAssets": 0.0427,
+        "currentShares": 31221225,
+        "change": -71294,
+        "change_p": -0.2278
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3469,
+        "totalAssets": 0.0482,
+        "currentShares": 25088585,
+        "change": -378316,
+        "change_p": -1.4855
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0053,
+        "totalAssets": 0.2947,
+        "currentShares": 21436675,
+        "change": -249712,
+        "change_p": -1.1515
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2852,
+        "totalAssets": 0.0521,
+        "currentShares": 13738431,
+        "change": -7476,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2724,
+        "totalAssets": 0.0549,
+        "currentShares": 13602115,
+        "change": 22559,
+        "change_p": 0.1661
+      },
+      "6": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 1.2148,
+        "totalAssets": 0.2926,
+        "currentShares": 12985554,
+        "change": 1280089,
+        "change_p": 10.9358
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1561,
+        "totalAssets": 0.0519,
+        "currentShares": 12358579,
+        "change": -30478,
+        "change_p": -0.246
+      },
+      "8": {
+        "name": "PIMCO Income Instl",
+        "date": "2025-12-31",
+        "totalShares": 1.0875,
+        "totalAssets": 0.1494,
+        "currentShares": 11625222,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8579,
+        "totalAssets": 0.111,
+        "currentShares": 9170343,
+        "change": -125599,
+        "change_p": -1.3511
+      },
+      "10": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8279,
+        "totalAssets": 3.303,
+        "currentShares": 8849729,
+        "change": -2648,
+        "change_p": -0.0299
+      },
+      "11": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.7012,
+        "totalAssets": 2.2534,
+        "currentShares": 7495277,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6116,
+        "totalAssets": 1.8252,
+        "currentShares": 6538169,
+        "change": 23371,
+        "change_p": 0.3587
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6063,
+        "totalAssets": 0.5097,
+        "currentShares": 6481675,
+        "change": 254575,
+        "change_p": 4.0882
+      },
+      "14": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5715,
+        "totalAssets": 0.1957,
+        "currentShares": 6109539,
+        "change": 18078,
+        "change_p": 0.2968
+      },
+      "15": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.5682,
+        "totalAssets": 0.3867,
+        "currentShares": 6073486,
+        "change": 17002,
+        "change_p": 0.2807
+      },
+      "16": {
+        "name": "PIMCO GIS Income Institutional USD Acc",
+        "date": "2025-12-31",
+        "totalShares": 0.5419,
+        "totalAssets": 0.1343,
+        "currentShares": 5793243,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "DFA Real Estate Securities I",
+        "date": "2026-02-28",
+        "totalShares": 0.5373,
+        "totalAssets": 2.46,
+        "currentShares": 5744075,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.0516,
+        "currentShares": 5705428,
+        "change": 7900,
+        "change_p": 0.1387
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5191,
+        "totalAssets": 0.048,
+        "currentShares": 5549598,
+        "change": -46852,
+        "change_p": -0.8372
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 10.8889,
+    "ForwardPE": 9.8328,
+    "PriceSalesTTM": 7.5836,
+    "PriceBookMRQ": 1.0964,
+    "EnterpriseValue": 47558653361,
+    "EnterpriseValueRevenue": 11.8715,
+    "EnterpriseValueEbitda": 12.965
+  },
+  "Highlights": {
+    "MarketCapitalization": 30380666880,
+    "MarketCapitalizationMln": 30380.6669,
+    "EBITDA": 3651208960,
+    "PERatio": 10.8889,
+    "PEGRatio": null,
+    "WallStreetTargetPrice": 34.3044,
+    "BookValue": 26.008,
+    "DividendShare": 1.765,
+    "DividendYield": 0.0619,
+    "EarningsShare": 2.61,
+    "EPSEstimateCurrentYear": 2.875,
+    "EPSEstimateNextYear": 2.95,
+    "EPSEstimateNextQuarter": 0.71,
+    "EPSEstimateCurrentQuarter": 0.7,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.6928,
+    "OperatingMarginTTM": 0.8031,
+    "ReturnOnAssetsTTM": 0.0495,
+    "ReturnOnEquityTTM": 0.1022,
+    "RevenueTTM": 4006116096,
+    "RevenuePerShareTTM": 3.772,
+    "QuarterlyRevenueGrowthYOY": 0.038,
+    "GrossProfitTTM": 3971656960,
+    "DilutedEpsTTM": 2.61,
+    "QuarterlyEarningsGrowthYOY": -0.034
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "VICI",
+    "Type": "Common Stock",
+    "Name": "VICI Properties Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00HVVB499",
+    "ISIN": "US9256521090",
+    "LEI": "254900RKH6RY9KCJQH63",
+    "PrimaryTicker": "VICI.US",
+    "CUSIP": "925652109",
+    "CIK": "0001705696",
+    "EmployerIdNumber": "81-4177147",
+    "FiscalYearEnd": "December",
+    "IPODate": "2017-10-17",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Diversified",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Specialized REITs",
+    "GicSubIndustry": "Other Specialized REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "VICI Properties Inc. is an S&P 500 experiential real estate investment trust that owns one of the largest portfolios of market-leading gaming, hospitality, wellness, entertainment and leisure destinations, including Caesars Palace Las Vegas, MGM Grand and the Venetian Resort Las Vegas, three of the most iconic entertainment facilities on the Las Vegas Strip. VICI Properties owns 93 experiential assets across a geographically diverse portfolio consisting of 54 gaming properties and 39 other experiential properties across the United States and Canada. The portfolio is comprised of approximately 127 million square feet and features approximately 60,300 hotel rooms and over 500 restaurants, bars, nightclubs and sportsbooks. Its properties are occupied by industry-leading gaming, leisure and hospitality operators under long-term, triple-net lease agreements. VICI Properties has a growing array of real estate and financing partnerships with leading developers and operators in other experiential sectors, including Cabot, Cain, Canyon Ranch, Chelsea Piers, Great Wolf Resorts, Homefield, Kalahari Resorts and Lucky Strike Entertainment. VICI Properties also owns four championship golf courses and approximately 33 acres of undeveloped and underdeveloped land adjacent to the Las Vegas Strip. VICI Properties' goal is to create the highest quality and most productive experiential real estate portfolio through a strategy of partnering with the highest quality experiential place makers and operators. VICI Properties Inc. was incorporated in 2016 in Maryland, USA.",
+    "Address": "535 Madison Avenue, New York, NY, United States, 10022-2203",
+    "AddressData": {
+      "Street": "535 Madison Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10022-2203"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Edward Baltazar Pitoniak",
+        "Title": "CEO & Director",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Mr. John W. R. Payne",
+        "Title": "President & COO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. David Andrew Kieske",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Ms. Samantha Sacks Gallagher J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Jeremy  Waxman",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1988"
+      },
+      "5": {
+        "Name": "Mr. Jacques  Cornet",
+        "Title": "Investor Relations of  ICR Inc.",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Benjamin  Somogyi J.D.",
+        "Title": "Assistant General Counsel & Director of Compliance",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Amanda  Schumer",
+        "Title": "Director of People",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Gabriel F. Wasserman",
+        "Title": "MD of Business Development and VICI Experiential Credit Solutions (V.E.C.S.)",
+        "YearBorn": "1984"
+      },
+      "9": {
+        "Name": "Ms. Moira  McCloskey",
+        "Title": "Senior Vice President of Capital Markets",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "646 949 4631",
+    "WebURL": "https://www.viciproperties.com",
+    "LogoURL": "/img/logos/US/VICI.png",
+    "FullTimeEmployees": 28,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1068988999,
+    "SharesFloat": 1064291352,
+    "PercentInsiders": 0.28800000000000003,
+    "PercentInstitutions": 100.40400000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0266
+  }
+}

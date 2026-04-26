@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 8.6501,
+    "ForwardPE": 7.6982,
+    "PriceSalesTTM": 2.0455,
+    "PriceBookMRQ": 0.7916,
+    "EnterpriseValue": -262142164992,
+    "EnterpriseValueRevenue": 3.6035,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 98053472256,
+    "MarketCapitalizationMln": 98053.4723,
+    "EBITDA": null,
+    "PERatio": 8.6501,
+    "PEGRatio": 2.7497,
+    "WallStreetTargetPrice": 103.1379,
+    "BookValue": 104.444,
+    "DividendShare": 5.16,
+    "DividendYield": 0.0571,
+    "EarningsShare": 10.29,
+    "EPSEstimateCurrentYear": 11.7416,
+    "EPSEstimateNextYear": 12.7858,
+    "EPSEstimateNextQuarter": 2.6289,
+    "EPSEstimateCurrentQuarter": 2.3376,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.255,
+    "OperatingMarginTTM": 0.2675,
+    "ReturnOnAssetsTTM": 0.0047,
+    "ReturnOnEquityTTM": 0.0966,
+    "RevenueTTM": 47936999424,
+    "RevenuePerShareTTM": 42.82,
+    "QuarterlyRevenueGrowthYOY": 0.097,
+    "GrossProfitTTM": 47936999424,
+    "DilutedEpsTTM": 10.29,
+    "QuarterlyEarningsGrowthYOY": 0.339
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 37.53,
+    "TotalEsgPercentile": 63.82,
+    "EnvironmentScore": 9.52,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 21.5,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 22.01,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BNP",
+    "Type": "Common Stock",
+    "Name": "BNP Paribas SA",
+    "Exchange": "PA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "France",
+    "CountryISO": "FR",
+    "OpenFigi": null,
+    "ISIN": "FR0000131104",
+    "LEI": "R0MUWSFPU8MPRO8K5P83",
+    "PrimaryTicker": "BNP.PA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Regional Banks",
+    "Description": "BNP Paribas SA provides various banking and financial products and services in Europe, the Middle East, Africa, the Americas, and the Asia Pacific. It operates through three divisions: Corporate & Institutional Banking; Commercial, Personal Banking & Services; and Investment & Protection Services. The Corporate & Institutional Banking division offers capital market, securities, financing, risk management, securities clearing, custody, consulting, transaction banking, cash management, investment banking, and financial advisory services for corporate and institutional clients. Its Commercial, Personal Banking & Services division provides financing and equipment leasing services, lending, investment, financial and non-financial services, mobility, and digital banking services, as well as current accounts, savings products, bancassurance, insurance products and services, and consumer loans. The Investment & Protection Services division provides protection, savings, investment, and real estate services to support individuals, professionals, corporate clients, and institutions, as well as asset management, insurance, protection, pensions, and private banking services. The company was formerly known as Banque Nationale de Paris and changed its name to BNP Paribas SA in May 2000. BNP Paribas SA was founded in 1822 and is headquartered in Paris, France.",
+    "Address": "16 boulevard des Italiens, Paris, France, 75009",
+    "AddressData": {
+      "Street": "16 boulevard des Italiens",
+      "City": "Paris",
+      "Country": "France",
+      "ZIP": "75009"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jean-Laurent  Bonnafe",
+        "Title": "MD, CEO & Director",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Yann  Gerardin",
+        "Title": "Deputy MD, COO & Executive Chairman of Corporate & Institutional Banking (CIB)",
+        "YearBorn": "1961"
+      },
+      "2": {
+        "Name": "Mr. Thierry  Laborde",
+        "Title": "COO, Deputy CEO, Head of Commercial, Personal Banking & Services",
+        "YearBorn": "1960"
+      },
+      "3": {
+        "Name": "Mr. Hugues  Epaillard",
+        "Title": "Business Manager of Real Estate & Employee Representative Director",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Juliette  Brisac",
+        "Title": "Emplo. Shareholders Repre. Director & Senior Advisor to Head of Corporate Engagement",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Mr. Lars  Machenil Ph.D.",
+        "Title": "Group Chief Financial Officer",
+        "YearBorn": "1969"
+      },
+      "6": {
+        "Name": "Mr. Renaud Fabrice Dumora",
+        "Title": "Deputy COO and Head of Investment & Protection Services",
+        "YearBorn": "1966"
+      },
+      "7": {
+        "Name": "Mr. Marc  Camus",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Stephanie  Maarek",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Elise  Hermant",
+        "Title": "Head of Group Communications",
+        "YearBorn": "1982"
+      }
+    },
+    "Phone": "33 1 40 14 45 46",
+    "WebURL": "https://group.bnpparibas",
+    "LogoURL": "/img/logos/PA/BNP.png",
+    "FullTimeEmployees": 180000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1100099307,
+    "SharesFloat": 973103843,
+    "PercentInsiders": 11.289,
+    "PercentInstitutions": 41.499,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

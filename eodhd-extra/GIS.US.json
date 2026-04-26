@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5942,
+        "totalAssets": 0.0453,
+        "currentShares": 67213109,
+        "change": 135839,
+        "change_p": 0.2025
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2118,
+        "totalAssets": 0.0481,
+        "currentShares": 54498707,
+        "change": -1728343,
+        "change_p": -3.0739
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.318,
+        "totalAssets": 0.059,
+        "currentShares": 33717972,
+        "change": 145701,
+        "change_p": 0.434
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.691,
+        "totalAssets": 0.1423,
+        "currentShares": 19697919,
+        "change": 488617,
+        "change_p": 2.5436
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8477,
+        "totalAssets": 0.0435,
+        "currentShares": 15197534,
+        "change": 172200,
+        "change_p": 1.1461
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2197,
+        "totalAssets": 0.0179,
+        "currentShares": 11845908,
+        "change": 5559889,
+        "change_p": 88.4485
+      },
+      "6": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.8702,
+        "totalAssets": 0.3989,
+        "currentShares": 9980850,
+        "change": 24185,
+        "change_p": 0.2429
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8058,
+        "totalAssets": 0.0294,
+        "currentShares": 9637447,
+        "change": 357730,
+        "change_p": 3.855
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4569,
+        "totalAssets": 0.0387,
+        "currentShares": 7775312,
+        "change": -283135,
+        "change_p": -3.5135
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4362,
+        "totalAssets": 0.0609,
+        "currentShares": 7664990,
+        "change": 883150,
+        "change_p": 13.0223
+      },
+      "10": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.3991,
+        "totalAssets": 0.0608,
+        "currentShares": 7466693,
+        "change": 7223487,
+        "change_p": 2970.1105
+      },
+      "11": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2657,
+        "totalAssets": 1.6095,
+        "currentShares": 6755061,
+        "change": -873360,
+        "change_p": -11.4488
+      },
+      "12": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2655,
+        "totalAssets": 0.0739,
+        "currentShares": 6753749,
+        "change": -1546560,
+        "change_p": -18.6326
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2267,
+        "totalAssets": 0.0422,
+        "currentShares": 6546821,
+        "change": -399720,
+        "change_p": -5.7542
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2234,
+        "totalAssets": 0.0637,
+        "currentShares": 6529238,
+        "change": -1891,
+        "change_p": -0.029
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1106,
+        "totalAssets": 0.0338,
+        "currentShares": 5927111,
+        "change": 936183,
+        "change_p": 18.7577
+      },
+      "16": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.0497,
+        "totalAssets": 0.0354,
+        "currentShares": 5602094,
+        "change": 16984,
+        "change_p": 0.3041
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.029,
+        "totalAssets": 0.0434,
+        "currentShares": 5491705,
+        "change": 345776,
+        "change_p": 6.7194
+      },
+      "18": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9589,
+        "totalAssets": 0.1248,
+        "currentShares": 5117287,
+        "change": 4019319,
+        "change_p": 366.0689
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.934,
+        "totalAssets": 0.0171,
+        "currentShares": 4984616,
+        "change": -461755,
+        "change_p": -8.4782
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1819,
+        "totalAssets": 0.0317,
+        "currentShares": 16981157,
+        "change": 124192,
+        "change_p": 0.7367
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.546,
+        "totalAssets": 0.0355,
+        "currentShares": 13587617,
+        "change": -129778,
+        "change_p": -0.9461
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2405,
+        "totalAssets": 0.5267,
+        "currentShares": 11957266,
+        "change": 19872,
+        "change_p": 0.1665
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1599,
+        "totalAssets": 0.2159,
+        "currentShares": 11526722,
+        "change": -66479,
+        "change_p": -0.5734
+      },
+      "4": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.8357,
+        "totalAssets": 1.636,
+        "currentShares": 9797022,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2852,
+        "totalAssets": 0.0355,
+        "currentShares": 6858605,
+        "change": -3732,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.272,
+        "totalAssets": 0.041,
+        "currentShares": 6788445,
+        "change": 11237,
+        "change_p": 0.1658
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1643,
+        "totalAssets": 0.0356,
+        "currentShares": 6213847,
+        "change": -15190,
+        "change_p": -0.2439
+      },
+      "8": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0461,
+        "totalAssets": 1.3409,
+        "currentShares": 5582697,
+        "change": -2456,
+        "change_p": -0.044
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9241,
+        "totalAssets": 0.0813,
+        "currentShares": 4931582,
+        "change": -36361,
+        "change_p": -0.7319
+      },
+      "10": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.8762,
+        "totalAssets": 1.1497,
+        "currentShares": 4675995,
+        "change": -19532,
+        "change_p": -0.416
+      },
+      "11": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8001,
+        "totalAssets": 0.1864,
+        "currentShares": 4270168,
+        "change": 12576,
+        "change_p": 0.2954
+      },
+      "12": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.767,
+        "totalAssets": 0.1076,
+        "currentShares": 4093134,
+        "change": -297062,
+        "change_p": -6.7665
+      },
+      "13": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6504,
+        "totalAssets": 0.3718,
+        "currentShares": 3470891,
+        "change": 141641,
+        "change_p": 4.2544
+      },
+      "14": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.6069,
+        "totalAssets": 1.3077,
+        "currentShares": 3238978,
+        "change": -321914,
+        "change_p": -9.0403
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5627,
+        "totalAssets": 0.0354,
+        "currentShares": 3002793,
+        "change": -20433,
+        "change_p": -0.6759
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.0351,
+        "currentShares": 2848368,
+        "change": 4900,
+        "change_p": 0.1723
+      },
+      "17": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4595,
+        "totalAssets": 0.5024,
+        "currentShares": 2452092,
+        "change": -844,
+        "change_p": -0.0344
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.0354,
+        "currentShares": 2409995,
+        "change": 14624,
+        "change_p": 0.6105
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3979,
+        "totalAssets": 0.0426,
+        "currentShares": 2123477,
+        "change": 4900,
+        "change_p": 0.2313
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 8.6774,
+    "ForwardPE": 10.5263,
+    "PriceSalesTTM": 1.0159,
+    "PriceBookMRQ": 2.026,
+    "EnterpriseValue": 32111872802,
+    "EnterpriseValueRevenue": 1.7479,
+    "EnterpriseValueEbitda": 7.7987
+  },
+  "Highlights": {
+    "MarketCapitalization": 18662832128,
+    "MarketCapitalizationMln": 18662.8321,
+    "EBITDA": 3318099968,
+    "PERatio": 8.6774,
+    "PEGRatio": 11.7371,
+    "WallStreetTargetPrice": 40.579,
+    "BookValue": 10.354,
+    "DividendShare": 2.43,
+    "DividendYield": 0.0685,
+    "EarningsShare": 4.03,
+    "EPSEstimateCurrentYear": 3.4262,
+    "EPSEstimateNextYear": 3.2864,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.7285,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.1205,
+    "OperatingMarginTTM": 0.1919,
+    "ReturnOnAssetsTTM": 0.0531,
+    "ReturnOnEquityTTM": 0.2359,
+    "RevenueTTM": 18371198976,
+    "RevenuePerShareTTM": 33.981,
+    "QuarterlyRevenueGrowthYOY": 0.022,
+    "GrossProfitTTM": 6088300032,
+    "DilutedEpsTTM": 4.03,
+    "QuarterlyEarningsGrowthYOY": -0.145
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27.62,
+    "TotalEsgPercentile": 36.94,
+    "EnvironmentScore": 12.04,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 12.75,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 8.32,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "GIS",
+    "Type": "Common Stock",
+    "Name": "General Mills Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKCFC2",
+    "ISIN": "US3703341046",
+    "LEI": "2TGYMUGI08PO8X8L6150",
+    "PrimaryTicker": "GIS.US",
+    "CUSIP": "370334104",
+    "CIK": "0000040704",
+    "EmployerIdNumber": "41-0274440",
+    "FiscalYearEnd": "May",
+    "IPODate": "1983-06-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "General Mills, Inc. manufactures and markets branded consumer foods in the United States and internationally. The company operates through four segments: North America Retail; International; North America Pet; and North America Foodservice. It offers grain, ready-to-eat cereals, refrigerated yogurt, soup, meal kits, refrigerated and frozen dough products, dessert and baking mixes, bakery flour, frozen pizza and pizza snacks, snack bars, fruit and savory snacks, ice cream and frozen desserts, unbaked and fully baked frozen dough products, frozen hot snacks, ethnic meals, side dish mixes, frozen breakfast and entrees, nutrition bars, and frozen and shelf-stable vegetables. The company also manufactures and markets pet food products, including dog and cat food; and operates ice cream parlors. It markets its products under the Annies, Betty Crocker, Bisquick, Blue Buffalo, Bugles, Cascadian Farm, Cheerios, Chex, Cinnamon Toast Crunch, Cocoa Puffs, Cookie Crisp, Dunkaroos, Edgard & Cooper, Fiber One, By The Foot, Gushers, Roll-Ups, Gardettos, Gold Medal, Golden Grahams, Häagen-Dazs, Kitano, Kix, Lärabar, Latina, Lucky Charms, As Well As Muir Glen, Nature Valley, Nudges, Oatmeal Crisp, Old El Paso, Pillsbury, Progresso, Tastefuls, Tiki Pets, Total, Totinos, Trix, True Chews, True Solutions, Wanchai Ferry, Wheaties, Wilderness, and Yoki brands. In addition, the company sells its products to grocery stores, mass merchandisers, membership stores, natural food chains, drug, dollar and discount chains, e-commerce retailers, commercial and noncommercial foodservice distributors and operators, restaurants, convenience stores, and pet specialty stores. The company was founded in 1866 and is headquartered in Minneapolis, Minnesota.",
+    "Address": "Number One General Mills Boulevard, Minneapolis, MN, United States, 55426",
+    "AddressData": {
+      "Street": "Number One General Mills Boulevard",
+      "City": "Minneapolis",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55426"
+    },
+    "Listings": {
+      "0": {
+        "Code": "GIS",
+        "Exchange": "F",
+        "Name": "Gilead Sciences Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jeffrey L. Harmening",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Kofi A. Bruce",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Ms. Dana M. McNabb",
+        "Title": "Group President of North America Retail & North America Pet",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Jaime  Montemayor",
+        "Title": "Chief Digital & Technology Officer",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Mark A. Pallot",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Ms. Lanette Shaffer Werner",
+        "Title": "Chief Innovation, Technology & Quality (ITQ) Officer",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Jeff  Siemon",
+        "Title": "Vice President of Investor Relations & Treasurer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Karen Wilson Thissen J.D.",
+        "Title": "General Counsel & Corporate Secretary",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Mr. Jano  Cabrera",
+        "Title": "Chief Communications Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Ms. Jacqueline R. Williams-Roll",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1969"
+      }
+    },
+    "Phone": "763 764 7600",
+    "WebURL": "https://www.generalmills.com",
+    "LogoURL": "/img/logos/US/GIS.png",
+    "FullTimeEmployees": 33000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 533681218,
+    "SharesFloat": 590525946,
+    "PercentInsiders": 0.304,
+    "PercentInstitutions": 88.923,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0988
+  }
+}

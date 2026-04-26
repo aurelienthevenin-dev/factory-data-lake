@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.4205,
+        "totalAssets": 0.0264,
+        "currentShares": 5370898,
+        "change": -131308,
+        "change_p": -2.3865
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4621,
+        "totalAssets": 0.0208,
+        "currentShares": 3386560,
+        "change": -102528,
+        "change_p": -2.9385
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7448,
+        "totalAssets": 0.0231,
+        "currentShares": 1898886,
+        "change": -12780,
+        "change_p": -0.6685
+      },
+      "3": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 4.6409,
+        "totalAssets": 0.0674,
+        "currentShares": 1857307,
+        "change": 87998,
+        "change_p": 4.9736
+      },
+      "4": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.1631,
+        "totalAssets": 0.2966,
+        "currentShares": 1666087,
+        "change": -344946,
+        "change_p": -17.1527
+      },
+      "5": {
+        "name": "Vulcan Value Partners, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.7725,
+        "totalAssets": 9.4085,
+        "currentShares": 1509740,
+        "change": 92274,
+        "change_p": 6.5098
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.0287,
+        "totalAssets": 0.0721,
+        "currentShares": 1212077,
+        "change": -25510,
+        "change_p": -2.0613
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9241,
+        "totalAssets": 0.0244,
+        "currentShares": 1170210,
+        "change": 4978,
+        "change_p": 0.4272
+      },
+      "8": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3695,
+        "totalAssets": 1.0716,
+        "currentShares": 948270,
+        "change": -51311,
+        "change_p": -5.1333
+      },
+      "9": {
+        "name": "Altrinsic Global Advisors LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.162,
+        "totalAssets": 10.5262,
+        "currentShares": 865243,
+        "change": -40815,
+        "change_p": -4.5047
+      },
+      "10": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8529,
+        "totalAssets": 0.2605,
+        "currentShares": 741524,
+        "change": 12505,
+        "change_p": 1.7153
+      },
+      "11": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7307,
+        "totalAssets": 0.4004,
+        "currentShares": 692610,
+        "change": 644696,
+        "change_p": 1345.5274
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.683,
+        "totalAssets": 0.0372,
+        "currentShares": 673554,
+        "change": -6673,
+        "change_p": -0.981
+      },
+      "13": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.6129,
+        "totalAssets": 0.0706,
+        "currentShares": 645475,
+        "change": -6719,
+        "change_p": -1.0302
+      },
+      "14": {
+        "name": "William Blair Investment Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.46,
+        "totalAssets": 0.5531,
+        "currentShares": 584301,
+        "change": -67173,
+        "change_p": -10.3109
+      },
+      "15": {
+        "name": "Balyasny Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2461,
+        "totalAssets": 0.2148,
+        "currentShares": 498697,
+        "change": 321376,
+        "change_p": 181.2397
+      },
+      "16": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.099,
+        "totalAssets": 0.0093,
+        "currentShares": 439839,
+        "change": -4488,
+        "change_p": -1.0101
+      },
+      "17": {
+        "name": "Donald Smith & Co Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0887,
+        "totalAssets": 2.7696,
+        "currentShares": 435696,
+        "change": 44272,
+        "change_p": 11.3105
+      },
+      "18": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0774,
+        "totalAssets": 0.0826,
+        "currentShares": 431177,
+        "change": 104300,
+        "change_p": 31.908
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0729,
+        "totalAssets": 0.0306,
+        "currentShares": 429392,
+        "change": -43597,
+        "change_p": -9.2173
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1993,
+        "totalAssets": 0.021,
+        "currentShares": 1280353,
+        "change": -46264,
+        "change_p": -3.4874
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5892,
+        "totalAssets": 0.0238,
+        "currentShares": 1036219,
+        "change": -42346,
+        "change_p": -3.9261
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3301,
+        "totalAssets": 0.1835,
+        "currentShares": 932513,
+        "change": -20766,
+        "change_p": -2.1784
+      },
+      "3": {
+        "name": "Vulcan Value Partners Focus",
+        "date": "2026-03-31",
+        "totalShares": 1.9218,
+        "totalAssets": 14.2962,
+        "currentShares": 769116,
+        "change": -55969,
+        "change_p": -6.7834
+      },
+      "4": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4828,
+        "totalAssets": 0.3193,
+        "currentShares": 593423,
+        "change": -18825,
+        "change_p": -3.0747
+      },
+      "5": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3494,
+        "totalAssets": 0.207,
+        "currentShares": 540019,
+        "change": 1572,
+        "change_p": 0.292
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3349,
+        "totalAssets": 0.0239,
+        "currentShares": 534223,
+        "change": 880,
+        "change_p": 0.165
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3081,
+        "totalAssets": 0.0238,
+        "currentShares": 523501,
+        "change": -288,
+        "change_p": -0.055
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1691,
+        "totalAssets": 0.0235,
+        "currentShares": 467880,
+        "change": -1176,
+        "change_p": -0.2507
+      },
+      "9": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 1.0887,
+        "totalAssets": 0.612,
+        "currentShares": 435683,
+        "change": -14249,
+        "change_p": -3.1669
+      },
+      "10": {
+        "name": "Donald Smith & Co. All Eq Accounts Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0787,
+        "totalAssets": 2.6426,
+        "currentShares": 431690,
+        "change": 43300,
+        "change_p": 11.1486
+      },
+      "11": {
+        "name": "Polar Capital Global Ins A Inc",
+        "date": "2026-02-28",
+        "totalShares": 1.0082,
+        "totalAssets": 3.9518,
+        "currentShares": 403500,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Barrow Hanley Global Value Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.9686,
+        "totalAssets": 1.8461,
+        "currentShares": 387626,
+        "change": 50010,
+        "change_p": 14.8127
+      },
+      "13": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8101,
+        "totalAssets": 0.176,
+        "currentShares": 324222,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7546,
+        "totalAssets": 0.6176,
+        "currentShares": 301979,
+        "change": -12229,
+        "change_p": -3.892
+      },
+      "15": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7345,
+        "totalAssets": 0.5697,
+        "currentShares": 293949,
+        "change": -3699,
+        "change_p": -1.2427
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.695,
+        "totalAssets": 0.1884,
+        "currentShares": 278156,
+        "change": 462,
+        "change_p": 0.1664
+      },
+      "17": {
+        "name": "FullerThaler Behavioral Small-Cap Value",
+        "date": "2026-02-28",
+        "totalShares": 0.6244,
+        "totalAssets": 0.858,
+        "currentShares": 249876,
+        "change": -200,
+        "change_p": -0.08
+      },
+      "18": {
+        "name": "Vanguard International Value Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6153,
+        "totalAssets": 0.7344,
+        "currentShares": 246228,
+        "change": -18192,
+        "change_p": -6.88
+      },
+      "19": {
+        "name": "Undiscovered Managers Behavioral Val L",
+        "date": "2026-02-28",
+        "totalShares": 0.5862,
+        "totalAssets": 0.8619,
+        "currentShares": 234600,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 9.0817,
+    "ForwardPE": 5.4765,
+    "PriceSalesTTM": 0.7834,
+    "PriceBookMRQ": 0.9081,
+    "EnterpriseValue": 16310466716,
+    "EnterpriseValueRevenue": 0.9473,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 13742116864,
+    "MarketCapitalizationMln": 13742.1169,
+    "EBITDA": null,
+    "PERatio": 9.0817,
+    "PEGRatio": 0.9682,
+    "WallStreetTargetPrice": 371.5333,
+    "BookValue": 379.877,
+    "DividendShare": 8,
+    "DividendYield": 0.0228,
+    "EarningsShare": 37.81,
+    "EPSEstimateCurrentYear": 52.2912,
+    "EPSEstimateNextYear": 60.918,
+    "EPSEstimateNextQuarter": 15.3632,
+    "EPSEstimateCurrentQuarter": 13.8266,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0907,
+    "OperatingMarginTTM": 0.1233,
+    "ReturnOnAssetsTTM": 0.0222,
+    "ReturnOnEquityTTM": 0.1085,
+    "RevenueTTM": 17540999168,
+    "RevenuePerShareTTM": 421.659,
+    "QuarterlyRevenueGrowthYOY": -0.029,
+    "GrossProfitTTM": 2192000000,
+    "DilutedEpsTTM": 37.81,
+    "QuarterlyEarningsGrowthYOY": -0.484
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.57,
+    "TotalEsgPercentile": 47.22,
+    "EnvironmentScore": 1.62,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 7.39,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 9.8,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EG",
+    "Type": "Common Stock",
+    "Name": "Everest Group Ltd",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C1XVK6",
+    "ISIN": "BMG3223R1088",
+    "LEI": null,
+    "PrimaryTicker": "EG.US",
+    "CUSIP": "G3223R108",
+    "CIK": "0001095073",
+    "EmployerIdNumber": "98-0365432",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-10-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Reinsurance",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Reinsurance",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Everest Group, Ltd., together with subsidiaries, provides reinsurance and insurance products in the United States, Europe, and internationally. It operates in two segment, Insurance and Reinsurance. The company writes property and casualty reinsurance; treaty and facultative reinsurance products; and specialty lines of business through reinsurance brokers, as well as directly with ceding companies; and writes property and casualty insurance directly, as well as through brokers, surplus lines, and general agents. It provides reinsurance products comprising mortgage, catastrophe, marine, aviation, engineering, professional line, credit and surety, motor, agriculture/crop, and political violence reinsurance products. In addition, the company offers commercial property and casualty insurance products through wholesale and retail brokers, surplus lines brokers, and program administrators. The company was formerly known as Everest Re Group, Ltd. and changed its name to Everest Group, Ltd. in July 2023.Everest Group, Ltd., was founded in 1973 and is headquartered in Hamilton, Bermuda.",
+    "Address": "Seon Place, Hamilton, Bermuda, HM 19",
+    "AddressData": {
+      "Street": "Seon Place",
+      "City": "Hamilton",
+      "Country": "Bermuda",
+      "ZIP": "HM 19"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. James Allan Williamson",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Mark  Kociancic C.F.A.",
+        "Title": "Executive VP & Group CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Anthony  Vidovich",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Ms. Jill Alexis Beggs C.P.C.U.",
+        "Title": "Executive VP & Chief Executive Officer of Reinsurance",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Dean  Brown",
+        "Title": "Executive Vice President of Group Operations & IT",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Robert Joseph Freiling",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Brian Lee Bedner",
+        "Title": "Head of Corporate Finance",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Srini  Maddineni",
+        "Title": "Group Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Matthew Jay Rohrmann",
+        "Title": "Senior VP & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Dawn  Lauer",
+        "Title": "Chief Communications Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "441 295 0006",
+    "WebURL": "https://www.everestglobal.com",
+    "LogoURL": "/img/logos/US/EG.png",
+    "FullTimeEmployees": 3064,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 40020144,
+    "SharesFloat": 31017213,
+    "PercentInsiders": 0.6910000000000001,
+    "PercentInstitutions": 90.915,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0269
+  }
+}

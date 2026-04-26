@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.0335,
+        "totalAssets": 0.2235,
+        "currentShares": 70989438,
+        "change": 1367185,
+        "change_p": 1.9637
+      },
+      "1": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.746,
+        "totalAssets": 0.5869,
+        "currentShares": 53012948,
+        "change": 6867179,
+        "change_p": 14.8815
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.5261,
+        "totalAssets": 0.1938,
+        "currentShares": 51285080,
+        "change": 1343534,
+        "change_p": 2.6902
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4161,
+        "totalAssets": 0.2597,
+        "currentShares": 34703959,
+        "change": 111087,
+        "change_p": 0.3211
+      },
+      "4": {
+        "name": "Newport Trust Co.",
+        "date": "2025-12-31",
+        "totalShares": 3.7521,
+        "totalAssets": 15.3178,
+        "currentShares": 29485294,
+        "change": 286848,
+        "change_p": 0.9824
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.4599,
+        "totalAssets": 0.8029,
+        "currentShares": 27189639,
+        "change": -1170087,
+        "change_p": -4.1259
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1665,
+        "totalAssets": 0.2271,
+        "currentShares": 17025435,
+        "change": 148239,
+        "change_p": 0.8783
+      },
+      "7": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 1.8019,
+        "totalAssets": 3.7063,
+        "currentShares": 14160059,
+        "change": -210794,
+        "change_p": -1.4668
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7161,
+        "totalAssets": 0.3114,
+        "currentShares": 13486208,
+        "change": -2277977,
+        "change_p": -14.4503
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3962,
+        "totalAssets": 0.1606,
+        "currentShares": 10972284,
+        "change": 446027,
+        "change_p": 4.2373
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3706,
+        "totalAssets": 0.0696,
+        "currentShares": 10771022,
+        "change": 5822663,
+        "change_p": 117.6686
+      },
+      "11": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2933,
+        "totalAssets": 1.3249,
+        "currentShares": 10163707,
+        "change": -1201569,
+        "change_p": -10.5723
+      },
+      "12": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.2304,
+        "totalAssets": 0.677,
+        "currentShares": 9669304,
+        "change": 73026,
+        "change_p": 0.761
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2268,
+        "totalAssets": 0.126,
+        "currentShares": 9640429,
+        "change": -289397,
+        "change_p": -2.9144
+      },
+      "14": {
+        "name": "Pentwater Capital Management LP",
+        "date": "2025-12-31",
+        "totalShares": 0.8411,
+        "totalAssets": 7.5449,
+        "currentShares": 6610000,
+        "change": 2277500,
+        "change_p": 52.5678
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8101,
+        "totalAssets": 0.1758,
+        "currentShares": 6366037,
+        "change": -10554,
+        "change_p": -0.1655
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7687,
+        "totalAssets": 0.3434,
+        "currentShares": 6040473,
+        "change": -60883,
+        "change_p": -0.9979
+      },
+      "17": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7178,
+        "totalAssets": 0.418,
+        "currentShares": 5640900,
+        "change": 135860,
+        "change_p": 2.4679
+      },
+      "18": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.5941,
+        "totalAssets": 0.1651,
+        "currentShares": 4668344,
+        "change": -3826108,
+        "change_p": -45.0424
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.5756,
+        "totalAssets": 0.1529,
+        "currentShares": 4523638,
+        "change": -263587,
+        "change_p": -5.506
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1737,
+        "totalAssets": 0.2486,
+        "currentShares": 24940026,
+        "change": 170441,
+        "change_p": 0.6881
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5448,
+        "totalAssets": 0.2797,
+        "currentShares": 19998222,
+        "change": -140634,
+        "change_p": -0.6983
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2846,
+        "totalAssets": 0.279,
+        "currentShares": 10095088,
+        "change": -5496,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2681,
+        "totalAssets": 0.3027,
+        "currentShares": 9965292,
+        "change": 16426,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1597,
+        "totalAssets": 0.279,
+        "currentShares": 9113708,
+        "change": -22393,
+        "change_p": -0.2451
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0795,
+        "totalAssets": 0.5313,
+        "currentShares": 8483010,
+        "change": -94302,
+        "change_p": -1.0994
+      },
+      "6": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0228,
+        "totalAssets": 0.5194,
+        "currentShares": 8037304,
+        "change": -5147232,
+        "change_p": -39.0399
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.989,
+        "totalAssets": 0.5049,
+        "currentShares": 7771902,
+        "change": -265402,
+        "change_p": -3.3021
+      },
+      "8": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8195,
+        "totalAssets": 0.6715,
+        "currentShares": 6439889,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8195,
+        "totalAssets": 0.6428,
+        "currentShares": 6439889,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8105,
+        "totalAssets": 2.5191,
+        "currentShares": 6369007,
+        "change": -30020,
+        "change_p": -0.4691
+      },
+      "11": {
+        "name": "iShares US Aerospace & Defense ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7624,
+        "totalAssets": 8.9124,
+        "currentShares": 5991146,
+        "change": -48950,
+        "change_p": -0.8104
+      },
+      "12": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.7534,
+        "totalAssets": 0.61,
+        "currentShares": 5920790,
+        "change": 300091,
+        "change_p": 5.339
+      },
+      "13": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7386,
+        "totalAssets": 2.3603,
+        "currentShares": 5803876,
+        "change": -470599,
+        "change_p": -7.5002
+      },
+      "14": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 0.7024,
+        "totalAssets": 2.6375,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "15": {
+        "name": "Fidelity Series Large Cap Stock",
+        "date": "2026-02-28",
+        "totalShares": 0.6999,
+        "totalAssets": 4.8778,
+        "currentShares": 5499986,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.6425,
+        "totalAssets": 0.6771,
+        "currentShares": 5048985,
+        "change": 385761,
+        "change_p": 8.2724
+      },
+      "17": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.6288,
+        "totalAssets": 0.3731,
+        "currentShares": 4941753,
+        "change": 202761,
+        "change_p": 4.2786
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.563,
+        "totalAssets": 0.279,
+        "currentShares": 4424661,
+        "change": -11041,
+        "change_p": -0.2489
+      },
+      "19": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5553,
+        "totalAssets": 3.0907,
+        "currentShares": 4364108,
+        "change": -30240,
+        "change_p": -0.6882
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 92.6056,
+    "ForwardPE": 163.9344,
+    "PriceSalesTTM": 1.9877,
+    "PriceBookMRQ": 30.8612,
+    "EnterpriseValue": 209542993817,
+    "EnterpriseValueRevenue": 2.2877,
+    "EnterpriseValueEbitda": 28.7945
+  },
+  "Highlights": {
+    "MarketCapitalization": 183233003520,
+    "MarketCapitalizationMln": 183233.0035,
+    "EBITDA": -3259000064,
+    "PERatio": 92.6056,
+    "PEGRatio": 6.5305,
+    "WallStreetTargetPrice": 266.64,
+    "BookValue": 7.591,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.51,
+    "EPSEstimateCurrentYear": -0.4281,
+    "EPSEstimateNextYear": 4.4585,
+    "EPSEstimateNextQuarter": -0.1566,
+    "EPSEstimateCurrentQuarter": -0.6785,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0246,
+    "OperatingMarginTTM": 0.0172,
+    "ReturnOnAssetsTTM": -0.0207,
+    "ReturnOnEquityTTM": 1.6995,
+    "RevenueTTM": 92184002560,
+    "RevenuePerShareTTM": 119.961,
+    "QuarterlyRevenueGrowthYOY": 0.14,
+    "GrossProfitTTM": 4448000000,
+    "DilutedEpsTTM": 2.51,
+    "QuarterlyEarningsGrowthYOY": -0.68
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 41.15,
+    "TotalEsgPercentile": 86.46,
+    "EnvironmentScore": 12.02,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 22.37,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 11.76,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "Yes"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BA",
+    "Type": "Common Stock",
+    "Name": "The Boeing Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCSST7",
+    "ISIN": "US0970231058",
+    "LEI": "RVHJWBXLJ1RFUBSY1F30",
+    "PrimaryTicker": "BA.US",
+    "CUSIP": "097023105",
+    "CIK": "0000012927",
+    "EmployerIdNumber": "91-0425694",
+    "FiscalYearEnd": "December",
+    "IPODate": "1962-01-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Boeing Company, together with its subsidiaries, designs, develops, manufactures, sells, services, and supports commercial jetliners, military aircraft, satellites, missile defense, human space flight and launch systems, and services worldwide. The company operates through three segments: Commercial Airplanes; Defense, Space & Security; and Global Services. The Commercial Airplanes segment develops, produces, and markets commercial jet aircraft for passenger and cargo requirements. The Defense, Space & Security segment engages in the research, development, production, and modification of manned and unmanned military aircraft and weapons systems; strategic defense and intelligence systems, which include strategic missile and defense systems, command, control, communications, computers, intelligence, surveillance and reconnaissance, cyber and information solutions, and intelligence systems; and satellite systems, such as government and commercial satellites, and space exploration. The Global Services segment offers products and services, including supply chain and logistics management, engineering, maintenance and modifications, upgrades and conversions, spare parts, pilot and maintenance training systems and services, technical and maintenance documents, and data analytics and digital services to commercial and defense customers. The Boeing Company was incorporated in 1916 and is based in Arlington, Virginia.",
+    "Address": "929 Long Bridge Drive, Arlington, VA, United States, 22202-4208",
+    "AddressData": {
+      "Street": "929 Long Bridge Drive",
+      "City": "Arlington",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "22202-4208"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BA",
+        "Exchange": "BA",
+        "Name": "Boeing Co. CEDEAR"
+      },
+      "1": {
+        "Code": "BOEI34",
+        "Exchange": "SA",
+        "Name": "The Boeing Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert K. Ortberg",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Jesus  Malave Jr.",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Brett C. Gerry J.D.",
+        "Title": "Chief Legal Officer & Executive VP of Global Compliance",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Ms. Stephanie F. Pope",
+        "Title": "Executive VP & President and CEO of Boeing Commercial Airplanes",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Jeffrey S. Shockey",
+        "Title": "Executive VP of Government Operations, Global Public Policy & Corporate Strategy",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Howard E. McKenzie",
+        "Title": "Chief Engineer and Executive VP of Engineering, Test & Technology",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Eric  Hill",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Darrin A. Hostetler",
+        "Title": "Chief Compliance Officer & VP of Global Compliance",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Ann M. Schmidt",
+        "Title": "Chief Communications & Brand Officer and Senior VP of Communications & Brand",
+        "YearBorn": "1976"
+      },
+      "9": {
+        "Name": "Mr. Brad  McMullen",
+        "Title": "Senior Vice President of Commercial Sales & Marketing",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "703-465-3500",
+    "WebURL": "https://www.boeing.com",
+    "LogoURL": "/img/logos/US/ba.png",
+    "FullTimeEmployees": 182000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 788302331,
+    "SharesFloat": 755958909,
+    "PercentInsiders": 0.05,
+    "PercentInstitutions": 73.803,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0017
+  }
+}

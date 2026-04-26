@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.0533,
+        "totalAssets": 0.1922,
+        "currentShares": 101189629,
+        "change": 1188799,
+        "change_p": 1.1888
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.1067,
+        "totalAssets": 0.2278,
+        "currentShares": 89295832,
+        "change": 3379081,
+        "change_p": 3.933
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.6882,
+        "totalAssets": 0.2342,
+        "currentShares": 46342551,
+        "change": 245976,
+        "change_p": 0.5336
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.1069,
+        "totalAssets": 0.2608,
+        "currentShares": 39038299,
+        "change": 6996418,
+        "change_p": 21.8352
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.0345,
+        "totalAssets": 0.1664,
+        "currentShares": 38127942,
+        "change": 20062320,
+        "change_p": 111.0525
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.9281,
+        "totalAssets": 0.5735,
+        "currentShares": 36791042,
+        "change": 31550440,
+        "change_p": 602.0385
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1049,
+        "totalAssets": 0.2132,
+        "currentShares": 26447629,
+        "change": 477625,
+        "change_p": 1.8391
+      },
+      "7": {
+        "name": "Cresset Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.647,
+        "totalAssets": 11.4253,
+        "currentShares": 20694095,
+        "change": -1098846,
+        "change_p": -5.0422
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4828,
+        "totalAssets": 0.1644,
+        "currentShares": 18631166,
+        "change": 359268,
+        "change_p": 1.9662
+      },
+      "9": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.2177,
+        "totalAssets": 0.3701,
+        "currentShares": 15299794,
+        "change": -2438390,
+        "change_p": -13.7466
+      },
+      "10": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9697,
+        "totalAssets": 0.4181,
+        "currentShares": 12184753,
+        "change": -954352,
+        "change_p": -7.2634
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9467,
+        "totalAssets": 0.1667,
+        "currentShares": 11894702,
+        "change": -109765,
+        "change_p": -0.9144
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8206,
+        "totalAssets": 0.1922,
+        "currentShares": 10311392,
+        "change": 9794,
+        "change_p": 0.0951
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8034,
+        "totalAssets": 0.2317,
+        "currentShares": 10094255,
+        "change": 181813,
+        "change_p": 1.8342
+      },
+      "14": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.7482,
+        "totalAssets": 0.7215,
+        "currentShares": 9401393,
+        "change": -185722,
+        "change_p": -1.9372
+      },
+      "15": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.7407,
+        "totalAssets": 0.3971,
+        "currentShares": 9307396,
+        "change": 722688,
+        "change_p": 8.4183
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7355,
+        "totalAssets": 0.2924,
+        "currentShares": 9241502,
+        "change": -1675942,
+        "change_p": -15.351
+      },
+      "17": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 0.6937,
+        "totalAssets": 0.8658,
+        "currentShares": 8716211,
+        "change": 130295,
+        "change_p": 1.5175
+      },
+      "18": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.6823,
+        "totalAssets": 0.3053,
+        "currentShares": 8573270,
+        "change": 433742,
+        "change_p": 5.3288
+      },
+      "19": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.6501,
+        "totalAssets": 0.1876,
+        "currentShares": 8168410,
+        "change": -1745554,
+        "change_p": -17.607
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7002,
+        "totalAssets": 0.2087,
+        "currentShares": 33928794,
+        "change": 2063047,
+        "change_p": 6.4742
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0926,
+        "totalAssets": 0.2269,
+        "currentShares": 26293920,
+        "change": -266524,
+        "change_p": -1.0035
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0563,
+        "totalAssets": 0.2263,
+        "currentShares": 13273277,
+        "change": -7224,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0458,
+        "totalAssets": 0.2342,
+        "currentShares": 13141305,
+        "change": 21663,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9522,
+        "totalAssets": 0.2259,
+        "currentShares": 11964984,
+        "change": -29449,
+        "change_p": -0.2455
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9254,
+        "totalAssets": 0.4492,
+        "currentShares": 11627603,
+        "change": 495292,
+        "change_p": 4.4491
+      },
+      "6": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6166,
+        "totalAssets": 1.1283,
+        "currentShares": 7747556,
+        "change": 20476,
+        "change_p": 0.265
+      },
+      "7": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5768,
+        "totalAssets": 0.7312,
+        "currentShares": 7247298,
+        "change": -8212,
+        "change_p": -0.1132
+      },
+      "8": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.5246,
+        "totalAssets": 0.5187,
+        "currentShares": 6591379,
+        "change": 764200,
+        "change_p": 13.1144
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.463,
+        "totalAssets": 0.2263,
+        "currentShares": 5817816,
+        "change": -32139,
+        "change_p": -0.5494
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4387,
+        "totalAssets": 0.224,
+        "currentShares": 5512204,
+        "change": 7600,
+        "change_p": 0.1381
+      },
+      "11": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3777,
+        "totalAssets": 0.1851,
+        "currentShares": 4745883,
+        "change": -465371,
+        "change_p": -8.9301
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3712,
+        "totalAssets": 0.2261,
+        "currentShares": 4663927,
+        "change": 26719,
+        "change_p": 0.5762
+      },
+      "13": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3624,
+        "totalAssets": 0.3391,
+        "currentShares": 4553810,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "CREF Growth R3",
+        "date": "2026-02-28",
+        "totalShares": 0.3544,
+        "totalAssets": 1.4932,
+        "currentShares": 4453321,
+        "change": -10862,
+        "change_p": -0.2433
+      },
+      "15": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3541,
+        "totalAssets": 0.1783,
+        "currentShares": 4450015,
+        "change": -295868,
+        "change_p": -6.2342
+      },
+      "16": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3433,
+        "totalAssets": 1.1392,
+        "currentShares": 4313215,
+        "change": -2670,
+        "change_p": -0.0619
+      },
+      "17": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3314,
+        "totalAssets": 0.457,
+        "currentShares": 4163754,
+        "change": 3965,
+        "change_p": 0.0953
+      },
+      "18": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.3279,
+        "totalAssets": 0.5781,
+        "currentShares": 4120029,
+        "change": 1270886,
+        "change_p": 44.6059
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3265,
+        "totalAssets": 0.2319,
+        "currentShares": 4102326,
+        "change": 4102326,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 64.5657,
+    "ForwardPE": 50,
+    "PriceSalesTTM": 24.7354,
+    "PriceBookMRQ": 18.0073,
+    "EnterpriseValue": 212016665276,
+    "EnterpriseValueRevenue": 23.5425,
+    "EnterpriseValueEbitda": 53.9661
+  },
+  "Highlights": {
+    "MarketCapitalization": 222759665664,
+    "MarketCapitalizationMln": 222759.6657,
+    "EBITDA": 3928699904,
+    "PERatio": 64.5657,
+    "PEGRatio": 2.4604,
+    "WallStreetTargetPrice": 179.7508,
+    "BookValue": 9.845,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.74,
+    "EPSEstimateCurrentYear": 3.5433,
+    "EPSEstimateNextYear": 4.3051,
+    "EPSEstimateNextQuarter": 0.7555,
+    "EPSEstimateCurrentQuarter": 0.758,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3899,
+    "OperatingMarginTTM": 0.4152,
+    "ReturnOnAssetsTTM": 0.1439,
+    "ReturnOnEquityTTM": 0.314,
+    "RevenueTTM": 9005700096,
+    "RevenuePerShareTTM": 7.159,
+    "QuarterlyRevenueGrowthYOY": 0.289,
+    "GrossProfitTTM": 5768699904,
+    "DilutedEpsTTM": 2.74,
+    "QuarterlyEarningsGrowthYOY": 0.191
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.62,
+    "TotalEsgPercentile": 15.9,
+    "EnvironmentScore": 2.4,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 10.06,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 9.16,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ANET",
+    "Type": "Common Stock",
+    "Name": "Arista Networks",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000N2HDY5",
+    "ISIN": "US0404132054",
+    "LEI": null,
+    "PrimaryTicker": "ANET.US",
+    "CUSIP": "040413106",
+    "CIK": "0001596532",
+    "EmployerIdNumber": "20-1751121",
+    "FiscalYearEnd": "December",
+    "IPODate": "2014-06-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Communications Equipment",
+    "GicSubIndustry": "Communications Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Arista Networks, Inc. engages in the development, marketing, and sale of data-driven, client to cloud networking solutions for AI, data center, campus, and routing environments in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. Its cloud networking solutions consist of Extensible Operating System (EOS), a publish-subscribe state-sharing networking operating system offered in combination with a set of network applications. The company offers data center, cloud and AI networking, cognitive adjacencies, and cognitive network software and services. It also provides post contract customer support services, such as technical support, hardware repair and replacement parts beyond standard warranty, bug fixes, patches, and upgrade services. The company serves a range of industries comprising internet companies, cloud service providers, financial services organizations, government agencies, media and entertainment, healthcare, oil and gas, education, manufacturing, industrial, and others. It markets and sells its products through distributors, system integrators, value-added resellers, and original equipment manufacturer partners, as well as through its direct sales force. Arista Networks, Inc. was formerly known as Arastra, Inc. and changed its name to Arista Networks, Inc. in October 2008. The company was incorporated in 2004 and is headquartered in Santa Clara, California.",
+    "Address": "5453 Great America Parkway, Santa Clara, CA, United States, 95054",
+    "AddressData": {
+      "Street": "5453 Great America Parkway",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95054"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Jayshree V. Ullal",
+        "Title": "CEO & Chairperson",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Kenneth  Duda Ph.D.",
+        "Title": "Co-Founder, President, CTO & Director",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Todd  Nightingale",
+        "Title": "President & COO",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Ms. Chantelle  Breithaupt",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Dr. Andreas B. Bechtolsheim Ph.D.",
+        "Title": "Co-Founder &  Chief Architect",
+        "YearBorn": "1955"
+      },
+      "5": {
+        "Name": "Mr. Sean  Christofferson",
+        "Title": "VP & General Counsel",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Mark  Foss",
+        "Title": "Senior Vice President of Global Operations & Marketing",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Christopher  Schmidt",
+        "Title": "Chief Sales Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Isabelle  Bertin-Bailly",
+        "Title": "Group Vice President of Worldwide Human Resources & Operations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Hugh  Holbrook",
+        "Title": "Chief Development Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 547 5500",
+    "WebURL": "https://www.arista.com",
+    "LogoURL": "/img/logos/US/ANET.png",
+    "FullTimeEmployees": 5115,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1259169438,
+    "SharesFloat": 1039508679,
+    "PercentInsiders": 17.259,
+    "PercentInstitutions": 71.097,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0166
+  }
+}

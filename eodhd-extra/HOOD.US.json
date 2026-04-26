@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.6376,
+        "totalAssets": 0.157,
+        "currentShares": 95771497,
+        "change": 1334443,
+        "change_p": 1.4131
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.7563,
+        "totalAssets": 0.2995,
+        "currentShares": 69830686,
+        "change": 35681077,
+        "change_p": 104.4846
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.6081,
+        "totalAssets": 0.1491,
+        "currentShares": 59493302,
+        "change": 16213055,
+        "change_p": 37.4606
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.5817,
+        "totalAssets": 0.1601,
+        "currentShares": 32246155,
+        "change": 16375734,
+        "change_p": 103.184
+      },
+      "4": {
+        "name": "Newlands Management Operations LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6834,
+        "totalAssets": 14.0849,
+        "currentShares": 24158860,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.3806,
+        "totalAssets": 0.1236,
+        "currentShares": 21433094,
+        "change": -9806917,
+        "change_p": -31.3922
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3516,
+        "totalAssets": 0.1473,
+        "currentShares": 21171925,
+        "change": 356902,
+        "change_p": 1.7146
+      },
+      "7": {
+        "name": "Index Venture Associates VI Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.2856,
+        "totalAssets": 36.4365,
+        "currentShares": 11574318,
+        "change": -1446790,
+        "change_p": -11.1111
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1806,
+        "totalAssets": 0.1286,
+        "currentShares": 10629175,
+        "change": 235902,
+        "change_p": 2.2698
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9577,
+        "totalAssets": 0.0747,
+        "currentShares": 8621944,
+        "change": -1824973,
+        "change_p": -17.469
+      },
+      "10": {
+        "name": "Sumitomo Mitsui Trust Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7934,
+        "totalAssets": 0.5884,
+        "currentShares": 7142767,
+        "change": -2404902,
+        "change_p": -25.1884
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7841,
+        "totalAssets": 0.0686,
+        "currentShares": 7059376,
+        "change": 2114354,
+        "change_p": 42.7572
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.6877,
+        "totalAssets": 0.1397,
+        "currentShares": 6191123,
+        "change": 1248590,
+        "change_p": 25.2621
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6839,
+        "totalAssets": 0.1128,
+        "currentShares": 6157337,
+        "change": 2011820,
+        "change_p": 48.53
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.619,
+        "totalAssets": 0.0979,
+        "currentShares": 5573027,
+        "change": 211835,
+        "change_p": 3.9513
+      },
+      "15": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.5873,
+        "totalAssets": 0.081,
+        "currentShares": 5287511,
+        "change": 1402118,
+        "change_p": 36.0869
+      },
+      "16": {
+        "name": "WCM Investment Management",
+        "date": "2025-12-31",
+        "totalShares": 0.5729,
+        "totalAssets": 1.2261,
+        "currentShares": 5157765,
+        "change": -3484268,
+        "change_p": -40.3177
+      },
+      "17": {
+        "name": "ARK Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5338,
+        "totalAssets": 3.6077,
+        "currentShares": 4806211,
+        "change": -210833,
+        "change_p": -4.2023
+      },
+      "18": {
+        "name": "Amova Asset Management Americas, Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.506,
+        "totalAssets": 5.9533,
+        "currentShares": 4555755,
+        "change": -822243,
+        "change_p": -15.289
+      },
+      "19": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.4901,
+        "totalAssets": 0.2996,
+        "currentShares": 4412036,
+        "change": 2157372,
+        "change_p": 95.6849
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7877,
+        "totalAssets": 0.0871,
+        "currentShares": 25098248,
+        "change": 224723,
+        "change_p": 0.9035
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2355,
+        "totalAssets": 0.098,
+        "currentShares": 20126072,
+        "change": -99380,
+        "change_p": -0.4914
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.8957,
+        "totalAssets": 0.5952,
+        "currentShares": 17067207,
+        "change": -24192,
+        "change_p": -0.1415
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1284,
+        "totalAssets": 0.0978,
+        "currentShares": 10159283,
+        "change": -5532,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1115,
+        "totalAssets": 0.1013,
+        "currentShares": 10007366,
+        "change": 16497,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0161,
+        "totalAssets": 0.0975,
+        "currentShares": 9148302,
+        "change": -22540,
+        "change_p": -0.2458
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0009,
+        "totalAssets": 0.1965,
+        "currentShares": 9010790,
+        "change": 214803,
+        "change_p": 2.4421
+      },
+      "7": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6675,
+        "totalAssets": 1.4253,
+        "currentShares": 6009233,
+        "change": -519890,
+        "change_p": -7.9626
+      },
+      "8": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6001,
+        "totalAssets": 0.7757,
+        "currentShares": 5402351,
+        "change": 9141,
+        "change_p": 0.1695
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4946,
+        "totalAssets": 0.0978,
+        "currentShares": 4452694,
+        "change": -419,
+        "change_p": -0.0094
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4686,
+        "totalAssets": 0.0968,
+        "currentShares": 4218880,
+        "change": 27000,
+        "change_p": 0.6441
+      },
+      "11": {
+        "name": "ARK Innovation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4094,
+        "totalAssets": 4.3988,
+        "currentShares": 3686015,
+        "change": -6246,
+        "change_p": -0.1692
+      },
+      "12": {
+        "name": "ARK Disruptive Innovation Full Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.4087,
+        "totalAssets": 4.2875,
+        "currentShares": 3679769,
+        "change": 954207,
+        "change_p": 35.0096
+      },
+      "13": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.4087,
+        "totalAssets": 0.2566,
+        "currentShares": 3679266,
+        "change": -2041600,
+        "change_p": -35.6869
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3965,
+        "totalAssets": 0.0977,
+        "currentShares": 3569618,
+        "change": 38295,
+        "change_p": 1.0844
+      },
+      "15": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3475,
+        "totalAssets": 0.1527,
+        "currentShares": 3128969,
+        "change": 3128969,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3475,
+        "totalAssets": 0.1527,
+        "currentShares": 3128969,
+        "change": 23331,
+        "change_p": 0.7512
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3475,
+        "totalAssets": 0.1527,
+        "currentShares": 3128969,
+        "change": 23331,
+        "change_p": 0.7512
+      },
+      "18": {
+        "name": "iShares Russell Mid-Cap ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3225,
+        "totalAssets": 0.4173,
+        "currentShares": 2903893,
+        "change": 5005,
+        "change_p": 0.1727
+      },
+      "19": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 0.3183,
+        "totalAssets": 0.2636,
+        "currentShares": 2865865,
+        "change": -1476700,
+        "change_p": -34.0052
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 41.322,
+    "ForwardPE": 38.0228,
+    "PriceSalesTTM": 17.0501,
+    "PriceBookMRQ": 8.3441,
+    "EnterpriseValue": 77440123716,
+    "EnterpriseValueRevenue": 17.3128,
+    "EnterpriseValueEbitda": 35.523
+  },
+  "Highlights": {
+    "MarketCapitalization": 76265127936,
+    "MarketCapitalizationMln": 76265.1279,
+    "EBITDA": 138119008,
+    "PERatio": 41.322,
+    "PEGRatio": null,
+    "WallStreetTargetPrice": 101.1463,
+    "BookValue": 10.141,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.05,
+    "EPSEstimateCurrentYear": 2.0522,
+    "EPSEstimateNextYear": 2.591,
+    "EPSEstimateNextQuarter": 0.5944,
+    "EPSEstimateCurrentQuarter": 0.6359,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.421,
+    "OperatingMarginTTM": 0.4653,
+    "ReturnOnAssetsTTM": 0.0586,
+    "ReturnOnEquityTTM": 0.2199,
+    "RevenueTTM": 4472999936,
+    "RevenuePerShareTTM": 5.034,
+    "QuarterlyRevenueGrowthYOY": 0.265,
+    "GrossProfitTTM": 4132000000,
+    "DilutedEpsTTM": 2.05,
+    "QuarterlyEarningsGrowthYOY": -0.345
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "HOOD",
+    "Type": "Common Stock",
+    "Name": "Robinhood Markets Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG008NMBXN8",
+    "ISIN": "US7707001027",
+    "LEI": null,
+    "PrimaryTicker": "HOOD.US",
+    "CUSIP": "770700102",
+    "CIK": "0001783879",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "2021-07-29",
+    "InternationalDomestic": null,
+    "Sector": "Financial Services",
+    "Industry": "Capital Markets",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Financial Exchanges & Data",
+    "HomeCategory": null,
+    "IsDelisted": false,
+    "Description": "Robinhood Markets, Inc. operates financial services platform in the United States. The company's platform allows users to invest in stocks, exchange-traded funds (ETFs), and American depository receipts. It offers fractional trading, recurring investments, access to investing on margin, fully-paid securities lending, cash sweep, instant withdrawals, retirement program, around-the-clock trading, joint investing accounts, event contracts, future contract services, and short selling. The company also provides various learning and education solutions comprise Snacks, an accessible digest of business news stories for a new generation of investors; Learn, which is an online collection of guides, feature tutorials, and financial dictionary; Newsfeeds that offer access to free, premium news from sites from various sites, such as Barron's, Reuters, and Dow Jones. In addition, the company offers In-App Education, a resource that covers investing fundamentals, including why people invest, a stock market overview, and tips on how to define investing goals, as well as allows customers to understand the basics of investing before their first trade; and Crypto Learn and Earn, an educational module available to various crypto customers through Robinhood Learn to teach customers the basics related to cryptocurrency. Further, it provides Robinhood credit cards, cash card and spending accounts, and wallets. Robinhood Markets, Inc. was incorporated in 2013 and is headquartered in Menlo Park, California.",
+    "Address": "85 Willow Road, Menlo Park, CA, United States, 94025",
+    "AddressData": {
+      "Street": "85 Willow Road",
+      "City": "Menlo Park",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94025"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Vladimir  Tenev",
+        "Title": "Co-Founder, President, CEO & Chairman of the Board",
+        "YearBorn": "1988"
+      },
+      "1": {
+        "Name": "Mr. Baiju Prafulkumar Bhatt",
+        "Title": "Co-Founder & Director",
+        "YearBorn": "1986"
+      },
+      "2": {
+        "Name": "Mr. Jeffrey  Pinner",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "1986"
+      },
+      "3": {
+        "Name": "Mr. Daniel M. Gallagher Jr., J.D.",
+        "Title": "Chief Legal, Compliance & Corporate Affairs Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Jason  Warnick CPA",
+        "Title": "Advisor",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. Steven M. Quirk",
+        "Title": "Chief Brokerage Officer",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Shiv Kumar Verma",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1985"
+      },
+      "7": {
+        "Name": "Ms. Stephanie Jannie Guild C.F.A.",
+        "Title": "Chief Investment Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Chris  Koegel",
+        "Title": "Vice President of Corporate Finance & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Nora  Chan",
+        "Title": "Senior Director of Communications",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "844 428 5411",
+    "WebURL": "https://robinhood.com",
+    "LogoURL": "/img/logos/US/hood.png",
+    "FullTimeEmployees": 2900,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 790054654,
+    "SharesFloat": 783493376,
+    "PercentInsiders": 0.705,
+    "PercentInstitutions": 73.707,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0408
+  }
+}

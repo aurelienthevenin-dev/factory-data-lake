@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.8322,
+        "totalAssets": 0.5453,
+        "currentShares": 43620717,
+        "change": 165349,
+        "change_p": 0.3805
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8399,
+        "totalAssets": 0.5636,
+        "currentShares": 34781929,
+        "change": -801895,
+        "change_p": -2.2535
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0944,
+        "totalAssets": 0.583,
+        "currentShares": 18164785,
+        "change": -160631,
+        "change_p": -0.8765
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3416,
+        "totalAssets": 0.5504,
+        "currentShares": 10388519,
+        "change": 26690,
+        "change_p": 0.2576
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1223,
+        "totalAssets": 0.5277,
+        "currentShares": 9415648,
+        "change": -156701,
+        "change_p": -1.637
+      },
+      "5": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5744,
+        "totalAssets": 0.9025,
+        "currentShares": 6984824,
+        "change": 6332387,
+        "change_p": 970.5745
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5488,
+        "totalAssets": 0.4314,
+        "currentShares": 6871419,
+        "change": -112411,
+        "change_p": -1.6096
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5086,
+        "totalAssets": 0.2943,
+        "currentShares": 6693144,
+        "change": -1260326,
+        "change_p": -15.8462
+      },
+      "8": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.4701,
+        "totalAssets": 0.1809,
+        "currentShares": 6522154,
+        "change": 3156031,
+        "change_p": 93.7586
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.358,
+        "totalAssets": 0.5558,
+        "currentShares": 6024787,
+        "change": 274908,
+        "change_p": 4.7811
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1405,
+        "totalAssets": 0.5992,
+        "currentShares": 5059990,
+        "change": 5438,
+        "change_p": 0.1076
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9434,
+        "totalAssets": 0.6104,
+        "currentShares": 4185579,
+        "change": -105978,
+        "change_p": -2.4695
+      },
+      "12": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.8875,
+        "totalAssets": 0.4618,
+        "currentShares": 3937286,
+        "change": 77650,
+        "change_p": 2.0118
+      },
+      "13": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.8761,
+        "totalAssets": 0.5896,
+        "currentShares": 3886967,
+        "change": -3793627,
+        "change_p": -49.3924
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7545,
+        "totalAssets": 0.5558,
+        "currentShares": 3347362,
+        "change": -88286,
+        "change_p": -2.5697
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7398,
+        "totalAssets": 0.4398,
+        "currentShares": 3282011,
+        "change": 79149,
+        "change_p": 2.4712
+      },
+      "16": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7159,
+        "totalAssets": 0.9348,
+        "currentShares": 3176286,
+        "change": 31045,
+        "change_p": 0.987
+      },
+      "17": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.7136,
+        "totalAssets": 0.5571,
+        "currentShares": 3165920,
+        "change": 51443,
+        "change_p": 1.6517
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6909,
+        "totalAssets": 0.6161,
+        "currentShares": 3065325,
+        "change": -143014,
+        "change_p": -4.4576
+      },
+      "19": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.6896,
+        "totalAssets": 0.8918,
+        "currentShares": 3059401,
+        "change": -237123,
+        "change_p": -7.1931
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.178,
+        "totalAssets": 0.7037,
+        "currentShares": 14099114,
+        "change": 81752,
+        "change_p": 0.5832
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5477,
+        "totalAssets": 0.7915,
+        "currentShares": 11303088,
+        "change": -95594,
+        "change_p": -0.8386
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0998,
+        "totalAssets": 2.5015,
+        "currentShares": 9315742,
+        "change": -31175,
+        "change_p": -0.3335
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2861,
+        "totalAssets": 0.7895,
+        "currentShares": 5705806,
+        "change": -3108,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2713,
+        "totalAssets": 0.761,
+        "currentShares": 5640008,
+        "change": 9297,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1609,
+        "totalAssets": 0.7893,
+        "currentShares": 5150237,
+        "change": -12642,
+        "change_p": -0.2449
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0627,
+        "totalAssets": 1.4783,
+        "currentShares": 4714652,
+        "change": -21527,
+        "change_p": -0.4545
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5637,
+        "totalAssets": 0.7896,
+        "currentShares": 2500767,
+        "change": -9755,
+        "change_p": -0.3886
+      },
+      "8": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5602,
+        "totalAssets": 2.1097,
+        "currentShares": 2485273,
+        "change": 47543,
+        "change_p": 1.9503
+      },
+      "9": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5341,
+        "totalAssets": 0.7814,
+        "currentShares": 2369416,
+        "change": 6960,
+        "change_p": 0.2946
+      },
+      "10": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4519,
+        "totalAssets": 0.7886,
+        "currentShares": 2004791,
+        "change": 14588,
+        "change_p": 0.733
+      },
+      "11": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4038,
+        "totalAssets": 1.5956,
+        "currentShares": 1791504,
+        "change": 1705,
+        "change_p": 0.0953
+      },
+      "12": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3962,
+        "totalAssets": 0.6538,
+        "currentShares": 1757594,
+        "change": -21919,
+        "change_p": -1.2317
+      },
+      "13": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3962,
+        "totalAssets": 0.6538,
+        "currentShares": 1757594,
+        "change": -21919,
+        "change_p": -1.2317
+      },
+      "14": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3962,
+        "totalAssets": 0.6538,
+        "currentShares": 1757594,
+        "change": 1757594,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3891,
+        "totalAssets": 2.4949,
+        "currentShares": 1726280,
+        "change": 7440,
+        "change_p": 0.4329
+      },
+      "16": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3692,
+        "totalAssets": 0.4204,
+        "currentShares": 1637745,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3611,
+        "totalAssets": 0.7845,
+        "currentShares": 1601812,
+        "change": -4841,
+        "change_p": -0.3013
+      },
+      "18": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3551,
+        "totalAssets": 0.5124,
+        "currentShares": 1575500,
+        "change": -62245,
+        "change_p": -3.8007
+      },
+      "19": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3371,
+        "totalAssets": 9.6175,
+        "currentShares": 1495735,
+        "change": -711,
+        "change_p": -0.0475
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 52.6367,
+    "ForwardPE": 50,
+    "PriceSalesTTM": 1.5671,
+    "PriceBookMRQ": 14.0254,
+    "EnterpriseValue": 439957263525,
+    "EnterpriseValueRevenue": 1.5369,
+    "EnterpriseValueEbitda": 31.2847
+  },
+  "Highlights": {
+    "MarketCapitalization": 448599293952,
+    "MarketCapitalizationMln": 448599.294,
+    "EBITDA": 13459999744,
+    "PERatio": 52.6367,
+    "PEGRatio": 5.6145,
+    "WallStreetTargetPrice": 1072.1562,
+    "BookValue": 37.278,
+    "DividendShare": 5.2,
+    "DividendYield": 0.0051,
+    "EarningsShare": 19.21,
+    "EPSEstimateCurrentYear": 20.4617,
+    "EPSEstimateNextYear": 22.5064,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 4.5447,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.0299,
+    "OperatingMarginTTM": 0.0367,
+    "ReturnOnAssetsTTM": 0.0872,
+    "ReturnOnEquityTTM": 0.2965,
+    "RevenueTTM": 286265016320,
+    "RevenuePerShareTTM": 644.785,
+    "QuarterlyRevenueGrowthYOY": 0.215,
+    "GrossProfitTTM": 37003001856,
+    "DilutedEpsTTM": 19.21,
+    "QuarterlyEarningsGrowthYOY": 0.455
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.32,
+    "TotalEsgPercentile": 30.2,
+    "EnvironmentScore": 4.18,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 11.94,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 8.2,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "COST",
+    "Type": "Common Stock",
+    "Name": "Costco Wholesale Corp",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000F6H8W8",
+    "ISIN": "US22160K1051",
+    "LEI": "29DX7H14B9S6O3FD6V18",
+    "PrimaryTicker": "COST.US",
+    "CUSIP": "74143W102",
+    "CIK": "0000909832",
+    "EmployerIdNumber": "91-1223280",
+    "FiscalYearEnd": "August",
+    "IPODate": "1993-09-22",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Consumer Staples Distribution & Retail",
+    "GicIndustry": "Consumer Staples Distribution & Retail",
+    "GicSubIndustry": "Consumer Staples Merchandise Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Iceland, New Zealand, and Sweden. It offers merchandise, including sundries, dry groceries, candies, coolers, freezers, deli, liquor, and tobacco; non-food merchandise comprising appliances, small electronics, health and beauty aids, hardware, lawn and garden, sporting goods, tires, toys and seasonal, automotive, stamps, tickets, apparel, furniture, domestics, housewares, special order kiosks, and jewelry; and fresh food, such as meat, produce, service deli, and bakery products. The company is also involved in warehouse ancillary operations, which include gasoline, pharmacies, optical, food courts, hearing-aid centers, and tire installation centers. In addition, it engages in e-commerce, business centers, travel, and other businesses. The company was formerly known as Costco Companies, Inc. and changed its name to Costco Wholesale Corporation in August 1999. Costco Wholesale Corporation was founded in 1976 and is based in Issaquah, Washington.",
+    "Address": "999 Lake Drive, Issaquah, WA, United States, 98027",
+    "AddressData": {
+      "Street": "999 Lake Drive",
+      "City": "Issaquah",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98027"
+    },
+    "Listings": {
+      "0": {
+        "Code": "COWC34",
+        "Exchange": "SA",
+        "Name": "Costco Wholesale Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Ron M. Vachris",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Gary  Millerchip",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Javier  Polit",
+        "Title": "Executive VP and CI&DO of Information Systems",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Pierre  Riel",
+        "Title": "Executive VP & COO of International Division",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Ms. Tiffany M. Barbre",
+        "Title": "Senior VP, Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Patrick J. Callans",
+        "Title": "Executive Vice President of Administration",
+        "YearBorn": "1962"
+      },
+      "6": {
+        "Name": "Mr. David  Sherwood",
+        "Title": "Vice President of Finance & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. John  Sullivan",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1960"
+      },
+      "8": {
+        "Name": "Sheri  Flies",
+        "Title": "Senior Vice President of Global Sustainability & Compliance",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Peter  Gruening",
+        "Title": "Senior VP of Membership, Marketing & Member Service Centers",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "425 313 8100",
+    "WebURL": "https://www.costco.com",
+    "LogoURL": "/img/logos/US/cost.png",
+    "FullTimeEmployees": 341000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 443652540,
+    "SharesFloat": 440920691,
+    "PercentInsiders": 0.167,
+    "PercentInstitutions": 72.83699999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0142
+  }
+}

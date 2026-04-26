@@ -1,0 +1,571 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2937,
+        "totalAssets": 0.0472,
+        "currentShares": 5376848,
+        "change": 23434,
+        "change_p": 0.4377
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.126,
+        "totalAssets": 0.0382,
+        "currentShares": 3991403,
+        "change": -87518,
+        "change_p": -2.1456
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.595,
+        "totalAssets": 0.0401,
+        "currentShares": 2447044,
+        "change": 1217089,
+        "change_p": 98.9539
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5163,
+        "totalAssets": 0.0375,
+        "currentShares": 1975260,
+        "change": 44182,
+        "change_p": 2.2879
+      },
+      "4": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.6866,
+        "totalAssets": 0.3858,
+        "currentShares": 1612381,
+        "change": 640621,
+        "change_p": 65.9238
+      },
+      "5": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8894,
+        "totalAssets": 0.8806,
+        "currentShares": 1263736,
+        "change": -84,
+        "change_p": -0.0066
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.8749,
+        "totalAssets": 0.0416,
+        "currentShares": 1257365,
+        "change": -79877,
+        "change_p": -5.9733
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8356,
+        "totalAssets": 0.0461,
+        "currentShares": 1240210,
+        "change": 21947,
+        "change_p": 1.8015
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.4314,
+        "totalAssets": 0.0622,
+        "currentShares": 1063392,
+        "change": -44561,
+        "change_p": -4.0219
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9215,
+        "totalAssets": 0.0724,
+        "currentShares": 840383,
+        "change": 211485,
+        "change_p": 33.6279
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6978,
+        "totalAssets": 0.0275,
+        "currentShares": 742542,
+        "change": -87085,
+        "change_p": -10.4969
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6287,
+        "totalAssets": 0.0461,
+        "currentShares": 712323,
+        "change": 159139,
+        "change_p": 28.7678
+      },
+      "12": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4315,
+        "totalAssets": 0.0854,
+        "currentShares": 626093,
+        "change": 43458,
+        "change_p": 7.4589
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3524,
+        "totalAssets": 0.0414,
+        "currentShares": 591480,
+        "change": -868,
+        "change_p": -0.1465
+      },
+      "14": {
+        "name": "Swedbank AB",
+        "date": "2025-12-31",
+        "totalShares": 1.2742,
+        "totalAssets": 0.3262,
+        "currentShares": 557271,
+        "change": -24235,
+        "change_p": -4.1676
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1897,
+        "totalAssets": 0.0386,
+        "currentShares": 520346,
+        "change": 236903,
+        "change_p": 83.5805
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.104,
+        "totalAssets": 0.0573,
+        "currentShares": 482837,
+        "change": -80117,
+        "change_p": -14.2315
+      },
+      "17": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.0944,
+        "totalAssets": 0.2636,
+        "currentShares": 478657,
+        "change": 24451,
+        "change_p": 5.3832
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0895,
+        "totalAssets": 0.0605,
+        "currentShares": 476504,
+        "change": -34405,
+        "change_p": -6.7341
+      },
+      "19": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 1.074,
+        "totalAssets": 0.0772,
+        "currentShares": 469734,
+        "change": 24971,
+        "change_p": 5.6145
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2221,
+        "totalAssets": 0.0369,
+        "currentShares": 1409227,
+        "change": -8649,
+        "change_p": -0.61
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5823,
+        "totalAssets": 0.0415,
+        "currentShares": 1129408,
+        "change": -23872,
+        "change_p": -2.0699
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1911,
+        "totalAssets": 0.2521,
+        "currentShares": 958332,
+        "change": -16232,
+        "change_p": -1.6656
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3047,
+        "totalAssets": 0.0522,
+        "currentShares": 570620,
+        "change": 941,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3042,
+        "totalAssets": 0.0414,
+        "currentShares": 570404,
+        "change": -312,
+        "change_p": -0.0547
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1707,
+        "totalAssets": 0.0412,
+        "currentShares": 512020,
+        "change": -1274,
+        "change_p": -0.2482
+      },
+      "6": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0643,
+        "totalAssets": 0.5234,
+        "currentShares": 465472,
+        "change": -288,
+        "change_p": -0.0618
+      },
+      "7": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0568,
+        "totalAssets": 1.1103,
+        "currentShares": 462200,
+        "change": -700,
+        "change_p": -0.1512
+      },
+      "8": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 1.0559,
+        "totalAssets": 1.0709,
+        "currentShares": 461800,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9374,
+        "totalAssets": 0.095,
+        "currentShares": 410000,
+        "change": -7277,
+        "change_p": -1.7439
+      },
+      "10": {
+        "name": "Folksam LO Världen",
+        "date": "2026-03-31",
+        "totalShares": 0.809,
+        "totalAssets": 1.2562,
+        "currentShares": 353826,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7715,
+        "totalAssets": 0.6036,
+        "currentShares": 337422,
+        "change": -34870,
+        "change_p": -9.3663
+      },
+      "12": {
+        "name": "T. Rowe Price US Large-Cap Core Tr-E",
+        "date": "2025-12-31",
+        "totalShares": 0.7437,
+        "totalAssets": 0.9735,
+        "currentShares": 325249,
+        "change": -39085,
+        "change_p": -10.7278
+      },
+      "13": {
+        "name": "T. Rowe Price US Large-Cap Core Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6728,
+        "totalAssets": 0.9903,
+        "currentShares": 294243,
+        "change": -32283,
+        "change_p": -9.8868
+      },
+      "14": {
+        "name": "T. Rowe Price US Large-Cap Core",
+        "date": "2026-03-31",
+        "totalShares": 0.6516,
+        "totalAssets": 0.9017,
+        "currentShares": 284968,
+        "change": 15000,
+        "change_p": 5.5562
+      },
+      "15": {
+        "name": "JPMorgan Growth Advantage A",
+        "date": "2026-02-28",
+        "totalShares": 0.6381,
+        "totalAssets": 0.8995,
+        "currentShares": 279069,
+        "change": -1424,
+        "change_p": -0.5077
+      },
+      "16": {
+        "name": "AGF Global Select",
+        "date": "2026-02-28",
+        "totalShares": 0.6295,
+        "totalAssets": 3.3237,
+        "currentShares": 275302,
+        "change": 81,
+        "change_p": 0.0294
+      },
+      "17": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6089,
+        "totalAssets": 0.1632,
+        "currentShares": 266326,
+        "change": 786,
+        "change_p": 0.296
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5719,
+        "totalAssets": 0.0414,
+        "currentShares": 250121,
+        "change": -3665,
+        "change_p": -1.4441
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5414,
+        "totalAssets": 0.041,
+        "currentShares": 236793,
+        "change": -2240,
+        "change_p": -0.9371
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.7843,
+    "ForwardPE": 19.8413,
+    "PriceSalesTTM": 1.9712,
+    "PriceBookMRQ": 8.7703,
+    "EnterpriseValue": 26275059207,
+    "EnterpriseValueRevenue": 2.1202,
+    "EnterpriseValueEbitda": 14.2059
+  },
+  "Highlights": {
+    "MarketCapitalization": 24429094912,
+    "MarketCapitalizationMln": 24429.0949,
+    "EBITDA": 1833560064,
+    "PERatio": 21.7843,
+    "PEGRatio": 1.8763,
+    "WallStreetTargetPrice": 676.2083,
+    "BookValue": 63.475,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 25.64,
+    "EPSEstimateCurrentYear": 25.6586,
+    "EPSEstimateNextYear": 28.5715,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 8.0266,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0931,
+    "OperatingMarginTTM": 0.1223,
+    "ReturnOnAssetsTTM": 0.1474,
+    "ReturnOnEquityTTM": 0.436,
+    "RevenueTTM": 12392819712,
+    "RevenuePerShareTTM": 276.366,
+    "QuarterlyRevenueGrowthYOY": 0.118,
+    "GrossProfitTTM": 5334784000,
+    "DilutedEpsTTM": 25.64,
+    "QuarterlyEarningsGrowthYOY": -0.054
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.11,
+    "TotalEsgPercentile": 12.36,
+    "EnvironmentScore": 3.74,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 4.69,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 4.17,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ULTA",
+    "Type": "Common Stock",
+    "Name": "Ulta Beauty Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00FWQ4VD6",
+    "ISIN": "US90384S3031",
+    "LEI": "529900CIV6HN8M28YM82",
+    "PrimaryTicker": "ULTA.US",
+    "CUSIP": "90384S303",
+    "CIK": "0001403568",
+    "EmployerIdNumber": "38-4022268",
+    "FiscalYearEnd": "January",
+    "IPODate": "2007-10-25",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Discretionary Distribution & Retail",
+    "GicIndustry": "Specialty Retail",
+    "GicSubIndustry": "Other Specialty Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ulta Beauty, Inc. operates as a specialty beauty retailer in the United States, Mexico, and Kuwait. The company offers branded and private label beauty products, including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and salon styling tools through its Ulta Beauty stores, shop-in-shops, Ulta.com website, and its mobile applications. It also provides wellness products. The company was formerly known as ULTA Salon, Cosmetics & Fragrance, Inc. and changed its name to Ulta Beauty, Inc. in January 2017. Ulta Beauty, Inc. was incorporated in 1990 and is based in Bolingbrook, Illinois.",
+    "Address": "1000 Remington Boulevard, Bolingbrook, IL, United States, 60440",
+    "AddressData": {
+      "Street": "1000 Remington Boulevard",
+      "City": "Bolingbrook",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60440"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Kecia L. Steelman",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Ms. Kelly  Mahoney",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "2": {
+        "Name": "Ms. Amiee  Bayer-Thomas",
+        "Title": "Chief Retail Officer",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Mr. Erik  Lopez",
+        "Title": "Chief Supply Chain Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Ms. Lauren  Brindley",
+        "Title": "Chief Merchandising & Digital Officer",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Andy  Lightfoot",
+        "Title": "Chief Executive Officer of Space NK",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Kristin  Wolf",
+        "Title": "Chief Strategy & Growth Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "630 410 4800",
+    "WebURL": "https://www.ulta.com",
+    "LogoURL": "/img/logos/US/ULTA.png",
+    "FullTimeEmployees": 21382,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 43560416,
+    "SharesFloat": 43590550,
+    "PercentInsiders": 0.42900000000000005,
+    "PercentInstitutions": 102.37400000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.047
+  }
+}

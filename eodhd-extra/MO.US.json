@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.632,
+        "totalAssets": 0.1346,
+        "currentShares": 160980626,
+        "change": 1903530,
+        "change_p": 1.1966
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.5238,
+        "totalAssets": 0.1454,
+        "currentShares": 125746389,
+        "change": 2968641,
+        "change_p": 2.4179
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.289,
+        "totalAssets": 0.1668,
+        "currentShares": 71683390,
+        "change": -683873,
+        "change_p": -0.945
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.9201,
+        "totalAssets": 0.587,
+        "currentShares": 65516916,
+        "change": 6265780,
+        "change_p": 10.575
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7514,
+        "totalAssets": 0.1636,
+        "currentShares": 45984718,
+        "change": 729999,
+        "change_p": 1.6131
+      },
+      "5": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4993,
+        "totalAssets": 2.3797,
+        "currentShares": 25058437,
+        "change": -685572,
+        "change_p": -2.663
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.4448,
+        "totalAssets": 0.0478,
+        "currentShares": 24147364,
+        "change": 12888347,
+        "change_p": 114.4713
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3146,
+        "totalAssets": 0.0879,
+        "currentShares": 21971084,
+        "change": -1026399,
+        "change_p": -4.4631
+      },
+      "8": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1708,
+        "totalAssets": 0.2953,
+        "currentShares": 19567823,
+        "change": 3172753,
+        "change_p": 19.3519
+      },
+      "9": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.103,
+        "totalAssets": 0.1446,
+        "currentShares": 18435287,
+        "change": -6590723,
+        "change_p": -26.3355
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9995,
+        "totalAssets": 0.1412,
+        "currentShares": 16705159,
+        "change": 59189,
+        "change_p": 0.3556
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8322,
+        "totalAssets": 0.0623,
+        "currentShares": 13908041,
+        "change": -921825,
+        "change_p": -6.216
+      },
+      "12": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7627,
+        "totalAssets": 0.1511,
+        "currentShares": 12747828,
+        "change": 132846,
+        "change_p": 1.0531
+      },
+      "13": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.7269,
+        "totalAssets": 0.1293,
+        "currentShares": 12148068,
+        "change": 16424,
+        "change_p": 0.1354
+      },
+      "14": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.7159,
+        "totalAssets": 0.4041,
+        "currentShares": 11965179,
+        "change": -1832496,
+        "change_p": -13.2812
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7082,
+        "totalAssets": 0.1232,
+        "currentShares": 11835816,
+        "change": -213020,
+        "change_p": -1.768
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6188,
+        "totalAssets": 0.107,
+        "currentShares": 10341699,
+        "change": 889936,
+        "change_p": 9.4156
+      },
+      "17": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5547,
+        "totalAssets": 0.1437,
+        "currentShares": 9271214,
+        "change": 4933218,
+        "change_p": 113.7211
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.5408,
+        "totalAssets": 0.1156,
+        "currentShares": 9038475,
+        "change": -131027,
+        "change_p": -1.4289
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5325,
+        "totalAssets": 0.0629,
+        "currentShares": 8899165,
+        "change": 881536,
+        "change_p": 10.995
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1776,
+        "totalAssets": 0.1755,
+        "currentShares": 53107545,
+        "change": 19609,
+        "change_p": 0.0369
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5576,
+        "totalAssets": 0.1982,
+        "currentShares": 42746319,
+        "change": -427774,
+        "change_p": -0.9908
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2508,
+        "totalAssets": 2.9923,
+        "currentShares": 37618371,
+        "change": 62652,
+        "change_p": 0.1668
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2911,
+        "totalAssets": 0.1977,
+        "currentShares": 21578195,
+        "change": -11748,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2782,
+        "totalAssets": 0.1969,
+        "currentShares": 21363218,
+        "change": 35236,
+        "change_p": 0.1652
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1667,
+        "totalAssets": 0.1979,
+        "currentShares": 19498773,
+        "change": -47824,
+        "change_p": -0.2447
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9245,
+        "totalAssets": 0.4518,
+        "currentShares": 15451917,
+        "change": -193306,
+        "change_p": -1.2356
+      },
+      "7": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6637,
+        "totalAssets": 0.6697,
+        "currentShares": 11092913,
+        "change": 11092913,
+        "change_p": 0
+      },
+      "8": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6435,
+        "totalAssets": 4.5796,
+        "currentShares": 10754365,
+        "change": -4736,
+        "change_p": -0.044
+      },
+      "9": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6086,
+        "totalAssets": 0.2817,
+        "currentShares": 10171559,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6086,
+        "totalAssets": 0.3366,
+        "currentShares": 10171559,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5659,
+        "totalAssets": 0.1978,
+        "currentShares": 9457640,
+        "change": -52355,
+        "change_p": -0.5505
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5362,
+        "totalAssets": 0.1957,
+        "currentShares": 8960919,
+        "change": 12400,
+        "change_p": 0.1386
+      },
+      "13": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.5279,
+        "totalAssets": 1.1435,
+        "currentShares": 8822631,
+        "change": 1415289,
+        "change_p": 19.1066
+      },
+      "14": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.5176,
+        "totalAssets": 1.2555,
+        "currentShares": 8651364,
+        "change": -61896,
+        "change_p": -0.7104
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4537,
+        "totalAssets": 0.1975,
+        "currentShares": 7581915,
+        "change": 43547,
+        "change_p": 0.5777
+      },
+      "16": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4416,
+        "totalAssets": 0.2935,
+        "currentShares": 7379811,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4416,
+        "totalAssets": 0.2418,
+        "currentShares": 7379811,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4309,
+        "totalAssets": 2.1321,
+        "currentShares": 7201557,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "iShares Core High Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4171,
+        "totalAssets": 3.391,
+        "currentShares": 6971865,
+        "change": 10464,
+        "change_p": 0.1503
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.233,
+    "ForwardPE": 11.9904,
+    "PriceSalesTTM": 5.5522,
+    "PriceBookMRQ": 25.2407,
+    "EnterpriseValue": 133012451160,
+    "EnterpriseValueRevenue": 6.6271,
+    "EnterpriseValueEbitda": 12.3212
+  },
+  "Highlights": {
+    "MarketCapitalization": 111816540160,
+    "MarketCapitalizationMln": 111816.5402,
+    "EBITDA": 15610000384,
+    "PERatio": 16.233,
+    "PEGRatio": 1.713,
+    "WallStreetTargetPrice": 65.5833,
+    "BookValue": -2.092,
+    "DividendShare": 4.16,
+    "DividendYield": 0.062,
+    "EarningsShare": 4.12,
+    "EPSEstimateCurrentYear": 5.6218,
+    "EPSEstimateNextYear": 5.8145,
+    "EPSEstimateNextQuarter": 1.2544,
+    "EPSEstimateCurrentQuarter": 1.3175,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.345,
+    "OperatingMarginTTM": 1.167,
+    "ReturnOnAssetsTTM": 0.2732,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 20138999808,
+    "RevenuePerShareTTM": 11.966,
+    "QuarterlyRevenueGrowthYOY": -0.005,
+    "GrossProfitTTM": 17589999616,
+    "DilutedEpsTTM": 4.12,
+    "QuarterlyEarningsGrowthYOY": -0.629
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.51,
+    "TotalEsgPercentile": 42.94,
+    "EnvironmentScore": 11.31,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 17.43,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 9.26,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "Yes"
+      }
+    }
+  },
+  "General": {
+    "Code": "MO",
+    "Type": "Common Stock",
+    "Name": "Altria Group",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BP6LJ8",
+    "ISIN": "US02209S1033",
+    "LEI": "XSGZFLO9YTNO9VCQV219",
+    "PrimaryTicker": "MO.US",
+    "CUSIP": "718154107",
+    "CIK": "0000764180",
+    "EmployerIdNumber": "13-3260245",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Tobacco",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Tobacco",
+    "GicSubIndustry": "Tobacco",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Altria Group, Inc., through its subsidiaries, manufactures and sells smokeable and oral tobacco products in the United States. It offers cigarettes primarily under the Marlboro brand; large cigars and pipe tobacco under the Black & Mild brand; moist smokeless tobacco and oral tobacco products under the Copenhagen, Skoal, Red Seal, and Husky brands; oral nicotine pouches under the on! brand; and e-vapor products under the NJOY ACE brand. The company sells its products to distributors, as well as large retail organizations, such as chain stores. Altria Group, Inc. was founded in 1822 and is headquartered in Richmond, Virginia.",
+    "Address": "6601 West Broad Street, Richmond, VA, United States, 23230",
+    "AddressData": {
+      "Street": "6601 West Broad Street",
+      "City": "Richmond",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "23230"
+    },
+    "Listings": {
+      "0": {
+        "Code": "MOOO34",
+        "Exchange": "SA",
+        "Name": "Altria Group Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. William F. Gifford Jr.",
+        "Title": "CEO & Director",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Salvatore  Mancuso",
+        "Title": "Executive VP, CFO & Director",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. Jody L. Begley",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Charles N. Whitaker J.D.",
+        "Title": "Senior VP, Chief Human Resources Officer & Chief Compliance Officer",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Ms. Heather A. Newman",
+        "Title": "Senior VP and Chief Strategy & Growth Officer",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Mac  Livingston",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Robert A. McCarter III, J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Ms. Jennifer  Hunter",
+        "Title": "Senior VP of Corporate Citizenship & Chief Sustainability Officer - Altria Client Services LLC",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Shannon  Leistra",
+        "Title": "President & CEO of NJOY, LLC, Senior VP and Chief Innovation & Product Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Paige  Magness",
+        "Title": "Senior Vice President of Regulatory Affairs - Altria Client Services LLC",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "804 274 2200",
+    "WebURL": "https://www.altria.com",
+    "LogoURL": "/img/logos/US/mo.png",
+    "FullTimeEmployees": 5900,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1671313564,
+    "SharesFloat": 1668487415,
+    "PercentInsiders": 0.136,
+    "PercentInstitutions": 64.05199999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0264
+  }
+}

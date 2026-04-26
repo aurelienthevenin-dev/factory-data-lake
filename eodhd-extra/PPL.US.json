@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.9805,
+        "totalAssets": 0.0458,
+        "currentShares": 90113154,
+        "change": 759667,
+        "change_p": 0.8502
+      },
+      "1": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 9.2056,
+        "totalAssets": 0.9591,
+        "currentShares": 69241114,
+        "change": 33273420,
+        "change_p": 92.5092
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0547,
+        "totalAssets": 0.0394,
+        "currentShares": 60584589,
+        "change": 337946,
+        "change_p": 0.5609
+      },
+      "3": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.5053,
+        "totalAssets": 0.3837,
+        "currentShares": 41408580,
+        "change": 3212807,
+        "change_p": 8.4114
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.044,
+        "totalAssets": 0.0493,
+        "currentShares": 37939456,
+        "change": 565789,
+        "change_p": 1.5139
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.5193,
+        "totalAssets": 0.2086,
+        "currentShares": 33992877,
+        "change": 1955867,
+        "change_p": 6.105
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 4.1475,
+        "totalAssets": 0.1826,
+        "currentShares": 31196416,
+        "change": 375904,
+        "change_p": 1.2197
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5163,
+        "totalAssets": 0.0407,
+        "currentShares": 18926902,
+        "change": 7169,
+        "change_p": 0.0379
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.514,
+        "totalAssets": 0.0425,
+        "currentShares": 18909274,
+        "change": 11255962,
+        "change_p": 147.0731
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.0257,
+        "totalAssets": 0.0384,
+        "currentShares": 15236427,
+        "change": 1345961,
+        "change_p": 9.6898
+      },
+      "10": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7363,
+        "totalAssets": 0.4735,
+        "currentShares": 13059952,
+        "change": -689299,
+        "change_p": -5.0134
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4648,
+        "totalAssets": 0.0197,
+        "currentShares": 11018045,
+        "change": -47716,
+        "change_p": -0.4312
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1396,
+        "totalAssets": 0.0408,
+        "currentShares": 8571881,
+        "change": 283431,
+        "change_p": 3.4196
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0881,
+        "totalAssets": 0.0091,
+        "currentShares": 8184478,
+        "change": 4594586,
+        "change_p": 127.9867
+      },
+      "14": {
+        "name": "Federated Hermes Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0651,
+        "totalAssets": 0.5256,
+        "currentShares": 8011124,
+        "change": -63230,
+        "change_p": -0.7831
+      },
+      "15": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.9782,
+        "totalAssets": 0.0861,
+        "currentShares": 7357315,
+        "change": -1055087,
+        "change_p": -12.542
+      },
+      "16": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.9564,
+        "totalAssets": 0.058,
+        "currentShares": 7193537,
+        "change": 3849365,
+        "change_p": 115.1067
+      },
+      "17": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9424,
+        "totalAssets": 0.4752,
+        "currentShares": 7088622,
+        "change": -111077,
+        "change_p": -1.5428
+      },
+      "18": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9288,
+        "totalAssets": 0.7308,
+        "currentShares": 6986449,
+        "change": -927665,
+        "change_p": -11.7217
+      },
+      "19": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8377,
+        "totalAssets": 0.1767,
+        "currentShares": 6301025,
+        "change": -513832,
+        "change_p": -7.5399
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0147,
+        "totalAssets": 0.0434,
+        "currentShares": 22675430,
+        "change": 457406,
+        "change_p": 2.0587
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5044,
+        "totalAssets": 0.0506,
+        "currentShares": 18837292,
+        "change": -189081,
+        "change_p": -0.9938
+      },
+      "2": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.3661,
+        "totalAssets": 0.997,
+        "currentShares": 17797185,
+        "change": 1330958,
+        "change_p": 8.083
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0499,
+        "totalAssets": 0.2964,
+        "currentShares": 15418619,
+        "change": 144255,
+        "change_p": 0.9444
+      },
+      "4": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6755,
+        "totalAssets": 1.9822,
+        "currentShares": 12602247,
+        "change": -10755,
+        "change_p": -0.0853
+      },
+      "5": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.6373,
+        "totalAssets": 0.9917,
+        "currentShares": 12315378,
+        "change": 254993,
+        "change_p": 2.1143
+      },
+      "6": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 1.6101,
+        "totalAssets": 0.6986,
+        "currentShares": 12110552,
+        "change": -7195117,
+        "change_p": -37.2695
+      },
+      "7": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.5505,
+        "totalAssets": 0.9847,
+        "currentShares": 11662528,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2641,
+        "totalAssets": 0.0504,
+        "currentShares": 9508326,
+        "change": -5172,
+        "change_p": -0.0544
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2516,
+        "totalAssets": 0.049,
+        "currentShares": 9414128,
+        "change": 15528,
+        "change_p": 0.1652
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1386,
+        "totalAssets": 0.0503,
+        "currentShares": 8563898,
+        "change": -21070,
+        "change_p": -0.2454
+      },
+      "11": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0705,
+        "totalAssets": 0.5853,
+        "currentShares": 8051687,
+        "change": 434634,
+        "change_p": 5.7061
+      },
+      "12": {
+        "name": "Franklin Utilities A1",
+        "date": "2026-03-31",
+        "totalShares": 0.9041,
+        "totalAssets": 3.3513,
+        "currentShares": 6800000,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.877,
+        "totalAssets": 0.1117,
+        "currentShares": 6596580,
+        "change": 55036,
+        "change_p": 0.8413
+      },
+      "14": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8225,
+        "totalAssets": 1.0603,
+        "currentShares": 6186477,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "JHancock Disciplined Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.7803,
+        "totalAssets": 1.214,
+        "currentShares": 5868799,
+        "change": -170395,
+        "change_p": -2.8215
+      },
+      "16": {
+        "name": "JNL/T. Rowe Price Capital Appreciation A",
+        "date": "2025-12-31",
+        "totalShares": 0.7193,
+        "totalAssets": 1.2832,
+        "currentShares": 5410575,
+        "change": 522489,
+        "change_p": 10.689
+      },
+      "17": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6775,
+        "totalAssets": 1.7949,
+        "currentShares": 5095736,
+        "change": 57556,
+        "change_p": 1.1424
+      },
+      "18": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6173,
+        "totalAssets": 0.5105,
+        "currentShares": 4642821,
+        "change": 256536,
+        "change_p": 5.8486
+      },
+      "19": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6133,
+        "totalAssets": 0.2066,
+        "currentShares": 4612909,
+        "change": 13624,
+        "change_p": 0.2962
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.2188,
+    "ForwardPE": 19.7628,
+    "PriceSalesTTM": 3.2234,
+    "PriceBookMRQ": 1.948,
+    "EnterpriseValue": 47267442838,
+    "EnterpriseValueRevenue": 5.2275,
+    "EnterpriseValueEbitda": 12.7888
+  },
+  "Highlights": {
+    "MarketCapitalization": 29146398720,
+    "MarketCapitalizationMln": 29146.3987,
+    "EBITDA": 3544999936,
+    "PERatio": 24.2188,
+    "PEGRatio": 1.4973,
+    "WallStreetTargetPrice": 42.1333,
+    "BookValue": 19.814,
+    "DividendShare": 1.09,
+    "DividendYield": 0.0283,
+    "EarningsShare": 1.6,
+    "EPSEstimateCurrentYear": 1.9487,
+    "EPSEstimateNextYear": 2.1159,
+    "EPSEstimateNextQuarter": 0.5967,
+    "EPSEstimateCurrentQuarter": 0.4152,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1306,
+    "OperatingMarginTTM": 0.1887,
+    "ReturnOnAssetsTTM": 0.031,
+    "ReturnOnEquityTTM": 0.0816,
+    "RevenueTTM": 9041999872,
+    "RevenuePerShareTTM": 12.229,
+    "QuarterlyRevenueGrowthYOY": 0.028,
+    "GrossProfitTTM": 3931000064,
+    "DilutedEpsTTM": 1.6,
+    "QuarterlyEarningsGrowthYOY": 0.499
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.67,
+    "TotalEsgPercentile": 71.96,
+    "EnvironmentScore": 17.72,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 6.49,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 1.97,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PPL",
+    "Type": "Common Stock",
+    "Name": "PPL Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRJL00",
+    "ISIN": "US69351T1060",
+    "LEI": "9N3UAJSNOUXFKQLF3V18",
+    "PrimaryTicker": "PPL.US",
+    "CUSIP": "693499105",
+    "CIK": "0000922224",
+    "EmployerIdNumber": "23-2758192",
+    "FiscalYearEnd": "December",
+    "IPODate": "1985-04-08",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "PPL Corporation provides electricity and natural gas to approximately 3.6 million customers in the United States. It operates in three segments: Kentucky Regulated, Pennsylvania Regulated, and Rhode Island Regulated. The company engages in the transmission and distribution of electricity in eastern and central Pennsylvania; generation, transmission, distribution, and sale of electricity in Kentucky, Virginia, and Rhode Island; distribution and sale of natural gas in Kentucky and Rhode Island; sale of wholesale electricity in Kentucky; and generation of electricity from power plants in Kentucky. It generates electricity from coal, gas, hydro, and solar sources. The company was formerly known as PP&L Resources, Inc. and changed its name to PPL Corporation in 2000. PPL Corporation was founded in 1920 and is headquartered in Allentown, Pennsylvania.",
+    "Address": "645 Hamilton Street, Allentown, PA, United States, 18101",
+    "AddressData": {
+      "Street": "645 Hamilton Street",
+      "City": "Allentown",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "18101"
+    },
+    "Listings": {
+      "0": {
+        "Code": "PPL",
+        "Exchange": "F",
+        "Name": "PannErgy Nyrt."
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Vincent  Sorgi CPA",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. Joseph P. Bergstein Jr.",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Dean Anthony Del Vecchio",
+        "Title": "Executive VP and Chief Technology & Innovation Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Ms. Wendy E. Stark J.D.",
+        "Title": "Executive VP of Utilities & Chief Legal Officer",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. David J. Bonenberger",
+        "Title": "Executive VP & Chief Operating Officer-Utilities",
+        "YearBorn": "1962"
+      },
+      "5": {
+        "Name": "Mr. Andrew  Ludwig",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Stephen K. Breininger",
+        "Title": "VP of Corporate Audit & Chief Compliance Officer",
+        "YearBorn": "1974"
+      },
+      "7": {
+        "Name": "Mr. Ryan  Hill",
+        "Title": "Senior Director of Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Angela K. Gosman",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1969"
+      },
+      "9": {
+        "Name": "Mr. W. Mark Brooks",
+        "Title": "VP & Chief Information Security Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "610 774 5151",
+    "WebURL": "https://www.pplweb.com",
+    "LogoURL": "/img/logos/US/ppl.png",
+    "FullTimeEmployees": 6546,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 752165097,
+    "SharesFloat": 749210646,
+    "PercentInsiders": 0.149,
+    "PercentInstitutions": 87.984,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0608
+  }
+}

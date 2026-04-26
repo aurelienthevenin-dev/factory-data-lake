@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 14.3435,
+        "totalAssets": 1.316,
+        "currentShares": 44157822,
+        "change": 1562028,
+        "change_p": 3.6671
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0483,
+        "totalAssets": 0.0297,
+        "currentShares": 37091812,
+        "change": -2024522,
+        "change_p": -5.1756
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.1517,
+        "totalAssets": 0.0268,
+        "currentShares": 31252968,
+        "change": -146824,
+        "change_p": -0.4676
+      },
+      "3": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 6.2458,
+        "totalAssets": 2.8176,
+        "currentShares": 19228265,
+        "change": -1255415,
+        "change_p": -6.1289
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 5.0394,
+        "totalAssets": 0.0813,
+        "currentShares": 15514321,
+        "change": 1184476,
+        "change_p": 8.2658
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5814,
+        "totalAssets": 0.024,
+        "currentShares": 14104203,
+        "change": -52965,
+        "change_p": -0.3741
+      },
+      "6": {
+        "name": "Flossbach von Storch AG",
+        "date": "2025-12-31",
+        "totalShares": 3.6723,
+        "totalAssets": 2.474,
+        "currentShares": 11305369,
+        "change": -340780,
+        "change_p": -2.9261
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.8942,
+        "totalAssets": 0.0526,
+        "currentShares": 8910119,
+        "change": 2050302,
+        "change_p": 29.8886
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8545,
+        "totalAssets": 0.0298,
+        "currentShares": 8787747,
+        "change": 116939,
+        "change_p": 1.3487
+      },
+      "9": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6881,
+        "totalAssets": 1.5215,
+        "currentShares": 8275652,
+        "change": -434261,
+        "change_p": -4.9858
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.4388,
+        "totalAssets": 0.058,
+        "currentShares": 7507930,
+        "change": 497714,
+        "change_p": 7.0998
+      },
+      "11": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 2.0221,
+        "totalAssets": 0.0478,
+        "currentShares": 6225192,
+        "change": 2970079,
+        "change_p": 91.2435
+      },
+      "12": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.9916,
+        "totalAssets": 0.1339,
+        "currentShares": 6131447,
+        "change": 2150236,
+        "change_p": 54.0096
+      },
+      "13": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 1.8277,
+        "totalAssets": 0.2554,
+        "currentShares": 5626871,
+        "change": 2316202,
+        "change_p": 69.9618
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3455,
+        "totalAssets": 0.0441,
+        "currentShares": 4142206,
+        "change": -163601,
+        "change_p": -3.7995
+      },
+      "15": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3167,
+        "totalAssets": 0.0602,
+        "currentShares": 4053620,
+        "change": 2160257,
+        "change_p": 114.0963
+      },
+      "16": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 1.2546,
+        "totalAssets": 0.9192,
+        "currentShares": 3862464,
+        "change": 1206102,
+        "change_p": 45.4043
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2451,
+        "totalAssets": 0.024,
+        "currentShares": 3833135,
+        "change": -131466,
+        "change_p": -3.316
+      },
+      "18": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1929,
+        "totalAssets": 0.6056,
+        "currentShares": 3672300,
+        "change": -46900,
+        "change_p": -1.261
+      },
+      "19": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0074,
+        "totalAssets": 0.0092,
+        "currentShares": 3101228,
+        "change": -533656,
+        "change_p": -14.6815
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 9.2792,
+        "totalAssets": 1.3179,
+        "currentShares": 28566975,
+        "change": 1050049,
+        "change_p": 3.816
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1746,
+        "totalAssets": 0.0271,
+        "currentShares": 9773434,
+        "change": -264753,
+        "change_p": -2.6375
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5921,
+        "totalAssets": 0.031,
+        "currentShares": 7979958,
+        "change": -190837,
+        "change_p": -2.3356
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.185,
+        "currentShares": 6650566,
+        "change": -252384,
+        "change_p": -3.6562
+      },
+      "4": {
+        "name": "FvS SICAV Multiple Opportunities F",
+        "date": "2025-12-31",
+        "totalShares": 1.8392,
+        "totalAssets": 1.1458,
+        "currentShares": 5662200,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.313,
+        "totalAssets": 0.0319,
+        "currentShares": 4042038,
+        "change": 6683,
+        "change_p": 0.1656
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3087,
+        "totalAssets": 0.0309,
+        "currentShares": 4028827,
+        "change": -2196,
+        "change_p": -0.0545
+      },
+      "7": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 1.2521,
+        "totalAssets": 1.4414,
+        "currentShares": 3854689,
+        "change": 411000,
+        "change_p": 11.9349
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1729,
+        "totalAssets": 0.0307,
+        "currentShares": 3610857,
+        "change": -8918,
+        "change_p": -0.2464
+      },
+      "9": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 1.1171,
+        "totalAssets": 1.1764,
+        "currentShares": 3439000,
+        "change": 277675,
+        "change_p": 8.7835
+      },
+      "10": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0326,
+        "totalAssets": 1.1859,
+        "currentShares": 3179021,
+        "change": 694851,
+        "change_p": 27.9712
+      },
+      "11": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0015,
+        "totalAssets": 0.1998,
+        "currentShares": 3083184,
+        "change": 9039,
+        "change_p": 0.294
+      },
+      "12": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.992,
+        "totalAssets": 0.2657,
+        "currentShares": 3054000,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.0697,
+        "currentShares": 2845337,
+        "change": -109900,
+        "change_p": -3.7188
+      },
+      "14": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8234,
+        "totalAssets": 0.8477,
+        "currentShares": 2535000,
+        "change": 315000,
+        "change_p": 14.1892
+      },
+      "15": {
+        "name": "Dodge & Cox Global Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.8106,
+        "totalAssets": 1.1035,
+        "currentShares": 2495414,
+        "change": -64617,
+        "change_p": -2.5241
+      },
+      "16": {
+        "name": "T. Rowe Price U.S. Mid-Cap Val Eq Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.7993,
+        "totalAssets": 1.4635,
+        "currentShares": 2460617,
+        "change": 456712,
+        "change_p": 22.7911
+      },
+      "17": {
+        "name": "FvS Multiple Opportunities II I",
+        "date": "2025-12-31",
+        "totalShares": 0.7873,
+        "totalAssets": 1.173,
+        "currentShares": 2423800,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Dodge & Cox Balanced Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.7537,
+        "totalAssets": 0.8606,
+        "currentShares": 2320228,
+        "change": 73445,
+        "change_p": 3.2689
+      },
+      "19": {
+        "name": "Dodge & Cox Balanced I",
+        "date": "2025-12-31",
+        "totalShares": 0.7537,
+        "totalAssets": 0.8655,
+        "currentShares": 2320228,
+        "change": 73445,
+        "change_p": 3.2689
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 38.4214,
+    "ForwardPE": 20.7039,
+    "PriceSalesTTM": 4.5219,
+    "PriceBookMRQ": 2.9143,
+    "EnterpriseValue": 21738217917,
+    "EnterpriseValueRevenue": 5.2267,
+    "EnterpriseValueEbitda": 18.735
+  },
+  "Highlights": {
+    "MarketCapitalization": 18807117824,
+    "MarketCapitalizationMln": 18807.1178,
+    "EBITDA": 1158200064,
+    "PERatio": 38.4214,
+    "PEGRatio": 1.2896,
+    "WallStreetTargetPrice": 62.2667,
+    "BookValue": 20.592,
+    "DividendShare": 0.28,
+    "DividendYield": 0.0046,
+    "EarningsShare": 1.59,
+    "EPSEstimateCurrentYear": 2.9618,
+    "EPSEstimateNextYear": 3.1907,
+    "EPSEstimateNextQuarter": 0.6338,
+    "EPSEstimateCurrentQuarter": 0.8383,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1393,
+    "OperatingMarginTTM": 0.2013,
+    "ReturnOnAssetsTTM": 0.0313,
+    "ReturnOnEquityTTM": 0.064,
+    "RevenueTTM": 4159099904,
+    "RevenuePerShareTTM": 12.527,
+    "QuarterlyRevenueGrowthYOY": 0.046,
+    "GrossProfitTTM": 2641100032,
+    "DilutedEpsTTM": 1.59,
+    "QuarterlyEarningsGrowthYOY": -0.026
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 35.47,
+    "TotalEsgPercentile": 65.98,
+    "EnvironmentScore": 15.05,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 19.6,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 14.31,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FTV",
+    "Type": "Common Stock",
+    "Name": "Fortive Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00BLVZ228",
+    "ISIN": "US34959J1088",
+    "LEI": "549300MU9YQJYHDQEF63",
+    "PrimaryTicker": "FTV.US",
+    "CUSIP": "34959J108",
+    "CIK": "0001659166",
+    "EmployerIdNumber": "47-5654583",
+    "FiscalYearEnd": "December",
+    "IPODate": "2016-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Scientific & Technical Instruments",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Fortive Corporation designs, develops, manufactures, and markets products, software, and services in the United States, China, and internationally. It operates through Intelligent Operating Solutions and Advanced Healthcare Solutions segments. The Intelligent Operating Solutions segment provides advanced instrumentation, software, and services, including maintenance, repair, measurement and condition monitoring, facility and asset lifecycle software applications, and connected worker safety and compliance solutions for manufacturing, process industries, healthcare, utilities and power, communications and electronics, and other industries. This segment markets its products and services under the ACCRUENT, FLUKE, GORDIAN, INDUSTRIAL SCIENTIFIC, INTELEX, and SERVICECHANNEL brand names. The Advanced Healthcare Solutions segment provides critical workflow solutions comprising instrument sterilization, instrument tracking, biomedical test tools, radiation detection and safety monitoring, and end-to-end clinical productivity software and solutions under the ASP, CENSIS, FLUKE BIOMEDICAL, LANDAUER, and PROVATION brand names. Fortive Corporation was incorporated in 2015 and is headquartered in Everett, Washington.",
+    "Address": "6920 Seaway Boulevard, Everett, WA, United States, 98203",
+    "AddressData": {
+      "Street": "6920 Seaway Boulevard",
+      "City": "Everett",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98203"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Olumide O. Soroye J.D.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. Mark D. Okerstrom J.D.",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Christopher M. Mulhall",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Victor P. Fetter III",
+        "Title": "Senior VP & Chief Technology and Business System Officer",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Ms. Christina  Jones",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Peter C. Underwood J.D.",
+        "Title": "Senior VP & Chief Legal Officer",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Ms. Amee  Desjourdy",
+        "Title": "Senior VP & Chief People Officer",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Mr. Parker  Burke",
+        "Title": "President of Fluke & Group President of Connected Reliability Group (CRG)",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Arul  Elumalai",
+        "Title": "President of Gordian and Group President of Facilities & Asset Lifecycle (FAL) Group",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Chad  Rohrer",
+        "Title": "President of ASP & Group President of Infection Prevention Group (IPG)",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "425 446 5000",
+    "WebURL": "https://www.fortive.com",
+    "LogoURL": "/img/logos/US/FTV.png",
+    "FullTimeEmployees": 10000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 307859190,
+    "SharesFloat": 286804700,
+    "PercentInsiders": 0.415,
+    "PercentInstitutions": 108.739,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0581
+  }
+}

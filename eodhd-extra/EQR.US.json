@@ -1,0 +1,582 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.4067,
+        "totalAssets": 0.0528,
+        "currentShares": 57724920,
+        "change": 127262,
+        "change_p": 0.2209
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.4128,
+        "totalAssets": 0.0442,
+        "currentShares": 39014253,
+        "change": 442819,
+        "change_p": 1.148
+      },
+      "2": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 9.3214,
+        "totalAssets": 0.2355,
+        "currentShares": 34925031,
+        "change": 80037,
+        "change_p": 0.2297
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.6519,
+        "totalAssets": 0.0565,
+        "currentShares": 24922935,
+        "change": 688854,
+        "change_p": 2.8425
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 5.3025,
+        "totalAssets": 0.1376,
+        "currentShares": 19867245,
+        "change": -927721,
+        "change_p": -4.4613
+      },
+      "5": {
+        "name": "Apg Investments Us Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.0283,
+        "totalAssets": 5.6019,
+        "currentShares": 11346098,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7379,
+        "totalAssets": 0.0398,
+        "currentShares": 10258275,
+        "change": 114604,
+        "change_p": 1.1298
+      },
+      "7": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4667,
+        "totalAssets": 1.0253,
+        "currentShares": 9242013,
+        "change": 44127,
+        "change_p": 0.4798
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0547,
+        "totalAssets": 0.0247,
+        "currentShares": 7698284,
+        "change": -112640,
+        "change_p": -1.4421
+      },
+      "9": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.7987,
+        "totalAssets": 0.22,
+        "currentShares": 6739250,
+        "change": -209798,
+        "change_p": -3.0191
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6633,
+        "totalAssets": 0.0516,
+        "currentShares": 6231961,
+        "change": 34625,
+        "change_p": 0.5587
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6096,
+        "totalAssets": 0.0615,
+        "currentShares": 6030868,
+        "change": -1988158,
+        "change_p": -24.793
+      },
+      "12": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5423,
+        "totalAssets": 0.0112,
+        "currentShares": 5778770,
+        "change": 2535588,
+        "change_p": 78.1821
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4333,
+        "totalAssets": 0.071,
+        "currentShares": 5370352,
+        "change": 170717,
+        "change_p": 3.2832
+      },
+      "14": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3941,
+        "totalAssets": 0.073,
+        "currentShares": 5223500,
+        "change": 178057,
+        "change_p": 3.5291
+      },
+      "15": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2346,
+        "totalAssets": 0.0453,
+        "currentShares": 4625583,
+        "change": 245781,
+        "change_p": 5.6117
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2013,
+        "totalAssets": 0.0633,
+        "currentShares": 4500885,
+        "change": 4039752,
+        "change_p": 876.0492
+      },
+      "17": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.1334,
+        "totalAssets": 0.0872,
+        "currentShares": 4246675,
+        "change": -116628,
+        "change_p": -2.6729
+      },
+      "18": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 1.1153,
+        "totalAssets": 0.1762,
+        "currentShares": 4178665,
+        "change": 31880,
+        "change_p": 0.7688
+      },
+      "19": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9901,
+        "totalAssets": 0.0145,
+        "currentShares": 3709591,
+        "change": 36367,
+        "change_p": 0.9901
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.5907,
+        "totalAssets": 1.2246,
+        "currentShares": 13453506,
+        "change": -51652,
+        "change_p": -0.3825
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.04,
+        "totalAssets": 0.0337,
+        "currentShares": 11389955,
+        "change": -23711,
+        "change_p": -0.2077
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3365,
+        "totalAssets": 0.0364,
+        "currentShares": 8754364,
+        "change": -151605,
+        "change_p": -1.7023
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.068,
+        "totalAssets": 0.2306,
+        "currentShares": 7748270,
+        "change": -107826,
+        "change_p": -1.3725
+      },
+      "4": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.6521,
+        "totalAssets": 0.4966,
+        "currentShares": 6189955,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1794,
+        "totalAssets": 0.0363,
+        "currentShares": 4418728,
+        "change": -2400,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.176,
+        "totalAssets": 0.0372,
+        "currentShares": 4406245,
+        "change": 7264,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0582,
+        "totalAssets": 0.0361,
+        "currentShares": 3964932,
+        "change": -9800,
+        "change_p": -0.2466
+      },
+      "8": {
+        "name": "T. Rowe Price US Dividend Growth Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9648,
+        "totalAssets": 0.9487,
+        "currentShares": 3614790,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "T. Rowe Price Dividend Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.9192,
+        "totalAssets": 0.8987,
+        "currentShares": 3444044,
+        "change": -92446,
+        "change_p": -2.6141
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8848,
+        "totalAssets": 0.0869,
+        "currentShares": 3314999,
+        "change": -50463,
+        "change_p": -1.4994
+      },
+      "11": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8634,
+        "totalAssets": 1.2352,
+        "currentShares": 3235000,
+        "change": -155000,
+        "change_p": -4.5723
+      },
+      "12": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.8063,
+        "totalAssets": 1.1057,
+        "currentShares": 3021000,
+        "change": -89000,
+        "change_p": -2.8617
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7703,
+        "totalAssets": 0.2002,
+        "currentShares": 2886105,
+        "change": 8515,
+        "change_p": 0.2959
+      },
+      "14": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7598,
+        "totalAssets": 2.3005,
+        "currentShares": 2846843,
+        "change": -384,
+        "change_p": -0.0135
+      },
+      "15": {
+        "name": "T. Rowe Price Real Assets Tr I-D",
+        "date": "2026-03-31",
+        "totalShares": 0.6475,
+        "totalAssets": 0.7601,
+        "currentShares": 2426183,
+        "change": -20039,
+        "change_p": -0.8192
+      },
+      "16": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.6435,
+        "totalAssets": 1.5663,
+        "currentShares": 2410996,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6346,
+        "totalAssets": 1.4372,
+        "currentShares": 2377846,
+        "change": 16965,
+        "change_p": 0.7186
+      },
+      "18": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6227,
+        "totalAssets": 0.3972,
+        "currentShares": 2333108,
+        "change": 77147,
+        "change_p": 3.4197
+      },
+      "19": {
+        "name": "T. Rowe Price US Mid-Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5891,
+        "totalAssets": 0.9402,
+        "currentShares": 2207383,
+        "change": -7264,
+        "change_p": -0.328
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 21.3219,
+    "ForwardPE": 44.843,
+    "PriceSalesTTM": 7.5396,
+    "PriceBookMRQ": 2.1292,
+    "EnterpriseValue": 31914207145,
+    "EnterpriseValueRevenue": 10.315,
+    "EnterpriseValueEbitda": 12.7526
+  },
+  "Highlights": {
+    "MarketCapitalization": 23327248384,
+    "MarketCapitalizationMln": 23327.2484,
+    "EBITDA": 1882163968,
+    "PERatio": 21.3219,
+    "PEGRatio": 8.1454,
+    "WallStreetTargetPrice": 69.881,
+    "BookValue": 29.18,
+    "DividendShare": 2.77,
+    "DividendYield": 0.0442,
+    "EarningsShare": 2.92,
+    "EPSEstimateCurrentYear": 1.3219,
+    "EPSEstimateNextYear": 1.4932,
+    "EPSEstimateNextQuarter": 0.3189,
+    "EPSEstimateCurrentQuarter": 0.3821,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.362,
+    "OperatingMarginTTM": 0.2851,
+    "ReturnOnAssetsTTM": 0.0262,
+    "ReturnOnEquityTTM": 0.1002,
+    "RevenueTTM": 3093958912,
+    "RevenuePerShareTTM": 8.15,
+    "QuarterlyRevenueGrowthYOY": 0.02,
+    "GrossProfitTTM": 1945432064,
+    "DilutedEpsTTM": 2.92,
+    "QuarterlyEarningsGrowthYOY": -0.088
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.49,
+    "TotalEsgPercentile": 10.54,
+    "EnvironmentScore": 6.78,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 7.85,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 8.35,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EQR",
+    "Type": "Common Stock",
+    "Name": "Equity Residential",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BG8M31",
+    "ISIN": "US29476L1070",
+    "LEI": "5493008RACSH5EP3PI59",
+    "PrimaryTicker": "EQR.US",
+    "CUSIP": "29476L784",
+    "CIK": "0000906107",
+    "EmployerIdNumber": "13-3675988",
+    "FiscalYearEnd": "December",
+    "IPODate": "1993-08-11",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Residential REITs",
+    "GicSubIndustry": "Multi-Family Residential REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Equity Residential is committed to creating communities where people thrive. The Company, a member of the S&P 500, owns and manages 312 rental properties consisting of 85,190 apartment units in dynamic metro areas across the U.S. with a primary concentration in major coastal markets, diversified by a targeted presence in the high-growth metro areas of Atlanta, Austin, Dallas/Ft. Worth and Denver. Equity Residential was incorporated in 1993 in Maryland, USA.",
+    "Address": "Two North Riverside Plaza, Chicago, IL, United States, 60606-2609",
+    "AddressData": {
+      "Street": "Two North Riverside Plaza",
+      "City": "Chicago",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60606-2609"
+    },
+    "Listings": {
+      "0": {
+        "Code": "EQR",
+        "Exchange": "F",
+        "Name": "Equity Residential"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark J. Parrell J.D.",
+        "Title": "President, CEO & Trustee",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Bret D.S. McLeod",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1982"
+      },
+      "2": {
+        "Name": "Mr. Michael L. Manelis",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Robert A. Garechana",
+        "Title": "Executive VP & Chief Investment Officer",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Mr. Scott J. Fenster J.D.",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Mr. Ian S. Kaufman",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Martin J. McKenna",
+        "Title": "First Vice President of Investor & Public Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Catherine M. Carraway",
+        "Title": "Executive VP & Chief HR Officer",
+        "YearBorn": "1961"
+      }
+    },
+    "Phone": "312 474 1300",
+    "WebURL": "https://www.equityapartments.com",
+    "LogoURL": "/img/logos/US/eqr.png",
+    "FullTimeEmployees": 2400,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 374674719,
+    "SharesFloat": 339618726,
+    "PercentInsiders": 0.588,
+    "PercentInstitutions": 97.602,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0293
+  }
+}

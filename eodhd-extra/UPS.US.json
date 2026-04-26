@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.0615,
+        "totalAssets": 0.0985,
+        "currentShares": 68496420,
+        "change": 1218432,
+        "change_p": 1.811
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.6738,
+        "totalAssets": 0.0705,
+        "currentShares": 48208418,
+        "change": -1941262,
+        "change_p": -3.8709
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.6559,
+        "totalAssets": 0.09,
+        "currentShares": 31063250,
+        "change": 288720,
+        "change_p": 0.9382
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.2965,
+        "totalAssets": 0.1417,
+        "currentShares": 28009332,
+        "change": 7551774,
+        "change_p": 36.9143
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.1945,
+        "totalAssets": 0.4183,
+        "currentShares": 27142759,
+        "change": 856125,
+        "change_p": 3.2569
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0189,
+        "totalAssets": 0.1051,
+        "currentShares": 17154091,
+        "change": 240253,
+        "change_p": 1.4205
+      },
+      "6": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6263,
+        "totalAssets": 0.7735,
+        "currentShares": 13818314,
+        "change": 5826824,
+        "change_p": 72.9129
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.349,
+        "totalAssets": 0.0649,
+        "currentShares": 11462160,
+        "change": 2811041,
+        "change_p": 32.4934
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2575,
+        "totalAssets": 0.054,
+        "currentShares": 10684511,
+        "change": 1019029,
+        "change_p": 10.543
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1044,
+        "totalAssets": 0.0235,
+        "currentShares": 9383670,
+        "change": -196031,
+        "change_p": -2.0463
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.0708,
+        "totalAssets": 0.0965,
+        "currentShares": 9098158,
+        "change": 659067,
+        "change_p": 7.8097
+      },
+      "11": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8844,
+        "totalAssets": 0.0983,
+        "currentShares": 7514800,
+        "change": 1153051,
+        "change_p": 18.1247
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8378,
+        "totalAssets": 0.0761,
+        "currentShares": 7118896,
+        "change": -351858,
+        "change_p": -4.7098
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7914,
+        "totalAssets": 0.0885,
+        "currentShares": 6724265,
+        "change": 993461,
+        "change_p": 17.3355
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.739,
+        "totalAssets": 0.0764,
+        "currentShares": 6278667,
+        "change": 1960170,
+        "change_p": 45.3901
+      },
+      "15": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.612,
+        "totalAssets": 0.2706,
+        "currentShares": 5200135,
+        "change": 3314166,
+        "change_p": 175.7275
+      },
+      "16": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.5611,
+        "totalAssets": 0.0653,
+        "currentShares": 4767551,
+        "change": -4280517,
+        "change_p": -47.3086
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.5609,
+        "totalAssets": 0.0992,
+        "currentShares": 4765980,
+        "change": -306302,
+        "change_p": -6.0387
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5268,
+        "totalAssets": 0.0671,
+        "currentShares": 4476090,
+        "change": -100076,
+        "change_p": -2.1869
+      },
+      "19": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.5188,
+        "totalAssets": 0.0394,
+        "currentShares": 4407724,
+        "change": -807788,
+        "change_p": -15.4882
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.7806,
+        "totalAssets": 0.1164,
+        "currentShares": 23625968,
+        "change": 247579,
+        "change_p": 1.059
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2147,
+        "totalAssets": 0.1301,
+        "currentShares": 18817501,
+        "change": -190376,
+        "change_p": -1.0016
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.949,
+        "totalAssets": 1.8663,
+        "currentShares": 16560490,
+        "change": 27600,
+        "change_p": 0.1669
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.118,
+        "totalAssets": 0.1298,
+        "currentShares": 9499244,
+        "change": -5172,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1068,
+        "totalAssets": 0.1456,
+        "currentShares": 9404567,
+        "change": 15498,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0102,
+        "totalAssets": 0.1299,
+        "currentShares": 8583034,
+        "change": -21070,
+        "change_p": -0.2449
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8091,
+        "totalAssets": 0.2997,
+        "currentShares": 6874892,
+        "change": -14208,
+        "change_p": -0.2062
+      },
+      "7": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.5651,
+        "totalAssets": 0.2521,
+        "currentShares": 4801233,
+        "change": 1117428,
+        "change_p": 30.3335
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.49,
+        "totalAssets": 0.1298,
+        "currentShares": 4163618,
+        "change": -23668,
+        "change_p": -0.5652
+      },
+      "9": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4833,
+        "totalAssets": 1.4375,
+        "currentShares": 4106468,
+        "change": -28440,
+        "change_p": -0.6878
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4643,
+        "totalAssets": 0.1284,
+        "currentShares": 3944824,
+        "change": 5500,
+        "change_p": 0.1396
+      },
+      "11": {
+        "name": "Victory Pioneer A",
+        "date": "2026-01-31",
+        "totalShares": 0.4397,
+        "totalAssets": 3.7961,
+        "currentShares": 3736205,
+        "change": 161030,
+        "change_p": 4.5041
+      },
+      "12": {
+        "name": "Pioneer US Large Core Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.425,
+        "totalAssets": 3.5399,
+        "currentShares": 3611084,
+        "change": 1016360,
+        "change_p": 39.1703
+      },
+      "13": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3928,
+        "totalAssets": 0.1296,
+        "currentShares": 3337778,
+        "change": 19161,
+        "change_p": 0.5774
+      },
+      "14": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3448,
+        "totalAssets": 0.1254,
+        "currentShares": 2929802,
+        "change": -23672,
+        "change_p": -0.8015
+      },
+      "15": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3448,
+        "totalAssets": 0.1254,
+        "currentShares": 2929802,
+        "change": 2929802,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3448,
+        "totalAssets": 0.1254,
+        "currentShares": 2929802,
+        "change": -23672,
+        "change_p": -0.8015
+      },
+      "17": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3382,
+        "totalAssets": 0.3172,
+        "currentShares": 2873679,
+        "change": -113427,
+        "change_p": -3.7972
+      },
+      "18": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.336,
+        "totalAssets": 1.5459,
+        "currentShares": 2854784,
+        "change": -982,
+        "change_p": -0.0344
+      },
+      "19": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3148,
+        "totalAssets": 0.1293,
+        "currentShares": 2674821,
+        "change": -3364,
+        "change_p": -0.1256
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.314,
+    "ForwardPE": 15.0602,
+    "PriceSalesTTM": 1.0256,
+    "PriceBookMRQ": 5.6404,
+    "EnterpriseValue": 114229764464,
+    "EnterpriseValueRevenue": 1.2884,
+    "EnterpriseValueEbitda": 9.5774
+  },
+  "Highlights": {
+    "MarketCapitalization": 90931986432,
+    "MarketCapitalizationMln": 90931.9864,
+    "EBITDA": 12211999744,
+    "PERatio": 16.314,
+    "PEGRatio": 1.6465,
+    "WallStreetTargetPrice": 112.5556,
+    "BookValue": 19.113,
+    "DividendShare": 6.56,
+    "DividendYield": 0.0609,
+    "EarningsShare": 6.56,
+    "EPSEstimateCurrentYear": 7.0151,
+    "EPSEstimateNextYear": 7.9139,
+    "EPSEstimateNextQuarter": 1.4211,
+    "EPSEstimateCurrentQuarter": 2.2008,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0629,
+    "OperatingMarginTTM": 0.1075,
+    "ReturnOnAssetsTTM": 0.0744,
+    "ReturnOnEquityTTM": 0.3377,
+    "RevenueTTM": 88661000192,
+    "RevenuePerShareTTM": 104.43,
+    "QuarterlyRevenueGrowthYOY": -0.032,
+    "GrossProfitTTM": 20038000640,
+    "DilutedEpsTTM": 6.56,
+    "QuarterlyEarningsGrowthYOY": 0.046
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.34,
+    "TotalEsgPercentile": 28.42,
+    "EnvironmentScore": 8.62,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 12.03,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 9.2,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "UPS",
+    "Type": "Common Stock",
+    "Name": "United Parcel Service Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000L9CV04",
+    "ISIN": "US9113121068",
+    "LEI": "D01LMJZU09ULLNCY6Z23",
+    "PrimaryTicker": "UPS.US",
+    "CUSIP": "911312106",
+    "CIK": "0001090727",
+    "EmployerIdNumber": "58-2480149",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-11-10",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Integrated Freight & Logistics",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Air Freight & Logistics",
+    "GicSubIndustry": "Air Freight & Logistics",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "United Parcel Service, Inc., a package delivery and logistics provider, offers transportation and delivery services. It operates through two segments, U.S. Domestic Package and International Package. The U.S. Domestic Package segment offers time-definite delivery services for express letters, documents, packages and palletized freight through air and ground services. The International Package segment provides small package operations in Europe, the Middle East and Africa, Canada and Latin America, and Asia. The company offers a range of guaranteed day- and time-definite international transportation services; day-definite services; cross-border ground package delivery; contract-only, e-commerce solutions for non-urgent, and cross-border shipments; and international service for urgent and palletized shipments. It also provides international air and ocean freight forwarding, contract logistics, customs brokerage and insurance, mail services, healthcare logistics, distribution, and post-sales services. United Parcel Service, Inc. was founded in 1907 and is headquartered in Atlanta, Georgia.",
+    "Address": "55 Glenlake Parkway, N.E., Atlanta, GA, United States, 30328",
+    "AddressData": {
+      "Street": "55 Glenlake Parkway, N.E.",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30328"
+    },
+    "Listings": {
+      "0": {
+        "Code": "UPSS34",
+        "Exchange": "SA",
+        "Name": "United Parcel Service Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Carol B. Tome",
+        "Title": "CEO & Director",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. Brian  Dykes",
+        "Title": "Chief Financial Officer & Executive Vice President",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Mr. Bala  Subramanian",
+        "Title": "EVP and Chief Digital & Technology Officer",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Ms. Kathleen M. Gutmann",
+        "Title": "Executive VP and President of International, Healthcare & Supply Chain Solutions",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Nando  Cesarone",
+        "Title": "Executive VP & President of U.S. and UPS Airline",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "PJ  Guido",
+        "Title": "Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Norman M. Brothers Jr.",
+        "Title": "Executive VP, Chief Legal, Compliance Officer & Corporate Secretary",
+        "YearBorn": "1968"
+      },
+      "7": {
+        "Name": "Mr. Darrell L. Ford",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1965"
+      },
+      "8": {
+        "Name": "Mr. Ralph  Ozoude",
+        "Title": "Managing Director of Nigerian Operations & Special Projects Manager for West Africa",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Harrison  Park",
+        "Title": "Managing Director of UPS Korea",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "404 828 6000",
+    "WebURL": "https://www.ups.com",
+    "LogoURL": "/img/logos/US/UPS.png",
+    "FullTimeEmployees": 241250,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 745633402,
+    "SharesFloat": 744390491,
+    "PercentInsiders": 0.023,
+    "PercentInstitutions": 70.07600000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.022
+  }
+}

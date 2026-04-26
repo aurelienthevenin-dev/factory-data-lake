@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4056,
+        "totalAssets": 0.0471,
+        "currentShares": 14965462,
+        "change": -317489,
+        "change_p": -2.0774
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6066,
+        "totalAssets": 0.0412,
+        "currentShares": 9176246,
+        "change": 126703,
+        "change_p": 1.4001
+      },
+      "2": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 6.2645,
+        "totalAssets": 2.0724,
+        "currentShares": 7557127,
+        "change": 1723439,
+        "change_p": 29.5429
+      },
+      "3": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 5.3375,
+        "totalAssets": 0.219,
+        "currentShares": 6438868,
+        "change": -3995916,
+        "change_p": -38.2942
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.9359,
+        "totalAssets": 0.1634,
+        "currentShares": 5954420,
+        "change": 60210,
+        "change_p": 1.0215
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1366,
+        "totalAssets": 0.0444,
+        "currentShares": 4990152,
+        "change": 21255,
+        "change_p": 0.4278
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.8457,
+        "totalAssets": 0.0721,
+        "currentShares": 4639238,
+        "change": 749502,
+        "change_p": 19.2687
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 3.6014,
+        "totalAssets": 0.304,
+        "currentShares": 4344531,
+        "change": 1145921,
+        "change_p": 35.8256
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6236,
+        "totalAssets": 0.0422,
+        "currentShares": 3165022,
+        "change": -11275,
+        "change_p": -0.355
+      },
+      "9": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.3292,
+        "totalAssets": 0.8506,
+        "currentShares": 2809879,
+        "change": 1022819,
+        "change_p": 57.2347
+      },
+      "10": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1798,
+        "totalAssets": 1.5314,
+        "currentShares": 2629596,
+        "change": -387333,
+        "change_p": -12.8387
+      },
+      "11": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5679,
+        "totalAssets": 0.1623,
+        "currentShares": 1891431,
+        "change": 134822,
+        "change_p": 7.6751
+      },
+      "12": {
+        "name": "Cantillon Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4291,
+        "totalAssets": 2.0227,
+        "currentShares": 1723998,
+        "change": 12995,
+        "change_p": 0.7595
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3308,
+        "totalAssets": 0.0649,
+        "currentShares": 1605450,
+        "change": -15784,
+        "change_p": -0.9736
+      },
+      "14": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.3292,
+        "totalAssets": 0.2875,
+        "currentShares": 1603415,
+        "change": 823116,
+        "change_p": 105.4873
+      },
+      "15": {
+        "name": "Generation Investment Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.3028,
+        "totalAssets": 2.3654,
+        "currentShares": 1571674,
+        "change": -1164793,
+        "change_p": -42.5656
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2732,
+        "totalAssets": 0.0118,
+        "currentShares": 1535964,
+        "change": 931848,
+        "change_p": 154.2498
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2139,
+        "totalAssets": 0.039,
+        "currentShares": 1464333,
+        "change": 697601,
+        "change_p": 90.9837
+      },
+      "18": {
+        "name": "Mitsubishi UFJ Asset Management Co.,Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.1222,
+        "totalAssets": 0.1964,
+        "currentShares": 1353809,
+        "change": -26203,
+        "change_p": -1.8988
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.053,
+        "totalAssets": 0.0295,
+        "currentShares": 1270323,
+        "change": -19422,
+        "change_p": -1.5059
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.167,
+        "totalAssets": 0.0345,
+        "currentShares": 3820473,
+        "change": -52263,
+        "change_p": -1.3495
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5415,
+        "totalAssets": 0.0388,
+        "currentShares": 3065869,
+        "change": -82385,
+        "change_p": -2.6168
+      },
+      "2": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 2.4588,
+        "totalAssets": 1.1078,
+        "currentShares": 2966145,
+        "change": 233067,
+        "change_p": 8.5276
+      },
+      "3": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 2.2997,
+        "totalAssets": 1.0966,
+        "currentShares": 2774255,
+        "change": 626555,
+        "change_p": 29.1733
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1537,
+        "totalAssets": 0.2354,
+        "currentShares": 2598149,
+        "change": -61993,
+        "change_p": -2.3304
+      },
+      "5": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.9155,
+        "totalAssets": 1.9513,
+        "currentShares": 2310700,
+        "change": 120000,
+        "change_p": 5.4777
+      },
+      "6": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.5222,
+        "totalAssets": 0.1079,
+        "currentShares": 1836313,
+        "change": 1205402,
+        "change_p": 191.0574
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2912,
+        "totalAssets": 0.0435,
+        "currentShares": 1557619,
+        "change": 2569,
+        "change_p": 0.1652
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2827,
+        "totalAssets": 0.0387,
+        "currentShares": 1547389,
+        "change": -840,
+        "change_p": -0.0543
+      },
+      "9": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.2395,
+        "totalAssets": 0.5113,
+        "currentShares": 1495300,
+        "change": 852338,
+        "change_p": 132.5643
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1514,
+        "totalAssets": 0.0385,
+        "currentShares": 1389008,
+        "change": -3430,
+        "change_p": -0.2463
+      },
+      "11": {
+        "name": "Oakmark Select Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.0536,
+        "totalAssets": 3.3755,
+        "currentShares": 1271000,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.957,
+        "totalAssets": 0.4845,
+        "currentShares": 1154466,
+        "change": 352138,
+        "change_p": 43.8895
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9215,
+        "totalAssets": 0.0887,
+        "currentShares": 1111600,
+        "change": 542069,
+        "change_p": 95.1781
+      },
+      "14": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8885,
+        "totalAssets": 0.0968,
+        "currentShares": 1071846,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8885,
+        "totalAssets": 0.1117,
+        "currentShares": 1071846,
+        "change": -1325153,
+        "change_p": -55.2838
+      },
+      "16": {
+        "name": "MS INVF Global Brands A",
+        "date": "2025-12-31",
+        "totalShares": 0.7995,
+        "totalAssets": 1.2643,
+        "currentShares": 964515,
+        "change": -39028,
+        "change_p": -3.889
+      },
+      "17": {
+        "name": "Morgan Stanley Glbl Franchise",
+        "date": "2025-12-31",
+        "totalShares": 0.7995,
+        "totalAssets": 1.2582,
+        "currentShares": 964515,
+        "change": -120989,
+        "change_p": -11.1459
+      },
+      "18": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.771,
+        "totalAssets": 0.124,
+        "currentShares": 930041,
+        "change": 181076,
+        "change_p": 24.1768
+      },
+      "19": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7583,
+        "totalAssets": 0.5638,
+        "currentShares": 914784,
+        "change": -101461,
+        "change_p": -9.9839
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.418,
+    "ForwardPE": 20.5761,
+    "PriceSalesTTM": 3.3123,
+    "PriceBookMRQ": 4.5873,
+    "EnterpriseValue": 25954036506,
+    "EnterpriseValueRevenue": 4.1319,
+    "EnterpriseValueEbitda": 13.691
+  },
+  "Highlights": {
+    "MarketCapitalization": 20805849088,
+    "MarketCapitalizationMln": 20805.8491,
+    "EBITDA": 1928899968,
+    "PERatio": 30.418,
+    "PEGRatio": 1.713,
+    "WallStreetTargetPrice": 230.1429,
+    "BookValue": 38.061,
+    "DividendShare": 2.06,
+    "DividendYield": 0.0118,
+    "EarningsShare": 5.67,
+    "EPSEstimateCurrentYear": 8.6045,
+    "EPSEstimateNextYear": 10.2806,
+    "EPSEstimateNextQuarter": 2.2235,
+    "EPSEstimateCurrentQuarter": 1.6951,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1112,
+    "OperatingMarginTTM": 0.1745,
+    "ReturnOnAssetsTTM": 0.0627,
+    "ReturnOnEquityTTM": 0.1437,
+    "RevenueTTM": 6281399808,
+    "RevenuePerShareTTM": 51.413,
+    "QuarterlyRevenueGrowthYOY": 0.143,
+    "GrossProfitTTM": 3525400064,
+    "DilutedEpsTTM": 5.67,
+    "QuarterlyEarningsGrowthYOY": 0.34
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.57,
+    "TotalEsgPercentile": 49.24,
+    "EnvironmentScore": 4.14,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 23.35,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 9.08,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 5,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EFX",
+    "Type": "Common Stock",
+    "Name": "Equifax Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BHPL78",
+    "ISIN": "US2944291051",
+    "LEI": "5493004MCF8JDC86VS77",
+    "PrimaryTicker": "EFX.US",
+    "CUSIP": "294429105",
+    "CIK": "0000033185",
+    "EmployerIdNumber": "58-0401110",
+    "FiscalYearEnd": "December",
+    "IPODate": "1971-05-11",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Consulting Services",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Professional Services",
+    "GicSubIndustry": "Research & Consulting Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Equifax Inc. operates as a data, analytics, and technology company. The company operates through three segments: Workforce Solutions, U.S. Information Solutions (USIS), and International. The Workforce Solutions segment offers services that enables customers to verify income, employment, educational history, criminal justice data, healthcare professional licensure, and sanctions of people in the United States; and employer customers with services that that assist them in complying with and automating certain payroll-related and human resource management processes throughout the entire cycle of the employment relationship. The U.S. Information Solutions segment provides consumer and commercial information services, such as credit information and credit scoring, credit modeling and portfolio analytics, locate, fraud detection and prevention, identity verification, and other consulting services; mortgage services; financial marketing services; identity management services; and credit monitoring products. The International segment offers information service products, which include consumer and commercial services comprising credit and financial information, and credit scoring and modeling; and credit and other marketing products and services, as well as information, technology, and services to support debt collections and recovery management. The company also provides information solutions for businesses, governments and consumers; and human resources business process automation and outsourcing services for employers. It operates in Argentina, Australia, Brazil, Canada, Chile, Costa Rica, Dominican Republic, Ecuador, El Salvador, Honduras, India, Ireland, Mexico, New Zealand, Paraguay, Peru, Portugal, Spain, the United Kingdom, Uruguay, and the United States. The company was founded in 1899 and is headquartered in Atlanta, Georgia.",
+    "Address": "1550 Peachtree Street, NW, Atlanta, GA, United States, 30309",
+    "AddressData": {
+      "Street": "1550 Peachtree Street, NW",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30309"
+    },
+    "Listings": {
+      "0": {
+        "Code": "EFX",
+        "Exchange": "F",
+        "Name": "Equifax Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark W. Begor",
+        "Title": "CEO & Director",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. John W. Gamble Jr.",
+        "Title": "Executive VP, CFO & COO",
+        "YearBorn": "1963"
+      },
+      "2": {
+        "Name": "Mr. Jamil  Farshchi",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Ms. Julia A. Houston",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Chad M. Borton",
+        "Title": "Executive VP & President of Workforce Solutions",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. James M. Griggs",
+        "Title": "Chief Accounting Officer & Corporate Controller",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Trevor  Burns",
+        "Title": "Senior Vice President of Corporate Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Kathryn Q. Walker",
+        "Title": "Executive VP and Chief Marketing & Communications Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Mr. Sunil  Bindal",
+        "Title": "Executive VP & Chief Corporate Development and Strategy Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Ms. Carla J. Chaney",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "404 885 8000",
+    "WebURL": "https://www.equifax.com",
+    "LogoURL": "/img/logos/US/efx.png",
+    "FullTimeEmployees": 15000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 119072409,
+    "SharesFloat": 118569923,
+    "PercentInsiders": 0.637,
+    "PercentInstitutions": 100.44,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0462
+  }
+}

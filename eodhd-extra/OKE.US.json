@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.3174,
+        "totalAssets": 0.0827,
+        "currentShares": 77603334,
+        "change": 380744,
+        "change_p": 0.493
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.8535,
+        "totalAssets": 0.0713,
+        "currentShares": 55779524,
+        "change": -784851,
+        "change_p": -1.3875
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6,
+        "totalAssets": 0.0957,
+        "currentShares": 37801944,
+        "change": -89074,
+        "change_p": -0.2351
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.5926,
+        "totalAssets": 0.2585,
+        "currentShares": 22634512,
+        "change": 599248,
+        "change_p": 2.7195
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6342,
+        "totalAssets": 0.075,
+        "currentShares": 16596172,
+        "change": 518746,
+        "change_p": 3.2265
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8274,
+        "totalAssets": 0.0509,
+        "currentShares": 11513056,
+        "change": 243862,
+        "change_p": 2.164
+      },
+      "6": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8039,
+        "totalAssets": 1.4701,
+        "currentShares": 11365304,
+        "change": 3596089,
+        "change_p": 46.2864
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5734,
+        "totalAssets": 0.0217,
+        "currentShares": 9913126,
+        "change": 4832281,
+        "change_p": 95.1078
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4157,
+        "totalAssets": 0.1025,
+        "currentShares": 8919098,
+        "change": 532267,
+        "change_p": 6.3465
+      },
+      "9": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.2665,
+        "totalAssets": 0.0919,
+        "currentShares": 7979597,
+        "change": 7979597,
+        "change_p": 0
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2198,
+        "totalAssets": 0.0604,
+        "currentShares": 7685265,
+        "change": 790343,
+        "change_p": 11.4627
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0863,
+        "totalAssets": 0.0617,
+        "currentShares": 6843908,
+        "change": 803631,
+        "change_p": 13.3045
+      },
+      "12": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0084,
+        "totalAssets": 0.0726,
+        "currentShares": 6353026,
+        "change": 969741,
+        "change_p": 18.0139
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0042,
+        "totalAssets": 0.0591,
+        "currentShares": 6326888,
+        "change": -126691,
+        "change_p": -1.9631
+      },
+      "14": {
+        "name": "Tortoise Midstream Energy Fund, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9177,
+        "totalAssets": 5.4073,
+        "currentShares": 5781533,
+        "change": 491950,
+        "change_p": 9.3004
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8515,
+        "totalAssets": 0.0827,
+        "currentShares": 5364717,
+        "change": -68461,
+        "change_p": -1.2601
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7778,
+        "totalAssets": 0.0799,
+        "currentShares": 4900671,
+        "change": -317705,
+        "change_p": -6.0882
+      },
+      "17": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7727,
+        "totalAssets": 0.0937,
+        "currentShares": 4868076,
+        "change": 736647,
+        "change_p": 17.8303
+      },
+      "18": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7718,
+        "totalAssets": 0.0637,
+        "currentShares": 4862530,
+        "change": 21732,
+        "change_p": 0.4489
+      },
+      "19": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7039,
+        "totalAssets": 0.261,
+        "currentShares": 4435030,
+        "change": 347516,
+        "change_p": 8.5019
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Cushing Midstream Strategy",
+        "date": "2025-12-31",
+        "totalShares": 19.3572,
+        "totalAssets": 7.08,
+        "currentShares": 121956137,
+        "change": 3962881,
+        "change_p": 3.3586
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1743,
+        "totalAssets": 0.0905,
+        "currentShares": 19999241,
+        "change": 99030,
+        "change_p": 0.4976
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5431,
+        "totalAssets": 0.1018,
+        "currentShares": 16022238,
+        "change": -162775,
+        "change_p": -1.0057
+      },
+      "3": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3139,
+        "totalAssets": 3.0082,
+        "currentShares": 14578341,
+        "change": 149212,
+        "change_p": 1.0341
+      },
+      "4": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2381,
+        "totalAssets": 1.5558,
+        "currentShares": 14100772,
+        "change": 23460,
+        "change_p": 0.1667
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1595,
+        "totalAssets": 0.6189,
+        "currentShares": 13605488,
+        "change": -70952,
+        "change_p": -0.5188
+      },
+      "6": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 1.3051,
+        "totalAssets": 0.8639,
+        "currentShares": 8222844,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2838,
+        "totalAssets": 0.1015,
+        "currentShares": 8088393,
+        "change": -4404,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.271,
+        "totalAssets": 0.0885,
+        "currentShares": 8007763,
+        "change": 13200,
+        "change_p": 0.1651
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1578,
+        "totalAssets": 0.1014,
+        "currentShares": 7294652,
+        "change": -17934,
+        "change_p": -0.2452
+      },
+      "10": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 1.011,
+        "totalAssets": 0.4749,
+        "currentShares": 6369693,
+        "change": 3803373,
+        "change_p": 148.2034
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9239,
+        "totalAssets": 0.2331,
+        "currentShares": 5820657,
+        "change": -37543,
+        "change_p": -0.6409
+      },
+      "12": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.8269,
+        "totalAssets": 0.3059,
+        "currentShares": 5209644,
+        "change": 1341613,
+        "change_p": 34.6846
+      },
+      "13": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.7428,
+        "totalAssets": 0.387,
+        "currentShares": 4680069,
+        "change": 3399714,
+        "change_p": 265.529
+      },
+      "14": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7162,
+        "totalAssets": 1.83,
+        "currentShares": 4512433,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6502,
+        "totalAssets": 1.0658,
+        "currentShares": 4096679,
+        "change": 169368,
+        "change_p": 4.3126
+      },
+      "16": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6139,
+        "totalAssets": 0.1757,
+        "currentShares": 3868031,
+        "change": 3868031,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5627,
+        "totalAssets": 0.1015,
+        "currentShares": 3544997,
+        "change": -18463,
+        "change_p": -0.5181
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5331,
+        "totalAssets": 0.1005,
+        "currentShares": 3358956,
+        "change": 4700,
+        "change_p": 0.1401
+      },
+      "19": {
+        "name": "Vanguard Energy ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5056,
+        "totalAssets": 2.1604,
+        "currentShares": 3185505,
+        "change": 173709,
+        "change_p": 5.7676
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.1439,
+    "ForwardPE": 15.6495,
+    "PriceSalesTTM": 1.6393,
+    "PriceBookMRQ": 2.4436,
+    "EnterpriseValue": 87682970719,
+    "EnterpriseValueRevenue": 2.6074,
+    "EnterpriseValueEbitda": 11.2602
+  },
+  "Highlights": {
+    "MarketCapitalization": 55127674880,
+    "MarketCapitalizationMln": 55127.6749,
+    "EBITDA": 7336000000,
+    "PERatio": 16.1439,
+    "PEGRatio": 2.1959,
+    "WallStreetTargetPrice": 93.4286,
+    "BookValue": 35.707,
+    "DividendShare": 4.16,
+    "DividendYield": 0.0477,
+    "EarningsShare": 5.42,
+    "EPSEstimateCurrentYear": 5.7434,
+    "EPSEstimateNextYear": 6.2485,
+    "EPSEstimateNextQuarter": 1.3121,
+    "EPSEstimateCurrentQuarter": 1.4925,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1009,
+    "OperatingMarginTTM": 0.1698,
+    "ReturnOnAssetsTTM": 0.0557,
+    "ReturnOnEquityTTM": 0.1549,
+    "RevenueTTM": 33628999680,
+    "RevenuePerShareTTM": 53.824,
+    "QuarterlyRevenueGrowthYOY": 0.295,
+    "GrossProfitTTM": 10256000000,
+    "DilutedEpsTTM": 5.42,
+    "QuarterlyEarningsGrowthYOY": -0.015
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.59,
+    "TotalEsgPercentile": 36.28,
+    "EnvironmentScore": 10.6,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 6.63,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 0.36,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "OKE",
+    "Type": "Common Stock",
+    "Name": "ONEOK Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQHGR6",
+    "ISIN": "US6826801036",
+    "LEI": "2T3D6M0JSY48PSZI1Q41",
+    "PrimaryTicker": "OKE.US",
+    "CUSIP": "682680103",
+    "CIK": "0001039684",
+    "EmployerIdNumber": "73-1520922",
+    "FiscalYearEnd": "December",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Midstream",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Oil, Gas & Consumable Fuels",
+    "GicSubIndustry": "Oil & Gas Storage & Transportation",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "ONEOK, Inc. operates as a midstream service provider of gathering, processing, fractionation, transportation, storage, and marine export services in the United States. It operates in four segments: Natural Gas Gathering and Processing; Natural Gas Liquids; Natural Gas Pipelines; and Refined Products and Crude. The company owns natural gas gathering pipelines and processing plants in the Mid-Continent, Permian Basin, North Texas, Gulf Coast region, and Rocky Mountain regions; and provides midstream services to producers of NGLs. It also owns NGL gathering and distribution pipelines, fractionation, terminal and storage facilities; and transports refined products, including gasoline, diesel fuel, aviation fuel, kerosene, and heating oil. In addition, the company transports and stores natural gas through regulated interstate and intrastate natural gas transmission pipelines, and natural gas storage facilities; it owns and operates a parking garage in downtown Tulsa, Oklahoma; and leases buildings, warehouses, office space, land, and equipment, including pipeline equipment, pipeline capacity, rail cars, and information technology equipment. Further, the company transports, stores, and distributes refined products, purity NGLs, and crude oil, as well as conducts commodity-related activities, including liquids blending and marketing activities. It serves integrated and independent exploration and production companies; other NGL and natural gas gathering and processing companies; crude oil and natural gas production companies; utilities; industrial companies; natural gasoline distributors; propane distributors; municipalities; ethanol producers; petrochemical, refining, and marketing companies; and diluent users, refineries, and exporters. ONEOK, Inc. was founded in 1906 and is headquartered in Tulsa, Oklahoma.",
+    "Address": "100 West Fifth Street, Tulsa, OK, United States, 74103",
+    "AddressData": {
+      "Street": "100 West Fifth Street",
+      "City": "Tulsa",
+      "State": "OK",
+      "Country": "United States",
+      "ZIP": "74103"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Pierce H. Norton II",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Walter S. Hulse III",
+        "Title": "CFO, Treasurer and Executive VP of Investor Relations & Corporate Development",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Randy N. Lentz",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Lyndon C. Taylor J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Assistant Secretary",
+        "YearBorn": "1959"
+      },
+      "4": {
+        "Name": "Mr. Sheridan C. Swords",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Ms. Mary M. Spears",
+        "Title": "Senior VP and Chief Accounting Officer of Finance & Tax",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Mr. J. Darren Wallis",
+        "Title": "Senior Vice President of Communications & Community Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Brent D. Strehlow",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Kevin L. Burdick",
+        "Title": "Executive VP & Chief Enterprise Services Officer",
+        "YearBorn": "1965"
+      },
+      "9": {
+        "Name": "Mr. Scott D. Schingen",
+        "Title": "Senior Vice President of Engineering and Operations ? Natural Gas Liquids, Pipelines & Crude Oil",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "918 588 7000",
+    "WebURL": "https://www.oneok.com/",
+    "LogoURL": "/img/logos/US/OKE.png",
+    "FullTimeEmployees": 6326,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 630030624,
+    "SharesFloat": 627919474,
+    "PercentInsiders": 0.186,
+    "PercentInstitutions": 79.79899999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0463
+  }
+}

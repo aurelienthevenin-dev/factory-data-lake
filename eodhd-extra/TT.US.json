@@ -1,0 +1,584 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 14.0287,
+        "totalAssets": 0.3925,
+        "currentShares": 31050020,
+        "change": 16958573,
+        "change_p": 120.3466
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2505,
+        "totalAssets": 0.1676,
+        "currentShares": 22687591,
+        "change": 261052,
+        "change_p": 1.164
+      },
+      "2": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.0454,
+        "totalAssets": 0.113,
+        "currentShares": 20020321,
+        "change": 192270,
+        "change_p": 0.9697
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.9507,
+        "totalAssets": 0.2174,
+        "currentShares": 10957503,
+        "change": -457494,
+        "change_p": -4.0078
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5415,
+        "totalAssets": 0.1471,
+        "currentShares": 10051730,
+        "change": -25537,
+        "change_p": -0.2534
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3007,
+        "totalAssets": 0.1301,
+        "currentShares": 5092252,
+        "change": 91784,
+        "change_p": 1.8355
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2912,
+        "totalAssets": 0.1213,
+        "currentShares": 5071072,
+        "change": 14179,
+        "change_p": 0.2804
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3502,
+        "totalAssets": 0.1244,
+        "currentShares": 2988500,
+        "change": -111716,
+        "change_p": -3.6035
+      },
+      "8": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2146,
+        "totalAssets": 0.2606,
+        "currentShares": 2688223,
+        "change": -257559,
+        "change_p": -8.7433
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1731,
+        "totalAssets": 0.1402,
+        "currentShares": 2596418,
+        "change": -3819,
+        "change_p": -0.1469
+      },
+      "10": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.1686,
+        "totalAssets": 0.8677,
+        "currentShares": 2586506,
+        "change": 72998,
+        "change_p": 2.9042
+      },
+      "11": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1257,
+        "totalAssets": 0.1886,
+        "currentShares": 2491479,
+        "change": -70671,
+        "change_p": -2.7583
+      },
+      "12": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0951,
+        "totalAssets": 0.1653,
+        "currentShares": 2423883,
+        "change": 133846,
+        "change_p": 5.8447
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0946,
+        "totalAssets": 0.0693,
+        "currentShares": 2422690,
+        "change": 203766,
+        "change_p": 9.1831
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0539,
+        "totalAssets": 0.2137,
+        "currentShares": 2332682,
+        "change": -424568,
+        "change_p": -15.3982
+      },
+      "15": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9812,
+        "totalAssets": 0.2213,
+        "currentShares": 2171608,
+        "change": 36655,
+        "change_p": 1.7169
+      },
+      "16": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 0.9199,
+        "totalAssets": 0.7691,
+        "currentShares": 2036142,
+        "change": -69855,
+        "change_p": -3.317
+      },
+      "17": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8858,
+        "totalAssets": 0.2604,
+        "currentShares": 1960522,
+        "change": -23149,
+        "change_p": -1.167
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8435,
+        "totalAssets": 0.1234,
+        "currentShares": 1867024,
+        "change": 114474,
+        "change_p": 6.5319
+      },
+      "19": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8208,
+        "totalAssets": 0.1912,
+        "currentShares": 1816792,
+        "change": -221156,
+        "change_p": -10.8519
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1758,
+        "totalAssets": 0.1467,
+        "currentShares": 7029031,
+        "change": 14321,
+        "change_p": 0.2042
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5456,
+        "totalAssets": 0.165,
+        "currentShares": 5634185,
+        "change": -69701,
+        "change_p": -1.222
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.1646,
+        "currentShares": 2844972,
+        "change": -1548,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.275,
+        "totalAssets": 0.1742,
+        "currentShares": 2821909,
+        "change": 4654,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1583,
+        "totalAssets": 0.1643,
+        "currentShares": 2563616,
+        "change": -6321,
+        "change_p": -0.246
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.3777,
+        "currentShares": 2045568,
+        "change": -18759,
+        "change_p": -0.9087
+      },
+      "6": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.7917,
+        "totalAssets": 0.8345,
+        "currentShares": 1752389,
+        "change": 1429649,
+        "change_p": 442.9724
+      },
+      "7": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.678,
+        "totalAssets": 1.4284,
+        "currentShares": 1500694,
+        "change": 816,
+        "change_p": 0.0544
+      },
+      "8": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5937,
+        "totalAssets": 1.2479,
+        "currentShares": 1313971,
+        "change": 48706,
+        "change_p": 3.8495
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.1647,
+        "currentShares": 1246885,
+        "change": -9489,
+        "change_p": -0.7553
+      },
+      "10": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 0.556,
+        "totalAssets": 1.6007,
+        "currentShares": 1230651,
+        "change": -54500,
+        "change_p": -4.2407
+      },
+      "11": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 1.8238,
+        "currentShares": 1229893,
+        "change": -8520,
+        "change_p": -0.688
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.163,
+        "currentShares": 1181479,
+        "change": -560,
+        "change_p": -0.0474
+      },
+      "13": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.527,
+        "totalAssets": 1.5397,
+        "currentShares": 1166345,
+        "change": 1165448,
+        "change_p": 129927.3133
+      },
+      "14": {
+        "name": "JPMorgan US Equity L",
+        "date": "2026-02-28",
+        "totalShares": 0.5178,
+        "totalAssets": 1.6047,
+        "currentShares": 1146038,
+        "change": 101567,
+        "change_p": 9.7243
+      },
+      "15": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.4932,
+        "totalAssets": 0.9377,
+        "currentShares": 1091581,
+        "change": -18453,
+        "change_p": -1.6624
+      },
+      "16": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.4836,
+        "totalAssets": 0.981,
+        "currentShares": 1070391,
+        "change": -7658,
+        "change_p": -0.7104
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.1645,
+        "currentShares": 999671,
+        "change": 3919,
+        "change_p": 0.3936
+      },
+      "18": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.4267,
+        "totalAssets": 0.2573,
+        "currentShares": 944344,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4104,
+        "totalAssets": 3.2547,
+        "currentShares": 908421,
+        "change": 560,
+        "change_p": 0.0617
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.0465,
+    "ForwardPE": 32.8947,
+    "PriceSalesTTM": 5.0445,
+    "PriceBookMRQ": 12.5142,
+    "EnterpriseValue": 110213202045,
+    "EnterpriseValueRevenue": 5.169,
+    "EnterpriseValueEbitda": 25.7411
+  },
+  "Highlights": {
+    "MarketCapitalization": 107558207488,
+    "MarketCapitalizationMln": 107558.2075,
+    "EBITDA": 4212900096,
+    "PERatio": 37.0465,
+    "PEGRatio": 2.3826,
+    "WallStreetTargetPrice": 485.6239,
+    "BookValue": 38.737,
+    "DividendShare": 3.76,
+    "DividendYield": 0.0077,
+    "EarningsShare": 13.13,
+    "EPSEstimateCurrentYear": 14.8131,
+    "EPSEstimateNextYear": 16.8463,
+    "EPSEstimateNextQuarter": 2.632,
+    "EPSEstimateCurrentQuarter": 2.8141,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1369,
+    "OperatingMarginTTM": 0.155,
+    "ReturnOnAssetsTTM": 0.1164,
+    "ReturnOnEquityTTM": 0.3696,
+    "RevenueTTM": 21321900032,
+    "RevenuePerShareTTM": 95.614,
+    "QuarterlyRevenueGrowthYOY": 0.056,
+    "GrossProfitTTM": 7710199808,
+    "DilutedEpsTTM": 13.13,
+    "QuarterlyEarningsGrowthYOY": -0.005
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 13.13,
+    "TotalEsgPercentile": 6.36,
+    "EnvironmentScore": 6.12,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 0.63,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 1.38,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TT",
+    "Type": "Common Stock",
+    "Name": "Trane Technologies plc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BM6788",
+    "ISIN": "IE00BK9ZQ967",
+    "LEI": null,
+    "PrimaryTicker": "TT.US",
+    "CUSIP": "456866102",
+    "CIK": "0000836102",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "1985-07-01",
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Building Products & Equipment",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Building Products",
+    "GicSubIndustry": "Building Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Trane Technologies plc designs, manufactures, sells, and services of solutions for heating, ventilation, air conditioning, and custom and transport refrigeration. It offers air conditioners, exchangers, and handlers; airside and terminal devices; air sourced heat pumps; chillers; coils and condensers; auxiliary power, cold storage, and condensing units; controls contracting and commissioning, decarbonization programs, and gensets; dehumidifiers; energy and water efficiency programs; energy recovery ventilators and power solutions; energy storage; furnaces; home automation; humidifiers; HVAC performance-monitoring products; and indoor air quality assessments and related products for HVAC and transport solutions. The company also provides asset management, building management, bus air purification, bus and rail HVAC, container refrigeration, control, ductless, geothermal, data center and multi-pipe HVAC, package heating and cooling, rail refrigeration, residential air filtration, self and vehicle powered truck refrigeration, temporary heating and cooling, truck refrigeration, unitary, variable refrigerant flow, and trailer refrigeration systems. In addition, it offers industrial process refrigeration, installation contracting, lighting retrofit, medical grade refrigeration, refrigerant reclamation, renewable energy and storage, residential hybrid heating, telematics, thermostats/controls and associated digital, ventilation, and stationary cold storage solutions; packaged rooftop units; rate chambers; residential air filters; thermal energy storage; transport heater products; temperature freezers; energy infrastructure programs and management, repair and maintenance, smart and AI-enabled, and rental services; water source heat pumps; and aftermarket and OEM parts and supplies. The company was formerly known as Ingersoll-Rand Plc and changed its name to Trane Technologies plc in March 2020. The company was founded in 1885 and is headquartered in Swords, Ireland.",
+    "Address": "170/175 Lakeview Drive, Swords, Ireland",
+    "AddressData": {
+      "Street": "170/175 Lakeview Drive",
+      "City": "Swords",
+      "Country": "Ireland"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. David S. Regnery",
+        "Title": "Chairman of the Board & CEO",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Christopher J. Kuehn",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Ms. Elizabeth  Elwell",
+        "Title": "VP, Chief Accounting Officer & Principal Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Zachary A. Nagle",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Ms. Carrie Amendum Ruddy",
+        "Title": "Senior VP, Chief Communications & Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Allen W. Ge",
+        "Title": "Group President of Asia Pacific",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Jason E. Bingham",
+        "Title": "President of Residential HVAC & Supply",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Karin  De Bondt",
+        "Title": "Senior VP & Chief Strategy Officer",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Mr. Jose  La Loggia",
+        "Title": "Group President of EMEA",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Dwayne  Cowan",
+        "Title": "President of Thermo King Europe, Middle East, Africa (EMEA) and Global Marine, Air, Rail",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "353 1 870 7400",
+    "WebURL": "https://www.tranetechnologies.com",
+    "LogoURL": "/img/logos/US/TT.png",
+    "FullTimeEmployees": 44000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 221122077,
+    "SharesFloat": 220778575,
+    "PercentInsiders": 0.27799999999999997,
+    "PercentInstitutions": 89.901,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0166
+  }
+}

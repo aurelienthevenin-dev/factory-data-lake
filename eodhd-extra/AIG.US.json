@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.6729,
+        "totalAssets": 0.0841,
+        "currentShares": 67783183,
+        "change": -699569,
+        "change_p": -1.0215
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.7359,
+        "totalAssets": 0.0642,
+        "currentShares": 46725606,
+        "change": -827849,
+        "change_p": -1.7409
+      },
+      "2": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.9,
+        "totalAssets": 0.4139,
+        "currentShares": 26208447,
+        "change": -2326001,
+        "change_p": -8.1516
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 4.8452,
+        "totalAssets": 0.3885,
+        "currentShares": 25915253,
+        "change": -130802,
+        "change_p": -0.5022
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.7616,
+        "totalAssets": 0.0694,
+        "currentShares": 25468174,
+        "change": -850083,
+        "change_p": -3.23
+      },
+      "5": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 4.1402,
+        "totalAssets": 2.3944,
+        "currentShares": 22144430,
+        "change": 4351778,
+        "change_p": 24.4583
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.2092,
+        "totalAssets": 0.2124,
+        "currentShares": 17164849,
+        "change": -248418,
+        "change_p": -1.4266
+      },
+      "7": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8966,
+        "totalAssets": 2.183,
+        "currentShares": 15492942,
+        "change": -2971094,
+        "change_p": -16.0912
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2737,
+        "totalAssets": 0.0639,
+        "currentShares": 12161204,
+        "change": -276730,
+        "change_p": -2.2249
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.1894,
+        "totalAssets": 0.0984,
+        "currentShares": 11710607,
+        "change": 3924583,
+        "change_p": 50.4055
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.1329,
+        "totalAssets": 0.2234,
+        "currentShares": 11407958,
+        "change": -1128186,
+        "change_p": -8.9995
+      },
+      "11": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0543,
+        "totalAssets": 1.8816,
+        "currentShares": 10987850,
+        "change": -577756,
+        "change_p": -4.9955
+      },
+      "12": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.0225,
+        "totalAssets": 4.7419,
+        "currentShares": 10817462,
+        "change": -1293943,
+        "change_p": -10.6837
+      },
+      "13": {
+        "name": "Hotchkis & Wiley Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9202,
+        "totalAssets": 2.6244,
+        "currentShares": 10270323,
+        "change": 14033,
+        "change_p": 0.1368
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8414,
+        "totalAssets": 0.0468,
+        "currentShares": 9849088,
+        "change": -143796,
+        "change_p": -1.439
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5731,
+        "totalAssets": 0.1186,
+        "currentShares": 8414159,
+        "change": -2527179,
+        "change_p": -23.0975
+      },
+      "16": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.399,
+        "totalAssets": 2.1317,
+        "currentShares": 7482558,
+        "change": 731802,
+        "change_p": 10.8403
+      },
+      "17": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3916,
+        "totalAssets": 0.0681,
+        "currentShares": 7443394,
+        "change": -1760063,
+        "change_p": -19.1239
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2313,
+        "totalAssets": 0.0662,
+        "currentShares": 6585577,
+        "change": -7302,
+        "change_p": -0.1108
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.113,
+        "totalAssets": 0.0317,
+        "currentShares": 5953061,
+        "change": -59993,
+        "change_p": -0.9977
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1861,
+        "totalAssets": 0.0642,
+        "currentShares": 17041421,
+        "change": -18263,
+        "change_p": -0.1071
+      },
+      "1": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.6314,
+        "totalAssets": 1.8976,
+        "currentShares": 14074492,
+        "change": 4939317,
+        "change_p": 54.0692
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5543,
+        "totalAssets": 0.0723,
+        "currentShares": 13662184,
+        "change": -217397,
+        "change_p": -1.5663
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1671,
+        "totalAssets": 0.4389,
+        "currentShares": 11591056,
+        "change": -136320,
+        "change_p": -1.1624
+      },
+      "4": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.5564,
+        "totalAssets": 1.1392,
+        "currentShares": 8324768,
+        "change": -2156217,
+        "change_p": -20.5727
+      },
+      "5": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4957,
+        "totalAssets": 0.4251,
+        "currentShares": 8000000,
+        "change": 2000000,
+        "change_p": 33.3333
+      },
+      "6": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.3342,
+        "totalAssets": 2.376,
+        "currentShares": 7136039,
+        "change": 242000,
+        "change_p": 3.5103
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2895,
+        "totalAssets": 0.0721,
+        "currentShares": 6897215,
+        "change": -3756,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2838,
+        "totalAssets": 0.0738,
+        "currentShares": 6866769,
+        "change": 11313,
+        "change_p": 0.165
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.16,
+        "totalAssets": 0.0718,
+        "currentShares": 6204467,
+        "change": -15288,
+        "change_p": -0.2458
+      },
+      "10": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.1536,
+        "totalAssets": 0.9787,
+        "currentShares": 6170188,
+        "change": 127755,
+        "change_p": 2.1143
+      },
+      "11": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0924,
+        "totalAssets": 1.2051,
+        "currentShares": 5843102,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.055,
+        "totalAssets": 0.4025,
+        "currentShares": 5642959,
+        "change": 5642959,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.9735,
+        "totalAssets": 4.2501,
+        "currentShares": 5206791,
+        "change": -274440,
+        "change_p": -5.0069
+      },
+      "14": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9272,
+        "totalAssets": 0.1653,
+        "currentShares": 4959041,
+        "change": -64695,
+        "change_p": -1.2878
+      },
+      "15": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7362,
+        "totalAssets": 0.3021,
+        "currentShares": 3937454,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6857,
+        "totalAssets": 0.5719,
+        "currentShares": 3667793,
+        "change": 6204,
+        "change_p": 0.1694
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6525,
+        "totalAssets": 0.756,
+        "currentShares": 3490269,
+        "change": 122558,
+        "change_p": 3.6392
+      },
+      "18": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.5749,
+        "totalAssets": 1.3454,
+        "currentShares": 3074854,
+        "change": -12844,
+        "change_p": -0.416
+      },
+      "19": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5652,
+        "totalAssets": 0.0721,
+        "currentShares": 3023010,
+        "change": -35375,
+        "change_p": -1.1567
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 13.8379,
+    "ForwardPE": 9.6899,
+    "PriceSalesTTM": 1.5103,
+    "PriceBookMRQ": 0.9924,
+    "EnterpriseValue": 48106889097,
+    "EnterpriseValueRevenue": 1.8205,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 40189890560,
+    "MarketCapitalizationMln": 40189.8906,
+    "EBITDA": 7920000000,
+    "PERatio": 13.8379,
+    "PEGRatio": 0.8547,
+    "WallStreetTargetPrice": 86.45,
+    "BookValue": 76.441,
+    "DividendShare": 1.75,
+    "DividendYield": 0.0229,
+    "EarningsShare": 5.43,
+    "EPSEstimateCurrentYear": 7.7872,
+    "EPSEstimateNextYear": 8.8311,
+    "EPSEstimateNextQuarter": 1.9338,
+    "EPSEstimateCurrentQuarter": 1.9027,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1163,
+    "OperatingMarginTTM": 0.1377,
+    "ReturnOnAssetsTTM": 0.0173,
+    "ReturnOnEquityTTM": 0.074,
+    "RevenueTTM": 26610999296,
+    "RevenuePerShareTTM": 47.093,
+    "QuarterlyRevenueGrowthYOY": -0.072,
+    "GrossProfitTTM": 9077999616,
+    "DilutedEpsTTM": 5.43,
+    "QuarterlyEarningsGrowthYOY": -0.056
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.68,
+    "TotalEsgPercentile": 65.52,
+    "EnvironmentScore": 4.49,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 17.56,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 20.63,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AIG",
+    "Type": "Common Stock",
+    "Name": "American International Group Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBDZG3",
+    "ISIN": "US0268747849",
+    "LEI": "ODVCVCQG2BP6VHV36M30",
+    "PrimaryTicker": "AIG.US",
+    "CUSIP": "026874107",
+    "CIK": "0000005272",
+    "EmployerIdNumber": "13-2592361",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Multi-line Insurance",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "American International Group, Inc. provides insurance products for commercial, institutional, and individual customers in North America and internationally. It operates through three segments: North America Commercial, International Commercial, and Global Personal. The company offers commercial and industrial property insurance, including business interruption and package insurance that cover exposure to made and natural disasters; general liability, environmental, commercial automobile liability, workers' compensation, excess casualty, and crisis management insurance products; risk-sharing and other customized structured programs for large corporate and multinational customers; professional liability insurance; and marine, energy-related property insurance products, aviation, political risk, trade credit, and trade finance products. It also provides group personal accident and business travel products for employees, associations, and other organizations; voluntary and sponsor-paid personal accident and supplemental health products for individuals; and personal auto and homeowners in selected markets, comprehensive extended warranty, device protection insurance, home warranty and related services, and insurance for high net-worth individuals. In addition, the company offers mortgage and other loans receivable, such as commercial mortgages, life insurance policy loans, commercial loans, and other loans and notes receivable. American International Group, Inc. was founded in 1919 and is headquartered in New York, New York.",
+    "Address": "1271 Avenue of the Americas, New York, NY, United States, 10020",
+    "AddressData": {
+      "Street": "1271 Avenue of the Americas",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10020"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Peter Salvatore Zaffino",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Keith Francis Walsh",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Mr. Claude E. Wade",
+        "Title": "Executive VP, Chief Digital Officer and Global Head of Business Operations & Claims",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Ms. Rose Marie E. Glazer J.D.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. Jon  Hancock",
+        "Title": "EVP & Chief Executive Officer of General Insurance",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Eric  Andersen",
+        "Title": "President",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Ms. Kathleen  Carbone",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Mr. Roshan  Navagamuwa",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Ms. Melissa  Twiningdavis",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1970"
+      },
+      "9": {
+        "Name": "Mr. Quentin John McMillan",
+        "Title": "VP, MD & Head of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "212 770 7000",
+    "WebURL": "https://www.aig.com",
+    "LogoURL": "/img/logos/US/aig.png",
+    "FullTimeEmployees": 22100,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 534866770,
+    "SharesFloat": 534789016,
+    "PercentInsiders": 0.5910000000000001,
+    "PercentInstitutions": 99.952,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0159
+  }
+}

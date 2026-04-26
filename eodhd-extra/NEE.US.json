@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3598,
+        "totalAssets": 0.2514,
+        "currentShares": 216033697,
+        "change": 2234176,
+        "change_p": 1.045
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 9.304,
+        "totalAssets": 0.4388,
+        "currentShares": 194017400,
+        "change": 96804571,
+        "change_p": 99.58
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2159,
+        "totalAssets": 0.2264,
+        "currentShares": 171326124,
+        "change": 2729767,
+        "change_p": 1.6191
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.4831,
+        "totalAssets": 0.2993,
+        "currentShares": 114339179,
+        "change": 2017487,
+        "change_p": 1.7962
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.1689,
+        "totalAssets": 0.302,
+        "currentShares": 66080377,
+        "change": 2147879,
+        "change_p": 3.3596
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2669,
+        "totalAssets": 0.2334,
+        "currentShares": 47272019,
+        "change": 966152,
+        "change_p": 2.0865
+      },
+      "6": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.2137,
+        "totalAssets": 0.869,
+        "currentShares": 46162443,
+        "change": -1910784,
+        "change_p": -3.9747
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6823,
+        "totalAssets": 0.3013,
+        "currentShares": 35081308,
+        "change": 861408,
+        "change_p": 2.5173
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5586,
+        "totalAssets": 0.1664,
+        "currentShares": 32501295,
+        "change": -392101,
+        "change_p": -1.192
+      },
+      "9": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.533,
+        "totalAssets": 0.1309,
+        "currentShares": 31968225,
+        "change": 3880982,
+        "change_p": 13.8176
+      },
+      "10": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.4171,
+        "totalAssets": 0.4379,
+        "currentShares": 29551715,
+        "change": 1301900,
+        "change_p": 4.6085
+      },
+      "11": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3356,
+        "totalAssets": 0.3997,
+        "currentShares": 27850384,
+        "change": 158894,
+        "change_p": 0.5738
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0777,
+        "totalAssets": 0.217,
+        "currentShares": 22473850,
+        "change": -205096,
+        "change_p": -0.9043
+      },
+      "13": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.0007,
+        "totalAssets": 0.2581,
+        "currentShares": 20867126,
+        "change": -17833014,
+        "change_p": -46.08
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8931,
+        "totalAssets": 0.2202,
+        "currentShares": 18623265,
+        "change": 72309,
+        "change_p": 0.3898
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8597,
+        "totalAssets": 0.1765,
+        "currentShares": 17926950,
+        "change": -154867,
+        "change_p": -0.8565
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.837,
+        "totalAssets": 0.3669,
+        "currentShares": 17454287,
+        "change": -14551,
+        "change_p": -0.0833
+      },
+      "17": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8287,
+        "totalAssets": 0.4518,
+        "currentShares": 17281357,
+        "change": 485854,
+        "change_p": 2.8928
+      },
+      "18": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8262,
+        "totalAssets": 0.1392,
+        "currentShares": 17229714,
+        "change": 656699,
+        "change_p": 3.9625
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8258,
+        "totalAssets": 0.2148,
+        "currentShares": 17220630,
+        "change": 253273,
+        "change_p": 1.4927
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1739,
+        "totalAssets": 0.3079,
+        "currentShares": 66185225,
+        "change": 302373,
+        "change_p": 0.459
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5431,
+        "totalAssets": 0.3461,
+        "currentShares": 53030529,
+        "change": -537530,
+        "change_p": -1.0035
+      },
+      "2": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7014,
+        "totalAssets": 13.5683,
+        "currentShares": 35479311,
+        "change": -30267,
+        "change_p": -0.0852
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2837,
+        "totalAssets": 0.3453,
+        "currentShares": 26769824,
+        "change": -14568,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.271,
+        "totalAssets": 0.3318,
+        "currentShares": 26503813,
+        "change": 43677,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1575,
+        "totalAssets": 0.3448,
+        "currentShares": 24136517,
+        "change": -59339,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8755,
+        "totalAssets": 0.7513,
+        "currentShares": 18255865,
+        "change": -143323,
+        "change_p": -0.779
+      },
+      "7": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8013,
+        "totalAssets": 1.4199,
+        "currentShares": 16709353,
+        "change": 4632120,
+        "change_p": 38.3541
+      },
+      "8": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6803,
+        "totalAssets": 12.1491,
+        "currentShares": 14185550,
+        "change": 160199,
+        "change_p": 1.1422
+      },
+      "9": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.6073,
+        "totalAssets": 2.4796,
+        "currentShares": 12664828,
+        "change": 262229,
+        "change_p": 2.1143
+      },
+      "10": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5792,
+        "totalAssets": 0.8694,
+        "currentShares": 12077233,
+        "change": -1306433,
+        "change_p": -9.7614
+      },
+      "11": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5751,
+        "totalAssets": 2.3213,
+        "currentShares": 11993454,
+        "change": 1594480,
+        "change_p": 15.3331
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5627,
+        "totalAssets": 0.3453,
+        "currentShares": 11733532,
+        "change": -64456,
+        "change_p": -0.5463
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5592,
+        "totalAssets": 0.9227,
+        "currentShares": 11660776,
+        "change": 183948,
+        "change_p": 1.6028
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5331,
+        "totalAssets": 0.3417,
+        "currentShares": 11117264,
+        "change": 15500,
+        "change_p": 0.1396
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4511,
+        "totalAssets": 0.3449,
+        "currentShares": 9406362,
+        "change": 53957,
+        "change_p": 0.5769
+      },
+      "16": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.4027,
+        "totalAssets": 2.4704,
+        "currentShares": 8396524,
+        "change": 8389722,
+        "change_p": 123341.9877
+      },
+      "17": {
+        "name": "Franklin Utilities A1",
+        "date": "2026-03-31",
+        "totalShares": 0.398,
+        "totalAssets": 9.9458,
+        "currentShares": 8300000,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3948,
+        "totalAssets": 0.2851,
+        "currentShares": 8233626,
+        "change": -29575,
+        "change_p": -0.3579
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3948,
+        "totalAssets": 0.2851,
+        "currentShares": 8233626,
+        "change": 8233626,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.1827,
+    "ForwardPE": 24.1546,
+    "PriceSalesTTM": 7.1302,
+    "PriceBookMRQ": 3.6346,
+    "EnterpriseValue": 301096333927,
+    "EnterpriseValueRevenue": 10.8776,
+    "EnterpriseValueEbitda": 17.7281
+  },
+  "Highlights": {
+    "MarketCapitalization": 198691323904,
+    "MarketCapitalizationMln": 198691.3239,
+    "EBITDA": 14158999552,
+    "PERatio": 24.1827,
+    "PEGRatio": 2.1214,
+    "WallStreetTargetPrice": 95.7936,
+    "BookValue": 26.216,
+    "DividendShare": 1.7,
+    "DividendYield": 0.0177,
+    "EarningsShare": 3.94,
+    "EPSEstimateCurrentYear": 4.02,
+    "EPSEstimateNextYear": 4.3823,
+    "EPSEstimateNextQuarter": 1.1119,
+    "EPSEstimateCurrentQuarter": 0.974,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2937,
+    "OperatingMarginTTM": 0.3018,
+    "ReturnOnAssetsTTM": 0.0241,
+    "ReturnOnEquityTTM": 0.1033,
+    "RevenueTTM": 27865999360,
+    "RevenuePerShareTTM": 13.447,
+    "QuarterlyRevenueGrowthYOY": 0.073,
+    "GrossProfitTTM": 17109999616,
+    "DilutedEpsTTM": 3.94,
+    "QuarterlyEarningsGrowthYOY": 1.6
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.95,
+    "TotalEsgPercentile": 55.4,
+    "EnvironmentScore": 15.14,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 6.78,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 6.52,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NEE",
+    "Type": "Common Stock",
+    "Name": "Nextera Energy Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJSBJ0",
+    "ISIN": "US65339F1012",
+    "LEI": "UMI46YPGBLUE4VGNNT48",
+    "PrimaryTicker": "NEE.US",
+    "CUSIP": "65339B100",
+    "CIK": "0000753308",
+    "EmployerIdNumber": "59-2449419",
+    "FiscalYearEnd": "December",
+    "IPODate": "2003-01-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets. It also invests in generation, storage, transmission, and distribution facilities; owns, develops, constructs, manages, and operates generation facilities, including renewables, nuclear and natural gas, and battery storage facilities in the wholesale energy market in the United States and Canada, as well as electric and gas transmission assets, and natural gas pipelines; provides full energy and capacity requirement services; markets and trades in energy-related commodities; and participates in the production of natural gas, natural gas liquids, and oil. As of December 31, 2025, the company had approximately 35,963 megawatts of net generating capacity; approximately 93,000 circuit miles of transmission and distribution lines; and 932 substations. It serves approximately 12 million people through approximately 6 million customer accounts on the east and lower west coasts of Florida. The company was formerly known as FPL Group, Inc. and changed its name to NextEra Energy, Inc. in 2010. NextEra Energy, Inc. was founded in 1925 and is headquartered in Juno Beach, Florida.",
+    "Address": "700 Universe Boulevard, Juno Beach, FL, United States, 33408",
+    "AddressData": {
+      "Street": "700 Universe Boulevard",
+      "City": "Juno Beach",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "33408"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John W. Ketchum J.D.",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Michael H. Dunne",
+        "Title": "CFO & Executive VP of Finance",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Charles E. Sieving J.D.",
+        "Title": "Executive VP and Chief Legal, Environmental & Federal Regulatory Affairs Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Armando  Pimentel Jr.",
+        "Title": "Chief Executive Officer of Florida Power & Light Company",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Brian W. Bolster",
+        "Title": "President & CEO of NextEra Energy Resources",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. William John Gough",
+        "Title": "VP, Controller and Chief Accounting Officer",
+        "YearBorn": "1987"
+      },
+      "6": {
+        "Name": "Mark  Eidelman",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. David  Flechner",
+        "Title": "VP of Compliance & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Mark E. Hickson",
+        "Title": "Executive Vice President of Corporate Development & Strategy",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Ms. Nicole J. Daggs",
+        "Title": "Executive Vice President of Human Resources & Corporate Services",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "561 694 4000",
+    "WebURL": "https://www.nexteraenergy.com",
+    "LogoURL": "/img/logos/US/nee.png",
+    "FullTimeEmployees": 17400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2085341456,
+    "SharesFloat": 2087627720,
+    "PercentInsiders": 0.123,
+    "PercentInstitutions": 85.057,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0001
+  }
+}

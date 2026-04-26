@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.088,
+        "totalAssets": 0.0299,
+        "currentShares": 3728414,
+        "change": -29489,
+        "change_p": -0.7847
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9556,
+        "totalAssets": 0.0328,
+        "currentShares": 3309898,
+        "change": -8567,
+        "change_p": -0.2582
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.1264,
+        "totalAssets": 0.0258,
+        "currentShares": 1525090,
+        "change": 729468,
+        "change_p": 91.6852
+      },
+      "3": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 3.5959,
+        "totalAssets": 0.0455,
+        "currentShares": 1329023,
+        "change": -275986,
+        "change_p": -17.1953
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.3543,
+        "totalAssets": 0.0243,
+        "currentShares": 1239718,
+        "change": -17369,
+        "change_p": -1.3817
+      },
+      "5": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.263,
+        "totalAssets": 0.2636,
+        "currentShares": 1205958,
+        "change": 262312,
+        "change_p": 27.7977
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.5774,
+        "totalAssets": 0.0268,
+        "currentShares": 952568,
+        "change": -54948,
+        "change_p": -5.4538
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0575,
+        "totalAssets": 0.0259,
+        "currentShares": 760438,
+        "change": 52250,
+        "change_p": 7.378
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.0515,
+        "totalAssets": 0.1069,
+        "currentShares": 758212,
+        "change": 49319,
+        "change_p": 6.9572
+      },
+      "9": {
+        "name": "Vontobel Holding Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 1.886,
+        "totalAssets": 1.2134,
+        "currentShares": 697045,
+        "change": -193839,
+        "change_p": -21.7581
+      },
+      "10": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.864,
+        "totalAssets": 0.2149,
+        "currentShares": 688920,
+        "change": -102495,
+        "change_p": -12.9509
+      },
+      "11": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7224,
+        "totalAssets": 0.1544,
+        "currentShares": 636586,
+        "change": 440323,
+        "change_p": 224.3535
+      },
+      "12": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7021,
+        "totalAssets": 0.2784,
+        "currentShares": 629089,
+        "change": -84911,
+        "change_p": -11.8923
+      },
+      "13": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.503,
+        "totalAssets": 0.1434,
+        "currentShares": 555510,
+        "change": -48465,
+        "change_p": -8.0243
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3745,
+        "totalAssets": 0.0453,
+        "currentShares": 507998,
+        "change": 24091,
+        "change_p": 4.9784
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2981,
+        "totalAssets": 0.0284,
+        "currentShares": 479750,
+        "change": 67908,
+        "change_p": 16.4888
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2758,
+        "totalAssets": 0.032,
+        "currentShares": 471536,
+        "change": 300249,
+        "change_p": 175.29
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2478,
+        "totalAssets": 0.0535,
+        "currentShares": 461176,
+        "change": 13911,
+        "change_p": 3.1102
+      },
+      "18": {
+        "name": "Third Point, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2311,
+        "totalAssets": 3.457,
+        "currentShares": 455000,
+        "change": -45000,
+        "change_p": -9
+      },
+      "19": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.1511,
+        "totalAssets": 0.032,
+        "currentShares": 425432,
+        "change": 6562,
+        "change_p": 1.5666
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "iShares Core S&P Mid-Cap ETF",
+        "date": "2026-03-31",
+        "totalShares": 3.3257,
+        "totalAssets": 0.843,
+        "currentShares": 1229145,
+        "change": 1875,
+        "change_p": 0.1528
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1858,
+        "totalAssets": 0.0429,
+        "currentShares": 1177426,
+        "change": 83,
+        "change_p": 0.007
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3157,
+        "totalAssets": 0.3749,
+        "currentShares": 855858,
+        "change": 11447,
+        "change_p": 1.3556
+      },
+      "3": {
+        "name": "Eaton Vance Atlanta Capital SMID-Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.4351,
+        "totalAssets": 3.2397,
+        "currentShares": 530417,
+        "change": -17891,
+        "change_p": -3.2629
+      },
+      "4": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2961,
+        "totalAssets": 0.8844,
+        "currentShares": 479012,
+        "change": 10074,
+        "change_p": 2.1483
+      },
+      "5": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 1.1229,
+        "totalAssets": 1.1708,
+        "currentShares": 415000,
+        "change": -85000,
+        "change_p": -17
+      },
+      "6": {
+        "name": "Vanguard Institutional Extnd Mkt Idx Tr",
+        "date": "2026-03-31",
+        "totalShares": 1.1209,
+        "totalAssets": 0.3628,
+        "currentShares": 414256,
+        "change": 9158,
+        "change_p": 2.2607
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0711,
+        "totalAssets": 0.0651,
+        "currentShares": 395856,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.0711,
+        "totalAssets": 0.094,
+        "currentShares": 395856,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9262,
+        "totalAssets": 0.7512,
+        "currentShares": 342300,
+        "change": -100600,
+        "change_p": -22.7139
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P MIDCAP 400® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7559,
+        "totalAssets": 0.8451,
+        "currentShares": 279381,
+        "change": 6777,
+        "change_p": 2.486
+      },
+      "11": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.6697,
+        "totalAssets": 1.2032,
+        "currentShares": 247500,
+        "change": -177500,
+        "change_p": -41.7647
+      },
+      "12": {
+        "name": "iShares S&P Mid-Cap 400 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6114,
+        "totalAssets": 1.6541,
+        "currentShares": 225978,
+        "change": 684,
+        "change_p": 0.3036
+      },
+      "13": {
+        "name": "State St Russell Sm/Mid Cp® Indx SL Cl I",
+        "date": "2026-03-31",
+        "totalShares": 0.6023,
+        "totalAssets": 0.3603,
+        "currentShares": 222611,
+        "change": 6080,
+        "change_p": 2.8079
+      },
+      "14": {
+        "name": "Invesco S&P MidCap Momentum ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5911,
+        "totalAssets": 2.7271,
+        "currentShares": 218479,
+        "change": 324,
+        "change_p": 0.1485
+      },
+      "15": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 0.5888,
+        "totalAssets": 0.0879,
+        "currentShares": 217613,
+        "change": -23700,
+        "change_p": -9.8213
+      },
+      "16": {
+        "name": "Eagle Mid-Cap Growth - Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.5637,
+        "totalAssets": 2.6533,
+        "currentShares": 208338,
+        "change": -3986,
+        "change_p": -1.8773
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5616,
+        "totalAssets": 0.1287,
+        "currentShares": 207544,
+        "change": 2658,
+        "change_p": 1.2973
+      },
+      "18": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.538,
+        "totalAssets": 0.6421,
+        "currentShares": 198840,
+        "change": -123160,
+        "change_p": -38.2484
+      },
+      "19": {
+        "name": "Fidelity Extended Market Index",
+        "date": "2026-02-28",
+        "totalShares": 0.5261,
+        "totalAssets": 0.3255,
+        "currentShares": 194425,
+        "change": 421,
+        "change_p": 0.217
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 45.8721,
+    "ForwardPE": 40.1606,
+    "PriceSalesTTM": 1.7452,
+    "PriceBookMRQ": 7.5752,
+    "EnterpriseValue": 31981294436,
+    "EnterpriseValueRevenue": 1.8621,
+    "EnterpriseValueEbitda": 22.6468
+  },
+  "Highlights": {
+    "MarketCapitalization": 29636866048,
+    "MarketCapitalizationMln": 29636.866,
+    "EBITDA": 1389427968,
+    "PERatio": 45.8721,
+    "PEGRatio": 2.0455,
+    "WallStreetTargetPrice": 739.9375,
+    "BookValue": 104.17,
+    "DividendShare": 2.21,
+    "DividendYield": 0.0028,
+    "EarningsShare": 17.43,
+    "EPSEstimateCurrentYear": 18.0904,
+    "EPSEstimateNextYear": 19.9459,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.9733,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0383,
+    "OperatingMarginTTM": 0.0498,
+    "ReturnOnAssetsTTM": 0.0713,
+    "ReturnOnEquityTTM": 0.1788,
+    "RevenueTTM": 16982079488,
+    "RevenuePerShareTTM": 457.606,
+    "QuarterlyRevenueGrowthYOY": 0.003,
+    "GrossProfitTTM": 4166704128,
+    "DilutedEpsTTM": 17.43,
+    "QuarterlyEarningsGrowthYOY": 0.498
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "CASY",
+    "Type": "Common Stock",
+    "Name": "Caseys General Stores Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BF0672",
+    "ISIN": "US1475281036",
+    "LEI": "549300CAFWSI86V66Q65",
+    "PrimaryTicker": "CASY.US",
+    "CUSIP": "147528103",
+    "CIK": "0000726958",
+    "EmployerIdNumber": "42-0935283",
+    "FiscalYearEnd": "April",
+    "IPODate": "1983-10-20",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Specialty Retail",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Consumer Staples Distribution & Retail",
+    "GicIndustry": "Consumer Staples Distribution & Retail",
+    "GicSubIndustry": "Food Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Casey's General Stores, Inc., together with its subsidiaries, operates convenience stores under the Casey's and Casey's General Store names in the United States. Its stores offer pizza, donuts, breakfast items, and sandwiches; and tobacco and nicotine products. The company's stores also provide soft drinks, energy, water, sports drinks, juices, coffee, and tea and dairy products; beer, wine, and spirits; snacks, candy, packaged bakery, and other food items; ice, ice cream, meals, and appetizers; health and beauty aids, automotive products, electronic accessories, and housewares; and breadsticks, wraps, chicken wings and tenders, breakfast croissants and biscuits, breakfast burritos, hash browns, burgers, cookies and brownies, and other seasonal items. In addition, its stores offer motor fuel for sale on a self-service basis; gasoline and diesel fuel; and ATM, lotto/lottery, and prepaid cards, as well as car wash services. The company also operates distribution centers. Casey's General Stores, Inc. was founded in 1959 and is headquartered in Ankeny, Iowa.",
+    "Address": "One SE Convenience Boulevard, Ankeny, IA, United States, 50021",
+    "AddressData": {
+      "Street": "One SE Convenience Boulevard",
+      "City": "Ankeny",
+      "State": "IA",
+      "Country": "United States",
+      "ZIP": "50021"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Darren M. Rebelez",
+        "Title": "President, CEO & Board Chair",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Mr. Stephen P. Bramlage Jr.",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Ms. Ena Williams Koschel",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Chad Michael Frazell",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Thomas P. Brennan Jr.",
+        "Title": "Senior VP & Chief Merchandising Officer",
+        "YearBorn": "1975"
+      },
+      "5": {
+        "Name": "Mr. Kory  Ross",
+        "Title": "Vice President of Accounting",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Sanjeev  Satturu",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Brian Joseph Johnson",
+        "Title": "Senior Vice President of Investor Relations & Business Development",
+        "YearBorn": "1976"
+      },
+      "8": {
+        "Name": "Ms. Katrina S. Lindsey",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Katie  Petru",
+        "Title": "Director of Communications",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "515 965 6100",
+    "WebURL": "https://www.caseys.com",
+    "LogoURL": "/img/logos/US/CASY.png",
+    "FullTimeEmployees": 23338,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 36959030,
+    "SharesFloat": 36744668,
+    "PercentInsiders": 0.471,
+    "PercentInstitutions": 89.588,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0347
+  }
+}

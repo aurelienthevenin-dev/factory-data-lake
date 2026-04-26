@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.1449,
+        "totalAssets": 0.0235,
+        "currentShares": 24031293,
+        "change": -106880,
+        "change_p": -0.4428
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 11.2185,
+        "totalAssets": 0.0232,
+        "currentShares": 17801028,
+        "change": -1704290,
+        "change_p": -8.7376
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.1228,
+        "totalAssets": 0.0294,
+        "currentShares": 11302118,
+        "change": -131650,
+        "change_p": -1.1514
+      },
+      "3": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.8562,
+        "totalAssets": 1.459,
+        "currentShares": 10879152,
+        "change": 5761843,
+        "change_p": 112.5952
+      },
+      "4": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 6.4387,
+        "totalAssets": 0.0738,
+        "currentShares": 10216641,
+        "change": 36034,
+        "change_p": 0.3539
+      },
+      "5": {
+        "name": "Apg Investments Us Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.6645,
+        "totalAssets": 3.9117,
+        "currentShares": 7401513,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.703,
+        "totalAssets": 0.0131,
+        "currentShares": 5875734,
+        "change": 1903274,
+        "change_p": 47.9117
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.691,
+        "totalAssets": 0.0177,
+        "currentShares": 4270027,
+        "change": 55621,
+        "change_p": 1.3198
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.4559,
+        "totalAssets": 0.0456,
+        "currentShares": 3896978,
+        "change": 1207607,
+        "change_p": 44.903
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.3986,
+        "totalAssets": 0.0171,
+        "currentShares": 3805965,
+        "change": 984939,
+        "change_p": 34.9142
+      },
+      "10": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.189,
+        "totalAssets": 0.2427,
+        "currentShares": 3473377,
+        "change": -64974,
+        "change_p": -1.8363
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1502,
+        "totalAssets": 0.0325,
+        "currentShares": 3411777,
+        "change": 127948,
+        "change_p": 3.8963
+      },
+      "12": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1496,
+        "totalAssets": 0.4051,
+        "currentShares": 3410909,
+        "change": -121618,
+        "change_p": -3.4428
+      },
+      "13": {
+        "name": "Earnest Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6611,
+        "totalAssets": 0.7622,
+        "currentShares": 2635725,
+        "change": -30136,
+        "change_p": -1.1304
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5311,
+        "totalAssets": 0.0255,
+        "currentShares": 2429446,
+        "change": 98124,
+        "change_p": 4.2089
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4638,
+        "totalAssets": 0.0117,
+        "currentShares": 2322649,
+        "change": -61443,
+        "change_p": -2.5772
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.457,
+        "totalAssets": 0.0191,
+        "currentShares": 2311949,
+        "change": -39729,
+        "change_p": -1.6894
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4448,
+        "totalAssets": 0.0325,
+        "currentShares": 2292578,
+        "change": 35654,
+        "change_p": 1.5798
+      },
+      "18": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.304,
+        "totalAssets": 0.2273,
+        "currentShares": 2069157,
+        "change": -796144,
+        "change_p": -27.7857
+      },
+      "19": {
+        "name": "Daiwa Securities Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.268,
+        "totalAssets": 0.5048,
+        "currentShares": 2012057,
+        "change": 873974,
+        "change_p": 76.7935
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 4.1379,
+        "totalAssets": 0.4799,
+        "currentShares": 6565788,
+        "change": 4092659,
+        "change_p": 165.4851
+      },
+      "1": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.4842,
+        "totalAssets": 0.4416,
+        "currentShares": 5528543,
+        "change": -20624,
+        "change_p": -0.3717
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1856,
+        "totalAssets": 0.0131,
+        "currentShares": 5054860,
+        "change": 53234,
+        "change_p": 1.0643
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3653,
+        "totalAssets": 0.0137,
+        "currentShares": 3753140,
+        "change": -37941,
+        "change_p": -1.0008
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3073,
+        "totalAssets": 0.1144,
+        "currentShares": 3661084,
+        "change": 62153,
+        "change_p": 1.727
+      },
+      "5": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.0982,
+        "totalAssets": 0.2026,
+        "currentShares": 3329405,
+        "change": 9825,
+        "change_p": 0.296
+      },
+      "6": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 1.845,
+        "totalAssets": 1.846,
+        "currentShares": 2927614,
+        "change": 770589,
+        "change_p": 35.7246
+      },
+      "7": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 1.8287,
+        "totalAssets": 1.7361,
+        "currentShares": 2901739,
+        "change": 761960,
+        "change_p": 35.6093
+      },
+      "8": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 1.8287,
+        "totalAssets": 1.7313,
+        "currentShares": 2901739,
+        "change": 761960,
+        "change_p": 35.6093
+      },
+      "9": {
+        "name": "Cohen & Steers Realty Shares L",
+        "date": "2026-03-31",
+        "totalShares": 1.6569,
+        "totalAssets": 1.8635,
+        "currentShares": 2629105,
+        "change": 636871,
+        "change_p": 31.9677
+      },
+      "10": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.468,
+        "totalAssets": 0.1991,
+        "currentShares": 2329440,
+        "change": 18185,
+        "change_p": 0.7868
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1958,
+        "totalAssets": 0.0137,
+        "currentShares": 1897454,
+        "change": -1032,
+        "change_p": -0.0544
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.182,
+        "totalAssets": 0.0144,
+        "currentShares": 1875528,
+        "change": 3072,
+        "change_p": 0.1641
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0762,
+        "totalAssets": 0.0136,
+        "currentShares": 1707724,
+        "change": -4214,
+        "change_p": -0.2462
+      },
+      "14": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.8398,
+        "totalAssets": 0.3049,
+        "currentShares": 1332580,
+        "change": -1179530,
+        "change_p": -46.9538
+      },
+      "15": {
+        "name": "Daiwa US-REIT Open Mother Fund",
+        "date": "2025-09-17",
+        "totalShares": 0.8378,
+        "totalAssets": 1.9958,
+        "currentShares": 1329412,
+        "change": 1329412,
+        "change_p": 0
+      },
+      "16": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8272,
+        "totalAssets": 0.9646,
+        "currentShares": 1312494,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7683,
+        "totalAssets": 0.8644,
+        "currentShares": 1219143,
+        "change": -2736,
+        "change_p": -0.2239
+      },
+      "18": {
+        "name": "Invesco S&P 500® High Div Low Vol ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6594,
+        "totalAssets": 1.6533,
+        "currentShares": 1046363,
+        "change": -1580,
+        "change_p": -0.1508
+      },
+      "19": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.6516,
+        "totalAssets": 0.5942,
+        "currentShares": 1033985,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 33.1782,
+    "ForwardPE": 27.5482,
+    "PriceSalesTTM": 2.9052,
+    "PriceBookMRQ": 1.7546,
+    "EnterpriseValue": 25040892286,
+    "EnterpriseValueRevenue": 7.1577,
+    "EnterpriseValueEbitda": 12.7855
+  },
+  "Highlights": {
+    "MarketCapitalization": 9160364032,
+    "MarketCapitalizationMln": 9160.364,
+    "EBITDA": 1610951040,
+    "PERatio": 33.1782,
+    "PEGRatio": 2.1872,
+    "WallStreetTargetPrice": 70.05,
+    "BookValue": 32.464,
+    "DividendShare": 3.36,
+    "DividendYield": 0.0589,
+    "EarningsShare": 1.74,
+    "EPSEstimateCurrentYear": 1.925,
+    "EPSEstimateNextYear": 2.085,
+    "EPSEstimateNextQuarter": 0.32,
+    "EPSEstimateCurrentQuarter": 0.505,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0878,
+    "OperatingMarginTTM": -0.0659,
+    "ReturnOnAssetsTTM": 0.0167,
+    "ReturnOnEquityTTM": 0.0492,
+    "RevenueTTM": 3153085952,
+    "RevenuePerShareTTM": 19.915,
+    "QuarterlyRevenueGrowthYOY": -0.319,
+    "GrossProfitTTM": 1779740032,
+    "DilutedEpsTTM": 1.74,
+    "QuarterlyEarningsGrowthYOY": 0.105
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.41,
+    "TotalEsgPercentile": 11.16,
+    "EnvironmentScore": 8.82,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 6.59,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 10.51,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BXP",
+    "Type": "Common Stock",
+    "Name": "Boston Properties Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BS5CM9",
+    "ISIN": "US1011211018",
+    "LEI": "549300OF70FSEUQBT254",
+    "PrimaryTicker": "BXP.US",
+    "CUSIP": "101121101",
+    "CIK": "0001037540",
+    "EmployerIdNumber": "04-2473675",
+    "FiscalYearEnd": "December",
+    "IPODate": "1997-06-18",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Office",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Diversified REITs",
+    "GicSubIndustry": "Diversified REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "BXP, Inc. is the largest publicly traded developer, owner, and manager of premier workplaces in the United States, concentrated in six dynamic gateway markets - Boston, Los Angeles, New York, San Francisco, Seattle, and Washington, DC. BXP has delivered places that power progress for our clients and communities for more than 55 years. BXP is a fully integrated real estate company, organized as a real estate investment trust (REIT). As of December 31, 2025, including properties owned by joint ventures, BXP's portfolio totals 52.6 million square feet and 179 properties, including 8 properties under construction/redevelopment. BXP's properties include 157 office properties, 14 retail properties (including one retail property under construction), seven residential properties (including three residential properties under construction) and one hotel. BXP is well-known for its in-house building management expertise and responsiveness to clients' needs. BXP holds a superior track record of developing premium Central Business District (CBD) office buildings, successful mixed-use complexes, suburban office centers and build-to-suit projects for a diverse array of creditworthy clients. BXP actively works to promote its growth and operations in a sustainable and responsible manner. BXP, an S&P 500 company, was founded in 1970 by Mortimer B. Zuckerman and Edward H. Linde and became a public company in 1997. BXP, Inc. was incorporated in 1970 in Delaware.",
+    "Address": "Prudential Center, 800 Boylston Street, Boston, MA, United States, 02199-8103",
+    "AddressData": {
+      "Street": "Prudential Center, 800 Boylston Street",
+      "City": "Boston",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02199-8103"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Owen David Thomas",
+        "Title": "CEO & Chairman of the Board",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Douglas T. Linde",
+        "Title": "President & Director",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Michael E. LaBelle",
+        "Title": "Executive VP, Treasurer & CFO",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Bryan J. Koop",
+        "Title": "Executive Vice President of Boston Region",
+        "YearBorn": "1959"
+      },
+      "4": {
+        "Name": "Ms. Hilary J. Spann",
+        "Title": "Executive Vice President of New York Region",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Mortimer B. Zuckerman",
+        "Title": "Co-Founder & Chairman Emeritus",
+        "YearBorn": "1938"
+      },
+      "6": {
+        "Name": "Mr. Michael R. Walsh",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Mr. James J. Whalen Jr.",
+        "Title": "Senior VP & Chief Technology Officer",
+        "YearBorn": "1963"
+      },
+      "8": {
+        "Name": "Mr. Colin  Joynt",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Helen  Han",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "617 236 3300",
+    "WebURL": "https://www.bxp.com",
+    "LogoURL": "/img/logos/US/bxp.png",
+    "FullTimeEmployees": 826,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 158675962,
+    "SharesFloat": 147095200,
+    "PercentInsiders": 0.40099999999999997,
+    "PercentInstitutions": 117.252,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.094
+  }
+}

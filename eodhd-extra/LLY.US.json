@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Lilly Endowment Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.3027,
+        "totalAssets": 100,
+        "currentShares": 92190516,
+        "change": -3302477,
+        "change_p": -3.4583
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.1601,
+        "totalAssets": 1.2771,
+        "currentShares": 81965974,
+        "change": 1006885,
+        "change_p": 1.2437
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3545,
+        "totalAssets": 0.879,
+        "currentShares": 65809763,
+        "change": -151898,
+        "change_p": -0.2303
+      },
+      "3": {
+        "name": "PNC Financial Services Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.7402,
+        "totalAssets": 23.7695,
+        "currentShares": 51364189,
+        "change": 70209,
+        "change_p": 0.1369
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8808,
+        "totalAssets": 0.9188,
+        "currentShares": 34726558,
+        "change": 219590,
+        "change_p": 0.6364
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8745,
+        "totalAssets": 1.4094,
+        "currentShares": 25721670,
+        "change": 1549858,
+        "change_p": 6.4118
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.7455,
+        "totalAssets": 4.8736,
+        "currentShares": 24566846,
+        "change": -521525,
+        "change_p": -2.0788
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.295,
+        "totalAssets": 0.4694,
+        "currentShares": 20536310,
+        "change": 8025337,
+        "change_p": 64.1464
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2139,
+        "totalAssets": 1.3098,
+        "currentShares": 19810065,
+        "change": -7822,
+        "change_p": -0.0395
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6971,
+        "totalAssets": 0.7015,
+        "currentShares": 15185853,
+        "change": 317357,
+        "change_p": 2.1344
+      },
+      "10": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.6799,
+        "totalAssets": 2.197,
+        "currentShares": 15031750,
+        "change": 61851,
+        "change_p": 0.4132
+      },
+      "11": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5063,
+        "totalAssets": 1.1002,
+        "currentShares": 13478436,
+        "change": -3366669,
+        "change_p": -19.986
+      },
+      "12": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.4927,
+        "totalAssets": 2.5155,
+        "currentShares": 13357185,
+        "change": -1206595,
+        "change_p": -8.2849
+      },
+      "13": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.3947,
+        "totalAssets": 10.5339,
+        "currentShares": 12480217,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3494,
+        "totalAssets": 1.3882,
+        "currentShares": 12074882,
+        "change": 750476,
+        "change_p": 6.6271
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2809,
+        "totalAssets": 0.5931,
+        "currentShares": 11461544,
+        "change": 198378,
+        "change_p": 1.7613
+      },
+      "16": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.1029,
+        "totalAssets": 1.6626,
+        "currentShares": 9869380,
+        "change": -132129,
+        "change_p": -1.3211
+      },
+      "17": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0355,
+        "totalAssets": 7.5375,
+        "currentShares": 9265782,
+        "change": -1529556,
+        "change_p": -14.1687
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9945,
+        "totalAssets": 0.8686,
+        "currentShares": 8899035,
+        "change": -110235,
+        "change_p": -1.2236
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7189,
+        "totalAssets": 1.0658,
+        "currentShares": 6432957,
+        "change": -1438524,
+        "change_p": -18.2751
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.014,
+        "totalAssets": 1.2425,
+        "currentShares": 26970250,
+        "change": 56628,
+        "change_p": 0.2104
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2549,
+        "totalAssets": 1.3042,
+        "currentShares": 20177181,
+        "change": -247785,
+        "change_p": -1.2131
+      },
+      "2": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.309,
+        "totalAssets": 3.7467,
+        "currentShares": 11713232,
+        "change": -796523,
+        "change_p": -6.3672
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1383,
+        "totalAssets": 1.301,
+        "currentShares": 10185849,
+        "change": -5544,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1294,
+        "totalAssets": 1.4192,
+        "currentShares": 10106206,
+        "change": 16660,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.1187,
+        "totalAssets": 3.0051,
+        "currentShares": 10010590,
+        "change": -1702642,
+        "change_p": -14.5361
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0268,
+        "totalAssets": 1.2997,
+        "currentShares": 9187792,
+        "change": -22589,
+        "change_p": -0.2453
+      },
+      "7": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0022,
+        "totalAssets": 2.5955,
+        "currentShares": 8967852,
+        "change": -44210,
+        "change_p": -0.4906
+      },
+      "8": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7563,
+        "totalAssets": 4.1336,
+        "currentShares": 6767893,
+        "change": -345606,
+        "change_p": -4.8585
+      },
+      "9": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.6772,
+        "totalAssets": 3.3593,
+        "currentShares": 6059533,
+        "change": -708360,
+        "change_p": -10.4665
+      },
+      "10": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6473,
+        "totalAssets": 13.7172,
+        "currentShares": 5791771,
+        "change": 17552,
+        "change_p": 0.304
+      },
+      "11": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6103,
+        "totalAssets": 7.7177,
+        "currentShares": 5461428,
+        "change": -1038987,
+        "change_p": -15.9834
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4989,
+        "totalAssets": 1.3011,
+        "currentShares": 4464511,
+        "change": -33932,
+        "change_p": -0.7543
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4958,
+        "totalAssets": 3.4767,
+        "currentShares": 4436851,
+        "change": 60610,
+        "change_p": 1.385
+      },
+      "14": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4742,
+        "totalAssets": 2.1899,
+        "currentShares": 4242911,
+        "change": -94959,
+        "change_p": -2.1891
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4727,
+        "totalAssets": 1.2877,
+        "currentShares": 4230044,
+        "change": -3200,
+        "change_p": -0.0756
+      },
+      "16": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.4682,
+        "totalAssets": 4.4034,
+        "currentShares": 4189527,
+        "change": 217151,
+        "change_p": 5.4665
+      },
+      "17": {
+        "name": "Loomis Sayles Long Corp Disc Alpha",
+        "date": "2025-12-31",
+        "totalShares": 0.4564,
+        "totalAssets": 1.0153,
+        "currentShares": 4084000,
+        "change": -249000,
+        "change_p": -5.7466
+      },
+      "18": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.4439,
+        "totalAssets": 4.4351,
+        "currentShares": 3972376,
+        "change": 37529,
+        "change_p": 0.9538
+      },
+      "19": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.426,
+        "totalAssets": 1.3299,
+        "currentShares": 3811606,
+        "change": 1306601,
+        "change_p": 52.1596
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 38.4665,
+    "ForwardPE": 27.1739,
+    "PriceSalesTTM": 12.1157,
+    "PriceBookMRQ": 30.8946,
+    "EnterpriseValue": 855024436463,
+    "EnterpriseValueRevenue": 13.1181,
+    "EnterpriseValueEbitda": 26.9783
+  },
+  "Highlights": {
+    "MarketCapitalization": 789692284928,
+    "MarketCapitalizationMln": 789692.2849,
+    "EBITDA": 31693000704,
+    "PERatio": 38.4665,
+    "PEGRatio": 1.3519,
+    "WallStreetTargetPrice": 1210.5518,
+    "BookValue": 29.655,
+    "DividendShare": 6,
+    "DividendYield": 0.0065,
+    "EarningsShare": 22.98,
+    "EPSEstimateCurrentYear": 34.6332,
+    "EPSEstimateNextYear": 42.2112,
+    "EPSEstimateNextQuarter": 7.645,
+    "EPSEstimateCurrentQuarter": 6.9346,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3167,
+    "OperatingMarginTTM": 0.449,
+    "ReturnOnAssetsTTM": 0.1942,
+    "ReturnOnEquityTTM": 1.0116,
+    "RevenueTTM": 65179000832,
+    "RevenuePerShareTTM": 72.639,
+    "QuarterlyRevenueGrowthYOY": 0.426,
+    "GrossProfitTTM": 54127001600,
+    "DilutedEpsTTM": 22.98,
+    "QuarterlyEarningsGrowthYOY": 0.514
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.36,
+    "TotalEsgPercentile": 70.22,
+    "EnvironmentScore": 0.63,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 16.68,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 13.31,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LLY",
+    "Type": "Common Stock",
+    "Name": "Eli Lilly and Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BNBDC2",
+    "ISIN": "US5324571083",
+    "LEI": "FRDRIPF3EKNDJ2CQJL29",
+    "PrimaryTicker": "LLY.US",
+    "CUSIP": "532457108",
+    "CIK": "0000059478",
+    "EmployerIdNumber": "35-0470950",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Pharmaceuticals",
+    "GicSubIndustry": "Pharmaceuticals",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Eli Lilly and Company discovers, develops, manufactures, and markets human pharmaceutical products in the United States, Europe, China, Japan, and internationally. The company offers cardiometabolic health products, including Basaglar, Humalog, Humalog Mix 75/25, Humalog U-100, Humalog U-200, Humalog Mix 50/50, insulin lispro, insulin lispro protamine, insulin lispro mix 75/25, Humulin, Humulin 70/30, Humulin N, Humulin R, Humulin U-500 for diabetes; Jardiance, Mounjaro, and Trulicity for type 2 diabetes; and Zepbound for obesity. It also provides oncology products, such as Cyramza for the second-line treatment of gastric cancer or gastro-esophageal junction adenocarcinoma; Erbitux for colorectal cancers and head and neck cancers; Inluriyo for breast cancer; Jaypirca for chronic lymphocytic leukemia or small lymphocytic lymphoma; Retevmo for the treatment of metastatic NSCLC; TYVYT for classic hodgkin's lymphoma; and Verzenio for breast cancer. In addition, the company offers immunology products, which include Ebglyss for severe atopic dermatitis; Olumiant for rheumatoid arthritis, atopic dermatitis, severe alopecia areata, and COVID-19; Omvoh for ulcerative colitis; and Taltz for plaque psoriasis, psoriatic arthritis, ankylosing spondylitis, and non-radiographic axial spondylarthritis. Further, it provides Emgality for migraine prevention and episodic cluster headache, as well as Kisubla for symptomatic Alzheimer's disease. The company has collaborations with Boehringer Ingelheim Pharmaceuticals, Inc. for the Jardiance product family; and F. Hoffmann-La Roche Ltd and Genentech, Inc. for lebrikizumab, as well as license agreements with Almirall, S.A. for Ebglyss; and Chugai Pharmaceutical Co., Ltd for orforglipron. Eli Lilly and Company was founded in 1876 and is headquartered in Indianapolis, Indiana.",
+    "Address": "Lilly Corporate Center, Indianapolis, IN, United States, 46285",
+    "AddressData": {
+      "Street": "Lilly Corporate Center",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Country": "United States",
+      "ZIP": "46285"
+    },
+    "Listings": {
+      "0": {
+        "Code": "LILY34",
+        "Exchange": "SA",
+        "Name": "Eli Lilly and Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. David A. Ricks",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Lucas E. Montarce",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1978"
+      },
+      "2": {
+        "Name": "Dr. Daniel M. Skovronsky M.D., Ph.D.",
+        "Title": "Chief Scientific & Product Officer and President of Lilly Research Laboratories",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Ms. Anat  Hakim J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Donald A. Zakrowski",
+        "Title": "Senior VP of Finance & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Diogo  Rau",
+        "Title": "Executive VP and Chief Information & Digital Officer",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Mr. Michael  Czapar",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Ilya  Yuffa",
+        "Title": "Executive VP and President of Lilly USA & Global Customer Capabilities",
+        "YearBorn": "1975"
+      },
+      "8": {
+        "Name": "Mr. Patrik  Jonsson",
+        "Title": "Executive VP & President of Lilly International",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Frank  Cunningham",
+        "Title": "Senior Vice President of Global Value & Access",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "317 276 2000",
+    "WebURL": "https://www.lilly.com",
+    "LogoURL": "/img/logos/US/LLY.png",
+    "FullTimeEmployees": 50000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 893357420,
+    "SharesFloat": 890963222,
+    "PercentInsiders": 0.16999999999999998,
+    "PercentInstitutions": 85.06,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0097
+  }
+}

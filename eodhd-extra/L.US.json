@@ -1,0 +1,581 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 9.6,
+        "totalAssets": 0.0594,
+        "currentShares": 19753768,
+        "change": 8419971,
+        "change_p": 74.2908
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4408,
+        "totalAssets": 0.0297,
+        "currentShares": 19426064,
+        "change": 108882,
+        "change_p": 0.5637
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.8417,
+        "totalAssets": 0.0247,
+        "currentShares": 14078011,
+        "change": -509297,
+        "change_p": -3.4914
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8242,
+        "totalAssets": 0.0274,
+        "currentShares": 7868900,
+        "change": -194431,
+        "change_p": -2.4113
+      },
+      "4": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.664,
+        "totalAssets": 0.0618,
+        "currentShares": 5481709,
+        "change": -1780540,
+        "change_p": -24.5177
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4295,
+        "totalAssets": 0.0324,
+        "currentShares": 4999186,
+        "change": 271234,
+        "change_p": 5.7368
+      },
+      "6": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7686,
+        "totalAssets": 0.0391,
+        "currentShares": 3639239,
+        "change": -15814,
+        "change_p": -0.4327
+      },
+      "7": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.7249,
+        "totalAssets": 0.0561,
+        "currentShares": 3549364,
+        "change": -45520,
+        "change_p": -1.2662
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.6348,
+        "totalAssets": 0.0532,
+        "currentShares": 3363861,
+        "change": 12311,
+        "change_p": 0.3673
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5738,
+        "totalAssets": 0.0418,
+        "currentShares": 3238358,
+        "change": 786817,
+        "change_p": 32.0948
+      },
+      "10": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3747,
+        "totalAssets": 0.4796,
+        "currentShares": 2828617,
+        "change": -68802,
+        "change_p": -2.3746
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0898,
+        "totalAssets": 0.0495,
+        "currentShares": 2242476,
+        "change": -33910,
+        "change_p": -1.4896
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0499,
+        "totalAssets": 0.0131,
+        "currentShares": 2160380,
+        "change": 151566,
+        "change_p": 7.545
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0323,
+        "totalAssets": 0.0273,
+        "currentShares": 2124124,
+        "change": -3459,
+        "change_p": -0.1626
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7643,
+        "totalAssets": 0.0257,
+        "currentShares": 1572682,
+        "change": -531,
+        "change_p": -0.0338
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.6371,
+        "totalAssets": 0.0286,
+        "currentShares": 1310904,
+        "change": -317031,
+        "change_p": -19.4744
+      },
+      "16": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.628,
+        "totalAssets": 0.1408,
+        "currentShares": 1292128,
+        "change": -65130,
+        "change_p": -4.7986
+      },
+      "17": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6226,
+        "totalAssets": 0.0363,
+        "currentShares": 1281196,
+        "change": 610546,
+        "change_p": 91.0379
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6209,
+        "totalAssets": 0.0298,
+        "currentShares": 1277706,
+        "change": -63161,
+        "change_p": -4.7105
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5475,
+        "totalAssets": 0.0203,
+        "currentShares": 1126671,
+        "change": -36254,
+        "change_p": -3.1175
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5395,
+        "totalAssets": 0.0279,
+        "currentShares": 5225485,
+        "change": 1928,
+        "change_p": 0.0369
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.091,
+        "totalAssets": 0.0323,
+        "currentShares": 4302684,
+        "change": -53343,
+        "change_p": -1.2246
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.7305,
+        "totalAssets": 0.1913,
+        "currentShares": 3560856,
+        "change": -32659,
+        "change_p": -0.9088
+      },
+      "3": {
+        "name": "JPM America Equity A (dist) USD",
+        "date": "2026-02-28",
+        "totalShares": 1.212,
+        "totalAssets": 3.4697,
+        "currentShares": 2493958,
+        "change": 102919,
+        "change_p": 4.3044
+      },
+      "4": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.0628,
+        "totalAssets": 1.8164,
+        "currentShares": 2186950,
+        "change": -63500,
+        "change_p": -2.8217
+      },
+      "5": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.0628,
+        "totalAssets": 1.8194,
+        "currentShares": 2186950,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.0628,
+        "totalAssets": 1.8164,
+        "currentShares": 2186950,
+        "change": -63500,
+        "change_p": -2.8217
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0558,
+        "totalAssets": 0.0322,
+        "currentShares": 2172487,
+        "change": -1188,
+        "change_p": -0.0547
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0481,
+        "totalAssets": 0.0317,
+        "currentShares": 2156600,
+        "change": 3547,
+        "change_p": 0.1647
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9593,
+        "totalAssets": 0.0324,
+        "currentShares": 1973850,
+        "change": -4802,
+        "change_p": -0.2427
+      },
+      "10": {
+        "name": "T. Rowe Price Equity Income",
+        "date": "2026-03-31",
+        "totalShares": 0.9496,
+        "totalAssets": 1.2906,
+        "currentShares": 1954000,
+        "change": 39000,
+        "change_p": 2.0366
+      },
+      "11": {
+        "name": "T. Rowe Price US Lg-Cp Equity Inc Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9331,
+        "totalAssets": 1.2247,
+        "currentShares": 1920000,
+        "change": 150000,
+        "change_p": 8.4746
+      },
+      "12": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.831,
+        "totalAssets": 1.6168,
+        "currentShares": 1709890,
+        "change": 23323,
+        "change_p": 1.3829
+      },
+      "13": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.7883,
+        "totalAssets": 1.5979,
+        "currentShares": 1622004,
+        "change": -38923,
+        "change_p": -2.3435
+      },
+      "14": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7757,
+        "totalAssets": 0.1998,
+        "currentShares": 1596162,
+        "change": 4716,
+        "change_p": 0.2963
+      },
+      "15": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7404,
+        "totalAssets": 0.0721,
+        "currentShares": 1523561,
+        "change": -14919,
+        "change_p": -0.9697
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5612,
+        "totalAssets": 0.2554,
+        "currentShares": 1154847,
+        "change": 1947,
+        "change_p": 0.1689
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5211,
+        "totalAssets": 0.3294,
+        "currentShares": 1072289,
+        "change": 40469,
+        "change_p": 3.9221
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4624,
+        "totalAssets": 0.0322,
+        "currentShares": 951521,
+        "change": -8492,
+        "change_p": -0.8846
+      },
+      "19": {
+        "name": "JPMorgan Value Advantage L",
+        "date": "2026-02-28",
+        "totalShares": 0.4416,
+        "totalAssets": 1.1553,
+        "currentShares": 908673,
+        "change": -51789,
+        "change_p": -5.3921
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 13.8745,
+    "ForwardPE": 12.1951,
+    "PriceSalesTTM": 1.233,
+    "PriceBookMRQ": 1.238,
+    "EnterpriseValue": 32126404609,
+    "EnterpriseValueRevenue": 1.7675,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 22753792000,
+    "MarketCapitalizationMln": 22753.792,
+    "EBITDA": 3256000000,
+    "PERatio": 13.8745,
+    "PEGRatio": 1.3215,
+    "WallStreetTargetPrice": 60,
+    "BookValue": 90.707,
+    "DividendShare": 0.25,
+    "DividendYield": 0.0022,
+    "EarningsShare": 7.97,
+    "EPSEstimateCurrentYear": 0,
+    "EPSEstimateNextYear": 0,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0903,
+    "OperatingMarginTTM": 0.1308,
+    "ReturnOnAssetsTTM": 0.0197,
+    "ReturnOnEquityTTM": 0.0943,
+    "RevenueTTM": 18453999616,
+    "RevenuePerShareTTM": 88.314,
+    "QuarterlyRevenueGrowthYOY": 0.041,
+    "GrossProfitTTM": 6736000000,
+    "DilutedEpsTTM": 7.97,
+    "QuarterlyEarningsGrowthYOY": 1.26
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 14.52,
+    "TotalEsgPercentile": 7,
+    "EnvironmentScore": 1.95,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 0.66,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 10.81,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "L",
+    "Type": "Common Stock",
+    "Name": "Loews Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C45984",
+    "ISIN": "US5404241086",
+    "LEI": "R8V1FN4M5ITGZOG7BS19",
+    "PrimaryTicker": "L.US",
+    "CUSIP": "540424207",
+    "CIK": "0000060086",
+    "EmployerIdNumber": "13-2646102",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-07-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Property & Casualty",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Multi-line Insurance",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Loews Corporation, through its subsidiaries, provides commercial property and casualty insurance in the United States and internationally. The company offers specialty insurance products, such as management and professional liability and other coverage products; surety and fidelity bonds; professional liability coverages and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; standard and excess property, marine and boiler, machinery coverages, workers' compensation, general and product liability, commercial auto, umbrella, excess and surplus coverages, specialized loss-sensitive insurance programs, total risk management services relating to claim and information services; directors and officers, errors and omissions, employment practices, fiduciary, fidelity, and cyber coverages, as well as for small and mid-size firms, public and privately held firms, and not-for-profit organizations; and insurance products to serve the health care industry, including professional and general liability, as well as associated casualty coverage to aging services, allied medical facilities, dentists, physicians, nurses, and other medical practitioners. It also provides warranty and alternative risk, and run-off long-term care insurance products; ethane supply and transportation services for petrochemical customers, as well as transports and stores natural gas and natural gas liquids; operates a chain of hotels; develops, manufactures, and markets a range of extrusion blow-molded and injection molded plastic containers; and manufactures commodities and differentiated plastic resins. The company markets its insurance products and services through a network of retail and wholesale brokers, independent agents, brokers, and managing general underwriters. Loews Corporation was incorporated in 1969 and is headquartered in New York, New York.",
+    "Address": "9 West 57th Street, New York, NY, United States, 10019-2714",
+    "AddressData": {
+      "Street": "9 West 57th Street",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10019-2714"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Benjamin J. Tisch",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1983"
+      },
+      "1": {
+        "Name": "Ms. Jane J. Wang",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1982"
+      },
+      "2": {
+        "Name": "Mr. Kenneth I. Siegel",
+        "Title": "Senior Vice President",
+        "YearBorn": "1957"
+      },
+      "3": {
+        "Name": "Mr. David Eugene Czerniecki C.F.A.",
+        "Title": "Senior VP & Chief Investment Officer",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Mark S. Schwartz",
+        "Title": "VP, Chief Accounting Officer & Treasurer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Chris  Nugent",
+        "Title": "VP of Investor Relations & Corporate Development",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Marc A. Alpert J.D.",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1963"
+      },
+      "7": {
+        "Name": "Mr. Ira  Altman",
+        "Title": "Vice President of Human Resources",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Peter W. Keegan",
+        "Title": "Senior Advisor to the President",
+        "YearBorn": "1945"
+      }
+    },
+    "Phone": "212 521 2000",
+    "WebURL": "https://www.loews.com",
+    "LogoURL": "/img/logos/US/L.png",
+    "FullTimeEmployees": 13100,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 205767698,
+    "SharesFloat": 169027233,
+    "PercentInsiders": 18.93,
+    "PercentInstitutions": 60.805,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0236
+  }
+}

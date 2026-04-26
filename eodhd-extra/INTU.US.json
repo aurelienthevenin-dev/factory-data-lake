@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.4569,
+        "totalAssets": 0.2777,
+        "currentShares": 28918438,
+        "change": 296448,
+        "change_p": 1.0357
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.9456,
+        "totalAssets": 0.3288,
+        "currentShares": 27504560,
+        "change": 1672758,
+        "change_p": 6.4756
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.6443,
+        "totalAssets": 0.4325,
+        "currentShares": 21140214,
+        "change": 12318376,
+        "change_p": 139.635
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6584,
+        "totalAssets": 0.3051,
+        "currentShares": 12882779,
+        "change": 158456,
+        "change_p": 1.2453
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3918,
+        "totalAssets": 0.2697,
+        "currentShares": 6614539,
+        "change": 87451,
+        "change_p": 1.3398
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.2867,
+        "totalAssets": 0.462,
+        "currentShares": 6323876,
+        "change": -1916133,
+        "change_p": -23.254
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8224,
+        "totalAssets": 0.2084,
+        "currentShares": 5039947,
+        "change": 546449,
+        "change_p": 12.1609
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6695,
+        "totalAssets": 0.3272,
+        "currentShares": 4617021,
+        "change": 466811,
+        "change_p": 11.2479
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3586,
+        "totalAssets": 0.4042,
+        "currentShares": 3757171,
+        "change": 271407,
+        "change_p": 7.7862
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.3021,
+        "totalAssets": 0.418,
+        "currentShares": 3600944,
+        "change": -427608,
+        "change_p": -10.6144
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2475,
+        "totalAssets": 0.3014,
+        "currentShares": 3450001,
+        "change": 158843,
+        "change_p": 4.8264
+      },
+      "11": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2068,
+        "totalAssets": 0.4949,
+        "currentShares": 3337287,
+        "change": 1321,
+        "change_p": 0.0396
+      },
+      "12": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.106,
+        "totalAssets": 1.5912,
+        "currentShares": 3058534,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0968,
+        "totalAssets": 0.2464,
+        "currentShares": 3033266,
+        "change": 398093,
+        "change_p": 15.1069
+      },
+      "14": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0021,
+        "totalAssets": 0.0936,
+        "currentShares": 2771287,
+        "change": 98438,
+        "change_p": 3.6829
+      },
+      "15": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9185,
+        "totalAssets": 2.3475,
+        "currentShares": 2540153,
+        "change": -309633,
+        "change_p": -10.8651
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8914,
+        "totalAssets": 0.4276,
+        "currentShares": 2465130,
+        "change": 419941,
+        "change_p": 20.5331
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8388,
+        "totalAssets": 0.2842,
+        "currentShares": 2319761,
+        "change": -5226,
+        "change_p": -0.2248
+      },
+      "18": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.826,
+        "totalAssets": 0.5165,
+        "currentShares": 2284310,
+        "change": -242597,
+        "change_p": -9.6006
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7822,
+        "totalAssets": 0.3178,
+        "currentShares": 2163080,
+        "change": 212688,
+        "change_p": 10.9049
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1965,
+        "totalAssets": 0.1914,
+        "currentShares": 8839788,
+        "change": 38311,
+        "change_p": 0.4353
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5619,
+        "totalAssets": 0.2153,
+        "currentShares": 7084875,
+        "change": -86551,
+        "change_p": -1.2069
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0987,
+        "totalAssets": 0.6763,
+        "currentShares": 5804080,
+        "change": -19436,
+        "change_p": -0.3338
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2933,
+        "totalAssets": 0.2148,
+        "currentShares": 3576663,
+        "change": -1944,
+        "change_p": -0.0543
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.283,
+        "totalAssets": 0.1937,
+        "currentShares": 3548142,
+        "change": 5848,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1658,
+        "totalAssets": 0.2144,
+        "currentShares": 3224111,
+        "change": -7938,
+        "change_p": -0.2456
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0978,
+        "totalAssets": 0.4131,
+        "currentShares": 3036001,
+        "change": 7411,
+        "change_p": 0.2447
+      },
+      "7": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.755,
+        "totalAssets": 1.0707,
+        "currentShares": 2087882,
+        "change": 5555,
+        "change_p": 0.2668
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6783,
+        "totalAssets": 0.6665,
+        "currentShares": 1875909,
+        "change": -2430,
+        "change_p": -0.1294
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5669,
+        "totalAssets": 0.2148,
+        "currentShares": 1567817,
+        "change": -11837,
+        "change_p": -0.7493
+      },
+      "10": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.5739,
+        "currentShares": 1558090,
+        "change": 19598,
+        "change_p": 1.2738
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5371,
+        "totalAssets": 0.2126,
+        "currentShares": 1485443,
+        "change": -800,
+        "change_p": -0.0538
+      },
+      "12": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.48,
+        "totalAssets": 1.5927,
+        "currentShares": 1327386,
+        "change": 350161,
+        "change_p": 35.8322
+      },
+      "13": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.4696,
+        "totalAssets": 1.7787,
+        "currentShares": 1298635,
+        "change": 1298137,
+        "change_p": 260670.0803
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4545,
+        "totalAssets": 0.2145,
+        "currentShares": 1256866,
+        "change": 4848,
+        "change_p": 0.3872
+      },
+      "15": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4327,
+        "totalAssets": 1.9345,
+        "currentShares": 1196769,
+        "change": -177588,
+        "change_p": -12.9215
+      },
+      "16": {
+        "name": "iShares Expanded Tech-Software Sect ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.427,
+        "totalAssets": 4.7502,
+        "currentShares": 1180814,
+        "change": 40480,
+        "change_p": 3.5498
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3999,
+        "totalAssets": 0.316,
+        "currentShares": 1106026,
+        "change": 1106026,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3999,
+        "totalAssets": 0.316,
+        "currentShares": 1106026,
+        "change": -13287,
+        "change_p": -1.1871
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3999,
+        "totalAssets": 0.316,
+        "currentShares": 1106026,
+        "change": -13287,
+        "change_p": -1.1871
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.7612,
+    "ForwardPE": 14.4092,
+    "PriceSalesTTM": 5.476,
+    "PriceBookMRQ": 5.5629,
+    "EnterpriseValue": 109914615000,
+    "EnterpriseValueRevenue": 5.4627,
+    "EnterpriseValueEbitda": 16.7809
+  },
+  "Highlights": {
+    "MarketCapitalization": 110182629376,
+    "MarketCapitalizationMln": 110182.6294,
+    "EBITDA": 6106999808,
+    "PERatio": 25.7612,
+    "PEGRatio": 0.9836,
+    "WallStreetTargetPrice": 594.1097,
+    "BookValue": 68.669,
+    "DividendShare": 4.48,
+    "DividendYield": 0.0117,
+    "EarningsShare": 15.37,
+    "EPSEstimateCurrentYear": 23.2242,
+    "EPSEstimateNextYear": 26.4828,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 3.6826,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.2157,
+    "OperatingMarginTTM": 0.1838,
+    "ReturnOnAssetsTTM": 0.1033,
+    "ReturnOnEquityTTM": 0.2346,
+    "RevenueTTM": 20120999936,
+    "RevenuePerShareTTM": 71.989,
+    "QuarterlyRevenueGrowthYOY": 0.174,
+    "GrossProfitTTM": 16277000192,
+    "DilutedEpsTTM": 15.37,
+    "QuarterlyEarningsGrowthYOY": 0.485
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.74,
+    "TotalEsgPercentile": 15.22,
+    "EnvironmentScore": 6.61,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 11.98,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 9.15,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "INTU",
+    "Type": "Common Stock",
+    "Name": "Intuit Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BH5DV1",
+    "ISIN": "US4612021034",
+    "LEI": "VI90HBPH7XSFMB9E4M29",
+    "PrimaryTicker": "INTU.US",
+    "CUSIP": "461202103",
+    "CIK": "0000896878",
+    "EmployerIdNumber": "77-0034661",
+    "FiscalYearEnd": "July",
+    "IPODate": "1993-03-12",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Intuit Inc. provides financial management, payments and capital, compliance, and marketing products and services in the United States. The company operates in four segments: Global Business Solutions, Consumer, Credit Karma, and ProTax. The Global Business Solutions segment provides QuickBooks services, which include financial and business management online services, desktop software, payroll solutions, time tracking, merchant payment processing and bill pay solutions, checking accounts, and financing services for small and mid-market businesses; and Mailchimp, a marketing automation and customer relationship management. This segment also offers QuickBooks online services and desktop software solutions comprising QuickBooks Online, QuickBooks Live, QuickBooks Online Advanced, QuickBooks Self-Employed, QuickBooks Solopreneur financial and business management offerings, QuickBooks Online Payroll, QuickBooks Checking, QuickBooks Desktop software subscriptions, and QuickBooks Assisted Payroll. The Consumer segment provides do-it-yourself and assisted TurboTax income tax preparation products and services. The Credit Karma segment offers consumers with a personal finance platform that provides recommendations for credit card, home, auto, and personal loan, and insurance products; online savings and checking accounts; and access to its credit scores and reports, credit and identity monitoring, credit report dispute, credit building tools, and tools. The ProTax segment provides Lacerte, ProSeries, and ProFile desktop tax-preparation software products; and ProConnect Tax Online bill pay tax products, electronic tax filing service, and bank products and related services. It sells products and services through direct sales channels, multichannel shop-and-buy experiences, mobile application stores, and partner and other channels. Intuit Inc. was founded in 1983 and is headquartered in Mountain View, California.",
+    "Address": "2700 Coast Avenue, Mountain View, CA, United States, 94043",
+    "AddressData": {
+      "Street": "2700 Coast Avenue",
+      "City": "Mountain View",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94043"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Sasan K. Goodarzi",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Scott D. Cook",
+        "Title": "Founder & Director",
+        "YearBorn": "1952"
+      },
+      "2": {
+        "Name": "Mr. Sandeep Singh Aujla",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Alex G. Balazs",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Mark  Notarainni",
+        "Title": "Executive VP & GM of Consumer Group",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Ms. Marianna  Tessel",
+        "Title": "Executive VP & GM of Small Business Group",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Ms. Lauren D. Hotz",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1976"
+      },
+      "7": {
+        "Name": "Anne-Sophie  Seigneurbieux",
+        "Title": "Senior Vice President of Investor Relations, Corporate & Strategic Finance",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Kerry J. McLean J.D.",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1964"
+      },
+      "9": {
+        "Name": "Ms. Shveta  Mujumdar",
+        "Title": "Vice President of Corporate Development",
+        "YearBorn": "1980"
+      }
+    },
+    "Phone": "650 944 6000",
+    "WebURL": "https://www.intuit.com",
+    "LogoURL": "/img/logos/US/INTU.png",
+    "FullTimeEmployees": 18200,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 276550000,
+    "SharesFloat": 270311032,
+    "PercentInsiders": 2.3539999999999996,
+    "PercentInstitutions": 91.006,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0285
+  }
+}

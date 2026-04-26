@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4145,
+        "totalAssets": 0.1032,
+        "currentShares": 20171049,
+        "change": 191658,
+        "change_p": 0.9593
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3962,
+        "totalAssets": 0.0989,
+        "currentShares": 15846586,
+        "change": -84174,
+        "change_p": -0.5284
+      },
+      "2": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.7189,
+        "totalAssets": 0.588,
+        "currentShares": 12252904,
+        "change": 176207,
+        "change_p": 1.4591
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3077,
+        "totalAssets": 0.1141,
+        "currentShares": 9229464,
+        "change": 105154,
+        "change_p": 1.1525
+      },
+      "4": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 3.9883,
+        "totalAssets": 0.9723,
+        "currentShares": 8545036,
+        "change": -212650,
+        "change_p": -2.4282
+      },
+      "5": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 3.665,
+        "totalAssets": 1.4958,
+        "currentShares": 7852456,
+        "change": 4387773,
+        "change_p": 126.6428
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.1245,
+        "totalAssets": 0.0715,
+        "currentShares": 6694394,
+        "change": 1994792,
+        "change_p": 42.446
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.8641,
+        "totalAssets": 0.1325,
+        "currentShares": 6136386,
+        "change": -3331026,
+        "change_p": -35.1841
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3997,
+        "totalAssets": 0.1117,
+        "currentShares": 5141363,
+        "change": 28066,
+        "change_p": 0.5489
+      },
+      "9": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9136,
+        "totalAssets": 0.5469,
+        "currentShares": 4100000,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.7341,
+        "totalAssets": 0.2377,
+        "currentShares": 3715346,
+        "change": 207690,
+        "change_p": 5.921
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.529,
+        "totalAssets": 0.1237,
+        "currentShares": 3275848,
+        "change": 1160502,
+        "change_p": 54.8611
+      },
+      "12": {
+        "name": "Farallon Capital Management, L.L.C.",
+        "date": "2025-12-31",
+        "totalShares": 1.244,
+        "totalAssets": 4.438,
+        "currentShares": 2665238,
+        "change": 387221,
+        "change_p": 16.9982
+      },
+      "13": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.1272,
+        "totalAssets": 0.736,
+        "currentShares": 2415006,
+        "change": 2388314,
+        "change_p": 8947.6772
+      },
+      "14": {
+        "name": "Eagle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0592,
+        "totalAssets": 2.494,
+        "currentShares": 2269414,
+        "change": -14737,
+        "change_p": -0.6452
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0329,
+        "totalAssets": 0.101,
+        "currentShares": 2213069,
+        "change": -55614,
+        "change_p": -2.4514
+      },
+      "16": {
+        "name": "Independent Franchise Partners LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9874,
+        "totalAssets": 4.7477,
+        "currentShares": 2115523,
+        "change": 19037,
+        "change_p": 0.908
+      },
+      "17": {
+        "name": "Veritas Asset Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9299,
+        "totalAssets": 7.1943,
+        "currentShares": 1992453,
+        "change": -61220,
+        "change_p": -2.981
+      },
+      "18": {
+        "name": "WCM Investment Management",
+        "date": "2025-12-31",
+        "totalShares": 0.927,
+        "totalAssets": 1.4578,
+        "currentShares": 1986128,
+        "change": -51715,
+        "change_p": -2.5377
+      },
+      "19": {
+        "name": "Polen Capital",
+        "date": "2025-12-31",
+        "totalShares": 0.8617,
+        "totalAssets": 2.7818,
+        "currentShares": 1846294,
+        "change": -643873,
+        "change_p": -25.8566
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0187,
+        "totalAssets": 0.1046,
+        "currentShares": 6467595,
+        "change": 8434,
+        "change_p": 0.1306
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5487,
+        "totalAssets": 0.1239,
+        "currentShares": 5460648,
+        "change": -67969,
+        "change_p": -1.2294
+      },
+      "2": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 1.7195,
+        "totalAssets": 1.0863,
+        "currentShares": 3684200,
+        "change": 1885500,
+        "change_p": 104.8257
+      },
+      "3": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.5031,
+        "totalAssets": 0.3943,
+        "currentShares": 3220470,
+        "change": 108000,
+        "change_p": 3.4699
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2868,
+        "totalAssets": 0.1236,
+        "currentShares": 2757132,
+        "change": -1500,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2767,
+        "totalAssets": 0.1225,
+        "currentShares": 2735318,
+        "change": 4511,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.2732,
+        "totalAssets": 1.7536,
+        "currentShares": 2727929,
+        "change": -111481,
+        "change_p": -3.9262
+      },
+      "7": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.2226,
+        "totalAssets": 1.5706,
+        "currentShares": 2619427,
+        "change": -68012,
+        "change_p": -2.5307
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1591,
+        "totalAssets": 0.1233,
+        "currentShares": 2483354,
+        "change": -6125,
+        "change_p": -0.246
+      },
+      "9": {
+        "name": "Dodge & Cox International Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.9583,
+        "totalAssets": 1.1783,
+        "currentShares": 2053100,
+        "change": 1051700,
+        "change_p": 105.023
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.878,
+        "totalAssets": 0.269,
+        "currentShares": 1881176,
+        "change": -19842,
+        "change_p": -1.0438
+      },
+      "11": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8077,
+        "totalAssets": 0.2802,
+        "currentShares": 1730623,
+        "change": 49824,
+        "change_p": 2.9643
+      },
+      "12": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7982,
+        "totalAssets": 0.3731,
+        "currentShares": 1710242,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7845,
+        "totalAssets": 0.2849,
+        "currentShares": 1680799,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "MS INVF Global Brands A",
+        "date": "2026-03-31",
+        "totalShares": 0.7142,
+        "totalAssets": 4.0498,
+        "currentShares": 1530308,
+        "change": 410848,
+        "change_p": 36.7006
+      },
+      "15": {
+        "name": "Capital Group EUPAC Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.704,
+        "totalAssets": 0.3954,
+        "currentShares": 1508354,
+        "change": -11670,
+        "change_p": -0.7678
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6843,
+        "totalAssets": 0.9805,
+        "currentShares": 1466101,
+        "change": 2475,
+        "change_p": 0.1691
+      },
+      "17": {
+        "name": "Morgan Stanley Glbl Franchise",
+        "date": "2025-12-31",
+        "totalShares": 0.5837,
+        "totalAssets": 2.6529,
+        "currentShares": 1250521,
+        "change": -156809,
+        "change_p": -11.1423
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5641,
+        "totalAssets": 0.1236,
+        "currentShares": 1208510,
+        "change": -8654,
+        "change_p": -0.711
+      },
+      "19": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5606,
+        "totalAssets": 0.3303,
+        "currentShares": 1201010,
+        "change": 16541,
+        "change_p": 1.3965
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.0136,
+    "ForwardPE": 16.9779,
+    "PriceSalesTTM": 4.0175,
+    "PriceBookMRQ": 7.4128,
+    "EnterpriseValue": 82597184725,
+    "EnterpriseValueRevenue": 4.8075,
+    "EnterpriseValueEbitda": 12.6295
+  },
+  "Highlights": {
+    "MarketCapitalization": 69024317440,
+    "MarketCapitalizationMln": 69024.3174,
+    "EBITDA": 5664000000,
+    "PERatio": 19.0136,
+    "PEGRatio": 2.5721,
+    "WallStreetTargetPrice": 389.9474,
+    "BookValue": 43.599,
+    "DividendShare": 2.91,
+    "DividendYield": 0.009,
+    "EarningsShare": 16.89,
+    "EPSEstimateCurrentYear": 18.9869,
+    "EPSEstimateNextYear": 21.391,
+    "EPSEstimateNextQuarter": 6.3668,
+    "EPSEstimateCurrentQuarter": 4.7473,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2151,
+    "OperatingMarginTTM": 0.3135,
+    "ReturnOnAssetsTTM": 0.0589,
+    "ReturnOnEquityTTM": 0.4694,
+    "RevenueTTM": 17180999680,
+    "RevenuePerShareTTM": 79.579,
+    "QuarterlyRevenueGrowthYOY": 0.037,
+    "GrossProfitTTM": 8109000192,
+    "DilutedEpsTTM": 16.89,
+    "QuarterlyEarningsGrowthYOY": 1.383
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 27.5,
+    "TotalEsgPercentile": 34.5,
+    "EnvironmentScore": 3.06,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 14.44,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 16,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AON",
+    "Type": "Common Stock",
+    "Name": "Aon PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00SSQFPK6",
+    "ISIN": "IE00BLP1HW54",
+    "LEI": "635400FALWQYX5E6QC64",
+    "PrimaryTicker": "AON.US",
+    "CUSIP": "G0403H108",
+    "CIK": "0000315293",
+    "EmployerIdNumber": "98-1030901",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-09-07",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance Brokers",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Insurance Brokers",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Aon plc operates as a professional services firm in the United States, rest of the Americas, the United Kingdom, Ireland, rest of Europe, the Middle East, Africa, and the Asia Pacific. It operates through Risk Capital and Human Capital segments. The company offers commercial risk solutions comprising retail and insurance brokerage, specialty solutions, global risk consulting, captives management, and affinity programs; health solutions, such as consulting and brokerage, consumer benefits, and talent advisory services; and wealth solutions, including retirement consulting and investments. It also provides treaty and facultative reinsurance; strategy and technology group solutions; insurance-linked securities, capital raising, strategic advice, restructuring, and merger and acquisition services; and risk management products and solutions, capital market solutions, and corporate finance advisory services. In addition, the company offers strategic design advice and actuarial services; pension risk transfer and integrated pension administration; and investment advisory services on developing and maintaining investment programs across various plan types, including defined benefit plans, defined contribution plans, master trusts, and pooled employer plans for corporations, public pensions, endowments, and foundations. Aon plc was incorporated in 1979 and is headquartered in Dublin, Ireland.",
+    "Address": "15 George's Quay, Dublin, Ireland, D02 VR98",
+    "AddressData": {
+      "Street": "15 George's Quay",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "ZIP": "D02 VR98"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Gregory Clarence Case",
+        "Title": "President, CEO & Executive Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Edmund J. Reese",
+        "Title": "Executive VP & Chief Financial Officer",
+        "YearBorn": "1975"
+      },
+      "2": {
+        "Name": "Ms. Mindy F. Simon",
+        "Title": "Global Chief Operating Officer",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Ms. Lisa J. Stevens",
+        "Title": "Chief Administrative Officer",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. David J. DeBrunner",
+        "Title": "Senior VP, Global Controller & Chief Accounting Officer",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Ms. Hallie Elsner Miller",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Darren  Zeidel",
+        "Title": "Executive VP, General Counsel & Company Secretary",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Mr. Michael  Neller",
+        "Title": "Deputy Global Chief People Officer and Head of Total Rewards & Talent Development",
+        "YearBorn": "1979"
+      },
+      "8": {
+        "Name": "Ms. Karen  Kissam",
+        "Title": "Senior Vice President - H&B Local Practice Leader",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Brian  Slife",
+        "Title": "Senior VP & Resident Managing Director of Aon Risk Solutions - Cleveland & Columbus",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "353 1 266 6000",
+    "WebURL": "https://www.aon.com",
+    "LogoURL": "/img/logos/US/aon.png",
+    "FullTimeEmployees": 60000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 214254496,
+    "SharesFloat": 208032545,
+    "PercentInsiders": 2.843,
+    "PercentInstitutions": 89.208,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0117
+  }
+}

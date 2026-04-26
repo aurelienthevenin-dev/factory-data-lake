@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4344,
+        "totalAssets": 0.0831,
+        "currentShares": 77610805,
+        "change": 885085,
+        "change_p": 1.1536
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2667,
+        "totalAssets": 0.0729,
+        "currentShares": 51597308,
+        "change": 985102,
+        "change_p": 1.9464
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.7374,
+        "totalAssets": 0.1016,
+        "currentShares": 42052030,
+        "change": 21857654,
+        "change_p": 108.2363
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.7512,
+        "totalAssets": 0.1011,
+        "currentShares": 35896553,
+        "change": 1752296,
+        "change_p": 5.132
+      },
+      "4": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6224,
+        "totalAssets": 0.1578,
+        "currentShares": 28851485,
+        "change": 2589406,
+        "change_p": 9.8599
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.4736,
+        "totalAssets": 0.2409,
+        "currentShares": 27922775,
+        "change": -3716443,
+        "change_p": -11.7463
+      },
+      "6": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 3.0144,
+        "totalAssets": 0.4481,
+        "currentShares": 18814767,
+        "change": -712106,
+        "change_p": -3.6468
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6429,
+        "totalAssets": 0.0749,
+        "currentShares": 16496124,
+        "change": 126498,
+        "change_p": 0.7728
+      },
+      "8": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9762,
+        "totalAssets": 1.5005,
+        "currentShares": 12334556,
+        "change": -739125,
+        "change_p": -5.6535
+      },
+      "9": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8551,
+        "totalAssets": 1.7118,
+        "currentShares": 11578918,
+        "change": -583810,
+        "change_p": -4.8
+      },
+      "10": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2503,
+        "totalAssets": 0.0707,
+        "currentShares": 7803782,
+        "change": -1354347,
+        "change_p": -14.7885
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2469,
+        "totalAssets": 0.0989,
+        "currentShares": 7782869,
+        "change": 416447,
+        "change_p": 5.6533
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1517,
+        "totalAssets": 0.0351,
+        "currentShares": 7188777,
+        "change": 473581,
+        "change_p": 7.0524
+      },
+      "13": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0722,
+        "totalAssets": 0.1346,
+        "currentShares": 6692372,
+        "change": 1243890,
+        "change_p": 22.83
+      },
+      "14": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.037,
+        "totalAssets": 0.464,
+        "currentShares": 6472774,
+        "change": 465908,
+        "change_p": 7.7563
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0188,
+        "totalAssets": 0.024,
+        "currentShares": 6359051,
+        "change": -59390,
+        "change_p": -0.9253
+      },
+      "16": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0003,
+        "totalAssets": 0.1023,
+        "currentShares": 6243497,
+        "change": 229444,
+        "change_p": 3.8151
+      },
+      "17": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.9771,
+        "totalAssets": 0.1066,
+        "currentShares": 6098386,
+        "change": 2145063,
+        "change_p": 54.2597
+      },
+      "18": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9147,
+        "totalAssets": 1.4043,
+        "currentShares": 5709383,
+        "change": -475285,
+        "change_p": -7.6849
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8443,
+        "totalAssets": 0.0544,
+        "currentShares": 5269565,
+        "change": 10970,
+        "change_p": 0.2086
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1747,
+        "totalAssets": 0.0788,
+        "currentShares": 19815584,
+        "change": 1108283,
+        "change_p": 5.9243
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4132,
+        "totalAssets": 0.0841,
+        "currentShares": 15062196,
+        "change": -153315,
+        "change_p": -1.0076
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1592,
+        "totalAssets": 0.5388,
+        "currentShares": 13477187,
+        "change": 619961,
+        "change_p": 4.8219
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0978,
+        "totalAssets": 0.2803,
+        "currentShares": 13093664,
+        "change": -43817,
+        "change_p": -0.3335
+      },
+      "4": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6146,
+        "totalAssets": 3.2963,
+        "currentShares": 10077519,
+        "change": -8595,
+        "change_p": -0.0852
+      },
+      "5": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.5575,
+        "totalAssets": 1.308,
+        "currentShares": 9721164,
+        "change": -397270,
+        "change_p": -3.9262
+      },
+      "6": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.4955,
+        "totalAssets": 1.3908,
+        "currentShares": 9334514,
+        "change": -242364,
+        "change_p": -2.5307
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2183,
+        "totalAssets": 0.0839,
+        "currentShares": 7603865,
+        "change": -4140,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2061,
+        "totalAssets": 0.0838,
+        "currentShares": 7528102,
+        "change": 12423,
+        "change_p": 0.1653
+      },
+      "9": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 1.1137,
+        "totalAssets": 1.3173,
+        "currentShares": 6950987,
+        "change": 213714,
+        "change_p": 3.1721
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.102,
+        "totalAssets": 0.084,
+        "currentShares": 6878126,
+        "change": -16856,
+        "change_p": -0.2445
+      },
+      "11": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 1.1012,
+        "totalAssets": 1.3245,
+        "currentShares": 6873422,
+        "change": 455460,
+        "change_p": 7.0966
+      },
+      "12": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 1.0906,
+        "totalAssets": 0.391,
+        "currentShares": 6806980,
+        "change": 6806980,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1,
+        "totalAssets": 0.2989,
+        "currentShares": 6241558,
+        "change": 6241558,
+        "change_p": 0
+      },
+      "14": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9511,
+        "totalAssets": 0.4315,
+        "currentShares": 5936294,
+        "change": 2615867,
+        "change_p": 78.781
+      },
+      "15": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9238,
+        "totalAssets": 0.2029,
+        "currentShares": 5765999,
+        "change": 258871,
+        "change_p": 4.7007
+      },
+      "16": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.7061,
+        "totalAssets": 1.0537,
+        "currentShares": 4406990,
+        "change": -1776396,
+        "change_p": -28.7285
+      },
+      "17": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6529,
+        "totalAssets": 2.9849,
+        "currentShares": 4074857,
+        "change": 46025,
+        "change_p": 1.1424
+      },
+      "18": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6502,
+        "totalAssets": 0.9279,
+        "currentShares": 4058260,
+        "change": 366118,
+        "change_p": 9.9161
+      },
+      "19": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.634,
+        "totalAssets": 0.2593,
+        "currentShares": 3957367,
+        "change": 3957367,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.1433,
+    "ForwardPE": 19.3798,
+    "PriceSalesTTM": 3.3678,
+    "PriceBookMRQ": 2.1013,
+    "EnterpriseValue": 83909437575,
+    "EnterpriseValueRevenue": 5.7342,
+    "EnterpriseValueEbitda": 13.5714
+  },
+  "Highlights": {
+    "MarketCapitalization": 49402437632,
+    "MarketCapitalizationMln": 49402.4376,
+    "EBITDA": 5980000256,
+    "PERatio": 23.1433,
+    "PEGRatio": 2.2411,
+    "WallStreetTargetPrice": 91.0556,
+    "BookValue": 37.859,
+    "DividendShare": 2.28,
+    "DividendYield": 0.0287,
+    "EarningsShare": 3.42,
+    "EPSEstimateCurrentYear": 4.1152,
+    "EPSEstimateNextYear": 4.5274,
+    "EPSEstimateNextQuarter": 0.9439,
+    "EPSEstimateCurrentQuarter": 0.9594,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1376,
+    "OperatingMarginTTM": 0.1668,
+    "ReturnOnAssetsTTM": 0.0239,
+    "ReturnOnEquityTTM": 0.0936,
+    "RevenueTTM": 14668999680,
+    "RevenuePerShareTTM": 24.99,
+    "QuarterlyRevenueGrowthYOY": 0.141,
+    "GrossProfitTTM": 6710000128,
+    "DilutedEpsTTM": 3.42,
+    "QuarterlyEarningsGrowthYOY": 0.208
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.88,
+    "TotalEsgPercentile": 62.04,
+    "EnvironmentScore": 20.46,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.65,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 7.77,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "XEL",
+    "Type": "Common Stock",
+    "Name": "Xcel Energy Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCTQ65",
+    "ISIN": "US98389B1008",
+    "LEI": "LGJNMI9GH8XIDG5RCM61",
+    "PrimaryTicker": "XEL.US",
+    "CUSIP": "98389B308",
+    "CIK": "0000072903",
+    "EmployerIdNumber": "41-0448030",
+    "FiscalYearEnd": "December",
+    "IPODate": "1985-09-24",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Xcel Energy Inc., through its subsidiaries, operates as an electric and natural gas delivery company in the United States. It operates through Regulated Electric Utility and Regulated Natural Gas Utility segments. The company generates, purchases, transmits, distributes, and sells electricity through its energy portfolio, including wind, nuclear, hydroelectric, biomass, and solar power from both owned generation facilities and PPAs, as well as its fossil fuel energy portfolio, such as coal and natural gas; sale and resale of wholesale transmission service; and engages in wholesale commodity and trading operations. It also purchases, transports, stores, distributes, and sells natural gas; develops and leases natural gas pipelines and storage facilities; operates interstate natural gas pipeline; and invests in rental housing projects, energy technology companies, and community solar garden nonregulated assets. It serves electric and natural gas customers in portions of Colorado, Michigan, Minnesota, New Mexico, North Dakota, South Dakota, Texas, and Wisconsin. The company was formerly known as Northern States Power company. Xcel Energy Inc. was incorporated in 1909 and is headquartered in Minneapolis, Minnesota.",
+    "Address": "414 Nicollet Mall, Minneapolis, MN, United States, 55401",
+    "AddressData": {
+      "Street": "414 Nicollet Mall",
+      "City": "Minneapolis",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55401"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert C. Frenzel",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Brian J. Van Abel",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1982"
+      },
+      "2": {
+        "Name": "Mr. Ryan  Long",
+        "Title": "Executive VP, Chief Legal & Compliance Officer & General Counsel",
+        "YearBorn": "1985"
+      },
+      "3": {
+        "Name": "Ms. Amanda J. Rome",
+        "Title": "Executive VP, Group President of Utilities & Chief Customer Officer",
+        "YearBorn": "1981"
+      },
+      "4": {
+        "Name": "Mr. Michael  Lamb",
+        "Title": "Executive VP & Chief Delivery Officer",
+        "YearBorn": "1965"
+      },
+      "5": {
+        "Name": "Ms. Melissa L. Ostrom",
+        "Title": "Senior VP, Controller & Principal Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Rob  Cain",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Roopesh  Aggarwal",
+        "Title": "VP of Finance & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Rob  Clark",
+        "Title": "Senior VP, Chief Communications Officer & Chief of Staff",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Patricia  Correa",
+        "Title": "Senior VP of Human Resources & Employee Services and Chief Human Resources Officer",
+        "YearBorn": "1974"
+      }
+    },
+    "Phone": "612 330 5500",
+    "WebURL": "https://www.my.xcelenergy.com/s",
+    "LogoURL": "/img/logos/US/xel.png",
+    "FullTimeEmployees": 11534,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 624162193,
+    "SharesFloat": 622242256,
+    "PercentInsiders": 0.202,
+    "PercentInstitutions": 93.027,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0508
+  }
+}

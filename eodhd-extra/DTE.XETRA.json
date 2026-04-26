@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 14.0152,
+    "ForwardPE": 12.1212,
+    "PriceSalesTTM": 1.0966,
+    "PriceBookMRQ": 2.1423,
+    "EnterpriseValue": 266186757222,
+    "EnterpriseValueRevenue": 2.2493,
+    "EnterpriseValueEbitda": 5.3254
+  },
+  "Highlights": {
+    "MarketCapitalization": 133577809920,
+    "MarketCapitalizationMln": 133577.8099,
+    "EBITDA": 42025000960,
+    "PERatio": 14.0152,
+    "PEGRatio": 1.1867,
+    "WallStreetTargetPrice": 38.2778,
+    "BookValue": 12.85,
+    "DividendShare": 1,
+    "DividendYield": 0.0363,
+    "EarningsShare": 1.97,
+    "EPSEstimateCurrentYear": 2.0017,
+    "EPSEstimateNextYear": 2.4867,
+    "EPSEstimateNextQuarter": 0.53,
+    "EPSEstimateCurrentQuarter": 0.4338,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0789,
+    "OperatingMarginTTM": 0.1796,
+    "ReturnOnAssetsTTM": 0.0542,
+    "ReturnOnEquityTTM": 0.1564,
+    "RevenueTTM": 121815998464,
+    "RevenuePerShareTTM": 25.008,
+    "QuarterlyRevenueGrowthYOY": 0.025,
+    "GrossProfitTTM": 54257000448,
+    "DilutedEpsTTM": 1.97,
+    "QuarterlyEarningsGrowthYOY": -0.582
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.72,
+    "TotalEsgPercentile": 12.94,
+    "EnvironmentScore": 1.18,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 7.36,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 6.67,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DTE",
+    "Type": "Common Stock",
+    "Name": "Deutsche Telekom AG",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0005557508",
+    "LEI": "549300V9QSIG4WX4GJ96",
+    "PrimaryTicker": "DTE.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "GicSector": "Communication Services",
+    "GicGroup": "Telecommunication Services",
+    "GicIndustry": "Diversified Telecommunication Services",
+    "GicSubIndustry": "Integrated Telecommunication Services",
+    "Description": "Deutsche Telekom AG, together with its subsidiaries, provides integrated telecommunication services worldwide. It operates through Germany, United States, Europe, Systems Solutions, and Group Development segments. The company offers fixed-network services, including voice and data communication services based on fixed-network and broadband technology; and sells terminal equipment and other hardware products, as well as services to resellers. It also provides mobile voice and data services to consumers and business customers; sells mobile devices and other hardware products; and sells mobile services to resellers and to companies that buys and markets network services to third parties, such as mobile virtual network operators. In addition, the company offers internet services; internet-based TV products and services; and information and communication technology systems for multinational corporations and public sector institutions with an infrastructure of data centers and network services. Further, it provides wireless communications services; and cloud services, digital solutions, and security and advisory solutions. The company has mobile and broadband customers, as well as fixed-network lines. Deutsche Telekom AG was founded in 1995 and is headquartered in Bonn, Germany.",
+    "Address": "Friedrich-Ebert-Allee 140, Bonn, Germany, 53113",
+    "AddressData": {
+      "Street": "Friedrich-Ebert-Allee 140",
+      "City": "Bonn",
+      "Country": "Germany",
+      "ZIP": "53113"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Timotheus  Hottges",
+        "Title": "Chairman of Management Board & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Dr. Christian P. Illek",
+        "Title": "CFO & Product and Technology & Member of Management Board",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Dr. Ferri Abolhassan Pur-Moghaddam",
+        "Title": "Member of the Executive Board",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Thorsten  Langheim",
+        "Title": "Member of Management Board & Executive VP of Group Corporate Development and USA",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Birgit M. Bohle",
+        "Title": "Member of Mgt Board,Chief HR Officer & Legal Affairs,Labor Director&Member of Data Privacy Adv Board",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Ms. Dominique Yvette M. Leroy",
+        "Title": "Member of Management Board-Europe",
+        "YearBorn": "1964"
+      },
+      "6": {
+        "Name": "Mr. Rodrigo Francisco Diehl",
+        "Title": "Member of Management Board",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Dr. Guillaume  Maisondieu",
+        "Title": "Senior Vice President of Group Accounting & Customer Finance",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Hannes  Wittig",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Claudia  Junker",
+        "Title": "Executive VP, Head of the Legal, Compliance & Data Privacy Department",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "49 228 181 88880",
+    "WebURL": "https://www.telekom.com",
+    "LogoURL": "/img/logos/XETRA/dte.png",
+    "FullTimeEmployees": 195282,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 4838022420,
+    "SharesFloat": 4145943313,
+    "PercentInsiders": 28.303,
+    "PercentInstitutions": 31.66,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

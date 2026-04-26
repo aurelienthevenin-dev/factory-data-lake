@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 14.8353,
+        "totalAssets": 0.5919,
+        "currentShares": 34189834,
+        "change": -346059,
+        "change_p": -1.002
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2298,
+        "totalAssets": 0.1492,
+        "currentShares": 21271281,
+        "change": -17369,
+        "change_p": -0.0816
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3148,
+        "totalAssets": 0.1473,
+        "currentShares": 16857759,
+        "change": -405631,
+        "change_p": -2.3497
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7485,
+        "totalAssets": 0.6493,
+        "currentShares": 8638936,
+        "change": 114900,
+        "change_p": 1.348
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2568,
+        "totalAssets": 0.1572,
+        "currentShares": 5201028,
+        "change": -113297,
+        "change_p": -2.1319
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1238,
+        "totalAssets": 0.1459,
+        "currentShares": 4894549,
+        "change": 9734,
+        "change_p": 0.1993
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3026,
+        "totalAssets": 0.1016,
+        "currentShares": 3001888,
+        "change": 66000,
+        "change_p": 2.248
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9555,
+        "totalAssets": 0.0543,
+        "currentShares": 2201979,
+        "change": -41066,
+        "change_p": -1.8308
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9529,
+        "totalAssets": 0.1727,
+        "currentShares": 2196058,
+        "change": 87663,
+        "change_p": 4.1578
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9106,
+        "totalAssets": 0.1779,
+        "currentShares": 2098621,
+        "change": -286132,
+        "change_p": -11.9984
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.907,
+        "totalAssets": 0.1335,
+        "currentShares": 2090266,
+        "change": -76442,
+        "change_p": -3.528
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8197,
+        "totalAssets": 0.0283,
+        "currentShares": 1889100,
+        "change": 927829,
+        "change_p": 96.5211
+      },
+      "12": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.7887,
+        "totalAssets": 0.1196,
+        "currentShares": 1817586,
+        "change": -1035763,
+        "change_p": -36.2999
+      },
+      "13": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.7566,
+        "totalAssets": 0.1427,
+        "currentShares": 1743784,
+        "change": -2284654,
+        "change_p": -56.7131
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7203,
+        "totalAssets": 0.2066,
+        "currentShares": 1659935,
+        "change": -87899,
+        "change_p": -5.029
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6902,
+        "totalAssets": 0.1425,
+        "currentShares": 1590622,
+        "change": -46158,
+        "change_p": -2.82
+      },
+      "16": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.6252,
+        "totalAssets": 0.2269,
+        "currentShares": 1440840,
+        "change": 99403,
+        "change_p": 7.4102
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6068,
+        "totalAssets": 0.1094,
+        "currentShares": 1398448,
+        "change": -209986,
+        "change_p": -13.0553
+      },
+      "18": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 0.5817,
+        "totalAssets": 0.3555,
+        "currentShares": 1340668,
+        "change": 699458,
+        "change_p": 109.0841
+      },
+      "19": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.5713,
+        "totalAssets": 0.125,
+        "currentShares": 1316649,
+        "change": -138700,
+        "change_p": -9.5304
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1711,
+        "totalAssets": 0.2212,
+        "currentShares": 7308187,
+        "change": -10746,
+        "change_p": -0.1468
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2372,
+        "totalAssets": 0.219,
+        "currentShares": 5155793,
+        "change": -83197,
+        "change_p": -1.588
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.9687,
+        "totalAssets": 3.2234,
+        "currentShares": 4537221,
+        "change": 7544,
+        "change_p": 0.1665
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1293,
+        "totalAssets": 0.2184,
+        "currentShares": 2602519,
+        "change": -1416,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1245,
+        "totalAssets": 0.2277,
+        "currentShares": 2591450,
+        "change": 4272,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0179,
+        "totalAssets": 0.2181,
+        "currentShares": 2345915,
+        "change": -5782,
+        "change_p": -0.2459
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9226,
+        "totalAssets": 0.5694,
+        "currentShares": 2126185,
+        "change": -29637,
+        "change_p": -1.3747
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.495,
+        "totalAssets": 0.2185,
+        "currentShares": 1140733,
+        "change": -12869,
+        "change_p": -1.1155
+      },
+      "8": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4919,
+        "totalAssets": 0.5837,
+        "currentShares": 1133655,
+        "change": 3630,
+        "change_p": 0.3212
+      },
+      "9": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4882,
+        "totalAssets": 2.4196,
+        "currentShares": 1125089,
+        "change": -7800,
+        "change_p": -0.6885
+      },
+      "10": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.469,
+        "totalAssets": 0.2162,
+        "currentShares": 1080813,
+        "change": -4680,
+        "change_p": -0.4311
+      },
+      "11": {
+        "name": "iShares US Aerospace & Defense ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4396,
+        "totalAssets": 4.5762,
+        "currentShares": 1013039,
+        "change": -8280,
+        "change_p": -0.8107
+      },
+      "12": {
+        "name": "Invesco Aerospace & Defense ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.425,
+        "totalAssets": 7.5358,
+        "currentShares": 979483,
+        "change": -202345,
+        "change_p": -17.1214
+      },
+      "13": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3968,
+        "totalAssets": 0.2182,
+        "currentShares": 914485,
+        "change": 26,
+        "change_p": 0.0028
+      },
+      "14": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3692,
+        "totalAssets": 1.1063,
+        "currentShares": 850886,
+        "change": -528,
+        "change_p": -0.062
+      },
+      "15": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3677,
+        "totalAssets": 0.3617,
+        "currentShares": 847439,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.3666,
+        "totalAssets": 0.9972,
+        "currentShares": 844890,
+        "change": -124351,
+        "change_p": -12.8297
+      },
+      "17": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3504,
+        "totalAssets": 0.5477,
+        "currentShares": 807644,
+        "change": -31804,
+        "change_p": -3.7887
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3485,
+        "totalAssets": 0.1676,
+        "currentShares": 803270,
+        "change": -22370,
+        "change_p": -2.7094
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3485,
+        "totalAssets": 0.1676,
+        "currentShares": 803270,
+        "change": -22370,
+        "change_p": -2.7094
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.6469,
+    "ForwardPE": 17.6367,
+    "PriceSalesTTM": 1.5762,
+    "PriceBookMRQ": 16.3034,
+    "EnterpriseValue": 140899525495,
+    "EnterpriseValueRevenue": 1.876,
+    "EnterpriseValueEbitda": 16.641
+  },
+  "Highlights": {
+    "MarketCapitalization": 118382895104,
+    "MarketCapitalizationMln": 118382.8951,
+    "EBITDA": 7994999808,
+    "PERatio": 25.6469,
+    "PEGRatio": 1.1301,
+    "WallStreetTargetPrice": 668.35,
+    "BookValue": 29.349,
+    "DividendShare": 10.05,
+    "DividendYield": 0.019,
+    "EarningsShare": 20.02,
+    "EPSEstimateCurrentYear": 29.9255,
+    "EPSEstimateNextYear": 31.9637,
+    "EPSEstimateNextQuarter": 7.2497,
+    "EPSEstimateCurrentQuarter": 6.6957,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0638,
+    "OperatingMarginTTM": 0.11,
+    "ReturnOnAssetsTTM": 0.0723,
+    "ReturnOnEquityTTM": 0.6764,
+    "RevenueTTM": 75106000896,
+    "RevenuePerShareTTM": 324.327,
+    "QuarterlyRevenueGrowthYOY": 0.003,
+    "GrossProfitTTM": 7440000000,
+    "DilutedEpsTTM": 20.02,
+    "QuarterlyEarningsGrowthYOY": -0.115
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.53,
+    "TotalEsgPercentile": 59.58,
+    "EnvironmentScore": 9.16,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 19.63,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 9.74,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "Yes"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LMT",
+    "Type": "Common Stock",
+    "Name": "Lockheed Martin Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C1BW00",
+    "ISIN": "US5398301094",
+    "LEI": "DPRBOZP0K5RM2YE8UU08",
+    "PrimaryTicker": "LMT.US",
+    "CUSIP": "539830109",
+    "CIK": "0000936468",
+    "EmployerIdNumber": "52-1893632",
+    "FiscalYearEnd": "December",
+    "IPODate": "1977-01-03",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Lockheed Martin Corporation, an aerospace and defense company, engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services in the United States, Europe, Asia, the Middle East, and internationally. The company operates through four segments: Aeronautics; Missiles and Fire Control (MFC); Rotary and Mission Systems (RMS); and Space. The Aeronautics segment offers combat and air mobility aircraft, unmanned air vehicles, and related technologies. The MFC segment provides air and missile defense systems; tactical missiles and precision strike weapon systems; logistics; fire control systems; mission operations support, readiness, engineering support, and integration services; and ground vehicles. The RMS segment offers military and commercial helicopters, surface ships, sea and land-based missile defense systems, radar and laser systems, sea and air-based mission and combat systems, command and control mission solutions, cyber solutions, simulation and training solutions, and services and supports surface ships. The Space segment provides satellites; space transportation systems; strategic, advanced strike, and defensive systems; and classified systems and services in support of national security systems. This segment also provides network-enabled situational awareness and integrates space and ground global systems to help its customers gather, analyze, and securely distribute critical intelligence data. It serves primarily serves the U.S. government and international customers, as well as foreign military sales contracted through the U.S. government. The company was formerly known as The Lockheed Corporation and changed its name to Lockheed Martin Corporation in March 1995. Lockheed Martin Corporation was founded in 1912 and is based in Bethesda, Maryland.",
+    "Address": "6801 Rockledge Drive, Bethesda, MD, United States, 20817",
+    "AddressData": {
+      "Street": "6801 Rockledge Drive",
+      "City": "Bethesda",
+      "State": "MD",
+      "Country": "United States",
+      "ZIP": "20817"
+    },
+    "Listings": {
+      "0": {
+        "Code": "LMT",
+        "Exchange": "BA",
+        "Name": "Lockheed Martin Corp. CEDEAR"
+      },
+      "1": {
+        "Code": "LMTB34",
+        "Exchange": "SA",
+        "Name": "Lockheed Martin Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. James D. Taiclet Jr.",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1961"
+      },
+      "1": {
+        "Name": "Mr. Evan T. Scott",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1978"
+      },
+      "2": {
+        "Name": "Mr. Frank A. St. John",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. Kevin James O'Connor J.D.",
+        "Title": "Senior Vice President, General Counsel & Corporate Secretary",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. Timothy S. Cahill",
+        "Title": "President of Missiles & Fire Control",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Dr. Craig  Martell",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Maria  Demaree",
+        "Title": "Senior VP of Enterprise Business & Digital Transformation and Chief information Officer",
+        "YearBorn": "1969"
+      },
+      "7": {
+        "Name": "Ms. Maria A. Ricciardone",
+        "Title": "VP, Treasurer & Investor Relations",
+        "YearBorn": "1976"
+      },
+      "8": {
+        "Name": "Ms. Jenna  McMullin",
+        "Title": "Senior VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Christopher J. Wronsky",
+        "Title": "Senior VP & Chief Human Resource Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "301 897 6000",
+    "WebURL": "https://www.lockheedmartin.com",
+    "LogoURL": "/img/logos/US/lmt.png",
+    "FullTimeEmployees": 123000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 230563608,
+    "SharesFloat": 195936873,
+    "PercentInsiders": 0.091,
+    "PercentInstitutions": 75.417,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0123
+  }
+}

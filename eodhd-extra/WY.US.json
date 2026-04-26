@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.8071,
+        "totalAssets": 0.0391,
+        "currentShares": 113975806,
+        "change": -189209,
+        "change_p": -0.1657
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9884,
+        "totalAssets": 0.0281,
+        "currentShares": 64809902,
+        "change": 384149,
+        "change_p": 0.5963
+      },
+      "2": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 5.7387,
+        "totalAssets": 0.1718,
+        "currentShares": 41378212,
+        "change": 1731315,
+        "change_p": 4.3668
+      },
+      "3": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 5.2176,
+        "totalAssets": 1.5685,
+        "currentShares": 37621004,
+        "change": 23485504,
+        "change_p": 166.1455
+      },
+      "4": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.7289,
+        "totalAssets": 1.5248,
+        "currentShares": 34097169,
+        "change": -8803710,
+        "change_p": -20.521
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.503,
+        "totalAssets": 0.0279,
+        "currentShares": 32468597,
+        "change": 602901,
+        "change_p": 1.892
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.9916,
+        "totalAssets": 0.0214,
+        "currentShares": 28781154,
+        "change": 15475090,
+        "change_p": 116.301
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.4332,
+        "totalAssets": 0.0657,
+        "currentShares": 24754886,
+        "change": -6254484,
+        "change_p": -20.1697
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 3.2171,
+        "totalAssets": 0.0588,
+        "currentShares": 23196766,
+        "change": -178174,
+        "change_p": -0.7622
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8152,
+        "totalAssets": 0.0296,
+        "currentShares": 20299110,
+        "change": 225227,
+        "change_p": 1.122
+      },
+      "10": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.0735,
+        "totalAssets": 0.0665,
+        "currentShares": 14950516,
+        "change": 1400050,
+        "change_p": 10.3321
+      },
+      "11": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7597,
+        "totalAssets": 0.0667,
+        "currentShares": 12687836,
+        "change": 1305177,
+        "change_p": 11.4664
+      },
+      "12": {
+        "name": "Allspring Global Investments Holdings, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.625,
+        "totalAssets": 0.4517,
+        "currentShares": 11717085,
+        "change": 1254057,
+        "change_p": 11.9856
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5266,
+        "totalAssets": 0.043,
+        "currentShares": 11007440,
+        "change": 1367616,
+        "change_p": 14.1871
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4249,
+        "totalAssets": 0.0378,
+        "currentShares": 10274297,
+        "change": 665690,
+        "change_p": 6.9281
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2048,
+        "totalAssets": 0.0276,
+        "currentShares": 8687335,
+        "change": -282477,
+        "change_p": -3.1492
+      },
+      "16": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.8837,
+        "totalAssets": 0.0096,
+        "currentShares": 6372134,
+        "change": -552794,
+        "change_p": -7.9827
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8124,
+        "totalAssets": 0.0099,
+        "currentShares": 5857899,
+        "change": -585158,
+        "change_p": -9.082
+      },
+      "18": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.7729,
+        "totalAssets": 0.0773,
+        "currentShares": 5572939,
+        "change": 1272002,
+        "change_p": 29.575
+      },
+      "19": {
+        "name": "Daiwa Securities Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7377,
+        "totalAssets": 0.445,
+        "currentShares": 5318817,
+        "change": -555275,
+        "change_p": -9.453
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 3.8187,
+        "totalAssets": 0.8573,
+        "currentShares": 27534258,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7212,
+        "totalAssets": 1.0087,
+        "currentShares": 26831146,
+        "change": -102935,
+        "change_p": -0.3822
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1814,
+        "totalAssets": 0.0281,
+        "currentShares": 22939567,
+        "change": 140893,
+        "change_p": 0.618
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5446,
+        "totalAssets": 0.0315,
+        "currentShares": 18347990,
+        "change": -192651,
+        "change_p": -1.0391
+      },
+      "4": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.4514,
+        "totalAssets": 0.6698,
+        "currentShares": 17675597,
+        "change": 1795439,
+        "change_p": 11.3062
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2845,
+        "totalAssets": 0.0314,
+        "currentShares": 9261673,
+        "change": -5040,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2723,
+        "totalAssets": 0.03,
+        "currentShares": 9173941,
+        "change": 15192,
+        "change_p": 0.1659
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1616,
+        "totalAssets": 0.0315,
+        "currentShares": 8375917,
+        "change": -20531,
+        "change_p": -0.2445
+      },
+      "8": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.1538,
+        "totalAssets": 0.1223,
+        "currentShares": 8319564,
+        "change": 133591,
+        "change_p": 1.632
+      },
+      "9": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 1.1374,
+        "totalAssets": 1.559,
+        "currentShares": 8201350,
+        "change": -807800,
+        "change_p": -8.9664
+      },
+      "10": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 1.1374,
+        "totalAssets": 1.5616,
+        "currentShares": 8201350,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 1.1374,
+        "totalAssets": 1.559,
+        "currentShares": 8201350,
+        "change": -807800,
+        "change_p": -8.9664
+      },
+      "12": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0896,
+        "totalAssets": 0.3864,
+        "currentShares": 7856379,
+        "change": 510435,
+        "change_p": 6.9485
+      },
+      "13": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0795,
+        "totalAssets": 0.0957,
+        "currentShares": 7783407,
+        "change": -49534,
+        "change_p": -0.6324
+      },
+      "14": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0366,
+        "totalAssets": 0.2141,
+        "currentShares": 7474103,
+        "change": 22008,
+        "change_p": 0.2953
+      },
+      "15": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 0.9374,
+        "totalAssets": 2.0061,
+        "currentShares": 6758835,
+        "change": -1263297,
+        "change_p": -15.7476
+      },
+      "16": {
+        "name": "Cohen & Steers Realty Shares L",
+        "date": "2026-03-31",
+        "totalShares": 0.8345,
+        "totalAssets": 2.0076,
+        "currentShares": 6017233,
+        "change": -1416518,
+        "change_p": -19.0552
+      },
+      "17": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8275,
+        "totalAssets": 1.9914,
+        "currentShares": 5966575,
+        "change": -876,
+        "change_p": -0.0147
+      },
+      "18": {
+        "name": "BNY Mellon Dynamic Value Fund A",
+        "date": "2026-03-31",
+        "totalShares": 0.8211,
+        "totalAssets": 1.32,
+        "currentShares": 5920393,
+        "change": 515544,
+        "change_p": 9.5385
+      },
+      "19": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7342,
+        "totalAssets": 0.2129,
+        "currentShares": 5294124,
+        "change": 37268,
+        "change_p": 0.7089
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 55.6222,
+    "ForwardPE": 62.5,
+    "PriceSalesTTM": 2.6137,
+    "PriceBookMRQ": 1.9124,
+    "EnterpriseValue": 23159065225,
+    "EnterpriseValueRevenue": 3.354,
+    "EnterpriseValueEbitda": 22.2256
+  },
+  "Highlights": {
+    "MarketCapitalization": 18047696896,
+    "MarketCapitalizationMln": 18047.6969,
+    "EBITDA": 706000000,
+    "PERatio": 55.6222,
+    "PEGRatio": 1.8554,
+    "WallStreetTargetPrice": 31.5455,
+    "BookValue": 13.082,
+    "DividendShare": 0.84,
+    "DividendYield": 0.0336,
+    "EarningsShare": 0.45,
+    "EPSEstimateCurrentYear": 0.2803,
+    "EPSEstimateNextYear": 0.6796,
+    "EPSEstimateNextQuarter": -0.0437,
+    "EPSEstimateCurrentQuarter": -0.13,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0469,
+    "OperatingMarginTTM": -0.1142,
+    "ReturnOnAssetsTTM": 0.0074,
+    "ReturnOnEquityTTM": 0.0338,
+    "RevenueTTM": 6904999936,
+    "RevenuePerShareTTM": 9.548,
+    "QuarterlyRevenueGrowthYOY": -0.098,
+    "GrossProfitTTM": 1025000000,
+    "DilutedEpsTTM": 0.45,
+    "QuarterlyEarningsGrowthYOY": -0.091
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.63,
+    "TotalEsgPercentile": 19.4,
+    "EnvironmentScore": 10.27,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 2.88,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 2.99,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "WY",
+    "Type": "Common Stock",
+    "Name": "Weyerhaeuser Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BX3BL3",
+    "ISIN": "US9621661043",
+    "LEI": "08IRJODWFYBI7QWRGS31",
+    "PrimaryTicker": "WY.US",
+    "CUSIP": "962166104",
+    "CIK": "0000106535",
+    "EmployerIdNumber": "91-0470860",
+    "FiscalYearEnd": "December",
+    "IPODate": "1973-05-03",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Specialized REITs",
+    "GicSubIndustry": "Timber REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Weyerhaeuser Company, one of the world's largest private owners of timberlands, began operations in 1900. Today the firm owns or controls more than 10 million acres of timberlands in the U.S., as well as additional public timberlands managed under long-term licenses in Canada. Weyerhaeuser has been a global leader in sustainability for more than a century and manages 100 percent of its timberlands on a fully sustainable basis in compliance with internationally recognized sustainable forestry standards. Weyerhaeuser is also one of the largest manufacturers of wood products in North America and operates additional business lines around product distribution, climate solutions, real estate, energy and natural resources, among others. In 2025, the company generated $6.9 billion in net sales and employed approximately 9,500 people who serve customers worldwide. Operated as a real estate investment trust, Weyerhaeuser's common stock trades on the New York Stock Exchange under the symbol WY. Weyerhaeuser Company was incorporated in 1900 in Washington, USA.",
+    "Address": "220 Occidental Avenue South, Seattle, WA, United States, 98104-7800",
+    "AddressData": {
+      "Street": "220 Occidental Avenue South",
+      "City": "Seattle",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98104-7800"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Devin W. Stockfish Esq., J.D.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Mr. David M. Wold",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1983"
+      },
+      "2": {
+        "Name": "Ms. Denise M. Merle CPA",
+        "Title": "Senior VP & Chief Administration Officer",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Travis A. Keatley",
+        "Title": "Senior Vice President of Timberlands",
+        "YearBorn": "1977"
+      },
+      "4": {
+        "Name": "Mr. Rehad  Hossain",
+        "Title": "Senior VP & Chief Development Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Alex G. Whitney",
+        "Title": "VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1988"
+      },
+      "6": {
+        "Name": "Mr. Andy  Taylor",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Kristy T. Harlan J.D.",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Mr. Adrian M. Blocker",
+        "Title": "Senior Advisor",
+        "YearBorn": "1957"
+      },
+      "9": {
+        "Name": "Mr. Brian K. Chaney",
+        "Title": "Senior Vice President of Wood Products",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "206 539 3000",
+    "WebURL": "https://www.weyerhaeuser.com",
+    "LogoURL": "/img/logos/US/WY.png",
+    "FullTimeEmployees": 9517,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 721042609,
+    "SharesFloat": 716996815,
+    "PercentInsiders": 0.356,
+    "PercentInstitutions": 92.837,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0324
+  }
+}

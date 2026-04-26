@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.5405,
+        "totalAssets": 0.0844,
+        "currentShares": 59916887,
+        "change": 268481,
+        "change_p": 0.4501
+      },
+      "1": {
+        "name": "Investors Finance Co PLC",
+        "date": "2025-12-31",
+        "totalShares": 10.2354,
+        "totalAssets": 99.5963,
+        "currentShares": 58182426,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.0658,
+        "totalAssets": 0.0622,
+        "currentShares": 40165064,
+        "change": 3083656,
+        "change_p": 8.3159
+      },
+      "3": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 6.6251,
+        "totalAssets": 0.641,
+        "currentShares": 37659824,
+        "change": -2143068,
+        "change_p": -5.3842
+      },
+      "4": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 4.8602,
+        "totalAssets": 0.8653,
+        "currentShares": 27627767,
+        "change": 1258964,
+        "change_p": 4.7744
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.4514,
+        "totalAssets": 0.0602,
+        "currentShares": 19619192,
+        "change": 1404348,
+        "change_p": 7.7099
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2609,
+        "totalAssets": 0.0768,
+        "currentShares": 12851894,
+        "change": 378577,
+        "change_p": 3.0351
+      },
+      "7": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.8617,
+        "totalAssets": 0.2334,
+        "currentShares": 10582893,
+        "change": -157014,
+        "change_p": -1.462
+      },
+      "8": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.5167,
+        "totalAssets": 1.0584,
+        "currentShares": 8621689,
+        "change": 2716280,
+        "change_p": 45.9965
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2194,
+        "totalAssets": 0.0416,
+        "currentShares": 6931446,
+        "change": -141522,
+        "change_p": -2.0009
+      },
+      "10": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0684,
+        "totalAssets": 0.1545,
+        "currentShares": 6073271,
+        "change": 2736322,
+        "change_p": 82.0007
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0025,
+        "totalAssets": 0.0305,
+        "currentShares": 5698719,
+        "change": 297993,
+        "change_p": 5.5176
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9958,
+        "totalAssets": 0.1149,
+        "currentShares": 5660331,
+        "change": -238421,
+        "change_p": -4.0419
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9688,
+        "totalAssets": 0.0656,
+        "currentShares": 5507265,
+        "change": -286308,
+        "change_p": -4.9418
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9601,
+        "totalAssets": 0.0567,
+        "currentShares": 5457639,
+        "change": 908064,
+        "change_p": 19.9593
+      },
+      "15": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8874,
+        "totalAssets": 0.0703,
+        "currentShares": 5044521,
+        "change": 532775,
+        "change_p": 11.8086
+      },
+      "16": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 0.8203,
+        "totalAssets": 0.3721,
+        "currentShares": 4662676,
+        "change": -405600,
+        "change_p": -8.0027
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7386,
+        "totalAssets": 0.0475,
+        "currentShares": 4198608,
+        "change": 116542,
+        "change_p": 2.855
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7334,
+        "totalAssets": 0.0578,
+        "currentShares": 4168782,
+        "change": -207792,
+        "change_p": -4.7478
+      },
+      "19": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 0.6602,
+        "totalAssets": 1.5712,
+        "currentShares": 3752757,
+        "change": 782105,
+        "change_p": 26.3277
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8595,
+        "totalAssets": 0.0691,
+        "currentShares": 16254679,
+        "change": 5071,
+        "change_p": 0.0312
+      },
+      "1": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.7549,
+        "totalAssets": 1.2683,
+        "currentShares": 15660212,
+        "change": -736457,
+        "change_p": -4.4915
+      },
+      "2": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 2.046,
+        "totalAssets": 1.8206,
+        "currentShares": 11630346,
+        "change": 699576,
+        "change_p": 6.4001
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0118,
+        "totalAssets": 0.0682,
+        "currentShares": 11435794,
+        "change": -164093,
+        "change_p": -1.4146
+      },
+      "4": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.9519,
+        "totalAssets": 1.9632,
+        "currentShares": 11095455,
+        "change": -453432,
+        "change_p": -3.9262
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9442,
+        "totalAssets": 0.4721,
+        "currentShares": 11051705,
+        "change": -117669,
+        "change_p": -1.0535
+      },
+      "6": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 1.0309,
+        "totalAssets": 1.9282,
+        "currentShares": 5860000,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0155,
+        "totalAssets": 0.0681,
+        "currentShares": 5772629,
+        "change": -3144,
+        "change_p": -0.0544
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0099,
+        "totalAssets": 0.0671,
+        "currentShares": 5740651,
+        "change": 9474,
+        "change_p": 0.1653
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9135,
+        "totalAssets": 0.0678,
+        "currentShares": 5192455,
+        "change": -12789,
+        "change_p": -0.2457
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8318,
+        "totalAssets": 0.1778,
+        "currentShares": 4728368,
+        "change": -57735,
+        "change_p": -1.2063
+      },
+      "11": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.81,
+        "totalAssets": 1.0224,
+        "currentShares": 4604153,
+        "change": 1292128,
+        "change_p": 39.0132
+      },
+      "12": {
+        "name": "MFS Growth B",
+        "date": "2026-02-28",
+        "totalShares": 0.8017,
+        "totalAssets": 0.9962,
+        "currentShares": 4557327,
+        "change": -35810,
+        "change_p": -0.7796
+      },
+      "13": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7801,
+        "totalAssets": 0.689,
+        "currentShares": 4434584,
+        "change": 99211,
+        "change_p": 2.2884
+      },
+      "14": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.6548,
+        "totalAssets": 1.4071,
+        "currentShares": 3722305,
+        "change": -282000,
+        "change_p": -7.0424
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5854,
+        "totalAssets": 0.8131,
+        "currentShares": 3327906,
+        "change": 120460,
+        "change_p": 3.7556
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.54,
+        "totalAssets": 0.5399,
+        "currentShares": 3069563,
+        "change": 5181,
+        "change_p": 0.1691
+      },
+      "17": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5188,
+        "totalAssets": 0.4515,
+        "currentShares": 2949266,
+        "change": 2949266,
+        "change_p": 0
+      },
+      "18": {
+        "name": "MFS Mid Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4595,
+        "totalAssets": 1.7957,
+        "currentShares": 2611865,
+        "change": 159930,
+        "change_p": 6.5226
+      },
+      "19": {
+        "name": "MFS Mid Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.4595,
+        "totalAssets": 1.6597,
+        "currentShares": 2611865,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 26.2099,
+    "ForwardPE": 22.6757,
+    "PriceSalesTTM": 9.4304,
+    "PriceBookMRQ": 4.1118,
+    "EnterpriseValue": 58223353226,
+    "EnterpriseValueRevenue": 7.0073,
+    "EnterpriseValueEbitda": 17.5161
+  },
+  "Highlights": {
+    "MarketCapitalization": 51103100928,
+    "MarketCapitalizationMln": 51103.1009,
+    "EBITDA": 3208999936,
+    "PERatio": 26.2099,
+    "PEGRatio": 2.1184,
+    "WallStreetTargetPrice": 105.9333,
+    "BookValue": 21.455,
+    "DividendShare": 1.08,
+    "DividendYield": 0.0124,
+    "EarningsShare": 3.43,
+    "EPSEstimateCurrentYear": 3.897,
+    "EPSEstimateNextYear": 4.3878,
+    "EPSEstimateNextQuarter": 0.9635,
+    "EPSEstimateCurrentQuarter": 0.9344,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.3528,
+    "OperatingMarginTTM": 0.484,
+    "ReturnOnAssetsTTM": 0.0555,
+    "ReturnOnEquityTTM": 0.162,
+    "RevenueTTM": 5418999808,
+    "RevenuePerShareTTM": 9.487,
+    "QuarterlyRevenueGrowthYOY": 0.137,
+    "GrossProfitTTM": 5418999808,
+    "DilutedEpsTTM": 3.43,
+    "QuarterlyEarningsGrowthYOY": 0.338
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.08,
+    "TotalEsgPercentile": 10.96,
+    "EnvironmentScore": 4.54,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 10.23,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 11.31,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NDAQ",
+    "Type": "Common Stock",
+    "Name": "Nasdaq Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000F5VVB6",
+    "ISIN": "US6311031081",
+    "LEI": "549300L8X1Q78ERXFD06",
+    "PrimaryTicker": "NDAQ.US",
+    "CUSIP": "631103108",
+    "CIK": "0001120193",
+    "EmployerIdNumber": "52-1165937",
+    "FiscalYearEnd": "December",
+    "IPODate": "2002-07-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Financial Data & Stock Exchanges",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Financial Exchanges & Data",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Nasdaq, Inc. operates as a technology company that serves capital markets and other industries in the United States and internationally. It operates through three segments: Capital Access Platforms, Financial Technology, and Market Services. The company distributes historical and real-time market data; develops and licenses Nasdaq-branded indices and financial products; provides investor relations intelligence, governance solutions, and sustainability solution products for public and private companies, and organizations, as well as insights and workflow solutions; and operates listing platforms. It also offers Verafin, a cloud-based platform to detect, investigate, and report money laundering and financial frauds; AxiomSL, a risk data management and regulatory reporting solution; cloud-enabled and on-premises surveillance solutions to assist in complying with market rules, regulations, and internal market surveillance policies; Calypso, a platform providing cross-asset, front-to-back trading, treasury, risk, and collateral management solutions; and trade management and colocation services, as well as handles assets comprising cash equities, equity derivatives, currencies, various interest-bearing securities, commodities, energy products, and digital currencies. In addition, the company provides equity derivative trading and clearing, cash equity trading and fixed income, currency and commodities trading, and fixed income trading and clearing services, as well as tape plan data services; operates various exchanges, including derivatives, commodities, cash equity, debt, structured products, and exchange traded products; and offers clearing, settlement, and central depository services. The company was formerly known as The NASDAQ OMX Group, Inc. and changed its name to Nasdaq, Inc. in September 2015. Nasdaq, Inc. was founded in 1971 and is headquartered in New York, New York.",
+    "Address": "151 West 42nd Street, New York, NY, United States, 10036",
+    "AddressData": {
+      "Street": "151 West 42nd Street",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10036"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Adena T. Friedman",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. P. C. Nelson Griggs",
+        "Title": "President & Division President of Capital Access Platforms",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Tal  Cohen",
+        "Title": "President",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Ms. Sarah M. Youngwood",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Bradley J. Peterson",
+        "Title": "Executive VP, Chief Information Officer & CTO",
+        "YearBorn": "1960"
+      },
+      "5": {
+        "Name": "Ms. Michelle Lynn Daly",
+        "Title": "Senior VP, Controller & Principal Accounting Officer",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Ato  Garrett",
+        "Title": "Senior VP & Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. John A. Zecca J.D.",
+        "Title": "Executive VP and Global Chief Legal, Risk & Regulatory Officer",
+        "YearBorn": "1968"
+      },
+      "8": {
+        "Name": "Mr. Brian  Buckley",
+        "Title": "Senior VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Bryan Everard Smith",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "212 401 8700",
+    "WebURL": "https://www.nasdaq.com",
+    "LogoURL": "/img/logos/US/ndaq.png",
+    "FullTimeEmployees": 9525,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 568443856,
+    "SharesFloat": 504446332,
+    "PercentInsiders": 10.86,
+    "PercentInstitutions": 86.997,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0162
+  }
+}

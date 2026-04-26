@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.2203,
+        "totalAssets": 0.1621,
+        "currentShares": 35819968,
+        "change": -805893,
+        "change_p": -2.2003
+      },
+      "1": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0653,
+        "totalAssets": 3.3081,
+        "currentShares": 31332895,
+        "change": 4299111,
+        "change_p": 15.9027
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.1262,
+        "totalAssets": 0.1368,
+        "currentShares": 27684622,
+        "change": 167393,
+        "change_p": 0.6083
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3877,
+        "totalAssets": 0.1674,
+        "currentShares": 17045793,
+        "change": 68553,
+        "change_p": 0.4038
+      },
+      "4": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.2127,
+        "totalAssets": 6.4161,
+        "currentShares": 12481176,
+        "change": 1647729,
+        "change_p": 15.2096
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.0626,
+        "totalAssets": 0.3593,
+        "currentShares": 11897812,
+        "change": -2233118,
+        "change_p": -15.8031
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8108,
+        "totalAssets": 0.1738,
+        "currentShares": 10919650,
+        "change": -1468730,
+        "change_p": -11.8557
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.7011,
+        "totalAssets": 0.0887,
+        "currentShares": 10493600,
+        "change": 5499747,
+        "change_p": 110.1303
+      },
+      "8": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.5576,
+        "totalAssets": 0.4218,
+        "currentShares": 9935866,
+        "change": -42921,
+        "change_p": -0.4301
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2869,
+        "totalAssets": 0.1707,
+        "currentShares": 8884175,
+        "change": -25769,
+        "change_p": -0.2892
+      },
+      "10": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.9329,
+        "totalAssets": 0.4107,
+        "currentShares": 7508994,
+        "change": -622927,
+        "change_p": -7.6603
+      },
+      "11": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.7727,
+        "totalAssets": 0.6931,
+        "currentShares": 6886593,
+        "change": -307087,
+        "change_p": -4.2688
+      },
+      "12": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.4638,
+        "totalAssets": 0.3277,
+        "currentShares": 5686845,
+        "change": -176617,
+        "change_p": -3.0122
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3739,
+        "totalAssets": 0.0912,
+        "currentShares": 5337567,
+        "change": -1107905,
+        "change_p": -17.1889
+      },
+      "14": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3008,
+        "totalAssets": 0.3276,
+        "currentShares": 5053497,
+        "change": 427512,
+        "change_p": 9.2415
+      },
+      "15": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2371,
+        "totalAssets": 0.2579,
+        "currentShares": 4805937,
+        "change": -975062,
+        "change_p": -16.8667
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1835,
+        "totalAssets": 0.088,
+        "currentShares": 4597963,
+        "change": -331895,
+        "change_p": -6.7323
+      },
+      "17": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0919,
+        "totalAssets": 0.6945,
+        "currentShares": 4241881,
+        "change": 1443335,
+        "change_p": 51.5745
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9599,
+        "totalAssets": 0.1347,
+        "currentShares": 3729127,
+        "change": -841,
+        "change_p": -0.0225
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8917,
+        "totalAssets": 0.1157,
+        "currentShares": 3464021,
+        "change": -661125,
+        "change_p": -16.0267
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8775,
+        "totalAssets": 0.1825,
+        "currentShares": 11178863,
+        "change": -24191,
+        "change_p": -0.2159
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3838,
+        "totalAssets": 0.2121,
+        "currentShares": 9260658,
+        "change": -152169,
+        "change_p": -1.6166
+      },
+      "2": {
+        "name": "Goldman Sachs GQG Ptnrs Intl Opps Instl",
+        "date": "2025-12-31",
+        "totalShares": 1.8486,
+        "totalAssets": 4.0651,
+        "currentShares": 7181683,
+        "change": 1212327,
+        "change_p": 20.3092
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2034,
+        "totalAssets": 0.2116,
+        "currentShares": 4675271,
+        "change": -2544,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.199,
+        "totalAssets": 0.2119,
+        "currentShares": 4657839,
+        "change": 7679,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0847,
+        "totalAssets": 0.2112,
+        "currentShares": 4213930,
+        "change": -10388,
+        "change_p": -0.2459
+      },
+      "6": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8623,
+        "totalAssets": 2.5514,
+        "currentShares": 3349920,
+        "change": -493767,
+        "change_p": -12.8462
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8372,
+        "totalAssets": 0.4697,
+        "currentShares": 3252568,
+        "change": -48322,
+        "change_p": -1.4639
+      },
+      "8": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8368,
+        "totalAssets": 0.4873,
+        "currentShares": 3250714,
+        "change": -622062,
+        "change_p": -16.0624
+      },
+      "9": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8116,
+        "totalAssets": 1.7928,
+        "currentShares": 3153080,
+        "change": -128855,
+        "change_p": -3.9262
+      },
+      "10": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.7871,
+        "totalAssets": 2.1132,
+        "currentShares": 3057818,
+        "change": -51689,
+        "change_p": -1.6623
+      },
+      "11": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7793,
+        "totalAssets": 1.8446,
+        "currentShares": 3027669,
+        "change": -78611,
+        "change_p": -2.5307
+      },
+      "12": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.7718,
+        "totalAssets": 2.1492,
+        "currentShares": 2998457,
+        "change": -21453,
+        "change_p": -0.7104
+      },
+      "13": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7617,
+        "totalAssets": 0.5676,
+        "currentShares": 2959044,
+        "change": -210152,
+        "change_p": -6.6311
+      },
+      "14": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.7444,
+        "totalAssets": 0.3575,
+        "currentShares": 2891756,
+        "change": 739404,
+        "change_p": 34.3533
+      },
+      "15": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.7215,
+        "totalAssets": 0.6145,
+        "currentShares": 2803110,
+        "change": -38758,
+        "change_p": -1.3638
+      },
+      "16": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6401,
+        "totalAssets": 1.6793,
+        "currentShares": 2486574,
+        "change": 4224,
+        "change_p": 0.1702
+      },
+      "17": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6105,
+        "totalAssets": 0.7073,
+        "currentShares": 2371826,
+        "change": 80050,
+        "change_p": 3.4929
+      },
+      "18": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5899,
+        "totalAssets": 0.6414,
+        "currentShares": 2291776,
+        "change": -142351,
+        "change_p": -5.8481
+      },
+      "19": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5456,
+        "totalAssets": 0.3464,
+        "currentShares": 2119417,
+        "change": -1131297,
+        "change_p": -34.8015
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.7775,
+    "ForwardPE": 12.3001,
+    "PriceSalesTTM": 2.0755,
+    "PriceBookMRQ": 1.7526,
+    "EnterpriseValue": 150101408670,
+    "EnterpriseValueRevenue": 2.4544,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 126696177664,
+    "MarketCapitalizationMln": 126696.1777,
+    "EBITDA": 14543250432,
+    "PERatio": 11.7775,
+    "PEGRatio": 2.9279,
+    "WallStreetTargetPrice": 344.5652,
+    "BookValue": 186.994,
+    "DividendShare": 3.88,
+    "DividendYield": 0.0117,
+    "EarningsShare": 27.69,
+    "EPSEstimateCurrentYear": 26.9337,
+    "EPSEstimateNextYear": 29.1625,
+    "EPSEstimateNextQuarter": 6.6665,
+    "EPSEstimateCurrentQuarter": 6.6018,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1851,
+    "OperatingMarginTTM": 0.2049,
+    "ReturnOnAssetsTTM": 0.0338,
+    "ReturnOnEquityTTM": 0.1543,
+    "RevenueTTM": 61044998144,
+    "RevenuePerShareTTM": 154.51,
+    "QuarterlyRevenueGrowthYOY": 0.101,
+    "GrossProfitTTM": 18961999872,
+    "DilutedEpsTTM": 27.69,
+    "QuarterlyEarningsGrowthYOY": 0.787
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.43,
+    "TotalEsgPercentile": 40.04,
+    "EnvironmentScore": 7.62,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 15.36,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 15.45,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CB",
+    "Type": "Common Stock",
+    "Name": "Chubb Ltd",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BR14K5",
+    "ISIN": "CH0044328745",
+    "LEI": "E0JAN6VLUDI1HITHT809",
+    "PrimaryTicker": "CB.US",
+    "CUSIP": "G0070K103",
+    "CIK": "0000896159",
+    "EmployerIdNumber": "98-0091805",
+    "FiscalYearEnd": "December",
+    "IPODate": "1993-03-24",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Property & Casualty",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Property & Casualty Insurance",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Chubb Limited provides insurance and reinsurance products worldwide. It operates in six segments: North America Commercial Property and Casualty (P&C) Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. The company offers property and general liability, workers' compensation, and umbrella; professional and management liability; environmental, health, and international coverages; and claims and risk management products and services, loss control, and engineering and complex claims management. It also provides homeowners, automobile and collector cars, valuable articles, and personal and excess liability insurance. In addition, the company offers multiple peril crop insurance and crop-hail insurance for farm, ranch, specialty (P&C), and commercial agriculture products; product and employer liability, business interruption, and specialty risk; property insurance products, including traditional commercial fire coverage, energy industry-related, marine, construction, and other technical coverages; personal accident and supplemental medical coverages, such as accidental death, business/holiday travel, specified disease, disability, medical and hospital indemnity, and income protection; and directors and officers, professional indemnity, cyber, surety, aviation, political risk, and specialty personal lines products. Further, it provides property catastrophe reinsurance; traditional and specialty P&C reinsurance; and protection and savings products, which includes individual and group term life, dental, critical illness, dementia, hospital cash, credit life, group employee benefits, whole life, universal life, unit linked contracts, endowment plans, and annuities. The company was formerly known as ACE Limited and changed its name to Chubb Limited in January 2016. Chubb Limited was incorporated in 1985 and is headquartered in Zurich, Switzerland.",
+    "Address": "Baerengasse 32, Zurich, Switzerland, 8001",
+    "AddressData": {
+      "Street": "Baerengasse 32",
+      "City": "Zurich",
+      "Country": "Switzerland",
+      "ZIP": "8001"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Evan G. Greenberg",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1955"
+      },
+      "1": {
+        "Name": "Mr. John W. Keogh",
+        "Title": "Additional Chairman, North America Insurance, President & COO",
+        "YearBorn": "1965"
+      },
+      "2": {
+        "Name": "Mr. Peter C. Enns C.F.A.",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Juan Luis Ortega Guarderas",
+        "Title": "Executive VP of Chubb Group & President of North America Insurance",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Christopher J. Hogan CFA",
+        "Title": "Senior VP of Chubb Group & Chief Investment Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. George  Ohsiek",
+        "Title": "VP of Chubb Group & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Gordon  Mackechnie",
+        "Title": "VP of Chubb Group, Global Head of Tech, Division President of North America Financial Lines & CTO",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Susan P. Spivak Bernstein",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "1967"
+      },
+      "8": {
+        "Name": "Mr. Joseph F. Wayland J.D.",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1958"
+      },
+      "9": {
+        "Name": "Ms. Amy  Well",
+        "Title": "Senior VP of Chubb Group & Chief Marketing and Communications Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "41 43 456 76 00",
+    "WebURL": "https://www.chubb.com",
+    "LogoURL": "/img/logos/US/cb.png",
+    "FullTimeEmployees": 45000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 388495580,
+    "SharesFloat": 357614142,
+    "PercentInsiders": 9.447,
+    "PercentInstitutions": 84.66900000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0103
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 15.9669,
+        "totalAssets": 0.0374,
+        "currentShares": 18577096,
+        "change": 13603,
+        "change_p": 0.0733
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.6186,
+        "totalAssets": 0.0302,
+        "currentShares": 12354455,
+        "change": -384498,
+        "change_p": -3.0183
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.9785,
+        "totalAssets": 0.0393,
+        "currentShares": 8119375,
+        "change": 125130,
+        "change_p": 1.5653
+      },
+      "3": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 4.6443,
+        "totalAssets": 0.0803,
+        "currentShares": 5403518,
+        "change": 26223,
+        "change_p": 0.4877
+      },
+      "4": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 3.3349,
+        "totalAssets": 1.4305,
+        "currentShares": 3880048,
+        "change": 1234966,
+        "change_p": 46.6891
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9429,
+        "totalAssets": 0.0293,
+        "currentShares": 3423986,
+        "change": 40028,
+        "change_p": 1.1829
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6745,
+        "totalAssets": 0.013,
+        "currentShares": 3111718,
+        "change": 1088343,
+        "change_p": 53.7885
+      },
+      "7": {
+        "name": "Apg Investments Us Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.5574,
+        "totalAssets": 3.2372,
+        "currentShares": 2975511,
+        "change": -42503,
+        "change_p": -1.4083
+      },
+      "8": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.8438,
+        "totalAssets": 0.0384,
+        "currentShares": 2145203,
+        "change": 26221,
+        "change_p": 1.2374
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7361,
+        "totalAssets": 0.0445,
+        "currentShares": 2019861,
+        "change": 184453,
+        "change_p": 10.0497
+      },
+      "10": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.5764,
+        "totalAssets": 0.0822,
+        "currentShares": 1834157,
+        "change": -233695,
+        "change_p": -11.3013
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4688,
+        "totalAssets": 0.0498,
+        "currentShares": 1708926,
+        "change": 14213,
+        "change_p": 0.8387
+      },
+      "12": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3562,
+        "totalAssets": 0.7299,
+        "currentShares": 1577856,
+        "change": -193173,
+        "change_p": -10.9074
+      },
+      "13": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3216,
+        "totalAssets": 0.0332,
+        "currentShares": 1537641,
+        "change": 89847,
+        "change_p": 6.2058
+      },
+      "14": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.2663,
+        "totalAssets": 0.0666,
+        "currentShares": 1473324,
+        "change": 1827,
+        "change_p": 0.1242
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1966,
+        "totalAssets": 0.0118,
+        "currentShares": 1392245,
+        "change": -385960,
+        "change_p": -21.705
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0499,
+        "totalAssets": 0.0444,
+        "currentShares": 1221491,
+        "change": 107138,
+        "change_p": 9.6144
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0497,
+        "totalAssets": 0.0376,
+        "currentShares": 1221331,
+        "change": -256826,
+        "change_p": -17.3747
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0383,
+        "totalAssets": 0.0367,
+        "currentShares": 1208081,
+        "change": 1040525,
+        "change_p": 621.0013
+      },
+      "19": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.9855,
+        "totalAssets": 0.0239,
+        "currentShares": 1146574,
+        "change": 885858,
+        "change_p": 339.7789
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7456,
+        "totalAssets": 0.819,
+        "currentShares": 4357885,
+        "change": -16996,
+        "change_p": -0.3885
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1826,
+        "totalAssets": 0.0227,
+        "currentShares": 3702877,
+        "change": 3199,
+        "change_p": 0.0865
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5593,
+        "totalAssets": 0.0256,
+        "currentShares": 2977724,
+        "change": -32926,
+        "change_p": -1.0937
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3203,
+        "totalAssets": 0.1984,
+        "currentShares": 2699578,
+        "change": 1370026,
+        "change_p": 103.0442
+      },
+      "4": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4762,
+        "totalAssets": 0.3453,
+        "currentShares": 1717555,
+        "change": 863746,
+        "change_p": 101.1638
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2914,
+        "totalAssets": 0.0255,
+        "currentShares": 1502463,
+        "change": -816,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2807,
+        "totalAssets": 0.0266,
+        "currentShares": 1490017,
+        "change": 2456,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1738,
+        "totalAssets": 0.0257,
+        "currentShares": 1365692,
+        "change": -3332,
+        "change_p": -0.2434
+      },
+      "8": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1668,
+        "totalAssets": 0.1944,
+        "currentShares": 1357505,
+        "change": 4061,
+        "change_p": 0.3
+      },
+      "9": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8307,
+        "totalAssets": 1.6125,
+        "currentShares": 966534,
+        "change": -2168,
+        "change_p": -0.2238
+      },
+      "10": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.7046,
+        "totalAssets": 1.1066,
+        "currentShares": 819768,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6636,
+        "totalAssets": 0.6463,
+        "currentShares": 772065,
+        "change": -31264,
+        "change_p": -3.8918
+      },
+      "12": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.662,
+        "totalAssets": 0.9612,
+        "currentShares": 770279,
+        "change": 147421,
+        "change_p": 23.6685
+      },
+      "13": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.6459,
+        "totalAssets": 0.5812,
+        "currentShares": 751535,
+        "change": -9458,
+        "change_p": -1.2428
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5664,
+        "totalAssets": 0.0255,
+        "currentShares": 659006,
+        "change": -2961,
+        "change_p": -0.4473
+      },
+      "15": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5494,
+        "totalAssets": 1.1054,
+        "currentShares": 639183,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "JPMorgan Value Advantage L",
+        "date": "2026-02-28",
+        "totalShares": 0.544,
+        "totalAssets": 0.9791,
+        "currentShares": 632903,
+        "change": 86785,
+        "change_p": 15.8913
+      },
+      "17": {
+        "name": "Barrow Hanley Global Value Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.5382,
+        "totalAssets": 1.1143,
+        "currentShares": 626202,
+        "change": 80792,
+        "change_p": 14.8131
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5364,
+        "totalAssets": 0.0252,
+        "currentShares": 624040,
+        "change": -100,
+        "change_p": -0.016
+      },
+      "19": {
+        "name": "DFA Real Estate Securities I",
+        "date": "2026-02-28",
+        "totalShares": 0.5166,
+        "totalAssets": 1.1407,
+        "currentShares": 601107,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 33.2434,
+    "ForwardPE": 33.8983,
+    "PriceSalesTTM": 6.6181,
+    "PriceBookMRQ": 2.5795,
+    "EnterpriseValue": 20029204136,
+    "EnterpriseValueRevenue": 9.0666,
+    "EnterpriseValueEbitda": 15.8045
+  },
+  "Highlights": {
+    "MarketCapitalization": 14620243968,
+    "MarketCapitalizationMln": 14620.244,
+    "EBITDA": 1242407040,
+    "PERatio": 33.2434,
+    "PEGRatio": 7.0257,
+    "WallStreetTargetPrice": 142.2708,
+    "BookValue": 48.451,
+    "DividendShare": 6.06,
+    "DividendYield": 0.0481,
+    "EarningsShare": 3.78,
+    "EPSEstimateCurrentYear": 3.2761,
+    "EPSEstimateNextYear": 3.3895,
+    "EPSEstimateNextQuarter": 0.83,
+    "EPSEstimateCurrentQuarter": 0.9,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2023,
+    "OperatingMarginTTM": 0.2838,
+    "ReturnOnAssetsTTM": 0.0326,
+    "ReturnOnEquityTTM": 0.0765,
+    "RevenueTTM": 2209125888,
+    "RevenuePerShareTTM": 18.889,
+    "QuarterlyRevenueGrowthYOY": 0.01,
+    "GrossProfitTTM": 1296540032,
+    "DilutedEpsTTM": 3.78,
+    "QuarterlyEarningsGrowthYOY": -0.658
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.31,
+    "TotalEsgPercentile": 22.98,
+    "EnvironmentScore": 11.53,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.12,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 9.66,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MAA",
+    "Type": "Common Stock",
+    "Name": "Mid-America Apartment Communities Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLMY92",
+    "ISIN": "US59522J1034",
+    "LEI": "549300FQZKFR5YNSHZ21",
+    "PrimaryTicker": "MAA.US",
+    "CUSIP": "59522J103",
+    "CIK": "0000912595",
+    "EmployerIdNumber": "62-1543819",
+    "FiscalYearEnd": "December",
+    "IPODate": "1994-01-28",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Residential REITs",
+    "GicSubIndustry": "Multi-Family Residential REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Mid-America Apartment Communities, Inc.is a S&P 500 company. It is a real estate investment trust (REIT) focused on delivering full-cycle and superior investment performance for shareholders through the ownership, management, acquisition, development and redevelopment of quality apartment communities primarily in the Southeast, Southwest and Mid-Atlantic regions of the United States. As of December 31, 2025, MAA had ownership interest in 104,945 apartment units, including communities currently in development, across 16 states and the District of Columbia. Mid-America Apartment Communities, Inc. was incorporated in 1997 in Tennessee, USA.",
+    "Address": "6815 Poplar Avenue, Germantown, TN, United States, 38138-3606",
+    "AddressData": {
+      "Street": "6815 Poplar Avenue",
+      "City": "Germantown",
+      "State": "TN",
+      "Country": "United States",
+      "ZIP": "38138-3606"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. H. Eric Bolton Jr.",
+        "Title": "Executive Chairman",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. Adrian Bradley Hill C.F.A.",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. A. Clay Holder",
+        "Title": "Executive VP & Chief Financial Officer",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Mr. Robert J. DelPriore Esq., J.D.",
+        "Title": "Executive VP, Chief Administrative Officer & General Counsel",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Timothy P. Argo CPA",
+        "Title": "Executive VP and Chief Strategy & Analysis Officer",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Ms. Amber  Fairbanks",
+        "Title": "Executive Vice President of Property Management",
+        "YearBorn": "1981"
+      },
+      "6": {
+        "Name": "Mr. James Bart French",
+        "Title": "EVP of Investments",
+        "YearBorn": "1970"
+      },
+      "7": {
+        "Name": "Mr. David  Herring",
+        "Title": "Senior VP, Principal Accounting Officer & Chief Accounting Officer",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Mr. Joseph P. Fracchia CPA",
+        "Title": "Executive VP and Chief Technology & Innovation Officer",
+        "YearBorn": "1974"
+      },
+      "9": {
+        "Name": "Ms. Jennifer  Patrick",
+        "Title": "Investor Relations Contact",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "901 682 6600",
+    "WebURL": "https://www.maac.com",
+    "LogoURL": "/img/logos/US/MAA.png",
+    "FullTimeEmployees": 2507,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 116347636,
+    "SharesFloat": 115775263,
+    "PercentInsiders": 0.664,
+    "PercentInstitutions": 98.614,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0293
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.0621,
+        "totalAssets": 0.1054,
+        "currentShares": 25309726,
+        "change": -153470,
+        "change_p": -0.6027
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.829,
+        "totalAssets": 0.1021,
+        "currentShares": 22488461,
+        "change": -1426002,
+        "change_p": -5.9629
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 8.8295,
+        "totalAssets": 0.157,
+        "currentShares": 20201436,
+        "change": 11237098,
+        "change_p": 125.3534
+      },
+      "3": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.5833,
+        "totalAssets": 1.3722,
+        "currentShares": 10486308,
+        "change": -102305,
+        "change_p": -0.9662
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.5157,
+        "totalAssets": 0.1513,
+        "currentShares": 10331737,
+        "change": -397872,
+        "change_p": -3.7082
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1752,
+        "totalAssets": 0.0859,
+        "currentShares": 9552601,
+        "change": -43108,
+        "change_p": -0.4492
+      },
+      "6": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.2916,
+        "totalAssets": 0.8556,
+        "currentShares": 7531099,
+        "change": 2995855,
+        "change_p": 66.0572
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8187,
+        "totalAssets": 0.1143,
+        "currentShares": 6448978,
+        "change": 31364,
+        "change_p": 0.4887
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.6269,
+        "totalAssets": 0.3888,
+        "currentShares": 6010313,
+        "change": 567651,
+        "change_p": 10.4297
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.6146,
+        "totalAssets": 0.1053,
+        "currentShares": 5982089,
+        "change": -176986,
+        "change_p": -2.8736
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0177,
+        "totalAssets": 0.1281,
+        "currentShares": 4616451,
+        "change": 1203656,
+        "change_p": 35.2689
+      },
+      "11": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.7339,
+        "totalAssets": 0.3675,
+        "currentShares": 3967117,
+        "change": -100377,
+        "change_p": -2.4678
+      },
+      "12": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4516,
+        "totalAssets": 0.5728,
+        "currentShares": 3321298,
+        "change": -1429593,
+        "change_p": -30.0911
+      },
+      "13": {
+        "name": "Pershing Square Capital Management, L.p.",
+        "date": "2025-12-31",
+        "totalShares": 1.3237,
+        "totalAssets": 5.6031,
+        "currentShares": 3028664,
+        "change": -1914,
+        "change_p": -0.0632
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2219,
+        "totalAssets": 0.0859,
+        "currentShares": 2795637,
+        "change": 256775,
+        "change_p": 10.1138
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.21,
+        "totalAssets": 0.0435,
+        "currentShares": 2768403,
+        "change": -422342,
+        "change_p": -13.2365
+      },
+      "16": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.0879,
+        "totalAssets": 0.1121,
+        "currentShares": 2489002,
+        "change": -2200428,
+        "change_p": -46.9231
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0428,
+        "totalAssets": 0.0792,
+        "currentShares": 2385868,
+        "change": 23077,
+        "change_p": 0.9767
+      },
+      "18": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0398,
+        "totalAssets": 0.0972,
+        "currentShares": 2378965,
+        "change": -166126,
+        "change_p": -6.5273
+      },
+      "19": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.0384,
+        "totalAssets": 0.3997,
+        "currentShares": 2375719,
+        "change": 381828,
+        "change_p": 19.1499
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1817,
+        "totalAssets": 0.1109,
+        "currentShares": 7279486,
+        "change": -69269,
+        "change_p": -0.9426
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5513,
+        "totalAssets": 0.1247,
+        "currentShares": 5837264,
+        "change": -140473,
+        "change_p": -2.3499
+      },
+      "2": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 2.2852,
+        "totalAssets": 4.9074,
+        "currentShares": 5228421,
+        "change": -565372,
+        "change_p": -9.7582
+      },
+      "3": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 1.9957,
+        "totalAssets": 4.9349,
+        "currentShares": 4566166,
+        "change": -579609,
+        "change_p": -11.2638
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2929,
+        "totalAssets": 0.1231,
+        "currentShares": 2958026,
+        "change": 4876,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2884,
+        "totalAssets": 0.1245,
+        "currentShares": 2947740,
+        "change": -1608,
+        "change_p": -0.0545
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1602,
+        "totalAssets": 0.1241,
+        "currentShares": 2654541,
+        "change": -6517,
+        "change_p": -0.2449
+      },
+      "7": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1329,
+        "totalAssets": 0.248,
+        "currentShares": 2592087,
+        "change": -107523,
+        "change_p": -3.9829
+      },
+      "8": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0824,
+        "totalAssets": 0.379,
+        "currentShares": 2476575,
+        "change": -49450,
+        "change_p": -1.9576
+      },
+      "9": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.9137,
+        "totalAssets": 2.3843,
+        "currentShares": 2090500,
+        "change": -2900,
+        "change_p": -0.1385
+      },
+      "10": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.8786,
+        "totalAssets": 2.7119,
+        "currentShares": 2010200,
+        "change": -78600,
+        "change_p": -3.7629
+      },
+      "11": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.86,
+        "totalAssets": 1.2613,
+        "currentShares": 1967654,
+        "change": 40740,
+        "change_p": 2.1143
+      },
+      "12": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 0.856,
+        "totalAssets": 1.7179,
+        "currentShares": 1958576,
+        "change": -83900,
+        "change_p": -4.1078
+      },
+      "13": {
+        "name": "Putnam Sustainable Leaders SMA",
+        "date": "2025-12-31",
+        "totalShares": 0.8144,
+        "totalAssets": 1.3168,
+        "currentShares": 1863348,
+        "change": 1863340,
+        "change_p": 23291750
+      },
+      "14": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8144,
+        "totalAssets": 1.2904,
+        "currentShares": 1863348,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7738,
+        "totalAssets": 0.1514,
+        "currentShares": 1770420,
+        "change": -416034,
+        "change_p": -19.0278
+      },
+      "16": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.7309,
+        "totalAssets": 0.4991,
+        "currentShares": 1672333,
+        "change": -210563,
+        "change_p": -11.1829
+      },
+      "17": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6971,
+        "totalAssets": 1.0473,
+        "currentShares": 1594841,
+        "change": -53942,
+        "change_p": -3.2716
+      },
+      "18": {
+        "name": "MFS Growth B",
+        "date": "2026-02-28",
+        "totalShares": 0.69,
+        "totalAssets": 1.2285,
+        "currentShares": 1578620,
+        "change": -12405,
+        "change_p": -0.7797
+      },
+      "19": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.6776,
+        "totalAssets": 0.1539,
+        "currentShares": 1550240,
+        "change": -220180,
+        "change_p": -12.4366
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 54.9313,
+    "ForwardPE": 36.63,
+    "PriceSalesTTM": 15.5343,
+    "PriceBookMRQ": 277.4118,
+    "EnterpriseValue": 88656905151,
+    "EnterpriseValueRevenue": 7.3641,
+    "EnterpriseValueEbitda": 30.9017
+  },
+  "Highlights": {
+    "MarketCapitalization": 76957147136,
+    "MarketCapitalizationMln": 76957.1471,
+    "EBITDA": 2852000000,
+    "PERatio": 54.9313,
+    "PEGRatio": 1.5816,
+    "WallStreetTargetPrice": 339.2917,
+    "BookValue": -23.382,
+    "DividendShare": 0.6,
+    "DividendYield": 0.0018,
+    "EarningsShare": 6.11,
+    "EPSEstimateCurrentYear": 9.0426,
+    "EPSEstimateNextYear": 10.4474,
+    "EPSEstimateNextQuarter": 1.8378,
+    "EPSEstimateCurrentQuarter": 2.0163,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2941,
+    "OperatingMarginTTM": 0.4633,
+    "ReturnOnAssetsTTM": 0.1004,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 4953999872,
+    "RevenuePerShareTTM": 20.992,
+    "QuarterlyRevenueGrowthYOY": 0.07,
+    "GrossProfitTTM": 3860000000,
+    "DilutedEpsTTM": 6.11,
+    "QuarterlyEarningsGrowthYOY": -0.385
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.29,
+    "TotalEsgPercentile": 18.74,
+    "EnvironmentScore": 7.61,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 6.63,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 1.54,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HLT",
+    "Type": "Common Stock",
+    "Name": "Hilton Worldwide Holdings Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0058KMH30",
+    "ISIN": "US43300A2033",
+    "LEI": "549300HVGPK36ICB0B89",
+    "PrimaryTicker": "HLT.US",
+    "CUSIP": "43300A104",
+    "CIK": "0001585689",
+    "EmployerIdNumber": "27-4384691",
+    "FiscalYearEnd": "December",
+    "IPODate": "2013-12-12",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Lodging",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Hilton Worldwide Holdings Inc., a hospitality company, engages in managing, franchising, and leasing hotels and resorts. It operates in two segments, Management and Franchise, and Ownership. The company engages in the hotel management and licensing of its brand names, trademarks, and service marks. It operates a brand portfolio of luxury, lifestyle, full service, focused service, all-suites hotel, and timeshare under the Waldorf Astoria Hotels & Resorts, LXR Hotels & Resorts, Conrad Hotels & Resorts, Signia by Hilton, NoMad, Canopy by Hilton, Graduate by Hilton, Tempo by Hilton, Motto by Hilton, Hilton Hotels & Resorts, DoubleTree by Hilton, Curio Collection by Hilton, Tapestry Collection by Hilton, Outset Collection by Hilton, Embassy Suites by Hilton, Homewood Suites by Hilton, Home2 Suites by Hilton, LivSmart Studios by Hilton, Hilton Garden Inn, Hampton by Hilton, Tru by Hilton, Spark by Hilton, Hilton Grand Vacations, Small Luxury Hotels of the World, AutoCamp, and Hilton Honors brand names. The company has operations in North America, South America, and Central America, including various Caribbean nations; Europe, the Middle East, and Africa; and the Asia Pacific. Hilton Worldwide Holdings Inc. was founded in 1919 and is headquartered in McLean, Virginia.",
+    "Address": "7930 Jones Branch Drive, McLean, VA, United States, 22102",
+    "AddressData": {
+      "Street": "7930 Jones Branch Drive",
+      "City": "McLean",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "22102"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher J. Nassetta",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Kevin J. Jacobs",
+        "Title": "Executive VP & Chief Financial Officer",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Ms. Laura A. Fuentes",
+        "Title": "Chief Human Resources Officer & Head of Hilton Supply Management",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Christopher W. Silcock",
+        "Title": "President of Global Brands and Commercial Services",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Christian H. Charnaux",
+        "Title": "Executive VP & Chief Development Officer",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Misha  Moylan",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1985"
+      },
+      "6": {
+        "Name": "Mr. Charlie  Ruehr",
+        "Title": "Vice President of Corporate Finance & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Caroline D. Krass",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Ms. Julia  Austin",
+        "Title": "Director of Sales & Marketing",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Frank R. Passanante",
+        "Title": "Senior Vice President of Group Sales",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "703 883 1000",
+    "WebURL": "https://www.hilton.com",
+    "LogoURL": "/img/logos/US/HLT.png",
+    "FullTimeEmployees": 182000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 228795935,
+    "SharesFloat": 224976347,
+    "PercentInsiders": 2.179,
+    "PercentInstitutions": 101.67999999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.029
+  }
+}

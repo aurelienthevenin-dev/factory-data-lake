@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.6164,
+        "totalAssets": 0.2024,
+        "currentShares": 60978360,
+        "change": 84292,
+        "change_p": 0.1384
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3901,
+        "totalAssets": 0.1815,
+        "currentShares": 52300038,
+        "change": 66095,
+        "change_p": 0.1265
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.2683,
+        "totalAssets": 0.2214,
+        "currentShares": 37284060,
+        "change": 29896243,
+        "change_p": 404.6695
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8447,
+        "totalAssets": 0.1874,
+        "currentShares": 27208726,
+        "change": -90789,
+        "change_p": -0.3326
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.7564,
+        "totalAssets": 0.2277,
+        "currentShares": 19506729,
+        "change": 4359214,
+        "change_p": 28.7784
+      },
+      "5": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.5782,
+        "totalAssets": 0.6548,
+        "currentShares": 18246008,
+        "change": 1487768,
+        "change_p": 8.8778
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1304,
+        "totalAssets": 0.6048,
+        "currentShares": 15076796,
+        "change": 1517904,
+        "change_p": 11.1949
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0685,
+        "totalAssets": 0.3105,
+        "currentShares": 14639019,
+        "change": -1977115,
+        "change_p": -11.8988
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9464,
+        "totalAssets": 0.1937,
+        "currentShares": 13774442,
+        "change": -74970,
+        "change_p": -0.5413
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6398,
+        "totalAssets": 0.1393,
+        "currentShares": 11605035,
+        "change": 272354,
+        "change_p": 2.4033
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3438,
+        "totalAssets": 0.2329,
+        "currentShares": 9510336,
+        "change": -510434,
+        "change_p": -5.0938
+      },
+      "11": {
+        "name": "Generation Investment Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0724,
+        "totalAssets": 12.0511,
+        "currentShares": 7589661,
+        "change": 934995,
+        "change_p": 14.0502
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0466,
+        "totalAssets": 0.1879,
+        "currentShares": 7406796,
+        "change": -122044,
+        "change_p": -1.621
+      },
+      "13": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.9768,
+        "totalAssets": 0.6257,
+        "currentShares": 6912916,
+        "change": 386276,
+        "change_p": 5.9185
+      },
+      "14": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9313,
+        "totalAssets": 0.0886,
+        "currentShares": 6591049,
+        "change": 514259,
+        "change_p": 8.4627
+      },
+      "15": {
+        "name": "Eagle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8705,
+        "totalAssets": 4.392,
+        "currentShares": 6160531,
+        "change": -21676,
+        "change_p": -0.3506
+      },
+      "16": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8546,
+        "totalAssets": 0.2151,
+        "currentShares": 6047764,
+        "change": -2362560,
+        "change_p": -28.0912
+      },
+      "17": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7889,
+        "totalAssets": 0.3347,
+        "currentShares": 5583145,
+        "change": -17721,
+        "change_p": -0.3164
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7114,
+        "totalAssets": 0.2168,
+        "currentShares": 5034903,
+        "change": -1329760,
+        "change_p": -20.8929
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6807,
+        "totalAssets": 0.1353,
+        "currentShares": 4817545,
+        "change": 309013,
+        "change_p": 6.854
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8566,
+        "totalAssets": 0.192,
+        "currentShares": 20216009,
+        "change": 107123,
+        "change_p": 0.5327
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2637,
+        "totalAssets": 0.2135,
+        "currentShares": 16020034,
+        "change": -150575,
+        "change_p": -0.9312
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1428,
+        "totalAssets": 0.2129,
+        "currentShares": 8087290,
+        "change": -4404,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1305,
+        "totalAssets": 0.225,
+        "currentShares": 8000384,
+        "change": 13194,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0313,
+        "totalAssets": 0.2128,
+        "currentShares": 7298855,
+        "change": -17934,
+        "change_p": -0.2451
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8312,
+        "totalAssets": 0.4942,
+        "currentShares": 5882452,
+        "change": -45481,
+        "change_p": -0.7672
+      },
+      "6": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.7726,
+        "totalAssets": 0.5199,
+        "currentShares": 5467895,
+        "change": 1690304,
+        "change_p": 44.7456
+      },
+      "7": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6713,
+        "totalAssets": 2.7435,
+        "currentShares": 4751135,
+        "change": 448455,
+        "change_p": 10.4227
+      },
+      "8": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6498,
+        "totalAssets": 2.245,
+        "currentShares": 4598351,
+        "change": 13936,
+        "change_p": 0.304
+      },
+      "9": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6191,
+        "totalAssets": 2.4476,
+        "currentShares": 4381627,
+        "change": -594932,
+        "change_p": -11.9547
+      },
+      "10": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.4153,
+        "currentShares": 3777591,
+        "change": 603173,
+        "change_p": 19.0011
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5009,
+        "totalAssets": 0.213,
+        "currentShares": 3544873,
+        "change": -16199,
+        "change_p": -0.4549
+      },
+      "12": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4978,
+        "totalAssets": 0.569,
+        "currentShares": 3522636,
+        "change": 42995,
+        "change_p": 1.2356
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4746,
+        "totalAssets": 0.2108,
+        "currentShares": 3358476,
+        "change": 7300,
+        "change_p": 0.2178
+      },
+      "14": {
+        "name": "Parnassus Core Equity Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.4698,
+        "totalAssets": 2.8275,
+        "currentShares": 3324608,
+        "change": -101886,
+        "change_p": -2.9735
+      },
+      "15": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4628,
+        "totalAssets": 0.3743,
+        "currentShares": 3275070,
+        "change": 335319,
+        "change_p": 11.4064
+      },
+      "16": {
+        "name": "Six Circles U.S. Unconstrained Equity",
+        "date": "2025-09-30",
+        "totalShares": 0.4349,
+        "totalAssets": 2.0051,
+        "currentShares": 3077442,
+        "change": 33615,
+        "change_p": 1.1044
+      },
+      "17": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4154,
+        "totalAssets": 0.3825,
+        "currentShares": 2939751,
+        "change": 11548,
+        "change_p": 0.3944
+      },
+      "18": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4015,
+        "totalAssets": 0.2127,
+        "currentShares": 2841579,
+        "change": 18521,
+        "change_p": 0.6561
+      },
+      "19": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3939,
+        "totalAssets": 0.1725,
+        "currentShares": 2787445,
+        "change": 691231,
+        "change_p": 32.9752
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 34.3508,
+    "ForwardPE": 21.0526,
+    "PriceSalesTTM": 5.0631,
+    "PriceBookMRQ": 2.387,
+    "EnterpriseValue": 139169600863,
+    "EnterpriseValueRevenue": 5.6167,
+    "EnterpriseValueEbitda": 19.6623
+  },
+  "Highlights": {
+    "MarketCapitalization": 125452345344,
+    "MarketCapitalizationMln": 125452.3453,
+    "EBITDA": 7935000064,
+    "PERatio": 34.3508,
+    "PEGRatio": 1.1389,
+    "WallStreetTargetPrice": 250.1364,
+    "BookValue": 74.316,
+    "DividendShare": 1.36,
+    "DividendYield": 0.0076,
+    "EarningsShare": 5.16,
+    "EPSEstimateCurrentYear": 8.4342,
+    "EPSEstimateNextYear": 9.0901,
+    "EPSEstimateNextQuarter": 1.8592,
+    "EPSEstimateCurrentQuarter": 1.9364,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1489,
+    "OperatingMarginTTM": 0.2294,
+    "ReturnOnAssetsTTM": 0.0419,
+    "ReturnOnEquityTTM": 0.0708,
+    "RevenueTTM": 24778000384,
+    "RevenuePerShareTTM": 34.869,
+    "QuarterlyRevenueGrowthYOY": 0.037,
+    "GrossProfitTTM": 14616999936,
+    "DilutedEpsTTM": 5.16,
+    "QuarterlyEarningsGrowthYOY": 0.098
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.72,
+    "TotalEsgPercentile": 65.84,
+    "EnvironmentScore": 4.13,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 17.73,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 7.86,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DHR",
+    "Type": "Common Stock",
+    "Name": "Danaher Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BH3JF8",
+    "ISIN": "US2358511028",
+    "LEI": "S4BKK9OTCEWQ3YHPFM11",
+    "PrimaryTicker": "DHR.US",
+    "CUSIP": "235851110",
+    "CIK": "0000313616",
+    "EmployerIdNumber": "59-1995548",
+    "FiscalYearEnd": "December",
+    "IPODate": "1979-01-05",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Diagnostics & Research",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Danaher Corporation designs, manufactures, and markets professional, medical, research, and industrial products and services in the United States, China, and internationally. The company operates through Biotechnology, Life Sciences, and Diagnostics segments. The Biotechnology segment provides technologies, consumables, services, and solutions that advance, accelerate, and integrate the development and manufacture of therapeutics; cell line and cell culture media development services; cell culture media, process liquids and buffers for manufacturing, chromatography resins, filtration technologies, and aseptic fill finish; single-use hardware, consumables, and services, such as the design and installation of full manufacturing suites; lab filtration, separation, and purification; lab-scale protein purification and analytical tools; reagents, membranes, and services for diagnostic and assay development; and healthcare filtration solutions. The Life Sciences segment provides mass spectrometers; bioanalytical measurement systems; flow cytometry, genomics, lab automation, centrifugation, liquid handling automation instruments, antibodies and reagents, and particle counting and characterization; genome sample preparation; microscopes; protein consumables; filtration products; and genomic medicines, such as custom nucleic acid products, and plasmid DNA, RNA, and proteins under the ABCAM, ALDEVRON, BECKMAN COULTER, GENEDATA, IDT, LEICA MICROSYSTEMS, MOLECULAR DEVICES, PALL, PHENOMENEX, and SCIEX brands. The Diagnostics segment offers clinical instruments, consumables, software, and services that hospitals, physicians' offices, reference laboratories and other critical care settings use to diagnose disease and make treatment decisions. The company was formerly known as Diversified Mortgage Investors, Inc. and changed its name to Danaher Corporation in 1984. Danaher Corporation was incorporated in 1969 and is headquartered in Washington, the District Of Columbia.",
+    "Address": "2200 Pennsylvania Avenue N.W., Washington, DC, United States, 20037-1701",
+    "AddressData": {
+      "Street": "2200 Pennsylvania Avenue N.W.",
+      "City": "Washington",
+      "State": "DC",
+      "Country": "United States",
+      "ZIP": "20037-1701"
+    },
+    "Listings": {
+      "0": {
+        "Code": "DHER34",
+        "Exchange": "SA",
+        "Name": "Danaher Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Steven M. Rales",
+        "Title": "Co-Founder & Chairman",
+        "YearBorn": "1951"
+      },
+      "1": {
+        "Name": "Mr. Rainer M. Blair",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Mitchell P. Rales",
+        "Title": "Co-Founder & Director",
+        "YearBorn": "1957"
+      },
+      "3": {
+        "Name": "Dr. Jose-Carlos  Gutierrez-Ramos Ph.D.",
+        "Title": "Senior VP & Chief Science Officer",
+        "YearBorn": "1962"
+      },
+      "4": {
+        "Name": "Mr. Matthew R. McGrew",
+        "Title": "Executive Vice President",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Christopher Paul Riley",
+        "Title": "Executive VP of Biotechnology Group & CEO of Cytiva",
+        "YearBorn": "1974"
+      },
+      "6": {
+        "Name": "Ms. Julie Sawyer Montgomery",
+        "Title": "Executive Vice President of Diagnostics Platform",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Mr. Matthew E. Gugino C.F.A., CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1983"
+      },
+      "8": {
+        "Name": "Mr. Christopher M. Bouda",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Martin  Stumpe Ph.D.",
+        "Title": "Chief Technology & AI Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "202 828 0850",
+    "WebURL": "https://www.danaher.com",
+    "LogoURL": "/img/logos/US/dhr.png",
+    "FullTimeEmployees": 58000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 707770627,
+    "SharesFloat": 630651939,
+    "PercentInsiders": 10.784,
+    "PercentInstitutions": 85.077,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0129
+  }
+}

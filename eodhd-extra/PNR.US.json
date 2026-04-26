@@ -1,0 +1,591 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2019,
+        "totalAssets": 0.0298,
+        "currentShares": 19718648,
+        "change": -148311,
+        "change_p": -0.7465
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.4851,
+        "totalAssets": 0.0297,
+        "currentShares": 15328243,
+        "change": -1741567,
+        "change_p": -10.2026
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.401,
+        "totalAssets": 0.0335,
+        "currentShares": 8728115,
+        "change": -242825,
+        "change_p": -2.7068
+      },
+      "3": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.7204,
+        "totalAssets": 0.0904,
+        "currentShares": 7628221,
+        "change": 5525601,
+        "change_p": 262.796
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.73,
+        "totalAssets": 0.032,
+        "currentShares": 6027858,
+        "change": -8220,
+        "change_p": -0.1362
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7405,
+        "totalAssets": 0.0284,
+        "currentShares": 4428737,
+        "change": 137980,
+        "change_p": 3.2157
+      },
+      "6": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 2.6137,
+        "totalAssets": 0.4269,
+        "currentShares": 4223831,
+        "change": -565720,
+        "change_p": -11.8115
+      },
+      "7": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 2.318,
+        "totalAssets": 0.106,
+        "currentShares": 3745901,
+        "change": -66612,
+        "change_p": -1.7472
+      },
+      "8": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 2.1565,
+        "totalAssets": 0.315,
+        "currentShares": 3484915,
+        "change": 647162,
+        "change_p": 22.8054
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0499,
+        "totalAssets": 0.0578,
+        "currentShares": 3312736,
+        "change": -235179,
+        "change_p": -6.6287
+      },
+      "10": {
+        "name": "Impax Asset Management Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0489,
+        "totalAssets": 2.1572,
+        "currentShares": 3311159,
+        "change": -273910,
+        "change_p": -7.6403
+      },
+      "11": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.0185,
+        "totalAssets": 0.0785,
+        "currentShares": 3261906,
+        "change": -684870,
+        "change_p": -17.3526
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.003,
+        "totalAssets": 0.0824,
+        "currentShares": 3236826,
+        "change": 1670944,
+        "change_p": 106.7094
+      },
+      "13": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.6329,
+        "totalAssets": 0.0886,
+        "currentShares": 2638855,
+        "change": 305166,
+        "change_p": 13.0765
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4268,
+        "totalAssets": 0.0504,
+        "currentShares": 2305827,
+        "change": 3872,
+        "change_p": 0.1682
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3301,
+        "totalAssets": 0.0305,
+        "currentShares": 2149531,
+        "change": 18716,
+        "change_p": 0.8783
+      },
+      "16": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2578,
+        "totalAssets": 0.0136,
+        "currentShares": 2032671,
+        "change": -334509,
+        "change_p": -14.1311
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1925,
+        "totalAssets": 0.0064,
+        "currentShares": 1927042,
+        "change": 1134121,
+        "change_p": 143.0308
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.0306,
+        "totalAssets": 0.0565,
+        "currentShares": 1665522,
+        "change": 87203,
+        "change_p": 5.5251
+      },
+      "19": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0268,
+        "totalAssets": 0.4638,
+        "currentShares": 1659380,
+        "change": -115102,
+        "change_p": -6.4865
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2017,
+        "totalAssets": 0.0226,
+        "currentShares": 5174116,
+        "change": -2962,
+        "change_p": -0.0572
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5784,
+        "totalAssets": 0.0255,
+        "currentShares": 4166777,
+        "change": -42424,
+        "change_p": -1.0079
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3325,
+        "totalAssets": 0.1976,
+        "currentShares": 3769450,
+        "change": 52804,
+        "change_p": 1.4207
+      },
+      "3": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.8467,
+        "totalAssets": 0.6059,
+        "currentShares": 2984368,
+        "change": 1071449,
+        "change_p": 56.0112
+      },
+      "4": {
+        "name": "Pictet-Water I EUR",
+        "date": "2026-03-31",
+        "totalShares": 1.8016,
+        "totalAssets": 3.4773,
+        "currentShares": 2911461,
+        "change": -16778,
+        "change_p": -0.573
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4841,
+        "totalAssets": 0.344,
+        "currentShares": 2398318,
+        "change": 11632,
+        "change_p": 0.4874
+      },
+      "6": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.3777,
+        "totalAssets": 0.6083,
+        "currentShares": 2226326,
+        "change": 742200,
+        "change_p": 50.0092
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3013,
+        "totalAssets": 0.0254,
+        "currentShares": 2102962,
+        "change": -1140,
+        "change_p": -0.0542
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2887,
+        "totalAssets": 0.0276,
+        "currentShares": 2082555,
+        "change": 3435,
+        "change_p": 0.1652
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1824,
+        "totalAssets": 0.1952,
+        "currentShares": 1910716,
+        "change": 5633,
+        "change_p": 0.2957
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.178,
+        "totalAssets": 0.0255,
+        "currentShares": 1903755,
+        "change": -4655,
+        "change_p": -0.2439
+      },
+      "11": {
+        "name": "T. Rowe Price US Large-Cap Core",
+        "date": "2026-03-31",
+        "totalShares": 0.9932,
+        "totalAssets": 0.8463,
+        "currentShares": 1604973,
+        "change": 199050,
+        "change_p": 14.158
+      },
+      "12": {
+        "name": "T. Rowe Price US Large-Cap Core Tr-E",
+        "date": "2025-12-31",
+        "totalShares": 0.9769,
+        "totalAssets": 0.8134,
+        "currentShares": 1578721,
+        "change": -70482,
+        "change_p": -4.2737
+      },
+      "13": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.9546,
+        "totalAssets": 1.2168,
+        "currentShares": 1542691,
+        "change": -734,
+        "change_p": -0.0476
+      },
+      "14": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.9218,
+        "totalAssets": 0.5022,
+        "currentShares": 1489652,
+        "change": 39973,
+        "change_p": 2.7574
+      },
+      "15": {
+        "name": "Impax Water Strategy Composite",
+        "date": "2026-01-31",
+        "totalShares": 0.9208,
+        "totalAssets": 2.2017,
+        "currentShares": 1488066,
+        "change": -179029,
+        "change_p": -10.739
+      },
+      "16": {
+        "name": "T. Rowe Price US Large-Cap Core Eq Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8599,
+        "totalAssets": 0.805,
+        "currentShares": 1389644,
+        "change": -120723,
+        "change_p": -7.993
+      },
+      "17": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8474,
+        "totalAssets": 0.8594,
+        "currentShares": 1369420,
+        "change": -55454,
+        "change_p": -3.8919
+      },
+      "18": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.8249,
+        "totalAssets": 0.7639,
+        "currentShares": 1333005,
+        "change": -16776,
+        "change_p": -1.2429
+      },
+      "19": {
+        "name": "Fidelity Series Value Discovery",
+        "date": "2026-02-28",
+        "totalShares": 0.7965,
+        "totalAssets": 0.7958,
+        "currentShares": 1287200,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.3461,
+    "ForwardPE": 16.9492,
+    "PriceSalesTTM": 3.5864,
+    "PriceBookMRQ": 3.779,
+    "EnterpriseValue": 16286121344,
+    "EnterpriseValueRevenue": 3.8999,
+    "EnterpriseValueEbitda": 17.2596
+  },
+  "Highlights": {
+    "MarketCapitalization": 14976876544,
+    "MarketCapitalizationMln": 14976.8765,
+    "EBITDA": 1091100032,
+    "PERatio": 23.3461,
+    "PEGRatio": 1.3609,
+    "WallStreetTargetPrice": 110,
+    "BookValue": 23.703,
+    "DividendShare": 1,
+    "DividendYield": 0.0111,
+    "EarningsShare": 3.93,
+    "EPSEstimateCurrentYear": 5.3404,
+    "EPSEstimateNextYear": 5.8179,
+    "EPSEstimateNextQuarter": 1.2333,
+    "EPSEstimateCurrentQuarter": 1.1588,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1566,
+    "OperatingMarginTTM": 0.2009,
+    "ReturnOnAssetsTTM": 0.0914,
+    "ReturnOnEquityTTM": 0.1748,
+    "RevenueTTM": 4176000000,
+    "RevenuePerShareTTM": 25.448,
+    "QuarterlyRevenueGrowthYOY": 0.049,
+    "GrossProfitTTM": 1707399936,
+    "DilutedEpsTTM": 3.93,
+    "QuarterlyEarningsGrowthYOY": 0.016
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.42,
+    "TotalEsgPercentile": 68.62,
+    "EnvironmentScore": 10.81,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 15.03,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 4.58,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PNR",
+    "Type": "Common Stock",
+    "Name": "Pentair PLC",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C221G9",
+    "ISIN": "IE00BLS09M33",
+    "LEI": null,
+    "PrimaryTicker": "PNR.US",
+    "CUSIP": "709631105",
+    "CIK": "0000077360",
+    "EmployerIdNumber": "98-1141328",
+    "FiscalYearEnd": "December",
+    "IPODate": "1973-05-03",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Pentair plc provides various water solutions in the United States, Western Europe, China, Latin America, the Middle East, Southeast Asia, Australia, and Canada. It operates through three segments: Flow, Water Solutions, and Pool. The Flow segment designs, manufactures, and sells fluid treatment and pump products and systems, including pressure vessels, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration, separation systems, specialty insertion valves, water disposal pumps, water supply pumps, fluid transfer pumps, turbine pumps, solid handling pumps, and agricultural spray nozzles. This segment provides products under Pentair Flow, Aurora, Berkeley, Codeline, Fairbanks-Nijhuis, Haffmans, Hydromatic, Hypro, Jung Pumpen, Myers, Sta-Rite, Shurflo, Südmo, and X-Flow brand names. The Water Solutions segment offers commercial and residential water treatment products and systems, such as pressure tanks, control valves, activated carbon products, commercial ice machines, conventional filtration products, and point-of-entry and point-of-use water treatment systems for use in water filtration and water softening solutions, as well as commercial water management and filtration solutions in foodservice operations; and installation and preventative services for water management solutions for commercial operators under the Pentair Water Solutions, Everpure, Fleck, Manitowoc Ice, Pentek, and RainSoft brands. The Pool segment provides residential and commercial pool equipment and accessories, including pumps, filters, heaters, lights, automatic controls and cleaners, chlorinators, maintenance equipment, and pool accessories for residential and commercial pool maintenance, pool repair, renovation, service, construction, and aquaculture solutions. This segment offers products under the Pentair Pool, Kreepy Krauly, Pleatco, and Sta-Rite brands. Pentair plc was founded in 1966 and is headquartered in London, the United Kingdom.",
+    "Address": "Regal House, London, United Kingdom, TW13 QS",
+    "AddressData": {
+      "Street": "Regal House",
+      "City": "London",
+      "Country": "United Kingdom",
+      "ZIP": "TW13 QS"
+    },
+    "Listings": {
+      "0": {
+        "Code": "PNT",
+        "Exchange": "F",
+        "Name": "Pentair plc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. John L. Stauch",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Adrian C. Chiu",
+        "Title": "EVP, Chief Strategy, Innovation & Digital Officer",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Mr. Demon L. Wiggins",
+        "Title": "EVP, President of Pentair Flow & Pentair Water Solutions",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Mr. Jerome O. Pedretti",
+        "Title": "Executive VP & CEO of Pool",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Nicholas J. Brazis",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1981"
+      },
+      "5": {
+        "Name": "Ms. Jennifer M. Hensley",
+        "Title": "SVP, Chief Accounting Officer & Controller",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Heather  Hausmann",
+        "Title": "Executive VP, Chief Information Officer & Chief Information Security Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Shelly  Hubbard",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Lance T Bonner",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1989"
+      },
+      "9": {
+        "Name": "Ms. Tanya L. Hooper",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "44 74 9421 6154",
+    "WebURL": "https://www.pentair.com",
+    "LogoURL": "/img/logos/US/PNR.png",
+    "FullTimeEmployees": 9000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 161602800,
+    "SharesFloat": 161885747,
+    "PercentInsiders": 1,
+    "PercentInstitutions": 99.01299999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0344
+  }
+}

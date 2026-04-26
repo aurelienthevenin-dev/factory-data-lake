@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 14.9423,
+        "totalAssets": 0.2519,
+        "currentShares": 21128210,
+        "change": -30176,
+        "change_p": -0.1426
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 11.0299,
+        "totalAssets": 0.0398,
+        "currentShares": 15596111,
+        "change": -1471087,
+        "change_p": -8.6194
+      },
+      "2": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.1674,
+        "totalAssets": 0.0487,
+        "currentShares": 14376579,
+        "change": -692023,
+        "change_p": -4.5925
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 9.1413,
+        "totalAssets": 0.0564,
+        "currentShares": 12925680,
+        "change": 7682627,
+        "change_p": 146.5296
+      },
+      "4": {
+        "name": "Elyxium Wealth, LLC",
+        "date": "2025-12-31",
+        "totalShares": 8.3094,
+        "totalAssets": 3.2676,
+        "currentShares": 11749306,
+        "change": 11749306,
+        "change_p": 0
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.078,
+        "totalAssets": 0.022,
+        "currentShares": 4352281,
+        "change": -102706,
+        "change_p": -2.3054
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.2146,
+        "totalAssets": 0.0309,
+        "currentShares": 3131414,
+        "change": -364381,
+        "change_p": -10.4234
+      },
+      "7": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0474,
+        "totalAssets": 0.0076,
+        "currentShares": 2894990,
+        "change": 2885489,
+        "change_p": 30370.3715
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9006,
+        "totalAssets": 0.0387,
+        "currentShares": 2687437,
+        "change": 145948,
+        "change_p": 5.7426
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8724,
+        "totalAssets": 0.0413,
+        "currentShares": 2647493,
+        "change": 2385270,
+        "change_p": 909.6342
+      },
+      "10": {
+        "name": "BNP Paribas Investment Partners SA",
+        "date": "2025-09-30",
+        "totalShares": 1.7724,
+        "totalAssets": 0.9457,
+        "currentShares": 2506186,
+        "change": -557449,
+        "change_p": -18.1957
+      },
+      "11": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.5819,
+        "totalAssets": 0.3064,
+        "currentShares": 2236835,
+        "change": 1092980,
+        "change_p": 95.5523
+      },
+      "12": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.3217,
+        "totalAssets": 0.0594,
+        "currentShares": 1868881,
+        "change": 31900,
+        "change_p": 1.7365
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2319,
+        "totalAssets": 0.0154,
+        "currentShares": 1741875,
+        "change": -128205,
+        "change_p": -6.8556
+      },
+      "14": {
+        "name": "Jericho Capital Asset Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.1713,
+        "totalAssets": 4.4129,
+        "currentShares": 1656172,
+        "change": -326828,
+        "change_p": -16.4815
+      },
+      "15": {
+        "name": "Atreides Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 1.0101,
+        "totalAssets": 4.0816,
+        "currentShares": 1428230,
+        "change": 27466,
+        "change_p": 1.9608
+      },
+      "16": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.999,
+        "totalAssets": 0.1733,
+        "currentShares": 1412560,
+        "change": -89908,
+        "change_p": -5.984
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9879,
+        "totalAssets": 0.0685,
+        "currentShares": 1396874,
+        "change": -598825,
+        "change_p": -30.0058
+      },
+      "18": {
+        "name": "Polar Capital Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9119,
+        "totalAssets": 1.1653,
+        "currentShares": 1289427,
+        "change": -173784,
+        "change_p": -11.8769
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8761,
+        "totalAssets": 0.0284,
+        "currentShares": 1238745,
+        "change": 957187,
+        "change_p": 339.9609
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 6.3924,
+        "totalAssets": 2.8978,
+        "currentShares": 9038700,
+        "change": 100334,
+        "change_p": 1.1225
+      },
+      "1": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 4.8284,
+        "totalAssets": 2.8864,
+        "currentShares": 6827273,
+        "change": 423411,
+        "change_p": 6.6118
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1758,
+        "totalAssets": 0.0873,
+        "currentShares": 4490542,
+        "change": 27190,
+        "change_p": 0.6092
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5363,
+        "totalAssets": 0.0979,
+        "currentShares": 3586272,
+        "change": -39648,
+        "change_p": -1.0935
+      },
+      "4": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 2.3532,
+        "totalAssets": 1.0197,
+        "currentShares": 3327347,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Fidelity Growth Company K6",
+        "date": "2026-02-28",
+        "totalShares": 1.3742,
+        "totalAssets": 2.923,
+        "currentShares": 1943031,
+        "change": 43600,
+        "change_p": 2.2954
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2804,
+        "totalAssets": 0.0976,
+        "currentShares": 1810413,
+        "change": -984,
+        "change_p": -0.0543
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2695,
+        "totalAssets": 0.0836,
+        "currentShares": 1795116,
+        "change": 1795116,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Fidelity Series Growth Company",
+        "date": "2026-02-28",
+        "totalShares": 1.2465,
+        "totalAssets": 2.9063,
+        "currentShares": 1762539,
+        "change": 35837,
+        "change_p": 2.0755
+      },
+      "9": {
+        "name": "Capital Group New Economy Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1866,
+        "totalAssets": 0.8967,
+        "currentShares": 1677820,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.155,
+        "totalAssets": 0.3816,
+        "currentShares": 1633117,
+        "change": -1570458,
+        "change_p": -49.022
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.153,
+        "totalAssets": 0.0973,
+        "currentShares": 1630272,
+        "change": -4018,
+        "change_p": -0.2459
+      },
+      "12": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.0806,
+        "totalAssets": 0.2985,
+        "currentShares": 1527986,
+        "change": 1527986,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds New Economy A",
+        "date": "2026-03-31",
+        "totalShares": 0.8876,
+        "totalAssets": 1.1828,
+        "currentShares": 1255050,
+        "change": -422770,
+        "change_p": -25.1976
+      },
+      "14": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8475,
+        "totalAssets": 0.3823,
+        "currentShares": 1198282,
+        "change": -1362,
+        "change_p": -0.1135
+      },
+      "15": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.7752,
+        "totalAssets": 0.4863,
+        "currentShares": 1096094,
+        "change": 1096094,
+        "change_p": 0
+      },
+      "16": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7474,
+        "totalAssets": 0.4866,
+        "currentShares": 1056785,
+        "change": 2809,
+        "change_p": 0.2665
+      },
+      "17": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-06-30",
+        "totalShares": 0.7413,
+        "totalAssets": 0.0323,
+        "currentShares": 1048195,
+        "change": 1048195,
+        "change_p": 0
+      },
+      "18": {
+        "name": "JPM US Technology A (dist) USD",
+        "date": "2026-02-28",
+        "totalShares": 0.7228,
+        "totalAssets": 4.1863,
+        "currentShares": 1022041,
+        "change": -133025,
+        "change_p": -11.5167
+      },
+      "19": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.7193,
+        "totalAssets": 0.2855,
+        "currentShares": 1017142,
+        "change": 1017142,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 333.8462,
+    "ForwardPE": 113.6364,
+    "PriceSalesTTM": 14.3708,
+    "PriceBookMRQ": 26.1214,
+    "EnterpriseValue": 73929237781,
+    "EnterpriseValueRevenue": 14.2906,
+    "EnterpriseValueEbitda": 143.8351
+  },
+  "Highlights": {
+    "MarketCapitalization": 73640304640,
+    "MarketCapitalizationMln": 73640.3046,
+    "EBITDA": 570512000,
+    "PERatio": 333.8462,
+    "PEGRatio": 2.1519,
+    "WallStreetTargetPrice": 378.1111,
+    "BookValue": 19.741,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.56,
+    "EPSEstimateCurrentYear": 6.1483,
+    "EPSEstimateNextYear": 8.4509,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.1683,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0447,
+    "OperatingMarginTTM": 0.134,
+    "ReturnOnAssetsTTM": 0.0458,
+    "ReturnOnEquityTTM": 0.082,
+    "RevenueTTM": 5124289024,
+    "RevenuePerShareTTM": 36.107,
+    "QuarterlyRevenueGrowthYOY": 0.331,
+    "GrossProfitTTM": 2158616064,
+    "DilutedEpsTTM": 1.56,
+    "QuarterlyEarningsGrowthYOY": 2.323
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "CIEN",
+    "Type": "Common Stock",
+    "Name": "Ciena Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BP1152",
+    "ISIN": "US1717793095",
+    "LEI": "W0CZ7N0GH8UIGXDM1H41",
+    "PrimaryTicker": "CIEN.US",
+    "CUSIP": "171779101",
+    "CIK": "0000936395",
+    "EmployerIdNumber": "23-2725311",
+    "FiscalYearEnd": "October",
+    "IPODate": "1997-02-07",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": null,
+    "GicSubIndustry": null,
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ciena Corporation, a network technology company, provides hardware, software, and services for various network operators in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and India. It operates through Networking Platforms, Platform Software and Services, Blue Planet Automation Software and Services, and Global Services segments. The Networking Platforms segment consists optical networking, routing, and switching products and services. This segment products include the 6500 Packet-Optical Platform, Waveserver modular interconnect system, the 6500 Reconfigurable Line System, and coherent pluggable transceivers; and the 3000 family of service delivery platforms and the 5000 family of service aggregation, as well as the 8100 Coherent Routing platforms and virtualization software. The Platform Software and Services segment offers navigator network control suite; and software subscription services, consulting, network migration and integration, installation and upgrade support services, and technical support solutions. The Blue Planet Automation Software and Services segment inventory management, orchestration, route optimization and analysis, and unified assurance and analytics software; and sells subscription, installation, support, consulting, and design services related to the Blue Planet automation platform. The Global Services segment provides services for advisory and enablement, implementation, and maintenance, support, and learning activities. Ciena Corporation was incorporated in 1992 and is headquartered in Hanover, Maryland.",
+    "Address": "7035 Ridge Road, Hanover, MD, United States, 21076",
+    "AddressData": {
+      "Street": "7035 Ridge Road",
+      "City": "Hanover",
+      "State": "MD",
+      "Country": "United States",
+      "ZIP": "21076"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Gary B. Smith",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Marc D. Graff",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Jason M. Phipps",
+        "Title": "Senior Vice President of Global Customer Engagement",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Dino  DiPerna",
+        "Title": "Senior Vice President of Global Research & Development",
+        "YearBorn": "1962"
+      },
+      "4": {
+        "Name": "Mr. David M. Rothenstein J.D.",
+        "Title": "Senior VP, Chief Strategy Officer & Corporate Secretary",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Gregg M. Lampf",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Sheela  Kosaraju",
+        "Title": "Senior VP, Chief Legal Officer & Interim Chief People Officer",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Ms. Rebecca  Smith",
+        "Title": "Senior VP of Global Marketing & Communications",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Joseph R. Cumello",
+        "Title": "Senior VP & GM of Blue Planet",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Mr. Rodney  Wilson",
+        "Title": "Chief Technologist of Research Networks",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "410 694 5700",
+    "WebURL": "https://www.ciena.com",
+    "LogoURL": "/img/logos/US/cien.png",
+    "FullTimeEmployees": 8898,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 141398427,
+    "SharesFloat": 140598112,
+    "PercentInsiders": 0.579,
+    "PercentInstitutions": 99.238,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0523
+  }
+}

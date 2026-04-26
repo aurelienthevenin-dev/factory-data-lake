@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 17.3507,
+        "totalAssets": 0.0324,
+        "currentShares": 24409952,
+        "change": 4710255,
+        "change_p": 23.9103
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0671,
+        "totalAssets": 0.0202,
+        "currentShares": 16976679,
+        "change": 453038,
+        "change_p": 2.7418
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3451,
+        "totalAssets": 0.0161,
+        "currentShares": 6112945,
+        "change": -395107,
+        "change_p": -6.071
+      },
+      "3": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.0971,
+        "totalAssets": 0.1874,
+        "currentShares": 4357147,
+        "change": 1399499,
+        "change_p": 47.318
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6023,
+        "totalAssets": 0.0185,
+        "currentShares": 3661020,
+        "change": 122592,
+        "change_p": 3.4646
+      },
+      "5": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.5825,
+        "totalAssets": 0.0187,
+        "currentShares": 3633213,
+        "change": 651790,
+        "change_p": 21.8617
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.293,
+        "totalAssets": 0.0488,
+        "currentShares": 3225875,
+        "change": 162354,
+        "change_p": 5.2996
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7813,
+        "totalAssets": 0.03,
+        "currentShares": 2505971,
+        "change": -131690,
+        "change_p": -4.9927
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7368,
+        "totalAssets": 0.0112,
+        "currentShares": 2443500,
+        "change": -396409,
+        "change_p": -13.9585
+      },
+      "9": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6747,
+        "totalAssets": 0.0405,
+        "currentShares": 2356058,
+        "change": -26568,
+        "change_p": -1.1151
+      },
+      "10": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6321,
+        "totalAssets": 0.0096,
+        "currentShares": 2296168,
+        "change": 33839,
+        "change_p": 1.4958
+      },
+      "11": {
+        "name": "Fuller & Thaler Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3867,
+        "totalAssets": 0.2725,
+        "currentShares": 1950906,
+        "change": -3955,
+        "change_p": -0.2023
+      },
+      "12": {
+        "name": "Cooke & Bieler LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3525,
+        "totalAssets": 1.6271,
+        "currentShares": 1902718,
+        "change": -82321,
+        "change_p": -4.1471
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2807,
+        "totalAssets": 0.0158,
+        "currentShares": 1801806,
+        "change": 125974,
+        "change_p": 7.5171
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.1499,
+        "totalAssets": 0.0192,
+        "currentShares": 1617761,
+        "change": 532730,
+        "change_p": 49.0981
+      },
+      "15": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.1253,
+        "totalAssets": 0.0423,
+        "currentShares": 1583182,
+        "change": 496337,
+        "change_p": 45.6677
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0896,
+        "totalAssets": 0.0149,
+        "currentShares": 1532942,
+        "change": 61819,
+        "change_p": 4.2022
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.069,
+        "totalAssets": 0.0151,
+        "currentShares": 1503997,
+        "change": -306532,
+        "change_p": -16.9305
+      },
+      "18": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0581,
+        "totalAssets": 0.0034,
+        "currentShares": 1488540,
+        "change": 891497,
+        "change_p": 149.3187
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0068,
+        "totalAssets": 0.0193,
+        "currentShares": 1416400,
+        "change": 7019,
+        "change_p": 0.498
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1796,
+        "totalAssets": 0.021,
+        "currentShares": 4473199,
+        "change": 37470,
+        "change_p": 0.8447
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4127,
+        "totalAssets": 0.0223,
+        "currentShares": 3394300,
+        "change": -33956,
+        "change_p": -0.9905
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3084,
+        "totalAssets": 0.183,
+        "currentShares": 3247598,
+        "change": 60740,
+        "change_p": 1.906
+      },
+      "3": {
+        "name": "BlackRock Large Cap Core (SMA)",
+        "date": "2026-03-31",
+        "totalShares": 2.2266,
+        "totalAssets": 3.4772,
+        "currentShares": 3132464,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 1.7666,
+        "totalAssets": 1.2539,
+        "currentShares": 2485353,
+        "change": -24385,
+        "change_p": -0.9716
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4692,
+        "totalAssets": 0.3185,
+        "currentShares": 2067007,
+        "change": 20210,
+        "change_p": 0.9874
+      },
+      "6": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.309,
+        "totalAssets": 0.2021,
+        "currentShares": 1841552,
+        "change": 5371,
+        "change_p": 0.2925
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2184,
+        "totalAssets": 0.0223,
+        "currentShares": 1714050,
+        "change": -936,
+        "change_p": -0.0546
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.206,
+        "totalAssets": 0.0226,
+        "currentShares": 1696677,
+        "change": 2805,
+        "change_p": 0.1656
+      },
+      "9": {
+        "name": "iShares Large Cap Core Active ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.102,
+        "totalAssets": 3.5845,
+        "currentShares": 1550299,
+        "change": 1884,
+        "change_p": 0.1217
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0951,
+        "totalAssets": 0.0222,
+        "currentShares": 1540633,
+        "change": -3822,
+        "change_p": -0.2475
+      },
+      "11": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.8817,
+        "totalAssets": 0.0559,
+        "currentShares": 1240444,
+        "change": 151685,
+        "change_p": 13.9319
+      },
+      "12": {
+        "name": "State Street SPDR Port S&P 500 HiDivETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6997,
+        "totalAssets": 1.3049,
+        "currentShares": 984433,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "FullerThaler Beh Small-Cap Equity SMA",
+        "date": "2025-12-31",
+        "totalShares": 0.6596,
+        "totalAssets": 0.6774,
+        "currentShares": 927900,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "FullerThaler Behavioral Small-Cap Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.6596,
+        "totalAssets": 0.6777,
+        "currentShares": 927900,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "FullerThaler Behavioral Sm-Cp Eq R6",
+        "date": "2025-12-31",
+        "totalShares": 0.6596,
+        "totalAssets": 0.6777,
+        "currentShares": 927900,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6202,
+        "totalAssets": 0.0642,
+        "currentShares": 872474,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5334,
+        "totalAssets": 0.0223,
+        "currentShares": 750375,
+        "change": -5966,
+        "change_p": -0.7888
+      },
+      "18": {
+        "name": "BGF US Flexible Equity A2",
+        "date": "2026-03-31",
+        "totalShares": 0.5224,
+        "totalAssets": 3.6875,
+        "currentShares": 734906,
+        "change": 51799,
+        "change_p": 7.5829
+      },
+      "19": {
+        "name": "Columbia Focused Mid Cap Value",
+        "date": "2025-12-31",
+        "totalShares": 0.514,
+        "totalAssets": 2.3125,
+        "currentShares": 723183,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 17.0068,
+    "PriceSalesTTM": 2.8622,
+    "PriceBookMRQ": 25.3819,
+    "EnterpriseValue": 16082050719,
+    "EnterpriseValueRevenue": 3.4208,
+    "EnterpriseValueEbitda": 69.1107
+  },
+  "Highlights": {
+    "MarketCapitalization": 13455867904,
+    "MarketCapitalizationMln": 13455.8679,
+    "EBITDA": 1200099968,
+    "PERatio": null,
+    "PEGRatio": 2.4808,
+    "WallStreetTargetPrice": 113.4667,
+    "BookValue": 3.836,
+    "DividendShare": 2.8,
+    "DividendYield": 0.029,
+    "EarningsShare": -2.3,
+    "EPSEstimateCurrentYear": 5.7511,
+    "EPSEstimateNextYear": 6.3244,
+    "EPSEstimateNextQuarter": 1.0598,
+    "EPSEstimateCurrentQuarter": 0.948,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0686,
+    "OperatingMarginTTM": 0.2067,
+    "ReturnOnAssetsTTM": 0.1119,
+    "ReturnOnEquityTTM": -0.3636,
+    "RevenueTTM": 4701300224,
+    "RevenuePerShareTTM": 33.533,
+    "QuarterlyRevenueGrowthYOY": 0.313,
+    "GrossProfitTTM": 3000399872,
+    "DilutedEpsTTM": -2.3,
+    "QuarterlyEarningsGrowthYOY": 0.031
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 12.46,
+    "TotalEsgPercentile": 4.62,
+    "EnvironmentScore": 2.02,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 9.21,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 6.74,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HAS",
+    "Type": "Common Stock",
+    "Name": "Hasbro Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKVJK4",
+    "ISIN": "US4180561072",
+    "LEI": "549300NUB6D2R1ITYR45",
+    "PrimaryTicker": "HAS.US",
+    "CUSIP": "418056107",
+    "CIK": "0000046080",
+    "EmployerIdNumber": "05-0155090",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-12-18",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Leisure",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Leisure Products",
+    "GicSubIndustry": "Leisure Products",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Hasbro, Inc. operates as a toy and game company in the United States, Europe, Canada, Mexico, Latin America, Australia, China, and Hong Kong. The company offers trading cards and collectibles, action figures, arts and crafts and creative play products, dolls, play sets, preschool toys, plush products, vehicles and toy-related specialty products, sports action products and accessories, and other consumer products; and licensed products, such as apparel, publishing products, home goods and electronics, and toy products. It also engages in the sourcing, marketing, and sale of toy and game products; and promotes its brands through the out-licensing of trademarks, characters, and other brand and intellectual property rights to third parties through the sale of branded consumer products, such as toys and apparel. In addition, the company is involved in the promotion of its brands through the development of trading cards, role-playing, and digital game experiences based on Hasbro and Wizards of the Coast games; and license certain brands to other third-party digital game developers who transform Hasbro brand-based characters and other intellectual properties, into digital gaming experiences. Further, it develops and produces of Hasbro-branded entertainment content, including film, television, children's programming, digital content, and live entertainment. The company sells its products to retailers, distributors, wholesalers, discount stores, specialty hobby stores, drug stores, mail order houses, catalog stores, department stores, and other traditional retailers, as well as ecommerce retailers under the MAGIC: THE GATHERING, MONOPOLY, HASBRO GAMES, PLAY-DOH, TRANSFORMERS, DUNGEONS & DRAGONS, NERF, and PEPPA PIG, as well as LUCASFILMS' STAR WARS, BEYBLADE, Final Fantasy, The Lord of the Rings, Fallout, SPIDER-MAN, and THE AVENGERS brands. Hasbro, Inc. was founded in 1923 and is headquartered in Pawtucket, Rhode Island.",
+    "Address": "1027 Newport Avenue, Pawtucket, RI, United States, 02861",
+    "AddressData": {
+      "Street": "1027 Newport Avenue",
+      "City": "Pawtucket",
+      "State": "RI",
+      "Country": "United States",
+      "ZIP": "02861"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christian P. Cocks",
+        "Title": "CEO & Director",
+        "YearBorn": "1974"
+      },
+      "1": {
+        "Name": "Ms. Gina  Goetter",
+        "Title": "CFO & COO",
+        "YearBorn": "NA"
+      },
+      "2": {
+        "Name": "Mr. Tarrant L. Sibley J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Timothy J. Kilpin",
+        "Title": "President of Toys, Licensing & Entertainment",
+        "YearBorn": "1961"
+      },
+      "4": {
+        "Name": "Mr. John  Hight",
+        "Title": "President of Wizards of the Coast & Digital Gaming",
+        "YearBorn": "1961"
+      },
+      "5": {
+        "Name": "Mr. Frederick Charles Wightman IV, C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Roberta  Thomson",
+        "Title": "Executive VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Jason  Bunge",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "1975"
+      },
+      "8": {
+        "Name": "Ms. Holly  Barbacovi",
+        "Title": "Executive VP & Chief People Officer",
+        "YearBorn": "1977"
+      },
+      "9": {
+        "Name": "Ms. Stephanie  Beal",
+        "Title": "Chief Supply Chain Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "401 431 8697",
+    "WebURL": "https://corporate.hasbro.com",
+    "LogoURL": "/img/logos/US/HAS.png",
+    "FullTimeEmployees": 4520,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 141521544,
+    "SharesFloat": 140049858,
+    "PercentInsiders": 0.844,
+    "PercentInstitutions": 95.49,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0447
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.0566,
+        "totalAssets": 0.2164,
+        "currentShares": 404522308,
+        "change": 13692624,
+        "change_p": 3.5035
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9228,
+        "totalAssets": 0.2336,
+        "currentShares": 397805160,
+        "change": 7337549,
+        "change_p": 1.8792
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0395,
+        "totalAssets": 0.236,
+        "currentShares": 202822384,
+        "change": -795245,
+        "change_p": -0.3906
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0725,
+        "totalAssets": 0.5222,
+        "currentShares": 104060268,
+        "change": 17557147,
+        "change_p": 20.2965
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0301,
+        "totalAssets": 0.2311,
+        "currentShares": 101931512,
+        "change": 3124798,
+        "change_p": 3.1625
+      },
+      "5": {
+        "name": "SoftBank Group Corp",
+        "date": "2025-12-31",
+        "totalShares": 1.7319,
+        "totalAssets": 20.7441,
+        "currentShares": 86956522,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.5163,
+        "totalAssets": 2.1265,
+        "currentShares": 76132268,
+        "change": -3273242,
+        "change_p": -4.1222
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2053,
+        "totalAssets": 0.2389,
+        "currentShares": 60519214,
+        "change": -9988735,
+        "change_p": -14.1668
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0793,
+        "totalAssets": 0.1101,
+        "currentShares": 54193179,
+        "change": -9193365,
+        "change_p": -14.5037
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0548,
+        "totalAssets": 0.0532,
+        "currentShares": 52960760,
+        "change": 12828370,
+        "change_p": 31.9651
+      },
+      "10": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 0.9572,
+        "totalAssets": 1.4657,
+        "currentShares": 48059019,
+        "change": -7462722,
+        "change_p": -13.4411
+      },
+      "11": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9511,
+        "totalAssets": 0.3479,
+        "currentShares": 47755568,
+        "change": -16292036,
+        "change_p": -25.4374
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9492,
+        "totalAssets": 0.2519,
+        "currentShares": 47658924,
+        "change": 312485,
+        "change_p": 0.66
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8844,
+        "totalAssets": 0.1906,
+        "currentShares": 44405432,
+        "change": -600401,
+        "change_p": -1.3341
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8798,
+        "totalAssets": 0.1586,
+        "currentShares": 44174457,
+        "change": 13406275,
+        "change_p": 43.5719
+      },
+      "15": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.6998,
+        "totalAssets": 0.2556,
+        "currentShares": 35137956,
+        "change": -3676593,
+        "change_p": -9.4722
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6936,
+        "totalAssets": 0.1997,
+        "currentShares": 34823513,
+        "change": -409815,
+        "change_p": -1.1631
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6774,
+        "totalAssets": 0.2783,
+        "currentShares": 34012894,
+        "change": 423481,
+        "change_p": 1.2608
+      },
+      "18": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.6756,
+        "totalAssets": 0.3402,
+        "currentShares": 33923256,
+        "change": -5761279,
+        "change_p": -14.5177
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6123,
+        "totalAssets": 0.1616,
+        "currentShares": 30745779,
+        "change": -12185517,
+        "change_p": -28.3838
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5282,
+        "totalAssets": 0.2806,
+        "currentShares": 126938834,
+        "change": -1295869,
+        "change_p": -1.0105
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3822,
+        "totalAssets": 0.3709,
+        "currentShares": 119608524,
+        "change": 4282124,
+        "change_p": 3.713
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0879,
+        "totalAssets": 1.2467,
+        "currentShares": 104833251,
+        "change": -350708,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.202,
+        "totalAssets": 0.3699,
+        "currentShares": 60354541,
+        "change": -32856,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1365,
+        "totalAssets": 0.3474,
+        "currentShares": 57061979,
+        "change": 94063,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0844,
+        "totalAssets": 0.3696,
+        "currentShares": 54448287,
+        "change": -133819,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9374,
+        "totalAssets": 2.2836,
+        "currentShares": 47064718,
+        "change": -2322800,
+        "change_p": -4.7032
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.8383,
+        "totalAssets": 0.6063,
+        "currentShares": 42092137,
+        "change": 22047703,
+        "change_p": 109.9941
+      },
+      "8": {
+        "name": "VanEck Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8006,
+        "totalAssets": 4.2801,
+        "currentShares": 40196804,
+        "change": -773383,
+        "change_p": -1.8877
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7355,
+        "totalAssets": 0.7221,
+        "currentShares": 36931011,
+        "change": -837088,
+        "change_p": -2.2164
+      },
+      "10": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7016,
+        "totalAssets": 1.8439,
+        "currentShares": 35228444,
+        "change": 93609,
+        "change_p": 0.2664
+      },
+      "11": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6014,
+        "totalAssets": 1.0951,
+        "currentShares": 30198427,
+        "change": -34353,
+        "change_p": -0.1136
+      },
+      "12": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.5656,
+        "totalAssets": 0.4754,
+        "currentShares": 28398195,
+        "change": -4998733,
+        "change_p": -14.9676
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5269,
+        "totalAssets": 0.3699,
+        "currentShares": 26453406,
+        "change": 1054459,
+        "change_p": 4.1516
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4992,
+        "totalAssets": 0.3661,
+        "currentShares": 25064110,
+        "change": 1162300,
+        "change_p": 4.8628
+      },
+      "15": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4936,
+        "totalAssets": 0.6592,
+        "currentShares": 24783332,
+        "change": 12527304,
+        "change_p": 102.2134
+      },
+      "16": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4224,
+        "totalAssets": 0.3694,
+        "currentShares": 21206928,
+        "change": 1071455,
+        "change_p": 5.3212
+      },
+      "17": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3992,
+        "totalAssets": 0.2202,
+        "currentShares": 20044434,
+        "change": 7792171,
+        "change_p": 63.5978
+      },
+      "18": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.3887,
+        "totalAssets": 0.6227,
+        "currentShares": 19516376,
+        "change": 869204,
+        "change_p": 4.6613
+      },
+      "19": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3869,
+        "totalAssets": 1.2433,
+        "currentShares": 19425267,
+        "change": 83204,
+        "change_p": 0.4302
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 128.2051,
+    "PriceSalesTTM": 7.8491,
+    "PriceBookMRQ": 3.0101,
+    "EnterpriseValue": 347545063025,
+    "EnterpriseValueRevenue": 6.4644,
+    "EnterpriseValueEbitda": 21.6715
+  },
+  "Highlights": {
+    "MarketCapitalization": 414846025728,
+    "MarketCapitalizationMln": 414846.0257,
+    "EBITDA": 12632999936,
+    "PERatio": null,
+    "PEGRatio": 1.3588,
+    "WallStreetTargetPrice": 55.3305,
+    "BookValue": 22.884,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": -0.6,
+    "EPSEstimateCurrentYear": 0.5542,
+    "EPSEstimateNextYear": 1.1183,
+    "EPSEstimateNextQuarter": 0.0838,
+    "EPSEstimateCurrentQuarter": 0.0127,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": -0.0051,
+    "OperatingMarginTTM": 0.0514,
+    "ReturnOnAssetsTTM": 0.0028,
+    "ReturnOnEquityTTM": 0.0002,
+    "RevenueTTM": 52852998144,
+    "RevenuePerShareTTM": 11.667,
+    "QuarterlyRevenueGrowthYOY": -0.041,
+    "GrossProfitTTM": 19324999680,
+    "DilutedEpsTTM": -0.6,
+    "QuarterlyEarningsGrowthYOY": -0.717
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 12.89,
+    "TotalEsgPercentile": 8,
+    "EnvironmentScore": 2.18,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 4.06,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 5.65,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "INTC",
+    "Type": "Common Stock",
+    "Name": "Intel Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C0G1D1",
+    "ISIN": "US4581401001",
+    "LEI": "KNX4USFCNGPY45LOCE31",
+    "PrimaryTicker": "INTC.US",
+    "CUSIP": "458140100",
+    "CIK": "0000050863",
+    "EmployerIdNumber": "94-1672743",
+    "FiscalYearEnd": "December",
+    "IPODate": "1971-10-13",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services. It also provides driving assistance and self-driving solutions; and develops and manufactures multi-beam mask writing tools. The company sells its products through sales organizations, distributors, resellers, retailers, and OEM partners. It serves original equipment manufacturers, original design manufacturers, cloud service providers, and other manufacturers and service providers. Intel Corporation has a strategic collaboration with Infosys Limited to develop a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable and agent-ready ecosystem. The company was incorporated in 1968 and is headquartered in Santa Clara, California.",
+    "Address": "2200 Mission College Boulevard, Santa Clara, CA, United States, 95054-1549",
+    "AddressData": {
+      "Street": "2200 Mission College Boulevard",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95054-1549"
+    },
+    "Listings": {
+      "0": {
+        "Code": "INTC",
+        "Exchange": "BA",
+        "Name": "Intel Corp. CEDEAR"
+      },
+      "1": {
+        "Code": "ITLC34",
+        "Exchange": "SA",
+        "Name": "Intel Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Lip-Bu  Tan",
+        "Title": "CEO & Director",
+        "YearBorn": "1959"
+      },
+      "1": {
+        "Name": "Mr. David A. Zinsner",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Nagasubramaniyan  Chandrasekaran",
+        "Title": "EVP, Chief Operations Officer and GM of Intel Foundry",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Ms. April  Miller Boise J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Scott C. Gawel",
+        "Title": "Corporate VP & Chief Accounting Officer",
+        "YearBorn": "1971"
+      },
+      "5": {
+        "Name": "Mr. Pushkar  Ranade Ph.D.",
+        "Title": "Interim Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Cynthia A. Stoddard",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1957"
+      },
+      "7": {
+        "Name": "Mr. John William Pitzer",
+        "Title": "Corporate Vice President of Corporate Planning & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Annie Shea Weckesser",
+        "Title": "Senior VP and Chief Marketing & Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Gregory  Ernst",
+        "Title": "Corporate VP, Chief Revenue Officer & General Manager of Sales Group",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 765 8080",
+    "WebURL": "https://www.intel.com",
+    "LogoURL": "/img/logos/US/INTC.png",
+    "FullTimeEmployees": 85100,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 5026000000,
+    "SharesFloat": 4985909100,
+    "PercentInsiders": 12.966,
+    "PercentInstitutions": 62.149,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0238
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.1929,
+        "totalAssets": 0.0588,
+        "currentShares": 19133356,
+        "change": 25996,
+        "change_p": 0.1361
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.7421,
+        "totalAssets": 0.0713,
+        "currentShares": 17740499,
+        "change": 183340,
+        "change_p": 1.0442
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.0843,
+        "totalAssets": 0.0758,
+        "currentShares": 9529273,
+        "change": -1805,
+        "change_p": -0.0189
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.8372,
+        "totalAssets": 0.2527,
+        "currentShares": 8765623,
+        "change": 1899183,
+        "change_p": 27.6589
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.0538,
+        "totalAssets": 0.1558,
+        "currentShares": 6345220,
+        "change": 1328610,
+        "change_p": 26.4842
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.0056,
+        "totalAssets": 0.0426,
+        "currentShares": 6196546,
+        "change": 3507515,
+        "change_p": 130.4379
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.6411,
+        "totalAssets": 0.1883,
+        "currentShares": 5070130,
+        "change": 807525,
+        "change_p": 18.9444
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5448,
+        "totalAssets": 0.0624,
+        "currentShares": 4772641,
+        "change": -70791,
+        "change_p": -1.4616
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4334,
+        "totalAssets": 0.0479,
+        "currentShares": 4428712,
+        "change": -2016557,
+        "change_p": -31.2874
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2487,
+        "totalAssets": 0.0536,
+        "currentShares": 3857782,
+        "change": 11353,
+        "change_p": 0.2952
+      },
+      "10": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.2449,
+        "totalAssets": 0.7911,
+        "currentShares": 3846220,
+        "change": -184587,
+        "change_p": -4.5794
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9426,
+        "totalAssets": 0.066,
+        "currentShares": 2912119,
+        "change": 112911,
+        "change_p": 4.0337
+      },
+      "12": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7516,
+        "totalAssets": 0.0835,
+        "currentShares": 2322104,
+        "change": 304799,
+        "change_p": 15.1092
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7443,
+        "totalAssets": 0.0675,
+        "currentShares": 2299680,
+        "change": -16513,
+        "change_p": -0.7129
+      },
+      "14": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.7408,
+        "totalAssets": 0.4209,
+        "currentShares": 2288636,
+        "change": -46299,
+        "change_p": -1.9829
+      },
+      "15": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7075,
+        "totalAssets": 0.1251,
+        "currentShares": 2185930,
+        "change": -193752,
+        "change_p": -8.1419
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6968,
+        "totalAssets": 0.0709,
+        "currentShares": 2152891,
+        "change": 319173,
+        "change_p": 17.4058
+      },
+      "17": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6574,
+        "totalAssets": 0.0316,
+        "currentShares": 2031005,
+        "change": 114291,
+        "change_p": 5.9629
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6056,
+        "totalAssets": 0.0486,
+        "currentShares": 1871186,
+        "change": -52432,
+        "change_p": -2.7257
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.587,
+        "totalAssets": 0.0656,
+        "currentShares": 1813484,
+        "change": -511818,
+        "change_p": -22.0108
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.0633,
+        "totalAssets": 0.0699,
+        "currentShares": 6374763,
+        "change": 11000,
+        "change_p": 0.1729
+      },
+      "1": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.7565,
+        "totalAssets": 0.3423,
+        "currentShares": 5426816,
+        "change": 1387328,
+        "change_p": 34.3442
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.6584,
+        "totalAssets": 0.0789,
+        "currentShares": 5123797,
+        "change": -51584,
+        "change_p": -0.9967
+      },
+      "3": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.5529,
+        "totalAssets": 0.343,
+        "currentShares": 4797801,
+        "change": -629015,
+        "change_p": -11.5909
+      },
+      "4": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.2182,
+        "totalAssets": 0.6651,
+        "currentShares": 3763585,
+        "change": 762924,
+        "change_p": 25.4252
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.837,
+        "totalAssets": 0.0787,
+        "currentShares": 2586066,
+        "change": -1404,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.8288,
+        "totalAssets": 0.0783,
+        "currentShares": 2560742,
+        "change": 4227,
+        "change_p": 0.1653
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7577,
+        "totalAssets": 0.0789,
+        "currentShares": 2340960,
+        "change": -5733,
+        "change_p": -0.2443
+      },
+      "8": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 0.7355,
+        "totalAssets": 1.16,
+        "currentShares": 2272427,
+        "change": 28156,
+        "change_p": 1.2546
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6005,
+        "totalAssets": 0.18,
+        "currentShares": 1855216,
+        "change": -17953,
+        "change_p": -0.9584
+      },
+      "10": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 0.5869,
+        "totalAssets": 1.1682,
+        "currentShares": 1813269,
+        "change": -81900,
+        "change_p": -4.3215
+      },
+      "11": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.5553,
+        "totalAssets": 1.177,
+        "currentShares": 1715587,
+        "change": -7675,
+        "change_p": -0.4454
+      },
+      "12": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 0.5532,
+        "totalAssets": 1.1741,
+        "currentShares": 1709222,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.5302,
+        "totalAssets": 2.7962,
+        "currentShares": 1638050,
+        "change": 86300,
+        "change_p": 5.5615
+      },
+      "14": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 0.5302,
+        "totalAssets": 2.7916,
+        "currentShares": 1638050,
+        "change": 739000,
+        "change_p": 82.1979
+      },
+      "15": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 0.5302,
+        "totalAssets": 2.7916,
+        "currentShares": 1638050,
+        "change": 739000,
+        "change_p": 82.1979
+      },
+      "16": {
+        "name": "iShares MSCI USA Min Vol Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4481,
+        "totalAssets": 1.3458,
+        "currentShares": 1384516,
+        "change": -1710,
+        "change_p": -0.1234
+      },
+      "17": {
+        "name": "Pictet-Water I EUR",
+        "date": "2025-12-31",
+        "totalShares": 0.4439,
+        "totalAssets": 3.5203,
+        "currentShares": 1371467,
+        "change": 242272,
+        "change_p": 21.4553
+      },
+      "18": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.3925,
+        "totalAssets": 0.6442,
+        "currentShares": 1212655,
+        "change": 197180,
+        "change_p": 19.4175
+      },
+      "19": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3782,
+        "totalAssets": 0.1189,
+        "currentShares": 1168345,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 30.5816,
+    "ForwardPE": 29.5858,
+    "PriceSalesTTM": 3.9067,
+    "PriceBookMRQ": 5.5255,
+    "EnterpriseValue": 79858983335,
+    "EnterpriseValueRevenue": 4.8134,
+    "EnterpriseValueEbitda": 15.6709
+  },
+  "Highlights": {
+    "MarketCapitalization": 64815919104,
+    "MarketCapitalizationMln": 64815.9191,
+    "EBITDA": 5141000192,
+    "PERatio": 30.5816,
+    "PEGRatio": 3.0838,
+    "WallStreetTargetPrice": 245.375,
+    "BookValue": 38.857,
+    "DividendShare": 2.41,
+    "DividendYield": 0.0113,
+    "EarningsShare": 6.86,
+    "EPSEstimateCurrentYear": 7.2428,
+    "EPSEstimateNextYear": 8.0476,
+    "EPSEstimateNextQuarter": 1.6807,
+    "EPSEstimateCurrentQuarter": 1.6305,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1289,
+    "OperatingMarginTTM": 0.1949,
+    "ReturnOnAssetsTTM": 0.0622,
+    "ReturnOnEquityTTM": 0.183,
+    "RevenueTTM": 16590999552,
+    "RevenuePerShareTTM": 53.197,
+    "QuarterlyRevenueGrowthYOY": 0.022,
+    "GrossProfitTTM": 7135000064,
+    "DilutedEpsTTM": 6.86,
+    "QuarterlyEarningsGrowthYOY": 0.074
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 28.25,
+    "TotalEsgPercentile": 39.68,
+    "EnvironmentScore": 15.98,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 11.45,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 9.33,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "RSG",
+    "Type": "Common Stock",
+    "Name": "Republic Services Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BPXVJ6",
+    "ISIN": "US7607591002",
+    "LEI": "NKNQHM6BLECKVOQP7O46",
+    "PrimaryTicker": "RSG.US",
+    "CUSIP": "760759100",
+    "CIK": "0001060391",
+    "EmployerIdNumber": "65-0716904",
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-06-30",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Waste Management",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Commercial Services & Supplies",
+    "GicSubIndustry": "Environmental & Facilities Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Republic Services, Inc., together with its subsidiaries, offers environmental services in the United States and Canada. It is involved in the collection and processing of recyclable, solid waste, and industrial waste materials; transportation and disposal of non-hazardous and hazardous waste streams; and other environmental solutions. Its residential collection services include curbside collection of material for transport to transfer stations, landfills, recycling centers, and organics processing facilities; supply of recycling and waste containers; and renting of compactors. The company also engages in the processing and sale of old corrugated containers, old newsprint, aluminum, glass, and other materials; and provision of landfill services. It serves small-container, large-container, and residential customers. The company was incorporated in 1996 and is based in Phoenix, Arizona.",
+    "Address": "5353 East City North Drive, Phoenix, AZ, United States, 85054",
+    "AddressData": {
+      "Street": "5353 East City North Drive",
+      "City": "Phoenix",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85054"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jon  Vander Ark",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Brian M. DelGhiaccio",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Gregg K. Brummer",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Ms. Catharine D. Ellingsen J.D.",
+        "Title": "Executive VP, Chief Legal Officer, Chief Ethics & Compliance Officer and Corporate Secretary",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Brian A. Bales CPA",
+        "Title": "Executive VP & Chief Development Officer",
+        "YearBorn": "1963"
+      },
+      "5": {
+        "Name": "Ms. Elyse  Carlsen",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1987"
+      },
+      "6": {
+        "Name": "Aaron  Evans",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Jeni  Bell",
+        "Title": "Executive VP & Chief Marketing Officer",
+        "YearBorn": "1977"
+      },
+      "8": {
+        "Name": "Ms. Courtney  Rodriguez",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Ms. Nicole  Giandinoto CFA, CTP",
+        "Title": "Senior Vice President of Business Transformation",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "480 627 2700",
+    "WebURL": "https://www.republicservices.com",
+    "LogoURL": "/img/logos/US/RSG.png",
+    "FullTimeEmployees": 42000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 308956192,
+    "SharesFloat": 308066926,
+    "PercentInsiders": 0.129,
+    "PercentInstitutions": 97.001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0151
+  }
+}

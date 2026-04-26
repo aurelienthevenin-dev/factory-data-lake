@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5524,
+        "totalAssets": 0.0402,
+        "currentShares": 13354442,
+        "change": -428475,
+        "change_p": -3.1087
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.585,
+        "totalAssets": 0.0309,
+        "currentShares": 9924139,
+        "change": -89987,
+        "change_p": -0.8986
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 4.3117,
+        "totalAssets": 0.0528,
+        "currentShares": 4984289,
+        "change": 918230,
+        "change_p": 22.5828
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0248,
+        "totalAssets": 0.0287,
+        "currentShares": 4652664,
+        "change": -53145,
+        "change_p": -1.1293
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6384,
+        "totalAssets": 0.039,
+        "currentShares": 3049911,
+        "change": 71464,
+        "change_p": 2.3994
+      },
+      "5": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 2.0505,
+        "totalAssets": 0.4484,
+        "currentShares": 2370336,
+        "change": 1986698,
+        "change_p": 517.8575
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9036,
+        "totalAssets": 0.0617,
+        "currentShares": 2200552,
+        "change": 490127,
+        "change_p": 28.6553
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8494,
+        "totalAssets": 0.023,
+        "currentShares": 2137876,
+        "change": 208369,
+        "change_p": 10.7991
+      },
+      "8": {
+        "name": "Flossbach von Storch AG",
+        "date": "2025-12-31",
+        "totalShares": 1.6372,
+        "totalAssets": 1.5589,
+        "currentShares": 1892537,
+        "change": -38294,
+        "change_p": -1.9833
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5094,
+        "totalAssets": 0.0388,
+        "currentShares": 1744852,
+        "change": 830029,
+        "change_p": 90.7311
+      },
+      "10": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.269,
+        "totalAssets": 0.3157,
+        "currentShares": 1466961,
+        "change": 1466961,
+        "change_p": 0
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1986,
+        "totalAssets": 0.0074,
+        "currentShares": 1385544,
+        "change": 765094,
+        "change_p": 123.3128
+      },
+      "12": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.1831,
+        "totalAssets": 0.0766,
+        "currentShares": 1367638,
+        "change": -2267751,
+        "change_p": -62.3799
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.102,
+        "totalAssets": 0.0555,
+        "currentShares": 1273949,
+        "change": -37715,
+        "change_p": -2.8754
+      },
+      "14": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.9617,
+        "totalAssets": 0.031,
+        "currentShares": 1111748,
+        "change": 375405,
+        "change_p": 50.9824
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8952,
+        "totalAssets": 0.0236,
+        "currentShares": 1034873,
+        "change": 8154,
+        "change_p": 0.7942
+      },
+      "16": {
+        "name": "Point72 Asset Management, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.8727,
+        "totalAssets": 0.2344,
+        "currentShares": 1008817,
+        "change": 1008817,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8689,
+        "totalAssets": 0.0446,
+        "currentShares": 1004418,
+        "change": -51156,
+        "change_p": -4.8463
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8494,
+        "totalAssets": 0.0453,
+        "currentShares": 981838,
+        "change": 13296,
+        "change_p": 1.3728
+      },
+      "19": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8471,
+        "totalAssets": 0.025,
+        "currentShares": 979267,
+        "change": 452073,
+        "change_p": 85.7508
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.9292,
+        "totalAssets": 0.026,
+        "currentShares": 3386167,
+        "change": -22796,
+        "change_p": -0.6687
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3507,
+        "totalAssets": 0.0292,
+        "currentShares": 2717375,
+        "change": -58234,
+        "change_p": -2.0981
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9917,
+        "totalAssets": 0.1774,
+        "currentShares": 2302432,
+        "change": -40364,
+        "change_p": -1.7229
+      },
+      "3": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.2491,
+        "totalAssets": 0.0696,
+        "currentShares": 1443931,
+        "change": -56533,
+        "change_p": -3.7677
+      },
+      "4": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2068,
+        "totalAssets": 0.4595,
+        "currentShares": 1395062,
+        "change": -864,
+        "change_p": -0.0619
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.188,
+        "totalAssets": 0.034,
+        "currentShares": 1373311,
+        "change": 2267,
+        "change_p": 0.1653
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1867,
+        "totalAssets": 0.0292,
+        "currentShares": 1371860,
+        "change": -744,
+        "change_p": -0.0542
+      },
+      "7": {
+        "name": "FvS SICAV Multiple Opportunities F",
+        "date": "2025-12-31",
+        "totalShares": 1.1171,
+        "totalAssets": 0.9892,
+        "currentShares": 1291400,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0858,
+        "totalAssets": 0.0296,
+        "currentShares": 1255149,
+        "change": -3038,
+        "change_p": -0.2415
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9226,
+        "totalAssets": 0.1915,
+        "currentShares": 1066568,
+        "change": 3144,
+        "change_p": 0.2956
+      },
+      "10": {
+        "name": "Fidelity Blue Chip Growth",
+        "date": "2026-02-28",
+        "totalShares": 0.8728,
+        "totalAssets": 0.2145,
+        "currentShares": 1008961,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7013,
+        "totalAssets": 0.4248,
+        "currentShares": 810664,
+        "change": -84355,
+        "change_p": -9.4249
+      },
+      "12": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.6701,
+        "totalAssets": 0.1319,
+        "currentShares": 774672,
+        "change": -5500,
+        "change_p": -0.705
+      },
+      "13": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 0.5628,
+        "totalAssets": 0.1461,
+        "currentShares": 650641,
+        "change": 35000,
+        "change_p": 5.6851
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5202,
+        "totalAssets": 0.0292,
+        "currentShares": 601396,
+        "change": -10478,
+        "change_p": -1.7124
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4929,
+        "totalAssets": 0.0289,
+        "currentShares": 569787,
+        "change": -5500,
+        "change_p": -0.956
+      },
+      "16": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4875,
+        "totalAssets": 0.4064,
+        "currentShares": 563537,
+        "change": -7540,
+        "change_p": -1.3203
+      },
+      "17": {
+        "name": "FvS Multiple Opportunities II I",
+        "date": "2025-12-31",
+        "totalShares": 0.4727,
+        "totalAssets": 1.0009,
+        "currentShares": 546400,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4727,
+        "totalAssets": 0.2738,
+        "currentShares": 546397,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4171,
+        "totalAssets": 0.0291,
+        "currentShares": 482127,
+        "change": -2435,
+        "change_p": -0.5025
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 10.8446,
+    "ForwardPE": 11.3122,
+    "PriceSalesTTM": 1.5194,
+    "PriceBookMRQ": 3.3003,
+    "EnterpriseValue": 16367661318,
+    "EnterpriseValueRevenue": 1.4742,
+    "EnterpriseValueEbitda": 6.0468
+  },
+  "Highlights": {
+    "MarketCapitalization": 16869339136,
+    "MarketCapitalizationMln": 16869.3391,
+    "EBITDA": 2706842880,
+    "PERatio": 10.8446,
+    "PEGRatio": 0.675,
+    "WallStreetTargetPrice": 182.5871,
+    "BookValue": 42.592,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 13.26,
+    "EPSEstimateCurrentYear": 13.0319,
+    "EPSEstimateNextYear": 12.5556,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 4.7807,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.1422,
+    "OperatingMarginTTM": 0.2231,
+    "ReturnOnAssetsTTM": 0.1721,
+    "ReturnOnEquityTTM": 0.3401,
+    "RevenueTTM": 11102600192,
+    "RevenuePerShareTTM": 93.314,
+    "QuarterlyRevenueGrowthYOY": 0.008,
+    "GrossProfitTTM": 6284131840,
+    "DilutedEpsTTM": 13.26,
+    "QuarterlyEarningsGrowthYOY": -0.185
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.6,
+    "TotalEsgPercentile": 11.12,
+    "EnvironmentScore": 8.12,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.91,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 10.57,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "LULU",
+    "Type": "Common Stock",
+    "Name": "Lululemon Athletica Inc.",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000R8ZVD1",
+    "ISIN": "US5500211090",
+    "LEI": "549300D9GZ4BMLDW5T40",
+    "PrimaryTicker": "LULU.US",
+    "CUSIP": "550021109",
+    "CIK": "0001397187",
+    "EmployerIdNumber": "20-3842867",
+    "FiscalYearEnd": "January",
+    "IPODate": "2007-07-27",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Apparel Retail",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Textiles, Apparel & Luxury Goods",
+    "GicSubIndustry": "Apparel, Accessories & Luxury Goods",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "lululemon athletica inc., together with its subsidiaries, designs, distributes, and retails technical athletic apparel, footwear, and accessories for women and men under the lululemon brand in the United States, Canada, Mexico, China Mainland, Hong Kong, Taiwan, Macau, and internationally. It offers pants, shorts, tops, and jackets for athletic activities, such as yoga, running, training, and other activities. The company also provides fitness-inspired accessories. It sells its products through company-operated stores; seasonal stores, pop-ups, university campus retailers, and yoga and fitness studios; outlets; Like New, a re-commerce program; and its e-commerce website. The company was founded in 1998 and is based in Vancouver, Canada.",
+    "Address": "1818 Cornwall Avenue, Vancouver, BC, Canada, V6J 1C7",
+    "AddressData": {
+      "Street": "1818 Cornwall Avenue",
+      "City": "Vancouver",
+      "State": "BC",
+      "Country": "Canada",
+      "ZIP": "V6J 1C7"
+    },
+    "Listings": {
+      "0": {
+        "Code": "33L",
+        "Exchange": "BE",
+        "Name": "LULULEMON ATHL"
+      },
+      "1": {
+        "Code": "33L",
+        "Exchange": "F",
+        "Name": "Lululemon Athletica Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Ms. Martha A. M. Morfitt",
+        "Title": "Executive Chair",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Ms. Meghan C. Frank",
+        "Title": "Interim Co-CEO & CFO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Andre  Maestrini",
+        "Title": "Interim Co-CEO, President & Chief Commercial Officer",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Ms. Nicole  Neuburger",
+        "Title": "Chief Brand & Product Activation Officer",
+        "YearBorn": "1982"
+      },
+      "4": {
+        "Name": "Mr. Ranju  Das",
+        "Title": "Chief AI & Technology Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Howard Brett Tubin",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Shannon  Higginson J.D.",
+        "Title": "Chief Legal & Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Susan  Gelinas",
+        "Title": "Chief People & Culture Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Jennifer  Battersby",
+        "Title": "Senior Vice President of Product Engine",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Ted  Dagnese",
+        "Title": "Chief Supply Chain Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "604 732 6124",
+    "WebURL": "https://corporate.lululemon.com",
+    "LogoURL": "/img/logos/US/lulu.png",
+    "FullTimeEmployees": 39000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 110482671,
+    "SharesFloat": 106590031,
+    "PercentInsiders": 4.7219999999999995,
+    "PercentInstitutions": 83.71,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0542
+  }
+}

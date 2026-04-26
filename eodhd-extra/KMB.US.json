@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.306,
+        "totalAssets": 0.0598,
+        "currentShares": 40846734,
+        "change": 315981,
+        "change_p": 0.7796
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4691,
+        "totalAssets": 0.0612,
+        "currentShares": 28111018,
+        "change": 1260903,
+        "change_p": 4.6961
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.2758,
+        "totalAssets": 0.0907,
+        "currentShares": 20830890,
+        "change": 997397,
+        "change_p": 5.0289
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.5903,
+        "totalAssets": 0.1868,
+        "currentShares": 11917154,
+        "change": 299382,
+        "change_p": 2.5769
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5072,
+        "totalAssets": 0.0516,
+        "currentShares": 8322198,
+        "change": 65619,
+        "change_p": 0.7947
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.427,
+        "totalAssets": 0.1072,
+        "currentShares": 8055760,
+        "change": -488672,
+        "change_p": -5.7192
+      },
+      "6": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.3618,
+        "totalAssets": 0.255,
+        "currentShares": 7839572,
+        "change": 2628206,
+        "change_p": 50.4322
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.2199,
+        "totalAssets": 0.1303,
+        "currentShares": 7368407,
+        "change": 7341215,
+        "change_p": 26997.7015
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8371,
+        "totalAssets": 0.0459,
+        "currentShares": 6097848,
+        "change": 210936,
+        "change_p": 3.5831
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.7397,
+        "totalAssets": 0.1131,
+        "currentShares": 5774557,
+        "change": -323243,
+        "change_p": -5.301
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.6467,
+        "totalAssets": 0.0204,
+        "currentShares": 5465872,
+        "change": 3129992,
+        "change_p": 133.9963
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5563,
+        "totalAssets": 0.0558,
+        "currentShares": 5165862,
+        "change": 852222,
+        "change_p": 19.7564
+      },
+      "12": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.2935,
+        "totalAssets": 0.2375,
+        "currentShares": 4293521,
+        "change": 4045945,
+        "change_p": 1634.2234
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.172,
+        "totalAssets": 0.0619,
+        "currentShares": 3890193,
+        "change": 9951,
+        "change_p": 0.2565
+      },
+      "14": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1027,
+        "totalAssets": 0.1856,
+        "currentShares": 3660079,
+        "change": 1125649,
+        "change_p": 44.4143
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0946,
+        "totalAssets": 0.0306,
+        "currentShares": 3633184,
+        "change": 880184,
+        "change_p": 31.9718
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0453,
+        "totalAssets": 0.0937,
+        "currentShares": 3469508,
+        "change": -356574,
+        "change_p": -9.3196
+      },
+      "17": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.0043,
+        "totalAssets": 0.0679,
+        "currentShares": 3333658,
+        "change": -2583218,
+        "change_p": -43.6585
+      },
+      "18": {
+        "name": "Beutel, Goodman & Company Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 0.9772,
+        "totalAssets": 2.0104,
+        "currentShares": 3243674,
+        "change": 425850,
+        "change_p": 15.1127
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.836,
+        "totalAssets": 0.0619,
+        "currentShares": 2774823,
+        "change": -124100,
+        "change_p": -4.2809
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1748,
+        "totalAssets": 0.0509,
+        "currentShares": 10538097,
+        "change": 49217,
+        "change_p": 0.4692
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5464,
+        "totalAssets": 0.0573,
+        "currentShares": 8452244,
+        "change": -83594,
+        "change_p": -0.9793
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2409,
+        "totalAssets": 0.8506,
+        "currentShares": 7438135,
+        "change": 12328,
+        "change_p": 0.166
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.3481,
+        "currentShares": 7170195,
+        "change": -42847,
+        "change_p": -0.594
+      },
+      "4": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.2954,
+        "totalAssets": 0.7902,
+        "currentShares": 4299661,
+        "change": 1480268,
+        "change_p": 52.5031
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2856,
+        "totalAssets": 0.0572,
+        "currentShares": 4267163,
+        "change": -2328,
+        "change_p": -0.0545
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2724,
+        "totalAssets": 0.0628,
+        "currentShares": 4223322,
+        "change": 6977,
+        "change_p": 0.1655
+      },
+      "7": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.2438,
+        "totalAssets": 0.8224,
+        "currentShares": 4128645,
+        "change": -107198,
+        "change_p": -2.5307
+      },
+      "8": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.196,
+        "totalAssets": 0.6407,
+        "currentShares": 3969809,
+        "change": 3969809,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1626,
+        "totalAssets": 0.0573,
+        "currentShares": 3858979,
+        "change": -9457,
+        "change_p": -0.2445
+      },
+      "10": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0543,
+        "totalAssets": 1.5147,
+        "currentShares": 3499562,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0463,
+        "totalAssets": 2.1619,
+        "currentShares": 3472794,
+        "change": -1595,
+        "change_p": -0.0459
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9969,
+        "totalAssets": 1.5436,
+        "currentShares": 3308866,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.1311,
+        "currentShares": 3067701,
+        "change": -22506,
+        "change_p": -0.7283
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 0.5995,
+        "currentShares": 2159122,
+        "change": 87837,
+        "change_p": 4.2407
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.0572,
+        "currentShares": 1869836,
+        "change": -9028,
+        "change_p": -0.4805
+      },
+      "16": {
+        "name": "Vanguard Wellesley® Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.542,
+        "totalAssets": 0.3768,
+        "currentShares": 1798962,
+        "change": 1798962,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Diamond Hill Large Cap Equity",
+        "date": "2026-03-31",
+        "totalShares": 0.5385,
+        "totalAssets": 1.8704,
+        "currentShares": 1787358,
+        "change": -8842,
+        "change_p": -0.4923
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0566,
+        "currentShares": 1771886,
+        "change": 2800,
+        "change_p": 0.1583
+      },
+      "19": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5229,
+        "totalAssets": 0.1963,
+        "currentShares": 1735548,
+        "change": 5109,
+        "change_p": 0.2952
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.1337,
+    "ForwardPE": 13.0548,
+    "PriceSalesTTM": 1.9748,
+    "PriceBookMRQ": 21.6415,
+    "EnterpriseValue": 39027490264,
+    "EnterpriseValueRevenue": 2.3729,
+    "EnterpriseValueEbitda": 12.5369
+  },
+  "Highlights": {
+    "MarketCapitalization": 32478935040,
+    "MarketCapitalizationMln": 32478.935,
+    "EBITDA": 3199000064,
+    "PERatio": 20.1337,
+    "PEGRatio": 1.9784,
+    "WallStreetTargetPrice": 114.8571,
+    "BookValue": 4.525,
+    "DividendShare": 5.04,
+    "DividendYield": 0.0515,
+    "EarningsShare": 4.86,
+    "EPSEstimateCurrentYear": 7.5134,
+    "EPSEstimateNextYear": 7.5892,
+    "EPSEstimateNextQuarter": 2.049,
+    "EPSEstimateCurrentQuarter": 1.8118,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1229,
+    "OperatingMarginTTM": 0.1316,
+    "ReturnOnAssetsTTM": 0.0961,
+    "ReturnOnEquityTTM": 1.266,
+    "RevenueTTM": 16446999552,
+    "RevenuePerShareTTM": 49.554,
+    "QuarterlyRevenueGrowthYOY": -0.006,
+    "GrossProfitTTM": 6136000000,
+    "DilutedEpsTTM": 4.86,
+    "QuarterlyEarningsGrowthYOY": 0.11
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.73,
+    "TotalEsgPercentile": 27.32,
+    "EnvironmentScore": 6.16,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 7.61,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 4.47,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "KMB",
+    "Type": "Common Stock",
+    "Name": "Kimberly-Clark Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BMW2Z0",
+    "ISIN": "US4943681035",
+    "LEI": "MP3J6QPYPGN75NVW2S34",
+    "PrimaryTicker": "KMB.US",
+    "CUSIP": "494368129",
+    "CIK": "0000055785",
+    "EmployerIdNumber": "39-0394230",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-12-17",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Household & Personal Products",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Household & Personal Products",
+    "GicIndustry": "Household Products",
+    "GicSubIndustry": "Household Products",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Kimberly-Clark Corporation, together with its subsidiaries, manufactures and markets personal care products in the United States. It operates in two segments, North America and International Personal Care. The North America segment offers disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, facial and bathroom tissue, paper towels, napkins, wipers, tissue, towels, soaps and sanitizers, and other related products under the Huggies, Pull-Ups, Goodnites, Kotex, Poise, Depend, Kleenex, Scott, Cottonelle, Viva, Wypall , and other brand names. Its International Personal Care segment provides baby and child care, adult care and feminine care, including disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, and other related products under the Huggies, Kotex, Goodfeel, Intimus, Depend, and other brand names. The company sells its household use products directly to supermarkets, mass merchandisers, drugstores, warehouse clubs, variety and department stores, and other retail outlets, as well as through other distributors and e-commerce. It also sells its professional use products through distributors, directly to manufacturing, lodging, office building, food service, and high-volume public facilities, and through e-commerce. Kimberly-Clark Corporation was founded in 1872 and is headquartered in Dallas, Texas.",
+    "Address": "PO Box 619100, Dallas, TX, United States, 75261-9100",
+    "AddressData": {
+      "Street": "PO Box 619100",
+      "City": "Dallas",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75261-9100"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Michael D. Hsu",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Russell C. Torres",
+        "Title": "President & COO",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Mr. Nelson  Urdaneta",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Jeffrey P. Melucci J.D.",
+        "Title": "Chief Strategy, Business Development & Administrative Officer",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Francesco  Tinto",
+        "Title": "Chief Information & Global Business Services Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Christopher M. Jakubik C.F.A.",
+        "Title": "Investor Relations Contact",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Grant B. McGee J.D.",
+        "Title": "General Counsel",
+        "YearBorn": "1981"
+      },
+      "7": {
+        "Name": "Ms. Preeti  Binoy",
+        "Title": "Head Corporate Communications & Government Affairs - India",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Stacey J. Valy Panayiotou",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1973"
+      },
+      "9": {
+        "Name": "Mr. Ehab  Abou-Oaf",
+        "Title": "President of International Family Care & Professional",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "972 281 1200",
+    "WebURL": "https://www.kimberly-clark.com",
+    "LogoURL": "/img/logos/US/KMB.png",
+    "FullTimeEmployees": 36000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 331925766,
+    "SharesFloat": 330817070,
+    "PercentInsiders": 0.675,
+    "PercentInstitutions": 89.588,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.133
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.5824,
+        "totalAssets": 0.0996,
+        "currentShares": 14716173,
+        "change": -178502,
+        "change_p": -1.1984
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.5765,
+        "totalAssets": 0.093,
+        "currentShares": 12467326,
+        "change": -483554,
+        "change_p": -3.7338
+      },
+      "2": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.6805,
+        "totalAssets": 5.6269,
+        "currentShares": 10464168,
+        "change": -211495,
+        "change_p": -1.9811
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.3505,
+        "totalAssets": 0.1107,
+        "currentShares": 7490604,
+        "change": -466059,
+        "change_p": -5.8575
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.6722,
+        "totalAssets": 0.0763,
+        "currentShares": 5974138,
+        "change": 2694804,
+        "change_p": 82.1753
+      },
+      "5": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.2362,
+        "totalAssets": 0.3174,
+        "currentShares": 4999422,
+        "change": 40086,
+        "change_p": 0.8083
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7146,
+        "totalAssets": 0.0913,
+        "currentShares": 3833373,
+        "change": 1928240,
+        "change_p": 101.2129
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6387,
+        "totalAssets": 0.1051,
+        "currentShares": 3663705,
+        "change": 13565,
+        "change_p": 0.3716
+      },
+      "8": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6309,
+        "totalAssets": 2.9958,
+        "currentShares": 3646152,
+        "change": -273320,
+        "change_p": -6.9734
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.5315,
+        "totalAssets": 0.2801,
+        "currentShares": 3423986,
+        "change": -456210,
+        "change_p": -11.7574
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2096,
+        "totalAssets": 0.1351,
+        "currentShares": 2704265,
+        "change": -303848,
+        "change_p": -10.101
+      },
+      "11": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.0337,
+        "totalAssets": 0.6319,
+        "currentShares": 2311112,
+        "change": 245887,
+        "change_p": 11.9061
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9527,
+        "totalAssets": 0.055,
+        "currentShares": 2129892,
+        "change": -100700,
+        "change_p": -4.5145
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9272,
+        "totalAssets": 0.0599,
+        "currentShares": 2072844,
+        "change": -222861,
+        "change_p": -9.7077
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8137,
+        "totalAssets": 0.0992,
+        "currentShares": 1819159,
+        "change": -78937,
+        "change_p": -4.1587
+      },
+      "15": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7928,
+        "totalAssets": 0.1015,
+        "currentShares": 1772343,
+        "change": -39869,
+        "change_p": -2.2
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7677,
+        "totalAssets": 0.1589,
+        "currentShares": 1716415,
+        "change": -250960,
+        "change_p": -12.7561
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7168,
+        "totalAssets": 0.107,
+        "currentShares": 1602599,
+        "change": 38317,
+        "change_p": 2.4495
+      },
+      "18": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.5559,
+        "totalAssets": 0.2418,
+        "currentShares": 1242882,
+        "change": -19708,
+        "change_p": -1.5609
+      },
+      "19": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.5506,
+        "totalAssets": 0.1137,
+        "currentShares": 1230892,
+        "change": -29893,
+        "change_p": -2.371
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.2241,
+        "totalAssets": 0.1179,
+        "currentShares": 4972366,
+        "change": -79126,
+        "change_p": -1.5664
+      },
+      "1": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.7911,
+        "totalAssets": 0.5564,
+        "currentShares": 4004292,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.7911,
+        "totalAssets": 0.6185,
+        "currentShares": 4004292,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.7825,
+        "totalAssets": 0.1325,
+        "currentShares": 3985174,
+        "change": -123765,
+        "change_p": -3.0121
+      },
+      "4": {
+        "name": "Loomis Sayles Global CIT Class C",
+        "date": "2025-12-31",
+        "totalShares": 1.6908,
+        "totalAssets": 0.9858,
+        "currentShares": 3780000,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9806,
+        "totalAssets": 1.6131,
+        "currentShares": 2192400,
+        "change": -254200,
+        "change_p": -10.3899
+      },
+      "6": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 0.9777,
+        "totalAssets": 1.4695,
+        "currentShares": 2185757,
+        "change": -295200,
+        "change_p": -11.8986
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.9093,
+        "totalAssets": 0.1437,
+        "currentShares": 2032838,
+        "change": 3351,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8999,
+        "totalAssets": 0.1322,
+        "currentShares": 2011792,
+        "change": -1092,
+        "change_p": -0.0543
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8108,
+        "totalAssets": 0.1319,
+        "currentShares": 1812627,
+        "change": -4459,
+        "change_p": -0.2454
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6471,
+        "totalAssets": 0.3033,
+        "currentShares": 1446684,
+        "change": -40407,
+        "change_p": -2.7172
+      },
+      "11": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6014,
+        "totalAssets": 0.5234,
+        "currentShares": 1344618,
+        "change": -56916,
+        "change_p": -4.061
+      },
+      "12": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5118,
+        "totalAssets": 1.3942,
+        "currentShares": 1144124,
+        "change": 3472,
+        "change_p": 0.3044
+      },
+      "13": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.3986,
+        "totalAssets": 1.0494,
+        "currentShares": 891133,
+        "change": 44731,
+        "change_p": 5.2848
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.3945,
+        "totalAssets": 0.1322,
+        "currentShares": 881879,
+        "change": -23195,
+        "change_p": -2.5628
+      },
+      "15": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 0.3868,
+        "totalAssets": 1.2888,
+        "currentShares": 864810,
+        "change": -39200,
+        "change_p": -4.3362
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.3738,
+        "totalAssets": 0.1309,
+        "currentShares": 835609,
+        "change": -15880,
+        "change_p": -1.865
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.3162,
+        "totalAssets": 0.1321,
+        "currentShares": 707005,
+        "change": -10318,
+        "change_p": -1.4384
+      },
+      "18": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3123,
+        "totalAssets": 1.8184,
+        "currentShares": 698104,
+        "change": -240,
+        "change_p": -0.0344
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.2814,
+        "totalAssets": 0.1267,
+        "currentShares": 629134,
+        "change": -27448,
+        "change_p": -4.1804
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 16.7231,
+    "ForwardPE": 15.5521,
+    "PriceSalesTTM": 1.2789,
+    "PriceBookMRQ": 291.3383,
+    "EnterpriseValue": 153635396952,
+    "EnterpriseValueRevenue": 2.0322,
+    "EnterpriseValueEbitda": 9.8465
+  },
+  "Highlights": {
+    "MarketCapitalization": 96684630016,
+    "MarketCapitalizationMln": 96684.63,
+    "EBITDA": 15488000000,
+    "PERatio": 16.7231,
+    "PEGRatio": 1.2968,
+    "WallStreetTargetPrice": 542.6667,
+    "BookValue": -26.834,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 25.86,
+    "EPSEstimateCurrentYear": 30.3201,
+    "EPSEstimateNextYear": 33.3292,
+    "EPSEstimateNextQuarter": 7.1048,
+    "EPSEstimateCurrentQuarter": 7.4763,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0897,
+    "OperatingMarginTTM": 0.1629,
+    "ReturnOnAssetsTTM": 0.1244,
+    "ReturnOnEquityTTM": 1.3632,
+    "RevenueTTM": 75600003072,
+    "RevenuePerShareTTM": 319.779,
+    "QuarterlyRevenueGrowthYOY": 0.067,
+    "GrossProfitTTM": 31374000128,
+    "DilutedEpsTTM": 25.86,
+    "QuarterlyEarningsGrowthYOY": 0.445
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.6,
+    "TotalEsgPercentile": 48.54,
+    "EnvironmentScore": 5.79,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 19.86,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 12.44,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HCA",
+    "Type": "Common Stock",
+    "Name": "HCA Holdings Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000QW7VC1",
+    "ISIN": "US40412C1018",
+    "LEI": "529900PH4ZGUH2MNEU89",
+    "PrimaryTicker": "HCA.US",
+    "CUSIP": "435758305",
+    "CIK": "0000860730",
+    "EmployerIdNumber": "27-3865930",
+    "FiscalYearEnd": "December",
+    "IPODate": "2011-03-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Care Facilities",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Health Care Facilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "HCA Healthcare, Inc., through its subsidiaries, provides health care services in the United States. The company owns, manages, and operates hospitals, ASCs, freestanding emergency care facilities, urgent care facilities, walk-in clinics, diagnostic and imaging centers, radiation and oncology therapy centers, as well as rehabilitation and physical therapy centers, physician practices, home health agencies, hospices, outpatient physical therapy providers, home and community-based services providers, and various other facilities. Its general and acute care hospitals offer medical and surgical services, including inpatient care, intensive care, cardiac care, diagnostic services, and emergency services; and outpatient services, such as outpatient surgery, laboratory, radiology, respiratory therapy, cardiology, and physical therapy. The company was formerly known as HCA Holdings, Inc. HCA Healthcare, Inc. was founded in 1968 and is headquartered in Nashville, Tennessee.",
+    "Address": "One Park Plaza, Nashville, TN, United States, 37203",
+    "AddressData": {
+      "Street": "One Park Plaza",
+      "City": "Nashville",
+      "State": "TN",
+      "Country": "United States",
+      "ZIP": "37203"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Samuel N. Hazen",
+        "Title": "CEO & Director",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Michael A. Marks",
+        "Title": "CFO & Executive VP",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Jon Mack Foster",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. Michael R. McAlevey",
+        "Title": "Executive VP and Chief Legal & Administrative Officer",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Dr. Michael S. Cuffe M.B.A., M.D.",
+        "Title": "Executive VP & Chief Clinical Officer",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Dr. Thomas F. Frist Jr., M.D.",
+        "Title": "Founder & Chairman Emeritus",
+        "YearBorn": "1939"
+      },
+      "6": {
+        "Name": "Mr. Christopher F. Wyatt",
+        "Title": "Senior VP, Principal Accounting Officer & Controller",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Mr. Chad J. Wasserman",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Frank George Morgan C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Wendy  Warren",
+        "Title": "Senior VP and Chief Ethics & Compliance Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "615 344 9551",
+    "WebURL": "https://www.hcahealthcare.com",
+    "LogoURL": "/img/logos/US/hca.png",
+    "FullTimeEmployees": 230000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 223568966,
+    "SharesFloat": 151190969,
+    "PercentInsiders": 16.158,
+    "PercentInstitutions": 78.852,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0245
+  }
+}

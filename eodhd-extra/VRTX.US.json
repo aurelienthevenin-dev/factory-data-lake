@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 10.0292,
+        "totalAssets": 1.5729,
+        "currentShares": 25510182,
+        "change": -400405,
+        "change_p": -1.5453
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4771,
+        "totalAssets": 0.1584,
+        "currentShares": 24105823,
+        "change": -111042,
+        "change_p": -0.4585
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.7487,
+        "totalAssets": 0.1526,
+        "currentShares": 22253047,
+        "change": 381102,
+        "change_p": 1.7424
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 6.8078,
+        "totalAssets": 1.4492,
+        "currentShares": 17316344,
+        "change": 763063,
+        "change_p": 4.6097
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.0596,
+        "totalAssets": 0.151,
+        "currentShares": 12869556,
+        "change": 7000195,
+        "change_p": 119.2667
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5628,
+        "totalAssets": 0.1576,
+        "currentShares": 11606000,
+        "change": -169227,
+        "change_p": -1.4371
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3517,
+        "totalAssets": 0.1666,
+        "currentShares": 5981905,
+        "change": 8160,
+        "change_p": 0.1366
+      },
+      "7": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.861,
+        "totalAssets": 0.3364,
+        "currentShares": 4733596,
+        "change": 44537,
+        "change_p": 0.9498
+      },
+      "8": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.778,
+        "totalAssets": 0.5578,
+        "currentShares": 4522586,
+        "change": 144266,
+        "change_p": 3.295
+      },
+      "9": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 1.5858,
+        "totalAssets": 2.2045,
+        "currentShares": 4033525,
+        "change": -88603,
+        "change_p": -2.1494
+      },
+      "10": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.5025,
+        "totalAssets": 0.3036,
+        "currentShares": 3821731,
+        "change": -950311,
+        "change_p": -19.9141
+      },
+      "11": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.3197,
+        "totalAssets": 0.8588,
+        "currentShares": 3356766,
+        "change": 1109200,
+        "change_p": 49.3512
+      },
+      "12": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2775,
+        "totalAssets": 0.8845,
+        "currentShares": 3249541,
+        "change": -205406,
+        "change_p": -5.9453
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2489,
+        "totalAssets": 0.1541,
+        "currentShares": 3176613,
+        "change": -403743,
+        "change_p": -11.2766
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2221,
+        "totalAssets": 0.0737,
+        "currentShares": 3108405,
+        "change": -223034,
+        "change_p": -6.6948
+      },
+      "15": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1967,
+        "totalAssets": 0.1275,
+        "currentShares": 3043805,
+        "change": -116065,
+        "change_p": -3.6731
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1351,
+        "totalAssets": 0.2455,
+        "currentShares": 2887117,
+        "change": -180356,
+        "change_p": -5.8796
+      },
+      "17": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1245,
+        "totalAssets": 1.0382,
+        "currentShares": 2860176,
+        "change": 214412,
+        "change_p": 8.104
+      },
+      "18": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1167,
+        "totalAssets": 0.0755,
+        "currentShares": 2840424,
+        "change": 32807,
+        "change_p": 1.1685
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0331,
+        "totalAssets": 0.1317,
+        "currentShares": 2627887,
+        "change": -30694,
+        "change_p": -1.1545
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 5.4776,
+        "totalAssets": 2.0306,
+        "currentShares": 13932891,
+        "change": 950206,
+        "change_p": 7.319
+      },
+      "1": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 5.1041,
+        "totalAssets": 1.7519,
+        "currentShares": 12982685,
+        "change": 487712,
+        "change_p": 3.9033
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1733,
+        "totalAssets": 0.1805,
+        "currentShares": 8071708,
+        "change": 48907,
+        "change_p": 0.6096
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.543,
+        "totalAssets": 0.203,
+        "currentShares": 6468353,
+        "change": -57288,
+        "change_p": -0.8779
+      },
+      "4": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.4647,
+        "totalAssets": 1.6874,
+        "currentShares": 6269142,
+        "change": 832140,
+        "change_p": 15.3051
+      },
+      "5": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.3317,
+        "totalAssets": 1.0047,
+        "currentShares": 5930918,
+        "change": 1310558,
+        "change_p": 28.3648
+      },
+      "6": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.1375,
+        "totalAssets": 1.4009,
+        "currentShares": 5437002,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0961,
+        "totalAssets": 0.6416,
+        "currentShares": 5331554,
+        "change": -17845,
+        "change_p": -0.3336
+      },
+      "8": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 1.8168,
+        "totalAssets": 2.3581,
+        "currentShares": 4621267,
+        "change": 918203,
+        "change_p": 24.7958
+      },
+      "9": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.4558,
+        "totalAssets": 1.7441,
+        "currentShares": 3703064,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3233,
+        "totalAssets": 0.9378,
+        "currentShares": 3366011,
+        "change": -957854,
+        "change_p": -22.1527
+      },
+      "11": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 1.3233,
+        "totalAssets": 0.9841,
+        "currentShares": 3366011,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2835,
+        "totalAssets": 0.2025,
+        "currentShares": 3264833,
+        "change": -1776,
+        "change_p": -0.0544
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2694,
+        "totalAssets": 0.2142,
+        "currentShares": 3228892,
+        "change": 5322,
+        "change_p": 0.1651
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1604,
+        "totalAssets": 0.2027,
+        "currentShares": 2951506,
+        "change": -7252,
+        "change_p": -0.2451
+      },
+      "15": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.096,
+        "totalAssets": 0.3917,
+        "currentShares": 2787689,
+        "change": -32671,
+        "change_p": -1.1584
+      },
+      "16": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.9674,
+        "totalAssets": 0.7836,
+        "currentShares": 2460673,
+        "change": 113906,
+        "change_p": 4.8537
+      },
+      "17": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9405,
+        "totalAssets": 0.5209,
+        "currentShares": 2392362,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.9193,
+        "totalAssets": 0.7549,
+        "currentShares": 2338257,
+        "change": -122416,
+        "change_p": -4.9749
+      },
+      "19": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8849,
+        "totalAssets": 0.5041,
+        "currentShares": 2250814,
+        "change": -141548,
+        "change_p": -5.9167
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.0868,
+    "ForwardPE": 22.8311,
+    "PriceSalesTTM": 9.1197,
+    "PriceBookMRQ": 5.9291,
+    "EnterpriseValue": 106094320698,
+    "EnterpriseValueRevenue": 8.8402,
+    "EnterpriseValueEbitda": 21.8018
+  },
+  "Highlights": {
+    "MarketCapitalization": 109448445952,
+    "MarketCapitalizationMln": 109448.446,
+    "EBITDA": 4865999872,
+    "PERatio": 28.0868,
+    "PEGRatio": 2.1244,
+    "WallStreetTargetPrice": 548.4483,
+    "BookValue": 73.49,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 15.32,
+    "EPSEstimateCurrentYear": 19.0438,
+    "EPSEstimateNextYear": 21.8081,
+    "EPSEstimateNextQuarter": 4.8083,
+    "EPSEstimateCurrentQuarter": 5.1484,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3294,
+    "OperatingMarginTTM": 0.396,
+    "ReturnOnAssetsTTM": 0.1216,
+    "ReturnOnEquityTTM": 0.2254,
+    "RevenueTTM": 12001300480,
+    "RevenuePerShareTTM": 46.935,
+    "QuarterlyRevenueGrowthYOY": 0.095,
+    "GrossProfitTTM": 6440500224,
+    "DilutedEpsTTM": 15.32,
+    "QuarterlyEarningsGrowthYOY": 0.329
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.84,
+    "TotalEsgPercentile": 44,
+    "EnvironmentScore": 5.65,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 24.22,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.46,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "VRTX",
+    "Type": "Common Stock",
+    "Name": "Vertex Pharmaceuticals Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C1S2X2",
+    "ISIN": "US92532F1003",
+    "LEI": "54930015RAQRRZ5ZGJ91",
+    "PrimaryTicker": "VRTX.US",
+    "CUSIP": "92532F100",
+    "CIK": "0000875320",
+    "EmployerIdNumber": "04-3039129",
+    "FiscalYearEnd": "December",
+    "IPODate": "1991-07-24",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Biotechnology",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Biotechnology",
+    "GicSubIndustry": "Biotechnology",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Vertex Pharmaceuticals Incorporated operates as a biotechnology company in the United States, Europe, and internationally. The company offers transformative medicines for people with serious diseases with a focus on specialty markets, such as cystic fibrosis (CF), sickle cell disease (SCD), transfusion dependent beta thalassemia (TDT), and acute pain. It markets TRIKAFTA/KAFTRIO for people with CF with at least one F508del mutation for 2 years of age and older; ALYFTREK for the treatment for people with CF 6 years of age and older; SYMDEKO/SYMKEVI for treatment of patients with CF 6 years of age and older; ORKAMBI for CF patients 1 year or older; and KALYDECO for the treatment of patients with 1 month or older who have CF with ivacaftor. The company also develops CASGEVY for the treatment of SCD and TDT; JOURNAVX for the treatment of acute pain in adults; VX-522, a CFTR mRNA therapeutic designed to treat the underlying cause of CF, which is in Phase 1/2 clinical trial; inaxaplin for the treatment of APOL1-mediated kidney disease, which is in single Phase 2 trial; VX-264 for treating Type 1 Diabetes; VX-670 for the treatment of myotonic dystrophy type 1; and VX-407, a small molecule corrector for the treatment of autosomal dominant polycystic kidney disease. The company sells its products primarily to specialty pharmacy and distributors, wholesalers, retail pharmacies, hospitals, and clinics. Vertex Pharmaceuticals Incorporated was founded in 1989 and is headquartered in Boston, Massachusetts.",
+    "Address": "50 Northern Avenue, Boston, MA, United States, 02210",
+    "AddressData": {
+      "Street": "50 Northern Avenue",
+      "City": "Boston",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02210"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Jeffrey Marc Leiden M.D., Ph.D.",
+        "Title": "Executive Chairman",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Dr. Reshma  Kewalramani FASN, M.D.",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Charles F. Wagner Jr.",
+        "Title": "Executive VP, COO & CFO",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Amit K. Sachdev J.D.",
+        "Title": "Executive VP & Chief Patient and External Affairs Officer",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Dr. Ourania  Tatsis Ph.D.",
+        "Title": "Executive VP and Chief Regulatory & Quality Officer",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Dr. Carmen  Bozic M.D.",
+        "Title": "Executive VP of Global Medicines Development & Medical Affairs and Chief Medical Officer",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Ms. Kristen C. Ambrose CPA",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Dr. Mark  Bunnage D.Phil",
+        "Title": "Executive VP & Chief Scientific Officer",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Ms. Susie  Lisa C.F.A.",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Joy  Liu J.D.",
+        "Title": "EVP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1978"
+      }
+    },
+    "Phone": "617 341 6100",
+    "WebURL": "https://www.vrtx.com",
+    "LogoURL": "/img/logos/US/VRTX.png",
+    "FullTimeEmployees": 6400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 254359735,
+    "SharesFloat": 253244144,
+    "PercentInsiders": 0.209,
+    "PercentInstitutions": 97.597,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0192
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0455,
+        "totalAssets": 0.0765,
+        "currentShares": 90376927,
+        "change": 5534462,
+        "change_p": 6.5232
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.2852,
+        "totalAssets": 0.0875,
+        "currentShares": 74539892,
+        "change": -1045329,
+        "change_p": -1.383
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8044,
+        "totalAssets": 0.1005,
+        "currentShares": 43223774,
+        "change": -388196,
+        "change_p": -0.8901
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.0157,
+        "totalAssets": 0.2924,
+        "currentShares": 27131594,
+        "change": -822209,
+        "change_p": -2.9413
+      },
+      "4": {
+        "name": "Comprehensive Financial Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9143,
+        "totalAssets": 46.147,
+        "currentShares": 26219118,
+        "change": -900000,
+        "change_p": -3.3187
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3867,
+        "totalAssets": 0.077,
+        "currentShares": 21472335,
+        "change": -293214,
+        "change_p": -1.3471
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.8083,
+        "totalAssets": 0.1016,
+        "currentShares": 16268558,
+        "change": 3868532,
+        "change_p": 31.1978
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6608,
+        "totalAssets": 0.0607,
+        "currentShares": 14941541,
+        "change": 793405,
+        "change_p": 5.6078
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3494,
+        "totalAssets": 0.0552,
+        "currentShares": 12139946,
+        "change": 1748577,
+        "change_p": 16.8272
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2373,
+        "totalAssets": 0.1176,
+        "currentShares": 11131949,
+        "change": 1093365,
+        "change_p": 10.8916
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0946,
+        "totalAssets": 0.0845,
+        "currentShares": 9848210,
+        "change": -394225,
+        "change_p": -3.8489
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0532,
+        "totalAssets": 0.019,
+        "currentShares": 9475046,
+        "change": 4866807,
+        "change_p": 105.611
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0163,
+        "totalAssets": 0.0655,
+        "currentShares": 9143228,
+        "change": 930840,
+        "change_p": 11.3346
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.9785,
+        "totalAssets": 0.1078,
+        "currentShares": 8803241,
+        "change": 625705,
+        "change_p": 7.6515
+      },
+      "14": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 0.9079,
+        "totalAssets": 0.361,
+        "currentShares": 8168490,
+        "change": 1487560,
+        "change_p": 22.2658
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8901,
+        "totalAssets": 0.0238,
+        "currentShares": 8007746,
+        "change": -1343466,
+        "change_p": -14.3668
+      },
+      "16": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8754,
+        "totalAssets": 0.1497,
+        "currentShares": 7875530,
+        "change": -1680321,
+        "change_p": -17.5842
+      },
+      "17": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 0.8359,
+        "totalAssets": 0.6573,
+        "currentShares": 7520682,
+        "change": -3266444,
+        "change_p": -30.2809
+      },
+      "18": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7834,
+        "totalAssets": 0.1026,
+        "currentShares": 7047709,
+        "change": -2210212,
+        "change_p": -23.8737
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7788,
+        "totalAssets": 0.0907,
+        "currentShares": 7006625,
+        "change": 54749,
+        "change_p": 0.7875
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0414,
+        "totalAssets": 0.062,
+        "currentShares": 27362654,
+        "change": 39126,
+        "change_p": 0.1432
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4378,
+        "totalAssets": 0.0697,
+        "currentShares": 21932385,
+        "change": -301859,
+        "change_p": -1.3576
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.1477,
+        "totalAssets": 0.2355,
+        "currentShares": 19322609,
+        "change": -64629,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.4799,
+        "totalAssets": 0.4418,
+        "currentShares": 13314209,
+        "change": 378329,
+        "change_p": 2.9246
+      },
+      "4": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.4226,
+        "totalAssets": 0.2913,
+        "currentShares": 12798674,
+        "change": 3307275,
+        "change_p": 34.845
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3235,
+        "totalAssets": 0.0735,
+        "currentShares": 11907343,
+        "change": 19636,
+        "change_p": 0.1652
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3154,
+        "totalAssets": 0.0743,
+        "currentShares": 11834613,
+        "change": -6444,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.2589,
+        "totalAssets": 0.1968,
+        "currentShares": 11326391,
+        "change": -1255300,
+        "change_p": -9.9772
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1834,
+        "totalAssets": 0.0741,
+        "currentShares": 10646775,
+        "change": -26215,
+        "change_p": -0.2456
+      },
+      "9": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6995,
+        "totalAssets": 0.5898,
+        "currentShares": 6293621,
+        "change": 10659,
+        "change_p": 0.1696
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.5796,
+        "totalAssets": 0.1045,
+        "currentShares": 5214781,
+        "change": -2921337,
+        "change_p": -35.9058
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5463,
+        "totalAssets": 0.0736,
+        "currentShares": 4914591,
+        "change": -73100,
+        "change_p": -1.4656
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5393,
+        "totalAssets": 0.0695,
+        "currentShares": 4852284,
+        "change": -35568,
+        "change_p": -0.7277
+      },
+      "13": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5069,
+        "totalAssets": 0.3501,
+        "currentShares": 4560000,
+        "change": 999900,
+        "change_p": 28.0863
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4363,
+        "totalAssets": 0.5111,
+        "currentShares": 3925592,
+        "change": 1200295,
+        "change_p": 44.0427
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.436,
+        "totalAssets": 0.07,
+        "currentShares": 3922462,
+        "change": -24325,
+        "change_p": -0.6163
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4235,
+        "totalAssets": 0.2021,
+        "currentShares": 3810222,
+        "change": 11266,
+        "change_p": 0.2966
+      },
+      "17": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4087,
+        "totalAssets": 0.0926,
+        "currentShares": 3676536,
+        "change": -153202,
+        "change_p": -4.0003
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4087,
+        "totalAssets": 0.0926,
+        "currentShares": 3676536,
+        "change": -153202,
+        "change_p": -4.0003
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4087,
+        "totalAssets": 0.0926,
+        "currentShares": 3676536,
+        "change": 3676536,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 9.3309,
+    "ForwardPE": 9.542,
+    "PriceSalesTTM": 1.3691,
+    "PriceBookMRQ": 2.2421,
+    "EnterpriseValue": 44980542056,
+    "EnterpriseValueRevenue": 1.356,
+    "EnterpriseValueEbitda": 5.8447
+  },
+  "Highlights": {
+    "MarketCapitalization": 45415542784,
+    "MarketCapitalizationMln": 45415.5428,
+    "EBITDA": 6648999936,
+    "PERatio": 9.3309,
+    "PEGRatio": 0.9132,
+    "WallStreetTargetPrice": 52.8497,
+    "BookValue": 22.017,
+    "DividendShare": 0.28,
+    "DividendYield": 0.0056,
+    "EarningsShare": 5.41,
+    "EPSEstimateCurrentYear": 5.3003,
+    "EPSEstimateNextYear": 5.7994,
+    "EPSEstimateNextQuarter": 1.3778,
+    "EPSEstimateCurrentQuarter": 1.2885,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1578,
+    "OperatingMarginTTM": 0.1749,
+    "ReturnOnAssetsTTM": 0.0488,
+    "ReturnOnEquityTTM": 0.2573,
+    "RevenueTTM": 33172000768,
+    "RevenuePerShareTTM": 34.59,
+    "QuarterlyRevenueGrowthYOY": 0.037,
+    "GrossProfitTTM": 13761000448,
+    "DilutedEpsTTM": 5.41,
+    "QuarterlyEarningsGrowthYOY": 0.394
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 16.47,
+    "TotalEsgPercentile": 14.76,
+    "EnvironmentScore": 2.41,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 10.65,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 7.23,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PYPL",
+    "Type": "Common Stock",
+    "Name": "PayPal Holdings Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0077VNXV6",
+    "ISIN": "US70450Y1038",
+    "LEI": "5493005X2GO78EFZ3E94",
+    "PrimaryTicker": "PYPL.US",
+    "CUSIP": "70450Y103",
+    "CIK": "0001633917",
+    "EmployerIdNumber": "47-2989869",
+    "FiscalYearEnd": "December",
+    "IPODate": "2002-02-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Credit Services",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Financial Services",
+    "GicSubIndustry": "Transaction & Payment Processing Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "PayPal Holdings, Inc. operates a technology platform that enables digital payments for merchants and consumers worldwide. The company operates a two-sided network at scale that connects merchants and consumers that enables its customers to connect, transact, and send and receive payments through online and in person, as well as transfer and withdraw funds using various funding sources, such as bank accounts, PayPal or Venmo account balance, consumer credit and debit products, credit and debit cards, and cryptocurrencies, as well as other stored value products, including gift cards and eligible rewards. It provides payment solutions under the PayPal, PayPal Credit, Braintree, Venmo, Xoom, Hyperwallet, Honey, and Paidy names. The company was founded in 1998 and is headquartered in San Jose, California.",
+    "Address": "2211 North First Street, San Jose, CA, United States, 95131",
+    "AddressData": {
+      "Street": "2211 North First Street",
+      "City": "San Jose",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95131"
+    },
+    "Listings": {
+      "0": {
+        "Code": "2PP",
+        "Exchange": "XETRA",
+        "Name": "PayPal Holdings Inc"
+      },
+      "1": {
+        "Code": "PYPL34",
+        "Exchange": "SA",
+        "Name": "PayPal Holdings Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Enrique J. Lores",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Ms. Jamie S. Miller",
+        "Title": "Chief Financial & Operating Officer and Executive VP",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Frank  Keller",
+        "Title": "Executive VP and GM of Large Enterprise & Merchant Platform Group",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Ms. Michelle  Gill",
+        "Title": "Executive VP and GM of Small Business & Financial Services Group",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Diego  Scotti",
+        "Title": "Executive VP & GM of Consumer Group",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Ms. Suzan Bulyaba Kereere",
+        "Title": "President of Global Markets",
+        "YearBorn": "1966"
+      },
+      "6": {
+        "Name": "Mr. Christopher  Natali",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Mr. Srinivasan  Venkatesan",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "1971"
+      },
+      "8": {
+        "Name": "Mr. Steven Eric Winoker",
+        "Title": "Chief Investor Relations Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Bimal  Patel",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 967 7000",
+    "WebURL": "https://www.paypal.com",
+    "LogoURL": "/img/logos/US/pypl.png",
+    "FullTimeEmployees": 23800,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 899673971,
+    "SharesFloat": 918583840,
+    "PercentInsiders": 0.662,
+    "PercentInstitutions": 84.056,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0558
+  }
+}

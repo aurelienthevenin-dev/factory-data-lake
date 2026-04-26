@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.9947,
+        "totalAssets": 0.2628,
+        "currentShares": 159342154,
+        "change": 1220207,
+        "change_p": 0.7717
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.6448,
+        "totalAssets": 0.4645,
+        "currentShares": 135429224,
+        "change": 80040795,
+        "change_p": 144.5082
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.162,
+        "totalAssets": 0.2543,
+        "currentShares": 126875751,
+        "change": -1068131,
+        "change_p": -0.8348
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6299,
+        "totalAssets": 0.3257,
+        "currentShares": 82019749,
+        "change": 2376706,
+        "change_p": 2.9842
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2912,
+        "totalAssets": 0.2837,
+        "currentShares": 40588604,
+        "change": 1361888,
+        "change_p": 3.4718
+      },
+      "5": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1527,
+        "totalAssets": 3.2501,
+        "currentShares": 38135363,
+        "change": 37719041,
+        "change_p": 9060.0643
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0586,
+        "totalAssets": 0.2528,
+        "currentShares": 36468027,
+        "change": -2664441,
+        "change_p": -6.8088
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5597,
+        "totalAssets": 0.1603,
+        "currentShares": 27631274,
+        "change": -7872860,
+        "change_p": -22.1745
+      },
+      "8": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.2825,
+        "totalAssets": 2.0301,
+        "currentShares": 22719742,
+        "change": -3050570,
+        "change_p": -11.8375
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.1967,
+        "totalAssets": 0.4227,
+        "currentShares": 21200537,
+        "change": 10798369,
+        "change_p": 103.8088
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.185,
+        "totalAssets": 0.2555,
+        "currentShares": 20992164,
+        "change": -121416,
+        "change_p": -0.5751
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1779,
+        "totalAssets": 0.3057,
+        "currentShares": 20867308,
+        "change": -513999,
+        "change_p": -2.404
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0153,
+        "totalAssets": 0.1397,
+        "currentShares": 17985810,
+        "change": -63552,
+        "change_p": -0.3521
+      },
+      "13": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.9883,
+        "totalAssets": 0.4353,
+        "currentShares": 17507232,
+        "change": -1582115,
+        "change_p": -8.2879
+      },
+      "14": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.942,
+        "totalAssets": 1.1399,
+        "currentShares": 16688019,
+        "change": -3476877,
+        "change_p": -17.2422
+      },
+      "15": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8659,
+        "totalAssets": 0.3151,
+        "currentShares": 15339344,
+        "change": -1000320,
+        "change_p": -6.122
+      },
+      "16": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8428,
+        "totalAssets": 0.3926,
+        "currentShares": 14929999,
+        "change": -328723,
+        "change_p": -2.1543
+      },
+      "17": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 0.8005,
+        "totalAssets": 1.9451,
+        "currentShares": 14181588,
+        "change": -345088,
+        "change_p": -2.3755
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7582,
+        "totalAssets": 0.2374,
+        "currentShares": 13430932,
+        "change": 213423,
+        "change_p": 1.6147
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7335,
+        "totalAssets": 0.2344,
+        "currentShares": 12994916,
+        "change": 790365,
+        "change_p": 6.476
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1761,
+        "totalAssets": 0.2716,
+        "currentShares": 56266097,
+        "change": -207439,
+        "change_p": -0.3673
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5462,
+        "totalAssets": 0.3055,
+        "currentShares": 45107237,
+        "change": -810816,
+        "change_p": -1.7658
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.3048,
+        "currentShares": 22771507,
+        "change": -12396,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2825,
+        "totalAssets": 0.3216,
+        "currentShares": 22720028,
+        "change": 37445,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1589,
+        "totalAssets": 0.3043,
+        "currentShares": 20530022,
+        "change": -50470,
+        "change_p": -0.2452
+      },
+      "5": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9241,
+        "totalAssets": 0.699,
+        "currentShares": 16369816,
+        "change": -266540,
+        "change_p": -1.6022
+      },
+      "6": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6377,
+        "totalAssets": 4.5077,
+        "currentShares": 11297673,
+        "change": -13020,
+        "change_p": -0.1151
+      },
+      "7": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.3048,
+        "currentShares": 9980633,
+        "change": -132371,
+        "change_p": -1.3089
+      },
+      "8": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.3017,
+        "currentShares": 9456643,
+        "change": -60200,
+        "change_p": -0.6326
+      },
+      "9": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.3044,
+        "currentShares": 8001331,
+        "change": -15920,
+        "change_p": -0.1986
+      },
+      "10": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3998,
+        "totalAssets": 0.3476,
+        "currentShares": 7082286,
+        "change": -132175,
+        "change_p": -1.8321
+      },
+      "11": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3998,
+        "totalAssets": 0.3476,
+        "currentShares": 7082286,
+        "change": -132175,
+        "change_p": -1.8321
+      },
+      "12": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3998,
+        "totalAssets": 0.3476,
+        "currentShares": 7082286,
+        "change": 7082286,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3926,
+        "totalAssets": 0.7522,
+        "currentShares": 6955424,
+        "change": 6955424,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.3766,
+        "totalAssets": 1.4142,
+        "currentShares": 6672299,
+        "change": -47737,
+        "change_p": -0.7104
+      },
+      "15": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.3619,
+        "totalAssets": 0.6082,
+        "currentShares": 6411628,
+        "change": 6411628,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3612,
+        "totalAssets": 0.3031,
+        "currentShares": 6398770,
+        "change": -75309,
+        "change_p": -1.1632
+      },
+      "17": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.355,
+        "totalAssets": 1.92,
+        "currentShares": 6288948,
+        "change": 6283454,
+        "change_p": 114369.3848
+      },
+      "18": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.3528,
+        "totalAssets": 0.2285,
+        "currentShares": 6250000,
+        "change": 3250000,
+        "change_p": 108.3333
+      },
+      "19": {
+        "name": "JPMorgan US Equity L",
+        "date": "2026-02-28",
+        "totalShares": 0.3488,
+        "totalAssets": 1.9845,
+        "currentShares": 6179245,
+        "change": -220039,
+        "change_p": -3.4385
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.1105,
+    "ForwardPE": 15.6006,
+    "PriceSalesTTM": 1.8989,
+    "PriceBookMRQ": 1.6927,
+    "EnterpriseValue": 224580032556,
+    "EnterpriseValueRevenue": 2.3463,
+    "EnterpriseValueEbitda": 11.7152
+  },
+  "Highlights": {
+    "MarketCapitalization": 181757935616,
+    "MarketCapitalizationMln": 181757.9356,
+    "EBITDA": 19306000384,
+    "PERatio": 15.1105,
+    "PEGRatio": 2.9453,
+    "WallStreetTargetPrice": 128.2517,
+    "BookValue": 61.079,
+    "DividendShare": 1.5,
+    "DividendYield": 0.0145,
+    "EarningsShare": 6.79,
+    "EPSEstimateCurrentYear": 6.6383,
+    "EPSEstimateNextYear": 7.3336,
+    "EPSEstimateNextQuarter": 1.6506,
+    "EPSEstimateCurrentQuarter": 1.5758,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.128,
+    "OperatingMarginTTM": 0.1536,
+    "ReturnOnAssetsTTM": 0.0437,
+    "ReturnOnEquityTTM": 0.1202,
+    "RevenueTTM": 95715999744,
+    "RevenuePerShareTTM": 53.25,
+    "QuarterlyRevenueGrowthYOY": 0.052,
+    "GrossProfitTTM": 35686998016,
+    "DilutedEpsTTM": 6.79,
+    "QuarterlyEarningsGrowthYOY": -0.043
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 23.2,
+    "TotalEsgPercentile": 15.68,
+    "EnvironmentScore": 6.53,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.06,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 15.61,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DIS",
+    "Type": "Common Stock",
+    "Name": "Walt Disney Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BH4R78",
+    "ISIN": "US2546871060",
+    "LEI": "7260JQNI6SCF9FIV2392",
+    "PrimaryTicker": "DIS.US",
+    "CUSIP": "254687205",
+    "CIK": "0001744489",
+    "EmployerIdNumber": "95-4545390",
+    "FiscalYearEnd": "September",
+    "IPODate": "1957-11-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Entertainment",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Entertainment",
+    "GicSubIndustry": "Movies & Entertainment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "The Walt Disney Company operates as an entertainment company in Americas, Europe, and the Asia Pacific. It operates in three segments: Entertainment, Sports, and Experiences. The company produces and distributes film and television content under the ABC Television Network, Disney, Freeform, FX, Fox, National Geographic, and Star brand television channels, as well as ABC television stations and A+E television networks; and produces original content under the Disney Branded Television, FX Productions, Lucasfilm, Marvel, National Geographic Studios, Pixar, Searchlight Pictures, Twentieth Century Studios, 20th Television, and Walt Disney Pictures banners. It also provides direct-to-consumer streaming services through Disney+, Disney+ Hotstar, and Hulu; sports-related video streaming content through ESPN, ESPN on ABC, ESPN+ DTC, and Star; sale/licensing of film and episodic content to television and video-on-demand services; theatrical, home entertainment, and music distribution services; DVD and Blu-ray discs, electronic home video licenses, and VOD rental services; staging and licensing of live entertainment events; and post-production services. In addition, the company operates theme parks and resorts, such as Walt Disney World Resort, Disneyland Resort, Disneyland Paris, Hong Kong Disneyland Resort, Shanghai Disney Resort, Disney Cruise Line, Disney Vacation Club, National Geographic Expeditions, and Adventures by Disney, as well as Aulani, a Disney resort and spa in Hawaii. Further, it licenses its intellectual property (IP) to a third party that owns and operates Tokyo Disney Resort; licenses trade names, characters, visual, literary, and other IP for use on merchandise, published materials, and games; operates a direct-to-home satellite distribution platform; sells branded merchandise through retail, online, and wholesale businesses; and develops and publishes books, comic books, and magazines. The company was founded in 1923 and is based in Burbank, California.",
+    "Address": "500 South Buena Vista Street, Burbank, CA, United States, 91521",
+    "AddressData": {
+      "Street": "500 South Buena Vista Street",
+      "City": "Burbank",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "91521"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Hugh F. Johnston",
+        "Title": "Senior Executive VP & CFO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Horacio E. Gutierrez J.D.",
+        "Title": "Senior EVP and Chief Legal & Global Affairs Officer",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Ms. Sonia L. Coleman",
+        "Title": "Senior EVP & Chief People Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Robert Alan Iger",
+        "Title": "Senior Advisor & Director",
+        "YearBorn": "1951"
+      },
+      "4": {
+        "Name": "Mr. Josh  D'Amaro",
+        "Title": "CEO & Director",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Ms. Dana  Walden",
+        "Title": "President & Chief Creative Officer",
+        "YearBorn": "1966"
+      },
+      "6": {
+        "Name": "Mr. Paul  Roeder",
+        "Title": "Senior Executive VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Asad  Ayaz",
+        "Title": "Chief Marketing & Brand Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Ronald L. Iden",
+        "Title": "Senior VP & Chief Security Officer",
+        "YearBorn": "1947"
+      },
+      "9": {
+        "Name": "Mr. Joe  Schott",
+        "Title": "President of Disney Signature Experiences",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "818 560 1000",
+    "WebURL": "https://thewaltdisneycompany.com",
+    "LogoURL": "/img/logos/US/dis.png",
+    "FullTimeEmployees": 175560,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1771519851,
+    "SharesFloat": 1768738565,
+    "PercentInsiders": 0.077,
+    "PercentInstitutions": 77.673,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0121
+  }
+}

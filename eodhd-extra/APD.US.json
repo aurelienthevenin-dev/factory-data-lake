@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.0176,
+        "totalAssets": 0.0799,
+        "currentShares": 22304678,
+        "change": 303944,
+        "change_p": 1.3815
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.864,
+        "totalAssets": 0.0836,
+        "currentShares": 17509574,
+        "change": -19546,
+        "change_p": -0.1115
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.8726,
+        "totalAssets": 0.1068,
+        "currentShares": 13075662,
+        "change": 6641434,
+        "change_p": 103.2204
+      },
+      "3": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 5.7454,
+        "totalAssets": 0.4953,
+        "currentShares": 12792580,
+        "change": 3922567,
+        "change_p": 44.2228
+      },
+      "4": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.3466,
+        "totalAssets": 0.5428,
+        "currentShares": 11904537,
+        "change": 137595,
+        "change_p": 1.1693
+      },
+      "5": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 5.318,
+        "totalAssets": 2.2972,
+        "currentShares": 11840799,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2934,
+        "totalAssets": 0.0904,
+        "currentShares": 9559492,
+        "change": 106578,
+        "change_p": 1.1275
+      },
+      "7": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 4.1484,
+        "totalAssets": 1.2316,
+        "currentShares": 9236610,
+        "change": 231718,
+        "change_p": 2.5732
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2232,
+        "totalAssets": 0.0751,
+        "currentShares": 4950176,
+        "change": -167222,
+        "change_p": -3.2677
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.2063,
+        "totalAssets": 0.0909,
+        "currentShares": 4912392,
+        "change": -490204,
+        "change_p": -9.0735
+      },
+      "10": {
+        "name": "Viking Global Investors LP",
+        "date": "2025-12-31",
+        "totalShares": 2.1479,
+        "totalAssets": 3.1355,
+        "currentShares": 4782534,
+        "change": 1115415,
+        "change_p": 30.4167
+      },
+      "11": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.0733,
+        "totalAssets": 0.3139,
+        "currentShares": 4616305,
+        "change": 821524,
+        "change_p": 21.6488
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.9344,
+        "totalAssets": 0.1138,
+        "currentShares": 4306964,
+        "change": 690426,
+        "change_p": 19.0908
+      },
+      "13": {
+        "name": "Mantle Ridge LP",
+        "date": "2025-12-31",
+        "totalShares": 1.8448,
+        "totalAssets": 40.5272,
+        "currentShares": 4107517,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7549,
+        "totalAssets": 0.0645,
+        "currentShares": 3907433,
+        "change": 190562,
+        "change_p": 5.1269
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.4682,
+        "totalAssets": 0.1141,
+        "currentShares": 3269045,
+        "change": -106555,
+        "change_p": -3.1566
+      },
+      "16": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2102,
+        "totalAssets": 0.5329,
+        "currentShares": 2694659,
+        "change": 1111378,
+        "change_p": 70.1946
+      },
+      "17": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.199,
+        "totalAssets": 1.32,
+        "currentShares": 2669621,
+        "change": -307030,
+        "change_p": -10.3146
+      },
+      "18": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.154,
+        "totalAssets": 0.1148,
+        "currentShares": 2569349,
+        "change": -2243261,
+        "change_p": -46.6122
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.0993,
+        "totalAssets": 0.1046,
+        "currentShares": 2447597,
+        "change": -373915,
+        "change_p": -13.2523
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1766,
+        "totalAssets": 0.1029,
+        "currentShares": 7072912,
+        "change": 36526,
+        "change_p": 0.5191
+      },
+      "1": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 2.7565,
+        "totalAssets": 1.2668,
+        "currentShares": 6137551,
+        "change": 141800,
+        "change_p": 2.365
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5461,
+        "totalAssets": 0.1157,
+        "currentShares": 5669138,
+        "change": -55480,
+        "change_p": -0.9691
+      },
+      "3": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.4545,
+        "totalAssets": 0.7962,
+        "currentShares": 5464985,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.4545,
+        "totalAssets": 0.6484,
+        "currentShares": 5464985,
+        "change": 2245268,
+        "change_p": 69.7349
+      },
+      "5": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5833,
+        "totalAssets": 0.4949,
+        "currentShares": 3525262,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5544,
+        "totalAssets": 0.7666,
+        "currentShares": 3460888,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.4435,
+        "totalAssets": 0.8542,
+        "currentShares": 3214058,
+        "change": -246830,
+        "change_p": -7.132
+      },
+      "8": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 1.3097,
+        "totalAssets": 0.6987,
+        "currentShares": 2916110,
+        "change": 694305,
+        "change_p": 31.2496
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.1155,
+        "currentShares": 2862277,
+        "change": -1560,
+        "change_p": -0.0545
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.272,
+        "totalAssets": 0.1042,
+        "currentShares": 2832273,
+        "change": 4666,
+        "change_p": 0.165
+      },
+      "11": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 1.2507,
+        "totalAssets": 1.7453,
+        "currentShares": 2784731,
+        "change": -62348,
+        "change_p": -2.1899
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.163,
+        "totalAssets": 0.1157,
+        "currentShares": 2589412,
+        "change": -6370,
+        "change_p": -0.2454
+      },
+      "13": {
+        "name": "Franklin Income A1",
+        "date": "2026-03-31",
+        "totalShares": 1.1228,
+        "totalAssets": 0.93,
+        "currentShares": 2500000,
+        "change": -250000,
+        "change_p": -9.0909
+      },
+      "14": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 1.1083,
+        "totalAssets": 1.7388,
+        "currentShares": 2467761,
+        "change": -566774,
+        "change_p": -18.6775
+      },
+      "15": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.2649,
+        "currentShares": 2057835,
+        "change": -14515,
+        "change_p": -0.7004
+      },
+      "16": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.88,
+        "totalAssets": 0.1441,
+        "currentShares": 1959435,
+        "change": 1408390,
+        "change_p": 255.5853
+      },
+      "17": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.8795,
+        "totalAssets": 0.1857,
+        "currentShares": 1958304,
+        "change": -1131,
+        "change_p": -0.0577
+      },
+      "18": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.6326,
+        "totalAssets": 0.7975,
+        "currentShares": 1408433,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.6323,
+        "totalAssets": 0.2957,
+        "currentShares": 1407925,
+        "change": 161759,
+        "change_p": 12.9805
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 23.3645,
+    "PriceSalesTTM": 5.5035,
+    "PriceBookMRQ": 4.387,
+    "EnterpriseValue": 84721896829,
+    "EnterpriseValueRevenue": 6.9397,
+    "EnterpriseValueEbitda": 59.9334
+  },
+  "Highlights": {
+    "MarketCapitalization": 67188678656,
+    "MarketCapitalizationMln": 67188.6787,
+    "EBITDA": 849800000,
+    "PERatio": null,
+    "PEGRatio": 6.409,
+    "WallStreetTargetPrice": 316.5233,
+    "BookValue": 69.216,
+    "DividendShare": 7.16,
+    "DividendYield": 0.0236,
+    "EarningsShare": -1.46,
+    "EPSEstimateCurrentYear": 13.0797,
+    "EPSEstimateNextYear": 14.124,
+    "EPSEstimateNextQuarter": 3.021,
+    "EPSEstimateCurrentQuarter": 3.0404,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0273,
+    "OperatingMarginTTM": 0.2428,
+    "ReturnOnAssetsTTM": -0.0111,
+    "ReturnOnEquityTTM": -0.0167,
+    "RevenueTTM": 12208300032,
+    "RevenuePerShareTTM": 54.813,
+    "QuarterlyRevenueGrowthYOY": 0.058,
+    "GrossProfitTTM": 3861299968,
+    "DilutedEpsTTM": -1.46,
+    "QuarterlyEarningsGrowthYOY": 0.097
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 13.24,
+    "TotalEsgPercentile": 5.72,
+    "EnvironmentScore": 7,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 2.56,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 3.68,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "APD",
+    "Type": "Common Stock",
+    "Name": "Air Products and Chemicals Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BC4JJ4",
+    "ISIN": "US0091581068",
+    "LEI": "7QEON6Y1RL5XR3R1W237",
+    "PrimaryTicker": "APD.US",
+    "CUSIP": "009158403",
+    "CIK": "0000002969",
+    "EmployerIdNumber": "23-1274455",
+    "FiscalYearEnd": "September",
+    "IPODate": "1987-01-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Specialty Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Industrial Gases",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Air Products and Chemicals, Inc. provides atmospheric gases, process and specialty gases, equipment, and related services in the Americas, Asia, Europe, the Middle East, India, and internationally. The company produces atmospheric gases, including oxygen, nitrogen, and argon; process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, and syngas; and specialty gases for customers in various industries, including refining, chemical, metals, manufacturing, electronics, energy production, medical, food, chemical and petrochemical manufacturing, oil and gas recovery and processing, and steel and primary metals processing. It also designs and manufactures equipment for air separation, hydrocarbon recovery and purification, natural gas liquefaction, and liquid helium and liquid hydrogen transport and storage. Air Products and Chemicals, Inc. was founded in 1940 and is headquartered in Allentown, Pennsylvania.",
+    "Address": "1940 Air Products Boulevard, Allentown, PA, United States, 18106-5500",
+    "AddressData": {
+      "Street": "1940 Air Products Boulevard",
+      "City": "Allentown",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "18106-5500"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Eduardo F. Menezes",
+        "Title": "CEO & Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Ms. Melissa N. Schaeffer",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1981"
+      },
+      "2": {
+        "Name": "Mr. Brian  Galovich",
+        "Title": "Executive VP & Chief Information Officer",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Ms. Victoria  Brifo",
+        "Title": "Executive VP of Corporate Communications & Corporate Relations and Chief Human Resources Officer",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. Francesco  Maione",
+        "Title": "President of Americas, Helium & Rare Gases",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Mr. William J. Pellicciotti Jr.",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Ms. Megan  Britt",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Matthew  Lepore",
+        "Title": "Executive VP, General Counsel, Secretary & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Ivo  Bols",
+        "Title": "President of Europe & Africa",
+        "YearBorn": "1961"
+      },
+      "9": {
+        "Name": "Dr. Samir Jawdat Serhan Ph.D.",
+        "Title": "Executive Officer",
+        "YearBorn": "1961"
+      }
+    },
+    "Phone": "610 481 4911",
+    "WebURL": "https://www.airproducts.com",
+    "LogoURL": "/img/logos/US/apd.png",
+    "FullTimeEmployees": 21087,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 222656008,
+    "SharesFloat": 222301985,
+    "PercentInsiders": 1.889,
+    "PercentInstitutions": 93.97999999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.02
+  }
+}

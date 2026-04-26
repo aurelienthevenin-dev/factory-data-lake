@@ -1,0 +1,6988 @@
+{
+  "ts": "2026-04-21T12:19:55.527Z",
+  "count": 573,
+  "counts": {
+    "SP500": 503,
+    "SP100": 100,
+    "EUROSTOXX50": 50,
+    "SMI": 20
+  },
+  "records": [
+    {
+      "eodhd": "A.US",
+      "yahoo": "A",
+      "isin": "US00846U1016",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Agilent Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AAPL.US",
+      "yahoo": "AAPL",
+      "isin": "US0378331005",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Apple Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ABBN.SW",
+      "yahoo": "ABBN.SW",
+      "isin": "CH0012221716",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "ABB Ltd",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ABBV.US",
+      "yahoo": "ABBV",
+      "isin": "US00287Y1091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "AbbVie Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ABI.BR",
+      "yahoo": "ABI.BR",
+      "isin": "BE0974293251",
+      "currency": "EUR",
+      "exchange": "BR",
+      "name": "Anheuser Busch Inbev SA NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ABNB.US",
+      "yahoo": "ABNB",
+      "isin": "US0090661010",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Airbnb Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ABT.US",
+      "yahoo": "ABT",
+      "isin": "US0028241000",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Abbott Laboratories",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ACGL.US",
+      "yahoo": "ACGL",
+      "isin": "BMG0450A1053",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Arch Capital Group Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ACN.US",
+      "yahoo": "ACN",
+      "isin": "IE00B4BNMY34",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Accenture plc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AD.AS",
+      "yahoo": "AD.AS",
+      "isin": "NL0011794037",
+      "currency": "EUR",
+      "exchange": "AS",
+      "name": "Koninklijke Ahold Delhaize NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADBE.US",
+      "yahoo": "ADBE",
+      "isin": "US00724F1012",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Adobe Systems Incorporated",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADI.US",
+      "yahoo": "ADI",
+      "isin": "US0326541051",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Analog Devices Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADM.US",
+      "yahoo": "ADM",
+      "isin": "US0394831020",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Archer-Daniels-Midland Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADP.US",
+      "yahoo": "ADP",
+      "isin": "US0530151036",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Automatic Data Processing Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADS.XETRA",
+      "yahoo": "ADS.DE",
+      "isin": "DE000A1EWWW0",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "adidas AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADSK.US",
+      "yahoo": "ADSK",
+      "isin": "US0527691069",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Autodesk Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ADYEN.AS",
+      "yahoo": "ADYEN.AS",
+      "isin": "NL0012969182",
+      "currency": "EUR",
+      "exchange": "AS",
+      "name": "Adyen NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AEE.US",
+      "yahoo": "AEE",
+      "isin": "US0236081024",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ameren Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AEP.US",
+      "yahoo": "AEP",
+      "isin": "US0255371017",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "American Electric Power Co Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AES.US",
+      "yahoo": "AES",
+      "isin": "US00130H1059",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The AES Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AFL.US",
+      "yahoo": "AFL",
+      "isin": "US0010551028",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Aflac Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AI.PA",
+      "yahoo": "AI.PA",
+      "isin": "FR0000120073",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Air Liquide SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AIG.US",
+      "yahoo": "AIG",
+      "isin": "US0268747849",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "American International Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AIR.PA",
+      "yahoo": "AIR.PA",
+      "isin": "NL0000235190",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Airbus Group SE",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AIZ.US",
+      "yahoo": "AIZ",
+      "isin": "US04621X1081",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Assurant Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AJG.US",
+      "yahoo": "AJG",
+      "isin": "US3635761097",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Arthur J Gallagher & Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AKAM.US",
+      "yahoo": "AKAM",
+      "isin": "US00971T1016",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Akamai Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ALB.US",
+      "yahoo": "ALB",
+      "isin": "US0126531013",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Albemarle Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ALC.SW",
+      "yahoo": "ALC.SW",
+      "isin": "CH0432492467",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Alcon AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ALGN.US",
+      "yahoo": "ALGN",
+      "isin": "US0162551016",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Align Technology Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ALL.US",
+      "yahoo": "ALL",
+      "isin": "US0200021014",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Allstate Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ALLE.US",
+      "yahoo": "ALLE",
+      "isin": "IE00BFRT3W74",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Allegion PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ALV.XETRA",
+      "yahoo": "ALV.DE",
+      "isin": "DE0008404005",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Allianz SE VNA O.N.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMAT.US",
+      "yahoo": "AMAT",
+      "isin": "US0382221051",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Applied Materials Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMCR.US",
+      "yahoo": "AMCR",
+      "isin": "JE00BJ1F3079",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Amcor PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMD.US",
+      "yahoo": "AMD",
+      "isin": "US0079031078",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Advanced Micro Devices Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AME.US",
+      "yahoo": "AME",
+      "isin": "US0311001004",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ametek Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMGN.US",
+      "yahoo": "AMGN",
+      "isin": "US0311621009",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Amgen Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMP.US",
+      "yahoo": "AMP",
+      "isin": "US03076C1062",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ameriprise Financial Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMT.US",
+      "yahoo": "AMT",
+      "isin": "US03027X1000",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "American Tower Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AMZN.US",
+      "yahoo": "AMZN",
+      "isin": "US0231351067",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Amazon.com Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ANET.US",
+      "yahoo": "ANET",
+      "isin": "US0404132054",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Arista Networks",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AON.US",
+      "yahoo": "AON",
+      "isin": "IE00BLP1HW54",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Aon PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AOS.US",
+      "yahoo": "AOS",
+      "isin": "US8318652091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Smith AO Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "APA.US",
+      "yahoo": "APA",
+      "isin": "US03743Q1085",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "APA Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "APD.US",
+      "yahoo": "APD",
+      "isin": "US0091581068",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Air Products and Chemicals Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "APH.US",
+      "yahoo": "APH",
+      "isin": "US0320951017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Amphenol Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "APO.US",
+      "yahoo": "APO",
+      "isin": "US03769M1062",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Apollo Global Management LLC Class A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "APP.US",
+      "yahoo": "APP",
+      "isin": "US03831W1080",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Applovin Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "APTV.US",
+      "yahoo": "APTV",
+      "isin": "JE00BTDN8H13",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Aptiv PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ARE.US",
+      "yahoo": "ARE",
+      "isin": "US0152711091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Alexandria Real Estate Equities Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ARES.US",
+      "yahoo": "ARES",
+      "isin": "US03990B1017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ares Management LP",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ASML.AS",
+      "yahoo": "ASML.AS",
+      "isin": "NL0010273215",
+      "currency": "EUR",
+      "exchange": "AS",
+      "name": "ASML Holding N.V.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ATO.US",
+      "yahoo": "ATO",
+      "isin": "US0495601058",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Atmos Energy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AVB.US",
+      "yahoo": "AVB",
+      "isin": "US0534841012",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "AvalonBay Communities Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AVGO.US",
+      "yahoo": "AVGO",
+      "isin": "US11135F1012",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Broadcom Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AVY.US",
+      "yahoo": "AVY",
+      "isin": "US0536111091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Avery Dennison Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AWK.US",
+      "yahoo": "AWK",
+      "isin": "US0304201033",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "American Water Works",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AXON.US",
+      "yahoo": "AXON",
+      "isin": "US05464C1018",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Axon Enterprise Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AXP.US",
+      "yahoo": "AXP",
+      "isin": "US0258161092",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "American Express Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "AZO.US",
+      "yahoo": "AZO",
+      "isin": "US0533321024",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "AutoZone Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BA.US",
+      "yahoo": "BA",
+      "isin": "US0970231058",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Boeing Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BAC.US",
+      "yahoo": "BAC",
+      "isin": "US0605051046",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Bank of America Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BALL.US",
+      "yahoo": "BALL",
+      "isin": "US0584981064",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ball Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BAS.XETRA",
+      "yahoo": "BAS.DE",
+      "isin": "DE000BASF111",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "BASF SE",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BAX.US",
+      "yahoo": "BAX",
+      "isin": "US0718131099",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Baxter International Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BAYN.XETRA",
+      "yahoo": "BAYN.DE",
+      "isin": "DE000BAY0017",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Bayer AG NA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BBVA.MC",
+      "yahoo": "BBVA.MC",
+      "isin": "ES0113211835",
+      "currency": "EUR",
+      "exchange": "MC",
+      "name": "Banco Bilbao Vizcaya Argentaria SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BBY.US",
+      "yahoo": "BBY",
+      "isin": "US0865161014",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Best Buy Co. Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BDX.US",
+      "yahoo": "BDX",
+      "isin": "US0758871091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Becton Dickinson and Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BEN.US",
+      "yahoo": "BEN",
+      "isin": "US3546131018",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Franklin Resources Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BF-B.US",
+      "yahoo": "BF-B",
+      "isin": "US1156372096",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Brown-Forman Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BG.US",
+      "yahoo": "BG",
+      "isin": "CH1300646267",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Bunge Limited",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BIIB.US",
+      "yahoo": "BIIB",
+      "isin": "US09062X1037",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Biogen Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BK.US",
+      "yahoo": "BK",
+      "isin": "US0640581007",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Bank of New York Mellon Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BKNG.US",
+      "yahoo": "BKNG",
+      "isin": "US09857L1089",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Booking Holdings Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BKR.US",
+      "yahoo": "BKR",
+      "isin": "US05722G1004",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Baker Hughes Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BLDR.US",
+      "yahoo": "BLDR",
+      "isin": "US12008R1077",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Builders FirstSource Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BLK.US",
+      "yahoo": "BLK",
+      "isin": "US09290D1019",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "BlackRock Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BMW.XETRA",
+      "yahoo": "BMW.DE",
+      "isin": "DE0005190003",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Bayerische Motoren Werke Aktiengesellschaft",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BMY.US",
+      "yahoo": "BMY",
+      "isin": "US1101221083",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Bristol-Myers Squibb Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BN.PA",
+      "yahoo": "BN.PA",
+      "isin": "FR0000120644",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Danone SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BNP.PA",
+      "yahoo": "BNP.PA",
+      "isin": "FR0000131104",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "BNP Paribas SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BR.US",
+      "yahoo": "BR",
+      "isin": "US11133T1034",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Broadridge Financial Solutions Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BRK-B.US",
+      "yahoo": "BRK-B",
+      "isin": "US0846707026",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Berkshire Hathaway Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BRO.US",
+      "yahoo": "BRO",
+      "isin": "US1152361010",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Brown & Brown Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BSX.US",
+      "yahoo": "BSX",
+      "isin": "US1011371077",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Boston Scientific Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BX.US",
+      "yahoo": "BX",
+      "isin": "US09260D1072",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Blackstone Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "BXP.US",
+      "yahoo": "BXP",
+      "isin": "US1011211018",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Boston Properties Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "C.US",
+      "yahoo": "C",
+      "isin": "US1729674242",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Citigroup Inc.",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CAG.US",
+      "yahoo": "CAG",
+      "isin": "US2058871029",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "ConAgra Foods Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CAH.US",
+      "yahoo": "CAH",
+      "isin": "US14149Y1082",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Cardinal Health Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CARR.US",
+      "yahoo": "CARR",
+      "isin": "US14448C1045",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Carrier Global Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CASY.US",
+      "yahoo": "CASY",
+      "isin": "US1475281036",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Caseys General Stores Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CAT.US",
+      "yahoo": "CAT",
+      "isin": "US1491231015",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Caterpillar Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CB.US",
+      "yahoo": "CB",
+      "isin": "CH0044328745",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Chubb Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CBOE.US",
+      "yahoo": "CBOE",
+      "isin": "US12503M1080",
+      "currency": "USD",
+      "exchange": "BATS",
+      "name": "Cboe Global Markets Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CBRE.US",
+      "yahoo": "CBRE",
+      "isin": "US12504L1098",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "CBRE Group Inc Class A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CCI.US",
+      "yahoo": "CCI",
+      "isin": "US22822V1017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Crown Castle",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CCL.US",
+      "yahoo": "CCL",
+      "isin": "US1436583009",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Carnival Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CDNS.US",
+      "yahoo": "CDNS",
+      "isin": "US1273871087",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Cadence Design Systems Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CDW.US",
+      "yahoo": "CDW",
+      "isin": "US12514G1085",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "CDW Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CEG.US",
+      "yahoo": "CEG",
+      "isin": "US21037T1097",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Constellation Energy Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CF.US",
+      "yahoo": "CF",
+      "isin": "US1252691001",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "CF Industries Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CFG.US",
+      "yahoo": "CFG",
+      "isin": "US1746101054",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Citizens Financial Group, Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CFR.SW",
+      "yahoo": "CFR.SW",
+      "isin": "CH0210483332",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Compagnie Financière Richemont SA",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CHD.US",
+      "yahoo": "CHD",
+      "isin": "US1713401024",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Church & Dwight Company Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CHRW.US",
+      "yahoo": "CHRW",
+      "isin": "US12541W2098",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "CH Robinson Worldwide Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CHTR.US",
+      "yahoo": "CHTR",
+      "isin": "US16119P1084",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Charter Communications Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CI.US",
+      "yahoo": "CI",
+      "isin": "US1255231003",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Cigna Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CIEN.US",
+      "yahoo": "CIEN",
+      "isin": "US1717793095",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ciena Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CINF.US",
+      "yahoo": "CINF",
+      "isin": "US1720621010",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Cincinnati Financial Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CL.US",
+      "yahoo": "CL",
+      "isin": "US1941621039",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Colgate-Palmolive Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CLX.US",
+      "yahoo": "CLX",
+      "isin": "US1890541097",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Clorox Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CMCSA.US",
+      "yahoo": "CMCSA",
+      "isin": "US20030N1019",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Comcast Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CME.US",
+      "yahoo": "CME",
+      "isin": "US12572Q1058",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "CME Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CMG.US",
+      "yahoo": "CMG",
+      "isin": "US1696561059",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Chipotle Mexican Grill Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CMI.US",
+      "yahoo": "CMI",
+      "isin": "US2310211063",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Cummins Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CMS.US",
+      "yahoo": "CMS",
+      "isin": "US1258961002",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "CMS Energy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CNC.US",
+      "yahoo": "CNC",
+      "isin": "US15135B1017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Centene Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CNP.US",
+      "yahoo": "CNP",
+      "isin": "US15189T1079",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "CenterPoint Energy Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COF.US",
+      "yahoo": "COF",
+      "isin": "US14040H1059",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Capital One Financial Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COHR.US",
+      "yahoo": "COHR",
+      "isin": "US19247G1076",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Coherent Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COIN.US",
+      "yahoo": "COIN",
+      "isin": "US19260Q1076",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Coinbase Global Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COO.US",
+      "yahoo": "COO",
+      "isin": "US2166485019",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "The Cooper Companies, Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COP.US",
+      "yahoo": "COP",
+      "isin": "US20825C1045",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "ConocoPhillips",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COR.US",
+      "yahoo": "COR",
+      "isin": "US03073E1055",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Cencora Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "COST.US",
+      "yahoo": "COST",
+      "isin": "US22160K1051",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Costco Wholesale Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CPAY.US",
+      "yahoo": "CPAY",
+      "isin": "US2199481068",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Corpay Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CPB.US",
+      "yahoo": "CPB",
+      "isin": "US1344291091",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Campbell’s Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CPRT.US",
+      "yahoo": "CPRT",
+      "isin": "US2172041061",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Copart Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CPT.US",
+      "yahoo": "CPT",
+      "isin": "US1331311027",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Camden Property Trust",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CRH.US",
+      "yahoo": "CRH",
+      "isin": "IE0001827041",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "CRH PLC ADR",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CRL.US",
+      "yahoo": "CRL",
+      "isin": "US1598641074",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Charles River Laboratories",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CRM.US",
+      "yahoo": "CRM",
+      "isin": "US79466L3024",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Salesforce.com Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CRWD.US",
+      "yahoo": "CRWD",
+      "isin": "US22788C1053",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Crowdstrike Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CS.PA",
+      "yahoo": "CS.PA",
+      "isin": "FR0000120628",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "AXA SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CSCO.US",
+      "yahoo": "CSCO",
+      "isin": "US17275R1023",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Cisco Systems Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CSGP.US",
+      "yahoo": "CSGP",
+      "isin": "US22160N1090",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "CoStar Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CSX.US",
+      "yahoo": "CSX",
+      "isin": "US1264081035",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "CSX Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CTAS.US",
+      "yahoo": "CTAS",
+      "isin": "US1729081059",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Cintas Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CTRA.US",
+      "yahoo": "CTRA",
+      "isin": "US1270971039",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Coterra Energy Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CTSH.US",
+      "yahoo": "CTSH",
+      "isin": "US1924461023",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Cognizant Technology Solutions Corp Class A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CTVA.US",
+      "yahoo": "CTVA",
+      "isin": "US22052L1044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Corteva Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CVNA.US",
+      "yahoo": "CVNA",
+      "isin": "US1468691027",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Carvana Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CVS.US",
+      "yahoo": "CVS",
+      "isin": "US1266501006",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "CVS Health Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "CVX.US",
+      "yahoo": "CVX",
+      "isin": "US1667641005",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Chevron Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "D.US",
+      "yahoo": "D",
+      "isin": "US25746U1097",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Dominion Energy Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DAL.US",
+      "yahoo": "DAL",
+      "isin": "US2473617023",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Delta Air Lines Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DASH.US",
+      "yahoo": "DASH",
+      "isin": "US25809K1051",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "DoorDash, Inc. Class A Common Stock",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DB1.XETRA",
+      "yahoo": "DB1.DE",
+      "isin": "DE0005810055",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Deutsche Börse AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DD.US",
+      "yahoo": "DD",
+      "isin": "US26614N1028",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Dupont De Nemours Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DDOG.US",
+      "yahoo": "DDOG",
+      "isin": "US23804L1035",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Datadog Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DE.US",
+      "yahoo": "DE",
+      "isin": "US2441991054",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Deere & Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DECK.US",
+      "yahoo": "DECK",
+      "isin": "US2435371073",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Deckers Outdoor Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DELL.US",
+      "yahoo": "DELL",
+      "isin": "US24703L2025",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Dell Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DG.PA",
+      "yahoo": "DG.PA",
+      "isin": "FR0000125486",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Vinci S.A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DG.US",
+      "yahoo": "DG",
+      "isin": "US2566771059",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Dollar General Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DGX.US",
+      "yahoo": "DGX",
+      "isin": "US74834L1008",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Quest Diagnostics Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DHI.US",
+      "yahoo": "DHI",
+      "isin": "US23331A1097",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "DR Horton Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DHL.XETRA",
+      "yahoo": "DHL.DE",
+      "isin": "DE0005552004",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Deutsche Post AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DHR.US",
+      "yahoo": "DHR",
+      "isin": "US2358511028",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Danaher Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DIS.US",
+      "yahoo": "DIS",
+      "isin": "US2546871060",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Walt Disney Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DLR.US",
+      "yahoo": "DLR",
+      "isin": "US2538681030",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Digital Realty Trust Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DLTR.US",
+      "yahoo": "DLTR",
+      "isin": "US2567461080",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Dollar Tree Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DOC.US",
+      "yahoo": "DOC",
+      "isin": "US42250P1030",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Healthpeak Properties Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DOV.US",
+      "yahoo": "DOV",
+      "isin": "US2600031080",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Dover Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DOW.US",
+      "yahoo": "DOW",
+      "isin": "US2605571031",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Dow Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DPZ.US",
+      "yahoo": "DPZ",
+      "isin": "US25754A2015",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Domino's Pizza Inc Common Stock",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DRI.US",
+      "yahoo": "DRI",
+      "isin": "US2371941053",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Darden Restaurants Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DTE.US",
+      "yahoo": "DTE",
+      "isin": "US2333311072",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "DTE Energy Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DTE.XETRA",
+      "yahoo": "DTE.DE",
+      "isin": "DE0005557508",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Deutsche Telekom AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DUK.US",
+      "yahoo": "DUK",
+      "isin": "US26441C2044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Duke Energy Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DVA.US",
+      "yahoo": "DVA",
+      "isin": "US23918K1088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "DaVita HealthCare Partners Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DVN.US",
+      "yahoo": "DVN",
+      "isin": "US25179M1036",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Devon Energy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "DXCM.US",
+      "yahoo": "DXCM",
+      "isin": "US2521311074",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "DexCom Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EA.US",
+      "yahoo": "EA",
+      "isin": "US2855121099",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Electronic Arts Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EBAY.US",
+      "yahoo": "EBAY",
+      "isin": "US2786421030",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "eBay Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ECL.US",
+      "yahoo": "ECL",
+      "isin": "US2788651006",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ecolab Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ED.US",
+      "yahoo": "ED",
+      "isin": "US2091151041",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Consolidated Edison Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EFX.US",
+      "yahoo": "EFX",
+      "isin": "US2944291051",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Equifax Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EG.US",
+      "yahoo": "EG",
+      "isin": "BMG3223R1088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Everest Group Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EIX.US",
+      "yahoo": "EIX",
+      "isin": "US2810201077",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Edison International",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EL.PA",
+      "yahoo": "EL.PA",
+      "isin": "FR0000121667",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "EssilorLuxottica S. A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EL.US",
+      "yahoo": "EL",
+      "isin": "US5184391044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Estee Lauder Companies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ELV.US",
+      "yahoo": "ELV",
+      "isin": "US0367521038",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Elevance Health Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EME.US",
+      "yahoo": "EME",
+      "isin": "US29084Q1004",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "EMCOR Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EMR.US",
+      "yahoo": "EMR",
+      "isin": "US2910111044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Emerson Electric Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ENEL.MI",
+      "yahoo": "ENEL.MI",
+      "isin": null,
+      "currency": null,
+      "exchange": null,
+      "name": "Enel SpA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": false
+    },
+    {
+      "eodhd": "ENI.MI",
+      "yahoo": "ENI.MI",
+      "isin": null,
+      "currency": null,
+      "exchange": null,
+      "name": "Eni S.p.A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": false
+    },
+    {
+      "eodhd": "EOG.US",
+      "yahoo": "EOG",
+      "isin": "US26875P1012",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "EOG Resources Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EPAM.US",
+      "yahoo": "EPAM",
+      "isin": "US29414B1044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "EPAM Systems Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EQIX.US",
+      "yahoo": "EQIX",
+      "isin": "US29444U7000",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Equinix Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EQR.US",
+      "yahoo": "EQR",
+      "isin": "US29476L1070",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Equity Residential",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EQT.US",
+      "yahoo": "EQT",
+      "isin": "US26884L1098",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "EQT Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ERIE.US",
+      "yahoo": "ERIE",
+      "isin": "US29530P1021",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Erie Indemnity Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ES.US",
+      "yahoo": "ES",
+      "isin": "US30040W1080",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Eversource Energy",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ESS.US",
+      "yahoo": "ESS",
+      "isin": "US2971781057",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Essex Property Trust Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ETN.US",
+      "yahoo": "ETN",
+      "isin": "IE00B8KQN827",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Eaton Corporation PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ETR.US",
+      "yahoo": "ETR",
+      "isin": "US29364G1031",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Entergy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EVRG.US",
+      "yahoo": "EVRG",
+      "isin": "US30034W1062",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Evergy, Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EW.US",
+      "yahoo": "EW",
+      "isin": "US28176E1082",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Edwards Lifesciences Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EXC.US",
+      "yahoo": "EXC",
+      "isin": "US30161N1019",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Exelon Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EXE.US",
+      "yahoo": "EXE",
+      "isin": "US1651677353",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Expand Energy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EXPD.US",
+      "yahoo": "EXPD",
+      "isin": "US3021301094",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Expeditors International of Washington, Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EXPE.US",
+      "yahoo": "EXPE",
+      "isin": "US30212P3038",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Expedia Group Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "EXR.US",
+      "yahoo": "EXR",
+      "isin": "US30225T1025",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Extra Space Storage Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "F.US",
+      "yahoo": "F",
+      "isin": "US3453708600",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ford Motor Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FANG.US",
+      "yahoo": "FANG",
+      "isin": "US25278X1090",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Diamondback Energy Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FAST.US",
+      "yahoo": "FAST",
+      "isin": "US3119001044",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Fastenal Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FCX.US",
+      "yahoo": "FCX",
+      "isin": "US35671D8570",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Freeport-McMoran Copper & Gold Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FDS.US",
+      "yahoo": "FDS",
+      "isin": "US3030751057",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "FactSet Research Systems Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FDX.US",
+      "yahoo": "FDX",
+      "isin": "US31428X1063",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "FedEx Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FE.US",
+      "yahoo": "FE",
+      "isin": "US3379321074",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "FirstEnergy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FFIV.US",
+      "yahoo": "FFIV",
+      "isin": "US3156161024",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "F5 Networks Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FICO.US",
+      "yahoo": "FICO",
+      "isin": "US3032501047",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Fair Isaac Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FIS.US",
+      "yahoo": "FIS",
+      "isin": "US31620M1062",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Fidelity National Information Services Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FISV.US",
+      "yahoo": "FISV",
+      "isin": "US3377381088",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Fiserv, Inc. Common Stock",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FITB.US",
+      "yahoo": "FITB",
+      "isin": "US3167731005",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Fifth Third Bancorp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FIX.US",
+      "yahoo": "FIX",
+      "isin": "US1999081045",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Comfort Systems USA Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FLTR.LSE",
+      "yahoo": "FLTR.L",
+      "isin": "IE00BWT6H894",
+      "currency": "GBX",
+      "exchange": "LSE",
+      "name": "Flutter Entertainment PLC",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FOX.US",
+      "yahoo": "FOX",
+      "isin": "US35137L2043",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Fox Corp Class B",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FOXA.US",
+      "yahoo": "FOXA",
+      "isin": "US35137L1052",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Fox Corp Class A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FRT.US",
+      "yahoo": "FRT",
+      "isin": "US3137451015",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Federal Realty Investment Trust",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FSLR.US",
+      "yahoo": "FSLR",
+      "isin": "US3364331070",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "First Solar Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FTNT.US",
+      "yahoo": "FTNT",
+      "isin": "US34959E1091",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Fortinet Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "FTV.US",
+      "yahoo": "FTV",
+      "isin": "US34959J1088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Fortive Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GD.US",
+      "yahoo": "GD",
+      "isin": "US3695501086",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "General Dynamics Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GDDY.US",
+      "yahoo": "GDDY",
+      "isin": "US3802371076",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Godaddy Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GE.US",
+      "yahoo": "GE",
+      "isin": "US3696043013",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "GE Aerospace",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GEBN.SW",
+      "yahoo": "GEBN.SW",
+      "isin": "CH0030170408",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Geberit AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GEHC.US",
+      "yahoo": "GEHC",
+      "isin": "US36266G1076",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "GE HealthCare Technologies Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GEN.US",
+      "yahoo": "GEN",
+      "isin": "US6687711084",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Gen Digital Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GEV.US",
+      "yahoo": "GEV",
+      "isin": "US36828A1016",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "GE Vernova LLC",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GILD.US",
+      "yahoo": "GILD",
+      "isin": "US3755581036",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Gilead Sciences Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GIS.US",
+      "yahoo": "GIS",
+      "isin": "US3703341046",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "General Mills Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GIVN.SW",
+      "yahoo": "GIVN.SW",
+      "isin": "CH0010645932",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Givaudan SA",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GL.US",
+      "yahoo": "GL",
+      "isin": "US37959E1029",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Globe Life Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GLW.US",
+      "yahoo": "GLW",
+      "isin": "US2193501051",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Corning Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GM.US",
+      "yahoo": "GM",
+      "isin": "US37045V1008",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "General Motors Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GNRC.US",
+      "yahoo": "GNRC",
+      "isin": "US3687361044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Generac Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GOOG.US",
+      "yahoo": "GOOG",
+      "isin": "US02079K1079",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Alphabet Inc Class C",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GOOGL.US",
+      "yahoo": "GOOGL",
+      "isin": "US02079K3059",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Alphabet Inc Class A",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GPC.US",
+      "yahoo": "GPC",
+      "isin": "US3724601055",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Genuine Parts Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GPN.US",
+      "yahoo": "GPN",
+      "isin": "US37940X1028",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Global Payments Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GRMN.US",
+      "yahoo": "GRMN",
+      "isin": "CH0114405324",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Garmin Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GS.US",
+      "yahoo": "GS",
+      "isin": "US38141G1040",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Goldman Sachs Group Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "GWW.US",
+      "yahoo": "GWW",
+      "isin": "US3848021040",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "WW Grainger Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HAL.US",
+      "yahoo": "HAL",
+      "isin": "US4062161017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Halliburton Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HAS.US",
+      "yahoo": "HAS",
+      "isin": "US4180561072",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Hasbro Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HBAN.US",
+      "yahoo": "HBAN",
+      "isin": "US4461501045",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Huntington Bancshares Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HCA.US",
+      "yahoo": "HCA",
+      "isin": "US40412C1018",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "HCA Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HD.US",
+      "yahoo": "HD",
+      "isin": "US4370761029",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Home Depot Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HIG.US",
+      "yahoo": "HIG",
+      "isin": "US4165151048",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Hartford Financial Services Group",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HII.US",
+      "yahoo": "HII",
+      "isin": "US4464131063",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Huntington Ingalls Industries Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HLT.US",
+      "yahoo": "HLT",
+      "isin": "US43300A2033",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Hilton Worldwide Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HOLN.SW",
+      "yahoo": "HOLN.SW",
+      "isin": "CH0012214059",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Holcim AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HON.US",
+      "yahoo": "HON",
+      "isin": "US4385161066",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Honeywell International Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HOOD.US",
+      "yahoo": "HOOD",
+      "isin": "US7707001027",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Robinhood Markets Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HPE.US",
+      "yahoo": "HPE",
+      "isin": "US42824C1099",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Hewlett Packard Enterprise Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HPQ.US",
+      "yahoo": "HPQ",
+      "isin": "US40434L1052",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "HP Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HRL.US",
+      "yahoo": "HRL",
+      "isin": "US4404521001",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Hormel Foods Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HSIC.US",
+      "yahoo": "HSIC",
+      "isin": "US8064071025",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Henry Schein Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HST.US",
+      "yahoo": "HST",
+      "isin": "US44107P1049",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Host Hotels & Resorts Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HSY.US",
+      "yahoo": "HSY",
+      "isin": "US4278661081",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Hershey Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HUBB.US",
+      "yahoo": "HUBB",
+      "isin": "US4435106079",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Hubbell Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HUM.US",
+      "yahoo": "HUM",
+      "isin": "US4448591028",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Humana Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "HWM.US",
+      "yahoo": "HWM",
+      "isin": "US4432011082",
+      "currency": "USD",
+      "exchange": "NYSE MKT",
+      "name": "Howmet Aerospace Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IBE.MC",
+      "yahoo": "IBE.MC",
+      "isin": "ES0144580Y14",
+      "currency": "EUR",
+      "exchange": "MC",
+      "name": "Iberdrola S.A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IBKR.US",
+      "yahoo": "IBKR",
+      "isin": "US45841N1072",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Interactive Brokers Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IBM.US",
+      "yahoo": "IBM",
+      "isin": "US4592001014",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "International Business Machines",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ICE.US",
+      "yahoo": "ICE",
+      "isin": "US45866F1049",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Intercontinental Exchange Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IDXX.US",
+      "yahoo": "IDXX",
+      "isin": "US45168D1046",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "IDEXX Laboratories Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IEX.US",
+      "yahoo": "IEX",
+      "isin": "US45167R1041",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "IDEX Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IFF.US",
+      "yahoo": "IFF",
+      "isin": "US4595061015",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "International Flavors & Fragrances Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IFX.XETRA",
+      "yahoo": "IFX.DE",
+      "isin": "DE0006231004",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Infineon Technologies AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "INCY.US",
+      "yahoo": "INCY",
+      "isin": "US45337C1027",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Incyte Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "INGA.AS",
+      "yahoo": "INGA.AS",
+      "isin": "NL0011821202",
+      "currency": "EUR",
+      "exchange": "AS",
+      "name": "ING Groep NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "INTC.US",
+      "yahoo": "INTC",
+      "isin": "US4581401001",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Intel Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "INTU.US",
+      "yahoo": "INTU",
+      "isin": "US4612021034",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Intuit Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "INVH.US",
+      "yahoo": "INVH",
+      "isin": "US46187W1071",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Invitation Homes Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IP.US",
+      "yahoo": "IP",
+      "isin": "US4601461035",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "International Paper",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IQV.US",
+      "yahoo": "IQV",
+      "isin": "US46266C1053",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "IQVIA Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IR.US",
+      "yahoo": "IR",
+      "isin": "US45687V1061",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ingersoll Rand Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IRM.US",
+      "yahoo": "IRM",
+      "isin": "US46284V1017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Iron Mountain Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ISP.MI",
+      "yahoo": "ISP.MI",
+      "isin": null,
+      "currency": null,
+      "exchange": null,
+      "name": "Intesa Sanpaolo SpA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": false
+    },
+    {
+      "eodhd": "ISRG.US",
+      "yahoo": "ISRG",
+      "isin": "US46120E6023",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Intuitive Surgical Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IT.US",
+      "yahoo": "IT",
+      "isin": "US3666511072",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Gartner Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ITW.US",
+      "yahoo": "ITW",
+      "isin": "US4523081093",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Illinois Tool Works Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ITX.MC",
+      "yahoo": "ITX.MC",
+      "isin": "ES0148396007",
+      "currency": "EUR",
+      "exchange": "MC",
+      "name": "Industria de Diseno Textil SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "IVZ.US",
+      "yahoo": "IVZ",
+      "isin": "BMG491BT1088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Invesco Plc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "J.US",
+      "yahoo": "J",
+      "isin": "US46982L1089",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Jacobs Solutions Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "JBHT.US",
+      "yahoo": "JBHT",
+      "isin": "US4456581077",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "JB Hunt Transport Services Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "JBL.US",
+      "yahoo": "JBL",
+      "isin": "US4663131039",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Jabil Circuit Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "JCI.US",
+      "yahoo": "JCI",
+      "isin": "IE00BY7QL619",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Johnson Controls International PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "JKHY.US",
+      "yahoo": "JKHY",
+      "isin": "US4262811015",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Jack Henry & Associates Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "JNJ.US",
+      "yahoo": "JNJ",
+      "isin": "US4781601046",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Johnson & Johnson",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "JPM.US",
+      "yahoo": "JPM",
+      "isin": "US46625H1005",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "JPMorgan Chase & Co",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KDP.US",
+      "yahoo": "KDP",
+      "isin": "US49271V1008",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Keurig Dr Pepper Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KER.PA",
+      "yahoo": "KER.PA",
+      "isin": "FR0000121485",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Kering SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KEY.US",
+      "yahoo": "KEY",
+      "isin": "US4932671088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "KeyCorp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KEYS.US",
+      "yahoo": "KEYS",
+      "isin": "US49338L1035",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Keysight Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KHC.US",
+      "yahoo": "KHC",
+      "isin": "US5007541064",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Kraft Heinz Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KIM.US",
+      "yahoo": "KIM",
+      "isin": "US49446R1095",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Kimco Realty Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KKR.US",
+      "yahoo": "KKR",
+      "isin": "US48251W1045",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "KKR & Co LP",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KLAC.US",
+      "yahoo": "KLAC",
+      "isin": "US4824801009",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "KLA Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KMB.US",
+      "yahoo": "KMB",
+      "isin": "US4943681035",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Kimberly-Clark Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KMI.US",
+      "yahoo": "KMI",
+      "isin": "US49456B1017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Kinder Morgan Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KNEBV.HE",
+      "yahoo": "KNEBV.HE",
+      "isin": "FI0009013403",
+      "currency": "EUR",
+      "exchange": "HE",
+      "name": "KONE Oyj",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KNIN.SW",
+      "yahoo": "KNIN.SW",
+      "isin": "CH0025238863",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Kuehne & Nagel",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KO.US",
+      "yahoo": "KO",
+      "isin": "US1912161007",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Coca-Cola Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KR.US",
+      "yahoo": "KR",
+      "isin": "US5010441013",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Kroger Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "KVUE.US",
+      "yahoo": "KVUE",
+      "isin": "US49177J1025",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Kenvue Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "L.US",
+      "yahoo": "L",
+      "isin": "US5404241086",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Loews Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LDOS.US",
+      "yahoo": "LDOS",
+      "isin": "US5253271028",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Leidos Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LEN.US",
+      "yahoo": "LEN",
+      "isin": "US5260571048",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Lennar Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LH.US",
+      "yahoo": "LH",
+      "isin": "US5049221055",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Laboratory Corporation of America Holdings",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LHX.US",
+      "yahoo": "LHX",
+      "isin": "US5024311095",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "L3Harris Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LII.US",
+      "yahoo": "LII",
+      "isin": "US5261071071",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Lennox International Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LIN.US",
+      "yahoo": "LIN",
+      "isin": "IE000S9YS762",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Linde plc Ordinary Shares",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LITE.US",
+      "yahoo": "LITE",
+      "isin": "US55024U1097",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Lumentum Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LLY.US",
+      "yahoo": "LLY",
+      "isin": "US5324571083",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Eli Lilly and Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LMT.US",
+      "yahoo": "LMT",
+      "isin": "US5398301094",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Lockheed Martin Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LNT.US",
+      "yahoo": "LNT",
+      "isin": "US0188021085",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Alliant Energy Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LOGN.SW",
+      "yahoo": "LOGN.SW",
+      "isin": "CH0025751329",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Logitech International S.A.",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LONN.SW",
+      "yahoo": "LONN.SW",
+      "isin": "CH0013841017",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Lonza Group AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LOW.US",
+      "yahoo": "LOW",
+      "isin": "US5486611073",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Lowe's Companies Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LRCX.US",
+      "yahoo": "LRCX",
+      "isin": "US5128073062",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Lam Research Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LULU.US",
+      "yahoo": "LULU",
+      "isin": "US5500211090",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Lululemon Athletica Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LUV.US",
+      "yahoo": "LUV",
+      "isin": "US8447411088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Southwest Airlines Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LVS.US",
+      "yahoo": "LVS",
+      "isin": "US5178341070",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Las Vegas Sands Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LYB.US",
+      "yahoo": "LYB",
+      "isin": "USN537451007",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "LyondellBasell Industries NV",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "LYV.US",
+      "yahoo": "LYV",
+      "isin": "US5380341090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Live Nation Entertainment Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MA.US",
+      "yahoo": "MA",
+      "isin": "US57636Q1040",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Mastercard Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MAA.US",
+      "yahoo": "MAA",
+      "isin": "US59522J1034",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Mid-America Apartment Communities Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MAR.US",
+      "yahoo": "MAR",
+      "isin": "US5719032022",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Marriott International Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MAS.US",
+      "yahoo": "MAS",
+      "isin": "US5745991068",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Masco Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MBG.XETRA",
+      "yahoo": "MBG.DE",
+      "isin": "DE0007100000",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Mercedes-Benz Group AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MC.PA",
+      "yahoo": "MC.PA",
+      "isin": "FR0000121014",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "LVMH Moët Hennessy - Louis Vuitton",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MCD.US",
+      "yahoo": "MCD",
+      "isin": "US5801351017",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "McDonald’s Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MCHP.US",
+      "yahoo": "MCHP",
+      "isin": "US5950171042",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Microchip Technology Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MCK.US",
+      "yahoo": "MCK",
+      "isin": "US58155Q1031",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "McKesson Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MCO.US",
+      "yahoo": "MCO",
+      "isin": "US6153691059",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Moodys Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MDLZ.US",
+      "yahoo": "MDLZ",
+      "isin": "US6092071058",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Mondelez International Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MDT.US",
+      "yahoo": "MDT",
+      "isin": "IE00BTN1Y115",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Medtronic PLC",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MET.US",
+      "yahoo": "MET",
+      "isin": "US59156R1086",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "MetLife Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "META.US",
+      "yahoo": "META",
+      "isin": "US30303M1027",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Meta Platforms Inc.",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MGM.US",
+      "yahoo": "MGM",
+      "isin": "US5529531015",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "MGM Resorts International",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MKC.US",
+      "yahoo": "MKC",
+      "isin": "US5797802064",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "McCormick & Company Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MLM.US",
+      "yahoo": "MLM",
+      "isin": "US5732841060",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Martin Marietta Materials Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MMM.US",
+      "yahoo": "MMM",
+      "isin": "US88579Y1010",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "3M Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MNST.US",
+      "yahoo": "MNST",
+      "isin": "US61174X1090",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Monster Beverage Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MO.US",
+      "yahoo": "MO",
+      "isin": "US02209S1033",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Altria Group",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MOS.US",
+      "yahoo": "MOS",
+      "isin": "US61945C1036",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Mosaic Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MPC.US",
+      "yahoo": "MPC",
+      "isin": "US56585A1025",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Marathon Petroleum Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MPWR.US",
+      "yahoo": "MPWR",
+      "isin": "US6098391054",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Monolithic Power Systems Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MRK.US",
+      "yahoo": "MRK",
+      "isin": "US58933Y1055",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Merck & Company Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MRNA.US",
+      "yahoo": "MRNA",
+      "isin": "US60770K1079",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Moderna Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MRSH.US",
+      "yahoo": "MRSH",
+      "isin": null,
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Marsh & McLennan Companies, Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": false
+    },
+    {
+      "eodhd": "MS.US",
+      "yahoo": "MS",
+      "isin": "US6174464486",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Morgan Stanley",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MSCI.US",
+      "yahoo": "MSCI",
+      "isin": "US55354G1004",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "MSCI Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MSFT.US",
+      "yahoo": "MSFT",
+      "isin": "US5949181045",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Microsoft Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MSI.US",
+      "yahoo": "MSI",
+      "isin": "US6200763075",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Motorola Solutions Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MTB.US",
+      "yahoo": "MTB",
+      "isin": "US55261F1049",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "M&T Bank Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MTD.US",
+      "yahoo": "MTD",
+      "isin": "US5926881054",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Mettler-Toledo International Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MU.US",
+      "yahoo": "MU",
+      "isin": "US5951121038",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Micron Technology Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "MUV2.XETRA",
+      "yahoo": "MUV2.DE",
+      "isin": "DE0008430026",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Münchener Rück AG",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NCLH.US",
+      "yahoo": "NCLH",
+      "isin": "USG667211043",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Norwegian Cruise Line Holdings Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NDAQ.US",
+      "yahoo": "NDAQ",
+      "isin": "US6311031081",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Nasdaq Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NDSN.US",
+      "yahoo": "NDSN",
+      "isin": "US6556631025",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Nordson Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NEE.US",
+      "yahoo": "NEE",
+      "isin": "US65339F1012",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Nextera Energy Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NEM.US",
+      "yahoo": "NEM",
+      "isin": "US6516391066",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Newmont Goldcorp Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NESN.SW",
+      "yahoo": "NESN.SW",
+      "isin": "CH0038863350",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Nestle S.A.",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NFLX.US",
+      "yahoo": "NFLX",
+      "isin": "US64110L1061",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Netflix Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NI.US",
+      "yahoo": "NI",
+      "isin": "US65473P1057",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "NiSource Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NKE.US",
+      "yahoo": "NKE",
+      "isin": "US6541061031",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Nike Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NOC.US",
+      "yahoo": "NOC",
+      "isin": "US6668071029",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Northrop Grumman Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NOVN.SW",
+      "yahoo": "NOVN.SW",
+      "isin": "CH0012005267",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Novartis AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NOW.US",
+      "yahoo": "NOW",
+      "isin": "US81762P1021",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "ServiceNow Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NRG.US",
+      "yahoo": "NRG",
+      "isin": "US6293775085",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "NRG Energy Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NSC.US",
+      "yahoo": "NSC",
+      "isin": "US6558441084",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Norfolk Southern Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NTAP.US",
+      "yahoo": "NTAP",
+      "isin": "US64110D1046",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "NetApp Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NTRS.US",
+      "yahoo": "NTRS",
+      "isin": "US6658591044",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Northern Trust Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NUE.US",
+      "yahoo": "NUE",
+      "isin": "US6703461052",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Nucor Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NVDA.US",
+      "yahoo": "NVDA",
+      "isin": "US67066G1040",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "NVIDIA Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NVR.US",
+      "yahoo": "NVR",
+      "isin": "US62944T1051",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "NVR Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NWS.US",
+      "yahoo": "NWS",
+      "isin": "US65249B2088",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "News Corp B",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NWSA.US",
+      "yahoo": "NWSA",
+      "isin": "US65249B1098",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "News Corp A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "NXPI.US",
+      "yahoo": "NXPI",
+      "isin": "NL0009538784",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "NXP Semiconductors NV",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "O.US",
+      "yahoo": "O",
+      "isin": "US7561091049",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Realty Income Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ODFL.US",
+      "yahoo": "ODFL",
+      "isin": "US6795801009",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Old Dominion Freight Line Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "OKE.US",
+      "yahoo": "OKE",
+      "isin": "US6826801036",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "ONEOK Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "OMC.US",
+      "yahoo": "OMC",
+      "isin": "US6819191064",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Omnicom Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ON.US",
+      "yahoo": "ON",
+      "isin": "US6821891057",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "ON Semiconductor Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "OR.PA",
+      "yahoo": "OR.PA",
+      "isin": "FR0000120321",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "LOréal S.A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ORCL.US",
+      "yahoo": "ORCL",
+      "isin": "US68389X1054",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Oracle Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ORLY.US",
+      "yahoo": "ORLY",
+      "isin": "US67103H1077",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "O’Reilly Automotive Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "OTIS.US",
+      "yahoo": "OTIS",
+      "isin": "US68902V1070",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Otis Worldwide Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "OXY.US",
+      "yahoo": "OXY",
+      "isin": "US6745991058",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Occidental Petroleum Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PANW.US",
+      "yahoo": "PANW",
+      "isin": "US6974351057",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Palo Alto Networks Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PAYX.US",
+      "yahoo": "PAYX",
+      "isin": "US7043261079",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Paychex Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PCAR.US",
+      "yahoo": "PCAR",
+      "isin": "US6937181088",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "PACCAR Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PCG.US",
+      "yahoo": "PCG",
+      "isin": "US69331C1080",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "PG&E Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PEG.US",
+      "yahoo": "PEG",
+      "isin": "US7445731067",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Public Service Enterprise Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PEP.US",
+      "yahoo": "PEP",
+      "isin": "US7134481081",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "PepsiCo Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PFE.US",
+      "yahoo": "PFE",
+      "isin": "US7170811035",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Pfizer Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PFG.US",
+      "yahoo": "PFG",
+      "isin": "US74251V1026",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Principal Financial Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PG.US",
+      "yahoo": "PG",
+      "isin": "US7427181091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Procter & Gamble Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PGHN.SW",
+      "yahoo": "PGHN.SW",
+      "isin": "CH0024608827",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Partners Group Holding AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PGR.US",
+      "yahoo": "PGR",
+      "isin": "US7433151039",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Progressive Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PH.US",
+      "yahoo": "PH",
+      "isin": "US7010941042",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Parker-Hannifin Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PHIA.AS",
+      "yahoo": "PHIA.AS",
+      "isin": "NL0000009538",
+      "currency": "EUR",
+      "exchange": "AS",
+      "name": "Koninklijke Philips NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PHM.US",
+      "yahoo": "PHM",
+      "isin": "US7458671010",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "PulteGroup Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PKG.US",
+      "yahoo": "PKG",
+      "isin": "US6951561090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Packaging Corp of America",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PLD.US",
+      "yahoo": "PLD",
+      "isin": "US74340W1036",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Prologis Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PLTR.US",
+      "yahoo": "PLTR",
+      "isin": "US69608A1088",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Palantir Technologies Inc.",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PM.US",
+      "yahoo": "PM",
+      "isin": "US7181721090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Philip Morris International Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PNC.US",
+      "yahoo": "PNC",
+      "isin": "US6934751057",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "PNC Financial Services Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PNR.US",
+      "yahoo": "PNR",
+      "isin": "IE00BLS09M33",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Pentair PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PNW.US",
+      "yahoo": "PNW",
+      "isin": "US7234841010",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Pinnacle West Capital Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PODD.US",
+      "yahoo": "PODD",
+      "isin": "US45784P1012",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Insulet Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "POOL.US",
+      "yahoo": "POOL",
+      "isin": "US73278L1052",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Pool Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PPG.US",
+      "yahoo": "PPG",
+      "isin": "US6935061076",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "PPG Industries Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PPL.US",
+      "yahoo": "PPL",
+      "isin": "US69351T1060",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "PPL Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PRU.US",
+      "yahoo": "PRU",
+      "isin": "US7443201022",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Prudential Financial Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PRX.AS",
+      "yahoo": "PRX.AS",
+      "isin": "NL0013654783",
+      "currency": "EUR",
+      "exchange": "AS",
+      "name": "Prosus N.V.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PSA.US",
+      "yahoo": "PSA",
+      "isin": "US74460D1090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Public Storage",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PSKY.US",
+      "yahoo": "PSKY",
+      "isin": "US69932A2042",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Paramount Skydance Corporation Class B Common Stock",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PSX.US",
+      "yahoo": "PSX",
+      "isin": "US7185461040",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Phillips 66",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PTC.US",
+      "yahoo": "PTC",
+      "isin": "US69370C1009",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "PTC Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PWR.US",
+      "yahoo": "PWR",
+      "isin": "US74762E1029",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Quanta Services Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "PYPL.US",
+      "yahoo": "PYPL",
+      "isin": "US70450Y1038",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "PayPal Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "Q.US",
+      "yahoo": "Q",
+      "isin": "US74743L1008",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Qnity Electronics, Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "QCOM.US",
+      "yahoo": "QCOM",
+      "isin": "US7475251036",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Qualcomm Incorporated",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RACE.MI",
+      "yahoo": "RACE.MI",
+      "isin": null,
+      "currency": null,
+      "exchange": null,
+      "name": "Ferrari NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": false
+    },
+    {
+      "eodhd": "RACE.US",
+      "yahoo": "RACE",
+      "isin": "NL0011585146",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ferrari NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RCL.US",
+      "yahoo": "RCL",
+      "isin": "LR0008862868",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Royal Caribbean Cruises Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "REG.US",
+      "yahoo": "REG",
+      "isin": "US7588491032",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Regency Centers Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "REGN.US",
+      "yahoo": "REGN",
+      "isin": "US75886F1075",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RF.US",
+      "yahoo": "RF",
+      "isin": "US7591EP1005",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Regions Financial Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RI.PA",
+      "yahoo": "RI.PA",
+      "isin": "FR0000120693",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Pernod Ricard S.A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RJF.US",
+      "yahoo": "RJF",
+      "isin": "US7547301090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Raymond James Financial Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RL.US",
+      "yahoo": "RL",
+      "isin": "US7512121010",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ralph Lauren Corp Class A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RMD.US",
+      "yahoo": "RMD",
+      "isin": "US7611521078",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "ResMed Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RMS.PA",
+      "yahoo": "RMS.PA",
+      "isin": "FR0000052292",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Hermes International SCA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ROG.SW",
+      "yahoo": "ROG.SW",
+      "isin": "CH0012032048",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Roche Holding AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ROK.US",
+      "yahoo": "ROK",
+      "isin": "US7739031091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Rockwell Automation Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ROL.US",
+      "yahoo": "ROL",
+      "isin": "US7757111049",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Rollins Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ROP.US",
+      "yahoo": "ROP",
+      "isin": "US7766961061",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Roper Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ROST.US",
+      "yahoo": "ROST",
+      "isin": "US7782961038",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Ross Stores Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RSG.US",
+      "yahoo": "RSG",
+      "isin": "US7607591002",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Republic Services Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RTX.US",
+      "yahoo": "RTX",
+      "isin": "US75513E1010",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Raytheon Technologies Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "RVTY.US",
+      "yahoo": "RVTY",
+      "isin": "US7140461093",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Revvity Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SAF.PA",
+      "yahoo": "SAF.PA",
+      "isin": "FR0000073272",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Safran SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SAN.MC",
+      "yahoo": "SAN.MC",
+      "isin": "ES0113900J37",
+      "currency": "EUR",
+      "exchange": "MC",
+      "name": "Banco Santander S.A.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SAN.PA",
+      "yahoo": "SAN.PA",
+      "isin": "FR0000120578",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Sanofi SA",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SAP.XETRA",
+      "yahoo": "SAP.DE",
+      "isin": "DE0007164600",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "SAP SE",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SATS.US",
+      "yahoo": "SATS",
+      "isin": "US2787681061",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "EchoStar Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SBAC.US",
+      "yahoo": "SBAC",
+      "isin": "US78410G1040",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "SBA Communications Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SBUX.US",
+      "yahoo": "SBUX",
+      "isin": "US8552441094",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Starbucks Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SCHW.US",
+      "yahoo": "SCHW",
+      "isin": "US8085131055",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Charles Schwab Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SGSN.SW",
+      "yahoo": "SGSN.SW",
+      "isin": "CH1256740924",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "SGS SA",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SHW.US",
+      "yahoo": "SHW",
+      "isin": "US8243481061",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Sherwin-Williams Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SIE.XETRA",
+      "yahoo": "SIE.DE",
+      "isin": "DE0007236101",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Siemens Aktiengesellschaft",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SIKA.SW",
+      "yahoo": "SIKA.SW",
+      "isin": "CH0418792922",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Sika AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SJM.US",
+      "yahoo": "SJM",
+      "isin": "US8326964058",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The J. M. Smucker Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SLB.US",
+      "yahoo": "SLB",
+      "isin": "AN8068571086",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Schlumberger NV",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SLHN.SW",
+      "yahoo": "SLHN.SW",
+      "isin": "CH0014852781",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Swiss Life Holding AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SMCI.US",
+      "yahoo": "SMCI",
+      "isin": "US86800U3023",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Super Micro Computer Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SNA.US",
+      "yahoo": "SNA",
+      "isin": "US8330341012",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Snap-On Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SNDK.US",
+      "yahoo": "SNDK",
+      "isin": "US80004C2008",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Sandisk Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SNPS.US",
+      "yahoo": "SNPS",
+      "isin": "US8716071076",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Synopsys Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SO.US",
+      "yahoo": "SO",
+      "isin": "US8425871071",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Southern Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SOLV.US",
+      "yahoo": "SOLV",
+      "isin": "US83444M1018",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Solventum Corp.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SOON.SW",
+      "yahoo": "SOON.SW",
+      "isin": "CH0012549785",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Sonova H Ag",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SPG.US",
+      "yahoo": "SPG",
+      "isin": "US8288061091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Simon Property Group Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SPGI.US",
+      "yahoo": "SPGI",
+      "isin": "US78409V1044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "S&P Global Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SRE.US",
+      "yahoo": "SRE",
+      "isin": "US8168511090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Sempra Energy",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SREN.SW",
+      "yahoo": "SREN.SW",
+      "isin": "CH0126881561",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Swiss Re AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "STE.US",
+      "yahoo": "STE",
+      "isin": "IE00BFY8C754",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "STERIS plc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "STLA.US",
+      "yahoo": "STLA",
+      "isin": "NL00150001Q9",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Stellantis NV",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "STLAM.MI",
+      "yahoo": "STLAM.MI",
+      "isin": null,
+      "currency": null,
+      "exchange": null,
+      "name": "Stellantis N.V.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": false
+    },
+    {
+      "eodhd": "STLD.US",
+      "yahoo": "STLD",
+      "isin": "US8581191009",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Steel Dynamics Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "STT.US",
+      "yahoo": "STT",
+      "isin": "US8574771031",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "State Street Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "STX.US",
+      "yahoo": "STX",
+      "isin": "IE00BKVD2N49",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Seagate Technology PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "STZ.US",
+      "yahoo": "STZ",
+      "isin": "US21036P1084",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Constellation Brands Inc Class A",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SU.PA",
+      "yahoo": "SU.PA",
+      "isin": "FR0000121972",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "Schneider Electric S.E.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SW.US",
+      "yahoo": "SW",
+      "isin": "IE00028FXN24",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Smurfit WestRock plc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SWK.US",
+      "yahoo": "SWK",
+      "isin": "US8545021011",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Stanley Black & Decker Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SWKS.US",
+      "yahoo": "SWKS",
+      "isin": "US83088M1027",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Skyworks Solutions Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SYF.US",
+      "yahoo": "SYF",
+      "isin": "US87165B1035",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Synchrony Financial",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SYK.US",
+      "yahoo": "SYK",
+      "isin": "US8636671013",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Stryker Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "SYY.US",
+      "yahoo": "SYY",
+      "isin": "US8718291078",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Sysco Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "T.US",
+      "yahoo": "T",
+      "isin": "US00206R1023",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "AT&T Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TAP.US",
+      "yahoo": "TAP",
+      "isin": "US60871R2094",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Molson Coors Brewing Co Class B",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TDG.US",
+      "yahoo": "TDG",
+      "isin": "US8936411003",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Transdigm Group Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TDY.US",
+      "yahoo": "TDY",
+      "isin": "US8793601050",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Teledyne Technologies Incorporated",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TECH.US",
+      "yahoo": "TECH",
+      "isin": "US09073M1045",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Bio-Techne Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TEL.US",
+      "yahoo": "TEL",
+      "isin": "IE000IVNQZ81",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "TE Connectivity Ltd",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TER.US",
+      "yahoo": "TER",
+      "isin": "US8807701029",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Teradyne Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TFC.US",
+      "yahoo": "TFC",
+      "isin": "US89832Q1094",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Truist Financial Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TGT.US",
+      "yahoo": "TGT",
+      "isin": "US87612E1064",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Target Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TJX.US",
+      "yahoo": "TJX",
+      "isin": "US8725401090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The TJX Companies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TKO.US",
+      "yahoo": "TKO",
+      "isin": "US87256C1018",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "TKO Group Holdings, Inc.",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TMO.US",
+      "yahoo": "TMO",
+      "isin": "US8835561023",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Thermo Fisher Scientific Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TMUS.US",
+      "yahoo": "TMUS",
+      "isin": "US8725901040",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "T-Mobile US Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TPL.US",
+      "yahoo": "TPL",
+      "isin": "US88262P1021",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Texas Pacific Land Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TPR.US",
+      "yahoo": "TPR",
+      "isin": "US8760301072",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Tapestry Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TRGP.US",
+      "yahoo": "TRGP",
+      "isin": "US87612G1013",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Targa Resources Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TRMB.US",
+      "yahoo": "TRMB",
+      "isin": "US8962391004",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Trimble Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TROW.US",
+      "yahoo": "TROW",
+      "isin": "US74144T1088",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "T. Rowe Price Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TRV.US",
+      "yahoo": "TRV",
+      "isin": "US89417E1091",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "The Travelers Companies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TSCO.US",
+      "yahoo": "TSCO",
+      "isin": "US8923561067",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Tractor Supply Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TSLA.US",
+      "yahoo": "TSLA",
+      "isin": "US88160R1014",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Tesla Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TSN.US",
+      "yahoo": "TSN",
+      "isin": "US9024941034",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Tyson Foods Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TT.US",
+      "yahoo": "TT",
+      "isin": "IE00BK9ZQ967",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Trane Technologies plc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TTD.US",
+      "yahoo": "TTD",
+      "isin": "US88339J1051",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Trade Desk Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TTE.PA",
+      "yahoo": "TTE.PA",
+      "isin": "FR0000120271",
+      "currency": "EUR",
+      "exchange": "PA",
+      "name": "TotalEnergies SE",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TTWO.US",
+      "yahoo": "TTWO",
+      "isin": "US8740541094",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Take-Two Interactive Software Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TXN.US",
+      "yahoo": "TXN",
+      "isin": "US8825081040",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Texas Instruments Incorporated",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TXT.US",
+      "yahoo": "TXT",
+      "isin": "US8832031012",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Textron Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "TYL.US",
+      "yahoo": "TYL",
+      "isin": "US9022521051",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Tyler Technologies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UAL.US",
+      "yahoo": "UAL",
+      "isin": "US9100471096",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "United Airlines Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UBER.US",
+      "yahoo": "UBER",
+      "isin": "US90353T1007",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Uber Technologies Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UBSG.SW",
+      "yahoo": "UBSG.SW",
+      "isin": "CH0244767585",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "UBS Group AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UDR.US",
+      "yahoo": "UDR",
+      "isin": "US9026531049",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "UDR Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UHS.US",
+      "yahoo": "UHS",
+      "isin": "US9139031002",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Universal Health Services Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ULTA.US",
+      "yahoo": "ULTA",
+      "isin": "US90384S3031",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Ulta Beauty Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UNH.US",
+      "yahoo": "UNH",
+      "isin": "US91324P1021",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "UnitedHealth Group Incorporated",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UNP.US",
+      "yahoo": "UNP",
+      "isin": "US9078181081",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Union Pacific Corporation",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "UPS.US",
+      "yahoo": "UPS",
+      "isin": "US9113121068",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "United Parcel Service Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "URI.US",
+      "yahoo": "URI",
+      "isin": "US9113631090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "United Rentals Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "USB.US",
+      "yahoo": "USB",
+      "isin": "US9029733048",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "U.S. Bancorp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "V.US",
+      "yahoo": "V",
+      "isin": "US92826C8394",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Visa Inc. Class A",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VICI.US",
+      "yahoo": "VICI",
+      "isin": "US9256521090",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "VICI Properties Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VLO.US",
+      "yahoo": "VLO",
+      "isin": "US91913Y1001",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Valero Energy Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VLTO.US",
+      "yahoo": "VLTO",
+      "isin": "US92338C1036",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Veralto Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VMC.US",
+      "yahoo": "VMC",
+      "isin": "US9291601097",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Vulcan Materials Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VOW3.XETRA",
+      "yahoo": "VOW3.DE",
+      "isin": "DE0007664039",
+      "currency": "EUR",
+      "exchange": "XETRA",
+      "name": "Volkswagen AG VZO O.N.",
+      "indices": [
+        "EUROSTOXX50"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VRSK.US",
+      "yahoo": "VRSK",
+      "isin": "US92345Y1064",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Verisk Analytics Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VRSN.US",
+      "yahoo": "VRSN",
+      "isin": "US92343E1029",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "VeriSign Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VRT.US",
+      "yahoo": "VRT",
+      "isin": "US92537N1081",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Vertiv Holdings Co",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VRTX.US",
+      "yahoo": "VRTX",
+      "isin": "US92532F1003",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Vertex Pharmaceuticals Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VST.US",
+      "yahoo": "VST",
+      "isin": "US92840M1027",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Vistra Energy Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VTR.US",
+      "yahoo": "VTR",
+      "isin": "US92276F1003",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Ventas Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VTRS.US",
+      "yahoo": "VTRS",
+      "isin": "US92556V1061",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Viatris Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "VZ.US",
+      "yahoo": "VZ",
+      "isin": "US92343V1044",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Verizon Communications Inc",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WAB.US",
+      "yahoo": "WAB",
+      "isin": "US9297401088",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Westinghouse Air Brake Technologies Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WAT.US",
+      "yahoo": "WAT",
+      "isin": "US9418481035",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Waters Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WBD.US",
+      "yahoo": "WBD",
+      "isin": "US9344231041",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Warner Bros Discovery Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WDAY.US",
+      "yahoo": "WDAY",
+      "isin": "US98138H1014",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Workday Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WDC.US",
+      "yahoo": "WDC",
+      "isin": "US9581021055",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Western Digital Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WEC.US",
+      "yahoo": "WEC",
+      "isin": "US92939U1060",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "WEC Energy Group Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WELL.US",
+      "yahoo": "WELL",
+      "isin": "US95040Q1040",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Welltower Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WFC.US",
+      "yahoo": "WFC",
+      "isin": "US9497461015",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Wells Fargo & Company",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WM.US",
+      "yahoo": "WM",
+      "isin": "US94106L1098",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Waste Management Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WMB.US",
+      "yahoo": "WMB",
+      "isin": "US9694571004",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Williams Companies Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WMT.US",
+      "yahoo": "WMT",
+      "isin": "US9311421039",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Walmart Inc.",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WRB.US",
+      "yahoo": "WRB",
+      "isin": "US0844231029",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "W. R. Berkley Corp",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WSM.US",
+      "yahoo": "WSM",
+      "isin": "US9699041011",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Williams-Sonoma Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WST.US",
+      "yahoo": "WST",
+      "isin": "US9553061055",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "West Pharmaceutical Services Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WTW.US",
+      "yahoo": "WTW",
+      "isin": "IE00BDB6Q211",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Willis Towers Watson PLC",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WY.US",
+      "yahoo": "WY",
+      "isin": "US9621661043",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Weyerhaeuser Company",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "WYNN.US",
+      "yahoo": "WYNN",
+      "isin": "US9831341071",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Wynn Resorts Limited",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "XEL.US",
+      "yahoo": "XEL",
+      "isin": "US98389B1008",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Xcel Energy Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "XOM.US",
+      "yahoo": "XOM",
+      "isin": "US30231G1022",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Exxon Mobil Corp",
+      "indices": [
+        "SP500",
+        "SP100"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "XYL.US",
+      "yahoo": "XYL",
+      "isin": "US98419M1009",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Xylem Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "XYZ.US",
+      "yahoo": "XYZ",
+      "isin": "US8522341036",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Block, Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "YUM.US",
+      "yahoo": "YUM",
+      "isin": "US9884981013",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Yum! Brands Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ZBH.US",
+      "yahoo": "ZBH",
+      "isin": "US98956P1021",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Zimmer Biomet Holdings Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ZBRA.US",
+      "yahoo": "ZBRA",
+      "isin": "US9892071054",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "name": "Zebra Technologies Corporation",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ZTS.US",
+      "yahoo": "ZTS",
+      "isin": "US98978V1035",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "name": "Zoetis Inc",
+      "indices": [
+        "SP500"
+      ],
+      "scrapeable": true
+    },
+    {
+      "eodhd": "ZURN.SW",
+      "yahoo": "ZURN.SW",
+      "isin": "CH0011075394",
+      "currency": "CHF",
+      "exchange": "SW",
+      "name": "Zurich Insurance Group AG",
+      "indices": [
+        "SMI"
+      ],
+      "scrapeable": true
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.9426,
+        "totalAssets": 0.0333,
+        "currentShares": 38282523,
+        "change": 1562241,
+        "change_p": 4.2544
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.002,
+        "totalAssets": 0.0298,
+        "currentShares": 28929026,
+        "change": 336350,
+        "change_p": 1.1764
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.5466,
+        "totalAssets": 0.025,
+        "currentShares": 12274415,
+        "change": 172303,
+        "change_p": 1.4237
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2099,
+        "totalAssets": 0.0326,
+        "currentShares": 10651629,
+        "change": 10323367,
+        "change_p": 3144.8559
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1087,
+        "totalAssets": 0.0375,
+        "currentShares": 10163847,
+        "change": 626866,
+        "change_p": 6.573
+      },
+      "5": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8672,
+        "totalAssets": 1.4498,
+        "currentShares": 8999552,
+        "change": -831262,
+        "change_p": -8.4557
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1675,
+        "totalAssets": 0.0521,
+        "currentShares": 5627320,
+        "change": -30677,
+        "change_p": -0.5422
+      },
+      "7": {
+        "name": "APG Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.0917,
+        "totalAssets": 0.7632,
+        "currentShares": 5261697,
+        "change": -13046180,
+        "change_p": -71.2599
+      },
+      "8": {
+        "name": "Apg All Pensions Group",
+        "date": "2025-12-31",
+        "totalShares": 1.0917,
+        "totalAssets": 0.7632,
+        "currentShares": 5261697,
+        "change": -2030654,
+        "change_p": -27.8464
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.8928,
+        "totalAssets": 0.0076,
+        "currentShares": 4303146,
+        "change": 2282094,
+        "change_p": 112.9161
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8458,
+        "totalAssets": 0.0262,
+        "currentShares": 4076457,
+        "change": 202072,
+        "change_p": 5.2156
+      },
+      "11": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.8052,
+        "totalAssets": 0.0138,
+        "currentShares": 3880894,
+        "change": -583540,
+        "change_p": -13.0709
+      },
+      "12": {
+        "name": "AMF Pensionsforsakring AB",
+        "date": "2025-12-31",
+        "totalShares": 0.7432,
+        "totalAssets": 1.3321,
+        "currentShares": 3582095,
+        "change": -2076518,
+        "change_p": -36.6966
+      },
+      "13": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.6026,
+        "totalAssets": 0.0306,
+        "currentShares": 2904290,
+        "change": -72732,
+        "change_p": -2.4431
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5988,
+        "totalAssets": 0.0217,
+        "currentShares": 2885973,
+        "change": 15133,
+        "change_p": 0.5271
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.5736,
+        "totalAssets": 0.0348,
+        "currentShares": 2764772,
+        "change": 70183,
+        "change_p": 2.6046
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5676,
+        "totalAssets": 0.0201,
+        "currentShares": 2735758,
+        "change": 726531,
+        "change_p": 36.1597
+      },
+      "17": {
+        "name": "Stifel Financial Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.4849,
+        "totalAssets": 0.1254,
+        "currentShares": 2337329,
+        "change": -8528,
+        "change_p": -0.3635
+      },
+      "18": {
+        "name": "Blair William & Co",
+        "date": "2025-12-31",
+        "totalShares": 0.469,
+        "totalAssets": 0.3642,
+        "currentShares": 2260758,
+        "change": 136269,
+        "change_p": 6.4142
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.4668,
+        "totalAssets": 0.021,
+        "currentShares": 2250021,
+        "change": 64685,
+        "change_p": 2.96
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.06,
+        "totalAssets": 0.0266,
+        "currentShares": 9929197,
+        "change": -39526,
+        "change_p": -0.3965
+      },
+      "1": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 1.5523,
+        "totalAssets": 1.2817,
+        "currentShares": 7482087,
+        "change": 958000,
+        "change_p": 14.684
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.5502,
+        "totalAssets": 0.0281,
+        "currentShares": 7471879,
+        "change": -77489,
+        "change_p": -1.0264
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.4015,
+        "totalAssets": 0.1816,
+        "currentShares": 6755277,
+        "change": -91444,
+        "change_p": -1.3356
+      },
+      "4": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.878,
+        "totalAssets": 0.0711,
+        "currentShares": 4231790,
+        "change": -218919,
+        "change_p": -4.9187
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7826,
+        "totalAssets": 0.028,
+        "currentShares": 3772122,
+        "change": -2052,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.7749,
+        "totalAssets": 0.0304,
+        "currentShares": 3735168,
+        "change": 6137,
+        "change_p": 0.1646
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7043,
+        "totalAssets": 0.0279,
+        "currentShares": 3394535,
+        "change": -8379,
+        "change_p": -0.2462
+      },
+      "8": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6424,
+        "totalAssets": 0.1939,
+        "currentShares": 3096196,
+        "change": 9170,
+        "change_p": 0.297
+      },
+      "9": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4935,
+        "totalAssets": 0.4348,
+        "currentShares": 2378503,
+        "change": -237006,
+        "change_p": -9.0616
+      },
+      "10": {
+        "name": "Hartford MidCap Y",
+        "date": "2026-02-28",
+        "totalShares": 0.4494,
+        "totalAssets": 3.6173,
+        "currentShares": 2165964,
+        "change": 218869,
+        "change_p": 11.2408
+      },
+      "11": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4168,
+        "totalAssets": 0.5762,
+        "currentShares": 2008944,
+        "change": -3455,
+        "change_p": -0.1717
+      },
+      "12": {
+        "name": "JPMorgan Mid Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.3668,
+        "totalAssets": 0.88,
+        "currentShares": 1767865,
+        "change": 913799,
+        "change_p": 106.994
+      },
+      "13": {
+        "name": "JPM US Mid Cap Growth-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.3648,
+        "totalAssets": 0.8228,
+        "currentShares": 1758058,
+        "change": 1758058,
+        "change_p": 0
+      },
+      "14": {
+        "name": "iShares MSCI USA Min Vol Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3454,
+        "totalAssets": 0.3946,
+        "currentShares": 1664712,
+        "change": -2055,
+        "change_p": -0.1233
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.3431,
+        "totalAssets": 0.028,
+        "currentShares": 1653859,
+        "change": -10371,
+        "change_p": -0.6232
+      },
+      "16": {
+        "name": "Rathbone Global Opportunities Fund I Acc",
+        "date": "2026-02-28",
+        "totalShares": 0.339,
+        "totalAssets": 2.0098,
+        "currentShares": 1634043,
+        "change": -90549,
+        "change_p": -5.2505
+      },
+      "17": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3383,
+        "totalAssets": 0.3099,
+        "currentShares": 1630715,
+        "change": -11304,
+        "change_p": -0.6884
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.325,
+        "totalAssets": 0.0277,
+        "currentShares": 1566529,
+        "change": 2000,
+        "change_p": 0.1278
+      },
+      "19": {
+        "name": "Smithson Investment Trust Ord",
+        "date": "2025-11-30",
+        "totalShares": 0.3068,
+        "totalAssets": 3.9214,
+        "currentShares": 1478629,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 52.4074,
+    "ForwardPE": 45.6621,
+    "PriceSalesTTM": 7.0874,
+    "PriceBookMRQ": 19.8587,
+    "EnterpriseValue": 28201440325,
+    "EnterpriseValueRevenue": 7.3834,
+    "EnterpriseValueEbitda": 33.0058
+  },
+  "Highlights": {
+    "MarketCapitalization": 27250841600,
+    "MarketCapitalizationMln": 27250.8416,
+    "EBITDA": 860139008,
+    "PERatio": 52.4074,
+    "PEGRatio": 4.1074,
+    "WallStreetTargetPrice": 62.9938,
+    "BookValue": 2.856,
+    "DividendShare": 0.695,
+    "DividendYield": 0.0122,
+    "EarningsShare": 1.08,
+    "EPSEstimateCurrentYear": 1.2499,
+    "EPSEstimateNextYear": 1.4008,
+    "EPSEstimateNextQuarter": 0.3419,
+    "EPSEstimateCurrentQuarter": 0.2369,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1377,
+    "OperatingMarginTTM": 0.1605,
+    "ReturnOnAssetsTTM": 0.1498,
+    "ReturnOnEquityTTM": 0.3867,
+    "RevenueTTM": 3844969984,
+    "RevenuePerShareTTM": 7.955,
+    "QuarterlyRevenueGrowthYOY": 0.102,
+    "GrossProfitTTM": 2022576000,
+    "DilutedEpsTTM": 1.08,
+    "QuarterlyEarningsGrowthYOY": 0.013
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.13,
+    "TotalEsgPercentile": 16.72,
+    "EnvironmentScore": 9.88,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 1.89,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 6.36,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ROL",
+    "Type": "Common Stock",
+    "Name": "Rollins Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BSBBP1",
+    "ISIN": "US7757111049",
+    "LEI": "549300F2A0BXT4SGWD84",
+    "PrimaryTicker": "ROL.US",
+    "CUSIP": "775711104",
+    "CIK": "0000084839",
+    "EmployerIdNumber": "51-0068479",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-12-30",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Personal Services",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Commercial Services & Supplies",
+    "GicSubIndustry": "Environmental & Facilities Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Rollins, Inc., through its subsidiaries, provides pest and wildlife control services and protection to residential and commercial customers in the United States and internationally. The company offers pest control services to residential properties protecting from common pests, including rodents, insects, and wildlife. It also provides workplace pest control solutions for customers across various end markets, such as healthcare, food service, and logistics. In addition, the company offers termite protection and ancillary services for both residential and commercial customers. It serves clients directly, as well as through franchisee operations. The company was formerly known as Rollins Broadcasting, Inc and changed its name to Rollins, Inc. in 1965. Rollins, Inc. was founded in 1901 and is headquartered in Atlanta, Georgia.",
+    "Address": "2170 Piedmont Road, N.E., Atlanta, GA, United States, 30324",
+    "AddressData": {
+      "Street": "2170 Piedmont Road, N.E.",
+      "City": "Atlanta",
+      "State": "GA",
+      "Country": "United States",
+      "ZIP": "30324"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John F. Wilson",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1958"
+      },
+      "1": {
+        "Name": "Mr. Jerry E. Gahlhoff Jr.",
+        "Title": "Principal Executive Officer, President, CEO & Director",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Ms. Elizabeth Brannen Chandler J.D.",
+        "Title": "Chief Legal Officer, General Counsel & Corporate Secretary",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. William W. Harkins",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1982"
+      },
+      "4": {
+        "Name": "Ms. Renee J. Pearson",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Lyndsey  Burton",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Kevin J. Smith",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Jamie C. Benton Jr.",
+        "Title": "Senior Vice President of Human Resources",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Thomas D. Tesh",
+        "Title": "Chief Customer Experience Officer",
+        "YearBorn": "1979"
+      },
+      "9": {
+        "Name": "Mr. Patrick J. Chrzanowski",
+        "Title": "President of Orkin",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "404 888 2000",
+    "WebURL": "https://www.rollins.com",
+    "LogoURL": "/img/logos/US/ROL.png",
+    "FullTimeEmployees": 22000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 481463663,
+    "SharesFloat": 309073239,
+    "PercentInsiders": 38.371,
+    "PercentInstitutions": 59.923,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0406
+  }
+}

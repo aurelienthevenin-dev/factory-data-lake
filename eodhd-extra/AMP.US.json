@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.5154,
+        "totalAssets": 0.0871,
+        "currentShares": 12257034,
+        "change": -109130,
+        "change_p": -0.8825
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 10.5954,
+        "totalAssets": 0.1414,
+        "currentShares": 9608972,
+        "change": 3337977,
+        "change_p": 53.2288
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.9128,
+        "totalAssets": 0.0773,
+        "currentShares": 8989868,
+        "change": -493311,
+        "change_p": -5.202
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8738,
+        "totalAssets": 0.0753,
+        "currentShares": 4420072,
+        "change": 18879,
+        "change_p": 0.429
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1051,
+        "totalAssets": 0.085,
+        "currentShares": 2815974,
+        "change": -25393,
+        "change_p": -0.8937
+      },
+      "5": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5493,
+        "totalAssets": 2.2692,
+        "currentShares": 2311930,
+        "change": -117725,
+        "change_p": -4.8453
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.4189,
+        "totalAssets": 0.0653,
+        "currentShares": 2193676,
+        "change": -92929,
+        "change_p": -4.0641
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6696,
+        "totalAssets": 0.0794,
+        "currentShares": 1514129,
+        "change": 214341,
+        "change_p": 16.4905
+      },
+      "8": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3671,
+        "totalAssets": 0.0779,
+        "currentShares": 1239826,
+        "change": -2598,
+        "change_p": -0.2091
+      },
+      "9": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3094,
+        "totalAssets": 0.1567,
+        "currentShares": 1187476,
+        "change": 614755,
+        "change_p": 107.3394
+      },
+      "10": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2916,
+        "totalAssets": 0.5947,
+        "currentShares": 1171328,
+        "change": -21720,
+        "change_p": -1.8205
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2419,
+        "totalAssets": 0.0282,
+        "currentShares": 1126303,
+        "change": 278696,
+        "change_p": 32.8803
+      },
+      "12": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1974,
+        "totalAssets": 0.2793,
+        "currentShares": 1085889,
+        "change": 496319,
+        "change_p": 84.1832
+      },
+      "13": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.162,
+        "totalAssets": 0.0811,
+        "currentShares": 1053859,
+        "change": -224663,
+        "change_p": -17.5721
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1093,
+        "totalAssets": 0.0605,
+        "currentShares": 1006060,
+        "change": -61461,
+        "change_p": -5.7574
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1082,
+        "totalAssets": 0.1034,
+        "currentShares": 1005027,
+        "change": -6824,
+        "change_p": -0.6744
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0896,
+        "totalAssets": 0.1054,
+        "currentShares": 988134,
+        "change": -222986,
+        "change_p": -18.4116
+      },
+      "17": {
+        "name": "Federated Hermes Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0654,
+        "totalAssets": 0.838,
+        "currentShares": 966163,
+        "change": 219080,
+        "change_p": 29.3247
+      },
+      "18": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9903,
+        "totalAssets": 0.1153,
+        "currentShares": 898134,
+        "change": -93226,
+        "change_p": -9.4038
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9398,
+        "totalAssets": 0.066,
+        "currentShares": 852282,
+        "change": -33165,
+        "change_p": -3.7456
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.194,
+        "totalAssets": 0.0645,
+        "currentShares": 2896588,
+        "change": -42121,
+        "change_p": -1.4333
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5641,
+        "totalAssets": 0.0726,
+        "currentShares": 2325377,
+        "change": -64337,
+        "change_p": -2.6922
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1719,
+        "totalAssets": 0.4405,
+        "currentShares": 1969679,
+        "change": -49593,
+        "change_p": -2.456
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3037,
+        "totalAssets": 0.0742,
+        "currentShares": 1182346,
+        "change": 1950,
+        "change_p": 0.1652
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2889,
+        "totalAssets": 0.0721,
+        "currentShares": 1168937,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1641,
+        "totalAssets": 0.0722,
+        "currentShares": 1055743,
+        "change": -2597,
+        "change_p": -0.2454
+      },
+      "6": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 0.9635,
+        "totalAssets": 1.6325,
+        "currentShares": 873753,
+        "change": 64665,
+        "change_p": 7.9923
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9293,
+        "totalAssets": 0.1659,
+        "currentShares": 842749,
+        "change": -22374,
+        "change_p": -2.5862
+      },
+      "8": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.797,
+        "totalAssets": 0.5585,
+        "currentShares": 722754,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6913,
+        "totalAssets": 1.4039,
+        "currentShares": 626902,
+        "change": 432,
+        "change_p": 0.069
+      },
+      "10": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6882,
+        "totalAssets": 0.5747,
+        "currentShares": 624138,
+        "change": 1056,
+        "change_p": 0.1695
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.654,
+        "totalAssets": 0.7587,
+        "currentShares": 593112,
+        "change": 13246,
+        "change_p": 2.2843
+      },
+      "12": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6132,
+        "totalAssets": 1.327,
+        "currentShares": 556081,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5671,
+        "totalAssets": 0.0724,
+        "currentShares": 514338,
+        "change": -11787,
+        "change_p": -2.2403
+      },
+      "14": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5637,
+        "totalAssets": 0.1935,
+        "currentShares": 511198,
+        "change": -5125,
+        "change_p": -0.9926
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5374,
+        "totalAssets": 0.0717,
+        "currentShares": 487389,
+        "change": -7880,
+        "change_p": -1.5911
+      },
+      "16": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.479,
+        "totalAssets": 1.7552,
+        "currentShares": 434412,
+        "change": 57537,
+        "change_p": 15.2669
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4547,
+        "totalAssets": 0.0723,
+        "currentShares": 412349,
+        "change": -4846,
+        "change_p": -1.1616
+      },
+      "18": {
+        "name": "Federated Hermes MDT MCG Institutional",
+        "date": "2025-12-31",
+        "totalShares": 0.446,
+        "totalAssets": 3.5571,
+        "currentShares": 404480,
+        "change": 11443,
+        "change_p": 2.9114
+      },
+      "19": {
+        "name": "Federated Hermes MDT Mid Cap Growth A",
+        "date": "2025-12-31",
+        "totalShares": 0.446,
+        "totalAssets": 3.5462,
+        "currentShares": 404480,
+        "change": 11443,
+        "change_p": 2.9114
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 11.5597,
+    "ForwardPE": 10.7296,
+    "PriceSalesTTM": 2.2113,
+    "PriceBookMRQ": 6.3649,
+    "EnterpriseValue": 39162212000,
+    "EnterpriseValueRevenue": 2.0261,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 41817210880,
+    "MarketCapitalizationMln": 41817.2109,
+    "EBITDA": 4268999936,
+    "PERatio": 11.5597,
+    "PEGRatio": 1.5549,
+    "WallStreetTargetPrice": 530.8182,
+    "BookValue": 71.759,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 40.15,
+    "EPSEstimateCurrentYear": 42.4262,
+    "EPSEstimateNextYear": 46.2515,
+    "EPSEstimateNextQuarter": 10.368,
+    "EPSEstimateCurrentQuarter": 10.2117,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1884,
+    "OperatingMarginTTM": 0.3535,
+    "ReturnOnAssetsTTM": 0.0227,
+    "ReturnOnEquityTTM": 0.6051,
+    "RevenueTTM": 18911000576,
+    "RevenuePerShareTTM": 195.564,
+    "QuarterlyRevenueGrowthYOY": 0.086,
+    "GrossProfitTTM": 10625000448,
+    "DilutedEpsTTM": 40.15,
+    "QuarterlyEarningsGrowthYOY": -0.011
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 30.8,
+    "TotalEsgPercentile": 48.36,
+    "EnvironmentScore": 9.8,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 16.66,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 19.84,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AMP",
+    "Type": "Common Stock",
+    "Name": "Ameriprise Financial Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000G3QLY3",
+    "ISIN": "US03076C1062",
+    "LEI": "6ZLKQF7QB6JAEKQS5388",
+    "PrimaryTicker": "AMP.US",
+    "CUSIP": "03076C106",
+    "CIK": "0000820027",
+    "EmployerIdNumber": "13-3180631",
+    "FiscalYearEnd": "December",
+    "IPODate": "2005-10-03",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Asset Management & Custody Banks",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ameriprise Financial, Inc., together with its subsidiaries, operates as a diversified financial services company in the United States and internationally. The company offers financial planning and advice services to individual and institutional clients. It operates through Advice & Wealth Management, Asset Management, Retirement & Protection Solutions, Corporate & Other segments. The Advice & Wealth Management segment provides financial planning and advice; brokerage products and services for retail and institutional clients; discretionary and non-discretionary investment advisory accounts; mutual funds; insurance and annuities products; cash management and banking products; and face-amount certificates. The Asset Management segment offers investment management, advice, and products to retail, high net worth, and institutional clients through third-party financial institutions, advisor network, direct retail, and its institutional sales force under the Columbia Threadneedle Investments brand name. Its products include U.S. mutual funds and their non-U.S. equivalents, exchange-traded funds, variable product funds underlying insurance, and annuity separate accounts; and institutional asset management products, such as traditional asset classes, separately managed accounts, individually managed accounts, collateralized loan obligations, hedge funds, collective funds, and property and infrastructure funds. The Retirement & Protection Solutions segment provides variable annuity products, as well as life and disability income insurance products to retail clients. Ameriprise Financial, Inc. was formerly known as American Express Financial Corporation and changed its name to Ameriprise Financial, Inc. in September 2005. The company was founded in 1894 and is based in Minneapolis, Minnesota.",
+    "Address": "1099 Ameriprise Financial Center, Minneapolis, MN, United States, 55474",
+    "AddressData": {
+      "Street": "1099 Ameriprise Financial Center",
+      "City": "Minneapolis",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55474"
+    },
+    "Listings": {
+      "0": {
+        "Code": "A4S",
+        "Exchange": "F",
+        "Name": "Ameriprise Financial Inc"
+      },
+      "1": {
+        "Code": "A4S",
+        "Exchange": "XETRA",
+        "Name": "Ameriprise Financial Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. James M. Cracchiolo CPA",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1959"
+      },
+      "1": {
+        "Name": "Mr. Walter S. Berman",
+        "Title": "Executive VP, CFO & Chief Risk Officer",
+        "YearBorn": "1943"
+      },
+      "2": {
+        "Name": "Mr. William  Davies",
+        "Title": "Executive VP & Global Chief Investment Officer",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. William F. Truscott",
+        "Title": "Chief Executive Officer of Global Asset Management",
+        "YearBorn": "1960"
+      },
+      "4": {
+        "Name": "Ms. Dawn M. Brockman",
+        "Title": "Senior VP, Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. Gerard P. Smyth",
+        "Title": "Executive VP & Global Chief Information Officer",
+        "YearBorn": "1962"
+      },
+      "6": {
+        "Name": "Stephanie M. Rabe",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Heather J. Melloh",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Ms. Deirdre D. Davey McGraw",
+        "Title": "Executive Vice President of Marketing, Communications & Community Relations",
+        "YearBorn": "1971"
+      },
+      "9": {
+        "Name": "Ms. Kelli Ann Hunter Petruzillo",
+        "Title": "Executive Vice President of Human Resources",
+        "YearBorn": "1961"
+      }
+    },
+    "Phone": "612-671-3131",
+    "WebURL": "https://www.ameriprise.com",
+    "LogoURL": "/img/logos/US/amp.png",
+    "FullTimeEmployees": 13600,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 90100000,
+    "SharesFloat": 90837076,
+    "PercentInsiders": 0.167,
+    "PercentInstitutions": 90.542,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0407
+  }
+}

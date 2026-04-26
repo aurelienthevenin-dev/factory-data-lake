@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 13.3712,
+        "totalAssets": 0.0865,
+        "currentShares": 31464655,
+        "change": 916791,
+        "change_p": 3.0012
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.3613,
+        "totalAssets": 0.0937,
+        "currentShares": 31441258,
+        "change": 617775,
+        "change_p": 2.0042
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.2218,
+        "totalAssets": 0.0669,
+        "currentShares": 12287733,
+        "change": -385395,
+        "change_p": -3.041
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7746,
+        "totalAssets": 0.0825,
+        "currentShares": 6529013,
+        "change": 43924,
+        "change_p": 0.6773
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.4637,
+        "totalAssets": 0.0273,
+        "currentShares": 5797476,
+        "change": 3275091,
+        "change_p": 129.841
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2227,
+        "totalAssets": 0.0497,
+        "currentShares": 5230317,
+        "change": -243154,
+        "change_p": -4.4424
+      },
+      "6": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1956,
+        "totalAssets": 0.1861,
+        "currentShares": 5166687,
+        "change": -637403,
+        "change_p": -10.982
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.9553,
+        "totalAssets": 0.0482,
+        "currentShares": 4601086,
+        "change": -818952,
+        "change_p": -15.1097
+      },
+      "8": {
+        "name": "WCM Investment Management",
+        "date": "2025-12-31",
+        "totalShares": 1.7137,
+        "totalAssets": 1.7205,
+        "currentShares": 4032682,
+        "change": 4032682,
+        "change_p": 0
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6344,
+        "totalAssets": 0.0846,
+        "currentShares": 3845956,
+        "change": 367263,
+        "change_p": 10.5575
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5268,
+        "totalAssets": 0.0383,
+        "currentShares": 3592775,
+        "change": 111582,
+        "change_p": 3.2053
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4802,
+        "totalAssets": 0.0861,
+        "currentShares": 3483207,
+        "change": 445425,
+        "change_p": 14.6628
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2435,
+        "totalAssets": 0.0588,
+        "currentShares": 2926088,
+        "change": -68275,
+        "change_p": -2.2801
+      },
+      "13": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1466,
+        "totalAssets": 0.3129,
+        "currentShares": 2698189,
+        "change": 414074,
+        "change_p": 18.1284
+      },
+      "14": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.0688,
+        "totalAssets": 0.0857,
+        "currentShares": 2515013,
+        "change": -65613,
+        "change_p": -2.5425
+      },
+      "15": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9037,
+        "totalAssets": 0.0969,
+        "currentShares": 2126442,
+        "change": -12123,
+        "change_p": -0.5669
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8719,
+        "totalAssets": 0.0517,
+        "currentShares": 2051733,
+        "change": 74119,
+        "change_p": 3.7479
+      },
+      "17": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8362,
+        "totalAssets": 0.033,
+        "currentShares": 1967697,
+        "change": 336777,
+        "change_p": 20.6495
+      },
+      "18": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 0.7975,
+        "totalAssets": 0.0579,
+        "currentShares": 1876697,
+        "change": 934750,
+        "change_p": 99.2359
+      },
+      "19": {
+        "name": "BNP Paribas Arbitrage, SA",
+        "date": "2025-12-31",
+        "totalShares": 0.675,
+        "totalAssets": 0.1479,
+        "currentShares": 1588335,
+        "change": -368414,
+        "change_p": -18.8279
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1754,
+        "totalAssets": 0.0791,
+        "currentShares": 7472209,
+        "change": -43103,
+        "change_p": -0.5735
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5462,
+        "totalAssets": 0.089,
+        "currentShares": 5991613,
+        "change": -119871,
+        "change_p": -1.9614
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.5405,
+        "currentShares": 5083376,
+        "change": -80737,
+        "change_p": -1.5634
+      },
+      "3": {
+        "name": "Vanguard Health Care Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.3681,
+        "totalAssets": 1.6688,
+        "currentShares": 3219274,
+        "change": 1477625,
+        "change_p": 84.8406
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2853,
+        "totalAssets": 0.0888,
+        "currentShares": 3024533,
+        "change": -1644,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.285,
+        "totalAssets": 0.0925,
+        "currentShares": 3023695,
+        "change": 4985,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.157,
+        "totalAssets": 0.0885,
+        "currentShares": 2722629,
+        "change": -6713,
+        "change_p": -0.246
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.2036,
+        "currentShares": 2174906,
+        "change": -37029,
+        "change_p": -1.6741
+      },
+      "8": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7309,
+        "totalAssets": 0.9359,
+        "currentShares": 1719935,
+        "change": 5216,
+        "change_p": 0.3042
+      },
+      "9": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.6929,
+        "totalAssets": 1.8934,
+        "currentShares": 1630428,
+        "change": -15997,
+        "change_p": -0.9716
+      },
+      "10": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6589,
+        "totalAssets": 1.8033,
+        "currentShares": 1550459,
+        "change": -532,
+        "change_p": -0.0343
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6505,
+        "totalAssets": 0.931,
+        "currentShares": 1530707,
+        "change": 47758,
+        "change_p": 3.2205
+      },
+      "12": {
+        "name": "BlackRock Large Cap Core (SMA)",
+        "date": "2026-03-31",
+        "totalShares": 0.6165,
+        "totalAssets": 3.6355,
+        "currentShares": 1450689,
+        "change": -345464,
+        "change_p": -19.2336
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.0888,
+        "currentShares": 1325667,
+        "change": -19695,
+        "change_p": -1.4639
+      },
+      "14": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 0.2372,
+        "currentShares": 1317561,
+        "change": 5840,
+        "change_p": 0.4452
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0879,
+        "currentShares": 1256187,
+        "change": -10400,
+        "change_p": -0.8211
+      },
+      "16": {
+        "name": "Loomis Sayles Core",
+        "date": "2025-12-31",
+        "totalShares": 0.4675,
+        "totalAssets": 0.2815,
+        "currentShares": 1100000,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.0887,
+        "currentShares": 1062804,
+        "change": -4145,
+        "change_p": -0.3885
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4039,
+        "totalAssets": 0.0843,
+        "currentShares": 950443,
+        "change": -7751,
+        "change_p": -0.8089
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4039,
+        "totalAssets": 0.0843,
+        "currentShares": 950443,
+        "change": 950443,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.7554,
+    "ForwardPE": 17.8891,
+    "PriceSalesTTM": 0.1922,
+    "PriceBookMRQ": 16.0657,
+    "EnterpriseValue": 53277905797,
+    "EnterpriseValueRevenue": 0.2224,
+    "EnterpriseValueEbitda": 15.657
+  },
+  "Highlights": {
+    "MarketCapitalization": 47027908608,
+    "MarketCapitalizationMln": 47027.9086,
+    "EBITDA": 3823000064,
+    "PERatio": 28.7554,
+    "PEGRatio": 1.3164,
+    "WallStreetTargetPrice": 248.2667,
+    "BookValue": -12.22,
+    "DividendShare": 2.038,
+    "DividendYield": 0.01,
+    "EarningsShare": 6.95,
+    "EPSEstimateCurrentYear": 10.3165,
+    "EPSEstimateNextYear": 11.5864,
+    "EPSEstimateNextQuarter": 2.7473,
+    "EPSEstimateCurrentQuarter": 2.3657,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0068,
+    "OperatingMarginTTM": 0.0123,
+    "ReturnOnAssetsTTM": 0.035,
+    "ReturnOnEquityTTM": 0,
+    "RevenueTTM": 244673003520,
+    "RevenuePerShareTTM": 1025.883,
+    "QuarterlyRevenueGrowthYOY": 0.188,
+    "GrossProfitTTM": 9041000448,
+    "DilutedEpsTTM": 6.95,
+    "QuarterlyEarningsGrowthYOY": 0.194
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 12.66,
+    "TotalEsgPercentile": 6.34,
+    "EnvironmentScore": 0.25,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 5.84,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 1.08,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CAH",
+    "Type": "Common Stock",
+    "Name": "Cardinal Health Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000D898T9",
+    "ISIN": "US14149Y1082",
+    "LEI": "CCU46N3GJMF4OK4N7U60",
+    "PrimaryTicker": "CAH.US",
+    "CUSIP": "14149Y108",
+    "CIK": "0000721371",
+    "EmployerIdNumber": "31-0958666",
+    "FiscalYearEnd": "June",
+    "IPODate": "1987-12-31",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Distribution",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Providers & Services",
+    "GicSubIndustry": "Health Care Distributors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Cardinal Health, Inc. operates as a healthcare services and products company in the United States and internationally. It operates in two segments: Pharmaceutical and Specialty Solutions, and Global Medical Products and Distribution. The company provides customized solutions for hospitals, healthcare systems, pharmacies, ambulatory surgery centers, clinical laboratories, physician offices, and patients in the home. It distributes branded and generic pharmaceutical, specialty pharmaceutical, and over-the-counter healthcare and consumer products. The company also provides services to pharmaceutical manufacturers and healthcare providers for specialty pharmaceutical products; pharmacy management services to hospitals; operates pharmacies, including pharmacies in community health centers; and repackages generic pharmaceuticals and over-the-counter healthcare products. In addition, it manufactures, sources, and distributes Cardinal Health branded medical, surgical, and laboratory products and devices that include exam and surgical gloves; needles, syringe, and sharps disposals; compression, incontinence, nutritional delivery, and wound care products; single-use surgical drapes, gowns, and apparel products; fluid suction and collection systems; urology products; operating room supply products; and electrode product lines. Further, the company distributes a range of national brand products, including medical, surgical, and laboratory products; provides supply chain services and solutions to hospitals, ambulatory surgery centers, clinical laboratories, and other healthcare providers; and assembles and sells sterile and non-sterile procedure kits. Additionally, it manufactures, prepares, and delivers radiopharmaceuticals; and optimizes direct shipments through integrated technology solutions. The company was incorporated in 1979 and is headquartered in Dublin, Ohio.",
+    "Address": "7000 Cardinal Place, Dublin, OH, United States, 43017",
+    "AddressData": {
+      "Street": "7000 Cardinal Place",
+      "City": "Dublin",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "43017"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jason M. Hollar",
+        "Title": "CEO & Director",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. Aaron E. Alt J.D.",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1972"
+      },
+      "2": {
+        "Name": "Ms. Jessica L. Mayer",
+        "Title": "Chief Legal & Compliance Officer",
+        "YearBorn": "1969"
+      },
+      "3": {
+        "Name": "Mr. Stephen M. Mason",
+        "Title": "Chief Executive Officer of GMPD segment",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Ms. Deborah L. Weitzman",
+        "Title": "Chief Executive Officer of Pharmaceutical & Specialty Solutions Segment",
+        "YearBorn": "1965"
+      },
+      "5": {
+        "Name": "Ms. Mary C. Scherer",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Matt  Sims",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Valerie Christine Pitteroff",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Craig  Cowman",
+        "Title": "President of Biopharma Solutions & Strategic Sourcing",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Patricia M. English CPA",
+        "Title": "Senior Vice President",
+        "YearBorn": "1980"
+      }
+    },
+    "Phone": "614 757 5000",
+    "WebURL": "https://www.cardinalhealth.com",
+    "LogoURL": "/img/logos/US/CAH.png",
+    "FullTimeEmployees": 53084,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 235316016,
+    "SharesFloat": 234854797,
+    "PercentInsiders": 0.26,
+    "PercentInstitutions": 91.215,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0289
+  }
+}

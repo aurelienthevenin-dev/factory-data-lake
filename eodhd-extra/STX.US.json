@@ -1,0 +1,585 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5519,
+        "totalAssets": 0.1123,
+        "currentShares": 28119431,
+        "change": -20856,
+        "change_p": -0.0741
+      },
+      "1": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 12.4386,
+        "totalAssets": 0.1971,
+        "currentShares": 27865592,
+        "change": 9175621,
+        "change_p": 49.0938
+      },
+      "2": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 7.6692,
+        "totalAssets": 5.4497,
+        "currentShares": 17180892,
+        "change": -360374,
+        "change_p": -2.0544
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.4267,
+        "totalAssets": 0.0595,
+        "currentShares": 14397544,
+        "change": 496557,
+        "change_p": 3.5721
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.1407,
+        "totalAssets": 0.0762,
+        "currentShares": 9276278,
+        "change": 274913,
+        "change_p": 3.0541
+      },
+      "5": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.601,
+        "totalAssets": 0.4749,
+        "currentShares": 8067216,
+        "change": -219158,
+        "change_p": -2.6448
+      },
+      "6": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.388,
+        "totalAssets": 0.1215,
+        "currentShares": 7589910,
+        "change": 985335,
+        "change_p": 14.919
+      },
+      "7": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 2.4177,
+        "totalAssets": 1.2882,
+        "currentShares": 5416242,
+        "change": 4426486,
+        "change_p": 447.23
+      },
+      "8": {
+        "name": "WCM Investment Management",
+        "date": "2025-12-31",
+        "totalShares": 2.301,
+        "totalAssets": 2.9727,
+        "currentShares": 5154872,
+        "change": -28077,
+        "change_p": -0.5417
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2584,
+        "totalAssets": 0.0723,
+        "currentShares": 5059365,
+        "change": -429113,
+        "change_p": -7.8184
+      },
+      "10": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1858,
+        "totalAssets": 0.0829,
+        "currentShares": 4896815,
+        "change": 234436,
+        "change_p": 5.0282
+      },
+      "11": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0141,
+        "totalAssets": 0.2294,
+        "currentShares": 4511989,
+        "change": -1677655,
+        "change_p": -27.1042
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6782,
+        "totalAssets": 0.0528,
+        "currentShares": 3759659,
+        "change": 1778433,
+        "change_p": 89.7643
+      },
+      "13": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.4253,
+        "totalAssets": 0.515,
+        "currentShares": 3193063,
+        "change": 243551,
+        "change_p": 8.2573
+      },
+      "14": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2301,
+        "totalAssets": 0.0931,
+        "currentShares": 2755671,
+        "change": -970355,
+        "change_p": -26.0426
+      },
+      "15": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.8966,
+        "totalAssets": 0.1784,
+        "currentShares": 2008516,
+        "change": 1883769,
+        "change_p": 1510.0716
+      },
+      "16": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8572,
+        "totalAssets": 0.058,
+        "currentShares": 1920329,
+        "change": 284758,
+        "change_p": 17.4103
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8084,
+        "totalAssets": 0.0674,
+        "currentShares": 1811021,
+        "change": -358450,
+        "change_p": -16.5225
+      },
+      "18": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8078,
+        "totalAssets": 0.0533,
+        "currentShares": 1809661,
+        "change": 444546,
+        "change_p": 32.5647
+      },
+      "19": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.7142,
+        "totalAssets": 0.1435,
+        "currentShares": 1599962,
+        "change": 807962,
+        "change_p": 102.0154
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0922,
+        "totalAssets": 0.1359,
+        "currentShares": 6927297,
+        "change": 172976,
+        "change_p": 2.561
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4794,
+        "totalAssets": 0.1529,
+        "currentShares": 5554431,
+        "change": -47893,
+        "change_p": -0.8549
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1029,
+        "totalAssets": 0.9287,
+        "currentShares": 4710928,
+        "change": 69253,
+        "change_p": 1.492
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.043,
+        "totalAssets": 0.4832,
+        "currentShares": 4576848,
+        "change": -15308,
+        "change_p": -0.3334
+      },
+      "4": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.7172,
+        "totalAssets": 1.6696,
+        "currentShares": 3846938,
+        "change": -109100,
+        "change_p": -2.7578
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2512,
+        "totalAssets": 0.1525,
+        "currentShares": 2802956,
+        "change": -1524,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2377,
+        "totalAssets": 0.151,
+        "currentShares": 2772695,
+        "change": 4571,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1314,
+        "totalAssets": 0.1527,
+        "currentShares": 2534553,
+        "change": -6223,
+        "change_p": -0.2449
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0919,
+        "totalAssets": 0.3015,
+        "currentShares": 2446057,
+        "change": 1072903,
+        "change_p": 78.1342
+      },
+      "9": {
+        "name": "Nomura Science and Technology (SMA)",
+        "date": "2025-09-30",
+        "totalShares": 0.947,
+        "totalAssets": 7.472,
+        "currentShares": 2121467,
+        "change": -1223638,
+        "change_p": -36.58
+      },
+      "10": {
+        "name": "WCM Focused International Growth Instl",
+        "date": "2025-12-31",
+        "totalShares": 0.8802,
+        "totalAssets": 2.7009,
+        "currentShares": 1971980,
+        "change": -71823,
+        "change_p": -3.5142
+      },
+      "11": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8243,
+        "totalAssets": 1.2261,
+        "currentShares": 1846716,
+        "change": -1935759,
+        "change_p": -51.177
+      },
+      "12": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7404,
+        "totalAssets": 2.224,
+        "currentShares": 1658684,
+        "change": -114490,
+        "change_p": -6.4568
+      },
+      "13": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7303,
+        "totalAssets": 0.7602,
+        "currentShares": 1636139,
+        "change": 4267,
+        "change_p": 0.2615
+      },
+      "14": {
+        "name": "WCM Inv Mgt Focused Growth Intl",
+        "date": "2026-03-31",
+        "totalShares": 0.7207,
+        "totalAssets": 3.8219,
+        "currentShares": 1614450,
+        "change": -357530,
+        "change_p": -18.1305
+      },
+      "15": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7115,
+        "totalAssets": 0.5131,
+        "currentShares": 1593930,
+        "change": -1817,
+        "change_p": -0.1139
+      },
+      "16": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.6976,
+        "totalAssets": 1.2906,
+        "currentShares": 1562757,
+        "change": 32357,
+        "change_p": 2.1143
+      },
+      "17": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.5525,
+        "totalAssets": 0.3506,
+        "currentShares": 1237644,
+        "change": 153238,
+        "change_p": 14.1311
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5484,
+        "totalAssets": 0.1525,
+        "currentShares": 1228635,
+        "change": -5144,
+        "change_p": -0.4169
+      },
+      "19": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.5264,
+        "totalAssets": 0.381,
+        "currentShares": 1179262,
+        "change": -397056,
+        "change_p": -25.1888
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 66.2429,
+    "ForwardPE": 32.7869,
+    "PriceSalesTTM": 13.0578,
+    "PriceBookMRQ": 286.8013,
+    "EnterpriseValue": 135399791445,
+    "EnterpriseValueRevenue": 13.4619,
+    "EnterpriseValueEbitda": 49.4882
+  },
+  "Highlights": {
+    "MarketCapitalization": 131334873088,
+    "MarketCapitalizationMln": 131334.8731,
+    "EBITDA": 2852000000,
+    "PERatio": 66.2429,
+    "PEGRatio": 0.893,
+    "WallStreetTargetPrice": 532.5651,
+    "BookValue": 2.104,
+    "DividendShare": 2.9,
+    "DividendYield": 0.0049,
+    "EarningsShare": 8.85,
+    "EPSEstimateCurrentYear": 13.1704,
+    "EPSEstimateNextYear": 20.8699,
+    "EPSEstimateNextQuarter": 3.0127,
+    "EPSEstimateCurrentQuarter": 2.8382,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1959,
+    "OperatingMarginTTM": 0.2995,
+    "ReturnOnAssetsTTM": 0.1941,
+    "ReturnOnEquityTTM": 0.2207,
+    "RevenueTTM": 10058000384,
+    "RevenuePerShareTTM": 47,
+    "QuarterlyRevenueGrowthYOY": 0.215,
+    "GrossProfitTTM": 3900000000,
+    "DilutedEpsTTM": 8.85,
+    "QuarterlyEarningsGrowthYOY": 0.677
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.26,
+    "TotalEsgPercentile": 15.56,
+    "EnvironmentScore": 5.09,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.84,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.33,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "STX",
+    "Type": "Common Stock",
+    "Name": "Seagate Technology PLC",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG0113JGQF0",
+    "ISIN": "IE00BKVD2N49",
+    "LEI": "635400RUXIFEZSRU8X70",
+    "PrimaryTicker": "STX.US",
+    "CUSIP": "G7945J104",
+    "CIK": "0001137789",
+    "EmployerIdNumber": "98-0648577",
+    "FiscalYearEnd": "June",
+    "IPODate": "2002-12-11",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Computer Hardware",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Technology Hardware, Storage & Peripherals",
+    "GicSubIndustry": "Technology Hardware, Storage & Peripherals",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Seagate Technology Holdings plc engages in the provision of data storage technology and infrastructure solutions in Singapore, the United States, the Netherlands, and internationally. The company offers mass capacity storage products, including enterprise nearline hard disk drives (HDDs), enterprise nearline solid state drives (SSDs), enterprise nearline systems, video and image HDDs, and network-attached storage drives. It also offers legacy applications comprising Mission Critical HDDs and SSDs; external storage solutions under the Seagate Ultra Touch, One Touch, Expansion, and Basics product lines, as well as under the LaCie brand name; desktop drives for personal computers and workstation applications; notebook drives traditional notebooks, convertible systems, and external storage applications, DVR HDDs for video streaming applications, and gaming SSDs for gaming rigs. In addition, the company provides Lyve edge-to-cloud mass capacity platform, that includes modular hardware and software to support enterprises' on-premise and cloud storage infrastructure needs. It sells its products primarily to original equipment manufacturers, distributors, and retailers. The company was founded in 1978 and is based in Singapore.",
+    "Address": "121 Woodlands Avenue 5, Singapore, Singapore, 739009",
+    "AddressData": {
+      "Street": "121 Woodlands Avenue 5",
+      "City": "Singapore",
+      "Country": "Singapore",
+      "ZIP": "739009"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. William David Mosley Ph.D.",
+        "Title": "CEO & Chairman",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Gianluca  Romano",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Dr. John C. Morris",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. James C. Lee J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Ban Seng Teh",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Kian Fatt Chong",
+        "Title": "Executive Vice President of Global Operations",
+        "YearBorn": "1963"
+      },
+      "6": {
+        "Name": "Ms. Shanye  Hudson",
+        "Title": "Senior Vice President of Investor Relations & Treasury",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Major General Patricia A. Frost",
+        "Title": "Executive VP and Chief People & Places Officer",
+        "YearBorn": "1966"
+      },
+      "8": {
+        "Name": "Mr. John D. Grieci",
+        "Title": "Senior Vice President of Customer Advocacy",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Géraldine  Hottier-Fayon",
+        "Title": "VP of Finance & Corporate Controller",
+        "YearBorn": "1974"
+      }
+    },
+    "Phone": "65 6018 2562",
+    "WebURL": "https://www.seagate.com",
+    "LogoURL": "/img/logos/US/STX.png",
+    "FullTimeEmployees": 30000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 224025376,
+    "SharesFloat": 217377414,
+    "PercentInsiders": 0.259,
+    "PercentInstitutions": 87.908,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0432
+  }
+}

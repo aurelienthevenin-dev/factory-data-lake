@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8117,
+        "totalAssets": 0.0252,
+        "currentShares": 16766752,
+        "change": -379906,
+        "change_p": -2.2156
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.2796,
+        "totalAssets": 0.0259,
+        "currentShares": 14591900,
+        "change": -504601,
+        "change_p": -3.3425
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.1298,
+        "totalAssets": 0.0535,
+        "currentShares": 10120758,
+        "change": -10330977,
+        "change_p": -50.5139
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4945,
+        "totalAssets": 0.0224,
+        "currentShares": 6379948,
+        "change": -28740,
+        "change_p": -0.4485
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8321,
+        "totalAssets": 0.0256,
+        "currentShares": 4020171,
+        "change": -9668,
+        "change_p": -0.2399
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9306,
+        "totalAssets": 0.0438,
+        "currentShares": 2740422,
+        "change": -40796,
+        "change_p": -1.4668
+      },
+      "6": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8551,
+        "totalAssets": 0.1432,
+        "currentShares": 2633353,
+        "change": 2035517,
+        "change_p": 340.4808
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7174,
+        "totalAssets": 0.027,
+        "currentShares": 2437823,
+        "change": 273894,
+        "change_p": 12.6573
+      },
+      "8": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5916,
+        "totalAssets": 0.0069,
+        "currentShares": 2259214,
+        "change": 1184121,
+        "change_p": 110.1413
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4898,
+        "totalAssets": 0.013,
+        "currentShares": 2114809,
+        "change": -208586,
+        "change_p": -8.9776
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2128,
+        "totalAssets": 0.0223,
+        "currentShares": 1721542,
+        "change": 60029,
+        "change_p": 3.6129
+      },
+      "11": {
+        "name": "D. E. Shaw & Co LP",
+        "date": "2025-12-31",
+        "totalShares": 1.1915,
+        "totalAssets": 0.0961,
+        "currentShares": 1691329,
+        "change": 1647119,
+        "change_p": 3725.6707
+      },
+      "12": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1669,
+        "totalAssets": 0.0211,
+        "currentShares": 1656405,
+        "change": 710497,
+        "change_p": 75.1127
+      },
+      "13": {
+        "name": "Jacobs Levy Equity Management, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0801,
+        "totalAssets": 0.6138,
+        "currentShares": 1533252,
+        "change": 90481,
+        "change_p": 6.2713
+      },
+      "14": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.0554,
+        "totalAssets": 0.1414,
+        "currentShares": 1498106,
+        "change": 1470488,
+        "change_p": 5324.3826
+      },
+      "15": {
+        "name": "TD Asset Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0259,
+        "totalAssets": 0.1215,
+        "currentShares": 1456239,
+        "change": 77896,
+        "change_p": 5.6514
+      },
+      "16": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 1.0028,
+        "totalAssets": 0.0401,
+        "currentShares": 1423472,
+        "change": 364022,
+        "change_p": 34.3595
+      },
+      "17": {
+        "name": "TD Global Investment Solutions – TD Epoch",
+        "date": "2025-12-31",
+        "totalShares": 1.0009,
+        "totalAssets": 0.8369,
+        "currentShares": 1420744,
+        "change": 153098,
+        "change_p": 12.0773
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8906,
+        "totalAssets": 0.0275,
+        "currentShares": 1264261,
+        "change": 36507,
+        "change_p": 2.9735
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.879,
+        "totalAssets": 0.0275,
+        "currentShares": 1247737,
+        "change": -233149,
+        "change_p": -15.7439
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1777,
+        "totalAssets": 0.0226,
+        "currentShares": 4510674,
+        "change": -96837,
+        "change_p": -2.1017
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.546,
+        "totalAssets": 0.0254,
+        "currentShares": 3614034,
+        "change": -136921,
+        "change_p": -3.6503
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3089,
+        "totalAssets": 0.1974,
+        "currentShares": 3277517,
+        "change": -32511,
+        "change_p": -0.9822
+      },
+      "3": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 1.7019,
+        "totalAssets": 0.2605,
+        "currentShares": 2415781,
+        "change": 54600,
+        "change_p": 2.3124
+      },
+      "4": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4052,
+        "totalAssets": 0.4295,
+        "currentShares": 1994687,
+        "change": -1236,
+        "change_p": -0.0619
+      },
+      "5": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 1.3883,
+        "totalAssets": 0.2802,
+        "currentShares": 1970684,
+        "change": -4900,
+        "change_p": -0.248
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3067,
+        "totalAssets": 0.029,
+        "currentShares": 1854794,
+        "change": 3062,
+        "change_p": 0.1654
+      },
+      "7": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2921,
+        "totalAssets": 0.4656,
+        "currentShares": 1834116,
+        "change": -4033,
+        "change_p": -0.2194
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2856,
+        "totalAssets": 0.0254,
+        "currentShares": 1824940,
+        "change": -996,
+        "change_p": -0.0545
+      },
+      "9": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1908,
+        "totalAssets": 0.1984,
+        "currentShares": 1690275,
+        "change": 4978,
+        "change_p": 0.2954
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1509,
+        "totalAssets": 0.0252,
+        "currentShares": 1633767,
+        "change": -4067,
+        "change_p": -0.2483
+      },
+      "11": {
+        "name": "Federated Hermes MDT Mid Cap Growth A",
+        "date": "2025-12-31",
+        "totalShares": 1.1297,
+        "totalAssets": 2.9724,
+        "currentShares": 1603552,
+        "change": 1243511,
+        "change_p": 345.3804
+      },
+      "12": {
+        "name": "Federated Hermes MDT MCG Institutional",
+        "date": "2025-12-31",
+        "totalShares": 1.1297,
+        "totalAssets": 2.9815,
+        "currentShares": 1603552,
+        "change": 1243511,
+        "change_p": 345.3804
+      },
+      "13": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6855,
+        "totalAssets": 0.523,
+        "currentShares": 973055,
+        "change": -1675,
+        "change_p": -0.1718
+      },
+      "14": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6157,
+        "totalAssets": 1.42,
+        "currentShares": 874040,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.563,
+        "totalAssets": 0.0254,
+        "currentShares": 799219,
+        "change": -26881,
+        "change_p": -3.254
+      },
+      "16": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.0251,
+        "currentShares": 757752,
+        "change": -19200,
+        "change_p": -2.4712
+      },
+      "17": {
+        "name": "Hartford MidCap Y",
+        "date": "2026-02-28",
+        "totalShares": 0.5289,
+        "totalAssets": 2.4146,
+        "currentShares": 750714,
+        "change": -10628,
+        "change_p": -1.396
+      },
+      "18": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5279,
+        "totalAssets": 0.3533,
+        "currentShares": 749359,
+        "change": -10036,
+        "change_p": -1.3216
+      },
+      "19": {
+        "name": "TD Epoch Glb Qlty Capital Reinvestment",
+        "date": "2025-12-31",
+        "totalShares": 0.4565,
+        "totalAssets": 1.3715,
+        "currentShares": 648044,
+        "change": 136325,
+        "change_p": 26.6406
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.4162,
+    "ForwardPE": 14.7929,
+    "PriceSalesTTM": 2.8664,
+    "PriceBookMRQ": 5.8592,
+    "EnterpriseValue": 13545567376,
+    "EnterpriseValueRevenue": 2.5202,
+    "EnterpriseValueEbitda": 9.5288
+  },
+  "Highlights": {
+    "MarketCapitalization": 15405830144,
+    "MarketCapitalizationMln": 15405.8301,
+    "EBITDA": 1359971968,
+    "PERatio": 15.4162,
+    "PEGRatio": 1.4639,
+    "WallStreetTargetPrice": 128.7619,
+    "BookValue": 18.334,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 7.04,
+    "EPSEstimateCurrentYear": 6.8884,
+    "EPSEstimateNextYear": 7.3361,
+    "EPSEstimateNextQuarter": 0.91,
+    "EPSEstimateCurrentQuarter": 2.7641,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1935,
+    "OperatingMarginTTM": 0.3138,
+    "ReturnOnAssetsTTM": 0.199,
+    "ReturnOnEquityTTM": 0.3969,
+    "RevenueTTM": 5374707200,
+    "RevenuePerShareTTM": 36.326,
+    "QuarterlyRevenueGrowthYOY": 0.071,
+    "GrossProfitTTM": 3092856064,
+    "DilutedEpsTTM": 7.04,
+    "QuarterlyEarningsGrowthYOY": 0.11
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "DECK",
+    "Type": "Common Stock",
+    "Name": "Deckers Outdoor Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKXYX5",
+    "ISIN": "US2435371073",
+    "LEI": "5493008LG4W3I6K8J118",
+    "PrimaryTicker": "DECK.US",
+    "CUSIP": "243537107",
+    "CIK": "0000910521",
+    "EmployerIdNumber": "95-3015862",
+    "FiscalYearEnd": "March",
+    "IPODate": "1993-10-14",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Footwear & Accessories",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Textiles, Apparel & Luxury Goods",
+    "GicSubIndustry": "Footwear",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Deckers Outdoor Corporation, together with its subsidiaries, designs, markets, and distributes footwear, apparel, and accessories for casual lifestyle use and high-performance activities in the United States and internationally. The company offers premium footwear, apparel, and accessories under the UGG brand name; footwear, such as running, trail, hiking, fitness, and lifestyle shoes, as well as apparel and accessories under the HOKA brand name; and sandals, shoes, and boots under the Teva brand name. It also provides a casual footwear fashion line under the Koolaburra brand name; and footwear products under the AHNU brand name. The company sells its products through domestic and international retailers, international distributors, and directly to its consumers through its direct-to-consumer business, which includes e-commerce websites and retail stores. Deckers Outdoor Corporation was founded in 1973 and is headquartered in Goleta, California.",
+    "Address": "250 Coromar Drive, Goleta, CA, United States, 93117",
+    "AddressData": {
+      "Street": "250 Coromar Drive",
+      "City": "Goleta",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "93117"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Stefano  Caroti",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Steven J. Fasching",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Thomas  Garcia J.D.",
+        "Title": "Chief Administrative Officer & General Counsel",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Ms. Anne  Spangenberg",
+        "Title": "President of Fashion Lifestyle",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Ms. Robin  Spring-Green",
+        "Title": "President of HOKA",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Ms. Erinn  Kohler",
+        "Title": "Vice President of Investor Relations & Corporate Planning",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Melissa  Gallagher",
+        "Title": "Chief People Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Angela  Ogbechie",
+        "Title": "Chief Supply Chain Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Mr. Marco  Ellerker",
+        "Title": "President of Global Marketplace",
+        "YearBorn": "1967"
+      },
+      "9": {
+        "Name": "Mr. Joel  Ankarberg",
+        "Title": "Chief Digital & Data Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "805 967 7611",
+    "WebURL": "https://www.deckers.com",
+    "LogoURL": "/img/logos/US/DECK.png",
+    "FullTimeEmployees": 5500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 141949971,
+    "SharesFloat": 140686616,
+    "PercentInsiders": 0.637,
+    "PercentInstitutions": 99.878,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0364
+  }
+}

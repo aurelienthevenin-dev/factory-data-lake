@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.5859,
+        "totalAssets": 0.1488,
+        "currentShares": 13398906,
+        "change": 107227,
+        "change_p": 0.8067
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.9676,
+        "totalAssets": 0.1483,
+        "currentShares": 10816667,
+        "change": -122286,
+        "change_p": -1.1179
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.3486,
+        "totalAssets": 0.1701,
+        "currentShares": 6261226,
+        "change": 11446,
+        "change_p": 0.1831
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 5.831,
+        "totalAssets": 0.1349,
+        "currentShares": 5750710,
+        "change": 3464722,
+        "change_p": 151.5634
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8533,
+        "totalAssets": 0.1099,
+        "currentShares": 2814005,
+        "change": 150132,
+        "change_p": 5.6359
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6037,
+        "totalAssets": 0.1209,
+        "currentShares": 2567830,
+        "change": 25383,
+        "change_p": 0.9984
+      },
+      "6": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.1454,
+        "totalAssets": 2.9894,
+        "currentShares": 2115870,
+        "change": -117272,
+        "change_p": -5.2514
+      },
+      "7": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.997,
+        "totalAssets": 0.778,
+        "currentShares": 1969498,
+        "change": 56592,
+        "change_p": 2.9584
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5489,
+        "totalAssets": 0.128,
+        "currentShares": 1527546,
+        "change": 59353,
+        "change_p": 4.0426
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5117,
+        "totalAssets": 0.1494,
+        "currentShares": 1490892,
+        "change": -8373,
+        "change_p": -0.5585
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3027,
+        "totalAssets": 0.1053,
+        "currentShares": 1284790,
+        "change": 162898,
+        "change_p": 14.5199
+      },
+      "11": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2776,
+        "totalAssets": 0.15,
+        "currentShares": 1260050,
+        "change": 74874,
+        "change_p": 6.3175
+      },
+      "12": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2529,
+        "totalAssets": 0.21,
+        "currentShares": 1235674,
+        "change": 117101,
+        "change_p": 10.4688
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2359,
+        "totalAssets": 0.1959,
+        "currentShares": 1218908,
+        "change": -4120,
+        "change_p": -0.3369
+      },
+      "14": {
+        "name": "Apg Investments Us Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2202,
+        "totalAssets": 7.221,
+        "currentShares": 1203383,
+        "change": -7974,
+        "change_p": -0.6583
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2031,
+        "totalAssets": 0.2018,
+        "currentShares": 1186497,
+        "change": 953001,
+        "change_p": 408.1445
+      },
+      "16": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 1.1701,
+        "totalAssets": 0.5913,
+        "currentShares": 1153972,
+        "change": -25860,
+        "change_p": -2.1918
+      },
+      "17": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.1101,
+        "totalAssets": 0.2731,
+        "currentShares": 1094808,
+        "change": 252964,
+        "change_p": 30.0488
+      },
+      "18": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9557,
+        "totalAssets": 0.0447,
+        "currentShares": 942575,
+        "change": -20620,
+        "change_p": -2.1408
+      },
+      "19": {
+        "name": "CenterSquare Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9057,
+        "totalAssets": 6.7543,
+        "currentShares": 893230,
+        "change": 7270,
+        "change_p": 0.8206
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7056,
+        "totalAssets": 5.5128,
+        "currentShares": 3654553,
+        "change": -14256,
+        "change_p": -0.3886
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1647,
+        "totalAssets": 0.1532,
+        "currentShares": 3121107,
+        "change": 15570,
+        "change_p": 0.5014
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5379,
+        "totalAssets": 0.1724,
+        "currentShares": 2502937,
+        "change": -21616,
+        "change_p": -0.8562
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2802,
+        "totalAssets": 0.1719,
+        "currentShares": 1262624,
+        "change": -684,
+        "change_p": -0.0541
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.267,
+        "totalAssets": 0.1625,
+        "currentShares": 1249540,
+        "change": 2060,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1548,
+        "totalAssets": 0.1717,
+        "currentShares": 1138863,
+        "change": -2793,
+        "change_p": -0.2446
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1056,
+        "totalAssets": 0.3363,
+        "currentShares": 1090396,
+        "change": -35986,
+        "change_p": -3.1948
+      },
+      "7": {
+        "name": "Principal Real Estate Securities R5",
+        "date": "2026-02-28",
+        "totalShares": 0.6598,
+        "totalAssets": 9.666,
+        "currentShares": 650724,
+        "change": -4772,
+        "change_p": -0.728
+      },
+      "8": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.655,
+        "totalAssets": 6.4703,
+        "currentShares": 645983,
+        "change": 4702,
+        "change_p": 0.7332
+      },
+      "9": {
+        "name": "T. Rowe Price Real Assets Tr I-D",
+        "date": "2026-03-31",
+        "totalShares": 0.6243,
+        "totalAssets": 3.1963,
+        "currentShares": 615660,
+        "change": 1858,
+        "change_p": 0.3027
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5613,
+        "totalAssets": 0.1719,
+        "currentShares": 553573,
+        "change": -2762,
+        "change_p": -0.4965
+      },
+      "11": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 0.5469,
+        "totalAssets": 6.0945,
+        "currentShares": 539327,
+        "change": 96037,
+        "change_p": 21.6646
+      },
+      "12": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 0.5469,
+        "totalAssets": 6.0774,
+        "currentShares": 539327,
+        "change": 96037,
+        "change_p": 21.6646
+      },
+      "13": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5373,
+        "totalAssets": 7.0966,
+        "currentShares": 529930,
+        "change": -272,
+        "change_p": -0.0513
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5318,
+        "totalAssets": 0.1702,
+        "currentShares": 524517,
+        "change": 1120,
+        "change_p": 0.214
+      },
+      "15": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 0.4685,
+        "totalAssets": 5.5026,
+        "currentShares": 462045,
+        "change": 52286,
+        "change_p": 12.7602
+      },
+      "16": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.4588,
+        "totalAssets": 4.8371,
+        "currentShares": 452441,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.45,
+        "totalAssets": 0.1717,
+        "currentShares": 443769,
+        "change": 2840,
+        "change_p": 0.6441
+      },
+      "18": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.437,
+        "totalAssets": 0.9648,
+        "currentShares": 430959,
+        "change": 238,
+        "change_p": 0.0553
+      },
+      "19": {
+        "name": "Cohen & Steers Realty Shares L",
+        "date": "2026-03-31",
+        "totalShares": 0.4175,
+        "totalAssets": 5.5117,
+        "currentShares": 411721,
+        "change": 37280,
+        "change_p": 9.9562
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 80.6371,
+    "ForwardPE": 67.5676,
+    "PriceSalesTTM": 11.8088,
+    "PriceBookMRQ": 7.7701,
+    "EnterpriseValue": 129492788816,
+    "EnterpriseValueRevenue": 14.0493,
+    "EnterpriseValueEbitda": 31.5759
+  },
+  "Highlights": {
+    "MarketCapitalization": 109349781504,
+    "MarketCapitalizationMln": 109349.7815,
+    "EBITDA": 4072000000,
+    "PERatio": 80.6371,
+    "PEGRatio": 5.0301,
+    "WallStreetTargetPrice": 1110.5925,
+    "BookValue": 144.116,
+    "DividendShare": 18.76,
+    "DividendYield": 0.0168,
+    "EarningsShare": 13.75,
+    "EPSEstimateCurrentYear": 16.6425,
+    "EPSEstimateNextYear": 17.6178,
+    "EPSEstimateNextQuarter": 3.9133,
+    "EPSEstimateCurrentQuarter": 3.8783,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1458,
+    "OperatingMarginTTM": 0.2154,
+    "ReturnOnAssetsTTM": 0.0333,
+    "ReturnOnEquityTTM": 0.0972,
+    "RevenueTTM": 9260000256,
+    "RevenuePerShareTTM": 94.603,
+    "QuarterlyRevenueGrowthYOY": 0.081,
+    "GrossProfitTTM": 4752000000,
+    "DilutedEpsTTM": 13.75,
+    "QuarterlyEarningsGrowthYOY": 0.229
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.65,
+    "TotalEsgPercentile": 14.3,
+    "EnvironmentScore": 10.42,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 9.24,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 7.48,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EQIX",
+    "Type": "Common Stock",
+    "Name": "Equinix Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000MBDGM6",
+    "ISIN": "US29444U7000",
+    "LEI": "549300EVUN2BTLJ3GT74",
+    "PrimaryTicker": "EQIX.US",
+    "CUSIP": "29444U106",
+    "CIK": "0001101239",
+    "EmployerIdNumber": "77-0487526",
+    "FiscalYearEnd": "December",
+    "IPODate": "2000-08-11",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Specialty",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Specialized REITs",
+    "GicSubIndustry": "Data Center REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Equinix, Inc. shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet. Equinix connects economies, countries, organizations and communities, delivering seamless digital experiences and cutting-edge AI quickly, efficiently and everywhere. Equinix, Inc. was established on June 22, 1998 and incorporated in Delaware.",
+    "Address": "One Lagoon Drive, Redwood City, CA, United States, 94065-1562",
+    "AddressData": {
+      "Street": "One Lagoon Drive",
+      "City": "Redwood City",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "94065-1562"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Charles John Meyers",
+        "Title": "Executive Chairman",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Ms. Adaire Rita Fox-Martin",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Raouf F. Abdel",
+        "Title": "Executive Vice President of Global Operations",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Keith D. Taylor",
+        "Title": "Special Advisor",
+        "YearBorn": "1962"
+      },
+      "4": {
+        "Name": "Mr. Jonathan  Lin",
+        "Title": "Chief Business Officer",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Michael Shane Paladin",
+        "Title": "Executive VP & Chief Customer and Revenue Officer",
+        "YearBorn": "1978"
+      },
+      "6": {
+        "Name": "Mr. Olivier C. Leonetti",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Mr. Simon  Miller",
+        "Title": "Chief Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "8": {
+        "Name": "Mr. Kurt  Pletcher",
+        "Title": "Chief Legal Officer",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Mr. Adam T. Berlew",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "650 598 6000",
+    "WebURL": "https://www.equinix.com",
+    "LogoURL": "/img/logos/US/eqix.png",
+    "FullTimeEmployees": 13716,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 98623487,
+    "SharesFloat": 97867804,
+    "PercentInsiders": 0.27499999999999997,
+    "PercentInstitutions": 99.479,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0253
+  }
+}

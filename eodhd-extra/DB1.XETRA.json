@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 24.5354,
+    "ForwardPE": 22.9358,
+    "PriceSalesTTM": 6.581,
+    "PriceBookMRQ": 4.2693,
+    "EnterpriseValue": -148711506038,
+    "EnterpriseValueRevenue": 6.8858,
+    "EnterpriseValueEbitda": 14.5566
+  },
+  "Highlights": {
+    "MarketCapitalization": 48567656448,
+    "MarketCapitalizationMln": 48567.6564,
+    "EBITDA": 3152000000,
+    "PERatio": 24.5354,
+    "PEGRatio": 4.1002,
+    "WallStreetTargetPrice": 282.4616,
+    "BookValue": 62.118,
+    "DividendShare": 4.2,
+    "DividendYield": 0.0158,
+    "EarningsShare": 10.87,
+    "EPSEstimateCurrentYear": 12.1019,
+    "EPSEstimateNextYear": 12.9287,
+    "EPSEstimateNextQuarter": 2.9629,
+    "EPSEstimateCurrentQuarter": 2.6922,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2703,
+    "OperatingMarginTTM": 0.37,
+    "ReturnOnAssetsTTM": 0.0072,
+    "ReturnOnEquityTTM": 0.1823,
+    "RevenueTTM": 7379999744,
+    "RevenuePerShareTTM": 40.301,
+    "QuarterlyRevenueGrowthYOY": 0.043,
+    "GrossProfitTTM": 5991000064,
+    "DilutedEpsTTM": 10.87,
+    "QuarterlyEarningsGrowthYOY": -0.029
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.31,
+    "TotalEsgPercentile": 13.7,
+    "EnvironmentScore": 7.95,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 13.61,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 13.75,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "DB1",
+    "Type": "Common Stock",
+    "Name": "Deutsche Börse AG",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0005810055",
+    "LEI": "529900G3SW56SHYNPR95",
+    "PrimaryTicker": "DB1.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Financial Services",
+    "Industry": "Financial Data & Stock Exchanges",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Financial Exchanges & Data",
+    "Description": "Deutsche Börse AG operates as an international exchange organization in Germany, rest of Europe, the United States, and the Asia-Pacific. The company operates through four segments: Investment Management Solutions; Trading & Clearing; Fund Services; and Securities Services. Its Investment Management Solutions segment offers financial data, analytics, and software-as-a-service solutions including research, data collection, data analysis, and the provision of indices, analytics and investment management software to institutional investors, banks, and corporate clients. The Trading & Clearing segment engages in the development and operation of markets and trading systems for securities, derivatives, commodities, currencies, digital assets, and other asset classes. This segment handles settlement of transactions through clearing houses. Its Fund Services segment provides infrastructure and services for fund processing, including order routing, settlement, custody, data and distribution support for investment funds. The Securities Services segment offers various services for securities issuance, settlement, custody as well as collateral, lending and liquidity management. The company was founded in 1585 and is headquartered in Eschborn, Germany.",
+    "Address": "The Cube, Eschborn, Germany, 65760",
+    "AddressData": {
+      "Street": "The Cube",
+      "City": "Eschborn",
+      "Country": "Germany",
+      "ZIP": "65760"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Stephan  Leithner Ph.D.",
+        "Title": "CEO, MD & Chairman of the Executive Board",
+        "YearBorn": "1966"
+      },
+      "1": {
+        "Name": "Dr. Jens  Schulte",
+        "Title": "CFO & Member of Executive Board",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Dr. Thomas  Book Ph.D.",
+        "Title": "Member of Executive Board",
+        "YearBorn": "1971"
+      },
+      "3": {
+        "Name": "Dr. Christoph  Bohm Ph.D.",
+        "Title": "Chief Information Officer, COO & Member of the Executive Board",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Heike  Eckert",
+        "Title": "Director of Labor Relations & Member of Executive Board",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Dr. Stephanie  Eckermann",
+        "Title": "Member of the Executive Board",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Christian Peter Kromann",
+        "Title": "Member of the Executive Board",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Mr. Jan  Strecker",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Marc Peter Klein",
+        "Title": "Managing Director Group Compliance",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Lee  Bartholomew",
+        "Title": "Head of Derivatives Product R&D Fixed Income for Eurex Product Development",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "49 69 2110",
+    "WebURL": "https://deutsche-boerse.com/dbg-de/",
+    "LogoURL": "/img/logos/XETRA/DB1.png",
+    "FullTimeEmployees": 15433,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 182105935,
+    "SharesFloat": 182095009,
+    "PercentInsiders": 0.002,
+    "PercentInstitutions": 62.529,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

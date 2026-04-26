@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.7371,
+        "totalAssets": 0.111,
+        "currentShares": 60064587,
+        "change": 821739,
+        "change_p": 1.3871
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.3983,
+        "totalAssets": 0.1095,
+        "currentShares": 48128653,
+        "change": -531799,
+        "change_p": -1.0929
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 4.1691,
+        "totalAssets": 0.7428,
+        "currentShares": 37169932,
+        "change": 5832705,
+        "change_p": 18.6127
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.1525,
+        "totalAssets": 0.1267,
+        "currentShares": 28106309,
+        "change": 432412,
+        "change_p": 1.5625
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.03,
+        "totalAssets": 0.6035,
+        "currentShares": 27013898,
+        "change": 2949378,
+        "change_p": 12.2561
+      },
+      "5": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6562,
+        "totalAssets": 0.1539,
+        "currentShares": 23681190,
+        "change": 2842034,
+        "change_p": 13.638
+      },
+      "6": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.1367,
+        "totalAssets": 1.2486,
+        "currentShares": 19049804,
+        "change": -310412,
+        "change_p": -1.6033
+      },
+      "7": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.0922,
+        "totalAssets": 0.7668,
+        "currentShares": 18652960,
+        "change": -853878,
+        "change_p": -4.3773
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.682,
+        "totalAssets": 0.1175,
+        "currentShares": 14995742,
+        "change": 146285,
+        "change_p": 0.9851
+      },
+      "9": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6334,
+        "totalAssets": 0.7343,
+        "currentShares": 14562986,
+        "change": 14485160,
+        "change_p": 18612.2376
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5098,
+        "totalAssets": 0.1836,
+        "currentShares": 13460378,
+        "change": 1956065,
+        "change_p": 17.0029
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4068,
+        "totalAssets": 0.2568,
+        "currentShares": 12542249,
+        "change": 1757971,
+        "change_p": 16.3012
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1911,
+        "totalAssets": 0.0936,
+        "currentShares": 10618907,
+        "change": 432008,
+        "change_p": 4.2408
+      },
+      "13": {
+        "name": "First Manhattan Co. LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9643,
+        "totalAssets": 2.8775,
+        "currentShares": 8597044,
+        "change": 67441,
+        "change_p": 0.7907
+      },
+      "14": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9479,
+        "totalAssets": 0.0329,
+        "currentShares": 8450614,
+        "change": 1984878,
+        "change_p": 30.6984
+      },
+      "15": {
+        "name": "Akre Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9092,
+        "totalAssets": 11.3298,
+        "currentShares": 8106049,
+        "change": -607215,
+        "change_p": -6.9689
+      },
+      "16": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.8738,
+        "totalAssets": 0.0613,
+        "currentShares": 7790654,
+        "change": 1004762,
+        "change_p": 14.8066
+      },
+      "17": {
+        "name": "Manufacturers Life Insurance Co",
+        "date": "2025-12-31",
+        "totalShares": 0.7893,
+        "totalAssets": 0.7372,
+        "currentShares": 7037057,
+        "change": 696763,
+        "change_p": 10.9894
+      },
+      "18": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7751,
+        "totalAssets": 1.229,
+        "currentShares": 6910360,
+        "change": -767810,
+        "change_p": -9.9999
+      },
+      "19": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.7365,
+        "totalAssets": 0.1139,
+        "currentShares": 6566669,
+        "change": -4130462,
+        "change_p": -38.6128
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.3827,
+        "totalAssets": 0.0984,
+        "currentShares": 21243379,
+        "change": 98722,
+        "change_p": 0.4669
+      },
+      "1": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.2546,
+        "totalAssets": 0.6068,
+        "currentShares": 20101020,
+        "change": 6345716,
+        "change_p": 46.1329
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.9606,
+        "totalAssets": 0.1136,
+        "currentShares": 17479444,
+        "change": -171636,
+        "change_p": -0.9724
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5429,
+        "totalAssets": 0.5219,
+        "currentShares": 13755304,
+        "change": -3128173,
+        "change_p": -18.528
+      },
+      "4": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 1.1667,
+        "totalAssets": 3.1614,
+        "currentShares": 10401420,
+        "change": 598994,
+        "change_p": 6.1107
+      },
+      "5": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.1147,
+        "totalAssets": 0.461,
+        "currentShares": 9938461,
+        "change": 593790,
+        "change_p": 6.3543
+      },
+      "6": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0958,
+        "totalAssets": 4.0696,
+        "currentShares": 9769801,
+        "change": -143198,
+        "change_p": -1.4445
+      },
+      "7": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0481,
+        "totalAssets": 0.5721,
+        "currentShares": 9344671,
+        "change": 1900477,
+        "change_p": 25.5297
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9896,
+        "totalAssets": 0.1133,
+        "currentShares": 8823051,
+        "change": -4800,
+        "change_p": -0.0544
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.9797,
+        "totalAssets": 0.1022,
+        "currentShares": 8734559,
+        "change": 14398,
+        "change_p": 0.1651
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8956,
+        "totalAssets": 0.1136,
+        "currentShares": 7985136,
+        "change": -19551,
+        "change_p": -0.2442
+      },
+      "11": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.853,
+        "totalAssets": 0.457,
+        "currentShares": 7604746,
+        "change": 3934989,
+        "change_p": 107.2275
+      },
+      "12": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.823,
+        "totalAssets": 1.704,
+        "currentShares": 7337746,
+        "change": -299868,
+        "change_p": -3.9262
+      },
+      "13": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7903,
+        "totalAssets": 1.1042,
+        "currentShares": 7045893,
+        "change": -182942,
+        "change_p": -2.5307
+      },
+      "14": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.6931,
+        "totalAssets": 0.2533,
+        "currentShares": 6179266,
+        "change": -44610,
+        "change_p": -0.7168
+      },
+      "15": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6538,
+        "totalAssets": 0.4223,
+        "currentShares": 5828921,
+        "change": 369484,
+        "change_p": 6.7678
+      },
+      "16": {
+        "name": "Akre Focus ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6311,
+        "totalAssets": 7.9267,
+        "currentShares": 5626431,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5728,
+        "totalAssets": 1.4884,
+        "currentShares": 5107076,
+        "change": -172693,
+        "change_p": -3.2708
+      },
+      "18": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5263,
+        "totalAssets": 0.8993,
+        "currentShares": 4692299,
+        "change": 7953,
+        "change_p": 0.1698
+      },
+      "19": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.4719,
+        "totalAssets": 0.4447,
+        "currentShares": 4207318,
+        "change": 2211144,
+        "change_p": 110.7691
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 43.5171,
+    "ForwardPE": 16.129,
+    "PriceSalesTTM": 3.6765,
+    "PriceBookMRQ": 3.2013,
+    "EnterpriseValue": 15154744536,
+    "EnterpriseValueRevenue": 0.789,
+    "EnterpriseValueEbitda": 1.49
+  },
+  "Highlights": {
+    "MarketCapitalization": 94306746368,
+    "MarketCapitalizationMln": 94306.7464,
+    "EBITDA": null,
+    "PERatio": 43.5171,
+    "PEGRatio": 0.5344,
+    "WallStreetTargetPrice": 122.6068,
+    "BookValue": 31.812,
+    "DividendShare": 0.74,
+    "DividendYield": 0.0073,
+    "EarningsShare": 2.34,
+    "EPSEstimateCurrentYear": 6.1329,
+    "EPSEstimateNextYear": 7.6458,
+    "EPSEstimateNextQuarter": 1.4794,
+    "EPSEstimateCurrentQuarter": 1.1386,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0924,
+    "OperatingMarginTTM": 0.3303,
+    "ReturnOnAssetsTTM": 0.016,
+    "ReturnOnEquityTTM": 0.0856,
+    "RevenueTTM": 25651109888,
+    "RevenuePerShareTTM": 28.81,
+    "QuarterlyRevenueGrowthYOY": 0.763,
+    "GrossProfitTTM": 14610636800,
+    "DilutedEpsTTM": 2.34,
+    "QuarterlyEarningsGrowthYOY": -0.022
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "KKR",
+    "Type": "Common Stock",
+    "Name": "KKR & Co LP",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCQ6J8",
+    "ISIN": "US48251W1045",
+    "LEI": "549300JOHU21WRN2Z451",
+    "PrimaryTicker": "KKR.US",
+    "CUSIP": "48251W104",
+    "CIK": "0001404912",
+    "EmployerIdNumber": "26-0426107",
+    "FiscalYearEnd": "December",
+    "IPODate": "2010-07-15",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Asset Management & Custody Banks",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "KKR & Co. Inc. is a private equity and real estate investment firm specializing in direct and fund of fund investments. It specializes in acquisitions, leveraged buyouts, management buyouts, credit special situations, growth equity, mature, mezzanine, distressed, turnaround, lower middle market, and middle market investments. The firm considers investments in all industries with a focus on software, cybersecurity, fintech, data and information, security, semiconductors, consumer electronics, internet of things (iot), internet, information services, information technology infrastructure, financial technology, network and cyber security architecture, engineering and operations, content, technology and hardware, energy and infrastructure, real estate, services industry with a focus on business services, intelligence, industry-leading franchises and companies in natural resource, containers and packaging, agriculture, airports, ports, forestry, electric utilities, textiles, apparel and luxury goods, household durables, digital media, insurance, brokerage houses, non-durable goods distribution, supermarket retailing, grocery stores, food, beverage, and tobacco, hospitals, entertainment venues and production companies, publishing, printing services, capital goods, financial services, specialized finance, pipelines, and renewable energy. In energy and infrastructure, it focuses on the upstream oil and gas and equipment, minerals and royalties and services verticals. In real estate, the firm seeks to invest in private and public real estate securities including property-level equity, debt and special situations transactions and businesses with significant real estate holdings, and oil and natural gas properties. The firm also invests in asset services sector that encompasses a broad array of B2B, B2C and B2G services verticals including asset-based, transport, logistics, leisure/hospitality, resource and utility support, infra-like, mission-critical, and environmental services. Within Americas, the firm prefers to invest",
+    "Address": "30 Hudson Yards, New York, NY, United States, 10001",
+    "AddressData": {
+      "Street": "30 Hudson Yards",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10001"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. George R. Roberts J.D.",
+        "Title": "Co-Founder & Co-Executive Chairman",
+        "YearBorn": "1943"
+      },
+      "1": {
+        "Name": "Mr. Henry Robert Kravis",
+        "Title": "Co-Founder & Executive Co-Chairman",
+        "YearBorn": "1944"
+      },
+      "2": {
+        "Name": "Mr. Joseph Y. Bae",
+        "Title": "Co-CEO & Director",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Scott C. Nuttall",
+        "Title": "Co-CEO & Director",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. Robert Howard Lewin",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1980"
+      },
+      "5": {
+        "Name": "Ms. Kathryn King Sudol J.D.",
+        "Title": "Partner, Chief Legal Officer & General Counsel",
+        "YearBorn": "1975"
+      },
+      "6": {
+        "Name": "Mr. Andre  Schumacher",
+        "Title": "Principal",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Carla  King",
+        "Title": "Director, Corporate Counsel & COO",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Anusha  Sriram",
+        "Title": "Director & Head of Technology Strategy",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Ruchir  Swarup",
+        "Title": "Partner & Chief Information Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "212 750 8300",
+    "WebURL": "https://www.kkr.com",
+    "LogoURL": "/img/logos/US/KKR.png",
+    "FullTimeEmployees": 5043,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 891550894,
+    "SharesFloat": 684042423,
+    "PercentInsiders": 23.233999999999998,
+    "PercentInstitutions": 62.559,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0195
+  }
+}

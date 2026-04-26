@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 13.1976,
+        "totalAssets": 0.575,
+        "currentShares": 110220971,
+        "change": 19190520,
+        "change_p": 21.0814
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0966,
+        "totalAssets": 0.0414,
+        "currentShares": 101025255,
+        "change": -3551883,
+        "change_p": -3.3964
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.8116,
+        "totalAssets": 0.0353,
+        "currentShares": 81942267,
+        "change": -1039447,
+        "change_p": -1.2526
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.9826,
+        "totalAssets": 0.0426,
+        "currentShares": 49963797,
+        "change": -2043595,
+        "change_p": -3.9294
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7235,
+        "totalAssets": 0.1366,
+        "currentShares": 31097164,
+        "change": 443064,
+        "change_p": 1.4454
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6687,
+        "totalAssets": 0.0387,
+        "currentShares": 22288010,
+        "change": -149190,
+        "change_p": -0.6649
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6598,
+        "totalAssets": 0.0207,
+        "currentShares": 13862323,
+        "change": -1815273,
+        "change_p": -11.5788
+      },
+      "7": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.5551,
+        "totalAssets": 0.0499,
+        "currentShares": 12987123,
+        "change": -752498,
+        "change_p": -5.4768
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3967,
+        "totalAssets": 0.0452,
+        "currentShares": 11664898,
+        "change": -238935,
+        "change_p": -2.0072
+      },
+      "9": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2371,
+        "totalAssets": 0.0172,
+        "currentShares": 10331474,
+        "change": -328772,
+        "change_p": -3.0841
+      },
+      "10": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2162,
+        "totalAssets": 0.9559,
+        "currentShares": 10156923,
+        "change": -699373,
+        "change_p": -6.4421
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0938,
+        "totalAssets": 0.0542,
+        "currentShares": 9135287,
+        "change": 770764,
+        "change_p": 9.2147
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0775,
+        "totalAssets": 0.0283,
+        "currentShares": 8998585,
+        "change": -65699,
+        "change_p": -0.7248
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0305,
+        "totalAssets": 0.0298,
+        "currentShares": 8606671,
+        "change": 1186372,
+        "change_p": 15.9882
+      },
+      "14": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0297,
+        "totalAssets": 0.0063,
+        "currentShares": 8599230,
+        "change": 4587702,
+        "change_p": 114.363
+      },
+      "15": {
+        "name": "Brandes Investment Partners & Co",
+        "date": "2025-12-31",
+        "totalShares": 0.9039,
+        "totalAssets": 1.6236,
+        "currentShares": 7548930,
+        "change": 102005,
+        "change_p": 1.3698
+      },
+      "16": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 0.7281,
+        "totalAssets": 0.3747,
+        "currentShares": 6080922,
+        "change": 31200,
+        "change_p": 0.5157
+      },
+      "17": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.7173,
+        "totalAssets": 0.0181,
+        "currentShares": 5990925,
+        "change": 623945,
+        "change_p": 11.6256
+      },
+      "18": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7117,
+        "totalAssets": 0.0881,
+        "currentShares": 5943779,
+        "change": 1020524,
+        "change_p": 20.7286
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.71,
+        "totalAssets": 0.0262,
+        "currentShares": 5929285,
+        "change": 96394,
+        "change_p": 1.6526
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.5109,
+        "totalAssets": 0.3169,
+        "currentShares": 37673468,
+        "change": 2241147,
+        "change_p": 6.3251
+      },
+      "1": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.6766,
+        "totalAssets": 0.4932,
+        "currentShares": 30705799,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8679,
+        "totalAssets": 0.0468,
+        "currentShares": 23951591,
+        "change": 21805,
+        "change_p": 0.0911
+      },
+      "3": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.7495,
+        "totalAssets": 0.5396,
+        "currentShares": 22962241,
+        "change": -7743558,
+        "change_p": -25.2186
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5535,
+        "totalAssets": 0.0584,
+        "currentShares": 21325627,
+        "change": -314624,
+        "change_p": -1.4539
+      },
+      "5": {
+        "name": "State Street®EngySelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.3235,
+        "totalAssets": 1.7272,
+        "currentShares": 19404729,
+        "change": 198560,
+        "change_p": 1.0338
+      },
+      "6": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9498,
+        "totalAssets": 0.3195,
+        "currentShares": 16284211,
+        "change": -178870,
+        "change_p": -1.0865
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4722,
+        "totalAssets": 0.1565,
+        "currentShares": 12295363,
+        "change": -25378105,
+        "change_p": -67.3633
+      },
+      "8": {
+        "name": "Capital Group Dividend Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4558,
+        "totalAssets": 1.6261,
+        "currentShares": 12158030,
+        "change": -6479651,
+        "change_p": -34.7664
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.289,
+        "totalAssets": 0.0583,
+        "currentShares": 10765542,
+        "change": -5856,
+        "change_p": -0.0544
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2825,
+        "totalAssets": 0.0515,
+        "currentShares": 10710780,
+        "change": 17671,
+        "change_p": 0.1653
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1723,
+        "totalAssets": 0.0587,
+        "currentShares": 9790633,
+        "change": -23863,
+        "change_p": -0.2431
+      },
+      "12": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0385,
+        "totalAssets": 0.2198,
+        "currentShares": 8672853,
+        "change": 8672853,
+        "change_p": 0
+      },
+      "13": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8445,
+        "totalAssets": 0.5915,
+        "currentShares": 7052607,
+        "change": -4365,
+        "change_p": -0.0619
+      },
+      "14": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8342,
+        "totalAssets": 0.1204,
+        "currentShares": 6966712,
+        "change": -82377,
+        "change_p": -1.1686
+      },
+      "15": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8292,
+        "totalAssets": 0.094,
+        "currentShares": 6924829,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.8292,
+        "totalAssets": 0.1354,
+        "currentShares": 6924829,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Capital Group Core Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.801,
+        "totalAssets": 0.4333,
+        "currentShares": 6689719,
+        "change": 5017716,
+        "change_p": 300.1021
+      },
+      "18": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5871,
+        "totalAssets": 0.5503,
+        "currentShares": 4903365,
+        "change": 175657,
+        "change_p": 3.7155
+      },
+      "19": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5786,
+        "totalAssets": 0.2209,
+        "currentShares": 4832471,
+        "change": 14279,
+        "change_p": 0.2964
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 22.2983,
+    "ForwardPE": 15.361,
+    "PriceSalesTTM": 1.5205,
+    "PriceBookMRQ": 3.0718,
+    "EnterpriseValue": 39784954964,
+    "EnterpriseValueRevenue": 1.7679,
+    "EnterpriseValueEbitda": 11.1626
+  },
+  "Highlights": {
+    "MarketCapitalization": 33706954752,
+    "MarketCapitalizationMln": 33706.9548,
+    "EBITDA": 4123000064,
+    "PERatio": 22.2983,
+    "PEGRatio": 1.0384,
+    "WallStreetTargetPrice": 41.32,
+    "BookValue": 12.879,
+    "DividendShare": 0.68,
+    "DividendYield": 0.0172,
+    "EarningsShare": 1.81,
+    "EPSEstimateCurrentYear": 2.3363,
+    "EPSEstimateNextYear": 2.845,
+    "EPSEstimateNextQuarter": 0.5125,
+    "EPSEstimateCurrentQuarter": 0.4975,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0695,
+    "OperatingMarginTTM": 0.1257,
+    "ReturnOnAssetsTTM": 0.0738,
+    "ReturnOnEquityTTM": 0.1463,
+    "RevenueTTM": 22168999936,
+    "RevenuePerShareTTM": 26.212,
+    "QuarterlyRevenueGrowthYOY": -0.003,
+    "GrossProfitTTM": 3391000064,
+    "DilutedEpsTTM": 1.81,
+    "QuarterlyEarningsGrowthYOY": 1.335
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.03,
+    "TotalEsgPercentile": 51.26,
+    "EnvironmentScore": 14.17,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.07,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 11.79,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "HAL",
+    "Type": "Common Stock",
+    "Name": "Halliburton Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKTFN2",
+    "ISIN": "US4062161017",
+    "LEI": "ENYF8GB5SMQZ25S06U51",
+    "PrimaryTicker": "HAL.US",
+    "CUSIP": "406216101",
+    "CIK": "0000045012",
+    "EmployerIdNumber": "75-2677995",
+    "FiscalYearEnd": "December",
+    "IPODate": "1972-06-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Energy",
+    "Industry": "Oil & Gas Equipment & Services",
+    "GicSector": "Energy",
+    "GicGroup": "Energy",
+    "GicIndustry": "Energy Equipment & Services",
+    "GicSubIndustry": "Oil & Gas Equipment & Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Halliburton Company provides products and services to the energy industry worldwide. It operates in two segments, Completion and Production, and Drilling and Evaluation. The Completion and Production segment offers production enhancement services that include stimulation and sand control services; cementing services, such as well bonding and casing, and casing equipment; and completion tools that offer downhole solutions and services, including well completion products and services, intelligent well completions, liner hanger systems, sand control systems, multilateral systems, and service tools. This segment also provides electrical submersible pumps, as well as artificial lift services; production solutions comprising coiled tubing, hydraulic workover units, downhole tools, and pumping and nitrogen services; pipeline and process services, such as pre-commissioning, commissioning, maintenance, and decommissioning; and specialty chemicals and services. The Drilling and Evaluation segment offers drilling fluid systems, performance additives, completion fluids, solids control, specialized testing equipment, and waste management services; drilling systems and services; wireline and perforating services consisting of open-hole logging, and cased-hole and slickline; and drill bits and services comprising roller cone bits, fixed cutter bits, hole enlargement, and related downhole tools and services, as well as coring equipment and services. This segment also provides cloud based digital services and artificial intelligence solutions on an open architecture for subsurface insights, integrated well construction, and reservoir and production management; testing and subsea services, such as acquisition and analysis of reservoir information and optimization solutions; and project management and integrated asset management services. Halliburton Company was founded in 1919 and is based in Houston, Texas.",
+    "Address": "3000 North Sam Houston Parkway East, Houston, TX, United States, 77032",
+    "AddressData": {
+      "Street": "3000 North Sam Houston Parkway East",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77032"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jeffrey Allen Miller CPA",
+        "Title": "Chairman of the Board, President & CEO",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Eric J. Carre",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Jeffrey Shannon Slocum",
+        "Title": "Executive VP, COO & Director",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Van H. Beckwith J.D.",
+        "Title": "Executive VP, Secretary & Chief Legal Officer",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Stephanie S. Holzhauser",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "5": {
+        "Name": "Mr. Lawrence J. Pope",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. David  Coleman",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Jill D. Sharp",
+        "Title": "Senior Vice President of Internal Assurance Services",
+        "YearBorn": "1971"
+      },
+      "8": {
+        "Name": "Ms. Summer  Condarco",
+        "Title": "Senior VP and Chief Health, Safety & Environment (HSE) Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Josh  Sears",
+        "Title": "Senior VP Halliburton Drilling & Evaluation Division",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "281 871 2699",
+    "WebURL": "https://www.halliburton.com",
+    "LogoURL": "/img/logos/US/hal.png",
+    "FullTimeEmployees": 46000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 835157457,
+    "SharesFloat": 831877560,
+    "PercentInsiders": 0.485,
+    "PercentInstitutions": 84.616,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0453
+  }
+}

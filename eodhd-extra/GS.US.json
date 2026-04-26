@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.8356,
+        "totalAssets": 0.3697,
+        "currentShares": 29014431,
+        "change": 418820,
+        "change_p": 1.4646
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8285,
+        "totalAssets": 0.322,
+        "currentShares": 23093715,
+        "change": 18525,
+        "change_p": 0.0803
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.4986,
+        "totalAssets": 0.5294,
+        "currentShares": 19170585,
+        "change": -284100,
+        "change_p": -1.4603
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.7448,
+        "totalAssets": 0.3339,
+        "currentShares": 13996826,
+        "change": 6969125,
+        "change_p": 99.1665
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.6074,
+        "totalAssets": 0.3709,
+        "currentShares": 7691556,
+        "change": -646753,
+        "change_p": -7.7564
+      },
+      "5": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2955,
+        "totalAssets": 2.0315,
+        "currentShares": 6771556,
+        "change": 110134,
+        "change_p": 1.6533
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2803,
+        "totalAssets": 0.3639,
+        "currentShares": 6726721,
+        "change": 45266,
+        "change_p": 0.6775
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.9754,
+        "totalAssets": 0.3147,
+        "currentShares": 5827425,
+        "change": 638231,
+        "change_p": 12.2992
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.373,
+        "totalAssets": 0.1815,
+        "currentShares": 4050198,
+        "change": 479967,
+        "change_p": 13.4436
+      },
+      "9": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.2671,
+        "totalAssets": 0.4468,
+        "currentShares": 3737815,
+        "change": -421752,
+        "change_p": -10.1393
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.13,
+        "totalAssets": 0.284,
+        "currentShares": 3333301,
+        "change": -20180,
+        "change_p": -0.6018
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1072,
+        "totalAssets": 0.3327,
+        "currentShares": 3266028,
+        "change": -66922,
+        "change_p": -2.0079
+      },
+      "12": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0316,
+        "totalAssets": 0.4348,
+        "currentShares": 3043297,
+        "change": -336603,
+        "change_p": -9.959
+      },
+      "13": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.9875,
+        "totalAssets": 0.3655,
+        "currentShares": 2913172,
+        "change": 97387,
+        "change_p": 3.4586
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9702,
+        "totalAssets": 0.2691,
+        "currentShares": 2862150,
+        "change": -158734,
+        "change_p": -5.2546
+      },
+      "15": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9362,
+        "totalAssets": 0.1944,
+        "currentShares": 2761854,
+        "change": 2614134,
+        "change_p": 1769.6548
+      },
+      "16": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8485,
+        "totalAssets": 0.3123,
+        "currentShares": 2503101,
+        "change": -328245,
+        "change_p": -11.5932
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7874,
+        "totalAssets": 0.4017,
+        "currentShares": 2322812,
+        "change": -190282,
+        "change_p": -7.5716
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6893,
+        "totalAssets": 0.3964,
+        "currentShares": 2033356,
+        "change": -76763,
+        "change_p": -3.6379
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6392,
+        "totalAssets": 0.2575,
+        "currentShares": 1885494,
+        "change": -1824,
+        "change_p": -0.0966
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.031,
+        "totalAssets": 0.3789,
+        "currentShares": 8941226,
+        "change": -60510,
+        "change_p": -0.6722
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4557,
+        "totalAssets": 0.4307,
+        "currentShares": 7244260,
+        "change": -76460,
+        "change_p": -1.0444
+      },
+      "2": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 1.8712,
+        "totalAssets": 11.2107,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.307,
+        "totalAssets": 0.4529,
+        "currentShares": 3855487,
+        "change": -2100,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2939,
+        "totalAssets": 0.438,
+        "currentShares": 3816971,
+        "change": 6290,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1785,
+        "totalAssets": 0.4523,
+        "currentShares": 3476414,
+        "change": -8526,
+        "change_p": -0.2447
+      },
+      "6": {
+        "name": "Long Corporate Disciplined Alpha CIT",
+        "date": "2025-12-31",
+        "totalShares": 1.1397,
+        "totalAssets": 0.6952,
+        "currentShares": 3362000,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 0.9608,
+        "totalAssets": 2.1412,
+        "currentShares": 2834258,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "LS Global Credit / Corporate GBP Hedged",
+        "date": "2025-12-31",
+        "totalShares": 0.9102,
+        "totalAssets": 0.2864,
+        "currentShares": 2685000,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8835,
+        "totalAssets": 0.9769,
+        "currentShares": 2606140,
+        "change": -51515,
+        "change_p": -1.9384
+      },
+      "10": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.695,
+        "totalAssets": 3.5936,
+        "currentShares": 2050108,
+        "change": 3465,
+        "change_p": 0.1693
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5434,
+        "totalAssets": 0.4297,
+        "currentShares": 1602908,
+        "change": -9165,
+        "change_p": -0.5685
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5427,
+        "totalAssets": 0.4483,
+        "currentShares": 1601050,
+        "change": 2200,
+        "change_p": 0.1376
+      },
+      "13": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5418,
+        "totalAssets": 1.1519,
+        "currentShares": 1598160,
+        "change": 16582,
+        "change_p": 1.0484
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4367,
+        "totalAssets": 0.4302,
+        "currentShares": 1288321,
+        "change": 7768,
+        "change_p": 0.6066
+      },
+      "15": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.42,
+        "totalAssets": 0.9101,
+        "currentShares": 1239100,
+        "change": -342100,
+        "change_p": -21.6355
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4033,
+        "totalAssets": 0.4511,
+        "currentShares": 1189825,
+        "change": -26142,
+        "change_p": -2.1499
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4033,
+        "totalAssets": 0.4511,
+        "currentShares": 1189825,
+        "change": 1189825,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4033,
+        "totalAssets": 0.4511,
+        "currentShares": 1189825,
+        "change": -26142,
+        "change_p": -2.1499
+      },
+      "19": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3966,
+        "totalAssets": 0.323,
+        "currentShares": 1169967,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 17.0075,
+    "ForwardPE": 15.8228,
+    "PriceSalesTTM": 4.4702,
+    "PriceBookMRQ": 2.2336,
+    "EnterpriseValue": 105298255872,
+    "EnterpriseValueRevenue": 11.0959,
+    "EnterpriseValueEbitda": 0
+  },
+  "Highlights": {
+    "MarketCapitalization": 275063242752,
+    "MarketCapitalizationMln": 275063.2428,
+    "EBITDA": null,
+    "PERatio": 17.0075,
+    "PEGRatio": 1.4386,
+    "WallStreetTargetPrice": 936.6,
+    "BookValue": 359.766,
+    "DividendShare": 15.5,
+    "DividendYield": 0.0166,
+    "EarningsShare": 54.5,
+    "EPSEstimateCurrentYear": 59.2344,
+    "EPSEstimateNextYear": 65.3586,
+    "EPSEstimateNextQuarter": 13.7574,
+    "EPSEstimateCurrentQuarter": 16.3924,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.2936,
+    "OperatingMarginTTM": 0.3835,
+    "ReturnOnAssetsTTM": 0.0094,
+    "ReturnOnEquityTTM": 0.1459,
+    "RevenueTTM": 61532999680,
+    "RevenuePerShareTTM": 199.491,
+    "QuarterlyRevenueGrowthYOY": 0.145,
+    "GrossProfitTTM": 50624000000,
+    "DilutedEpsTTM": 54.5,
+    "QuarterlyEarningsGrowthYOY": 0.243
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 36.08,
+    "TotalEsgPercentile": 68.34,
+    "EnvironmentScore": 7.25,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 19.67,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 22.16,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "GS",
+    "Type": "Common Stock",
+    "Name": "Goldman Sachs Group Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C6CFJ5",
+    "ISIN": "US38141G1040",
+    "LEI": "784F5XWPLTWKTBV3E584",
+    "PrimaryTicker": "GS.US",
+    "CUSIP": "38141G104",
+    "CIK": "0000886982",
+    "EmployerIdNumber": "13-4019460",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-05-03",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Capital Markets",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Investment Banking & Brokerage",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through three segments: Global Banking & Markets, Asset & Wealth Management, and Platform Solutions. The Global Banking & Markets segment provides financial advisory services, including strategic advisory assignments related to mergers and acquisitions, divestitures, corporate defense activities, restructurings, and spin-offs; equity and debt underwriting of public offerings and private placements; relationship lending and acquisition financing; secured lending through structured credit and asset-backed lending, such as warehouse, residential and commercial mortgage, corporate, consumer, auto, and student loans; financing through securities purchased under agreements to resell; and commodity financing through structured transactions. This segment also offers client execution activities for cash and derivative instruments; credit and interest rate products; and provision of mortgages, currencies, commodities, and equities related products. Its Asset & Wealth Management segment manages assets across various classes, including equity, fixed income, hedge funds, credit funds, private equity, real estate, currencies, commodities, and asset allocation strategies; and provides customized investment advisory solutions, wealth advisory services, personalized financial planning, and private banking services, as well as invests in corporate equity, credit, real estate, and infrastructure assets. The Platform Solutions segment offers credit cards; and transaction banking and other services, such as deposit-taking, payment solutions, and other cash management services for corporate and institutional clients. The Goldman Sachs Group, Inc. was founded in 1869 and is headquartered in New York, New York.",
+    "Address": "200 West Street, New York, NY, United States, 10282",
+    "AddressData": {
+      "Street": "200 West Street",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10282"
+    },
+    "Listings": {
+      "0": {
+        "Code": "GSGI34",
+        "Exchange": "SA",
+        "Name": "The Goldman Sachs Group Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. David M. Solomon",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. John E. Waldron",
+        "Title": "President, COO & Director",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Denis P. Coleman III",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1975"
+      },
+      "3": {
+        "Name": "Mr. John F. W. Rogers",
+        "Title": "Executive VP, Lead Director & Secretary to the Board of Directors",
+        "YearBorn": "1957"
+      },
+      "4": {
+        "Name": "Mr. J. D. Gardner",
+        "Title": "Director",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Sheara J. Fredman",
+        "Title": "Controller & Chief Accounting Officer",
+        "YearBorn": "1976"
+      },
+      "6": {
+        "Name": "Mr. Francois-Xavier  De Mallmann",
+        "Title": "Chair of Goldman Sachs EMEA & Chair of Investment Banking.",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Marco  Argenti",
+        "Title": "Partner & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Michael J. Richman J.D.",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Jacqueline Dupree Arthur",
+        "Title": "Global Head of Human Capital Management & Corporate and Workplace Solutions",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "212 902 1000",
+    "WebURL": "https://www.goldmansachs.com",
+    "LogoURL": "/img/logos/US/gs.png",
+    "FullTimeEmployees": 47400,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 294993942,
+    "SharesFloat": 302129100,
+    "PercentInsiders": 0.524,
+    "PercentInstitutions": 76.466,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.022
+  }
+}

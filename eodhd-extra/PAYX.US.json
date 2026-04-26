@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8196,
+        "totalAssets": 0.0689,
+        "currentShares": 42348625,
+        "change": 4583157,
+        "change_p": 12.1358
+      },
+      "1": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 8.4471,
+        "totalAssets": 0.5322,
+        "currentShares": 30265174,
+        "change": 11243295,
+        "change_p": 59.1072
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.8059,
+        "totalAssets": 0.0621,
+        "currentShares": 27967916,
+        "change": 598434,
+        "change_p": 2.1865
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8439,
+        "totalAssets": 0.0605,
+        "currentShares": 13772348,
+        "change": -293719,
+        "change_p": -2.0881
+      },
+      "4": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.2237,
+        "totalAssets": 0.2013,
+        "currentShares": 11550173,
+        "change": 263152,
+        "change_p": 2.3315
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7088,
+        "totalAssets": 0.0675,
+        "currentShares": 9705424,
+        "change": 78760,
+        "change_p": 0.8181
+      },
+      "6": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.4595,
+        "totalAssets": 0.2124,
+        "currentShares": 8812159,
+        "change": -159971,
+        "change_p": -1.783
+      },
+      "7": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 1.5954,
+        "totalAssets": 2.7642,
+        "currentShares": 5716237,
+        "change": 1358596,
+        "change_p": 31.1773
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5734,
+        "totalAssets": 0.0485,
+        "currentShares": 5637332,
+        "change": -167274,
+        "change_p": -2.8817
+      },
+      "9": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5585,
+        "totalAssets": 0.127,
+        "currentShares": 5584032,
+        "change": -3108354,
+        "change_p": -35.7595
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3575,
+        "totalAssets": 0.0373,
+        "currentShares": 4863630,
+        "change": 150577,
+        "change_p": 3.1949
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.235,
+        "totalAssets": 0.0718,
+        "currentShares": 4424853,
+        "change": -507356,
+        "change_p": -10.2866
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1978,
+        "totalAssets": 0.0857,
+        "currentShares": 4291672,
+        "change": -93174,
+        "change_p": -2.1249
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0186,
+        "totalAssets": 0.0502,
+        "currentShares": 3649579,
+        "change": 955870,
+        "change_p": 35.4853
+      },
+      "14": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9187,
+        "totalAssets": 0.0125,
+        "currentShares": 3291794,
+        "change": 748893,
+        "change_p": 29.4503
+      },
+      "15": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8044,
+        "totalAssets": 0.0678,
+        "currentShares": 2882215,
+        "change": 76824,
+        "change_p": 2.7384
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7625,
+        "totalAssets": 0.0752,
+        "currentShares": 2731878,
+        "change": -1071984,
+        "change_p": -28.1815
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7373,
+        "totalAssets": 0.0525,
+        "currentShares": 2641579,
+        "change": -193079,
+        "change_p": -6.8114
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6853,
+        "totalAssets": 0.0611,
+        "currentShares": 2455435,
+        "change": 33467,
+        "change_p": 1.3818
+      },
+      "19": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.6412,
+        "totalAssets": 0.0276,
+        "currentShares": 2297192,
+        "change": 219345,
+        "change_p": 10.5564
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 4.2171,
+        "totalAssets": 0.698,
+        "currentShares": 15109377,
+        "change": 1520157,
+        "change_p": 11.1865
+      },
+      "1": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.7928,
+        "totalAssets": 0.7322,
+        "currentShares": 13589220,
+        "change": 6119305,
+        "change_p": 81.9193
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8629,
+        "totalAssets": 0.0473,
+        "currentShares": 10257477,
+        "change": 21501,
+        "change_p": 0.2101
+      },
+      "3": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 2.4447,
+        "totalAssets": 0.5242,
+        "currentShares": 8758985,
+        "change": 3574070,
+        "change_p": 68.9321
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2958,
+        "totalAssets": 0.0533,
+        "currentShares": 8225587,
+        "change": -105803,
+        "change_p": -1.2699
+      },
+      "5": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.1027,
+        "totalAssets": 0.187,
+        "currentShares": 7533894,
+        "change": -25198,
+        "change_p": -0.3333
+      },
+      "6": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.0207,
+        "totalAssets": 0.8002,
+        "currentShares": 7239815,
+        "change": 12052,
+        "change_p": 0.1667
+      },
+      "7": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.9479,
+        "totalAssets": 0.3235,
+        "currentShares": 6979149,
+        "change": -60544,
+        "change_p": -0.86
+      },
+      "8": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.4471,
+        "totalAssets": 0.3596,
+        "currentShares": 5184915,
+        "change": 3527085,
+        "change_p": 212.7531
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1589,
+        "totalAssets": 0.0531,
+        "currentShares": 4152332,
+        "change": -2256,
+        "change_p": -0.0543
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1505,
+        "totalAssets": 0.0515,
+        "currentShares": 4122110,
+        "change": 6811,
+        "change_p": 0.1655
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0516,
+        "totalAssets": 0.0534,
+        "currentShares": 3767861,
+        "change": -9212,
+        "change_p": -0.2439
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8334,
+        "totalAssets": 0.1219,
+        "currentShares": 2985939,
+        "change": 1478428,
+        "change_p": 98.0708
+      },
+      "13": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 0.8276,
+        "totalAssets": 0.2253,
+        "currentShares": 2965238,
+        "change": 832988,
+        "change_p": 39.0662
+      },
+      "14": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7776,
+        "totalAssets": 0.1776,
+        "currentShares": 2785905,
+        "change": 351689,
+        "change_p": 14.4477
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6858,
+        "totalAssets": 0.7747,
+        "currentShares": 2457307,
+        "change": -232062,
+        "change_p": -8.6289
+      },
+      "16": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6157,
+        "totalAssets": 0.2219,
+        "currentShares": 2205867,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5156,
+        "totalAssets": 0.1995,
+        "currentShares": 1847281,
+        "change": 5502,
+        "change_p": 0.2987
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5077,
+        "totalAssets": 0.0531,
+        "currentShares": 1818975,
+        "change": -14240,
+        "change_p": -0.7768
+      },
+      "19": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5011,
+        "totalAssets": 0.5885,
+        "currentShares": 1795283,
+        "change": -12432,
+        "change_p": -0.6877
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 19.8278,
+    "ForwardPE": 15.1515,
+    "PriceSalesTTM": 8.1103,
+    "PriceBookMRQ": 8.1199,
+    "EnterpriseValue": 35819355626,
+    "EnterpriseValueRevenue": 5.6558,
+    "EnterpriseValueEbitda": 12.6601
+  },
+  "Highlights": {
+    "MarketCapitalization": 32181686272,
+    "MarketCapitalizationMln": 32181.6863,
+    "EBITDA": 1608000000,
+    "PERatio": 19.8278,
+    "PEGRatio": 1.7425,
+    "WallStreetTargetPrice": 100.9333,
+    "BookValue": 11.202,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 4.53,
+    "EPSEstimateCurrentYear": 5.4968,
+    "EPSEstimateNextYear": 5.9019,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.6715,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.2663,
+    "OperatingMarginTTM": 0.4438,
+    "ReturnOnAssetsTTM": 0.1085,
+    "ReturnOnEquityTTM": 0.4026,
+    "RevenueTTM": 3968000000,
+    "RevenuePerShareTTM": 10.88,
+    "QuarterlyRevenueGrowthYOY": 0.199,
+    "GrossProfitTTM": 2666400000,
+    "DilutedEpsTTM": 4.53,
+    "QuarterlyEarningsGrowthYOY": 0.091
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.65,
+    "TotalEsgPercentile": 16.06,
+    "EnvironmentScore": 7.61,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 16.2,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 13.33,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PAYX",
+    "Type": "Common Stock",
+    "Name": "Paychex Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQSQ38",
+    "ISIN": "US7043261079",
+    "LEI": "529900K900DW6SUBM174",
+    "PrimaryTicker": "PAYX.US",
+    "CUSIP": "704326107",
+    "CIK": "0000723531",
+    "EmployerIdNumber": "16-1124166",
+    "FiscalYearEnd": "May",
+    "IPODate": "1990-03-26",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Industrials",
+    "GicGroup": "Commercial & Professional Services",
+    "GicIndustry": "Professional Services",
+    "GicSubIndustry": "Human Resource & Employment Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Paychex, Inc., together with its subsidiaries, provides human capital management solutions (HCM) for payroll, employee benefits, human resources (HR), and insurance services for small to medium-sized businesses in the United States, Europe, and India. It offers payroll processing services; payroll tax administration services; employee payment services; and regulatory compliance services. The company provides retirement solutions, such as plan implementation, ongoing compliance with government regulations, employee and employer reporting, participant and employer online access, electronic funds transfer, and other administrative services; HCM solutions from recruiting and hiring to retirement; and talent management and talent acquisition services. In addition, it offers payroll solutions, including calculation, preparation, and delivery of employee payroll checks; production of internal accounting records and management reports; preparation of federal, state, and local payroll tax returns; and collection and remittance of clients' payroll obligations. Further, the company provides workforce management solutions; benefits administration solutions; digital marketplace for earned wages, financial wellness solutions, and voluntary lifestyle benefits; HR support to non-payroll clients through HR Partner Plus solution; and insurance services for property and casualty coverage, such as workers' compensation, business-owner policies, cyber security protection, and commercial auto, as well as health and benefits coverage, including health, dental, vision, and life. Additionally, it offers payroll, employer compliance, HR and employee benefits administration, risk management outsourcing, and both virtual and on-site availability of a professionally trained HR representative, and other solutions to businesses. It markets and sells its services primarily through its direct sales force. The company was founded in 1971 and is headquartered in Rochester, New York.",
+    "Address": "911 Panorama Trail South, Rochester, NY, United States, 14625-2396",
+    "AddressData": {
+      "Street": "911 Panorama Trail South",
+      "City": "Rochester",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "14625-2396"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John B. Gibson Jr.",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Robert Lewis Schrader",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Adam Brooks Ante",
+        "Title": "Senior Vice President of Paycor",
+        "YearBorn": "1981"
+      },
+      "3": {
+        "Name": "Ms. Elizabeth  Roaldsen",
+        "Title": "Senior Vice President of Operations & Customer Experience",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Dave  Wilson",
+        "Title": "Vice President of Platform & Technology Services",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Prabha Sipi Bhandari",
+        "Title": "Senior VP, Chief Legal Officer, Chief Ethics Officer & Secretary",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Mr. Jason Richard Rose",
+        "Title": "Senior Vice President of Digital Sales & Marketing",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Mr. Mason  Argiropoulos",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Mr. Thomas J. Hammond",
+        "Title": "Managing Director of Integration & Transformation",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Bradley J. Schaufenbuel J.D., L.L.M.",
+        "Title": "VP & Chief Information Security Officer",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "585 385 6666",
+    "WebURL": "https://www.paychex.com",
+    "LogoURL": "/img/logos/US/PAYX.png",
+    "FullTimeEmployees": 19000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 358290881,
+    "SharesFloat": 321053710,
+    "PercentInsiders": 10.376000000000001,
+    "PercentInstitutions": 84.89,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0645
+  }
+}

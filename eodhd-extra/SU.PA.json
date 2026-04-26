@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 34.6299,
+    "ForwardPE": 28.3286,
+    "PriceSalesTTM": 3.8624,
+    "PriceBookMRQ": 6.3815,
+    "EnterpriseValue": 167671037316,
+    "EnterpriseValueRevenue": 4.1759,
+    "EnterpriseValueEbitda": 20.0276
+  },
+  "Highlights": {
+    "MarketCapitalization": 155083685888,
+    "MarketCapitalizationMln": 155083.6859,
+    "EBITDA": 7927000064,
+    "PERatio": 34.6299,
+    "PEGRatio": 2.0096,
+    "WallStreetTargetPrice": 296.5,
+    "BookValue": 43.042,
+    "DividendShare": 4.2,
+    "DividendYield": 0.0153,
+    "EarningsShare": 7.97,
+    "EPSEstimateCurrentYear": 9.8499,
+    "EPSEstimateNextYear": 11.4367,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1037,
+    "OperatingMarginTTM": 0.1763,
+    "ReturnOnAssetsTTM": 0.0678,
+    "ReturnOnEquityTTM": 0.1561,
+    "RevenueTTM": 40151998464,
+    "RevenuePerShareTTM": 71.421,
+    "QuarterlyRevenueGrowthYOY": 0.042,
+    "GrossProfitTTM": 16894999552,
+    "DilutedEpsTTM": 7.97,
+    "QuarterlyEarningsGrowthYOY": -0.062
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.24,
+    "TotalEsgPercentile": 17.18,
+    "EnvironmentScore": 7.83,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 14.42,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 11,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SU",
+    "Type": "Common Stock",
+    "Name": "Schneider Electric S.E.",
+    "Exchange": "PA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "France",
+    "CountryISO": "FR",
+    "OpenFigi": null,
+    "ISIN": "FR0000121972",
+    "LEI": "969500A1YF1XUYYXS284",
+    "PrimaryTicker": "SU.PA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "Description": "Schneider Electric S.E. engages in the energy management and industrial automation businesses worldwide. The company offers inverters, mounting frames, solar panels, other solar equipment, wind farm microgrid, and others; building management systems; power metering systems for buildings; smart monitoring and regulation of electricity or heat in buildings, such as thermostats and controls for lighting systems; cooling systems; insulating products; UPS; transmission and distribution wiring devices for wiring electrical circuits; low voltage electrical products, equipment, and systems; medium voltage switchgears and control gears; demand response and load shifting equipment, systems, and services; communication, software and control equipment, products, systems, and services for energy; and variable speed drives. It also provides modernization and maintenance services for rail transport infrastructure, zero-emissions road transport, infrastructure required for operating urban transport, low-carbon port and airport infrastructure, and electrification and ports' operations; energy management equipment and projects; service plans related to building management and power metering systems in buildings; software and data-driven solutions for building design, planning, and construction; technical consultations, such as energy audits, simulations, and trainings; energy management services; energy performance contracts; leakage control technologies for water supply systems; real-time network modeling and optimization; leakage calculation, control, and reporting; electrical and electronic equipment; remote monitoring and predictive maintenance systems; lifecycle performance management software; product repairing, refurbishing, or remanufacturing services; spare parts; and software as a service. Schneider Electric S.E. was founded in 1836 and is headquartered in Rueil-Malmaison, France.",
+    "Address": "35 rue Joseph Monier, Rueil-Malmaison, France, 92500",
+    "AddressData": {
+      "Street": "35 rue Joseph Monier",
+      "City": "Rueil-Malmaison",
+      "Country": "France",
+      "ZIP": "92500"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Olivier  Blum",
+        "Title": "Chief Executive Officer",
+        "YearBorn": "1971"
+      },
+      "1": {
+        "Name": "Mr. Nathan  Fast",
+        "Title": "CFO & Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "2": {
+        "Name": "Mr. Ramesh  Jha",
+        "Title": "Senior Vice President for Global Services Strategy & Operations",
+        "YearBorn": "NA"
+      },
+      "3": {
+        "Name": "Ms. Jing  Ren",
+        "Title": "Executive Vice-President of Strategy, Innovation & Communications",
+        "YearBorn": "1981"
+      },
+      "4": {
+        "Name": "Ms. Charise  Le",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Carina  Ho",
+        "Title": "Senior Vice President of Strategy & Business Development - China Operations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Joszef  Spilko",
+        "Title": "President of Hungary Unit",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Christophe  Campagne",
+        "Title": "Senior Vice President of Global Projects Execution Transformation",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Robert  McKernan",
+        "Title": "Senior Vice President of ITD Europe & Global IT Channels",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Pierre  Lévêque",
+        "Title": "Senior Vice President of Internal Audit",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "33 1 41 29 70 00",
+    "WebURL": "https://www.se.com",
+    "LogoURL": "/img/logos/PA/SU.png",
+    "FullTimeEmployees": 156399,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 561852055,
+    "SharesFloat": 562222886,
+    "PercentInsiders": 3.479,
+    "PercentInstitutions": 50.622,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.5837,
+        "totalAssets": 0.0679,
+        "currentShares": 73506339,
+        "change": 1430781,
+        "change_p": 1.9851
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.6467,
+        "totalAssets": 0.0587,
+        "currentShares": 52201876,
+        "change": -1084068,
+        "change_p": -2.0344
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1891,
+        "totalAssets": 0.0625,
+        "currentShares": 28079891,
+        "change": -3808923,
+        "change_p": -11.9444
+      },
+      "3": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 3.0342,
+        "totalAssets": 0.4138,
+        "currentShares": 16418912,
+        "change": 6941609,
+        "change_p": 73.2446
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8449,
+        "totalAssets": 0.0603,
+        "currentShares": 15394985,
+        "change": 213188,
+        "change_p": 1.4042
+      },
+      "5": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.8104,
+        "totalAssets": 1.0087,
+        "currentShares": 15208270,
+        "change": -1026062,
+        "change_p": -6.3203
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.644,
+        "totalAssets": 0.1448,
+        "currentShares": 14307567,
+        "change": -4144979,
+        "change_p": -22.4629
+      },
+      "7": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.4718,
+        "totalAssets": 0.481,
+        "currentShares": 13375920,
+        "change": 1369832,
+        "change_p": 11.4095
+      },
+      "8": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.3883,
+        "totalAssets": 0.0249,
+        "currentShares": 12923850,
+        "change": 5120312,
+        "change_p": 65.6153
+      },
+      "9": {
+        "name": "Aristotle Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2979,
+        "totalAssets": 1.586,
+        "currentShares": 12434973,
+        "change": -687132,
+        "change_p": -5.2364
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1104,
+        "totalAssets": 0.0497,
+        "currentShares": 11419944,
+        "change": 1943831,
+        "change_p": 20.513
+      },
+      "11": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.9303,
+        "totalAssets": 0.4982,
+        "currentShares": 10445721,
+        "change": 699450,
+        "change_p": 7.1766
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.9273,
+        "totalAssets": 0.0711,
+        "currentShares": 10429442,
+        "change": 3703281,
+        "change_p": 55.0579
+      },
+      "13": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8777,
+        "totalAssets": 2.1561,
+        "currentShares": 10161017,
+        "change": -887040,
+        "change_p": -8.0289
+      },
+      "14": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.5535,
+        "totalAssets": 0.1171,
+        "currentShares": 8406673,
+        "change": -668433,
+        "change_p": -7.3656
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.4318,
+        "totalAssets": 0.0301,
+        "currentShares": 7748062,
+        "change": 208463,
+        "change_p": 2.7649
+      },
+      "16": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 1.1434,
+        "totalAssets": 0.2128,
+        "currentShares": 6187474,
+        "change": -24390,
+        "change_p": -0.3926
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.1398,
+        "totalAssets": 0.0621,
+        "currentShares": 6167620,
+        "change": -2701784,
+        "change_p": -30.4618
+      },
+      "18": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 1.1393,
+        "totalAssets": 0.3247,
+        "currentShares": 6165423,
+        "change": 520364,
+        "change_p": 9.218
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1022,
+        "totalAssets": 0.049,
+        "currentShares": 5964565,
+        "change": -134539,
+        "change_p": -2.2059
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1721,
+        "totalAssets": 0.0556,
+        "currentShares": 17165380,
+        "change": 75043,
+        "change_p": 0.4391
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5465,
+        "totalAssets": 0.0626,
+        "currentShares": 13780152,
+        "change": -120970,
+        "change_p": -0.8702
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1602,
+        "totalAssets": 0.3801,
+        "currentShares": 11689839,
+        "change": -56657,
+        "change_p": -0.4823
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.099,
+        "totalAssets": 0.1978,
+        "currentShares": 11358417,
+        "change": -38012,
+        "change_p": -0.3335
+      },
+      "4": {
+        "name": "iShares Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7494,
+        "totalAssets": 3.0235,
+        "currentShares": 9466614,
+        "change": -169312,
+        "change_p": -1.7571
+      },
+      "5": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 1.3688,
+        "totalAssets": 1.6287,
+        "currentShares": 7407298,
+        "change": -412020,
+        "change_p": -5.2693
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2861,
+        "totalAssets": 0.0624,
+        "currentShares": 6959371,
+        "change": -3792,
+        "change_p": -0.0545
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.271,
+        "totalAssets": 0.0685,
+        "currentShares": 6877866,
+        "change": 11339,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "VanEck Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1686,
+        "totalAssets": 0.9818,
+        "currentShares": 6323645,
+        "change": -121237,
+        "change_p": -1.8811
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1636,
+        "totalAssets": 0.0626,
+        "currentShares": 6296665,
+        "change": -15435,
+        "change_p": -0.2445
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.1432,
+        "currentShares": 5001328,
+        "change": -30850,
+        "change_p": -0.6131
+      },
+      "11": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8716,
+        "totalAssets": 1.1933,
+        "currentShares": 4716600,
+        "change": 228800,
+        "change_p": 5.0983
+      },
+      "12": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 0.8709,
+        "totalAssets": 1.3509,
+        "currentShares": 4712600,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8491,
+        "totalAssets": 0.244,
+        "currentShares": 4594852,
+        "change": -5947,
+        "change_p": -0.1293
+      },
+      "14": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.7812,
+        "totalAssets": 0.2251,
+        "currentShares": 4227400,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Pictet - Robotics I dy EUR",
+        "date": "2025-12-31",
+        "totalShares": 0.763,
+        "totalAssets": 2.2554,
+        "currentShares": 4128693,
+        "change": 27025,
+        "change_p": 0.6589
+      },
+      "16": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7606,
+        "totalAssets": 0.9101,
+        "currentShares": 4115928,
+        "change": -371406,
+        "change_p": -8.2768
+      },
+      "17": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7503,
+        "totalAssets": 0.3111,
+        "currentShares": 4060109,
+        "change": 10783,
+        "change_p": 0.2663
+      },
+      "18": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.7466,
+        "totalAssets": 1.7434,
+        "currentShares": 4040000,
+        "change": 69000,
+        "change_p": 1.7376
+      },
+      "19": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6793,
+        "totalAssets": 0.3691,
+        "currentShares": 3676000,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 0,
+    "ForwardPE": 35.461,
+    "PriceSalesTTM": 11.0692,
+    "PriceBookMRQ": 7.4765,
+    "EnterpriseValue": 54202417913,
+    "EnterpriseValueRevenue": 12.3965,
+    "EnterpriseValueEbitda": 61.7762
+  },
+  "Highlights": {
+    "MarketCapitalization": 48399159296,
+    "MarketCapitalizationMln": 48399.1593,
+    "EBITDA": 979900032,
+    "PERatio": null,
+    "PEGRatio": 1.1247,
+    "WallStreetTargetPrice": 87.0833,
+    "BookValue": 12.123,
+    "DividendShare": 1.82,
+    "DividendYield": 0.0201,
+    "EarningsShare": -0.3,
+    "EPSEstimateCurrentYear": 1.5688,
+    "EPSEstimateNextYear": 2.6606,
+    "EPSEstimateNextQuarter": 0.4862,
+    "EPSEstimateCurrentQuarter": 0.4282,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": -0.0157,
+    "OperatingMarginTTM": 0.132,
+    "ReturnOnAssetsTTM": 0.0116,
+    "ReturnOnEquityTTM": -0.0109,
+    "RevenueTTM": 4372400128,
+    "RevenuePerShareTTM": 8.103,
+    "QuarterlyRevenueGrowthYOY": 0.156,
+    "GrossProfitTTM": 2422599936,
+    "DilutedEpsTTM": -0.3,
+    "QuarterlyEarningsGrowthYOY": -0.816
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 36.55,
+    "TotalEsgPercentile": 73.42,
+    "EnvironmentScore": 18.35,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 12.44,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 10.76,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MCHP",
+    "Type": "Common Stock",
+    "Name": "Microchip Technology Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BHCP19",
+    "ISIN": "US5950171042",
+    "LEI": "5493007PTFULNYZJ1R12",
+    "PrimaryTicker": "MCHP.US",
+    "CUSIP": "595017104",
+    "CIK": "0000827054",
+    "EmployerIdNumber": "86-0629024",
+    "FiscalYearEnd": "March",
+    "IPODate": "1993-03-19",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Microchip Technology Incorporated develops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas, Europe, and Asia. It operates through two segments, Semiconductor Products and Technology Licensing. The company offers general purpose 8-bit, 16-bit, 32-bit, and 64-bit mixed-signal microcontrollers; 32-bit and 64-bit embedded mixed-signal microprocessors; and specialized mixed-signal microcontrollers for automotive, industrial, computing, communications, lighting, power supplies, motor control, human machine interface, security, wired connectivity, and wireless connectivity applications. It also provides analog products, including power management, linear, mixed-signal, high voltage, thermal management, discrete diodes and MOSFETS, radio frequency (RF), drivers, safety, security, timing, USB, ethernet, wireless, and other interface products; field-programmable gate array (FPGA) products; and application development tools that enable system designers to program mixed-signal microcontroller, FPGA, and microprocessor products. In addition, the company offers memory products that consist of serial electrically erasable programmable read only memory (EEPROMs), serial flash memories, parallel flash memories, serial static random-access memory (SRAM), and electrically erasable random-access memory (EERAMs) for production of footprint devices; and licenses its SuperFlash embedded flash and non-volatile memory technologies to foundries, integrated device manufacturers, and design partners for use in the manufacture of microcontroller products, gate array, RF, analog, and neuromorphic compute products, as well as provides engineering services. Further, it provides wafer foundry and assembly, and test subcontracting manufacturing services; and timing systems, application specific integrated circuits, and products for aerospace applications. The company was incorporated in 1989 and is headquartered in Chandler, Arizona.",
+    "Address": "2355 West Chandler Boulevard, Chandler, AZ, United States, 85224-6199",
+    "AddressData": {
+      "Street": "2355 West Chandler Boulevard",
+      "City": "Chandler",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85224-6199"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Stephen  Sanghi",
+        "Title": "CEO, President & Chair of the Board",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Mr. James Eric Bjornholt",
+        "Title": "Senior Corporate Vice President & CFO",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Richard J. Simoncic",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Mathew B. Bunker",
+        "Title": "Senior Corporate Vice President of Operations",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Joseph R. Krawczyk II",
+        "Title": "Senior Corporate Vice President of Worldwide Client Engagement",
+        "YearBorn": "1960"
+      },
+      "5": {
+        "Name": "Mr. Sajid  Daudi",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Lauren A. Carr",
+        "Title": "Senior Corporate Vice President of Global Human Resources",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Michael A. Finley",
+        "Title": "Senior Corporate Vice President of Operations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Patrick F. Johnson",
+        "Title": "Senior Corporate Vice President, FPGA & Timing Business Units",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. David  Sadler",
+        "Title": "VP of Finance & Corporate Controller",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "480 792 7200",
+    "WebURL": "https://www.microchip.com",
+    "LogoURL": "/img/logos/US/MCHP.png",
+    "FullTimeEmployees": 19400,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 541135458,
+    "SharesFloat": 529565982,
+    "PercentInsiders": 2.088,
+    "PercentInstitutions": 99.929,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0593
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 23.7202,
+    "ForwardPE": 20.4082,
+    "PriceSalesTTM": 3.055,
+    "PriceBookMRQ": 2.7022,
+    "EnterpriseValue": 187172068972,
+    "EnterpriseValueRevenue": 4.2466,
+    "EnterpriseValueEbitda": 11.1658
+  },
+  "Highlights": {
+    "MarketCapitalization": 134650068992,
+    "MarketCapitalizationMln": 134650.069,
+    "EBITDA": 14700000256,
+    "PERatio": 23.7202,
+    "PEGRatio": 3.4625,
+    "WallStreetTargetPrice": 19.1739,
+    "BookValue": 7.59,
+    "DividendShare": 0.68,
+    "DividendYield": 0.034,
+    "EarningsShare": 0.84,
+    "EPSEstimateCurrentYear": 0.9924,
+    "EPSEstimateNextYear": 1.0559,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.14,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1426,
+    "OperatingMarginTTM": 0.1806,
+    "ReturnOnAssetsTTM": 0.0391,
+    "ReturnOnEquityTTM": 0.1033,
+    "RevenueTTM": 44075999232,
+    "RevenuePerShareTTM": 6.546,
+    "QuarterlyRevenueGrowthYOY": 0.005,
+    "GrossProfitTTM": 24048001024,
+    "DilutedEpsTTM": 0.84,
+    "QuarterlyEarningsGrowthYOY": 5.598
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.8,
+    "TotalEsgPercentile": 16.28,
+    "EnvironmentScore": 7.8,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 6.89,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 11.61,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "IBE",
+    "Type": "Common Stock",
+    "Name": "Iberdrola S.A.",
+    "Exchange": "MC",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Spain",
+    "CountryISO": "ES",
+    "OpenFigi": null,
+    "ISIN": "ES0144580Y14",
+    "LEI": "5QK37QC7NWOJ8D7WVQ45",
+    "PrimaryTicker": "IBE.MC",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "Description": "Iberdrola, S.A. engages in the generation, production, transmission, distribution, and supply of electricity in Spain, the United Kingdom, the United States, Mexico, Brazil, Germany, France, and Australia. It generates electricity from renewable sources, such as onshore and offshore wind, photovoltaic, hydro, other energy sources, conventional nuclear, and combined cycle plants, as well as through batteries. The company is involved in the purchase and sale of electricity and gas on wholesale markets; energy retail supply activities, such as gas and electricity, and other products and services, including hydrogen, as well as non-renewable generation; and production of green hydrogen. It has a total installed capacity of 46,177 MW. In addition, the company offers heat pumps, self-consumption, solar, electric mobility, solar, etc. services to residential customers; and management of energy facilities, as well as supplies green H2, industrial heat, etc. to industrial customers. Iberdrola, S.A. was founded in 1840 and is headquartered in Bilbao, Spain.",
+    "Address": "Plaza Euskadi 5, Bilbao, Spain, 48009",
+    "AddressData": {
+      "Street": "Plaza Euskadi 5",
+      "City": "Bilbao",
+      "Country": "Spain",
+      "ZIP": "48009"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Jose Ignacio Sanchez Galan",
+        "Title": "Executive Chairman",
+        "YearBorn": "1950"
+      },
+      "1": {
+        "Name": "Mr. Pedro Azagra  Blazquez",
+        "Title": "Group CEO & Director",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Jose Sainz Armada",
+        "Title": "Director of Finance, Control & Resources and CFO",
+        "YearBorn": "1959"
+      },
+      "3": {
+        "Name": "Mr. Santiago Matias Martinez Garrido Ph.D.",
+        "Title": "Director of Legal Services & Secretary",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Ms. Maria Dolores Herrera Pereda",
+        "Title": "Director of Compliance",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. David Jose Mesonero Molina",
+        "Title": "Global Head of Corporate Development",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Dr. Agustín  Delgado Martin",
+        "Title": "Chief Innovation & Sustainability Officer",
+        "YearBorn": "1973"
+      },
+      "7": {
+        "Name": "Ms. Ainara  De Elejoste Echebarria",
+        "Title": "Second Deputy Secretary of the Board and Head of the Corporate Documentation & Corporate Affairs",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Ms. Katya Minerva Somohano Silva",
+        "Title": "CEO of Iberdrola Mexico",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "34 91 577 65 00",
+    "WebURL": "https://www.iberdrola.com",
+    "LogoURL": "/img/logos/MC/IBE.png",
+    "FullTimeEmployees": 40000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 6757845603,
+    "SharesFloat": 6321455276,
+    "PercentInsiders": 0.262,
+    "PercentInstitutions": 45.784000000000006,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

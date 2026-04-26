@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4641,
+        "totalAssets": 0.0232,
+        "currentShares": 18350100,
+        "change": -26659,
+        "change_p": -0.1451
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.5934,
+        "totalAssets": 0.0187,
+        "currentShares": 14123658,
+        "change": -948587,
+        "change_p": -6.2936
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.612,
+        "totalAssets": 0.0178,
+        "currentShares": 6789918,
+        "change": -174171,
+        "change_p": -2.501
+      },
+      "3": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 4.5862,
+        "totalAssets": 0.4282,
+        "currentShares": 6752000,
+        "change": 957345,
+        "change_p": 16.5212
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8004,
+        "totalAssets": 0.0223,
+        "currentShares": 4122761,
+        "change": -60170,
+        "change_p": -1.4385
+      },
+      "5": {
+        "name": "Point72 Asset Management, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 2.5792,
+        "totalAssets": 0.3705,
+        "currentShares": 3797143,
+        "change": 3797143,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.2001,
+        "totalAssets": 0.0387,
+        "currentShares": 3239099,
+        "change": 177756,
+        "change_p": 5.8065
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.1322,
+        "totalAssets": 0.0071,
+        "currentShares": 3139020,
+        "change": 1941939,
+        "change_p": 162.2229
+      },
+      "8": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.1161,
+        "totalAssets": 0.057,
+        "currentShares": 3115342,
+        "change": 784009,
+        "change_p": 33.6292
+      },
+      "9": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 2.0514,
+        "totalAssets": 0.2276,
+        "currentShares": 3020092,
+        "change": -417380,
+        "change_p": -12.1421
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.0329,
+        "totalAssets": 0.0154,
+        "currentShares": 2992902,
+        "change": 43594,
+        "change_p": 1.4781
+      },
+      "11": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.7613,
+        "totalAssets": 0.1277,
+        "currentShares": 2593058,
+        "change": 279782,
+        "change_p": 12.0946
+      },
+      "12": {
+        "name": "Edmond de Rothschild Holding S.A.",
+        "date": "2025-12-31",
+        "totalShares": 1.7567,
+        "totalAssets": 3.2042,
+        "currentShares": 2586253,
+        "change": 64948,
+        "change_p": 2.576
+      },
+      "13": {
+        "name": "Mackenzie Investments",
+        "date": "2025-09-30",
+        "totalShares": 1.5614,
+        "totalAssets": 0.211,
+        "currentShares": 2298755,
+        "change": -57316,
+        "change_p": -2.4327
+      },
+      "14": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5325,
+        "totalAssets": 0.0437,
+        "currentShares": 2256183,
+        "change": -470090,
+        "change_p": -17.243
+      },
+      "15": {
+        "name": "Bank of Nova Scotia",
+        "date": "2025-09-30",
+        "totalShares": 1.5075,
+        "totalAssets": 0.2971,
+        "currentShares": 2219353,
+        "change": -116137,
+        "change_p": -4.9727
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5022,
+        "totalAssets": 0.0206,
+        "currentShares": 2211563,
+        "change": -1133683,
+        "change_p": -33.8894
+      },
+      "17": {
+        "name": "Alyeska Investment Group, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.4924,
+        "totalAssets": 0.5415,
+        "currentShares": 2197218,
+        "change": 563178,
+        "change_p": 34.4654
+      },
+      "18": {
+        "name": "Earnest Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.464,
+        "totalAssets": 0.8059,
+        "currentShares": 2155408,
+        "change": -34165,
+        "change_p": -1.5603
+      },
+      "19": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3915,
+        "totalAssets": 0.2521,
+        "currentShares": 2048557,
+        "change": 1392485,
+        "change_p": 212.2458
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1279,
+        "totalAssets": 0.0265,
+        "currentShares": 4604944,
+        "change": 57947,
+        "change_p": 1.2744
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4875,
+        "totalAssets": 0.0296,
+        "currentShares": 3662139,
+        "change": -39995,
+        "change_p": -1.0803
+      },
+      "2": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.449,
+        "totalAssets": 0.1352,
+        "currentShares": 3605562,
+        "change": 3605562,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.2725,
+        "totalAssets": 0.2313,
+        "currentShares": 3345676,
+        "change": 78506,
+        "change_p": 2.4029
+      },
+      "4": {
+        "name": "First Trust NASDAQ Cybersecurity ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.063,
+        "totalAssets": 3.6766,
+        "currentShares": 3037197,
+        "change": 13039,
+        "change_p": 0.4312
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4459,
+        "totalAssets": 0.4025,
+        "currentShares": 2128743,
+        "change": 30489,
+        "change_p": 1.4531
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2562,
+        "totalAssets": 0.0295,
+        "currentShares": 1849410,
+        "change": -1008,
+        "change_p": -0.0545
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2436,
+        "totalAssets": 0.0241,
+        "currentShares": 1830873,
+        "change": 3027,
+        "change_p": 0.1656
+      },
+      "8": {
+        "name": "EdRF Big Data N EUR",
+        "date": "2026-02-28",
+        "totalShares": 1.2173,
+        "totalAssets": 5.8243,
+        "currentShares": 1792171,
+        "change": 128426,
+        "change_p": 7.7191
+      },
+      "9": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2114,
+        "totalAssets": 0.1683,
+        "currentShares": 1783513,
+        "change": -1899,
+        "change_p": -0.1064
+      },
+      "10": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 1.1921,
+        "totalAssets": 1.3463,
+        "currentShares": 1755000,
+        "change": -95000,
+        "change_p": -5.1351
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1284,
+        "totalAssets": 0.0294,
+        "currentShares": 1661335,
+        "change": -4116,
+        "change_p": -0.2471
+      },
+      "12": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1078,
+        "totalAssets": 0.2196,
+        "currentShares": 1630888,
+        "change": 4847,
+        "change_p": 0.2981
+      },
+      "13": {
+        "name": "L&G Cyber Security ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0101,
+        "totalAssets": 6.7608,
+        "currentShares": 1487101,
+        "change": -3729,
+        "change_p": -0.2501
+      },
+      "14": {
+        "name": "BNY Mellon Dynamic Value Fund A",
+        "date": "2026-03-31",
+        "totalShares": 0.9802,
+        "totalAssets": 1.5125,
+        "currentShares": 1443032,
+        "change": 243143,
+        "change_p": 20.2638
+      },
+      "15": {
+        "name": "Fidelity Global Technology A-Dis-EUR",
+        "date": "2026-02-28",
+        "totalShares": 0.8538,
+        "totalAssets": 0.3701,
+        "currentShares": 1257013,
+        "change": -660,
+        "change_p": -0.0525
+      },
+      "16": {
+        "name": "Champlain Mid Cap Fund, LLC",
+        "date": "2026-03-31",
+        "totalShares": 0.7353,
+        "totalAssets": 2.1577,
+        "currentShares": 1082510,
+        "change": 21045,
+        "change_p": 1.9826
+      },
+      "17": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7332,
+        "totalAssets": 0.147,
+        "currentShares": 1079441,
+        "change": 2855,
+        "change_p": 0.2652
+      },
+      "18": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 0.6792,
+        "totalAssets": 0.0752,
+        "currentShares": 1000000,
+        "change": 1000000,
+        "change_p": 0
+      },
+      "19": {
+        "name": "DFA US Targeted Value I",
+        "date": "2026-02-28",
+        "totalShares": 0.6507,
+        "totalAssets": 0.6174,
+        "currentShares": 957971,
+        "change": 94263,
+        "change_p": 10.9138
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 31.0261,
+    "ForwardPE": 13.9665,
+    "PriceSalesTTM": 3.3323,
+    "PriceBookMRQ": 2.8449,
+    "EnterpriseValue": 18648767756,
+    "EnterpriseValueRevenue": 4.4316,
+    "EnterpriseValueEbitda": 13.8986
+  },
+  "Highlights": {
+    "MarketCapitalization": 14022994944,
+    "MarketCapitalizationMln": 14022.9949,
+    "EBITDA": 1180878976,
+    "PERatio": 31.0261,
+    "PEGRatio": 1.1079,
+    "WallStreetTargetPrice": 111.6317,
+    "BookValue": 34.395,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 3.07,
+    "EPSEstimateCurrentYear": 6.8558,
+    "EPSEstimateNextYear": 7.5954,
+    "EPSEstimateNextQuarter": 1.7637,
+    "EPSEstimateCurrentQuarter": 1.7504,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1074,
+    "OperatingMarginTTM": 0.1382,
+    "ReturnOnAssetsTTM": 0.0359,
+    "ReturnOnEquityTTM": 0.0917,
+    "RevenueTTM": 4208175104,
+    "RevenuePerShareTTM": 28.942,
+    "QuarterlyRevenueGrowthYOY": 0.074,
+    "GrossProfitTTM": 2480662016,
+    "DilutedEpsTTM": 3.07,
+    "QuarterlyEarningsGrowthYOY": -0.374
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 19.16,
+    "TotalEsgPercentile": 25.06,
+    "EnvironmentScore": 2.02,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 8.8,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 6.34,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AKAM",
+    "Type": "Common Stock",
+    "Name": "Akamai Technologies Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJQWD2",
+    "ISIN": "US00971T1016",
+    "LEI": "OC1LZNN2LF5WTJ5RIL89",
+    "PrimaryTicker": "AKAM.US",
+    "CUSIP": "00971T101",
+    "CIK": "0001086222",
+    "EmployerIdNumber": "04-3432319",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-10-29",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "IT Services",
+    "GicSubIndustry": "Internet Services & Infrastructure",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Akamai Technologies, Inc. engages in the provision of security, delivery, and cloud computing solutions in the United States and internationally. It offers security solutions that include web application and application programming interfaces (API) protection solutions, which protect web, API, and mobile app traffic from attacks; Bot & Abuse portfolio, which provides solutions to help customers protect against threats; full account lifecycle protections including the ability to defend against account takeover and opening abuse, adversarial bot protection, protection against credential stuffing, inventory scalping, and hoarding; and solutions designed to stop persistent scrapers from stealing content; API security, which discovers, audits, and monitors API; and microservice and application component protection that analyzes and protects application traffic that moves between application components. The company also offers cloud computing services, which include compute, storage, and cloud native and networking services; and Akamai App Platform, provides ready-to-run templates that address challenges in deploying, managing and scaling Kubernetes clusters at scale. In addition, it offers delivery solutions that include web and mobile performance solutions, which enables dynamic websites and applications, as well as global traffic management, site acceleration, application load balancing, large-scale load testing, and real-user monitoring; and media delivery solutions, including video streaming and video player services, game and software delivery, broadcast operations, authoritative domain name system, resolution, and data and analytics. Akamai Technologies, Inc. was incorporated in 1998 and is headquartered in Cambridge, Massachusetts.",
+    "Address": "145 Broadway, Cambridge, MA, United States, 02142",
+    "AddressData": {
+      "Street": "145 Broadway",
+      "City": "Cambridge",
+      "State": "MA",
+      "Country": "United States",
+      "ZIP": "02142"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. F. Thomson Leighton",
+        "Title": "Co-Founder, CEO, President & Director",
+        "YearBorn": "1957"
+      },
+      "1": {
+        "Name": "Mr. Edward J. McGowan CPA",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Adam  Karon",
+        "Title": "COO & GM of Cloud Technology Group",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Mr. Paul  Joseph",
+        "Title": "Executive Vice President of Global Sales & Services",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Mani  Sundaram",
+        "Title": "Executive VP & GM of Security Technology Group",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Ms. Laura  Howell",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1980"
+      },
+      "6": {
+        "Name": "Dr. Robert  Blumofe Ph.D.",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Ms. Kate  Prouty",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Mark  Stoutenberg",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Aaron S. Ahola",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "617 444 3000",
+    "WebURL": "https://www.akamai.com",
+    "LogoURL": "/img/logos/US/akam.png",
+    "FullTimeEmployees": 11000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 147223048,
+    "SharesFloat": 141636825,
+    "PercentInsiders": 2.081,
+    "PercentInstitutions": 100.761,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1337
+  }
+}

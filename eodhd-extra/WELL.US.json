@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.1182,
+        "totalAssets": 0.2487,
+        "currentShares": 92421471,
+        "change": 2643088,
+        "change_p": 2.944
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.8527,
+        "totalAssets": 0.2165,
+        "currentShares": 69415091,
+        "change": 2864201,
+        "change_p": 4.3038
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 6.7324,
+        "totalAssets": 1.3802,
+        "currentShares": 47431769,
+        "change": 915514,
+        "change_p": 1.9682
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.8555,
+        "totalAssets": 0.2548,
+        "currentShares": 41253954,
+        "change": 1637665,
+        "change_p": 4.1338
+      },
+      "4": {
+        "name": "Cohen & Steers Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.7648,
+        "totalAssets": 10.7864,
+        "currentShares": 33569335,
+        "change": -1605549,
+        "change_p": -4.5645
+      },
+      "5": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 4.1801,
+        "totalAssets": 0.5848,
+        "currentShares": 29450268,
+        "change": -2446916,
+        "change_p": -7.6713
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.9556,
+        "totalAssets": 0.1971,
+        "currentShares": 20823073,
+        "change": 929150,
+        "change_p": 4.6705
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.7506,
+        "totalAssets": 0.2341,
+        "currentShares": 19378590,
+        "change": 367463,
+        "change_p": 1.9329
+      },
+      "8": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.6478,
+        "totalAssets": 0.6068,
+        "currentShares": 18654487,
+        "change": -1363479,
+        "change_p": -6.8113
+      },
+      "9": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.414,
+        "totalAssets": 0.1947,
+        "currentShares": 17007371,
+        "change": 774692,
+        "change_p": 4.7724
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.2184,
+        "totalAssets": 0.0834,
+        "currentShares": 15629366,
+        "change": 7730975,
+        "change_p": 97.8804
+      },
+      "11": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.142,
+        "totalAssets": 0.2876,
+        "currentShares": 15091113,
+        "change": 2930034,
+        "change_p": 24.0935
+      },
+      "12": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.5251,
+        "totalAssets": 0.2712,
+        "currentShares": 10744520,
+        "change": 6497258,
+        "change_p": 152.9752
+      },
+      "13": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4455,
+        "totalAssets": 0.915,
+        "currentShares": 10184059,
+        "change": -249605,
+        "change_p": -2.3923
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3619,
+        "totalAssets": 0.1035,
+        "currentShares": 9594841,
+        "change": 782146,
+        "change_p": 8.8752
+      },
+      "15": {
+        "name": "Cardano",
+        "date": "2025-12-31",
+        "totalShares": 1.3503,
+        "totalAssets": 1.7854,
+        "currentShares": 9513540,
+        "change": 8612016,
+        "change_p": 955.2731
+      },
+      "16": {
+        "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank Frankfurt am Main",
+        "date": "2025-12-31",
+        "totalShares": 1.3091,
+        "totalAssets": 1.4785,
+        "currentShares": 9223095,
+        "change": 2043356,
+        "change_p": 28.46
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2925,
+        "totalAssets": 0.2075,
+        "currentShares": 9106068,
+        "change": 282881,
+        "change_p": 3.2061
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1931,
+        "totalAssets": 0.2424,
+        "currentShares": 8405589,
+        "change": 422037,
+        "change_p": 5.2863
+      },
+      "19": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1763,
+        "totalAssets": 0.3227,
+        "currentShares": 8287084,
+        "change": 878914,
+        "change_p": 11.8641
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.5887,
+        "totalAssets": 7.6926,
+        "currentShares": 25283558,
+        "change": -99893,
+        "change_p": -0.3935
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1461,
+        "totalAssets": 0.2195,
+        "currentShares": 22165462,
+        "change": 455950,
+        "change_p": 2.1002
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5224,
+        "totalAssets": 0.2469,
+        "currentShares": 17770964,
+        "change": 118517,
+        "change_p": 0.6714
+      },
+      "3": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.4047,
+        "totalAssets": 1.5103,
+        "currentShares": 16942119,
+        "change": -506320,
+        "change_p": -2.9018
+      },
+      "4": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.3988,
+        "totalAssets": 1.6757,
+        "currentShares": 16900404,
+        "change": -41715,
+        "change_p": -0.2462
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2731,
+        "totalAssets": 0.2463,
+        "currentShares": 8969232,
+        "change": -4884,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2397,
+        "totalAssets": 0.2415,
+        "currentShares": 8734380,
+        "change": 14394,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1485,
+        "totalAssets": 0.246,
+        "currentShares": 8091460,
+        "change": -19894,
+        "change_p": -0.2453
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.078,
+        "totalAssets": 0.4725,
+        "currentShares": 7595006,
+        "change": 39283,
+        "change_p": 0.5199
+      },
+      "9": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.0222,
+        "totalAssets": 0.8263,
+        "currentShares": 7201836,
+        "change": 616238,
+        "change_p": 9.3574
+      },
+      "10": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.9454,
+        "totalAssets": 1.1086,
+        "currentShares": 6660624,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.9386,
+        "totalAssets": 0.8493,
+        "currentShares": 6612573,
+        "change": -589263,
+        "change_p": -8.1821
+      },
+      "12": {
+        "name": "Cohen & Steers Real Estate Securities A",
+        "date": "2026-03-31",
+        "totalShares": 0.8726,
+        "totalAssets": 14.0119,
+        "currentShares": 6147730,
+        "change": 345576,
+        "change_p": 5.956
+      },
+      "13": {
+        "name": "Cohen & Steers Real Estate Opportunities",
+        "date": "2026-03-31",
+        "totalShares": 0.8726,
+        "totalAssets": 13.9727,
+        "currentShares": 6147730,
+        "change": 345576,
+        "change_p": 5.956
+      },
+      "14": {
+        "name": "Cohen & Steers Instl Realty Shares",
+        "date": "2026-03-31",
+        "totalShares": 0.8652,
+        "totalAssets": 14.6418,
+        "currentShares": 6095605,
+        "change": 742315,
+        "change_p": 13.8665
+      },
+      "15": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.8404,
+        "totalAssets": 0.3821,
+        "currentShares": 5921166,
+        "change": 1322879,
+        "change_p": 28.769
+      },
+      "16": {
+        "name": "Cohen & Steers Realty Shares L",
+        "date": "2026-03-31",
+        "totalShares": 0.7682,
+        "totalAssets": 14.6126,
+        "currentShares": 5411881,
+        "change": 546489,
+        "change_p": 11.2322
+      },
+      "17": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.6595,
+        "totalAssets": 0.3485,
+        "currentShares": 4646283,
+        "change": -1687425,
+        "change_p": -26.642
+      },
+      "18": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.6578,
+        "totalAssets": 10.0378,
+        "currentShares": 4634645,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6527,
+        "totalAssets": 0.254,
+        "currentShares": 4598287,
+        "change": 4062687,
+        "change_p": 758.5301
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 147.0071,
+    "ForwardPE": 89.2857,
+    "PriceSalesTTM": 13.5699,
+    "PriceBookMRQ": 3.4824,
+    "EnterpriseValue": 163058046029,
+    "EnterpriseValueRevenue": 15.286,
+    "EnterpriseValueEbitda": 70.5739
+  },
+  "Highlights": {
+    "MarketCapitalization": 147070746624,
+    "MarketCapitalizationMln": 147070.7466,
+    "EBITDA": 2664593920,
+    "PERatio": 147.0071,
+    "PEGRatio": 3.6218,
+    "WallStreetTargetPrice": 229.25,
+    "BookValue": 60.487,
+    "DividendShare": 2.89,
+    "DividendYield": 0.0139,
+    "EarningsShare": 1.42,
+    "EPSEstimateCurrentYear": 2.47,
+    "EPSEstimateNextYear": 3.29,
+    "EPSEstimateNextQuarter": 0.8046,
+    "EPSEstimateCurrentQuarter": 0.59,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0864,
+    "OperatingMarginTTM": -0.282,
+    "ReturnOnAssetsTTM": 0.0056,
+    "ReturnOnEquityTTM": 0.0254,
+    "RevenueTTM": 10838034432,
+    "RevenuePerShareTTM": 16.282,
+    "QuarterlyRevenueGrowthYOY": 0.413,
+    "GrossProfitTTM": 4359369216,
+    "DilutedEpsTTM": 1.42,
+    "QuarterlyEarningsGrowthYOY": -0.263
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 15.99,
+    "TotalEsgPercentile": 9.38,
+    "EnvironmentScore": 12.01,
+    "EnvironmentScorePercentile": 9,
+    "SocialScore": 10.5,
+    "SocialScorePercentile": 9,
+    "GovernanceScore": 9.98,
+    "GovernanceScorePercentile": 9,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "WELL",
+    "Type": "Common Stock",
+    "Name": "Welltower Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKY1G5",
+    "ISIN": "US95040Q1040",
+    "LEI": "T6IZ0MBEG5ACZDTR7D06",
+    "PrimaryTicker": "WELL.US",
+    "CUSIP": "42217K106",
+    "CIK": "0000766704",
+    "EmployerIdNumber": "34-1096634",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Healthcare Facilities",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Diversified REITs",
+    "GicSubIndustry": "Health Care REITs",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Welltower Inc. is a S&P 500 company, is positioned at the center of the silver economy, focusing on rental housing for aging seniors across the United States, United Kingdom and Canada. Our portfolio of 2,000+ seniors and wellness housing communities are positioned at the intersection of housing and hospitality, creating vibrant communities for mature renters and older adults. We believe our real estate portfolio is unmatched, located in highly attractive micro markets with stunning built environments. Yet, we are an unusual real estate organization as we view ourselves as an operating company in a real estate wrapper, driven by highly aligned partnerships and an unconventional culture. Through our disciplined approach to capital allocation powered by our Data Science platform and superior operating results driven by the Welltower Business System - our end-to-end operating platform - we aspire to deliver long-term compounding of per share growth for our existing investors, our North Star. Welltower Inc. was incorporated in 1970 in Delaware, USA.",
+    "Address": "4500 Dorr Street, Toledo, OH, United States, 43615-4040",
+    "AddressData": {
+      "Street": "4500 Dorr Street",
+      "City": "Toledo",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "43615-4040"
+    },
+    "Listings": {
+      "0": {
+        "Code": "HCW",
+        "Exchange": "F",
+        "Name": "Welltower Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Shankh S. Mitra",
+        "Title": "CEO & Director",
+        "YearBorn": "1981"
+      },
+      "1": {
+        "Name": "Mr. Timothy G. McHugh C.F.A.",
+        "Title": "Co-President & CFO",
+        "YearBorn": "1985"
+      },
+      "2": {
+        "Name": "Mr. Nikhil  Chaudhri",
+        "Title": "Co-President & Chief Investment Officer",
+        "YearBorn": "1988"
+      },
+      "3": {
+        "Name": "Mr. John F. Burkart",
+        "Title": "VC & COO",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Matthew Grant McQueen J.D.",
+        "Title": "Chief Legal Officer, General Counsel & Corporate Secretary",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Mr. Joshua T. Fieweger",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1982"
+      },
+      "6": {
+        "Name": "Mr. Jeff  Stott",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Tucker  Joseph",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. John  Olympitis",
+        "Title": "Executive VP & Head of Corporate Development",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Pam  Byrne",
+        "Title": "Senior VP & Head of Human Capital",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "419 247 2800",
+    "WebURL": "https://www.welltower.com",
+    "LogoURL": "/img/logos/US/WELL.png",
+    "FullTimeEmployees": 712,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 704530489,
+    "SharesFloat": 696803587,
+    "PercentInsiders": 0.068,
+    "PercentInstitutions": 99.206,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0276
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 12.332,
+        "totalAssets": 0.1965,
+        "currentShares": 56177669,
+        "change": 3728929,
+        "change_p": 7.1097
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.6006,
+        "totalAssets": 0.0171,
+        "currentShares": 52846173,
+        "change": 157974,
+        "change_p": 0.2998
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.7514,
+        "totalAssets": 0.0133,
+        "currentShares": 30755668,
+        "change": -1123986,
+        "change_p": -3.5257
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.5646,
+        "totalAssets": 0.0139,
+        "currentShares": 16238498,
+        "change": -60911,
+        "change_p": -0.3737
+      },
+      "4": {
+        "name": "Ariel Investments, LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1504,
+        "totalAssets": 3.4597,
+        "currentShares": 14351367,
+        "change": 2267075,
+        "change_p": 18.7605
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6792,
+        "totalAssets": 0.0168,
+        "currentShares": 12205008,
+        "change": 262086,
+        "change_p": 2.1945
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9559,
+        "totalAssets": 0.0346,
+        "currentShares": 8909922,
+        "change": -2093999,
+        "change_p": -19.0296
+      },
+      "7": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6202,
+        "totalAssets": 0.0202,
+        "currentShares": 7380531,
+        "change": -2546776,
+        "change_p": -25.6542
+      },
+      "8": {
+        "name": "Marshall Wace Asset Management Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.5394,
+        "totalAssets": 0.1425,
+        "currentShares": 7012647,
+        "change": 5236797,
+        "change_p": 294.8896
+      },
+      "9": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.5102,
+        "totalAssets": 0.0265,
+        "currentShares": 6879509,
+        "change": 3953480,
+        "change_p": 135.1142
+      },
+      "10": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4912,
+        "totalAssets": 0.0795,
+        "currentShares": 6793256,
+        "change": 6370241,
+        "change_p": 1505.9137
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4804,
+        "totalAssets": 0.0316,
+        "currentShares": 6743800,
+        "change": 137160,
+        "change_p": 2.0761
+      },
+      "12": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3372,
+        "totalAssets": 0.0102,
+        "currentShares": 6091661,
+        "change": 4331620,
+        "change_p": 246.109
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3026,
+        "totalAssets": 0.0089,
+        "currentShares": 5934153,
+        "change": -1375281,
+        "change_p": -18.8152
+      },
+      "14": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.2528,
+        "totalAssets": 0.0191,
+        "currentShares": 5706941,
+        "change": -2675691,
+        "change_p": -31.9195
+      },
+      "15": {
+        "name": "Patients Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1652,
+        "totalAssets": 4.5732,
+        "currentShares": 5308128,
+        "change": 743257,
+        "change_p": 16.2821
+      },
+      "16": {
+        "name": "Greenhouse Funds LLLP",
+        "date": "2025-12-31",
+        "totalShares": 1.1631,
+        "totalAssets": 4.2718,
+        "currentShares": 5298649,
+        "change": 223379,
+        "change_p": 4.4013
+      },
+      "17": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0139,
+        "totalAssets": 0.0034,
+        "currentShares": 4618976,
+        "change": 732286,
+        "change_p": 18.8409
+      },
+      "18": {
+        "name": "Balyasny Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9496,
+        "totalAssets": 0.1226,
+        "currentShares": 4325756,
+        "change": 1554695,
+        "change_p": 56.1047
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9359,
+        "totalAssets": 0.0134,
+        "currentShares": 4263654,
+        "change": 19089,
+        "change_p": 0.4497
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.3826,
+        "totalAssets": 0.2126,
+        "currentShares": 15409313,
+        "change": 2873923,
+        "change_p": 22.9265
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1816,
+        "totalAssets": 0.0136,
+        "currentShares": 14493767,
+        "change": 106833,
+        "change_p": 0.7426
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5449,
+        "totalAssets": 0.0152,
+        "currentShares": 11593313,
+        "change": -116512,
+        "change_p": -0.995
+      },
+      "3": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3075,
+        "totalAssets": 0.1183,
+        "currentShares": 10511563,
+        "change": 172550,
+        "change_p": 1.6689
+      },
+      "4": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.2879,
+        "totalAssets": 0.0692,
+        "currentShares": 10422439,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.8638,
+        "totalAssets": 0.1862,
+        "currentShares": 8490277,
+        "change": 25021,
+        "change_p": 0.2956
+      },
+      "6": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.7278,
+        "totalAssets": 0.0956,
+        "currentShares": 7870739,
+        "change": -7538574,
+        "change_p": -48.9222
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4418,
+        "totalAssets": 0.0401,
+        "currentShares": 6568234,
+        "change": -3854205,
+        "change_p": -36.9799
+      },
+      "8": {
+        "name": "American Funds IS® Growth 1",
+        "date": "2026-03-31",
+        "totalShares": 1.4013,
+        "totalAssets": 0.2404,
+        "currentShares": 6383458,
+        "change": 288508,
+        "change_p": 4.7336
+      },
+      "9": {
+        "name": "Capital Group Growth Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.3379,
+        "totalAssets": 0.2488,
+        "currentShares": 6094950,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Small Cap Growth Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.2909,
+        "totalAssets": 0.2789,
+        "currentShares": 5880722,
+        "change": 140011,
+        "change_p": 2.4389
+      },
+      "11": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2845,
+        "totalAssets": 0.0152,
+        "currentShares": 5851389,
+        "change": -3180,
+        "change_p": -0.0543
+      },
+      "12": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2718,
+        "totalAssets": 0.0192,
+        "currentShares": 5793731,
+        "change": 9556,
+        "change_p": 0.1652
+      },
+      "13": {
+        "name": "American Funds SMALLCAP World A",
+        "date": "2026-03-31",
+        "totalShares": 1.2201,
+        "totalAssets": 0.1285,
+        "currentShares": 5558251,
+        "change": 960151,
+        "change_p": 20.8815
+      },
+      "14": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1735,
+        "totalAssets": 0.0154,
+        "currentShares": 5345669,
+        "change": -12985,
+        "change_p": -0.2423
+      },
+      "15": {
+        "name": "Ariel Fund Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9687,
+        "totalAssets": 3.2236,
+        "currentShares": 4412725,
+        "change": 535741,
+        "change_p": 13.8185
+      },
+      "16": {
+        "name": "T. Rowe Price Mid-Cap Value",
+        "date": "2026-03-31",
+        "totalShares": 0.8883,
+        "totalAssets": 0.5119,
+        "currentShares": 4046600,
+        "change": 4046600,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Patient Opportunity C",
+        "date": "2026-03-31",
+        "totalShares": 0.8342,
+        "totalAssets": 3.7375,
+        "currentShares": 3800000,
+        "change": -200000,
+        "change_p": -5
+      },
+      "18": {
+        "name": "Columbia Cornerstone Growth",
+        "date": "2025-12-31",
+        "totalShares": 0.6493,
+        "totalAssets": 1.0232,
+        "currentShares": 2957995,
+        "change": 2957995,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Columbia Cornerstone Growth Inst",
+        "date": "2025-12-31",
+        "totalShares": 0.6493,
+        "totalAssets": 1.0232,
+        "currentShares": 2957995,
+        "change": 2957995,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.1196,
+    "ForwardPE": 7.6104,
+    "PriceSalesTTM": 0.858,
+    "PriceBookMRQ": 3.7971,
+    "EnterpriseValue": 22787433707,
+    "EnterpriseValueRevenue": 2.3187,
+    "EnterpriseValueEbitda": 8.9561
+  },
+  "Highlights": {
+    "MarketCapitalization": 8432149504,
+    "MarketCapitalizationMln": 8432.1495,
+    "EBITDA": 2546212096,
+    "PERatio": 20.1196,
+    "PEGRatio": 0.4436,
+    "WallStreetTargetPrice": 24.6591,
+    "BookValue": 4.854,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.92,
+    "EPSEstimateCurrentYear": 2.1545,
+    "EPSEstimateNextYear": 2.4974,
+    "EPSEstimateNextQuarter": 0.1418,
+    "EPSEstimateCurrentQuarter": 0.2654,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0431,
+    "OperatingMarginTTM": 0.0832,
+    "ReturnOnAssetsTTM": 0.0459,
+    "ReturnOnEquityTTM": 0.2329,
+    "RevenueTTM": 9827592192,
+    "RevenuePerShareTTM": 21.91,
+    "QuarterlyRevenueGrowthYOY": 0.064,
+    "GrossProfitTTM": 4188429056,
+    "DilutedEpsTTM": 0.92,
+    "QuarterlyEarningsGrowthYOY": -0.096
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.48,
+    "TotalEsgPercentile": 52.32,
+    "EnvironmentScore": 16.54,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 13.47,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 6.96,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NCLH",
+    "Type": "Common Stock",
+    "Name": "Norwegian Cruise Line Holdings Ltd",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BSRN78",
+    "ISIN": "USG667211043",
+    "LEI": null,
+    "PrimaryTicker": "NCLH.US",
+    "CUSIP": "G66721104",
+    "CIK": "0001513761",
+    "EmployerIdNumber": "98-0691007",
+    "FiscalYearEnd": "December",
+    "IPODate": "2013-01-18",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Norwegian Cruise Line Holdings Ltd., together with its subsidiaries, operates as a cruise company in North America, Europe, the Asia-Pacific, and internationally. It offers itineraries to destinations, such as Europe, Asia, Australia, New Zealand, South America, Africa, Canada, Bermuda, the Caribbean, and Alaska; and inter-island itinerary in Hawaii. The company also provides features, amenities, and activities, including various accommodations, dining venues, bars and lounges, spas, casino and retail shopping areas, and entertainment choices; shore excursions at each port of call, and air transportation and hotel packages for stays before or after a voyage. It offers its products and services under the Norwegian Cruise Line, Oceania Cruises, and Regent Seven Seas Cruises brands. The company was founded in 1966 and is based in Miami, Florida.",
+    "Address": "7665 Corporate Center Drive, Miami, FL, United States, 33126",
+    "AddressData": {
+      "Street": "7665 Corporate Center Drive",
+      "City": "Miami",
+      "State": "FL",
+      "Country": "United States",
+      "ZIP": "33126"
+    },
+    "Listings": {
+      "0": {
+        "Code": "1NC",
+        "Exchange": "F",
+        "Name": "Norwegian Cruise Line Holdings Ltd"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark A. Kempa",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. Daniel S. Farkas J.D.",
+        "Title": "Executive VP, General Counsel, Chief Development Officer & Secretary",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Captain Patrik  Dahlgren",
+        "Title": "Executive VP and Chief Vessel Operations & Newbuild Officer",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Mr. John W. Chidsey III, J.D.",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Ms. Faye L. Ashby",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Daniel P. Henry",
+        "Title": "Executive VP and Chief Digital & Technology Officer",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Ms. Sarah  Inmon",
+        "Title": "Head of Investor Relations & Corporate Communications",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Todd  Hamilton",
+        "Title": "Senior Vice President of Sales",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Kiran  Smith",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Jason M. Montague",
+        "Title": "Chief Luxury Officer",
+        "YearBorn": "1974"
+      }
+    },
+    "Phone": "305 436 4000",
+    "WebURL": "https://www.nclhltd.com",
+    "LogoURL": "/img/logos/US/NCLH.png",
+    "FullTimeEmployees": 44500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 455545641,
+    "SharesFloat": 453085695,
+    "PercentInsiders": 0.434,
+    "PercentInstitutions": 89.316,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.1531
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 13.3686,
+        "totalAssets": 0.6502,
+        "currentShares": 52353914,
+        "change": 2351781,
+        "change_p": 4.7034
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5384,
+        "totalAssets": 0.0519,
+        "currentShares": 45186586,
+        "change": -177607,
+        "change_p": -0.3915
+      },
+      "2": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 9.4384,
+        "totalAssets": 1.1582,
+        "currentShares": 36962508,
+        "change": 18594700,
+        "change_p": 101.2353
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6106,
+        "totalAssets": 0.0431,
+        "currentShares": 29804516,
+        "change": -2136267,
+        "change_p": -6.6882
+      },
+      "4": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 7.5109,
+        "totalAssets": 0.3169,
+        "currentShares": 29414221,
+        "change": -2373436,
+        "change_p": -7.4665
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.3728,
+        "totalAssets": 0.0618,
+        "currentShares": 24956962,
+        "change": 6721143,
+        "change_p": 36.8568
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.9734,
+        "totalAssets": 0.2848,
+        "currentShares": 19476801,
+        "change": 222125,
+        "change_p": 1.1536
+      },
+      "7": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9123,
+        "totalAssets": 0.0439,
+        "currentShares": 15321438,
+        "change": -1193280,
+        "change_p": -7.2256
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 3.6782,
+        "totalAssets": 0.2968,
+        "currentShares": 14404452,
+        "change": 1106989,
+        "change_p": 8.3248
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.5467,
+        "totalAssets": 0.1228,
+        "currentShares": 13889386,
+        "change": -5440462,
+        "change_p": -28.1454
+      },
+      "10": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4171,
+        "totalAssets": 0.0461,
+        "currentShares": 9465808,
+        "change": -47305,
+        "change_p": -0.4973
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8512,
+        "totalAssets": 0.0293,
+        "currentShares": 7249712,
+        "change": 764926,
+        "change_p": 11.7957
+      },
+      "12": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7689,
+        "totalAssets": 0.1873,
+        "currentShares": 6927262,
+        "change": -15449,
+        "change_p": -0.2225
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6393,
+        "totalAssets": 0.0321,
+        "currentShares": 6419905,
+        "change": 537392,
+        "change_p": 9.1354
+      },
+      "14": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.5449,
+        "totalAssets": 0.2282,
+        "currentShares": 6050066,
+        "change": 216618,
+        "change_p": 3.7134
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3287,
+        "totalAssets": 0.0934,
+        "currentShares": 5203303,
+        "change": -137217,
+        "change_p": -2.5694
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3148,
+        "totalAssets": 0.0436,
+        "currentShares": 5149142,
+        "change": 370335,
+        "change_p": 7.7495
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0263,
+        "totalAssets": 0.0596,
+        "currentShares": 4019041,
+        "change": -94032,
+        "change_p": -2.2862
+      },
+      "18": {
+        "name": "Swedbank AB",
+        "date": "2025-12-31",
+        "totalShares": 0.9903,
+        "totalAssets": 0.2972,
+        "currentShares": 3878349,
+        "change": 1628996,
+        "change_p": 72.4206
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9448,
+        "totalAssets": 0.0391,
+        "currentShares": 3699928,
+        "change": -400908,
+        "change_p": -9.7763
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.4907,
+        "totalAssets": 0.4147,
+        "currentShares": 17586263,
+        "change": 197208,
+        "change_p": 1.1341
+      },
+      "1": {
+        "name": "Loomis Sayles CPFD CIT",
+        "date": "2025-12-31",
+        "totalShares": 3.2596,
+        "totalAssets": 0.4105,
+        "currentShares": 12765000,
+        "change": 12765000,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Core Plus Full Discretion CIT D",
+        "date": "2025-12-31",
+        "totalShares": 3.2596,
+        "totalAssets": 0.4105,
+        "currentShares": 12765000,
+        "change": 12765000,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Loomis Sayles Inv Grade Bond CIT",
+        "date": "2025-12-31",
+        "totalShares": 3.2596,
+        "totalAssets": 0.4105,
+        "currentShares": 12765000,
+        "change": 12765000,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1773,
+        "totalAssets": 0.0499,
+        "currentShares": 12442717,
+        "change": -50539,
+        "change_p": -0.4045
+      },
+      "5": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.1272,
+        "totalAssets": 0.5997,
+        "currentShares": 12246657,
+        "change": 276358,
+        "change_p": 2.3087
+      },
+      "6": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 2.6894,
+        "totalAssets": 0.9643,
+        "currentShares": 10532144,
+        "change": 3245049,
+        "change_p": 44.5314
+      },
+      "7": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.5168,
+        "totalAssets": 0.476,
+        "currentShares": 9856287,
+        "change": 550278,
+        "change_p": 5.9131
+      },
+      "8": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 2.5164,
+        "totalAssets": 0.2995,
+        "currentShares": 9854508,
+        "change": -5556873,
+        "change_p": -36.0569
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.4514,
+        "totalAssets": 0.251,
+        "currentShares": 9600191,
+        "change": -7986072,
+        "change_p": -45.4109
+      },
+      "10": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.3763,
+        "totalAssets": 0.419,
+        "currentShares": 9306009,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3142,
+        "totalAssets": 0.051,
+        "currentShares": 9062921,
+        "change": -184016,
+        "change_p": -1.99
+      },
+      "12": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1603,
+        "totalAssets": 0.3411,
+        "currentShares": 8459978,
+        "change": -127631,
+        "change_p": -1.4862
+      },
+      "13": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.0261,
+        "totalAssets": 0.3019,
+        "currentShares": 7934577,
+        "change": -657991,
+        "change_p": -7.6577
+      },
+      "14": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.8608,
+        "totalAssets": 0.5997,
+        "currentShares": 7287095,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "UBS: Global Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.7766,
+        "totalAssets": 1.225,
+        "currentShares": 6957502,
+        "change": 1040759,
+        "change_p": 17.5901
+      },
+      "16": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6909,
+        "totalAssets": 0.3224,
+        "currentShares": 6622029,
+        "change": -1014464,
+        "change_p": -13.2844
+      },
+      "17": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 1.6115,
+        "totalAssets": 0.7636,
+        "currentShares": 6310973,
+        "change": -2108500,
+        "change_p": -25.0431
+      },
+      "18": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 1.5741,
+        "totalAssets": 0.3209,
+        "currentShares": 6164424,
+        "change": -6082233,
+        "change_p": -49.6644
+      },
+      "19": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.4204,
+        "totalAssets": 0.9395,
+        "currentShares": 5562528,
+        "change": 115173,
+        "change_p": 2.1143
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 57.8,
+    "ForwardPE": 23.9234,
+    "PriceSalesTTM": 4.3281,
+    "PriceBookMRQ": 3.2972,
+    "EnterpriseValue": 36868648590,
+    "EnterpriseValueRevenue": 4.8189,
+    "EnterpriseValueEbitda": 21.7514
+  },
+  "Highlights": {
+    "MarketCapitalization": 33114202112,
+    "MarketCapitalizationMln": 33114.2021,
+    "EBITDA": 2015800064,
+    "PERatio": 57.8,
+    "PEGRatio": 0.7898,
+    "WallStreetTargetPrice": 98.9333,
+    "BookValue": 25.797,
+    "DividendShare": 0.08,
+    "DividendYield": 0.0009,
+    "EarningsShare": 1.45,
+    "EPSEstimateCurrentYear": 3.517,
+    "EPSEstimateNextYear": 3.8708,
+    "EPSEstimateNextQuarter": 0.7711,
+    "EPSEstimateCurrentQuarter": 0.9008,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.076,
+    "OperatingMarginTTM": 0.2001,
+    "ReturnOnAssetsTTM": 0.052,
+    "ReturnOnEquityTTM": 0.0577,
+    "RevenueTTM": 7650899968,
+    "RevenuePerShareTTM": 19.219,
+    "QuarterlyRevenueGrowthYOY": 0.101,
+    "GrossProfitTTM": 3336300032,
+    "DilutedEpsTTM": 1.45,
+    "QuarterlyEarningsGrowthYOY": 0.184
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.68,
+    "TotalEsgPercentile": 26.32,
+    "EnvironmentScore": 7.64,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 16.22,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 10.33,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "IR",
+    "Type": "Common Stock",
+    "Name": "Ingersoll Rand Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG002R1CW27",
+    "ISIN": "US45687V1061",
+    "LEI": "5299004C02FMZCUOIR50",
+    "PrimaryTicker": "IR.US",
+    "CUSIP": "36555P107",
+    "CIK": "0001466258",
+    "EmployerIdNumber": "98-0626632",
+    "FiscalYearEnd": "December",
+    "IPODate": "2017-05-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Ingersoll Rand Inc. provides various mission-critical air, fluid, clean energy, and medical technologies services and solutions worldwide. It operates in two segments, Industrial Technologies and Services, and Precision and Science Technologies. The Industrial Technologies and Services segment designs, manufactures, markets, and services a range of air and gas compression and treatment equipment, vacuum, and blower products, fluid transfer equipment, loading systems, and power tools and lifting equipment; and other specialized equipment, including associated aftermarket parts, consumables and services, air treatment equipment, controls, other accessories, and services under the Ingersoll Rand, Gardner Denver, Nash, CompAir, Elmo Rietschle, and other brands. The Precision and Science Technologies segment designs, manufactures, and markets diaphragm, piston, water-powered, peristaltic, gear, vane, progressive cavity, and syringe pumps; and gas boosters, hydrogen compression systems, automated liquid handling systems, odorant injection systems, controls, software, and other related components and accessories for precision dosing, liquid and solid transfer, dispensing, gas compression and sampling, pressure management, flow control, powder handling, and other applications under the Air Dimensions, Albin, ARO, Dosatron, Haskel, Ingersoll Rand, LMI, Maximus, Milton Roy, MP, Oberdorfer, Seepex, Thomas, Welch, Williams, YZ, and Zinnser Analytic brands. This segment's products are used in medical, laboratory, industrial manufacturing, water and wastewater, chemical processing, clean energy, food and beverage, agriculture and other markets. It sells its products through an integrated network of direct sales representatives and independent distributors. The company was formerly known as Gardner Denver Holdings, Inc. and changed its name to Ingersoll Rand Inc. in March 2020. Ingersoll Rand Inc. was founded in 1859 and is headquartered in Davidson, North Carolina.",
+    "Address": "525 Harbour Place Drive, Davidson, NC, United States, 28036",
+    "AddressData": {
+      "Street": "525 Harbour Place Drive",
+      "City": "Davidson",
+      "State": "NC",
+      "Country": "United States",
+      "ZIP": "28036"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Vicente  Reynal",
+        "Title": "Chairman, CEO & President",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Vikram U. Kini",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1982"
+      },
+      "2": {
+        "Name": "Mr. Andrew R. Schiesl Esq.",
+        "Title": "Senior VP, General Counsel, Chief Compliance Officer & Secretary",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Ms. Kathleen M. Keene",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1975"
+      },
+      "4": {
+        "Name": "Mr. Michael A. Weatherred",
+        "Title": "Senior Vice President of Ingersoll Rand Execution Excellence (IRX), Business & Commercial Excellence",
+        "YearBorn": "1962"
+      },
+      "5": {
+        "Name": "Mr. Michael J. Scheske",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1988"
+      },
+      "6": {
+        "Name": "Mr. Matthew J. Emmerich",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1976"
+      },
+      "7": {
+        "Name": "Mr. Matthew  Fort",
+        "Title": "VP of Investor Relations, Global Financial Planning & Analysis",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Elizabeth Meloy Hepding",
+        "Title": "Senior Vice President of Corporate Development",
+        "YearBorn": "1978"
+      },
+      "9": {
+        "Name": "Mr. Arnold  Li",
+        "Title": "Senior VP and GM of Industrial Technologies & Services, Asia-Pacific, Global Air ,Gas Solutions",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "704 655 4000",
+    "WebURL": "https://www.irco.com",
+    "LogoURL": "/img/logos/US/IR.png",
+    "FullTimeEmployees": 21000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 391617994,
+    "SharesFloat": 390372649,
+    "PercentInsiders": 0.232,
+    "PercentInstitutions": 97.15899999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0595
+  }
+}

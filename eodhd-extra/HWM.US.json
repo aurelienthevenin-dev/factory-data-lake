@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 14.3407,
+        "totalAssets": 0.3378,
+        "currentShares": 57465040,
+        "change": 25658416,
+        "change_p": 80.67
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.2127,
+        "totalAssets": 0.1455,
+        "currentShares": 48937802,
+        "change": -202187,
+        "change_p": -0.4115
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 12.0185,
+        "totalAssets": 0.1654,
+        "currentShares": 48159690,
+        "change": 2092504,
+        "change_p": 4.5423
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4832,
+        "totalAssets": 0.1222,
+        "currentShares": 17964662,
+        "change": 278587,
+        "change_p": 1.5752
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.8685,
+        "totalAssets": 0.162,
+        "currentShares": 15501464,
+        "change": -762040,
+        "change_p": -4.6856
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.2693,
+        "totalAssets": 0.275,
+        "currentShares": 13100506,
+        "change": -25535,
+        "change_p": -0.1945
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.8219,
+        "totalAssets": 0.1429,
+        "currentShares": 11307538,
+        "change": 221775,
+        "change_p": 2.0005
+      },
+      "7": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.7146,
+        "totalAssets": 0.1448,
+        "currentShares": 10877771,
+        "change": 255419,
+        "change_p": 2.4045
+      },
+      "8": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.4483,
+        "totalAssets": 0.6486,
+        "currentShares": 9810474,
+        "change": -1806287,
+        "change_p": -15.549
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.1833,
+        "totalAssets": 0.1919,
+        "currentShares": 8748895,
+        "change": -25386,
+        "change_p": -0.2893
+      },
+      "10": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 2.0922,
+        "totalAssets": 0.7511,
+        "currentShares": 8383617,
+        "change": -1184362,
+        "change_p": -12.3784
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8386,
+        "totalAssets": 0.2278,
+        "currentShares": 7367438,
+        "change": 801093,
+        "change_p": 12.2
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3709,
+        "totalAssets": 0.0653,
+        "currentShares": 5493233,
+        "change": 127751,
+        "change_p": 2.381
+      },
+      "13": {
+        "name": "Kensico Capital Management Corp",
+        "date": "2025-12-31",
+        "totalShares": 1.3138,
+        "totalAssets": 18.3404,
+        "currentShares": 5264500,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1674,
+        "totalAssets": 0.1647,
+        "currentShares": 4678055,
+        "change": -15348,
+        "change_p": -0.327
+      },
+      "15": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.986,
+        "totalAssets": 0.4071,
+        "currentShares": 3951211,
+        "change": 473411,
+        "change_p": 13.6124
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9762,
+        "totalAssets": 0.21,
+        "currentShares": 3911759,
+        "change": 336072,
+        "change_p": 9.3988
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9382,
+        "totalAssets": 0.0944,
+        "currentShares": 3759663,
+        "change": -29457,
+        "change_p": -0.7774
+      },
+      "18": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8973,
+        "totalAssets": 0.1621,
+        "currentShares": 3595587,
+        "change": 147523,
+        "change_p": 4.2784
+      },
+      "19": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 0.7242,
+        "totalAssets": 0.4571,
+        "currentShares": 2901772,
+        "change": -145909,
+        "change_p": -4.7875
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1781,
+        "totalAssets": 0.147,
+        "currentShares": 12734952,
+        "change": 17848,
+        "change_p": 0.1403
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5475,
+        "totalAssets": 0.1653,
+        "currentShares": 10208266,
+        "change": -133469,
+        "change_p": -1.2906
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1615,
+        "totalAssets": 1.0045,
+        "currentShares": 8661276,
+        "change": -77513,
+        "change_p": -0.887
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2862,
+        "totalAssets": 0.1649,
+        "currentShares": 5154028,
+        "change": -2808,
+        "change_p": -0.0545
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2769,
+        "totalAssets": 0.1793,
+        "currentShares": 5116742,
+        "change": 8434,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1589,
+        "totalAssets": 0.1646,
+        "currentShares": 4643849,
+        "change": -11417,
+        "change_p": -0.2452
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1055,
+        "totalAssets": 0.3212,
+        "currentShares": 4429795,
+        "change": -162374,
+        "change_p": -3.5359
+      },
+      "7": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8293,
+        "totalAssets": 1.5575,
+        "currentShares": 3322971,
+        "change": -357236,
+        "change_p": -9.707
+      },
+      "8": {
+        "name": "Janus Concentrated Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 0.791,
+        "totalAssets": 2.716,
+        "currentShares": 3169674,
+        "change": -298348,
+        "change_p": -8.6028
+      },
+      "9": {
+        "name": "Janus Henderson Forty S",
+        "date": "2026-01-31",
+        "totalShares": 0.791,
+        "totalAssets": 2.8475,
+        "currentShares": 3169674,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.761,
+        "totalAssets": 2.4054,
+        "currentShares": 3049588,
+        "change": -288738,
+        "change_p": -8.6492
+      },
+      "11": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7569,
+        "totalAssets": 1.5964,
+        "currentShares": 3032947,
+        "change": 1666,
+        "change_p": 0.055
+      },
+      "12": {
+        "name": "MFS Mid Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7119,
+        "totalAssets": 4.1395,
+        "currentShares": 2852505,
+        "change": -378339,
+        "change_p": -11.7102
+      },
+      "13": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6703,
+        "totalAssets": 3.3241,
+        "currentShares": 2686151,
+        "change": -4620,
+        "change_p": -0.1717
+      },
+      "14": {
+        "name": "iShares US Aerospace & Defense ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6525,
+        "totalAssets": 4.5035,
+        "currentShares": 2614496,
+        "change": -21360,
+        "change_p": -0.8104
+      },
+      "15": {
+        "name": "MFS Growth B",
+        "date": "2026-02-28",
+        "totalShares": 0.624,
+        "totalAssets": 1.6384,
+        "currentShares": 2500268,
+        "change": -120543,
+        "change_p": -4.5995
+      },
+      "16": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.6098,
+        "totalAssets": 0.6435,
+        "currentShares": 2443371,
+        "change": 1093841,
+        "change_p": 81.0535
+      },
+      "17": {
+        "name": "MFS Mid Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.5747,
+        "totalAssets": 4.3867,
+        "currentShares": 2302899,
+        "change": -150046,
+        "change_p": -6.117
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5637,
+        "totalAssets": 0.165,
+        "currentShares": 2258912,
+        "change": -19110,
+        "change_p": -0.8389
+      },
+      "19": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.556,
+        "totalAssets": 1.827,
+        "currentShares": 2227942,
+        "change": -15432,
+        "change_p": -0.6879
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 65.3477,
+    "ForwardPE": 53.7634,
+    "PriceSalesTTM": 11.7794,
+    "PriceBookMRQ": 18.1485,
+    "EnterpriseValue": 99619994759,
+    "EnterpriseValueRevenue": 12.2529,
+    "EnterpriseValueEbitda": 43.8083
+  },
+  "Highlights": {
+    "MarketCapitalization": 97203912704,
+    "MarketCapitalizationMln": 97203.9127,
+    "EBITDA": 2388000000,
+    "PERatio": 65.3477,
+    "PEGRatio": 0.8035,
+    "WallStreetTargetPrice": 278.6629,
+    "BookValue": 13.329,
+    "DividendShare": 0.44,
+    "DividendYield": 0.0018,
+    "EarningsShare": 3.71,
+    "EPSEstimateCurrentYear": 4.6721,
+    "EPSEstimateNextYear": 5.6339,
+    "EPSEstimateNextQuarter": 1.0199,
+    "EPSEstimateCurrentQuarter": 0.966,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1827,
+    "OperatingMarginTTM": 0.2634,
+    "ReturnOnAssetsTTM": 0.1213,
+    "ReturnOnEquityTTM": 0.3044,
+    "RevenueTTM": 8252000256,
+    "RevenuePerShareTTM": 20.426,
+    "QuarterlyRevenueGrowthYOY": 0.146,
+    "GrossProfitTTM": 2820000000,
+    "DilutedEpsTTM": 3.71,
+    "QuarterlyEarningsGrowthYOY": 0.203
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "HWM",
+    "Type": "Common Stock",
+    "Name": "Howmet Aerospace Inc",
+    "Exchange": "NYSE MKT",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG00DYNJGH9",
+    "ISIN": "US4432011082",
+    "LEI": "ABPN11VOHLHX6QR7XQ48",
+    "PrimaryTicker": "HWM.US",
+    "CUSIP": "013817507",
+    "CIK": "0000004281",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "1962-01-02",
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Aerospace & Defense",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Aerospace & Defense",
+    "GicSubIndustry": "Aerospace & Defense",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Howmet Aerospace Inc. provides advanced engineered solutions for the aerospace and transportation industries in the United States, Japan, France, Germany, the United Kingdom, Mexico, Italy, Canada, Poland, China, and internationally. It operates through four segments: Engine Products, Fastening Systems, Engineered Structures, and Forged Wheels. The Engine Products segment offers airfoils and seamless rolled rings primarily for aircraft engines and industrial gas turbines; and rotating and structural parts. The Fastening Systems segment produces aerospace fastening systems, as well as commercial transportation, industrial, and other fasteners; and latches, bearings, fluid fittings, and installation tools. The Engineered Structures segment provides titanium ingots and mill products, aluminum and nickel forgings, and machined components and assemblies for aerospace and defense applications; and titanium forgings, extrusions, and forming and machining services for airframe, wing, aero-engine, and landing gear components. The Forged Wheels segment offers forged aluminum wheels and related products for heavy-duty trucks and commercial transportation markets. The company was formerly known as Arconic Inc. Howmet Aerospace Inc. was founded in 1888 and is based in Pittsburgh, Pennsylvania.",
+    "Address": "201 Isabella Street, Pittsburgh, PA, United States, 15212-5872",
+    "AddressData": {
+      "Street": "201 Isabella Street",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "15212-5872"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. John C. Plant FCA",
+        "Title": "Executive Chairman & CEO",
+        "YearBorn": "1954"
+      },
+      "1": {
+        "Name": "Mr. Patrick Joseph Winterlich",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Neil E. Marchuk",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Mr. W. Paul Myron",
+        "Title": "Vice President of Finance, Strategy & Operations",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Mr. Paul Thomas Luther Jr.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Mr. Jonathan  Arena",
+        "Title": "Executive VP, Chief Legal and Compliance Officer & Secretary",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Ann  Humphrey",
+        "Title": "Chief Human Resources Officer & VP",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Randall  Scheps",
+        "Title": "President of Forged Wheels",
+        "YearBorn": "1968"
+      },
+      "8": {
+        "Name": "Ms. Margaret S. Lam Esq.",
+        "Title": "Assistant Secretary, Associate General Counsel and Chief Securities & Governance Counsel",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Merrick  Murphy",
+        "Title": "President of the Engine Products Segment",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "412 553 1950",
+    "WebURL": "https://www.howmet.com",
+    "LogoURL": "/img/logos/US/HWM.png",
+    "FullTimeEmployees": 25430,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 400713557,
+    "SharesFloat": 396862503,
+    "PercentInsiders": 0.885,
+    "PercentInstitutions": 94.808,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0236
+  }
+}

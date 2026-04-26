@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.7412,
+        "totalAssets": 0.0234,
+        "currentShares": 6645605,
+        "change": 132151,
+        "change_p": 2.0289
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.9908,
+        "totalAssets": 0.0201,
+        "currentShares": 3864565,
+        "change": -92043,
+        "change_p": -2.3263
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6361,
+        "totalAssets": 0.0231,
+        "currentShares": 2242126,
+        "change": 37756,
+        "change_p": 1.7128
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 4.1995,
+        "totalAssets": 0.0181,
+        "currentShares": 2030964,
+        "change": 1025235,
+        "change_p": 101.9395
+      },
+      "4": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 3.8753,
+        "totalAssets": 0.3928,
+        "currentShares": 1874206,
+        "change": 876711,
+        "change_p": 87.8913
+      },
+      "5": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.8637,
+        "totalAssets": 0.0648,
+        "currentShares": 1384948,
+        "change": -28299,
+        "change_p": -2.0024
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7671,
+        "totalAssets": 0.02,
+        "currentShares": 1338221,
+        "change": 5224,
+        "change_p": 0.3919
+      },
+      "7": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5871,
+        "totalAssets": 0.8154,
+        "currentShares": 1251213,
+        "change": -192918,
+        "change_p": -13.3588
+      },
+      "8": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 2.2901,
+        "totalAssets": 0.1036,
+        "currentShares": 1107541,
+        "change": 327861,
+        "change_p": 42.0507
+      },
+      "9": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2815,
+        "totalAssets": 0.2775,
+        "currentShares": 1103395,
+        "change": -26722,
+        "change_p": -2.3645
+      },
+      "10": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.2663,
+        "totalAssets": 0.1502,
+        "currentShares": 1096040,
+        "change": 244890,
+        "change_p": 28.7717
+      },
+      "11": {
+        "name": "APG Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.4863,
+        "totalAssets": 0.4218,
+        "currentShares": 718804,
+        "change": -958180,
+        "change_p": -57.1371
+      },
+      "12": {
+        "name": "Apg All Pensions Group",
+        "date": "2025-12-31",
+        "totalShares": 1.4863,
+        "totalAssets": 0.4218,
+        "currentShares": 718804,
+        "change": -62324,
+        "change_p": -7.9787
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2797,
+        "totalAssets": 0.0111,
+        "currentShares": 618881,
+        "change": -3833,
+        "change_p": -0.6155
+      },
+      "14": {
+        "name": "Lazard Asset Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.2477,
+        "totalAssets": 0.2482,
+        "currentShares": 603398,
+        "change": 272304,
+        "change_p": 82.2437
+      },
+      "15": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.2275,
+        "totalAssets": 0.1399,
+        "currentShares": 593656,
+        "change": 201437,
+        "change_p": 51.3583
+      },
+      "16": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1848,
+        "totalAssets": 0.0116,
+        "currentShares": 572986,
+        "change": 101970,
+        "change_p": 21.6489
+      },
+      "17": {
+        "name": "Alyeska Investment Group, L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1519,
+        "totalAssets": 0.3821,
+        "currentShares": 557080,
+        "change": 343846,
+        "change_p": 161.2529
+      },
+      "18": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1454,
+        "totalAssets": 0.0144,
+        "currentShares": 553930,
+        "change": 13167,
+        "change_p": 2.4349
+      },
+      "19": {
+        "name": "The Colony Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1237,
+        "totalAssets": 0.1511,
+        "currentShares": 543473,
+        "change": 523605,
+        "change_p": 2635.4188
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2324,
+        "totalAssets": 0.0164,
+        "currentShares": 1563268,
+        "change": -37589,
+        "change_p": -2.3481
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5894,
+        "totalAssets": 0.0184,
+        "currentShares": 1252300,
+        "change": -52951,
+        "change_p": -4.0568
+      },
+      "2": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3458,
+        "totalAssets": 0.1428,
+        "currentShares": 1134496,
+        "change": -16084,
+        "change_p": -1.3979
+      },
+      "3": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.68,
+        "totalAssets": 0.1992,
+        "currentShares": 812469,
+        "change": 2358,
+        "change_p": 0.2911
+      },
+      "4": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.6032,
+        "totalAssets": 0.6901,
+        "currentShares": 775360,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4944,
+        "totalAssets": 0.2488,
+        "currentShares": 722741,
+        "change": -16132,
+        "change_p": -2.1833
+      },
+      "6": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.4152,
+        "totalAssets": 0.1176,
+        "currentShares": 684443,
+        "change": -881,
+        "change_p": -0.1286
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3331,
+        "totalAssets": 0.0193,
+        "currentShares": 644713,
+        "change": 1063,
+        "change_p": 0.1652
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3083,
+        "totalAssets": 0.0184,
+        "currentShares": 632719,
+        "change": -348,
+        "change_p": -0.055
+      },
+      "9": {
+        "name": "Nordea 1 - Global Climate & Envir BI EUR",
+        "date": "2026-02-28",
+        "totalShares": 1.2109,
+        "totalAssets": 1.5165,
+        "currentShares": 585603,
+        "change": 585603,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 1.1993,
+        "totalAssets": 0.81,
+        "currentShares": 580000,
+        "change": 33000,
+        "change_p": 6.0329
+      },
+      "11": {
+        "name": "Lazard Global Robotics & Automation",
+        "date": "2025-12-31",
+        "totalShares": 1.1717,
+        "totalAssets": 1.807,
+        "currentShares": 566647,
+        "change": 252254,
+        "change_p": 80.2352
+      },
+      "12": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1666,
+        "totalAssets": 0.0181,
+        "currentShares": 564197,
+        "change": -1421,
+        "change_p": -0.2512
+      },
+      "13": {
+        "name": "JPM US Mid Cap Value-Composite",
+        "date": "2026-03-31",
+        "totalShares": 1.0297,
+        "totalAssets": 0.961,
+        "currentShares": 497993,
+        "change": -28505,
+        "change_p": -5.4141
+      },
+      "14": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.9784,
+        "totalAssets": 0.9108,
+        "currentShares": 473183,
+        "change": -61443,
+        "change_p": -11.4927
+      },
+      "15": {
+        "name": "Ariel Fund Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.777,
+        "totalAssets": 3.0693,
+        "currentShares": 375787,
+        "change": 177077,
+        "change_p": 89.1133
+      },
+      "16": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7632,
+        "totalAssets": 0.0915,
+        "currentShares": 369097,
+        "change": 987,
+        "change_p": 0.2681
+      },
+      "17": {
+        "name": "Nomura Science and Technology (SMA)",
+        "date": "2025-09-30",
+        "totalShares": 0.7594,
+        "totalAssets": 1.6283,
+        "currentShares": 367259,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7197,
+        "totalAssets": 0.5093,
+        "currentShares": 348053,
+        "change": -14094,
+        "change_p": -3.8918
+      },
+      "19": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.7005,
+        "totalAssets": 0.4384,
+        "currentShares": 338798,
+        "change": -4264,
+        "change_p": -1.2429
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 27.7019,
+    "ForwardPE": 12.5628,
+    "PriceSalesTTM": 2.0759,
+    "PriceBookMRQ": 3.058,
+    "EnterpriseValue": 13544024876,
+    "EnterpriseValueRevenue": 2.51,
+    "EnterpriseValueEbitda": 15.8781
+  },
+  "Highlights": {
+    "MarketCapitalization": 11201442816,
+    "MarketCapitalizationMln": 11201.4428,
+    "EBITDA": 985000000,
+    "PERatio": 27.7019,
+    "PEGRatio": 0.4832,
+    "WallStreetTargetPrice": 326.5638,
+    "BookValue": 72.349,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 8.22,
+    "EPSEstimateCurrentYear": 17.9826,
+    "EPSEstimateNextYear": 20.0862,
+    "EPSEstimateNextQuarter": 4.1128,
+    "EPSEstimateCurrentQuarter": 4.3347,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0776,
+    "OperatingMarginTTM": 0.1505,
+    "ReturnOnAssetsTTM": 0.0607,
+    "ReturnOnEquityTTM": 0.1168,
+    "RevenueTTM": 5395999744,
+    "RevenuePerShareTTM": 106.177,
+    "QuarterlyRevenueGrowthYOY": 0.106,
+    "GrossProfitTTM": 2592999936,
+    "DilutedEpsTTM": 8.22,
+    "QuarterlyEarningsGrowthYOY": -0.558
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "ZBRA",
+    "Type": "Common Stock",
+    "Name": "Zebra Technologies Corporation",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000CC7LQ7",
+    "ISIN": "US9892071054",
+    "LEI": "PO0I32GKZ3HZMMDPZZ08",
+    "PrimaryTicker": "ZBRA.US",
+    "CUSIP": "989207105",
+    "CIK": "0000877212",
+    "EmployerIdNumber": "36-2675536",
+    "FiscalYearEnd": "December",
+    "IPODate": "1991-08-15",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Communication Equipment",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Electronic Equipment, Instruments & Components",
+    "GicSubIndustry": "Electronic Equipment & Instruments",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Zebra Technologies Corporation, together with its subsidiaries, operates in the automatic identification and data capture solutions industry worldwide. It operates in two segments, Connected Frontline, and Asset Visibility and Automation. The company designs, manufactures, and sells printers that produce labels, wristbands, tickets, receipts, and plastic cards; dye-sublimination thermal card printers that produce images, which are used for personal identification, access control, and financial transactions; radio frequency identification device (RFID) printers that encode data into passive RFID transponders; accessories and options for printers, including carrying cases, vehicle mounts, and battery chargers; stock and customized thermal labels, receipts, ribbons, plastic cards, and RFID tags for printers; and electronic sensors and temperature-monitoring labels. It also provides various maintenance, technical support, repair, and managed and professional services; fixed readers, RFID enabled mobile computers, and RFID sleds; tags, sensors, exciters, middleware software, and application software; and physical inventory management solutions; rugged and enterprise-grade mobile computing products and accessories, as well as real-time location systems and services. In addition, the company offers barcode scanners and imagers, RFID readers, industrial machine vision cameras, and fixed industrial scanners; point-of-sale solutions, self-serve kiosks, and interactive touchscreen displays; workflow optimization solutions, such as workforce management, workflow execution and task management, and prescriptive analytics, and communications and collaboration solutions; and cloud-based software. The company serves retail and e-commerce, manufacturing, transportation and logistics, healthcare, public sector, and other industries through direct sales force and network of channel partners. The company was founded in 1969 and is headquartered in Lincolnshire, Illinois.",
+    "Address": "3 Overlook Point, Lincolnshire, IL, United States, 60069",
+    "AddressData": {
+      "Street": "3 Overlook Point",
+      "City": "Lincolnshire",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60069"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. William J. Burns",
+        "Title": "CEO & Director",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Nathan Andrew Winters",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1980"
+      },
+      "2": {
+        "Name": "Ms. Cristen L. Kogl J.D.",
+        "Title": "Chief Legal Officer, General Counsel & Corporate Secretary",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Jeffrey F. Schmitz",
+        "Title": "Senior Vice President",
+        "YearBorn": "1964"
+      },
+      "4": {
+        "Name": "Mr. Richard Edward Hudson",
+        "Title": "Chief Revenue Officer",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Ms. Colleen M. O'Sullivan",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1967"
+      },
+      "6": {
+        "Name": "Mr. Tom  Bianculli",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Matt  Ausman",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Michael A. Steele C.F.A., IRC",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "1973"
+      },
+      "9": {
+        "Name": "Ms. Therese  Van Ryne",
+        "Title": "Senior Director of External Communications",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "847 634 6700",
+    "WebURL": "https://www.zebra.com",
+    "LogoURL": "/img/logos/US/ZBRA.png",
+    "FullTimeEmployees": 10700,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 48362608,
+    "SharesFloat": 48730286,
+    "PercentInsiders": 0.8250000000000001,
+    "PercentInstitutions": 100.47699999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0521
+  }
+}

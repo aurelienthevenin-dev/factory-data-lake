@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.8534,
+        "totalAssets": 0.1728,
+        "currentShares": 33907291,
+        "change": 133892,
+        "change_p": 0.3964
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.9791,
+        "totalAssets": 0.173,
+        "currentShares": 26728719,
+        "change": 102098,
+        "change_p": 0.3834
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.2353,
+        "totalAssets": 0.2645,
+        "currentShares": 23880302,
+        "change": 11651829,
+        "change_p": 95.2844
+      },
+      "3": {
+        "name": "Greenleaf Trust",
+        "date": "2025-12-31",
+        "totalShares": 4.325,
+        "totalAssets": 53.3612,
+        "currentShares": 16564209,
+        "change": -79279,
+        "change_p": -0.4763
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9017,
+        "totalAssets": 0.192,
+        "currentShares": 14942900,
+        "change": -13832,
+        "change_p": -0.0925
+      },
+      "5": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.8716,
+        "totalAssets": 0.435,
+        "currentShares": 10997948,
+        "change": -900546,
+        "change_p": -7.5686
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9676,
+        "totalAssets": 0.1627,
+        "currentShares": 7535572,
+        "change": 69851,
+        "change_p": 0.9356
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.6954,
+        "totalAssets": 0.3999,
+        "currentShares": 6493276,
+        "change": 1198665,
+        "change_p": 22.6393
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6859,
+        "totalAssets": 0.1445,
+        "currentShares": 6456583,
+        "change": 236327,
+        "change_p": 3.7993
+      },
+      "9": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 1.6549,
+        "totalAssets": 0.7378,
+        "currentShares": 6338050,
+        "change": 741542,
+        "change_p": 13.2501
+      },
+      "10": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.5579,
+        "totalAssets": 0.3871,
+        "currentShares": 5966567,
+        "change": -307737,
+        "change_p": -4.9047
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3538,
+        "totalAssets": 0.195,
+        "currentShares": 5184716,
+        "change": 427308,
+        "change_p": 8.9819
+      },
+      "12": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1847,
+        "totalAssets": 0.3009,
+        "currentShares": 4537354,
+        "change": -366348,
+        "change_p": -7.4708
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0153,
+        "totalAssets": 0.0975,
+        "currentShares": 3888560,
+        "change": -86196,
+        "change_p": -2.1686
+      },
+      "14": {
+        "name": "Fundsmith LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.9628,
+        "totalAssets": 7.5721,
+        "currentShares": 3687511,
+        "change": -903782,
+        "change_p": -19.6847
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8941,
+        "totalAssets": 0.1619,
+        "currentShares": 3424452,
+        "change": -5180,
+        "change_p": -0.151
+      },
+      "16": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.8726,
+        "totalAssets": 0.2024,
+        "currentShares": 3341855,
+        "change": -1588779,
+        "change_p": -32.2226
+      },
+      "17": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8595,
+        "totalAssets": 0.3034,
+        "currentShares": 3291736,
+        "change": -64082,
+        "change_p": -1.9096
+      },
+      "18": {
+        "name": "First Western Trust Bank",
+        "date": "2025-12-31",
+        "totalShares": 0.8494,
+        "totalAssets": 56.2132,
+        "currentShares": 3253222,
+        "change": -380,
+        "change_p": -0.0117
+      },
+      "19": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8139,
+        "totalAssets": 0.3739,
+        "currentShares": 3117283,
+        "change": -192839,
+        "change_p": -5.8257
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8562,
+        "totalAssets": 0.18,
+        "currentShares": 10938910,
+        "change": 52454,
+        "change_p": 0.4818
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.2902,
+        "totalAssets": 0.2025,
+        "currentShares": 8771031,
+        "change": -81062,
+        "change_p": -0.9157
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.156,
+        "totalAssets": 0.202,
+        "currentShares": 4427456,
+        "change": -2412,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1437,
+        "totalAssets": 0.2266,
+        "currentShares": 4380142,
+        "change": 7220,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0432,
+        "totalAssets": 0.2019,
+        "currentShares": 3995233,
+        "change": -9800,
+        "change_p": -0.2447
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.9836,
+        "totalAssets": 0.3895,
+        "currentShares": 3767086,
+        "change": -42437,
+        "change_p": -1.114
+      },
+      "6": {
+        "name": "Fundsmith Equity I Acc",
+        "date": "2026-03-31",
+        "totalShares": 0.7566,
+        "totalAssets": 5.6775,
+        "currentShares": 2897664,
+        "change": -587603,
+        "change_p": -16.8596
+      },
+      "7": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6767,
+        "totalAssets": 2.2226,
+        "currentShares": 2591504,
+        "change": -383497,
+        "change_p": -12.8907
+      },
+      "8": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6573,
+        "totalAssets": 2.13,
+        "currentShares": 2517354,
+        "change": 7632,
+        "change_p": 0.3041
+      },
+      "9": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5067,
+        "totalAssets": 0.202,
+        "currentShares": 1940488,
+        "change": -9441,
+        "change_p": -0.4842
+      },
+      "10": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5035,
+        "totalAssets": 0.5399,
+        "currentShares": 1928448,
+        "change": 33538,
+        "change_p": 1.7699
+      },
+      "11": {
+        "name": "AllianceBernstein US L/C Growth Eqty MF",
+        "date": "2026-02-27",
+        "totalShares": 0.4942,
+        "totalAssets": 2.1253,
+        "currentShares": 1892798,
+        "change": -74300,
+        "change_p": -3.7771
+      },
+      "12": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4926,
+        "totalAssets": 0.2023,
+        "currentShares": 1886437,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4926,
+        "totalAssets": 0.1974,
+        "currentShares": 1886437,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4801,
+        "totalAssets": 0.2,
+        "currentShares": 1838575,
+        "change": 3840,
+        "change_p": 0.2093
+      },
+      "15": {
+        "name": "Franklin Rising Dividends A",
+        "date": "2026-03-31",
+        "totalShares": 0.4358,
+        "totalAssets": 2.1258,
+        "currentShares": 1669000,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "JPMorgan Equity Premium Income ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4285,
+        "totalAssets": 1.2315,
+        "currentShares": 1640957,
+        "change": 901,
+        "change_p": 0.0549
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4062,
+        "totalAssets": 0.2018,
+        "currentShares": 1555639,
+        "change": 10037,
+        "change_p": 0.6494
+      },
+      "18": {
+        "name": "Parnassus Core Equity Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.3877,
+        "totalAssets": 2.1887,
+        "currentShares": 1484958,
+        "change": -45508,
+        "change_p": -2.9735
+      },
+      "19": {
+        "name": "JPM US Equity-MA",
+        "date": "2026-03-31",
+        "totalShares": 0.3791,
+        "totalAssets": 1.5112,
+        "currentShares": 1451851,
+        "change": 1450688,
+        "change_p": 124736.7154
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 39.2228,
+    "ForwardPE": 21.978,
+    "PriceSalesTTM": 4.9941,
+    "PriceBookMRQ": 5.6312,
+    "EnterpriseValue": 138009759001,
+    "EnterpriseValueRevenue": 5.4949,
+    "EnterpriseValueEbitda": 21.8577
+  },
+  "Highlights": {
+    "MarketCapitalization": 125431177216,
+    "MarketCapitalizationMln": 125431.1772,
+    "EBITDA": 6949000192,
+    "PERatio": 39.2228,
+    "PEGRatio": 1.5698,
+    "WallStreetTargetPrice": 419.1133,
+    "BookValue": 58.614,
+    "DividendShare": 3.4,
+    "DividendYield": 0.0103,
+    "EarningsShare": 8.35,
+    "EPSEstimateCurrentYear": 14.9618,
+    "EPSEstimateNextYear": 16.7441,
+    "EPSEstimateNextQuarter": 3.062,
+    "EPSEstimateCurrentQuarter": 4.3954,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1292,
+    "OperatingMarginTTM": 0.2724,
+    "ReturnOnAssetsTTM": 0.0792,
+    "ReturnOnEquityTTM": 0.1508,
+    "RevenueTTM": 25116000256,
+    "RevenuePerShareTTM": 65.714,
+    "QuarterlyRevenueGrowthYOY": 0.114,
+    "GrossProfitTTM": 16336000000,
+    "DilutedEpsTTM": 8.35,
+    "QuarterlyEarningsGrowthYOY": 0.559
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.93,
+    "TotalEsgPercentile": 70.66,
+    "EnvironmentScore": 3.06,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 14.68,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 8.19,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "SYK",
+    "Type": "Common Stock",
+    "Name": "Stryker Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DN7P92",
+    "ISIN": "US8636671013",
+    "LEI": "5493002F0SC4JTBU5137",
+    "PrimaryTicker": "SYK.US",
+    "CUSIP": "863667101",
+    "CIK": "0000310764",
+    "EmployerIdNumber": "38-1239739",
+    "FiscalYearEnd": "December",
+    "IPODate": "1988-02-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Devices",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Stryker Corporation operates as a medical technology company in the United States and internationally. It operates through two segments, MedSurg and Neurotechnology, and Orthopaedics. The MedSurg and Neurotechnology segment offers surgical equipment, patient and caregiver safety technologies, navigation systems, endoscopic and communications systems, patient handling, emergency medical equipment and intensive care disposable products, clinical communication and artificial intelligence-assisted virtual care platform technology, and minimally invasive products for the treatment of acute ischemic and hemorrhagic stroke and venous thromboembolism; traditional brain and open skull based surgical procedures products; and orthobiologic and biosurgery products, including synthetic bone grafts and vertebral augmentation products. The Orthopaedics segment provides implants for use in total joint replacements, such as hip, knee and shoulder, ankle, and trauma and extremities surgeries; and Mako Shoulder, which expands the smart robotics suite of applications. The company sells its products to doctors, hospitals, and other healthcare facilities through company-owned subsidiaries and branches, as well as third-party dealers and distributors in approximately 61 countries. Stryker Corporation was founded in 1941 and is headquartered in Portage, Michigan.",
+    "Address": "1941 Stryker Way, Portage, MI, United States, 49002",
+    "AddressData": {
+      "Street": "1941 Stryker Way",
+      "City": "Portage",
+      "State": "MI",
+      "Country": "United States",
+      "ZIP": "49002"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Kevin A. Lobo",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Spencer S. Stiles",
+        "Title": "President & COO",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. Preston W. Wells",
+        "Title": "VP & CFO",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Mr. Viju S. Menon",
+        "Title": "Group President of Global Quality & Operations",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Mr. J. Andrew Pierce",
+        "Title": "Group President of MedSurg & Neurotechnology",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. William E. Berry Jr.",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1966"
+      },
+      "6": {
+        "Name": "Mr. Robert C. Cohen",
+        "Title": "CTO and VP of Global R&D - Joint Replacement",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Debra S. King",
+        "Title": "VP and Chief Digital & Information Officer",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Mr. Robert S. Fletcher",
+        "Title": "VP & Chief Legal Officer",
+        "YearBorn": "1971"
+      },
+      "9": {
+        "Name": "Ms. Dana S. McMahon",
+        "Title": "VP & Chief Compliance Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(269) 385-2600",
+    "WebURL": "https://www.stryker.com",
+    "LogoURL": "/img/logos/US/syk.png",
+    "FullTimeEmployees": 56000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 382984253,
+    "SharesFloat": 346547557,
+    "PercentInsiders": 5.3740000000000006,
+    "PercentInstitutions": 82.38499999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0129
+  }
+}

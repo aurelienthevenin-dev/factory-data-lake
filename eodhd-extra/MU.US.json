@@ -1,0 +1,607 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4533,
+        "totalAssets": 0.4411,
+        "currentShares": 106608094,
+        "change": 1954644,
+        "change_p": 1.8677
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3201,
+        "totalAssets": 0.2748,
+        "currentShares": 93828422,
+        "change": 1699606,
+        "change_p": 1.8448
+      },
+      "2": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 5.1651,
+        "totalAssets": 2.261,
+        "currentShares": 58249125,
+        "change": -5937371,
+        "change_p": -9.2502
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5808,
+        "totalAssets": 0.2997,
+        "currentShares": 51659173,
+        "change": 285582,
+        "change_p": 0.5559
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.5111,
+        "totalAssets": 0.5762,
+        "currentShares": 39596338,
+        "change": -468162,
+        "change_p": -1.1685
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.1035,
+        "totalAssets": 0.1754,
+        "currentShares": 34998906,
+        "change": 11868227,
+        "change_p": 51.3095
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3053,
+        "totalAssets": 0.4563,
+        "currentShares": 25997769,
+        "change": -40550,
+        "change_p": -0.1557
+      },
+      "7": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 2.1987,
+        "totalAssets": 5.3567,
+        "currentShares": 24794936,
+        "change": -4860499,
+        "change_p": -16.3899
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.9988,
+        "totalAssets": 0.6883,
+        "currentShares": 22541101,
+        "change": 6470511,
+        "change_p": 40.2631
+      },
+      "9": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.9558,
+        "totalAssets": 0.9869,
+        "currentShares": 22056387,
+        "change": -1316434,
+        "change_p": -5.6323
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3835,
+        "totalAssets": 0.1581,
+        "currentShares": 15602366,
+        "change": 1037499,
+        "change_p": 7.1233
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9275,
+        "totalAssets": 0.2239,
+        "currentShares": 10459799,
+        "change": -93275,
+        "change_p": -0.8839
+      },
+      "12": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.8876,
+        "totalAssets": 0.2624,
+        "currentShares": 10010186,
+        "change": 437421,
+        "change_p": 4.5694
+      },
+      "13": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.86,
+        "totalAssets": 0.3524,
+        "currentShares": 9698363,
+        "change": -652048,
+        "change_p": -6.2997
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8532,
+        "totalAssets": 0.2537,
+        "currentShares": 9622166,
+        "change": 708716,
+        "change_p": 7.9511
+      },
+      "15": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8298,
+        "totalAssets": 0.1062,
+        "currentShares": 9357511,
+        "change": -3887644,
+        "change_p": -29.3514
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7913,
+        "totalAssets": 0.3124,
+        "currentShares": 8923576,
+        "change": -2525366,
+        "change_p": -22.0576
+      },
+      "17": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7807,
+        "totalAssets": 0.2643,
+        "currentShares": 8804230,
+        "change": -556039,
+        "change_p": -5.9404
+      },
+      "18": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 0.6842,
+        "totalAssets": 1.8201,
+        "currentShares": 7716204,
+        "change": -2809563,
+        "change_p": -26.6922
+      },
+      "19": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.6739,
+        "totalAssets": 0.4004,
+        "currentShares": 7599621,
+        "change": -2057379,
+        "change_p": -21.3045
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1703,
+        "totalAssets": 0.605,
+        "currentShares": 35752121,
+        "change": 155798,
+        "change_p": 0.4377
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5415,
+        "totalAssets": 0.6805,
+        "currentShares": 28660946,
+        "change": -208645,
+        "change_p": -0.7227
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0946,
+        "totalAssets": 2.1506,
+        "currentShares": 23621754,
+        "change": -79034,
+        "change_p": -0.3335
+      },
+      "3": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.6214,
+        "totalAssets": 1.5533,
+        "currentShares": 18284523,
+        "change": -243495,
+        "change_p": -1.3142
+      },
+      "4": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.612,
+        "totalAssets": 3.2073,
+        "currentShares": 18179074,
+        "change": -3764087,
+        "change_p": -17.1538
+      },
+      "5": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.2972,
+        "totalAssets": 5.4902,
+        "currentShares": 14629048,
+        "change": -3753180,
+        "change_p": -20.4174
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2829,
+        "totalAssets": 0.6787,
+        "currentShares": 14467163,
+        "change": -7872,
+        "change_p": -0.0544
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2667,
+        "totalAssets": 0.7864,
+        "currentShares": 14284789,
+        "change": 23549,
+        "change_p": 0.1651
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1573,
+        "totalAssets": 0.6782,
+        "currentShares": 13051752,
+        "change": -32095,
+        "change_p": -0.2453
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.0631,
+        "totalAssets": 1.3219,
+        "currentShares": 11988738,
+        "change": -6295785,
+        "change_p": -34.4323
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9224,
+        "totalAssets": 1.557,
+        "currentShares": 10401895,
+        "change": -81200,
+        "change_p": -0.7746
+      },
+      "11": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.8475,
+        "totalAssets": 1.2249,
+        "currentShares": 9558101,
+        "change": -5361211,
+        "change_p": -35.9347
+      },
+      "12": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.7694,
+        "totalAssets": 1.9045,
+        "currentShares": 8677074,
+        "change": -9502000,
+        "change_p": -52.2689
+      },
+      "13": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7488,
+        "totalAssets": 3.3838,
+        "currentShares": 8444590,
+        "change": 22441,
+        "change_p": 0.2665
+      },
+      "14": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.6769,
+        "totalAssets": 1.5304,
+        "currentShares": 7633916,
+        "change": -479413,
+        "change_p": -5.909
+      },
+      "15": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.646,
+        "totalAssets": 2.0224,
+        "currentShares": 7284755,
+        "change": -8304,
+        "change_p": -0.1139
+      },
+      "16": {
+        "name": "Capital Group New Economy Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5965,
+        "totalAssets": 4.3871,
+        "currentShares": 6726528,
+        "change": -1356396,
+        "change_p": -16.781
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5623,
+        "totalAssets": 0.6788,
+        "currentShares": 6341132,
+        "change": -17247,
+        "change_p": -0.2712
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5328,
+        "totalAssets": 0.6718,
+        "currentShares": 6008152,
+        "change": 24600,
+        "change_p": 0.4111
+      },
+      "19": {
+        "name": "Fidelity Select Semiconductors",
+        "date": "2026-02-28",
+        "totalShares": 0.4935,
+        "totalAssets": 7.0227,
+        "currentShares": 5565870,
+        "change": -1645216,
+        "change_p": -22.8151
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.4191,
+    "ForwardPE": 8.2713,
+    "PriceSalesTTM": 9.6383,
+    "PriceBookMRQ": 7.4974,
+    "EnterpriseValue": 556377057812,
+    "EnterpriseValueRevenue": 9.282,
+    "EnterpriseValueEbitda": 14.5568
+  },
+  "Highlights": {
+    "MarketCapitalization": 560168042496,
+    "MarketCapitalizationMln": 560168.0425,
+    "EBITDA": 36802998272,
+    "PERatio": 23.4191,
+    "PEGRatio": 0.2805,
+    "WallStreetTargetPrice": 533.725,
+    "BookValue": 64.237,
+    "DividendShare": 0.495,
+    "DividendYield": 0.001,
+    "EarningsShare": 21.21,
+    "EPSEstimateCurrentYear": 57.9543,
+    "EPSEstimateNextYear": 101.0736,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 8.7306,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.4149,
+    "OperatingMarginTTM": 0.6762,
+    "ReturnOnAssetsTTM": 0.2015,
+    "ReturnOnEquityTTM": 0.3982,
+    "RevenueTTM": 58119000064,
+    "RevenuePerShareTTM": 51.799,
+    "QuarterlyRevenueGrowthYOY": 1.963,
+    "GrossProfitTTM": 33962999808,
+    "DilutedEpsTTM": 21.21,
+    "QuarterlyEarningsGrowthYOY": 7.56
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.71,
+    "TotalEsgPercentile": 64.48,
+    "EnvironmentScore": 12.48,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 6.08,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 6.15,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MU",
+    "Type": "Common Stock",
+    "Name": "Micron Technology Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C5Z1S3",
+    "ISIN": "US5951121038",
+    "LEI": "B3DXGBC8GAIYWI2Z0172",
+    "PrimaryTicker": "MU.US",
+    "CUSIP": "595112103",
+    "CIK": "0000723125",
+    "EmployerIdNumber": "75-1618004",
+    "FiscalYearEnd": "August",
+    "IPODate": "1984-06-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductor Materials & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments. The company provides memory products, including dynamic random access memory components and modules, CXL-based memory, LPDDR components and modules, graphics memory, high-bandwidth memory, and data center memory products; multichip packages (MCP) comprising embedded multimedia card-based, universal flash storage-based, and NAND-based MCPs; and technology leadership products that include 1y DRAM and G9 NAND technologies. It also offers storage products, such as data center solid-state drives (SSD), client SSD storage, and auto and industrial SSD storage; managed NAND; NAND flash; NOR flash; and memory cards. In addition, the company provides design tools, including FBGA and part decoders; DRAM power calculators; NAND power calculators; simulation models; chipset compatibility guides; serial presence-detection tools; cross-reference tools; UFSparm; SSD firmware; software and drivers; storage executive software; and obsolete part catalogs. It markets its semiconductor memory and storage products under the Micron and Crucial brands. The company serves the data center, PC, graphics, networking, automotive, industrial, and consumer embedded markets, as well as the smartphone and other mobile-device markets. It sells its products through its direct sales force, independent sales representatives, distributors, and retailers; web-based customer direct sales channel; and channel and distribution partners. Micron Technology, Inc. was founded in 1978 and is headquartered in Boise, Idaho.",
+    "Address": "8000 South Federal Way, Boise, ID, United States, 83716-9632",
+    "AddressData": {
+      "Street": "8000 South Federal Way",
+      "City": "Boise",
+      "State": "ID",
+      "Country": "United States",
+      "ZIP": "83716-9632"
+    },
+    "Listings": {
+      "0": {
+        "Code": null,
+        "Exchange": null,
+        "Name": null
+      },
+      "1": {
+        "Code": null,
+        "Exchange": null,
+        "Name": null
+      },
+      "2": {
+        "Code": "0R2T",
+        "Exchange": "LSE",
+        "Name": "Micron Technology Inc"
+      },
+      "3": {
+        "Code": "MUTC34",
+        "Exchange": "SA",
+        "Name": "Micron Technology Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Sanjay  Mehrotra",
+        "Title": "CEO, President & Chairman",
+        "YearBorn": "1959"
+      },
+      "1": {
+        "Name": "Mr. Mark J. Murphy",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Mr. Manish H. Bhatia",
+        "Title": "Executive Vice President of Global Operations",
+        "YearBorn": "1972"
+      },
+      "3": {
+        "Name": "Dr. Scott J. DeBoer Ph.D.",
+        "Title": "Executive VP and Chief Technology & Products Officer",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Mr. Sumit  Sadana",
+        "Title": "Executive VP & Chief Business Officer",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Mr. Scott R. Allen",
+        "Title": "Corporate VP & Chief Accounting Officer",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Anand  Bahl",
+        "Title": "Corp. VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Satya  Kumar",
+        "Title": "Corporate VP of Investor Relations & Treasurer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Michael Charles Ray Ph.D.",
+        "Title": "Senior VP, Chief Legal Officer & Corporate Secretary",
+        "YearBorn": "1968"
+      },
+      "9": {
+        "Name": "Mr. Michael D. Cordano",
+        "Title": "Executive VP of Worldwide Sales",
+        "YearBorn": "1964"
+      }
+    },
+    "Phone": "208 368 4000",
+    "WebURL": "https://www.micron.com",
+    "LogoURL": "/img/logos/US/mu.png",
+    "FullTimeEmployees": 53000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1127734051,
+    "SharesFloat": 1123561435,
+    "PercentInsiders": 0.256,
+    "PercentInstitutions": 83.55,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0323
+  }
+}

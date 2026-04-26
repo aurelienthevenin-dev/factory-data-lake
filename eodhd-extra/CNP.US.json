@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 15.2738,
+        "totalAssets": 1.5152,
+        "currentShares": 99915395,
+        "change": 48423240,
+        "change_p": 94.04
+      },
+      "1": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 13.1512,
+        "totalAssets": 0.5171,
+        "currentShares": 86030252,
+        "change": -1099376,
+        "change_p": -1.2618
+      },
+      "2": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.5934,
+        "totalAssets": 0.0458,
+        "currentShares": 82381128,
+        "change": 719803,
+        "change_p": 0.8814
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4694,
+        "totalAssets": 0.0376,
+        "currentShares": 55403961,
+        "change": 1400410,
+        "change_p": 2.5932
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.1976,
+        "totalAssets": 0.0458,
+        "currentShares": 34000518,
+        "change": 919707,
+        "change_p": 2.7802
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.2013,
+        "totalAssets": 0.1482,
+        "currentShares": 20941909,
+        "change": 235346,
+        "change_p": 1.1366
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6024,
+        "totalAssets": 0.0401,
+        "currentShares": 17023720,
+        "change": 166305,
+        "change_p": 0.9865
+      },
+      "7": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.1411,
+        "totalAssets": 0.5562,
+        "currentShares": 14006526,
+        "change": -427332,
+        "change_p": -2.9606
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.8935,
+        "totalAssets": 0.0242,
+        "currentShares": 12386731,
+        "change": 216869,
+        "change_p": 1.782
+      },
+      "9": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.8144,
+        "totalAssets": 0.1482,
+        "currentShares": 11868919,
+        "change": -1125719,
+        "change_p": -8.663
+      },
+      "10": {
+        "name": "Neuberger Berman Group LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.6708,
+        "totalAssets": 0.3119,
+        "currentShares": 10929650,
+        "change": -309208,
+        "change_p": -2.7512
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3713,
+        "totalAssets": 0.0368,
+        "currentShares": 8970387,
+        "change": 438662,
+        "change_p": 5.1415
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3596,
+        "totalAssets": 0.0544,
+        "currentShares": 8893701,
+        "change": 734552,
+        "change_p": 9.0028
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3516,
+        "totalAssets": 0.0208,
+        "currentShares": 8841738,
+        "change": 1083995,
+        "change_p": 13.9731
+      },
+      "14": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.1923,
+        "totalAssets": 0.2902,
+        "currentShares": 7799756,
+        "change": -1003510,
+        "change_p": -11.3993
+      },
+      "15": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1806,
+        "totalAssets": 0.1778,
+        "currentShares": 7722893,
+        "change": 1256993,
+        "change_p": 19.4403
+      },
+      "16": {
+        "name": "Reaves W H & Co Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.172,
+        "totalAssets": 5.1414,
+        "currentShares": 7666518,
+        "change": 446252,
+        "change_p": 6.1805
+      },
+      "17": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.095,
+        "totalAssets": 0.0297,
+        "currentShares": 7163062,
+        "change": 126632,
+        "change_p": 1.7997
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9138,
+        "totalAssets": 0.0508,
+        "currentShares": 5978039,
+        "change": -96414,
+        "change_p": -1.5872
+      },
+      "19": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8685,
+        "totalAssets": 0.3588,
+        "currentShares": 5681646,
+        "change": -588744,
+        "change_p": -9.3893
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 6.2635,
+        "totalAssets": 1.6179,
+        "currentShares": 40973274,
+        "change": 13431952,
+        "change_p": 48.7702
+      },
+      "1": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 5.4562,
+        "totalAssets": 2.3264,
+        "currentShares": 35692638,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.2102,
+        "totalAssets": 0.9468,
+        "currentShares": 27541322,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1751,
+        "totalAssets": 0.0449,
+        "currentShares": 20770225,
+        "change": 132899,
+        "change_p": 0.644
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5415,
+        "totalAssets": 0.0504,
+        "currentShares": 16625404,
+        "change": -164650,
+        "change_p": -0.9806
+      },
+      "5": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.3335,
+        "totalAssets": 0.3971,
+        "currentShares": 15264944,
+        "change": 5673433,
+        "change_p": 59.1506
+      },
+      "6": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.156,
+        "totalAssets": 0.3063,
+        "currentShares": 14103541,
+        "change": -86817,
+        "change_p": -0.6118
+      },
+      "7": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 2.0349,
+        "totalAssets": 0.3732,
+        "currentShares": 13311249,
+        "change": 1084549,
+        "change_p": 8.8703
+      },
+      "8": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8691,
+        "totalAssets": 0.2898,
+        "currentShares": 12226700,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.7002,
+        "totalAssets": 1.9765,
+        "currentShares": 11122257,
+        "change": -9486,
+        "change_p": -0.0852
+      },
+      "10": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.525,
+        "totalAssets": 0.2159,
+        "currentShares": 9976107,
+        "change": 2353025,
+        "change_p": 30.8671
+      },
+      "11": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.4662,
+        "totalAssets": 0.209,
+        "currentShares": 9591511,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 1.3446,
+        "totalAssets": 0.3131,
+        "currentShares": 8795740,
+        "change": -451505,
+        "change_p": -4.8826
+      },
+      "13": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2829,
+        "totalAssets": 0.0503,
+        "currentShares": 8392487,
+        "change": -4572,
+        "change_p": -0.0544
+      },
+      "14": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2701,
+        "totalAssets": 0.0483,
+        "currentShares": 8308573,
+        "change": 13701,
+        "change_p": 0.1652
+      },
+      "15": {
+        "name": "JNL/T. Rowe Price Capital Appreciation A",
+        "date": "2025-12-31",
+        "totalShares": 1.2051,
+        "totalAssets": 2.0321,
+        "currentShares": 7883069,
+        "change": 846593,
+        "change_p": 12.0315
+      },
+      "16": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1653,
+        "totalAssets": 0.1404,
+        "currentShares": 7623082,
+        "change": -1892633,
+        "change_p": -19.8896
+      },
+      "17": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1552,
+        "totalAssets": 0.0502,
+        "currentShares": 7557003,
+        "change": -18620,
+        "change_p": -0.2458
+      },
+      "18": {
+        "name": "Pictet Glbl Sel Fd Glbl Utilities Eq P",
+        "date": "2025-12-31",
+        "totalShares": 1.1272,
+        "totalAssets": 3.8823,
+        "currentShares": 7373715,
+        "change": -655819,
+        "change_p": -8.1676
+      },
+      "19": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9224,
+        "totalAssets": 0.1154,
+        "currentShares": 6034041,
+        "change": -43237,
+        "change_p": -0.7115
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 26.0552,
+    "ForwardPE": 22.6757,
+    "PriceSalesTTM": 2.9518,
+    "PriceBookMRQ": 2.4672,
+    "EnterpriseValue": 51271577815,
+    "EnterpriseValueRevenue": 5.4968,
+    "EnterpriseValueEbitda": 13.5719
+  },
+  "Highlights": {
+    "MarketCapitalization": 27782578176,
+    "MarketCapitalizationMln": 27782.5782,
+    "EBITDA": 3662000128,
+    "PERatio": 26.0552,
+    "PEGRatio": 2.042,
+    "WallStreetTargetPrice": 46.125,
+    "BookValue": 17.083,
+    "DividendShare": 0.88,
+    "DividendYield": 0.0204,
+    "EarningsShare": 1.63,
+    "EPSEstimateCurrentYear": 1.9089,
+    "EPSEstimateNextYear": 2.0819,
+    "EPSEstimateNextQuarter": 0.3815,
+    "EPSEstimateCurrentQuarter": 0.5671,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1138,
+    "OperatingMarginTTM": 0.2212,
+    "ReturnOnAssetsTTM": 0.0284,
+    "ReturnOnEquityTTM": 0.0956,
+    "RevenueTTM": 9411999744,
+    "RevenuePerShareTTM": 14.415,
+    "QuarterlyRevenueGrowthYOY": 0.019,
+    "GrossProfitTTM": 4321999872,
+    "DilutedEpsTTM": 1.63,
+    "QuarterlyEarningsGrowthYOY": 0.067
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 29.93,
+    "TotalEsgPercentile": 60.06,
+    "EnvironmentScore": 9.4,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 7.48,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 3.06,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CNP",
+    "Type": "Common Stock",
+    "Name": "CenterPoint Energy Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000FDBX90",
+    "ISIN": "US15189T1079",
+    "LEI": "21TPXMRRHFKOBHDC8J74",
+    "PrimaryTicker": "CNP.US",
+    "CUSIP": "442161105",
+    "CIK": "0001130310",
+    "EmployerIdNumber": "74-0694415",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Multi-Utilities",
+    "GicSubIndustry": "Multi-Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "CenterPoint Energy, Inc. operates as a public utility holding company in the United States. The company operates through Electric; Natural Gas; and Corporate and Other segments. The Electric segment provides electric transmission and distribution services to electric customers and electric generation assets, as well as optimizes assets in the wholesale power market in Indiana Electric's service territory. The Natural Gas segment engages in the intrastate natural gas sales, and natural gas transportation and distribution for residential, commercial, and industrial customers in Indiana, Minnesota, Ohio, and Texas; permanent pipeline connections through interconnects with various interstate and intrastate pipeline companies; and provides home appliance maintenance and repair services to customers in Minnesota and home repair protection plans to natural gas customers in Indiana, Mississippi, Ohio, and Texas through a third party. As of December 31, 2025, it served approximately 2,859,313 metered customers; owned 355 substations with transformer capacity of 81,692 megavolt amperes; and owned and operated approximately 208 miles of intrastate pipeline in Louisiana and Texas. The company was founded in 1866 and is headquartered in Houston, Texas.",
+    "Address": "1111 Louisiana Street, Houston, TX, United States, 77002",
+    "AddressData": {
+      "Street": "1111 Louisiana Street",
+      "City": "Houston",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "77002"
+    },
+    "Listings": {
+      "0": {
+        "Code": "CNP",
+        "Exchange": "F",
+        "Name": "Ingredion Incorporated"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher A. Foster",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1980"
+      },
+      "1": {
+        "Name": "Mr. Jesus  Soto Jr.",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1968"
+      },
+      "2": {
+        "Name": "Ms. Monica  Karuturi",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Mr. Jason Michael Ryan",
+        "Title": "Executive Vice President of Regulatory Services & Government Affairs",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Mr. Russell Keith Wright",
+        "Title": "Chief Accounting Officer & VP",
+        "YearBorn": "1985"
+      },
+      "5": {
+        "Name": "Ms. Carol R. Helliker",
+        "Title": "Chief Ethics & Compliance Officer, Senior VP & Deputy General Counsel",
+        "YearBorn": "1961"
+      },
+      "6": {
+        "Name": "Mr. Keith F. Stephens",
+        "Title": "Senior VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Bertha  Villatoro",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Kristie L. Colvin",
+        "Title": "Advisor",
+        "YearBorn": "1964"
+      },
+      "9": {
+        "Name": "Mr. Jacqueline M. Richert",
+        "Title": "Chief Risk Officer",
+        "YearBorn": "1985"
+      }
+    },
+    "Phone": "713 207 1111",
+    "WebURL": "https://www.centerpointenergy.com",
+    "LogoURL": "/img/logos/US/CNP.png",
+    "FullTimeEmployees": 8794,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 654169480,
+    "SharesFloat": 650126713,
+    "PercentInsiders": 0.231,
+    "PercentInstitutions": 102.02199999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0803
+  }
+}

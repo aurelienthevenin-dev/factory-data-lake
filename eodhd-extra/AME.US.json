@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8609,
+        "totalAssets": 0.0809,
+        "currentShares": 27169255,
+        "change": -4450,
+        "change_p": -0.0164
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5644,
+        "totalAssets": 0.0646,
+        "currentShares": 19618113,
+        "change": -171143,
+        "change_p": -0.8648
+      },
+      "2": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 4.2911,
+        "totalAssets": 0.1977,
+        "currentShares": 9829481,
+        "change": -768943,
+        "change_p": -7.2553
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.2624,
+        "totalAssets": 0.0637,
+        "currentShares": 9763684,
+        "change": 126381,
+        "change_p": 1.3114
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.6693,
+        "totalAssets": 0.0473,
+        "currentShares": 8405084,
+        "change": 3657163,
+        "change_p": 77.0266
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5719,
+        "totalAssets": 0.0744,
+        "currentShares": 5891236,
+        "change": 37651,
+        "change_p": 0.6432
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.9635,
+        "totalAssets": 0.0471,
+        "currentShares": 4497741,
+        "change": 416204,
+        "change_p": 10.1972
+      },
+      "7": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9486,
+        "totalAssets": 0.1322,
+        "currentShares": 4463518,
+        "change": 209043,
+        "change_p": 4.9135
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.7678,
+        "totalAssets": 0.0889,
+        "currentShares": 4049351,
+        "change": 454010,
+        "change_p": 12.6277
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6821,
+        "totalAssets": 0.0439,
+        "currentShares": 3853025,
+        "change": 87752,
+        "change_p": 2.3306
+      },
+      "10": {
+        "name": "Flossbach von Storch AG",
+        "date": "2025-12-31",
+        "totalShares": 1.6678,
+        "totalAssets": 3.109,
+        "currentShares": 3820376,
+        "change": 36535,
+        "change_p": 0.9656
+      },
+      "11": {
+        "name": "EdgePoint Investment",
+        "date": "2025-12-31",
+        "totalShares": 1.2743,
+        "totalAssets": 4.9217,
+        "currentShares": 2918944,
+        "change": -12430,
+        "change_p": -0.424
+      },
+      "12": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.2257,
+        "totalAssets": 0.101,
+        "currentShares": 2807664,
+        "change": 2110818,
+        "change_p": 302.9103
+      },
+      "13": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1032,
+        "totalAssets": 0.1395,
+        "currentShares": 2526976,
+        "change": 1211134,
+        "change_p": 92.0425
+      },
+      "14": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0753,
+        "totalAssets": 0.0831,
+        "currentShares": 2463249,
+        "change": -1199895,
+        "change_p": -32.7559
+      },
+      "15": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0636,
+        "totalAssets": 0.0586,
+        "currentShares": 2436237,
+        "change": 10510,
+        "change_p": 0.4333
+      },
+      "16": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0198,
+        "totalAssets": 0.0588,
+        "currentShares": 2336069,
+        "change": -725243,
+        "change_p": -23.6906
+      },
+      "17": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8933,
+        "totalAssets": 0.0881,
+        "currentShares": 2046228,
+        "change": 11442,
+        "change_p": 0.5623
+      },
+      "18": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8919,
+        "totalAssets": 0.1937,
+        "currentShares": 2043029,
+        "change": 94645,
+        "change_p": 4.8576
+      },
+      "19": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.7723,
+        "totalAssets": 0.0704,
+        "currentShares": 1769070,
+        "change": 343525,
+        "change_p": 24.0978
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1748,
+        "totalAssets": 0.0781,
+        "currentShares": 7272349,
+        "change": -8938,
+        "change_p": -0.1228
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5588,
+        "totalAssets": 0.0883,
+        "currentShares": 5861402,
+        "change": -59952,
+        "change_p": -1.0125
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1594,
+        "totalAssets": 0.5336,
+        "currentShares": 4946417,
+        "change": -56974,
+        "change_p": -1.1387
+      },
+      "3": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.4744,
+        "totalAssets": 1.6874,
+        "currentShares": 3377292,
+        "change": -306866,
+        "change_p": -8.3293
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2917,
+        "totalAssets": 0.0881,
+        "currentShares": 2958798,
+        "change": -1608,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.279,
+        "totalAssets": 0.0936,
+        "currentShares": 2929635,
+        "change": 4830,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.2461,
+        "totalAssets": 1.8972,
+        "currentShares": 2854451,
+        "change": -12770,
+        "change_p": -0.4454
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1692,
+        "totalAssets": 0.0883,
+        "currentShares": 2678164,
+        "change": -6566,
+        "change_p": -0.2446
+      },
+      "8": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.087,
+        "totalAssets": 1.674,
+        "currentShares": 2489871,
+        "change": -324400,
+        "change_p": -11.527
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9239,
+        "totalAssets": 0.201,
+        "currentShares": 2116286,
+        "change": -26855,
+        "change_p": -1.2531
+      },
+      "10": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8825,
+        "totalAssets": 1.0128,
+        "currentShares": 2021536,
+        "change": 2021536,
+        "change_p": 0
+      },
+      "11": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.7732,
+        "totalAssets": 0.144,
+        "currentShares": 1771212,
+        "change": 729212,
+        "change_p": 69.982
+      },
+      "12": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7603,
+        "totalAssets": 1.2777,
+        "currentShares": 1741621,
+        "change": -169765,
+        "change_p": -8.8818
+      },
+      "13": {
+        "name": "FvS SICAV Multiple Opportunities F",
+        "date": "2025-12-31",
+        "totalShares": 0.7003,
+        "totalAssets": 1.2065,
+        "currentShares": 1604197,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Invesco World Dev Countries Eq Mother",
+        "date": "2025-07-23",
+        "totalShares": 0.6764,
+        "totalAssets": 1.5013,
+        "currentShares": 1549500,
+        "change": -82,
+        "change_p": -0.0053
+      },
+      "15": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5743,
+        "totalAssets": 0.8826,
+        "currentShares": 1315541,
+        "change": -24242,
+        "change_p": -1.8094
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5662,
+        "totalAssets": 0.0881,
+        "currentShares": 1297002,
+        "change": -6516,
+        "change_p": -0.4999
+      },
+      "17": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5585,
+        "totalAssets": 0.9757,
+        "currentShares": 1279216,
+        "change": -8856,
+        "change_p": -0.6875
+      },
+      "18": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 0.5497,
+        "totalAssets": 1.0442,
+        "currentShares": 1259216,
+        "change": -56325,
+        "change_p": -4.2815
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5365,
+        "totalAssets": 0.0872,
+        "currentShares": 1228827,
+        "change": 1700,
+        "change_p": 0.1385
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 36.7429,
+    "ForwardPE": 29.4118,
+    "PriceSalesTTM": 7.2098,
+    "PriceBookMRQ": 5.0646,
+    "EnterpriseValue": 55247282685,
+    "EnterpriseValueRevenue": 7.5282,
+    "EnterpriseValueEbitda": 24.1995
+  },
+  "Highlights": {
+    "MarketCapitalization": 53360791552,
+    "MarketCapitalizationMln": 53360.7916,
+    "EBITDA": 2358420992,
+    "PERatio": 36.7429,
+    "PEGRatio": 2.9449,
+    "WallStreetTargetPrice": 250,
+    "BookValue": 46.406,
+    "DividendShare": 1.24,
+    "DividendYield": 0.0053,
+    "EarningsShare": 6.34,
+    "EPSEstimateCurrentYear": 8.0609,
+    "EPSEstimateNextYear": 8.7183,
+    "EPSEstimateNextQuarter": 1.8998,
+    "EPSEstimateCurrentQuarter": 1.944,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2,
+    "OperatingMarginTTM": 0.2752,
+    "ReturnOnAssetsTTM": 0.0788,
+    "ReturnOnEquityTTM": 0.1459,
+    "RevenueTTM": 7401116160,
+    "RevenuePerShareTTM": 32.116,
+    "QuarterlyRevenueGrowthYOY": 0.134,
+    "GrossProfitTTM": 2692739072,
+    "DilutedEpsTTM": 6.34,
+    "QuarterlyEarningsGrowthYOY": 0.036
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.32,
+    "TotalEsgPercentile": 56.8,
+    "EnvironmentScore": 10.08,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 15.44,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 8.8,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AME",
+    "Type": "Common Stock",
+    "Name": "Ametek Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000B9XG87",
+    "ISIN": "US0311001004",
+    "LEI": "549300WZDEF9KKE40E98",
+    "PrimaryTicker": "AME.US",
+    "CUSIP": "031100100",
+    "CIK": "0001037868",
+    "EmployerIdNumber": "14-1682544",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-07-19",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Electrical Equipment",
+    "GicSubIndustry": "Electrical Components & Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "AMETEK, Inc. manufactures and sells electronic instruments (EIG) and electromechanical (EMG) devices in the United States and internationally. It operates through EIG and EMG segments. The company offers advanced instruments for the process, aerospace, power, and industrial markets; process and analytical instruments for the oil and gas, petrochemical, pharmaceutical, semiconductor, automation, and food and beverage industries; instruments to the laboratory equipment, ultra-precision manufacturing, medical, and test and measurement markets; power quality monitoring and metering devices, uninterruptible power supplies, programmable power and electromagnetic compatibility test equipment, and gas turbines sensors; dashboard instruments for heavy trucks and other vehicles; instrumentation and controls for food and beverage industries; and aircraft and engine sensors, embedded computing, monitoring, power supplies, fuel and fluid measurement, and data acquisition systems for aerospace and defense industry. It also provides engineered medical components and devices, automation solutions, thermal management systems, specialty metals, and electrical interconnects; single-use and consumable surgical instruments, implantable components, and drug delivery systems; engineered electrical connectors and electronics packaging; precision motion control products for data storage, medical devices, business equipment, automation, and other application; high-purity powdered metals, strips and foils, specialty clad metals, and metal matrix composites; motor-blower systems and heat exchangers for thermal management, military and commercial aircraft, and military ground vehicles; and motors used in commercial appliances, food and beverage machines, hydraulic pumps, and industrial blowers, as well as operates a network of aviation maintenance, repair, and overhaul facilities. AMETEK, Inc. was incorporated in 1930 and is headquartered in Berwyn, Pennsylvania.",
+    "Address": "1100 Cassatt Road, Berwyn, PA, United States, 19312-1177",
+    "AddressData": {
+      "Street": "1100 Cassatt Road",
+      "City": "Berwyn",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "19312-1177"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. David A. Zapico",
+        "Title": "Chairman of the Board & CEO",
+        "YearBorn": "1965"
+      },
+      "1": {
+        "Name": "Mr. Dalip Mohan Puri",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1973"
+      },
+      "2": {
+        "Name": "Mr. Ronald J. Oscher",
+        "Title": "Chief Administrative Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. John Wesley Hardin Jr.",
+        "Title": "President of Electronic Instruments",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. David F. Hermance",
+        "Title": "President of Electromechanical Group",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Ms. Isabel S. Wells",
+        "Title": "VP of Information Technology & Chief Information Officer",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Mr. Kevin C. Coleman CPA",
+        "Title": "VP of Investor Relations & Treasurer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Robert S. Feit J.D.",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1963"
+      },
+      "8": {
+        "Name": "Ms. Vinatha  Nathan",
+        "Title": "VP and GM of Measurement, Communications & Testing",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. William D. Eginton",
+        "Title": "Senior Vice President of Corporate Development",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "610 647 2121",
+    "WebURL": "https://www.ametek.com",
+    "LogoURL": "/img/logos/US/AME.png",
+    "FullTimeEmployees": 22500,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 229065429,
+    "SharesFloat": 227617077,
+    "PercentInsiders": 0.43,
+    "PercentInstitutions": 92.545,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0159
+  }
+}

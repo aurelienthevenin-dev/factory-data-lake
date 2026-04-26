@@ -1,0 +1,571 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.9517,
+        "totalAssets": 0.0756,
+        "currentShares": 67980692,
+        "change": 497108,
+        "change_p": 0.7366
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.0931,
+        "totalAssets": 0.0702,
+        "currentShares": 59584523,
+        "change": 2148745,
+        "change_p": 3.7411
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8571,
+        "totalAssets": 0.088,
+        "currentShares": 37719091,
+        "change": 2789273,
+        "change_p": 7.9854
+      },
+      "3": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 3.0786,
+        "totalAssets": 0.6381,
+        "currentShares": 30106288,
+        "change": -4714821,
+        "change_p": -13.5401
+      },
+      "4": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 2.6862,
+        "totalAssets": 2.428,
+        "currentShares": 26268567,
+        "change": -634328,
+        "change_p": -2.3578
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0068,
+        "totalAssets": 0.0932,
+        "currentShares": 19625097,
+        "change": 330766,
+        "change_p": 1.7143
+      },
+      "6": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.7576,
+        "totalAssets": 0.5282,
+        "currentShares": 17188098,
+        "change": -236281,
+        "change_p": -1.356
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.352,
+        "totalAssets": 0.0267,
+        "currentShares": 13221374,
+        "change": 1185579,
+        "change_p": 9.8504
+      },
+      "8": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3263,
+        "totalAssets": 0.0592,
+        "currentShares": 12969569,
+        "change": 365550,
+        "change_p": 2.9003
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2476,
+        "totalAssets": 0.0497,
+        "currentShares": 12200286,
+        "change": -5290584,
+        "change_p": -30.2477
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1939,
+        "totalAssets": 0.1238,
+        "currentShares": 11675603,
+        "change": 692192,
+        "change_p": 6.3022
+      },
+      "11": {
+        "name": "Schroder Investment Management Group",
+        "date": "2025-12-31",
+        "totalShares": 0.9895,
+        "totalAssets": 0.5624,
+        "currentShares": 9676260,
+        "change": 1500577,
+        "change_p": 18.3541
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9218,
+        "totalAssets": 0.0739,
+        "currentShares": 9014004,
+        "change": 320137,
+        "change_p": 3.6823
+      },
+      "13": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8984,
+        "totalAssets": 0.0343,
+        "currentShares": 8785116,
+        "change": 725861,
+        "change_p": 9.0066
+      },
+      "14": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.8944,
+        "totalAssets": 0.1756,
+        "currentShares": 8746773,
+        "change": -414549,
+        "change_p": -4.525
+      },
+      "15": {
+        "name": "Ninety One UK Limited",
+        "date": "2025-12-31",
+        "totalShares": 0.878,
+        "totalAssets": 1.4114,
+        "currentShares": 8586241,
+        "change": -11329429,
+        "change_p": -56.887
+      },
+      "16": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.8692,
+        "totalAssets": 0.1142,
+        "currentShares": 8499546,
+        "change": 4858109,
+        "change_p": 133.4119
+      },
+      "17": {
+        "name": "BROADWOOD CAPITAL Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8384,
+        "totalAssets": 36.9291,
+        "currentShares": 8198996,
+        "change": -51432,
+        "change_p": -0.6234
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8045,
+        "totalAssets": 0.0677,
+        "currentShares": 7867341,
+        "change": 95919,
+        "change_p": 1.2343
+      },
+      "19": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7182,
+        "totalAssets": 0.4311,
+        "currentShares": 7023538,
+        "change": -951359,
+        "change_p": -11.9294
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.2217,
+        "totalAssets": 0.0789,
+        "currentShares": 21726325,
+        "change": 98031,
+        "change_p": 0.4533
+      },
+      "1": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0996,
+        "totalAssets": 0.4009,
+        "currentShares": 20531634,
+        "change": -68671,
+        "change_p": -0.3333
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.8572,
+        "totalAssets": 0.0925,
+        "currentShares": 18162038,
+        "change": -180459,
+        "change_p": -0.9838
+      },
+      "3": {
+        "name": "JPMorgan Large Cap Growth I",
+        "date": "2026-02-28",
+        "totalShares": 1.14,
+        "totalAssets": 0.8358,
+        "currentShares": 11148366,
+        "change": 8779602,
+        "change_p": 370.6406
+      },
+      "4": {
+        "name": "AllianceBernstein US L/C Growth Eqty MF",
+        "date": "2026-02-27",
+        "totalShares": 1.0724,
+        "totalAssets": 2.6433,
+        "currentShares": 10487282,
+        "change": -166760,
+        "change_p": -1.5652
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9375,
+        "totalAssets": 0.0923,
+        "currentShares": 9168089,
+        "change": -4992,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.9282,
+        "totalAssets": 0.1034,
+        "currentShares": 9076699,
+        "change": 14974,
+        "change_p": 0.1652
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8478,
+        "totalAssets": 0.0924,
+        "currentShares": 8290469,
+        "change": -20335,
+        "change_p": -0.2447
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.8089,
+        "totalAssets": 0.1804,
+        "currentShares": 7910635,
+        "change": -226816,
+        "change_p": -2.7873
+      },
+      "9": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7631,
+        "totalAssets": 3.4892,
+        "currentShares": 7462246,
+        "change": -3293,
+        "change_p": -0.0441
+      },
+      "10": {
+        "name": "Loomis Sayles Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.6928,
+        "totalAssets": 3.3994,
+        "currentShares": 6774850,
+        "change": -53867,
+        "change_p": -0.7888
+      },
+      "11": {
+        "name": "AB Large Cap Growth A",
+        "date": "2026-02-28",
+        "totalShares": 0.6038,
+        "totalAssets": 2.136,
+        "currentShares": 5905040,
+        "change": -315817,
+        "change_p": -5.0767
+      },
+      "12": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.6006,
+        "totalAssets": 0.4863,
+        "currentShares": 5873275,
+        "change": 1067090,
+        "change_p": 22.2024
+      },
+      "13": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.4915,
+        "totalAssets": 0.3828,
+        "currentShares": 4806185,
+        "change": 17500,
+        "change_p": 0.3654
+      },
+      "14": {
+        "name": "MFS Growth B",
+        "date": "2026-02-28",
+        "totalShares": 0.4387,
+        "totalAssets": 0.9134,
+        "currentShares": 4290021,
+        "change": -33709,
+        "change_p": -0.7796
+      },
+      "15": {
+        "name": "MFS Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.4141,
+        "totalAssets": 0.7098,
+        "currentShares": 4049719,
+        "change": 4049719,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4109,
+        "totalAssets": 0.0923,
+        "currentShares": 4017941,
+        "change": -21062,
+        "change_p": -0.5215
+      },
+      "17": {
+        "name": "Janus Concentrated Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 0.4032,
+        "totalAssets": 1.2634,
+        "currentShares": 3942940,
+        "change": -3296448,
+        "change_p": -45.5349
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.3893,
+        "totalAssets": 0.0913,
+        "currentShares": 3807248,
+        "change": 5200,
+        "change_p": 0.1368
+      },
+      "19": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.389,
+        "totalAssets": 0.3998,
+        "currentShares": 3804330,
+        "change": 16244,
+        "change_p": 0.4288
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 40.3247,
+    "ForwardPE": 33.7838,
+    "PriceSalesTTM": 9.2233,
+    "PriceBookMRQ": 9.1889,
+    "EnterpriseValue": 74142031066,
+    "EnterpriseValueRevenue": 8.9389,
+    "EnterpriseValueEbitda": 29.2613
+  },
+  "Highlights": {
+    "MarketCapitalization": 76501590016,
+    "MarketCapitalizationMln": 76501.59,
+    "EBITDA": 2658503936,
+    "PERatio": 40.3247,
+    "PEGRatio": 2.2381,
+    "WallStreetTargetPrice": 85.4626,
+    "BookValue": 8.439,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 1.94,
+    "EPSEstimateCurrentYear": 2.2387,
+    "EPSEstimateNextYear": 2.5375,
+    "EPSEstimateNextQuarter": 0.5315,
+    "EPSEstimateCurrentQuarter": 0.4817,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2297,
+    "OperatingMarginTTM": 0.3132,
+    "ReturnOnAssetsTTM": 0.1796,
+    "ReturnOnEquityTTM": 0.2682,
+    "RevenueTTM": 8294343168,
+    "RevenuePerShareTTM": 8.499,
+    "QuarterlyRevenueGrowthYOY": 0.176,
+    "GrossProfitTTM": 4632195072,
+    "DilutedEpsTTM": 1.94,
+    "QuarterlyEarningsGrowthYOY": 0.666
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 31.24,
+    "TotalEsgPercentile": 67.12,
+    "EnvironmentScore": 10.18,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 10.8,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 3.76,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "MNST",
+    "Type": "Common Stock",
+    "Name": "Monster Beverage Corp",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG008NVB1C0",
+    "ISIN": "US61174X1090",
+    "LEI": "52990090AP0E7HCB6F33",
+    "PrimaryTicker": "MNST.US",
+    "CUSIP": "61174X109",
+    "CIK": "0000865752",
+    "EmployerIdNumber": "47-1809393",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-08-18",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Beverages - Non-Alcoholic",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Beverages",
+    "GicSubIndustry": "Soft Drinks & Non-alcoholic Beverages",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Monster Beverage Corporation, through its subsidiaries, engages in development, marketing, sale, and distribution of energy drink beverages and concentrates in the United States and internationally. The company operates through four segments: Monster Energy Drinks, Strategic Brands, Alcohol Brands, and Other. It offers carbonated non-carbonated energy drinks, ready-to-drink iced teas, lemonades, juice cocktails, single-serve juices and fruit beverages, ready-to-drink dairy and coffee drinks, energy drinks, sports drinks and single-serve still waters, and sodas that are considered natural, sparkling juices, and flavored sparkling beverages. In addition, the company provides its products under the Monster Energy, Monster Energy Ultra, Rehab Monster, Monster Energy Nitro, Java Monster, Punch Monster, Juice Monster, Monster Tour Water, Reign Total Body Fuel, Reign Storm, Bang Energy, NOS, Full Throttle, Burn, Mother, Nalu, Ultra Energy, Play and Power Play, Relentless, BPM, BU, Samurai, Live+, Predator, and Fury brands. Further, it offers craft beers, flavored malt beverages,and hard seltzers under the Jai Alai IPA, Florida Man IPA, Dale's Pale Ale, Wild Basin Hard Seltzers, Dallas Blonde, Deep Ellum IPA, Perrin Brewing Company Black Ale, Hop Rising Double IPA, Wasatch Apricot Hefeweizen, The Beast, and Beast Tea, Blind Lemon, and Blinder Lemon brands. The company engages in the concentrates and/or beverage bases to authorized bottling, and canning operations. It sells its products to full-service beverage bottlers/distributors, retail grocery and specialty chains, wholesalers, club stores, mass merchandisers, convenience and gas chains, food service customers, value stores, e-commerce retailers, and the military. The company was formerly known as Hansen Natural Corporation and changed its name to Monster Beverage Corporation in January 2012. Monster Beverage Corporation was founded in 1985 and is headquartered in Corona, California.",
+    "Address": "1 Monster Way, Corona, CA, United States, 92879",
+    "AddressData": {
+      "Street": "1 Monster Way",
+      "City": "Corona",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "92879"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Hilton H. Schlosberg",
+        "Title": "CEO & Vice Chairman",
+        "YearBorn": "1953"
+      },
+      "1": {
+        "Name": "Mr. Thomas J. Kelly CPA",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1954"
+      },
+      "2": {
+        "Name": "Mr. Guy P. Carling",
+        "Title": "Chief Executive Officer for EMEA & OSP",
+        "YearBorn": "1977"
+      },
+      "3": {
+        "Name": "Ms. Emelie C. Tirre",
+        "Title": "Chief Strategy Officer",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Rob L. Gehring",
+        "Title": "Chief Executive Officer for Americas",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Mr. Mark Stiefel Astrachan",
+        "Title": "SVP of Investor Relations & Corporate Development",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Paul J. Dechary",
+        "Title": "Secretary, Executive VP & General Counsel",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "951 739 6200",
+    "WebURL": "https://www.monsterbevcorp.com",
+    "LogoURL": "/img/logos/US/mnst.png",
+    "FullTimeEmployees": 5773,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 977906022,
+    "SharesFloat": 698759220,
+    "PercentInsiders": 28.488000000000003,
+    "PercentInstitutions": 69.459,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0327
+  }
+}

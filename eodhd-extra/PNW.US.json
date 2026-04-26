@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.1141,
+        "totalAssets": 0.0189,
+        "currentShares": 14661160,
+        "change": -11255,
+        "change_p": -0.0767
+      },
+      "1": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 11.1273,
+        "totalAssets": 0.2205,
+        "currentShares": 13466845,
+        "change": -2386457,
+        "change_p": -15.0534
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.979,
+        "totalAssets": 0.0171,
+        "currentShares": 10866953,
+        "change": 283870,
+        "change_p": 2.6823
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.527,
+        "totalAssets": 0.0208,
+        "currentShares": 6689093,
+        "change": 32470,
+        "change_p": 0.4878
+      },
+      "4": {
+        "name": "Barrow Hanley Mewhinney & Strauss LLC",
+        "date": "2025-12-31",
+        "totalShares": 5.5229,
+        "totalAssets": 1.9744,
+        "currentShares": 6684100,
+        "change": -539625,
+        "change_p": -7.4702
+      },
+      "5": {
+        "name": "ATLAS Infrastructure Partners (UK) Ltd",
+        "date": "2025-12-31",
+        "totalShares": 3.6862,
+        "totalAssets": 19.8411,
+        "currentShares": 4461243,
+        "change": 1369350,
+        "change_p": 44.2884
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 3.4499,
+        "totalAssets": 0.059,
+        "currentShares": 4175244,
+        "change": -73710,
+        "change_p": -1.7348
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5579,
+        "totalAssets": 0.0169,
+        "currentShares": 3095691,
+        "change": 27861,
+        "change_p": 0.9082
+      },
+      "8": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 2.3965,
+        "totalAssets": 0.083,
+        "currentShares": 2900385,
+        "change": -83241,
+        "change_p": -2.7899
+      },
+      "9": {
+        "name": "Soroban Capital Partners LP",
+        "date": "2025-12-31",
+        "totalShares": 2.3775,
+        "totalAssets": 1.8001,
+        "currentShares": 2877404,
+        "change": 2877404,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5995,
+        "totalAssets": 0.0105,
+        "currentShares": 1935861,
+        "change": 25939,
+        "change_p": 1.3581
+      },
+      "11": {
+        "name": "Reaves W H & Co Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.421,
+        "totalAssets": 2.6682,
+        "currentShares": 1719774,
+        "change": -84340,
+        "change_p": -4.6749
+      },
+      "12": {
+        "name": "Two Sigma Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3701,
+        "totalAssets": 0.286,
+        "currentShares": 1658191,
+        "change": 612391,
+        "change_p": 58.5572
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3085,
+        "totalAssets": 0.015,
+        "currentShares": 1583634,
+        "change": 305176,
+        "change_p": 23.8706
+      },
+      "14": {
+        "name": "Pictet Asset Manangement SA",
+        "date": "2025-12-31",
+        "totalShares": 1.253,
+        "totalAssets": 0.1305,
+        "currentShares": 1516460,
+        "change": -150029,
+        "change_p": -9.0027
+      },
+      "15": {
+        "name": "First Trust Advisors L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.1329,
+        "totalAssets": 0.0884,
+        "currentShares": 1371150,
+        "change": 63729,
+        "change_p": 4.8744
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0896,
+        "totalAssets": 0.0245,
+        "currentShares": 1318711,
+        "change": 53060,
+        "change_p": 4.1923
+      },
+      "17": {
+        "name": "Two Sigma Investments LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0819,
+        "totalAssets": 0.1638,
+        "currentShares": 1309421,
+        "change": 223124,
+        "change_p": 20.5399
+      },
+      "18": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0667,
+        "totalAssets": 0.0308,
+        "currentShares": 1290974,
+        "change": 860394,
+        "change_p": 199.8221
+      },
+      "19": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9234,
+        "totalAssets": 0.0154,
+        "currentShares": 1117500,
+        "change": 10625,
+        "change_p": 0.9599
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 4.2462,
+        "totalAssets": 0.3743,
+        "currentShares": 5138988,
+        "change": 2645652,
+        "change_p": 106.1089
+      },
+      "1": {
+        "name": "American Funds Capital Income Bldr A",
+        "date": "2026-03-31",
+        "totalShares": 3.6457,
+        "totalAssets": 0.3666,
+        "currentShares": 4412220,
+        "change": 146875,
+        "change_p": 3.4434
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1745,
+        "totalAssets": 0.0194,
+        "currentShares": 3841905,
+        "change": 61642,
+        "change_p": 1.6306
+      },
+      "3": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5186,
+        "totalAssets": 0.0216,
+        "currentShares": 3048212,
+        "change": -30072,
+        "change_p": -0.9769
+      },
+      "4": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 2.3067,
+        "totalAssets": 0.1693,
+        "currentShares": 2791673,
+        "change": 73352,
+        "change_p": 2.6984
+      },
+      "5": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 2.0602,
+        "totalAssets": 0.1553,
+        "currentShares": 2493336,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 2.0305,
+        "totalAssets": 0.2265,
+        "currentShares": 2457400,
+        "change": 1310943,
+        "change_p": 114.3473
+      },
+      "7": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.876,
+        "totalAssets": 1.0263,
+        "currentShares": 2270457,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.8511,
+        "totalAssets": 0.1361,
+        "currentShares": 2240323,
+        "change": 370002,
+        "change_p": 19.7828
+      },
+      "9": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6848,
+        "totalAssets": 0.8458,
+        "currentShares": 2038999,
+        "change": -1737,
+        "change_p": -0.0851
+      },
+      "10": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.5454,
+        "totalAssets": 0.0943,
+        "currentShares": 1870321,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.4678,
+        "totalAssets": 0.2947,
+        "currentShares": 1776390,
+        "change": 30725,
+        "change_p": 1.7601
+      },
+      "12": {
+        "name": "Barrow Hanley Global Value Equity",
+        "date": "2026-03-31",
+        "totalShares": 1.4269,
+        "totalAssets": 2.5352,
+        "currentShares": 1726898,
+        "change": 222801,
+        "change_p": 14.8129
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.426,
+        "totalAssets": 0.2039,
+        "currentShares": 1725812,
+        "change": 5109,
+        "change_p": 0.2969
+      },
+      "14": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2714,
+        "totalAssets": 0.0215,
+        "currentShares": 1538780,
+        "change": -840,
+        "change_p": -0.0546
+      },
+      "15": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2586,
+        "totalAssets": 0.0204,
+        "currentShares": 1523187,
+        "change": 2492,
+        "change_p": 0.1639
+      },
+      "16": {
+        "name": "Pictet Glbl Sel Fd Glbl Utilities Eq P",
+        "date": "2025-12-31",
+        "totalShares": 1.2053,
+        "totalAssets": 1.7821,
+        "currentShares": 1458766,
+        "change": -122763,
+        "change_p": -7.7623
+      },
+      "17": {
+        "name": "MFS Mid Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.1649,
+        "totalAssets": 0.7536,
+        "currentShares": 1409864,
+        "change": -57092,
+        "change_p": -3.8919
+      },
+      "18": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1582,
+        "totalAssets": 0.0217,
+        "currentShares": 1401759,
+        "change": -3430,
+        "change_p": -0.2441
+      },
+      "19": {
+        "name": "MFS Mid Cap Value A",
+        "date": "2026-02-28",
+        "totalShares": 1.134,
+        "totalAssets": 0.7952,
+        "currentShares": 1372373,
+        "change": -17272,
+        "change_p": -1.2429
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.2574,
+    "ForwardPE": 21.7865,
+    "PriceSalesTTM": 2.3186,
+    "PriceBookMRQ": 1.7768,
+    "EnterpriseValue": 26813131699,
+    "EnterpriseValueRevenue": 5.0212,
+    "EnterpriseValueEbitda": 12.5886
+  },
+  "Highlights": {
+    "MarketCapitalization": 12380923904,
+    "MarketCapitalizationMln": 12380.9239,
+    "EBITDA": 2049665024,
+    "PERatio": 20.2574,
+    "PEGRatio": 3.0707,
+    "WallStreetTargetPrice": 105.8571,
+    "BookValue": 58.281,
+    "DividendShare": 3.595,
+    "DividendYield": 0.0348,
+    "EarningsShare": 5.05,
+    "EPSEstimateCurrentYear": 4.7021,
+    "EPSEstimateNextYear": 5.6521,
+    "EPSEstimateNextQuarter": -0.0113,
+    "EPSEstimateCurrentQuarter": 0.0496,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1155,
+    "OperatingMarginTTM": 0.1099,
+    "ReturnOnAssetsTTM": 0.0241,
+    "ReturnOnEquityTTM": 0.0906,
+    "RevenueTTM": 5339938816,
+    "RevenuePerShareTTM": 44.616,
+    "QuarterlyRevenueGrowthYOY": 0.03,
+    "GrossProfitTTM": 2221454080,
+    "DilutedEpsTTM": 5.05,
+    "QuarterlyEarningsGrowthYOY": 0.006
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.34,
+    "TotalEsgPercentile": 56.32,
+    "EnvironmentScore": 18.23,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 13.79,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.83,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "PNW",
+    "Type": "Common Stock",
+    "Name": "Pinnacle West Capital Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BRDSX5",
+    "ISIN": "US7234841010",
+    "LEI": "TWSEY0NEDUDCKS27AH81",
+    "PrimaryTicker": "PNW.US",
+    "CUSIP": "723484101",
+    "CIK": "0000764622",
+    "EmployerIdNumber": "86-0512431",
+    "FiscalYearEnd": "December",
+    "IPODate": "1984-07-19",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Pinnacle West Capital Corporation, through its subsidiary, provides retail and wholesale electric services in the state of Arizona. The company engages in the generation, transmission, and distribution of electricity using nuclear, gas, oil, coal, and solar generating facilities. Its transmission facilities include overhead lines and underground lines; and distribution facilities consist of overhead lines and underground primary cables. The company also owns and maintains substations, including transmission and distribution yards; and owns energy storage facilities. Pinnacle West Capital Corporation was incorporated in 1985 and is headquartered in Phoenix, Arizona.",
+    "Address": "400 North Fifth Street, Phoenix, AZ, United States, 85072-3999",
+    "AddressData": {
+      "Street": "400 North Fifth Street",
+      "City": "Phoenix",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85072-3999"
+    },
+    "Listings": {
+      "0": {
+        "Code": null,
+        "Exchange": null,
+        "Name": null
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Theodore N. Geisler",
+        "Title": "Chairman of the Board, President & CEO",
+        "YearBorn": "1979"
+      },
+      "1": {
+        "Name": "Mr. Andrew D. Cooper",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1979"
+      },
+      "2": {
+        "Name": "Ms. Shirley A. Baum",
+        "Title": "Senior VP, Corporate Secretary & General Counsel",
+        "YearBorn": "1974"
+      },
+      "3": {
+        "Name": "Mr. Adam C. Heflin",
+        "Title": "Executive VP & Chief Nuclear Officer of APS",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Mr. Jacob  Tetlow",
+        "Title": "Executive VP & Chief Operating Officer of APS",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Ms. Elizabeth A. Blankenship",
+        "Title": "VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Ms. Amanda  Ho",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Todd  Horton",
+        "Title": "SVP of Nuclear Regulatory & Oversight of Palo Verde Generating Station for APS",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Diane  Wood",
+        "Title": "Assistant VP & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Christopher R. Bauer",
+        "Title": "VP & Treasurer",
+        "YearBorn": "1976"
+      }
+    },
+    "Phone": "602 250 1000",
+    "WebURL": "https://www.pinnaclewest.com",
+    "LogoURL": "/img/logos/US/PNW.png",
+    "FullTimeEmployees": 6610,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 121025652,
+    "SharesFloat": 120146104,
+    "PercentInsiders": 0.149,
+    "PercentInstitutions": 104.315,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0727
+  }
+}

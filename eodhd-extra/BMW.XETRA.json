@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 6.822,
+    "ForwardPE": 7.657,
+    "PriceSalesTTM": 0.3609,
+    "PriceBookMRQ": 0.5144,
+    "EnterpriseValue": 116255084062,
+    "EnterpriseValueRevenue": 0.8711,
+    "EnterpriseValueEbitda": 5.9649
+  },
+  "Highlights": {
+    "MarketCapitalization": 48169553920,
+    "MarketCapitalizationMln": 48169.5539,
+    "EBITDA": 15742000128,
+    "PERatio": 6.822,
+    "PEGRatio": 0.633,
+    "WallStreetTargetPrice": 90.1913,
+    "BookValue": 157.622,
+    "DividendShare": 4.4,
+    "DividendYield": 0.0543,
+    "EarningsShare": 11.63,
+    "EPSEstimateCurrentYear": 10.5646,
+    "EPSEstimateNextYear": 12.0437,
+    "EPSEstimateNextQuarter": 3.04,
+    "EPSEstimateCurrentQuarter": 1.37,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0547,
+    "OperatingMarginTTM": 0.0563,
+    "ReturnOnAssetsTTM": 0.0232,
+    "ReturnOnEquityTTM": 0.0773,
+    "RevenueTTM": 133452996608,
+    "RevenuePerShareTTM": 217.513,
+    "QuarterlyRevenueGrowthYOY": -0.081,
+    "GrossProfitTTM": 18397999104,
+    "DilutedEpsTTM": 11.63,
+    "QuarterlyEarningsGrowthYOY": 0.213
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.46,
+    "TotalEsgPercentile": 52.54,
+    "EnvironmentScore": 14.41,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 15.02,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 19.52,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BMW",
+    "Type": "Common Stock",
+    "Name": "Bayerische Motoren Werke Aktiengesellschaft",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0005190003",
+    "LEI": "YEH5ZCD6E441RHVHD759",
+    "PrimaryTicker": "BMW.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Automobiles & Components",
+    "GicIndustry": "Automobiles",
+    "GicSubIndustry": "Automobile Manufacturers",
+    "Description": "Bayerische Motoren Werke Aktiengesellschaft develops, manufactures, and sells automobiles and motorcycles, spare parts, and accessories worldwide. It operates through Automotive, Motorcycles, and Financial Services segments. The company offers automobiles under the BMW, MINI, and Rolls-Royce brands. It also develops, manufactures, and sells scooters, and motorcycles for private use and special-purpose vehicles for operational use under the BMW Motorrad brand. In addition, the company provides car rentals; credit financing; leasing that include insurance and service products; financing for dealership and customer deposits; vehicle fleet financing services for corporate car fleets under the Alphabet brand; and financial services for the automotive sector. It sells its products through retail outlet, agent, and independent dealerships. Bayerische Motoren Werke Aktiengesellschaft was founded in 1916 and is headquartered in Munich, Germany.",
+    "Address": "Petuelring 130, Munich, Germany, 80809",
+    "AddressData": {
+      "Street": "Petuelring 130",
+      "City": "Munich",
+      "Country": "Germany",
+      "ZIP": "80809"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Oliver  Zipse",
+        "Title": "Chairman of the Board of Management & CEO",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Mr. Walter  Mertl",
+        "Title": "Member of Management Board of Finance",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Jochen  Goller",
+        "Title": "Member of the Board of Management of Customer, Brands & Sales",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Dr. Milan  Nedeljkovic",
+        "Title": "Member of Board of Management of Production",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Ms. Ilka  Horstmeier",
+        "Title": "People, Real Estate & Labour Relations Director and Member of the Board of Management",
+        "YearBorn": "1969"
+      },
+      "5": {
+        "Name": "Dr. Joachim  Post",
+        "Title": "Head of Development & Member of the Board of Management",
+        "YearBorn": "1971"
+      },
+      "6": {
+        "Name": "Dr. Nicolai  Martin",
+        "Title": "Member of the Board of Management and Purchasing & Supplier Network",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Dr. Michael  Nikolaides",
+        "Title": "Employee Representative of the Supervisory Board and Head of Production Network & Logistics",
+        "YearBorn": "1974"
+      },
+      "8": {
+        "Name": "Mr. Adam  Sykes",
+        "Title": "Head of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Dr. Andreas  Liepe",
+        "Title": "General Counsel",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "49 89 382 0",
+    "WebURL": "https://www.bmwgroup.com",
+    "LogoURL": "/img/logos/XETRA/BMW.png",
+    "FullTimeEmployees": 146064,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 554226093,
+    "SharesFloat": 379594818,
+    "PercentInsiders": 50.2,
+    "PercentInstitutions": 24.139,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

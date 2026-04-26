@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.0685,
+        "totalAssets": 0.096,
+        "currentShares": 130332957,
+        "change": 1572769,
+        "change_p": 1.2215
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.4086,
+        "totalAssets": 0.0731,
+        "currentShares": 106476936,
+        "change": 664053,
+        "change_p": 0.6276
+      },
+      "2": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.4448,
+        "totalAssets": 1.1074,
+        "currentShares": 63880757,
+        "change": 622343,
+        "change_p": 0.9838
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3472,
+        "totalAssets": 0.085,
+        "currentShares": 62477910,
+        "change": 690736,
+        "change_p": 1.1179
+      },
+      "4": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.4905,
+        "totalAssets": 0.0952,
+        "currentShares": 35792899,
+        "change": -3459143,
+        "change_p": -8.8126
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.4476,
+        "totalAssets": 0.3298,
+        "currentShares": 35176617,
+        "change": -6848218,
+        "change_p": -16.2956
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2036,
+        "totalAssets": 0.0988,
+        "currentShares": 31669550,
+        "change": 238997,
+        "change_p": 0.7604
+      },
+      "7": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1778,
+        "totalAssets": 0.2786,
+        "currentShares": 31299903,
+        "change": -5194890,
+        "change_p": -14.2346
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1662,
+        "totalAssets": 0.0739,
+        "currentShares": 31132195,
+        "change": 733039,
+        "change_p": 2.4114
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.098,
+        "totalAssets": 0.0354,
+        "currentShares": 30152406,
+        "change": 13008774,
+        "change_p": 75.8811
+      },
+      "10": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.9804,
+        "totalAssets": 0.2784,
+        "currentShares": 28462109,
+        "change": -6529241,
+        "change_p": -18.6596
+      },
+      "11": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.5079,
+        "totalAssets": 0.1525,
+        "currentShares": 21671223,
+        "change": 435963,
+        "change_p": 2.053
+      },
+      "12": {
+        "name": "Arrowstreet Capital Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 1.3897,
+        "totalAssets": 0.5941,
+        "currentShares": 19973108,
+        "change": 9924573,
+        "change_p": 98.7664
+      },
+      "13": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.2084,
+        "totalAssets": 0.4978,
+        "currentShares": 17366596,
+        "change": 3894872,
+        "change_p": 28.9115
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2061,
+        "totalAssets": 0.0727,
+        "currentShares": 17333582,
+        "change": -20136132,
+        "change_p": -53.7398
+      },
+      "15": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.1176,
+        "totalAssets": 0.0987,
+        "currentShares": 16062616,
+        "change": 3407455,
+        "change_p": 26.9254
+      },
+      "16": {
+        "name": "Millennium Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1089,
+        "totalAssets": 0.3404,
+        "currentShares": 15937003,
+        "change": 3563071,
+        "change_p": 28.795
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0628,
+        "totalAssets": 0.0766,
+        "currentShares": 15274289,
+        "change": -354689,
+        "change_p": -2.2694
+      },
+      "18": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.039,
+        "totalAssets": 0.6072,
+        "currentShares": 14932930,
+        "change": -676731,
+        "change_p": -4.3353
+      },
+      "19": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0296,
+        "totalAssets": 0.0383,
+        "currentShares": 14797812,
+        "change": -4468841,
+        "change_p": -23.1947
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1765,
+        "totalAssets": 0.1344,
+        "currentShares": 45653013,
+        "change": 248171,
+        "change_p": 0.5466
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5463,
+        "totalAssets": 0.1512,
+        "currentShares": 36596020,
+        "change": -336858,
+        "change_p": -0.9121
+      },
+      "2": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 1.6517,
+        "totalAssets": 1.0088,
+        "currentShares": 23738219,
+        "change": 3980266,
+        "change_p": 20.1451
+      },
+      "3": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 1.3748,
+        "totalAssets": 0.7049,
+        "currentShares": 19757953,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2854,
+        "totalAssets": 0.1508,
+        "currentShares": 18474042,
+        "change": -10056,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2715,
+        "totalAssets": 0.1661,
+        "currentShares": 18274020,
+        "change": 30121,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1624,
+        "totalAssets": 0.151,
+        "currentShares": 16706027,
+        "change": -40964,
+        "change_p": -0.2446
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 0.3459,
+        "currentShares": 13283192,
+        "change": -84850,
+        "change_p": -0.6347
+      },
+      "8": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.8996,
+        "totalAssets": 1.602,
+        "currentShares": 12929053,
+        "change": 267699,
+        "change_p": 2.1143
+      },
+      "9": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.8519,
+        "totalAssets": 1.4992,
+        "currentShares": 12243672,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8121,
+        "totalAssets": 0.4943,
+        "currentShares": 11671894,
+        "change": -494057,
+        "change_p": -4.061
+      },
+      "11": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.587,
+        "totalAssets": 0.2435,
+        "currentShares": 8435914,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.5749,
+        "totalAssets": 0.2927,
+        "currentShares": 8262509,
+        "change": -173405,
+        "change_p": -2.0556
+      },
+      "13": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.1508,
+        "currentShares": 8097694,
+        "change": -38108,
+        "change_p": -0.4684
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.1493,
+        "currentShares": 7671967,
+        "change": 17400,
+        "change_p": 0.2273
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.1506,
+        "currentShares": 6491332,
+        "change": 42944,
+        "change_p": 0.666
+      },
+      "16": {
+        "name": "Global X Copper Miners ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.433,
+        "totalAssets": 5.457,
+        "currentShares": 6223235,
+        "change": -36111,
+        "change_p": -0.5769
+      },
+      "17": {
+        "name": "Vanguard Windsor Investor Shares",
+        "date": "2025-12-31",
+        "totalShares": 0.4244,
+        "totalAssets": 1.2823,
+        "currentShares": 6098794,
+        "change": -524155,
+        "change_p": -7.9142
+      },
+      "18": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4105,
+        "totalAssets": 5.2551,
+        "currentShares": 5899645,
+        "change": 245160,
+        "change_p": 4.3357
+      },
+      "19": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3976,
+        "totalAssets": 0.1252,
+        "currentShares": 5714880,
+        "change": -46362,
+        "change_p": -0.8047
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 32.6471,
+    "ForwardPE": 24.0964,
+    "PriceSalesTTM": 3.3817,
+    "PriceBookMRQ": 4.5301,
+    "EnterpriseValue": 94301373046,
+    "EnterpriseValueRevenue": 3.5965,
+    "EnterpriseValueEbitda": 9.6765
+  },
+  "Highlights": {
+    "MarketCapitalization": 87637368832,
+    "MarketCapitalizationMln": 87637.3688,
+    "EBITDA": 9100999680,
+    "PERatio": 32.6471,
+    "PEGRatio": 3.8887,
+    "WallStreetTargetPrice": 68.9476,
+    "BookValue": 13.161,
+    "DividendShare": 0,
+    "DividendYield": 0,
+    "EarningsShare": 1.87,
+    "EPSEstimateCurrentYear": 2.7864,
+    "EPSEstimateNextYear": 4.0227,
+    "EPSEstimateNextQuarter": 0.6891,
+    "EPSEstimateCurrentQuarter": 0.468,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0851,
+    "OperatingMarginTTM": 0.144,
+    "ReturnOnAssetsTTM": 0.0719,
+    "ReturnOnEquityTTM": 0.1395,
+    "RevenueTTM": 25915000832,
+    "RevenuePerShareTTM": 18.034,
+    "QuarterlyRevenueGrowthYOY": -0.015,
+    "GrossProfitTTM": 9605000192,
+    "DilutedEpsTTM": 1.87,
+    "QuarterlyEarningsGrowthYOY": 0.477
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 38.4,
+    "TotalEsgPercentile": 82.48,
+    "EnvironmentScore": 17.07,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 11.57,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 6.25,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "FCX",
+    "Type": "Common Stock",
+    "Name": "Freeport-McMoran Copper & Gold Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BJDB15",
+    "ISIN": "US35671D8570",
+    "LEI": "549300IRDTHJQ1PVET45",
+    "PrimaryTicker": "FCX.US",
+    "CUSIP": "35671D865",
+    "CIK": "0000831259",
+    "EmployerIdNumber": "74-2480931",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-07-10",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Copper",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Metals & Mining",
+    "GicSubIndustry": "Copper",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Freeport-McMoRan Inc. engages in the mining of mineral properties in North America, South America, and Indonesia. It primarily explores for copper, gold, molybdenum, silver, and other metals. The company's assets include the Grasberg minerals district in Indonesia; Morenci, Bagdad, Safford, Sierrita, and Miami in Arizona; Chino and Tyrone in New Mexico; and Henderson and Climax in Colorado, North America, as well as Cerro Verde in Peru and El Abra in Chile. Freeport-McMoRan Inc. was formerly known as Freeport-McMoRan Copper & Gold Inc. and changed its name to Freeport-McMoRan Inc. in July 2014. The company was incorporated in 1987 and is headquartered in Phoenix, Arizona.",
+    "Address": "4340 E. Cotton Center Blvd., Phoenix, AZ, United States, 85040-8852",
+    "AddressData": {
+      "Street": "4340 E. Cotton Center Blvd.",
+      "City": "Phoenix",
+      "State": "AZ",
+      "Country": "United States",
+      "ZIP": "85040-8852"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Ms. Kathleen Lynne Quirk",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1964"
+      },
+      "1": {
+        "Name": "Ms. Maree E. Robertson",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. Stephen T. Higgins",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1958"
+      },
+      "3": {
+        "Name": "Mr. Douglas N. Currault II",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1965"
+      },
+      "4": {
+        "Name": "Ms. Ellie L. Mikes",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1979"
+      },
+      "5": {
+        "Name": "Mr. Bertrand L. Odinet II",
+        "Title": "Senior VP, Chief Information Officer & Chief Innovation Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. David  Joint",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Pamela Q. Masson",
+        "Title": "Senior VP & Chief Human Resources Officer,",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. W. Russell King",
+        "Title": "Senior Vice President of International Relations & Federal Government Affairs",
+        "YearBorn": "1950"
+      },
+      "9": {
+        "Name": "Mr. A. Cory Stevens",
+        "Title": "President & COO of Freeport Americas",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "602 366 8100",
+    "WebURL": "https://fcx.com",
+    "LogoURL": "/img/logos/US/fcx.png",
+    "FullTimeEmployees": 29000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1435501606,
+    "SharesFloat": 1428937697,
+    "PercentInsiders": 0.739,
+    "PercentInstitutions": 89.396,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.019
+  }
+}

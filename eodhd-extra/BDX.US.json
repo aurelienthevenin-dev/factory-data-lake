@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.8939,
+        "totalAssets": 0.1032,
+        "currentShares": 36678939,
+        "change": 4223149,
+        "change_p": 13.012
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 9.7559,
+        "totalAssets": 0.0909,
+        "currentShares": 27752308,
+        "change": 472432,
+        "change_p": 1.7318
+      },
+      "2": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 8.6495,
+        "totalAssets": 1.8887,
+        "currentShares": 24604962,
+        "change": 8372330,
+        "change_p": 51.5772
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8766,
+        "totalAssets": 0.09,
+        "currentShares": 13872395,
+        "change": 459219,
+        "change_p": 3.4236
+      },
+      "4": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.094,
+        "totalAssets": 3.9776,
+        "currentShares": 11646000,
+        "change": 1651592,
+        "change_p": 16.5252
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.7177,
+        "totalAssets": 0.0593,
+        "currentShares": 10575566,
+        "change": 6031461,
+        "change_p": 132.7315
+      },
+      "6": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 3.3349,
+        "totalAssets": 0.5937,
+        "currentShares": 9486694,
+        "change": 336110,
+        "change_p": 3.6731
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.4204,
+        "totalAssets": 0.0822,
+        "currentShares": 6885361,
+        "change": 53884,
+        "change_p": 0.7888
+      },
+      "8": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.3685,
+        "totalAssets": 0.3144,
+        "currentShares": 6737604,
+        "change": 4051718,
+        "change_p": 150.8522
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.8628,
+        "totalAssets": 0.1802,
+        "currentShares": 5299030,
+        "change": 66944,
+        "change_p": 1.2795
+      },
+      "10": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.625,
+        "totalAssets": 0.0926,
+        "currentShares": 4622537,
+        "change": -4261237,
+        "change_p": -47.9665
+      },
+      "11": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.4386,
+        "totalAssets": 0.6359,
+        "currentShares": 4092337,
+        "change": -314650,
+        "change_p": -7.1398
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3301,
+        "totalAssets": 0.0786,
+        "currentShares": 3783792,
+        "change": -9401,
+        "change_p": -0.2478
+      },
+      "13": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2187,
+        "totalAssets": 0.0393,
+        "currentShares": 3466741,
+        "change": -524872,
+        "change_p": -13.1494
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1247,
+        "totalAssets": 0.0965,
+        "currentShares": 3199398,
+        "change": -102621,
+        "change_p": -3.1078
+      },
+      "15": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1002,
+        "totalAssets": 0.3053,
+        "currentShares": 3129651,
+        "change": -123948,
+        "change_p": -3.8096
+      },
+      "16": {
+        "name": "Veritas Asset Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.0105,
+        "totalAssets": 5.7083,
+        "currentShares": 2874579,
+        "change": -80319,
+        "change_p": -2.7182
+      },
+      "17": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 0.999,
+        "totalAssets": 0.697,
+        "currentShares": 2841721,
+        "change": -273654,
+        "change_p": -8.784
+      },
+      "18": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.9748,
+        "totalAssets": 0.4649,
+        "currentShares": 2773058,
+        "change": -458456,
+        "change_p": -14.187
+      },
+      "19": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9489,
+        "totalAssets": 0.0343,
+        "currentShares": 2699263,
+        "change": -355057,
+        "change_p": -11.6247
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1785,
+        "totalAssets": 0.0712,
+        "currentShares": 9041888,
+        "change": 14867,
+        "change_p": 0.1647
+      },
+      "1": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 2.8329,
+        "totalAssets": 1.8052,
+        "currentShares": 8058756,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.549,
+        "totalAssets": 0.0801,
+        "currentShares": 7250958,
+        "change": -121669,
+        "change_p": -1.6503
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1623,
+        "totalAssets": 0.4867,
+        "currentShares": 6151123,
+        "change": -52264,
+        "change_p": -0.8425
+      },
+      "4": {
+        "name": "T. Rowe Price Capital Appreciation",
+        "date": "2026-03-31",
+        "totalShares": 2.0375,
+        "totalAssets": 1.3762,
+        "currentShares": 5796083,
+        "change": -3167061,
+        "change_p": -35.3343
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2866,
+        "totalAssets": 0.0799,
+        "currentShares": 3660089,
+        "change": -1992,
+        "change_p": -0.0544
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2823,
+        "totalAssets": 0.0859,
+        "currentShares": 3647685,
+        "change": 6012,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1578,
+        "totalAssets": 0.0797,
+        "currentShares": 3293678,
+        "change": -8134,
+        "change_p": -0.2463
+      },
+      "8": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 1.0683,
+        "totalAssets": 1.0072,
+        "currentShares": 3039040,
+        "change": 62924,
+        "change_p": 2.1143
+      },
+      "9": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.0117,
+        "totalAssets": 1.3465,
+        "currentShares": 2877939,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9251,
+        "totalAssets": 0.1833,
+        "currentShares": 2631711,
+        "change": -25140,
+        "change_p": -0.9462
+      },
+      "11": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.7665,
+        "totalAssets": 0.6769,
+        "currentShares": 2180550,
+        "change": 94860,
+        "change_p": 4.5481
+      },
+      "12": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7316,
+        "totalAssets": 0.8426,
+        "currentShares": 2081163,
+        "change": 6304,
+        "change_p": 0.3038
+      },
+      "13": {
+        "name": "BlackRock Equity Dividend Instl",
+        "date": "2026-02-28",
+        "totalShares": 0.7176,
+        "totalAssets": 1.8251,
+        "currentShares": 2041304,
+        "change": -283646,
+        "change_p": -12.2001
+      },
+      "14": {
+        "name": "JNL/T. Rowe Price Capital Appreciation A",
+        "date": "2025-12-31",
+        "totalShares": 0.6916,
+        "totalAssets": 2.5673,
+        "currentShares": 1967502,
+        "change": -294912,
+        "change_p": -13.0353
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6511,
+        "totalAssets": 0.8382,
+        "currentShares": 1852218,
+        "change": 70793,
+        "change_p": 3.974
+      },
+      "16": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.564,
+        "totalAssets": 0.0799,
+        "currentShares": 1604251,
+        "change": -18626,
+        "change_p": -1.1477
+      },
+      "17": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5605,
+        "totalAssets": 0.2136,
+        "currentShares": 1594303,
+        "change": 4283,
+        "change_p": 0.2694
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5343,
+        "totalAssets": 0.0791,
+        "currentShares": 1519954,
+        "change": -8000,
+        "change_p": -0.5236
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4521,
+        "totalAssets": 0.0798,
+        "currentShares": 1286075,
+        "change": -1057,
+        "change_p": -0.0821
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.8595,
+    "ForwardPE": 12.3457,
+    "PriceSalesTTM": 1.974,
+    "PriceBookMRQ": 1.7423,
+    "EnterpriseValue": 62066756131,
+    "EnterpriseValueRevenue": 2.8662,
+    "EnterpriseValueEbitda": 12.448
+  },
+  "Highlights": {
+    "MarketCapitalization": 43278757888,
+    "MarketCapitalizationMln": 43278.7579,
+    "EBITDA": 6041999872,
+    "PERatio": 24.8595,
+    "PEGRatio": 1.1979,
+    "WallStreetTargetPrice": 191.4615,
+    "BookValue": 88.789,
+    "DividendShare": 4.17,
+    "DividendYield": 0.0269,
+    "EarningsShare": 6.12,
+    "EPSEstimateCurrentYear": 12.4736,
+    "EPSEstimateNextYear": 13.5038,
+    "EPSEstimateNextQuarter": 3.2821,
+    "EPSEstimateCurrentQuarter": 2.8124,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0801,
+    "OperatingMarginTTM": 0.1335,
+    "ReturnOnAssetsTTM": 0.0408,
+    "ReturnOnEquityTTM": 0.0696,
+    "RevenueTTM": 21923999744,
+    "RevenuePerShareTTM": 76.479,
+    "QuarterlyRevenueGrowthYOY": 0.016,
+    "GrossProfitTTM": 10257000448,
+    "DilutedEpsTTM": 6.12,
+    "QuarterlyEarningsGrowthYOY": 0.286
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.76,
+    "TotalEsgPercentile": 65.34,
+    "EnvironmentScore": 4.87,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 20.06,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 13.83,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BDX",
+    "Type": "Common Stock",
+    "Name": "Becton Dickinson and Company",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BCZYD3",
+    "ISIN": "US0758871091",
+    "LEI": "ICE2EP6D98PQUILVRZ91",
+    "PrimaryTicker": "BDX.US",
+    "CUSIP": "075887109",
+    "CIK": "0000010795",
+    "EmployerIdNumber": "22-0760120",
+    "FiscalYearEnd": "September",
+    "IPODate": "1987-01-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Equipment",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Becton, Dickinson and Company develops, manufactures, and sells medical supplies, devices, laboratory equipment, and diagnostic products for healthcare institutions, physicians, life science researchers, clinical laboratories, pharmaceutical industry, and the general public worldwide. It operates through Medical Essentials, Connected Care, BioPharma Systems, Interventional and Life Sciences segments. It provides peripheral intravenous (IV) and advanced peripheral catheters, central lines, acute dialysis catheters, vascular access technology, vascular care and preparation products, needle-free IV connectors and extensions sets, closed-system drug transfer devices, hazardous drug detections, hypodermic syringes and needles, anesthesia needles and trays, enteral syringes, and sharps disposal systems; IV medication safety and infusion therapy delivery systems, medication compounding workflow system, automated medication dispensing and supply management systems, informatics and analytics and pharmacy automation system, and medication inventory optimization and tracking system; hemodynamic monitoring system; and prefillable drug delivery systems. It also offers specimen and blood collection products; automated blood and tuberculosis culturing, molecular testing, and microorganism identification and drug susceptibility, as well as rapid diagnostic assays, microbiology laboratory automation products, and plated media products; and fluorescence-activated cell sorters and analyzers, antibodies and kits, reagent system, and solution for single-cell gene expression analysis, as well as clinical oncology, immunological, and transplantation diagnostic/monitoring reagents and analyzers. It provides hernia and soft tissue repair, biological and bioresorbable graft, biosurgery, and other surgical products; surgical infection prevention, peripheral intervention, and urology and critical care products. The company has a strategic collaboration with ChemoGLO for the advancement of hazardous drug contamination testing in health care ",
+    "Address": "1 Becton Drive, Franklin Lakes, NJ, United States, 07417-1880",
+    "AddressData": {
+      "Street": "1 Becton Drive",
+      "City": "Franklin Lakes",
+      "State": "NJ",
+      "Country": "United States",
+      "ZIP": "07417-1880"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BDXB",
+        "Exchange": "US",
+        "Name": "Becton Dickinson and Company"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Thomas E. Polen Jr.",
+        "Title": "President, CEO & Chairman",
+        "YearBorn": "1973"
+      },
+      "1": {
+        "Name": "Mr. Michael  Garrison",
+        "Title": "Executive VP & President of Medical Segment and BioPharma Systems Segments",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Richard E. Byrd",
+        "Title": "Executive VP & President of Interventional Segment",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Michael C. Feld",
+        "Title": "Executive VP & Chief Revenue Officer",
+        "YearBorn": "1981"
+      },
+      "4": {
+        "Name": "Mr. Vitor  Roque",
+        "Title": "Senior VP of Business Finance & Interim CFO",
+        "YearBorn": "1983"
+      },
+      "5": {
+        "Name": "Ms. Pamela L. Spikner",
+        "Title": "Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1977"
+      },
+      "6": {
+        "Name": "Ms. Elizabeth  McCombs",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Dr. Joseph M. Smith F.A.C.C, M.D., Ph.D.",
+        "Title": "Senior VP & Chief Scientific Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Denise Russell Fleming",
+        "Title": "Executive VP of Technology & Global Services and Chief Information Officer",
+        "YearBorn": "1971"
+      },
+      "9": {
+        "Name": "Mr. Shawn C. Bevec",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "201 847 6800",
+    "WebURL": "https://www.bd.com",
+    "LogoURL": "/img/logos/US/BDX.png",
+    "FullTimeEmployees": 70000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 284466650,
+    "SharesFloat": 283987243,
+    "PercentInsiders": 0.39899999999999997,
+    "PercentInstitutions": 97.013,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0287
+  }
+}

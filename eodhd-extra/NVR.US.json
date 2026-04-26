@@ -1,0 +1,567 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.6814,
+        "totalAssets": 0.0343,
+        "currentShares": 324522,
+        "change": -8373,
+        "change_p": -2.5152
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 10.8237,
+        "totalAssets": 0.0423,
+        "currentShares": 300696,
+        "change": -12765,
+        "change_p": -4.0723
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.8165,
+        "totalAssets": 0.0373,
+        "currentShares": 133807,
+        "change": -2146,
+        "change_p": -1.5785
+      },
+      "3": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.8074,
+        "totalAssets": 0.1798,
+        "currentShares": 133554,
+        "change": 551,
+        "change_p": 0.4143
+      },
+      "4": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.1185,
+        "totalAssets": 0.0209,
+        "currentShares": 86636,
+        "change": 45036,
+        "change_p": 108.2596
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7093,
+        "totalAssets": 0.0341,
+        "currentShares": 75268,
+        "change": -260,
+        "change_p": -0.3442
+      },
+      "6": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.2477,
+        "totalAssets": 0.4717,
+        "currentShares": 62444,
+        "change": -1724,
+        "change_p": -2.6867
+      },
+      "7": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.1708,
+        "totalAssets": 0.2444,
+        "currentShares": 60307,
+        "change": 2331,
+        "change_p": 4.0206
+      },
+      "8": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9685,
+        "totalAssets": 0.0894,
+        "currentShares": 54688,
+        "change": 45708,
+        "change_p": 508.9978
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.5375,
+        "totalAssets": 0.0333,
+        "currentShares": 42713,
+        "change": 6366,
+        "change_p": 17.5145
+      },
+      "10": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.4651,
+        "totalAssets": 0.0404,
+        "currentShares": 40703,
+        "change": 127,
+        "change_p": 0.313
+      },
+      "11": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.3938,
+        "totalAssets": 0.0495,
+        "currentShares": 38721,
+        "change": -5865,
+        "change_p": -13.1544
+      },
+      "12": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.3882,
+        "totalAssets": 0.059,
+        "currentShares": 38566,
+        "change": 1146,
+        "change_p": 3.0625
+      },
+      "13": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3118,
+        "totalAssets": 0.0696,
+        "currentShares": 36443,
+        "change": -22987,
+        "change_p": -38.6791
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2883,
+        "totalAssets": 0.0453,
+        "currentShares": 35790,
+        "change": -1878,
+        "change_p": -4.9857
+      },
+      "15": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.0969,
+        "totalAssets": 0.0148,
+        "currentShares": 30474,
+        "change": -1239,
+        "change_p": -3.9069
+      },
+      "16": {
+        "name": "Diamond Hill Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0953,
+        "totalAssets": 1.1371,
+        "currentShares": 30429,
+        "change": -9689,
+        "change_p": -24.1513
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0924,
+        "totalAssets": 0.0312,
+        "currentShares": 30348,
+        "change": -1697,
+        "change_p": -5.2957
+      },
+      "18": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.0342,
+        "totalAssets": 0.0315,
+        "currentShares": 28730,
+        "change": 9515,
+        "change_p": 49.5186
+      },
+      "19": {
+        "name": "Marshfield Associates",
+        "date": "2025-12-31",
+        "totalShares": 0.9667,
+        "totalAssets": 3.4331,
+        "currentShares": 26855,
+        "change": 1813,
+        "change_p": 7.2398
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 4.1882,
+        "totalAssets": 0.2526,
+        "currentShares": 116354,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 4.1816,
+        "totalAssets": 0.2499,
+        "currentShares": 116169,
+        "change": -185,
+        "change_p": -0.159
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0317,
+        "totalAssets": 0.0278,
+        "currentShares": 84225,
+        "change": -1083,
+        "change_p": -1.2695
+      },
+      "3": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 2.8565,
+        "totalAssets": 0.5976,
+        "currentShares": 79357,
+        "change": 27299,
+        "change_p": 52.4396
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5789,
+        "totalAssets": 0.0332,
+        "currentShares": 71644,
+        "change": -665,
+        "change_p": -0.9197
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0638,
+        "totalAssets": 0.1901,
+        "currentShares": 57334,
+        "change": -1293,
+        "change_p": -2.2055
+      },
+      "6": {
+        "name": "Capital Group AMCAP Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.8739,
+        "totalAssets": 0.3944,
+        "currentShares": 52058,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "Principal MidCap R5",
+        "date": "2026-02-28",
+        "totalShares": 1.6969,
+        "totalAssets": 1.2285,
+        "currentShares": 47142,
+        "change": 0,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Principal Aligned MidCap Equity",
+        "date": "2025-12-31",
+        "totalShares": 1.6969,
+        "totalAssets": 1.1234,
+        "currentShares": 47142,
+        "change": -1210,
+        "change_p": -2.5025
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3095,
+        "totalAssets": 0.0333,
+        "currentShares": 36379,
+        "change": -24,
+        "change_p": -0.0659
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.3005,
+        "totalAssets": 0.0363,
+        "currentShares": 36130,
+        "change": 60,
+        "change_p": 0.1663
+      },
+      "11": {
+        "name": "JHancock Disciplined Value Mid Cap I",
+        "date": "2026-02-28",
+        "totalShares": 1.229,
+        "totalAssets": 1.0201,
+        "currentShares": 34144,
+        "change": 2147,
+        "change_p": 6.71
+      },
+      "12": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2004,
+        "totalAssets": 0.4728,
+        "currentShares": 33349,
+        "change": -21,
+        "change_p": -0.0629
+      },
+      "13": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1834,
+        "totalAssets": 0.0333,
+        "currentShares": 32875,
+        "change": -98,
+        "change_p": -0.2972
+      },
+      "14": {
+        "name": "iShares US Home Construction ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9768,
+        "totalAssets": 7.4744,
+        "currentShares": 27138,
+        "change": 51,
+        "change_p": 0.1883
+      },
+      "15": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.9518,
+        "totalAssets": 0.2043,
+        "currentShares": 26441,
+        "change": 131,
+        "change_p": 0.4979
+      },
+      "16": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8842,
+        "totalAssets": 0.0717,
+        "currentShares": 24565,
+        "change": -789,
+        "change_p": -3.1119
+      },
+      "17": {
+        "name": "First Trust Capital Strength ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7733,
+        "totalAssets": 1.8027,
+        "currentShares": 21484,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Smead US Value Composite",
+        "date": "2026-02-28",
+        "totalShares": 0.7156,
+        "totalAssets": 3.4017,
+        "currentShares": 19879,
+        "change": -403,
+        "change_p": -1.987
+      },
+      "19": {
+        "name": "Six Circles U.S. Unconstrained Equity",
+        "date": "2025-09-30",
+        "totalShares": 0.6951,
+        "totalAssets": 0.5099,
+        "currentShares": 19311,
+        "change": -156,
+        "change_p": -0.8014
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.873,
+    "ForwardPE": 17.1527,
+    "PriceSalesTTM": 1.7916,
+    "PriceBookMRQ": 5.2142,
+    "EnterpriseValue": 17586366581,
+    "EnterpriseValueRevenue": 1.7909,
+    "EnterpriseValueEbitda": 10.7222
+  },
+  "Highlights": {
+    "MarketCapitalization": 17767667712,
+    "MarketCapitalizationMln": 17767.6677,
+    "EBITDA": 1663728512,
+    "PERatio": 15.873,
+    "PEGRatio": 4.9705,
+    "WallStreetTargetPrice": 7070,
+    "BookValue": 1380.613,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 409.75,
+    "EPSEstimateCurrentYear": 363.544,
+    "EPSEstimateNextYear": 419.8303,
+    "EPSEstimateNextQuarter": 98.8952,
+    "EPSEstimateCurrentQuarter": 79.198,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1249,
+    "OperatingMarginTTM": 0.1352,
+    "ReturnOnAssetsTTM": 0.1739,
+    "ReturnOnEquityTTM": 0.3326,
+    "RevenueTTM": 9917295616,
+    "RevenuePerShareTTM": 3480.636,
+    "QuarterlyRevenueGrowthYOY": -0.214,
+    "GrossProfitTTM": 2230394112,
+    "DilutedEpsTTM": 409.75,
+    "QuarterlyEarningsGrowthYOY": -0.285
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.33,
+    "TotalEsgPercentile": 21.64,
+    "EnvironmentScore": 9.42,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 10.34,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 5.57,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NVR",
+    "Type": "Common Stock",
+    "Name": "NVR Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQBYR3",
+    "ISIN": "US62944T1051",
+    "LEI": "529900RWXR4JI3JYTV70",
+    "PrimaryTicker": "NVR.US",
+    "CUSIP": "62944T105",
+    "CIK": "0000906163",
+    "EmployerIdNumber": "54-1394360",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-06-25",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Residential Construction",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Household Durables",
+    "GicSubIndustry": "Homebuilding",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "NVR, Inc. operates as a homebuilder in the United States. The company operates through Homebuilding and Mortgage Banking segments. It engages in the construction and sale of single-family detached homes, townhomes, and condominium buildings under the Ryan Homes, NVHomes, and Heartland Homes names. The company markets its Ryan Homes products to first-time and first-time move-up buyers; and NVHomes and Heartland Homes products to move-up and luxury buyers. It also provides various mortgage related services to its homebuilding customers, as well as brokers title insurance; performs title searches; and sells mortgage loans to investors in the secondary markets on a servicing released basis. The company primarily serves Maryland, Virginia, West Virginia, Delaware, Washington, D.C., New Jersey, Eastern Pennsylvania, New York, Ohio, Western Pennsylvania, Indiana, Illinois, North Carolina, South Carolina, Tennessee, Florida, Georgia, and Kentucky. NVR, Inc. was founded in 1948 and is headquartered in Reston, Virginia.",
+    "Address": "Plaza America Tower I, Reston, VA, United States, 20190",
+    "AddressData": {
+      "Street": "Plaza America Tower I",
+      "City": "Reston",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "20190"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NVE",
+        "Exchange": "F",
+        "Name": "NVR Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Paul C. Saville",
+        "Title": "Executive Chairman of the Board",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Mr. Eugene James Bredow",
+        "Title": "President & CEO",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Daniel David Malzahn",
+        "Title": "Senior VP, CFO & Treasurer",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Matthew B. Kelpy CPA",
+        "Title": "VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1973"
+      },
+      "4": {
+        "Name": "Mr. James M. Sack",
+        "Title": "General Counsel & Secretary",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "703 956 4000",
+    "WebURL": "https://www.nvrinc.com",
+    "LogoURL": "/img/logos/US/nvr.png",
+    "FullTimeEmployees": 6300,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2731827,
+    "SharesFloat": 2688828,
+    "PercentInsiders": 5.399,
+    "PercentInstitutions": 90.405,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0507
+  }
+}

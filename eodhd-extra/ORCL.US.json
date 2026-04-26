@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 6.0779,
+        "totalAssets": 0.4939,
+        "currentShares": 174802084,
+        "change": 5841584,
+        "change_p": 3.4574
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 4.8583,
+        "totalAssets": 0.6879,
+        "currentShares": 139726142,
+        "change": 4417021,
+        "change_p": 3.2644
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.4473,
+        "totalAssets": 0.8353,
+        "currentShares": 99146740,
+        "change": 53497080,
+        "change_p": 117.1905
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.549,
+        "totalAssets": 0.715,
+        "currentShares": 73310844,
+        "change": -148547,
+        "change_p": -0.2022
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.312,
+        "totalAssets": 0.4523,
+        "currentShares": 37734944,
+        "change": 665374,
+        "change_p": 1.7949
+      },
+      "5": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.0479,
+        "totalAssets": 1.0843,
+        "currentShares": 30137126,
+        "change": 6826299,
+        "change_p": 29.2838
+      },
+      "6": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0178,
+        "totalAssets": 0.2909,
+        "currentShares": 29272284,
+        "change": -2705425,
+        "change_p": -8.4603
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9259,
+        "totalAssets": 0.4534,
+        "currentShares": 26629953,
+        "change": -4102398,
+        "change_p": -13.3488
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.7735,
+        "totalAssets": 0.4639,
+        "currentShares": 22246323,
+        "change": 2691012,
+        "change_p": 13.761
+      },
+      "9": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 0.7237,
+        "totalAssets": 0.6263,
+        "currentShares": 20814621,
+        "change": 11518787,
+        "change_p": 123.9134
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.6744,
+        "totalAssets": 0.6978,
+        "currentShares": 19395765,
+        "change": -75836,
+        "change_p": -0.3895
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.5942,
+        "totalAssets": 0.326,
+        "currentShares": 17090060,
+        "change": -362328,
+        "change_p": -2.0761
+      },
+      "12": {
+        "name": "Loomis, Sayles & Company LP",
+        "date": "2025-12-31",
+        "totalShares": 0.5633,
+        "totalAssets": 3.8066,
+        "currentShares": 16200355,
+        "change": -233144,
+        "change_p": -1.4187
+      },
+      "13": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.5214,
+        "totalAssets": 0.3585,
+        "currentShares": 14994625,
+        "change": -9592,
+        "change_p": -0.0639
+      },
+      "14": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.4656,
+        "totalAssets": 1.7192,
+        "currentShares": 13390668,
+        "change": 315420,
+        "change_p": 2.4123
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.4291,
+        "totalAssets": 0.7536,
+        "currentShares": 12340539,
+        "change": -2970541,
+        "change_p": -19.4013
+      },
+      "16": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.4151,
+        "totalAssets": 0.6023,
+        "currentShares": 11938457,
+        "change": 98693,
+        "change_p": 0.8336
+      },
+      "17": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.4011,
+        "totalAssets": 0.5082,
+        "currentShares": 11534500,
+        "change": 828676,
+        "change_p": 7.7404
+      },
+      "18": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.3916,
+        "totalAssets": 0.4868,
+        "currentShares": 11261383,
+        "change": -435369,
+        "change_p": -3.7221
+      },
+      "19": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.3842,
+        "totalAssets": 0.581,
+        "currentShares": 11050582,
+        "change": 5988820,
+        "change_p": 118.3149
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.904,
+        "totalAssets": 0.4035,
+        "currentShares": 54760667,
+        "change": 653676,
+        "change_p": 1.2081
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.5015,
+        "totalAssets": 0.4464,
+        "currentShares": 43182508,
+        "change": -78852,
+        "change_p": -0.1823
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7579,
+        "totalAssets": 0.4453,
+        "currentShares": 21797331,
+        "change": -11868,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.7443,
+        "totalAssets": 0.4155,
+        "currentShares": 21405150,
+        "change": 35284,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6837,
+        "totalAssets": 0.4449,
+        "currentShares": 19664054,
+        "change": -48314,
+        "change_p": -0.2451
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 0.6417,
+        "totalAssets": 0.8544,
+        "currentShares": 18456920,
+        "change": 157547,
+        "change_p": 0.8609
+      },
+      "6": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4424,
+        "totalAssets": 2.2199,
+        "currentShares": 12722783,
+        "change": 33755,
+        "change_p": 0.266
+      },
+      "7": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4362,
+        "totalAssets": 0.6023,
+        "currentShares": 12545080,
+        "change": 2887875,
+        "change_p": 29.9038
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3766,
+        "totalAssets": 1.3093,
+        "currentShares": 10830367,
+        "change": -12280,
+        "change_p": -0.1133
+      },
+      "9": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.3615,
+        "totalAssets": 0.922,
+        "currentShares": 10398301,
+        "change": 2009764,
+        "change_p": 23.9585
+      },
+      "10": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3358,
+        "totalAssets": 0.5603,
+        "currentShares": 9657205,
+        "change": 3787455,
+        "change_p": 64.525
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.3322,
+        "totalAssets": 0.4453,
+        "currentShares": 9553709,
+        "change": 26022,
+        "change_p": 0.2731
+      },
+      "12": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3301,
+        "totalAssets": 1.1899,
+        "currentShares": 9494498,
+        "change": 311346,
+        "change_p": 3.3904
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.3147,
+        "totalAssets": 0.4407,
+        "currentShares": 9051918,
+        "change": 85840,
+        "change_p": 0.9574
+      },
+      "14": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.2917,
+        "totalAssets": 0.9292,
+        "currentShares": 8388537,
+        "change": 3493182,
+        "change_p": 71.3571
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.2663,
+        "totalAssets": 0.4448,
+        "currentShares": 7658944,
+        "change": 105718,
+        "change_p": 1.3996
+      },
+      "16": {
+        "name": "iShares Russell 1000 Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.2362,
+        "totalAssets": 0.8934,
+        "currentShares": 6794282,
+        "change": 6475,
+        "change_p": 0.0954
+      },
+      "17": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.232,
+        "totalAssets": 0.561,
+        "currentShares": 6672424,
+        "change": 22632,
+        "change_p": 0.3403
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.232,
+        "totalAssets": 0.561,
+        "currentShares": 6672424,
+        "change": 22632,
+        "change_p": 0.3403
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.232,
+        "totalAssets": 0.561,
+        "currentShares": 6672424,
+        "change": 6672424,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 31.1095,
+    "ForwardPE": 21.978,
+    "PriceSalesTTM": 7.7777,
+    "PriceBookMRQ": 15.1155,
+    "EnterpriseValue": 625928388880,
+    "EnterpriseValueRevenue": 9.7685,
+    "EnterpriseValueEbitda": 20.4432
+  },
+  "Highlights": {
+    "MarketCapitalization": 498361270272,
+    "MarketCapitalizationMln": 498361.2703,
+    "EBITDA": 27441000448,
+    "PERatio": 31.1095,
+    "PEGRatio": 1.115,
+    "WallStreetTargetPrice": 243.7076,
+    "BookValue": 11.666,
+    "DividendShare": 2,
+    "DividendYield": 0.0113,
+    "EarningsShare": 5.57,
+    "EPSEstimateCurrentYear": 7.4607,
+    "EPSEstimateNextYear": 7.9835,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 1.6936,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.253,
+    "OperatingMarginTTM": 0.3268,
+    "ReturnOnAssetsTTM": 0.0634,
+    "ReturnOnEquityTTM": 0.5757,
+    "RevenueTTM": 64076001280,
+    "RevenuePerShareTTM": 22.538,
+    "QuarterlyRevenueGrowthYOY": 0.217,
+    "GrossProfitTTM": 42985000960,
+    "DilutedEpsTTM": 5.57,
+    "QuarterlyEarningsGrowthYOY": 0.245
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 17.18,
+    "TotalEsgPercentile": 17.18,
+    "EnvironmentScore": 1.93,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 10.18,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 6.07,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "ORCL",
+    "Type": "Common Stock",
+    "Name": "Oracle Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQLTW7",
+    "ISIN": "US68389X1054",
+    "LEI": "1Z4GXXU7ZHVWFCD8TV52",
+    "PrimaryTicker": "ORCL.US",
+    "CUSIP": "68389X105",
+    "CIK": "0001341439",
+    "EmployerIdNumber": "54-2185193",
+    "FiscalYearEnd": "May",
+    "IPODate": "1986-03-12",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Software - Infrastructure",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Systems Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware support services, and consulting and advanced customer services. It markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. Oracle Corporation has a strategic alliance with Metron, Inc. The company was founded in 1977 and is headquartered in Austin, Texas.",
+    "Address": "2300 Oracle Way, Austin, TX, United States, 78741",
+    "AddressData": {
+      "Street": "2300 Oracle Way",
+      "City": "Austin",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "78741"
+    },
+    "Listings": {
+      "0": {
+        "Code": "ORCL34",
+        "Exchange": "SA",
+        "Name": "Oracle Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Lawrence J. Ellison",
+        "Title": "Co-Founder, Chairman & CTO",
+        "YearBorn": "1944"
+      },
+      "1": {
+        "Name": "Mr. Jeffrey O. Henley",
+        "Title": "Executive Vice Chairman of the Board",
+        "YearBorn": "1945"
+      },
+      "2": {
+        "Name": "Ms. Safra Ada Catz",
+        "Title": "Executive Vice Chair",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Ms. Maria  Smith",
+        "Title": "Executive VP & Chief Accounting Officer",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Mr. Stuart A. Levey",
+        "Title": "Executive VP & Chief Legal Officer",
+        "YearBorn": "1964"
+      },
+      "5": {
+        "Name": "Mr. Michael D. Sicilia",
+        "Title": "Chief Executive Officer & Director",
+        "YearBorn": "1972"
+      },
+      "6": {
+        "Name": "Mr. Clayton M. Magouyrk",
+        "Title": "Chief Executive Officer & Director",
+        "YearBorn": "1987"
+      },
+      "7": {
+        "Name": "Ms. Hilary Barbara Maxson B.Sc., M.B.A.",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Mr. Mark  Hura",
+        "Title": "President of Global Field Operations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Jae  Evans",
+        "Title": "Global Chief Information Officer & Executive VP",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "(737) 867-1000",
+    "WebURL": "https://www.oracle.com",
+    "LogoURL": "/img/logos/US/orcl.png",
+    "FullTimeEmployees": 162000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 2876046000,
+    "SharesFloat": 1709004054,
+    "PercentInsiders": 40.549,
+    "PercentInstitutions": 44.433,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0162
+  }
+}

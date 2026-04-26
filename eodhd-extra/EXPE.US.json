@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.0653,
+        "totalAssets": 0.0607,
+        "currentShares": 14784141,
+        "change": -410796,
+        "change_p": -2.7035
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.0185,
+        "totalAssets": 0.0368,
+        "currentShares": 9825447,
+        "change": -252833,
+        "change_p": -2.5087
+      },
+      "2": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.8257,
+        "totalAssets": 0.0614,
+        "currentShares": 9589196,
+        "change": 6017895,
+        "change_p": 168.5071
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.6213,
+        "totalAssets": 0.042,
+        "currentShares": 5662658,
+        "change": -137121,
+        "change_p": -2.3642
+      },
+      "4": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7496,
+        "totalAssets": 0.5007,
+        "currentShares": 3369266,
+        "change": -276466,
+        "change_p": -7.5833
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7097,
+        "totalAssets": 0.0579,
+        "currentShares": 3320316,
+        "change": -89422,
+        "change_p": -2.6225
+      },
+      "6": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 2.5485,
+        "totalAssets": 0.1052,
+        "currentShares": 3122842,
+        "change": 230176,
+        "change_p": 7.9572
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.483,
+        "totalAssets": 0.0922,
+        "currentShares": 3042531,
+        "change": -893219,
+        "change_p": -22.695
+      },
+      "8": {
+        "name": "Alkeon Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0201,
+        "totalAssets": 1.1108,
+        "currentShares": 2475276,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "WINDACRE PARTNERSHIP LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9195,
+        "totalAssets": 7.1465,
+        "currentShares": 2352100,
+        "change": -1330000,
+        "change_p": -36.1207
+      },
+      "10": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.7935,
+        "totalAssets": 0.3514,
+        "currentShares": 2197716,
+        "change": -683372,
+        "change_p": -23.7192
+      },
+      "11": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.7212,
+        "totalAssets": 0.0733,
+        "currentShares": 2109093,
+        "change": 1236821,
+        "change_p": 141.793
+      },
+      "12": {
+        "name": "Par Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5901,
+        "totalAssets": 14.591,
+        "currentShares": 1948446,
+        "change": -251554,
+        "change_p": -11.4343
+      },
+      "13": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.4357,
+        "totalAssets": 0.0864,
+        "currentShares": 1759231,
+        "change": -96930,
+        "change_p": -5.2221
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3425,
+        "totalAssets": 0.0213,
+        "currentShares": 1645012,
+        "change": 35953,
+        "change_p": 2.2344
+      },
+      "15": {
+        "name": "Lyrical Asset Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.3033,
+        "totalAssets": 5.9178,
+        "currentShares": 1597037,
+        "change": -90966,
+        "change_p": -5.389
+      },
+      "16": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 1.0496,
+        "totalAssets": 0.1187,
+        "currentShares": 1286093,
+        "change": 456176,
+        "change_p": 54.9665
+      },
+      "17": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0474,
+        "totalAssets": 0.0185,
+        "currentShares": 1283474,
+        "change": 908192,
+        "change_p": 242.0025
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0377,
+        "totalAssets": 0.0348,
+        "currentShares": 1271567,
+        "change": -64329,
+        "change_p": -4.8154
+      },
+      "19": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.037,
+        "totalAssets": 0.0943,
+        "currentShares": 1270640,
+        "change": 35277,
+        "change_p": 2.8556
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0298,
+        "totalAssets": 0.0429,
+        "currentShares": 3712586,
+        "change": 12517,
+        "change_p": 0.3383
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.4324,
+        "totalAssets": 0.0484,
+        "currentShares": 2980586,
+        "change": -28026,
+        "change_p": -0.9315
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0629,
+        "totalAssets": 0.2937,
+        "currentShares": 2527761,
+        "change": -15419,
+        "change_p": -0.6063
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2272,
+        "totalAssets": 0.0482,
+        "currentShares": 1503772,
+        "change": -816,
+        "change_p": -0.0542
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2152,
+        "totalAssets": 0.0429,
+        "currentShares": 1489088,
+        "change": 2456,
+        "change_p": 0.1652
+      },
+      "5": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.1832,
+        "totalAssets": 0.1053,
+        "currentShares": 1449887,
+        "change": -44870,
+        "change_p": -3.0018
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.111,
+        "totalAssets": 0.0483,
+        "currentShares": 1361328,
+        "change": -3332,
+        "change_p": -0.2442
+      },
+      "7": {
+        "name": "ACAP Strategic A",
+        "date": "2025-12-31",
+        "totalShares": 0.9604,
+        "totalAssets": 3.1353,
+        "currentShares": 1176877,
+        "change": 1176877,
+        "change_p": 0
+      },
+      "8": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7263,
+        "totalAssets": 0.7033,
+        "currentShares": 890000,
+        "change": -81524,
+        "change_p": -8.3914
+      },
+      "9": {
+        "name": "First Trust Rising Dividend Achiev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7177,
+        "totalAssets": 1.0233,
+        "currentShares": 879481,
+        "change": 604,
+        "change_p": 0.0687
+      },
+      "10": {
+        "name": "Lyrical U.S. Value Equity - CS",
+        "date": "2026-02-28",
+        "totalShares": 0.6521,
+        "totalAssets": 4.759,
+        "currentShares": 799109,
+        "change": -51381,
+        "change_p": -6.0413
+      },
+      "11": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6342,
+        "totalAssets": 0.9635,
+        "currentShares": 777150,
+        "change": -1335,
+        "change_p": -0.1715
+      },
+      "12": {
+        "name": "Pacer US Cash Cows 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6223,
+        "totalAssets": 0.969,
+        "currentShares": 762497,
+        "change": 3240,
+        "change_p": 0.4267
+      },
+      "13": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6151,
+        "totalAssets": 0.2041,
+        "currentShares": 753768,
+        "change": 2227,
+        "change_p": 0.2963
+      },
+      "14": {
+        "name": "VictoryShares Free Cash Flow ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5871,
+        "totalAssets": 2.6962,
+        "currentShares": 719424,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.538,
+        "totalAssets": 0.0482,
+        "currentShares": 659231,
+        "change": -4015,
+        "change_p": -0.6054
+      },
+      "16": {
+        "name": "Victory Sycamore Established Value R",
+        "date": "2026-03-31",
+        "totalShares": 0.5223,
+        "totalAssets": 0.987,
+        "currentShares": 640000,
+        "change": -371000,
+        "change_p": -36.6963
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5098,
+        "totalAssets": 0.0477,
+        "currentShares": 624623,
+        "change": 900,
+        "change_p": 0.1443
+      },
+      "18": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5042,
+        "totalAssets": 0.672,
+        "currentShares": 617874,
+        "change": -8094,
+        "change_p": -1.293
+      },
+      "19": {
+        "name": "Hudson Edge Core Plus Fixed Income",
+        "date": "2025-12-31",
+        "totalShares": 0.4978,
+        "totalAssets": 0.8101,
+        "currentShares": 610000,
+        "change": 610000,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.631,
+    "ForwardPE": 13.1234,
+    "PriceSalesTTM": 2.0912,
+    "PriceBookMRQ": 23.8905,
+    "EnterpriseValue": 31357380106,
+    "EnterpriseValueRevenue": 2.1284,
+    "EnterpriseValueEbitda": 11.2918
+  },
+  "Highlights": {
+    "MarketCapitalization": 30810169344,
+    "MarketCapitalizationMln": 30810.1693,
+    "EBITDA": 2300999936,
+    "PERatio": 25.631,
+    "PEGRatio": 0.8865,
+    "WallStreetTargetPrice": 283.7059,
+    "BookValue": 10.482,
+    "DividendShare": 1.6,
+    "DividendYield": 0.0064,
+    "EarningsShare": 9.81,
+    "EPSEstimateCurrentYear": 19.4332,
+    "EPSEstimateNextYear": 22.9871,
+    "EPSEstimateNextQuarter": 0.7566,
+    "EPSEstimateCurrentQuarter": 3.3687,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0878,
+    "OperatingMarginTTM": 0.1545,
+    "ReturnOnAssetsTTM": 0.0577,
+    "ReturnOnEquityTTM": 0.4867,
+    "RevenueTTM": 14732999680,
+    "RevenuePerShareTTM": 117.523,
+    "QuarterlyRevenueGrowthYOY": 0.114,
+    "GrossProfitTTM": 13276999680,
+    "DilutedEpsTTM": 9.81,
+    "QuarterlyEarningsGrowthYOY": -0.273
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.93,
+    "TotalEsgPercentile": 31.24,
+    "EnvironmentScore": 1.06,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 8.06,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 7.32,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "EXPE",
+    "Type": "Common Stock",
+    "Name": "Expedia Group Inc.",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000QY3XZ2",
+    "ISIN": "US30212P3038",
+    "LEI": "CI7MUJI4USF3V0NJ1H64",
+    "PrimaryTicker": "EXPE.US",
+    "CUSIP": "30212P105",
+    "CIK": "0001324424",
+    "EmployerIdNumber": "20-2705720",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-11-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Expedia Group, Inc. operates as an online travel company in the United States and internationally. The company operates through B2C, B2B, and trivago segments. The B2C segment includes Brand Expedia, a full-service online travel brand offers various travel products and services; Hotels.com for lodging accommodations; Vrbo, an online marketplace for the alternative accommodations; and Orbitz, Travelocity, ebookers, and Wotif Group. The B2B segment provides various travel and non-travel companies including airlines, offline travel agents, online retailers, corporate travel management, and financial institutions who leverage its travel technology and tap into its diverse supply to augment their offerings and market Expedia Group rates and availabilities to its travelers. The trivago segment sends referrals to online travel companies and travel service providers from hotel metasearch websites. In addition, it provides brand advertising through online and offline channels, loyalty programs, mobile apps, and search engine marketing, as well as metasearch, social media, direct and personalized traveler communications on its websites, and through direct e-mail communication with its travelers. The company was formerly known as Expedia, Inc. and changed its name to Expedia Group, Inc. in March 2018. Expedia Group, Inc. was founded in 1996 and is headquartered in Seattle, Washington.",
+    "Address": "1111 Expedia Group Way West, Seattle, WA, United States, 98119",
+    "AddressData": {
+      "Street": "1111 Expedia Group Way West",
+      "City": "Seattle",
+      "State": "WA",
+      "Country": "United States",
+      "ZIP": "98119"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Barry  Diller",
+        "Title": "Executive Chairman of the Board & Senior Executive",
+        "YearBorn": "1942"
+      },
+      "1": {
+        "Name": "Ms. Ariane  Gorin",
+        "Title": "CEO & Director",
+        "YearBorn": "1974"
+      },
+      "2": {
+        "Name": "Mr. Lance A. Soliday",
+        "Title": "Senior VP & Chief Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "3": {
+        "Name": "Mr. Robert John Dzielak Esq., J.D.",
+        "Title": "Chief Legal & People Officer and Corporate Secretary",
+        "YearBorn": "1971"
+      },
+      "4": {
+        "Name": "Mr. Scott F. Schenkel",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Mr. Ramana  Thumu",
+        "Title": "Chief Technology Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Rob  Bevegni",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Eric  Hart",
+        "Title": "Chief Strategy, Business & Corporate Development Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Jochen  Koedijk",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "1981"
+      },
+      "9": {
+        "Name": "Ms. Susanne  Svensson",
+        "Title": "Head Of Brand Marketing EMEA",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "206 481 7200",
+    "WebURL": "https://www.expediagroup.com",
+    "LogoURL": "/img/logos/US/EXPE.png",
+    "FullTimeEmployees": 16000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 117011421,
+    "SharesFloat": 115378836,
+    "PercentInsiders": 1.238,
+    "PercentInstitutions": 103.44,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0684
+  }
+}

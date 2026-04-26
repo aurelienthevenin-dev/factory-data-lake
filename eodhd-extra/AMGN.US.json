@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 10.1613,
+        "totalAssets": 0.2602,
+        "currentShares": 54838826,
+        "change": 961975,
+        "change_p": 1.7855
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.5299,
+        "totalAssets": 0.2274,
+        "currentShares": 46034432,
+        "change": -563906,
+        "change_p": -1.2101
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.4298,
+        "totalAssets": 0.2868,
+        "currentShares": 29304093,
+        "change": -52933,
+        "change_p": -0.1803
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 4.2798,
+        "totalAssets": 1.0282,
+        "currentShares": 23097711,
+        "change": 4302237,
+        "change_p": 22.8897
+      },
+      "4": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 3.3698,
+        "totalAssets": 0.9331,
+        "currentShares": 18186270,
+        "change": -1006725,
+        "change_p": -5.2453
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.9481,
+        "totalAssets": 0.2718,
+        "currentShares": 15910525,
+        "change": -274256,
+        "change_p": -1.6945
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.6503,
+        "totalAssets": 0.2879,
+        "currentShares": 14303294,
+        "change": 1035779,
+        "change_p": 7.8069
+      },
+      "7": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.1885,
+        "totalAssets": 0.6007,
+        "currentShares": 11811045,
+        "change": -1739567,
+        "change_p": -12.8376
+      },
+      "8": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 1.65,
+        "totalAssets": 2.2063,
+        "currentShares": 8904979,
+        "change": -802630,
+        "change_p": -8.2681
+      },
+      "9": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5675,
+        "totalAssets": 0.0715,
+        "currentShares": 8459730,
+        "change": 4592574,
+        "change_p": 118.7584
+      },
+      "10": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3262,
+        "totalAssets": 0.384,
+        "currentShares": 7157373,
+        "change": -153586,
+        "change_p": -2.1008
+      },
+      "11": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2252,
+        "totalAssets": 0.2315,
+        "currentShares": 6611965,
+        "change": 653276,
+        "change_p": 10.9634
+      },
+      "12": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1385,
+        "totalAssets": 0.2218,
+        "currentShares": 6144480,
+        "change": 2711,
+        "change_p": 0.0441
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9609,
+        "totalAssets": 0.0993,
+        "currentShares": 5185681,
+        "change": -385416,
+        "change_p": -6.9181
+      },
+      "14": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.8613,
+        "totalAssets": 0.2808,
+        "currentShares": 4648155,
+        "change": -83135,
+        "change_p": -1.7571
+      },
+      "15": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.843,
+        "totalAssets": 0.2788,
+        "currentShares": 4549298,
+        "change": -733141,
+        "change_p": -13.8788
+      },
+      "16": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 0.8395,
+        "totalAssets": 0.2095,
+        "currentShares": 4530568,
+        "change": -4542510,
+        "change_p": -50.0658
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8394,
+        "totalAssets": 0.1819,
+        "currentShares": 4530258,
+        "change": 83728,
+        "change_p": 1.883
+      },
+      "18": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8278,
+        "totalAssets": 0.1986,
+        "currentShares": 4467287,
+        "change": 277031,
+        "change_p": 6.6113
+      },
+      "19": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7843,
+        "totalAssets": 0.1871,
+        "currentShares": 4232754,
+        "change": -344914,
+        "change_p": -7.5347
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1734,
+        "totalAssets": 0.3018,
+        "currentShares": 17126249,
+        "change": 93598,
+        "change_p": 0.5495
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5408,
+        "totalAssets": 0.3391,
+        "currentShares": 13712490,
+        "change": -137097,
+        "change_p": -0.9899
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0964,
+        "totalAssets": 1.0728,
+        "currentShares": 11313781,
+        "change": -37840,
+        "change_p": -0.3333
+      },
+      "3": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.9276,
+        "totalAssets": 1.6353,
+        "currentShares": 10402784,
+        "change": 1475467,
+        "change_p": 16.5276
+      },
+      "4": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 1.7015,
+        "totalAssets": 3.8036,
+        "currentShares": 9182593,
+        "change": 15272,
+        "change_p": 0.1666
+      },
+      "5": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 1.5989,
+        "totalAssets": 1.5226,
+        "currentShares": 8628844,
+        "change": -1773940,
+        "change_p": -17.0526
+      },
+      "6": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.4099,
+        "totalAssets": 1.8907,
+        "currentShares": 7608812,
+        "change": 3106778,
+        "change_p": 69.0083
+      },
+      "7": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.286,
+        "totalAssets": 0.9263,
+        "currentShares": 6940187,
+        "change": 1003525,
+        "change_p": 16.9039
+      },
+      "8": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2826,
+        "totalAssets": 0.3382,
+        "currentShares": 6921757,
+        "change": -3768,
+        "change_p": -0.0544
+      },
+      "9": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2698,
+        "totalAssets": 0.3551,
+        "currentShares": 6852846,
+        "change": 11296,
+        "change_p": 0.1651
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1564,
+        "totalAssets": 0.3377,
+        "currentShares": 6240665,
+        "change": -15337,
+        "change_p": -0.2452
+      },
+      "11": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 1.0258,
+        "totalAssets": 2.3828,
+        "currentShares": 5536326,
+        "change": -556190,
+        "change_p": -9.1291
+      },
+      "12": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 1.0228,
+        "totalAssets": 4.6626,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "13": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9231,
+        "totalAssets": 0.7767,
+        "currentShares": 4982067,
+        "change": -33676,
+        "change_p": -0.6714
+      },
+      "14": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8345,
+        "totalAssets": 1.3217,
+        "currentShares": 4503441,
+        "change": -763680,
+        "change_p": -14.499
+      },
+      "15": {
+        "name": "Loomis Sayles Long Corp Disc Alpha",
+        "date": "2025-12-31",
+        "totalShares": 0.8138,
+        "totalAssets": 1.1699,
+        "currentShares": 4392000,
+        "change": 0,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Long Corporate Disciplined Alpha CIT",
+        "date": "2025-12-31",
+        "totalShares": 0.8138,
+        "totalAssets": 1.1699,
+        "currentShares": 4392000,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7811,
+        "totalAssets": 0.4107,
+        "currentShares": 4215290,
+        "change": 1881209,
+        "change_p": 80.5974
+      },
+      "18": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7293,
+        "totalAssets": 3.5658,
+        "currentShares": 3935758,
+        "change": 11936,
+        "change_p": 0.3042
+      },
+      "19": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7167,
+        "totalAssets": 0.7826,
+        "currentShares": 3868125,
+        "change": 0,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 24.2129,
+    "ForwardPE": 15.6006,
+    "PriceSalesTTM": 5.0539,
+    "PriceBookMRQ": 21.7059,
+    "EnterpriseValue": 231210767421,
+    "EnterpriseValueRevenue": 6.351,
+    "EnterpriseValueEbitda": 13.8126
+  },
+  "Highlights": {
+    "MarketCapitalization": 185735757824,
+    "MarketCapitalizationMln": 185735.7578,
+    "EBITDA": 16616999936,
+    "PERatio": 24.2129,
+    "PEGRatio": 2.2928,
+    "WallStreetTargetPrice": 352.7333,
+    "BookValue": 16.069,
+    "DividendShare": 9.52,
+    "DividendYield": 0.0273,
+    "EarningsShare": 14.23,
+    "EPSEstimateCurrentYear": 22.3318,
+    "EPSEstimateNextYear": 23.3542,
+    "EPSEstimateNextQuarter": 5.1808,
+    "EPSEstimateCurrentQuarter": 4.7258,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2098,
+    "OperatingMarginTTM": 0.3055,
+    "ReturnOnAssetsTTM": 0.0793,
+    "ReturnOnEquityTTM": 1.061,
+    "RevenueTTM": 36750999552,
+    "RevenuePerShareTTM": 68.31,
+    "QuarterlyRevenueGrowthYOY": 0.086,
+    "GrossProfitTTM": 26013999104,
+    "DilutedEpsTTM": 14.23,
+    "QuarterlyEarningsGrowthYOY": 1.121
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 20.95,
+    "TotalEsgPercentile": 23.7,
+    "EnvironmentScore": 1.53,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 15.13,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 5.8,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AMGN",
+    "Type": "Common Stock",
+    "Name": "Amgen Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBS2Y0",
+    "ISIN": "US0311621009",
+    "LEI": "62QBXGPJ34PQ72Z12S66",
+    "PrimaryTicker": "AMGN.US",
+    "CUSIP": "031162100",
+    "CIK": "0000318154",
+    "EmployerIdNumber": "95-3540776",
+    "FiscalYearEnd": "December",
+    "IPODate": "1983-06-17",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Drug Manufacturers - General",
+    "GicSector": "Health Care",
+    "GicGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+    "GicIndustry": "Biotechnology",
+    "GicSubIndustry": "Biotechnology",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Amgen Inc. discovers, develops, manufactures, and delivers human therapeutics worldwide. The company's principal products include Enbrel for the treatment of rheumatoid arthritis, plaque psoriasis, and psoriatic arthritis; Otezla for the treatment of adult patients with plaque psoriasis, psoriatic arthritis, and oral ulcers associated with Behçet's disease; Prolia to treat postmenopausal women with osteoporosis; XGEVA for skeletal-related events prevention; Repatha, which reduces the risks of myocardial infarction, stroke, and coronary revascularization; Nplate for the treatment of patients with immune thrombocytopenia; KYPROLIS to treat patients with relapsed or refractory multiple myeloma; Aranesp to treat a lower-than-normal number of red blood cells and anemia; EVENITY for the treatment of osteoporosis in postmenopausal for women; Vectibix to treat patients with wild-type RAS metastatic colorectal cancer; BLINCYTO for the treatment of patients with acute lymphoblastic leukemia; TEPEZZA to treat thyroid eye disease; and KRYSTEXXA for the treatment of chronic refractory gout. It also markets other products, including PROLIA, REPATHA, OTEZLA, ENBREL, EVENITY, XGEVA, TEPEZZA, BLINCYTO, NPLATE, TEZSPIRE, KYPROLIS, ARANESP, KRYSTEXXA AND VECTIBIX, MVASI, PAVBLU, UPLIZNA, IMDELLTRA/IMDYLLTRA, AMJEVITA/AMGEVITA, TAVNEOS, NEULASTA, LUMAKRAS/LUMYKRAS, RAVICTI, PARSABIV, AIMOVIG, WEZLANA/WEZENLA, AND PROCYSBI. The company serves healthcare providers, including physicians or their clinics, dialysis centers, hospitals, and pharmacies. It distributes its products through pharmaceutical wholesale distributors. The company has collaboration agreements with AstraZeneca plc for the development and commercialization of TEZSPIRE; BEONE MEDICINES LTD. to develop and commercialize Aimovig; UCB for the development and commercialization of EVENITY; Kyowa Kirin Co., Ltd. for rocatinlimab development and commercialization; and BeiGene, Ltd. for oncology products expansion and development. The company was incorporated in 1980 and is he",
+    "Address": "One Amgen Center Drive, Thousand Oaks, CA, United States, 91320-1799",
+    "AddressData": {
+      "Street": "One Amgen Center Drive",
+      "City": "Thousand Oaks",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "91320-1799"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AMGN34",
+        "Exchange": "SA",
+        "Name": "Amgen Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Robert A. Bradway",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1963"
+      },
+      "1": {
+        "Name": "Mr. Peter H. Griffith",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1959"
+      },
+      "2": {
+        "Name": "Dr. David M. Reese M.D.",
+        "Title": "Executive VP & CTO",
+        "YearBorn": "1963"
+      },
+      "3": {
+        "Name": "Mr. Murdo  Gordon",
+        "Title": "Executive Vice President of Global Commercial Operations",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Dr. James E. Bradner M.D.",
+        "Title": "Executive Vice President of Research & Development",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Mr. Esteban  Santos",
+        "Title": "Executive Vice President of Operations",
+        "YearBorn": "1968"
+      },
+      "6": {
+        "Name": "Mr. Matthew C. Busch",
+        "Title": "Chief Accounting Officer & VP of Finance",
+        "YearBorn": "1975"
+      },
+      "7": {
+        "Name": "Mr. Scott  Skellenger",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Howard Y. Chang M.D., Ph.D.",
+        "Title": "Senior VP of Global Research & Chief Scientific Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Casey  Capparelli",
+        "Title": "Executive Director of Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "805 447 1000",
+    "WebURL": "https://www.amgen.com",
+    "LogoURL": "/img/logos/US/Amgn.png",
+    "FullTimeEmployees": 31500,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 539067675,
+    "SharesFloat": 537622974,
+    "PercentInsiders": 0.218,
+    "PercentInstitutions": 85.693,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0237
+  }
+}

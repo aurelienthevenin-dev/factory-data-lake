@@ -1,0 +1,528 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.7233,
+        "totalAssets": 0.4922,
+        "currentShares": 158522860,
+        "change": 2525109,
+        "change_p": 1.6187
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.3658,
+        "totalAssets": 0.3863,
+        "currentShares": 136390486,
+        "change": -1291922,
+        "change_p": -0.9383
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.5282,
+        "totalAssets": 0.4142,
+        "currentShares": 73824441,
+        "change": 1755182,
+        "change_p": 2.4354
+      },
+      "3": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3053,
+        "totalAssets": 0.4947,
+        "currentShares": 37584845,
+        "change": 287525,
+        "change_p": 0.7709
+      },
+      "4": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8439,
+        "totalAssets": 0.2945,
+        "currentShares": 30061749,
+        "change": 445032,
+        "change_p": 1.5026
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.6641,
+        "totalAssets": 0.1315,
+        "currentShares": 27130344,
+        "change": 14381522,
+        "change_p": 112.8067
+      },
+      "6": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.4118,
+        "totalAssets": 0.5273,
+        "currentShares": 23016960,
+        "change": 1208204,
+        "change_p": 5.54
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2433,
+        "totalAssets": 0.3508,
+        "currentShares": 20269319,
+        "change": -6000374,
+        "change_p": -22.8414
+      },
+      "8": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1563,
+        "totalAssets": 0.6623,
+        "currentShares": 18851680,
+        "change": -4452897,
+        "change_p": -19.1074
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.02,
+        "totalAssets": 0.3442,
+        "currentShares": 16629875,
+        "change": 34040,
+        "change_p": 0.2051
+      },
+      "10": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.9709,
+        "totalAssets": 0.9212,
+        "currentShares": 15828895,
+        "change": 2342668,
+        "change_p": 17.3708
+      },
+      "11": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.8826,
+        "totalAssets": 1.2189,
+        "currentShares": 14389554,
+        "change": 4254593,
+        "change_p": 41.9794
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8778,
+        "totalAssets": 0.1563,
+        "currentShares": 14311367,
+        "change": 5546021,
+        "change_p": 63.2721
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8352,
+        "totalAssets": 0.1494,
+        "currentShares": 13616327,
+        "change": 1014832,
+        "change_p": 8.0533
+      },
+      "14": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8188,
+        "totalAssets": 0.3403,
+        "currentShares": 13348413,
+        "change": 813844,
+        "change_p": 6.4928
+      },
+      "15": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 0.8107,
+        "totalAssets": 0.4636,
+        "currentShares": 13216885,
+        "change": -1020464,
+        "change_p": -7.1675
+      },
+      "16": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7114,
+        "totalAssets": 0.386,
+        "currentShares": 11598021,
+        "change": 292555,
+        "change_p": 2.5877
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.702,
+        "totalAssets": 0.5436,
+        "currentShares": 11445325,
+        "change": -133788,
+        "change_p": -1.1554
+      },
+      "18": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 0.6807,
+        "totalAssets": 1.9644,
+        "currentShares": 11098198,
+        "change": -411724,
+        "change_p": -3.5771
+      },
+      "19": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.6692,
+        "totalAssets": 1.4028,
+        "currentShares": 10910310,
+        "change": 7035991,
+        "change_p": 181.6059
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1767,
+        "totalAssets": 0.5277,
+        "currentShares": 51791107,
+        "change": 293921,
+        "change_p": 0.5708
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5466,
+        "totalAssets": 0.5936,
+        "currentShares": 41517547,
+        "change": -355884,
+        "change_p": -0.8499
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0989,
+        "totalAssets": 1.8759,
+        "currentShares": 34218494,
+        "change": -114466,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2855,
+        "totalAssets": 0.592,
+        "currentShares": 20958014,
+        "change": -11412,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2708,
+        "totalAssets": 0.5537,
+        "currentShares": 20718877,
+        "change": 34154,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1603,
+        "totalAssets": 0.5919,
+        "currentShares": 18916861,
+        "change": -46452,
+        "change_p": -0.245
+      },
+      "6": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0674,
+        "totalAssets": 1.1139,
+        "currentShares": 17401570,
+        "change": -30769,
+        "change_p": -0.1765
+      },
+      "7": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7503,
+        "totalAssets": 2.9516,
+        "currentShares": 12232830,
+        "change": 32518,
+        "change_p": 0.2665
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6411,
+        "totalAssets": 1.7473,
+        "currentShares": 10452031,
+        "change": -11905,
+        "change_p": -0.1138
+      },
+      "9": {
+        "name": "VanEck Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5775,
+        "totalAssets": 4.7717,
+        "currentShares": 9415864,
+        "change": -181138,
+        "change_p": -1.8874
+      },
+      "10": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.5921,
+        "currentShares": 9185760,
+        "change": -36523,
+        "change_p": -0.396
+      },
+      "11": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.586,
+        "currentShares": 8703298,
+        "change": 24700,
+        "change_p": 0.2846
+      },
+      "12": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.5914,
+        "currentShares": 7364023,
+        "change": 52988,
+        "change_p": 0.7248
+      },
+      "13": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.3962,
+        "totalAssets": 0.5967,
+        "currentShares": 6459650,
+        "change": 6459650,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3962,
+        "totalAssets": 0.5967,
+        "currentShares": 6459650,
+        "change": -52238,
+        "change_p": -0.8022
+      },
+      "15": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3962,
+        "totalAssets": 0.5967,
+        "currentShares": 6459650,
+        "change": -52238,
+        "change_p": -0.8022
+      },
+      "16": {
+        "name": "iShares Semiconductor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3944,
+        "totalAssets": 6.4667,
+        "currentShares": 6430647,
+        "change": -115016,
+        "change_p": -1.7571
+      },
+      "17": {
+        "name": "Invesco NASDAQ 100 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3889,
+        "totalAssets": 1.8708,
+        "currentShares": 6340569,
+        "change": 27156,
+        "change_p": 0.4301
+      },
+      "18": {
+        "name": "Blackrock Eq Idx Fund CF",
+        "date": "2026-03-31",
+        "totalShares": 0.3609,
+        "totalAssets": 0.5884,
+        "currentShares": 5884342,
+        "change": -20580,
+        "change_p": -0.3485
+      },
+      "19": {
+        "name": "Invesco S&P 500 ETF",
+        "date": "2025-07-31",
+        "totalShares": 0.3283,
+        "totalAssets": 2.1481,
+        "currentShares": 5351859,
+        "change": 5351859,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 133.2605,
+    "ForwardPE": 45.6621,
+    "PriceSalesTTM": 16.3709,
+    "PriceBookMRQ": 7.9016,
+    "EnterpriseValue": 491086339392,
+    "EnterpriseValueRevenue": 14.1773,
+    "EnterpriseValueEbitda": 67.5033
+  },
+  "Highlights": {
+    "MarketCapitalization": 567073177600,
+    "MarketCapitalizationMln": 567073.1776,
+    "EBITDA": 6744999936,
+    "PERatio": 133.2605,
+    "PEGRatio": 0.906,
+    "WallStreetTargetPrice": 292.3913,
+    "BookValue": 38.65,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 2.61,
+    "EPSEstimateCurrentYear": 6.6993,
+    "EPSEstimateNextYear": 10.9773,
+    "EPSEstimateNextQuarter": 1.2246,
+    "EPSEstimateCurrentQuarter": 1.3192,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1252,
+    "OperatingMarginTTM": 0.1706,
+    "ReturnOnAssetsTTM": 0.032,
+    "ReturnOnEquityTTM": 0.0708,
+    "RevenueTTM": 34638999552,
+    "RevenuePerShareTTM": 21.329,
+    "QuarterlyRevenueGrowthYOY": 0.341,
+    "GrossProfitTTM": 18183000064,
+    "DilutedEpsTTM": 2.61,
+    "QuarterlyEarningsGrowthYOY": 2.171
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "AMD",
+    "Type": "Common Stock",
+    "Name": "Advanced Micro Devices Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BBQCY0",
+    "ISIN": "US0079031078",
+    "LEI": "R2I72C950HOYXII45366",
+    "PrimaryTicker": "AMD.US",
+    "CUSIP": "007903107",
+    "CIK": "0000002488",
+    "EmployerIdNumber": "94-1692300",
+    "FiscalYearEnd": "December",
+    "IPODate": "1979-10-15",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductors",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductors",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded. The company offers artificial intelligence (AI) accelerators, microprocessors, and graphics processing units (GPUs) as standalone devices or as incorporated into accelerated processing units, chipsets, and data center and professional GPUs; and embedded processors and semi-custom system-on-chip (SoC) products, microprocessor and SoC development services and technology, data processing units, field programmable gate arrays (FPGA), system on modules, AI network interface cards, and adaptive SoC products. It provides processors under the AMD Ryzen, AMD Ryzen AI, AMD Ryzen PRO, AMD Ryzen Threadripper, AMD Ryzen Threadripper PRO, AMD Athlon, and AMD PRO A-Series brands; graphics under the AMD Radeon graphics and AMD Embedded Radeon graphics; professional graphics under the AMD Radeon Pro graphics brand; and AI and general-purpose compute infrastructure for hyperscale providers. The company offers data center graphics under the AMD Instinct accelerators and Radeon PRO V-series brands; server microprocessors under the AMD EPYC brand; low power solutions under the AMD Athlon, AMD Geode, AMD Ryzen, AMD EPYC, and AMD R-Series and G-Series brands; FPGA products under the Virtex-6, Virtex-7, Virtex UltraScale+, Kintex-7, Kintex UltraScale, Kintex UltraScale+, Artix-7, Artix UltraScale+, Spartan-6, and Spartan-7 brands; adaptive SOCs under the Zynq-7000, Zynq UltraScale+ MPSoC, Zynq UltraScale+ RFSoCs, Versal HBM, Versal Premium, Versal Prime, Versal AI Core, Versal AI Edge, Vitis, and Vivado brands; and compute and network acceleration board products under the Alveo and Pensando brands. It serves original equipment and design manufacturers, public cloud service providers, system integrators, distributors, and add-in-board manufacturers. The company was incorporated in 1969 and is headquartered in Santa Clara, California.",
+    "Address": "2485 Augustine Drive, Santa Clara, CA, United States, 95054",
+    "AddressData": {
+      "Street": "2485 Augustine Drive",
+      "City": "Santa Clara",
+      "State": "CA",
+      "Country": "United States",
+      "ZIP": "95054"
+    },
+    "Listings": {
+      "0": {
+        "Code": "A1MD34",
+        "Exchange": "SA",
+        "Name": "Advanced Micro Devices Inc"
+      },
+      "1": {
+        "Code": "AMD",
+        "Exchange": "F",
+        "Name": "Advanced Micro Devices Inc"
+      },
+      "2": {
+        "Code": "AMD",
+        "Exchange": "XETRA",
+        "Name": "Advanced Micro Devices Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Dr. Lisa T. Su Ph.D.",
+        "Title": "Chair, President & CEO",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Ms. Jean X. Hu Ph.D.",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1963"
+      },
+      "2": {
+        "Name": "Mr. Mark D. Papermaster",
+        "Title": "CTO and Executive VP of Technology & Engineering",
+        "YearBorn": "1962"
+      },
+      "3": {
+        "Name": "Mr. Paul Darren Grasby",
+        "Title": "Executive VP, Chief Sales Officer & President AMD EMEA",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Forrest E. Norrod",
+        "Title": "Executive VP & GM of the Data Center Solutions Business Group",
+        "YearBorn": "1965"
+      },
+      "5": {
+        "Name": "Mr. Keivan  Keshvari",
+        "Title": "Senior Vice President of Global Operations & Quality",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Emily  Ellis",
+        "Title": "Corporate VP, Chief Accounting Officer & Principal Accounting Officer",
+        "YearBorn": "1983"
+      },
+      "7": {
+        "Name": "Mr. Hasmukh  Ranjan",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Ruth  Cotter",
+        "Title": "Senior VP & Chief Administrative Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Matthew D. Ramsay",
+        "Title": "Vice President of Financial Strategy & Investor Relations",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "408 749 4000",
+    "WebURL": "https://www.amd.com",
+    "LogoURL": "/img/logos/US/AMD.png",
+    "FullTimeEmployees": 31000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1630338779,
+    "SharesFloat": 1621476192,
+    "PercentInsiders": 0.43499999999999994,
+    "PercentInstitutions": 72.548,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.022
+  }
+}

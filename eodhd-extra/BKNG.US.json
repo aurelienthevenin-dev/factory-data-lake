@@ -1,0 +1,602 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.4652,
+        "totalAssets": 0.2328,
+        "currentShares": 2997949,
+        "change": 23159,
+        "change_p": 0.7785
+      },
+      "1": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 8.9443,
+        "totalAssets": 0.2414,
+        "currentShares": 2832970,
+        "change": 2831495,
+        "change_p": 191965.7627
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.8448,
+        "totalAssets": 0.2648,
+        "currentShares": 2801432,
+        "change": 76064,
+        "change_p": 2.791
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 7.3318,
+        "totalAssets": 0.3756,
+        "currentShares": 2322230,
+        "change": 1249748,
+        "change_p": 116.5286
+      },
+      "4": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.509,
+        "totalAssets": 0.2674,
+        "currentShares": 1428140,
+        "change": -785,
+        "change_p": -0.0549
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7064,
+        "totalAssets": 0.2828,
+        "currentShares": 857206,
+        "change": -971,
+        "change_p": -0.1131
+      },
+      "6": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.6439,
+        "totalAssets": 0.4837,
+        "currentShares": 837421,
+        "change": -39090,
+        "change_p": -4.4597
+      },
+      "7": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 2.3113,
+        "totalAssets": 2.1163,
+        "currentShares": 732081,
+        "change": 56999,
+        "change_p": 8.4433
+      },
+      "8": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.1682,
+        "totalAssets": 0.2245,
+        "currentShares": 686756,
+        "change": -61498,
+        "change_p": -8.2189
+      },
+      "9": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.0261,
+        "totalAssets": 0.4674,
+        "currentShares": 641723,
+        "change": -150307,
+        "change_p": -18.9774
+      },
+      "10": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.9284,
+        "totalAssets": 0.3499,
+        "currentShares": 610801,
+        "change": 228900,
+        "change_p": 59.937
+      },
+      "11": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.654,
+        "totalAssets": 0.1431,
+        "currentShares": 523887,
+        "change": -211729,
+        "change_p": -28.7825
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.279,
+        "totalAssets": 0.3446,
+        "currentShares": 405105,
+        "change": 25522,
+        "change_p": 6.7237
+      },
+      "13": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2159,
+        "totalAssets": 0.373,
+        "currentShares": 385130,
+        "change": -29988,
+        "change_p": -7.224
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1389,
+        "totalAssets": 0.2492,
+        "currentShares": 360723,
+        "change": -2223,
+        "change_p": -0.6125
+      },
+      "15": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.0925,
+        "totalAssets": 0.8529,
+        "currentShares": 346037,
+        "change": -4210,
+        "change_p": -1.202
+      },
+      "16": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0158,
+        "totalAssets": 0.4512,
+        "currentShares": 321749,
+        "change": -23236,
+        "change_p": -6.7354
+      },
+      "17": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9391,
+        "totalAssets": 1.8348,
+        "currentShares": 297456,
+        "change": 10528,
+        "change_p": 3.6692
+      },
+      "18": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.9268,
+        "totalAssets": 0.5119,
+        "currentShares": 293553,
+        "change": 9732,
+        "change_p": 3.4289
+      },
+      "19": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.858,
+        "totalAssets": 0.3186,
+        "currentShares": 271769,
+        "change": -86734,
+        "change_p": -24.1934
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1763,
+        "totalAssets": 0.2122,
+        "currentShares": 1006031,
+        "change": -13473,
+        "change_p": -1.3215
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5907,
+        "totalAssets": 0.2428,
+        "currentShares": 820547,
+        "change": -9664,
+        "change_p": -1.164
+      },
+      "2": {
+        "name": "Fiduciary Mgt of Milwaukee Intl Comp",
+        "date": "2026-03-31",
+        "totalShares": 2.4074,
+        "totalAssets": 6.4253,
+        "currentShares": 762500,
+        "change": 744500,
+        "change_p": 4136.1111
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0987,
+        "totalAssets": 0.7542,
+        "currentShares": 664716,
+        "change": -2236,
+        "change_p": -0.3353
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.309,
+        "totalAssets": 0.2424,
+        "currentShares": 414598,
+        "change": -228,
+        "change_p": -0.055
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2952,
+        "totalAssets": 0.2322,
+        "currentShares": 410218,
+        "change": 676,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1813,
+        "totalAssets": 0.2423,
+        "currentShares": 374144,
+        "change": -931,
+        "change_p": -0.2482
+      },
+      "7": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 1.1162,
+        "totalAssets": 1.582,
+        "currentShares": 353530,
+        "change": 15300,
+        "change_p": 4.5235
+      },
+      "8": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.088,
+        "totalAssets": 0.4566,
+        "currentShares": 344616,
+        "change": -7616,
+        "change_p": -2.1622
+      },
+      "9": {
+        "name": "IBEW-NECA EQUITY INDEX FUND",
+        "date": "2026-03-31",
+        "totalShares": 0.9528,
+        "totalAssets": 0.2423,
+        "currentShares": 301775,
+        "change": 289731,
+        "change_p": 2405.6045
+      },
+      "10": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 0.582,
+        "totalAssets": 0.2944,
+        "currentShares": 184337,
+        "change": 76635,
+        "change_p": 71.1547
+      },
+      "11": {
+        "name": "Dodge & Cox International Stock I",
+        "date": "2025-12-31",
+        "totalShares": 0.5771,
+        "totalAssets": 1.5921,
+        "currentShares": 182800,
+        "change": 22500,
+        "change_p": 14.0362
+      },
+      "12": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5734,
+        "totalAssets": 0.2423,
+        "currentShares": 181608,
+        "change": -1002,
+        "change_p": -0.5487
+      },
+      "13": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.5698,
+        "totalAssets": 0.248,
+        "currentShares": 180478,
+        "change": 3586,
+        "change_p": 2.0272
+      },
+      "14": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5585,
+        "totalAssets": 0.282,
+        "currentShares": 176892,
+        "change": -12852,
+        "change_p": -6.7733
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5433,
+        "totalAssets": 0.2398,
+        "currentShares": 172071,
+        "change": 240,
+        "change_p": 0.1397
+      },
+      "16": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5373,
+        "totalAssets": 3.3753,
+        "currentShares": 170193,
+        "change": -2249,
+        "change_p": -1.3042
+      },
+      "17": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4597,
+        "totalAssets": 0.242,
+        "currentShares": 145587,
+        "change": 834,
+        "change_p": 0.5762
+      },
+      "18": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4024,
+        "totalAssets": 0.2944,
+        "currentShares": 127451,
+        "change": -2599,
+        "change_p": -1.9985
+      },
+      "19": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.4024,
+        "totalAssets": 0.2944,
+        "currentShares": 127451,
+        "change": 127451,
+        "change_p": 0
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 27.2281,
+    "ForwardPE": 16.5017,
+    "PriceSalesTTM": 5.211,
+    "PriceBookMRQ": 34.9536,
+    "EnterpriseValue": 139632104616,
+    "EnterpriseValueRevenue": 5.1875,
+    "EnterpriseValueEbitda": 15.1494
+  },
+  "Highlights": {
+    "MarketCapitalization": 140265717760,
+    "MarketCapitalizationMln": 140265.7178,
+    "EBITDA": 10110000128,
+    "PERatio": 27.2281,
+    "PEGRatio": 0.7303,
+    "WallStreetTargetPrice": 231.9789,
+    "BookValue": -6.996,
+    "DividendShare": 1.536,
+    "DividendYield": 0.0087,
+    "EarningsShare": 6.62,
+    "EPSEstimateCurrentYear": 10.6794,
+    "EPSEstimateNextYear": 12.4232,
+    "EPSEstimateNextQuarter": 30.0292,
+    "EPSEstimateCurrentQuarter": 48.6701,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.2008,
+    "OperatingMarginTTM": 0.3245,
+    "ReturnOnAssetsTTM": 0.2082,
+    "ReturnOnEquityTTM": 2.2574,
+    "RevenueTTM": 26916999168,
+    "RevenuePerShareTTM": 33.178,
+    "QuarterlyRevenueGrowthYOY": 0.16,
+    "GrossProfitTTM": 23513999360,
+    "DilutedEpsTTM": 6.62,
+    "QuarterlyEarningsGrowthYOY": 0.384
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 26.52,
+    "TotalEsgPercentile": 25.36,
+    "EnvironmentScore": 7.88,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 15.4,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12.24,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BKNG",
+    "Type": "Common Stock",
+    "Name": "Booking Holdings Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLBVN4",
+    "ISIN": "US09857L1089",
+    "LEI": "FXM8FAOHMYDIPD38UZ17",
+    "PrimaryTicker": "BKNG.US",
+    "CUSIP": "741503106",
+    "CIK": "0001075531",
+    "EmployerIdNumber": "06-1528493",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-03-30",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Travel Services",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Services",
+    "GicIndustry": "Hotels, Restaurants & Leisure",
+    "GicSubIndustry": "Hotels, Resorts & Cruise Lines",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Booking Holdings Inc., together with its subsidiaries, provides online and traditional travel and restaurant reservations and related services in the United States, the Netherlands, the United Kingdom, and internationally. The company operates Booking.com, which offers online accommodation reservations; and Priceline, which provides discount travel reservations services, as well as online accommodation, flight, rental car reservation services, vacation packages, cruises, activity, and affiliate programs. It also operates Agoda that offers online accommodation reservation, flight, ground transportation, and attractions. In addition, the company operates KAYAK, an online meta-search service that allows consumers to search and compare travel itineraries and prices; and OpenTable for booking online restaurant reservations, as well as reservation management services to restaurants. Further, it offers travel-related insurance products, payment facilitation, and restaurant management services to consumers, travel service providers, and restaurants; and advertising services. The company was formerly known as The Priceline Group Inc. and changed its name to Booking Holdings Inc. in February 2018. Booking Holdings Inc. was founded in 1997 and is headquartered in Norwalk, Connecticut.",
+    "Address": "800 Connecticut Avenue, Norwalk, CT, United States, 06854",
+    "AddressData": {
+      "Street": "800 Connecticut Avenue",
+      "City": "Norwalk",
+      "State": "CT",
+      "Country": "United States",
+      "ZIP": "06854"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BKNG34",
+        "Exchange": "SA",
+        "Name": "Booking Holdings Inc"
+      },
+      "1": {
+        "Code": "PCE1",
+        "Exchange": "F",
+        "Name": "Booking Holdings Inc"
+      },
+      "2": {
+        "Code": "PCE1",
+        "Exchange": "XETRA",
+        "Name": "Booking Holdings Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Glenn D. Fogel",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. Ewout Lucien Steenbergen",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Mr. Peter J. Millones Jr.",
+        "Title": "Executive VP & General Counsel",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Mr. Paulo  Pisano",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Ms. Leslie  Cafferty",
+        "Title": "Head of Communications",
+        "YearBorn": "NA"
+      },
+      "5": {
+        "Name": "Ms. Debby  Soo",
+        "Title": "Chief Executive Officer of OpenTable",
+        "YearBorn": "1982"
+      },
+      "6": {
+        "Name": "Mr. Vijay S. Iyer",
+        "Title": "Senior VP, Associate General Counsel & Corporate Secretary",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Omri  Morgenshtern",
+        "Title": "Chief Executive Officer of Agoda",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Brigit  Zimmerman",
+        "Title": "Chief Executive Officer of Priceline",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Peer  Bueller",
+        "Title": "CEO of KAYAK",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "203 299 8000",
+    "WebURL": "https://www.bookingholdings.com",
+    "LogoURL": "/img/logos/US/BKNG.png",
+    "FullTimeEmployees": 23571,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 778173152,
+    "SharesFloat": 789260191,
+    "PercentInsiders": 0.187,
+    "PercentInstitutions": 98.41,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0346
+  }
+}

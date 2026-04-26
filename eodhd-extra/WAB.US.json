@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.6812,
+        "totalAssets": 0.0615,
+        "currentShares": 19878131,
+        "change": -66127,
+        "change_p": -0.3316
+      },
+      "1": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.1128,
+        "totalAssets": 0.2058,
+        "currentShares": 18910879,
+        "change": 2595759,
+        "change_p": 15.9101
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.7458,
+        "totalAssets": 0.0463,
+        "currentShares": 13181100,
+        "change": -725119,
+        "change_p": -5.2144
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3841,
+        "totalAssets": 0.0519,
+        "currentShares": 7460430,
+        "change": -27738,
+        "change_p": -0.3704
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.8906,
+        "totalAssets": 0.142,
+        "currentShares": 6620759,
+        "change": 15720,
+        "change_p": 0.238
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5657,
+        "totalAssets": 0.0573,
+        "currentShares": 4366157,
+        "change": 38029,
+        "change_p": 0.8786
+      },
+      "6": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 2.1488,
+        "totalAssets": 0.5842,
+        "currentShares": 3656578,
+        "change": -343132,
+        "change_p": -8.5789
+      },
+      "7": {
+        "name": "Select Equity Group LP",
+        "date": "2025-12-31",
+        "totalShares": 2.0917,
+        "totalAssets": 3.275,
+        "currentShares": 3559419,
+        "change": -129206,
+        "change_p": -3.5028
+      },
+      "8": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 1.8037,
+        "totalAssets": 0.5667,
+        "currentShares": 3069340,
+        "change": 1095083,
+        "change_p": 55.4681
+      },
+      "9": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.5679,
+        "totalAssets": 0.0998,
+        "currentShares": 2668044,
+        "change": -636139,
+        "change_p": -19.2525
+      },
+      "10": {
+        "name": "Farallon Capital Management, L.L.C.",
+        "date": "2025-12-31",
+        "totalShares": 1.455,
+        "totalAssets": 2.4939,
+        "currentShares": 2476003,
+        "change": 270905,
+        "change_p": 12.2854
+      },
+      "11": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4241,
+        "totalAssets": 0.0765,
+        "currentShares": 2423468,
+        "change": -1990968,
+        "change_p": -45.1013
+      },
+      "12": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.2808,
+        "totalAssets": 0.0265,
+        "currentShares": 2179556,
+        "change": -38526,
+        "change_p": -1.7369
+      },
+      "13": {
+        "name": "Boston Partners Global Investors, Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.1809,
+        "totalAssets": 0.4455,
+        "currentShares": 2009616,
+        "change": -295216,
+        "change_p": -12.8086
+      },
+      "14": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1478,
+        "totalAssets": 0.0501,
+        "currentShares": 1953310,
+        "change": -8747,
+        "change_p": -0.4458
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.1261,
+        "totalAssets": 0.0438,
+        "currentShares": 1916324,
+        "change": 257888,
+        "change_p": 15.5501
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.1246,
+        "totalAssets": 0.0115,
+        "currentShares": 1913830,
+        "change": 386428,
+        "change_p": 25.2997
+      },
+      "17": {
+        "name": "Beutel, Goodman & Company Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 1.0242,
+        "totalAssets": 2.2854,
+        "currentShares": 1742919,
+        "change": 62829,
+        "change_p": 3.7396
+      },
+      "18": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.0227,
+        "totalAssets": 0.0779,
+        "currentShares": 1740265,
+        "change": 22024,
+        "change_p": 1.2818
+      },
+      "19": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 0.9886,
+        "totalAssets": 0.1158,
+        "currentShares": 1682401,
+        "change": -331982,
+        "change_p": -16.4806
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1829,
+        "totalAssets": 0.0678,
+        "currentShares": 5416430,
+        "change": 13964,
+        "change_p": 0.2585
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5512,
+        "totalAssets": 0.0763,
+        "currentShares": 4341454,
+        "change": -55916,
+        "change_p": -1.2716
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1646,
+        "totalAssets": 0.4632,
+        "currentShares": 3683514,
+        "change": -32251,
+        "change_p": -0.868
+      },
+      "3": {
+        "name": "T. Rowe Price U.S. Value Equity Tr-D",
+        "date": "2026-03-31",
+        "totalShares": 1.992,
+        "totalAssets": 1.9745,
+        "currentShares": 3389888,
+        "change": 96819,
+        "change_p": 2.9401
+      },
+      "4": {
+        "name": "T. Rowe Price US Value Equity Composite",
+        "date": "2025-12-31",
+        "totalShares": 1.4878,
+        "totalAssets": 1.7495,
+        "currentShares": 2531861,
+        "change": 5805,
+        "change_p": 0.2298
+      },
+      "5": {
+        "name": "T. Rowe Price Value",
+        "date": "2026-03-31",
+        "totalShares": 1.4823,
+        "totalAssets": 1.9771,
+        "currentShares": 2522468,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2877,
+        "totalAssets": 0.0761,
+        "currentShares": 2191324,
+        "change": -1188,
+        "change_p": -0.0542
+      },
+      "7": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2785,
+        "totalAssets": 0.0767,
+        "currentShares": 2175644,
+        "change": 3588,
+        "change_p": 0.1652
+      },
+      "8": {
+        "name": "Fidelity Contrafund",
+        "date": "2026-02-28",
+        "totalShares": 1.2713,
+        "totalAssets": 0.3366,
+        "currentShares": 2163395,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Fidelity Magellan",
+        "date": "2026-02-28",
+        "totalShares": 1.2157,
+        "totalAssets": 1.5363,
+        "currentShares": 2068810,
+        "change": -92700,
+        "change_p": -4.2887
+      },
+      "10": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1653,
+        "totalAssets": 0.0762,
+        "currentShares": 1982992,
+        "change": -4851,
+        "change_p": -0.244
+      },
+      "11": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9261,
+        "totalAssets": 0.1745,
+        "currentShares": 1576015,
+        "change": -15340,
+        "change_p": -0.964
+      },
+      "12": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.9163,
+        "totalAssets": 0.1864,
+        "currentShares": 1559279,
+        "change": 91924,
+        "change_p": 6.2646
+      },
+      "13": {
+        "name": "Hartford Dividend and Growth Y",
+        "date": "2026-02-28",
+        "totalShares": 0.8071,
+        "totalAssets": 1.9706,
+        "currentShares": 1373420,
+        "change": -5737,
+        "change_p": -0.416
+      },
+      "14": {
+        "name": "Fidelity Greater Canada Sr F",
+        "date": "2025-12-31",
+        "totalShares": 0.7052,
+        "totalAssets": 3.8864,
+        "currentShares": 1200000,
+        "change": 25000,
+        "change_p": 2.1277
+      },
+      "15": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6518,
+        "totalAssets": 0.7979,
+        "currentShares": 1109196,
+        "change": 42174,
+        "change_p": 3.9525
+      },
+      "16": {
+        "name": "Fidelity Series Stk Selec Lg Cp Val",
+        "date": "2026-02-28",
+        "totalShares": 0.617,
+        "totalAssets": 1.7738,
+        "currentShares": 1049959,
+        "change": 0,
+        "change_p": 0
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5646,
+        "totalAssets": 0.0761,
+        "currentShares": 960797,
+        "change": -7130,
+        "change_p": -0.7366
+      },
+      "18": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5568,
+        "totalAssets": 0.8426,
+        "currentShares": 947580,
+        "change": -6552,
+        "change_p": -0.6867
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5349,
+        "totalAssets": 0.0753,
+        "currentShares": 910277,
+        "change": -1000,
+        "change_p": -0.1097
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 37.7203,
+    "ForwardPE": 23.753,
+    "PriceSalesTTM": 3.938,
+    "PriceBookMRQ": 4.1178,
+    "EnterpriseValue": 51321032022,
+    "EnterpriseValueRevenue": 4.4952,
+    "EnterpriseValueEbitda": 21.9088
+  },
+  "Highlights": {
+    "MarketCapitalization": 45314031616,
+    "MarketCapitalizationMln": 45314.0316,
+    "EBITDA": 2520000000,
+    "PERatio": 37.7203,
+    "PEGRatio": 1.368,
+    "WallStreetTargetPrice": 297.0909,
+    "BookValue": 65.311,
+    "DividendShare": 1.06,
+    "DividendYield": 0.0039,
+    "EarningsShare": 7.08,
+    "EPSEstimateCurrentYear": 10.5278,
+    "EPSEstimateNextYear": 12.0509,
+    "EPSEstimateNextQuarter": 2.6335,
+    "EPSEstimateCurrentQuarter": 2.5214,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1052,
+    "OperatingMarginTTM": 0.1898,
+    "ReturnOnAssetsTTM": 0.0604,
+    "ReturnOnEquityTTM": 0.1131,
+    "RevenueTTM": 11507000320,
+    "RevenuePerShareTTM": 67.539,
+    "QuarterlyRevenueGrowthYOY": 0.13,
+    "GrossProfitTTM": 4055000064,
+    "DilutedEpsTTM": 7.08,
+    "QuarterlyEarningsGrowthYOY": 0.128
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.16,
+    "TotalEsgPercentile": 60.7,
+    "EnvironmentScore": 10.89,
+    "EnvironmentScorePercentile": 8,
+    "SocialScore": 18.27,
+    "SocialScorePercentile": 8,
+    "GovernanceScore": 12,
+    "GovernanceScorePercentile": 8,
+    "ControversyLevel": 1,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "WAB",
+    "Type": "Common Stock",
+    "Name": "Westinghouse Air Brake Technologies Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BDD940",
+    "ISIN": "US9297401088",
+    "LEI": "06BTX5UWZD0GQ5N5Y745",
+    "PrimaryTicker": "WAB.US",
+    "CUSIP": "960386100",
+    "CIK": "0000943452",
+    "EmployerIdNumber": "25-1615902",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-06-20",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Railroads",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Construction Machinery & Heavy Transportation Equipment",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "Westinghouse Air Brake Technologies Corporation provides locomotives, equipment, systems, and services for the freight rail and passenger transit industries worldwide. It operates in two segments, Freight and Transit. It offers diesel-electric and liquid natural gas-powered locomotives; engines, electric motors, and propulsion systems; and marine and mining products. The company also offers positive train control equipment; electronically controlled pneumatic braking products; railway electronics; signal design and engineering services; distributed locomotive power, and train cruise and remote controls; industrial/mobile Internet of Things hardware and software, edge-to-cloud, on and off-board analytics and rules, and asset performance management solutions; rail and shipper transportation management, and port visibility and optimization solutions; and network optimization solutions. In addition, it provides freight car trucks, braking equipment, and related components; air compressors and dryers, as well as heating, ventilation, and air conditioning (HVAC) systems; heat transfer components and systems; custom engineered burners and combustion systems; rail gear, signaling, and switch products; and turbochargers. Further, it offers freight locomotive overhauls, modernizations, and refurbishment; locomotive and car maintenance; transit locomotive and car overhaul; unit exchange of locomotive components; long-term parts arrangements; and way equipment maintenance services. Additionally, it provides railway and freight braking equipment and related components; brake shoes, discs, and pads; HVAC equipment; access and platform screen doors; pantographs; power converters and battery chargers; passenger information systems and closed-circuit television; signaling and railway electric relays; and doors, window assemblies, accessibility lifts, ramps, and electric charging solutions for buses. The company was founded in 1869 and is headquartered in Pittsburgh, Pennsylvania.",
+    "Address": "30 Isabella Street, Pittsburgh, PA, United States, 15212",
+    "AddressData": {
+      "Street": "30 Isabella Street",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "15212"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Rafael Ottoni Santana",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1972"
+      },
+      "1": {
+        "Name": "Mr. John A. Olin CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1961"
+      },
+      "2": {
+        "Name": "Mr. Eric  Gebhardt",
+        "Title": "Executive VP & Chief Technology Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. David L. DeNinno",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1956"
+      },
+      "4": {
+        "Name": "Mr. Pascal  Schweitzer",
+        "Title": "President of Transit",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Greg A. Sbrocco",
+        "Title": "Executive Vice President of Global Operations",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. John A. Mastalerz Jr.",
+        "Title": "Senior VP of Finance & Chief Accounting Officer",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Rick  Smith",
+        "Title": "Chief Information Officer",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Nicole B. Theophilus",
+        "Title": "Executive VP & Chief Administrative Officer",
+        "YearBorn": "1970"
+      },
+      "9": {
+        "Name": "Ms. Kyra  Yates",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "1979"
+      }
+    },
+    "Phone": "412 825 1000",
+    "WebURL": "https://www.wabteccorp.com",
+    "LogoURL": "/img/logos/US/WAB.png",
+    "FullTimeEmployees": 31000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 169677346,
+    "SharesFloat": 167605586,
+    "PercentInsiders": 0.728,
+    "PercentInstitutions": 96.78999999999999,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0189
+  }
+}

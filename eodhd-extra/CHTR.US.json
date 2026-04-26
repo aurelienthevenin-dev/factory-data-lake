@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 11.7213,
+        "totalAssets": 1.6462,
+        "currentShares": 14609220,
+        "change": 2801671,
+        "change_p": 23.7278
+      },
+      "1": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 8.2225,
+        "totalAssets": 0.031,
+        "currentShares": 10248287,
+        "change": 885935,
+        "change_p": 9.4627
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.3879,
+        "totalAssets": 0.076,
+        "currentShares": 7961695,
+        "change": 1475383,
+        "change_p": 22.7461
+      },
+      "3": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 5.653,
+        "totalAssets": 0.0339,
+        "currentShares": 7045782,
+        "change": -827936,
+        "change_p": -10.5152
+      },
+      "4": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.8635,
+        "totalAssets": 0.1856,
+        "currentShares": 4815422,
+        "change": 3626135,
+        "change_p": 304.8999
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.6718,
+        "totalAssets": 0.0377,
+        "currentShares": 4576416,
+        "change": 2330707,
+        "change_p": 103.7849
+      },
+      "6": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 3.486,
+        "totalAssets": 1.1463,
+        "currentShares": 4344822,
+        "change": 850271,
+        "change_p": 24.3313
+      },
+      "7": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.4124,
+        "totalAssets": 0.2063,
+        "currentShares": 3006805,
+        "change": -97099,
+        "change_p": -3.1283
+      },
+      "8": {
+        "name": "Arnhold & S. Bleichroeder Advisers, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3825,
+        "totalAssets": 1.0909,
+        "currentShares": 2969507,
+        "change": 1617148,
+        "change_p": 119.5798
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 2.1346,
+        "totalAssets": 0.0594,
+        "currentShares": 2660518,
+        "change": -141241,
+        "change_p": -5.0412
+      },
+      "10": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 2.1068,
+        "totalAssets": 0.0859,
+        "currentShares": 2625889,
+        "change": -6511392,
+        "change_p": -71.2618
+      },
+      "11": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.9518,
+        "totalAssets": 0.0312,
+        "currentShares": 2432662,
+        "change": -80159,
+        "change_p": -3.19
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.9318,
+        "totalAssets": 0.1044,
+        "currentShares": 2407731,
+        "change": 559361,
+        "change_p": 30.2624
+      },
+      "13": {
+        "name": "Voyager Global Management LP",
+        "date": "2025-12-31",
+        "totalShares": 1.4843,
+        "totalAssets": 11.2936,
+        "currentShares": 1850000,
+        "change": 1725000,
+        "change_p": 1380
+      },
+      "14": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.4416,
+        "totalAssets": 0.0787,
+        "currentShares": 1796795,
+        "change": -102535,
+        "change_p": -5.3985
+      },
+      "15": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.296,
+        "totalAssets": 0.0696,
+        "currentShares": 1615283,
+        "change": 670566,
+        "change_p": 70.9806
+      },
+      "16": {
+        "name": "Veritas Asset Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.2204,
+        "totalAssets": 3.2491,
+        "currentShares": 1521130,
+        "change": -23397,
+        "change_p": -1.5148
+      },
+      "17": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1855,
+        "totalAssets": 0.0246,
+        "currentShares": 1477593,
+        "change": 120941,
+        "change_p": 8.9147
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0533,
+        "totalAssets": 0.0336,
+        "currentShares": 1312787,
+        "change": 560542,
+        "change_p": 74.5159
+      },
+      "19": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8512,
+        "totalAssets": 0.1092,
+        "currentShares": 1060882,
+        "change": 0,
+        "change_p": 0
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 7.8559,
+        "totalAssets": 1.7079,
+        "currentShares": 9791376,
+        "change": 1851700,
+        "change_p": 23.3221
+      },
+      "1": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 2.3724,
+        "totalAssets": 0.3848,
+        "currentShares": 2956871,
+        "change": 495431,
+        "change_p": 20.1277
+      },
+      "2": {
+        "name": "State Street® CommServSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 2.2826,
+        "totalAssets": 2.5425,
+        "currentShares": 2844936,
+        "change": -3280,
+        "change_p": -0.1152
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.1323,
+        "totalAssets": 0.1546,
+        "currentShares": 2657669,
+        "change": -8901,
+        "change_p": -0.3338
+      },
+      "4": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.0972,
+        "totalAssets": 0.0283,
+        "currentShares": 2613952,
+        "change": -45513,
+        "change_p": -1.7114
+      },
+      "5": {
+        "name": "First Eagle Global A",
+        "date": "2026-02-28",
+        "totalShares": 2.0508,
+        "totalAssets": 0.7612,
+        "currentShares": 2556040,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.9749,
+        "totalAssets": 0.292,
+        "currentShares": 2461440,
+        "change": 1980598,
+        "change_p": 411.902
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.8709,
+        "totalAssets": 0.1449,
+        "currentShares": 2331906,
+        "change": -1781737,
+        "change_p": -43.3129
+      },
+      "8": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.7589,
+        "totalAssets": 0.0333,
+        "currentShares": 2192201,
+        "change": -72651,
+        "change_p": -3.2078
+      },
+      "9": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 1.5145,
+        "totalAssets": 0.133,
+        "currentShares": 1887695,
+        "change": -444211,
+        "change_p": -19.0493
+      },
+      "10": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 1.4267,
+        "totalAssets": 0.1932,
+        "currentShares": 1778147,
+        "change": -49907,
+        "change_p": -2.7301
+      },
+      "11": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 1.0785,
+        "totalAssets": 1.0921,
+        "currentShares": 1344215,
+        "change": 47000,
+        "change_p": 3.6231
+      },
+      "12": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9459,
+        "totalAssets": 0.3879,
+        "currentShares": 1178999,
+        "change": 1178999,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.8985,
+        "totalAssets": 0.0351,
+        "currentShares": 1119889,
+        "change": 1849,
+        "change_p": 0.1654
+      },
+      "14": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8879,
+        "totalAssets": 0.0332,
+        "currentShares": 1106609,
+        "change": -600,
+        "change_p": -0.0542
+      },
+      "15": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7962,
+        "totalAssets": 0.033,
+        "currentShares": 992406,
+        "change": -2450,
+        "change_p": -0.2463
+      },
+      "16": {
+        "name": "Putnam Large Cap Value A",
+        "date": "2026-03-31",
+        "totalShares": 0.7431,
+        "totalAssets": 0.4215,
+        "currentShares": 926232,
+        "change": 19177,
+        "change_p": 2.1142
+      },
+      "17": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.7201,
+        "totalAssets": 0.1158,
+        "currentShares": 897574,
+        "change": -490584,
+        "change_p": -35.3406
+      },
+      "18": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7037,
+        "totalAssets": 0.4414,
+        "currentShares": 877134,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Dodge & Cox Balanced Composite",
+        "date": "2025-12-31",
+        "totalShares": 0.6413,
+        "totalAssets": 1.1209,
+        "currentShares": 799249,
+        "change": 312700,
+        "change_p": 64.269
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 4.8736,
+    "ForwardPE": 4.122,
+    "PriceSalesTTM": 0.4643,
+    "PriceBookMRQ": 1.5521,
+    "EnterpriseValue": 121735459787,
+    "EnterpriseValueRevenue": 2.2281,
+    "EnterpriseValueEbitda": 5.7341
+  },
+  "Highlights": {
+    "MarketCapitalization": 25430460416,
+    "MarketCapitalizationMln": 25430.4604,
+    "EBITDA": 22058000384,
+    "PERatio": 4.8736,
+    "PEGRatio": 0.2978,
+    "WallStreetTargetPrice": 274.1333,
+    "BookValue": 126.777,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 36.96,
+    "EPSEstimateCurrentYear": 44.4703,
+    "EPSEstimateNextYear": 49.5471,
+    "EPSEstimateNextQuarter": 10.6324,
+    "EPSEstimateCurrentQuarter": 10.0841,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0911,
+    "OperatingMarginTTM": 0.2474,
+    "ReturnOnAssetsTTM": 0.0548,
+    "ReturnOnEquityTTM": 0.2867,
+    "RevenueTTM": 54774001664,
+    "RevenuePerShareTTM": 405.267,
+    "QuarterlyRevenueGrowthYOY": -0.023,
+    "GrossProfitTTM": 30294999040,
+    "DilutedEpsTTM": 36.96,
+    "QuarterlyEarningsGrowthYOY": 0.024
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.38,
+    "TotalEsgPercentile": 24.44,
+    "EnvironmentScore": 5.92,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 11.77,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 9.18,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CHTR",
+    "Type": "Common Stock",
+    "Name": "Charter Communications Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000VPGNR2",
+    "ISIN": "US16119P1084",
+    "LEI": "0J0XRGZE3PBRFEZ7MV65",
+    "PrimaryTicker": "CHTR.US",
+    "CUSIP": "16119P108",
+    "CIK": "0001091667",
+    "EmployerIdNumber": "84-1496755",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-11-09",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Communication Services",
+    "Industry": "Telecom Services",
+    "GicSector": "Communication Services",
+    "GicGroup": "Media & Entertainment",
+    "GicIndustry": "Media",
+    "GicSubIndustry": "Cable & Satellite",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Charter Communications, Inc. operates as a broadband connectivity company in the United States. The company offers subscription-based internet, mobile, video, and voice services; broadband connectivity services, including fixed internet, WiFi, and mobile; Spectrum internet products; advanced WiFi services; and in-home WiFi, which provides customers with high performance wireless routers and managed WiFi services to enhance their wireless internet experience. It also offers wireline voice communications services using voice over internet protocol technology; Call Guard, an advanced caller ID and robocall blocking solution; video programming and video services, including access to an interactive programming guide with parental controls, video on demand and pay-per-view services; and broadband communications solutions, such as internet access, data networking, fiber connectivity, video entertainment, and business telephone services. In addition, the company provides advertising services on cable television networks, various streaming services, and advertising platforms for local, regional and national businesses. Further, it offers production and technical services for regional sports networks; owns and manages local news channels, including Spectrum News NY1® and Spectrum News SoCal; and delivers broadband connectivity solutions to apartments, single-family gated communities, off-campus student housing, senior residences, and RV parks. The company was founded in 1993 and is headquartered in Stamford, Connecticut.",
+    "Address": "400 Washington Blvd., Stamford, CT, United States, 06902",
+    "AddressData": {
+      "Street": "400 Washington Blvd.",
+      "City": "Stamford",
+      "State": "CT",
+      "Country": "United States",
+      "ZIP": "06902"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Christopher L. Winfrey",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1976"
+      },
+      "1": {
+        "Name": "Ms. Jessica M. Fischer",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1987"
+      },
+      "2": {
+        "Name": "Mr. Richard J. DiGeronimo",
+        "Title": "President of Product & Technology",
+        "YearBorn": "1978"
+      },
+      "3": {
+        "Name": "Mr. Jamal H. Haughton J.D.",
+        "Title": "Executive VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1976"
+      },
+      "4": {
+        "Name": "Mr. R. Adam Ray",
+        "Title": "Executive VP, Chief Commercial Officer & President of Spectrum Enterprise",
+        "YearBorn": "1977"
+      },
+      "5": {
+        "Name": "Mr. Kevin D. Howard",
+        "Title": "Executive VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. Jeffrey B. Murphy",
+        "Title": "Senior Vice President of Corporate Finance & Development",
+        "YearBorn": "1968"
+      },
+      "7": {
+        "Name": "Mr. Jacob H. Perlman",
+        "Title": "Executive VP and Chief Technology & Information Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Mr. Stefan  Anninger",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Cameron R. Blanchard",
+        "Title": "Executive Vice President of Communications",
+        "YearBorn": "1971"
+      }
+    },
+    "Phone": "203 905 7801",
+    "WebURL": "https://corporate.charter.com",
+    "LogoURL": "/img/logos/US/CHTR.png",
+    "FullTimeEmployees": 91900,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 141178369,
+    "SharesFloat": 82392818,
+    "PercentInsiders": 31.596000000000004,
+    "PercentInstitutions": 73.26,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.3562
+  }
+}

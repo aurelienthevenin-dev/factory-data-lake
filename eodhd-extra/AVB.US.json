@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 16.3616,
+        "totalAssets": 0.0598,
+        "currentShares": 22760872,
+        "change": 21171,
+        "change_p": 0.0931
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 13.367,
+        "totalAssets": 0.0629,
+        "currentShares": 18594952,
+        "change": 573497,
+        "change_p": 3.1823
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 6.8564,
+        "totalAssets": 0.0645,
+        "currentShares": 9537966,
+        "change": 92467,
+        "change_p": 0.979
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 6.0611,
+        "totalAssets": 0.0488,
+        "currentShares": 8431642,
+        "change": 4464992,
+        "change_p": 112.5633
+      },
+      "4": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 5.5294,
+        "totalAssets": 0.1492,
+        "currentShares": 7691993,
+        "change": 840766,
+        "change_p": 12.2718
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.9841,
+        "totalAssets": 0.0463,
+        "currentShares": 4151217,
+        "change": 228244,
+        "change_p": 5.8181
+      },
+      "6": {
+        "name": "Principal Financial Group Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.9567,
+        "totalAssets": 0.4007,
+        "currentShares": 4113064,
+        "change": -118740,
+        "change_p": -2.8059
+      },
+      "7": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 2.9483,
+        "totalAssets": 0.0848,
+        "currentShares": 4101413,
+        "change": -160687,
+        "change_p": -3.7701
+      },
+      "8": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.3885,
+        "totalAssets": 0.0936,
+        "currentShares": 3322684,
+        "change": 54275,
+        "change_p": 1.6606
+      },
+      "9": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.1439,
+        "totalAssets": 0.0737,
+        "currentShares": 2982468,
+        "change": 100212,
+        "change_p": 3.4769
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.8588,
+        "totalAssets": 0.0787,
+        "currentShares": 2585806,
+        "change": -7921,
+        "change_p": -0.3054
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.6935,
+        "totalAssets": 0.0309,
+        "currentShares": 2355838,
+        "change": 1017286,
+        "change_p": 75.999
+      },
+      "12": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 1.5332,
+        "totalAssets": 0.0858,
+        "currentShares": 2132907,
+        "change": 5936,
+        "change_p": 0.2791
+      },
+      "13": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.5156,
+        "totalAssets": 0.0802,
+        "currentShares": 2108417,
+        "change": 33046,
+        "change_p": 1.5923
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3973,
+        "totalAssets": 0.0227,
+        "currentShares": 1943740,
+        "change": 393852,
+        "change_p": 25.4116
+      },
+      "15": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1959,
+        "totalAssets": 0.0738,
+        "currentShares": 1663663,
+        "change": -7064,
+        "change_p": -0.4228
+      },
+      "16": {
+        "name": "ClearBridge Advisors, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1539,
+        "totalAssets": 0.233,
+        "currentShares": 1605273,
+        "change": -661806,
+        "change_p": -29.192
+      },
+      "17": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.1332,
+        "totalAssets": 0.0501,
+        "currentShares": 1576458,
+        "change": 404734,
+        "change_p": 34.5418
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0861,
+        "totalAssets": 0.0336,
+        "currentShares": 1510917,
+        "change": 242496,
+        "change_p": 19.1179
+      },
+      "19": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9005,
+        "totalAssets": 0.0611,
+        "currentShares": 1252628,
+        "change": 515718,
+        "change_p": 69.9839
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Real Estate Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 3.7885,
+        "totalAssets": 1.3248,
+        "currentShares": 5270278,
+        "change": -20406,
+        "change_p": -0.3857
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.237,
+        "totalAssets": 0.0368,
+        "currentShares": 4503059,
+        "change": 29150,
+        "change_p": 0.6516
+      },
+      "2": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5918,
+        "totalAssets": 0.0414,
+        "currentShares": 3605529,
+        "change": -32248,
+        "change_p": -0.8865
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1988,
+        "totalAssets": 0.2514,
+        "currentShares": 3058816,
+        "change": -18691,
+        "change_p": -0.6073
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.3095,
+        "totalAssets": 0.0413,
+        "currentShares": 1821702,
+        "change": -996,
+        "change_p": -0.0546
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2938,
+        "totalAssets": 0.0426,
+        "currentShares": 1799809,
+        "change": 2976,
+        "change_p": 0.1656
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1828,
+        "totalAssets": 0.0413,
+        "currentShares": 1645375,
+        "change": -4018,
+        "change_p": -0.2436
+      },
+      "7": {
+        "name": "Principal Real Estate Securities R5",
+        "date": "2026-02-28",
+        "totalShares": 1.1563,
+        "totalAssets": 4.3465,
+        "currentShares": 1608513,
+        "change": -7034,
+        "change_p": -0.4354
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9408,
+        "totalAssets": 0.0947,
+        "currentShares": 1308742,
+        "change": -9725,
+        "change_p": -0.7376
+      },
+      "9": {
+        "name": "State Street Real Estate Sel SectSPDRETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8428,
+        "totalAssets": 2.6165,
+        "currentShares": 1172482,
+        "change": -232,
+        "change_p": -0.0198
+      },
+      "10": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7265,
+        "totalAssets": 0.1936,
+        "currentShares": 1010628,
+        "change": 3013,
+        "change_p": 0.299
+      },
+      "11": {
+        "name": "Schwab US REIT ETF™",
+        "date": "2026-03-31",
+        "totalShares": 0.7138,
+        "totalAssets": 1.779,
+        "currentShares": 992958,
+        "change": 0,
+        "change_p": 0
+      },
+      "12": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.6948,
+        "totalAssets": 0.3906,
+        "currentShares": 966566,
+        "change": -16340,
+        "change_p": -1.6624
+      },
+      "13": {
+        "name": "T. Rowe Price Real Assets Tr I-D",
+        "date": "2026-03-31",
+        "totalShares": 0.6941,
+        "totalAssets": 0.8354,
+        "currentShares": 965565,
+        "change": -25167,
+        "change_p": -2.5402
+      },
+      "14": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.6813,
+        "totalAssets": 0.3405,
+        "currentShares": 947803,
+        "change": -6781,
+        "change_p": -0.7104
+      },
+      "15": {
+        "name": "Vanguard Real Estate II Index",
+        "date": "2026-03-31",
+        "totalShares": 0.6696,
+        "totalAssets": 1.5548,
+        "currentShares": 931522,
+        "change": 6700,
+        "change_p": 0.7245
+      },
+      "16": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.6646,
+        "totalAssets": 0.3725,
+        "currentShares": 924553,
+        "change": -20700,
+        "change_p": -2.1899
+      },
+      "17": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6621,
+        "totalAssets": 0.4331,
+        "currentShares": 921057,
+        "change": 37313,
+        "change_p": 4.2222
+      },
+      "18": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5731,
+        "totalAssets": 0.0413,
+        "currentShares": 797244,
+        "change": -4291,
+        "change_p": -0.5353
+      },
+      "19": {
+        "name": "JPMorgan Mid Cap Value L",
+        "date": "2026-02-28",
+        "totalShares": 0.5504,
+        "totalAssets": 1.1662,
+        "currentShares": 765652,
+        "change": 51878,
+        "change_p": 7.2681
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 23.2946,
+    "ForwardPE": 38.3142,
+    "PriceSalesTTM": 7.8851,
+    "PriceBookMRQ": 2.0768,
+    "EnterpriseValue": 33421450760,
+    "EnterpriseValueRevenue": 10.9913,
+    "EnterpriseValueEbitda": 15.0005
+  },
+  "Highlights": {
+    "MarketCapitalization": 23979995136,
+    "MarketCapitalizationMln": 23979.9951,
+    "EBITDA": 1846987008,
+    "PERatio": 23.2946,
+    "PEGRatio": 6.972,
+    "WallStreetTargetPrice": 193.55,
+    "BookValue": 82.989,
+    "DividendShare": 7,
+    "DividendYield": 0.0404,
+    "EarningsShare": 7.4,
+    "EPSEstimateCurrentYear": 4.655,
+    "EPSEstimateNextYear": 4.9451,
+    "EPSEstimateNextQuarter": 1.2674,
+    "EPSEstimateCurrentQuarter": 1.2405,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.3457,
+    "OperatingMarginTTM": 0.3064,
+    "ReturnOnAssetsTTM": 0.027,
+    "ReturnOnEquityTTM": 0.0889,
+    "RevenueTTM": 3041189120,
+    "RevenuePerShareTTM": 21.456,
+    "QuarterlyRevenueGrowthYOY": 0.037,
+    "GrossProfitTTM": 1920274944,
+    "DilutedEpsTTM": 7.4,
+    "QuarterlyEarningsGrowthYOY": -0.409
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 11.54,
+    "TotalEsgPercentile": 3.68,
+    "EnvironmentScore": 4.91,
+    "EnvironmentScorePercentile": 2,
+    "SocialScore": 1.37,
+    "SocialScorePercentile": 2,
+    "GovernanceScore": 4.26,
+    "GovernanceScorePercentile": 2,
+    "ControversyLevel": 0,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AVB",
+    "Type": "Common Stock",
+    "Name": "AvalonBay Communities Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BLPBL5",
+    "ISIN": "US0534841012",
+    "LEI": "K9G90K85RBWD2LAGQX17",
+    "PrimaryTicker": "AVB.US",
+    "CUSIP": "072012107",
+    "CIK": "0000915912",
+    "EmployerIdNumber": "77-0404318",
+    "FiscalYearEnd": "December",
+    "IPODate": "1994-03-10",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Real Estate",
+    "Industry": "REIT - Residential",
+    "GicSector": "Real Estate",
+    "GicGroup": "Equity Real Estate Investment Trusts (REITs)",
+    "GicIndustry": "Residential REITs",
+    "GicSubIndustry": "Multi-Family Residential REITs",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "AvalonBay Communities, Inc., a member of the S&P 500, is an equity REIT. The firm develops, redevelops, acquires and manages communities in leading metropolitan areas in New England, the New York/New Jersey Metro area, the Mid-Atlantic, the Pacific Northwest, and Northern and Southern California, as well as in the Company's expansion regions of Raleigh-Durham and Charlotte, North Carolina, Southeast Florida, Dallas and Austin, Texas, and Denver, Colorado. As of December 31, 2025, the Company owned or held a direct or indirect ownership interest in 320 communities containing 98,694 apartment homes in 11 states and the District of Columbia, of which 24 communities were under development. AvalonBay Communities, Inc. was incorporated in 1978 in Maryland, USA.",
+    "Address": "4040 Wilson Boulevard, Suite 1000, Arlington, VA, United States, 22203-2120",
+    "AddressData": {
+      "Street": "4040 Wilson Boulevard, Suite 1000",
+      "City": "Arlington",
+      "State": "VA",
+      "Country": "United States",
+      "ZIP": "22203-2120"
+    },
+    "Listings": {
+      "0": {
+        "Code": "AVB",
+        "Exchange": "F",
+        "Name": "Asiatravel.com Holdings Ltd"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Benjamin W. Schall",
+        "Title": "President, CEO & Director",
+        "YearBorn": "1975"
+      },
+      "1": {
+        "Name": "Mr. Kevin P. O'Shea J.D.",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. Sean J. Breslin",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1967"
+      },
+      "3": {
+        "Name": "Mr. Matthew H. Birenbaum",
+        "Title": "Chief Investment Officer",
+        "YearBorn": "1966"
+      },
+      "4": {
+        "Name": "Ms. Pamela R. Thomas",
+        "Title": "Executive Vice President of Portfolio & Asset Management",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. Sean T. Willson CFA, CPA",
+        "Title": "Senior VP, Corporate Controller & Principal Accounting Officer",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. Rukevbe  Esi",
+        "Title": "Senior VP & Chief Digital Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Alaine S. Walsh",
+        "Title": "Executive Vice President of Human Capital & Administration",
+        "YearBorn": "1972"
+      },
+      "8": {
+        "Name": "Mr. Matthew Ryan Grover",
+        "Title": "Senior Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Edward M. Schulman",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1963"
+      }
+    },
+    "Phone": "703 329 6300",
+    "WebURL": "https://www.avalonbay.com",
+    "LogoURL": "/img/logos/US/avb.png",
+    "FullTimeEmployees": 3011,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 139111236,
+    "SharesFloat": 131157534,
+    "PercentInsiders": 0.42,
+    "PercentInstitutions": 101.667,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0459
+  }
+}

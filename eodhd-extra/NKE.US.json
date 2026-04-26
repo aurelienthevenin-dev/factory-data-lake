@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 7.9002,
+        "totalAssets": 0.1081,
+        "currentShares": 116993541,
+        "change": 1702342,
+        "change_p": 1.4766
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.2121,
+        "totalAssets": 0.1123,
+        "currentShares": 91993702,
+        "change": -137434,
+        "change_p": -0.1492
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.9193,
+        "totalAssets": 0.1411,
+        "currentShares": 58040112,
+        "change": -1114047,
+        "change_p": -1.8833
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 3.3136,
+        "totalAssets": 0.4252,
+        "currentShares": 49069951,
+        "change": 6830938,
+        "change_p": 16.1721
+      },
+      "4": {
+        "name": "J Stern & Co LLP",
+        "date": "2025-12-31",
+        "totalShares": 3.245,
+        "totalAssets": 4.0954,
+        "currentShares": 48054542,
+        "change": 47956692,
+        "change_p": 49010.4159
+      },
+      "5": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1455,
+        "totalAssets": 0.3547,
+        "currentShares": 31772720,
+        "change": 11442045,
+        "change_p": 56.2797
+      },
+      "6": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.1244,
+        "totalAssets": 0.0657,
+        "currentShares": 31459236,
+        "change": 13174185,
+        "change_p": 72.0489
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.7856,
+        "totalAssets": 0.1035,
+        "currentShares": 26442879,
+        "change": 233925,
+        "change_p": 0.8925
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.4594,
+        "totalAssets": 0.0702,
+        "currentShares": 21611548,
+        "change": -4353956,
+        "change_p": -16.7682
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.3592,
+        "totalAssets": 0.085,
+        "currentShares": 20128442,
+        "change": -3353931,
+        "change_p": -14.2828
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2637,
+        "totalAssets": 0.0885,
+        "currentShares": 18714296,
+        "change": 2239123,
+        "change_p": 13.5909
+      },
+      "11": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1961,
+        "totalAssets": 0.2216,
+        "currentShares": 17713364,
+        "change": -1045134,
+        "change_p": -5.5715
+      },
+      "12": {
+        "name": "Harris Associates L.P.",
+        "date": "2025-12-31",
+        "totalShares": 1.01,
+        "totalAssets": 1.2044,
+        "currentShares": 14956882,
+        "change": 6277987,
+        "change_p": 72.3362
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.9405,
+        "totalAssets": 0.1242,
+        "currentShares": 13927530,
+        "change": -116527,
+        "change_p": -0.8297
+      },
+      "14": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8797,
+        "totalAssets": 0.0888,
+        "currentShares": 13027095,
+        "change": 1272262,
+        "change_p": 10.8233
+      },
+      "15": {
+        "name": "Flossbach von Storch AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8612,
+        "totalAssets": 3.2205,
+        "currentShares": 12753317,
+        "change": 2886856,
+        "change_p": 29.2593
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8482,
+        "totalAssets": 0.138,
+        "currentShares": 12561334,
+        "change": 404136,
+        "change_p": 3.3243
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7058,
+        "totalAssets": 0.1035,
+        "currentShares": 10451561,
+        "change": 267882,
+        "change_p": 2.6305
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6321,
+        "totalAssets": 0.0731,
+        "currentShares": 9360827,
+        "change": -4875983,
+        "change_p": -34.2491
+      },
+      "19": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.597,
+        "totalAssets": 0.1537,
+        "currentShares": 8841248,
+        "change": 546200,
+        "change_p": 6.5847
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5542,
+        "totalAssets": 0.1001,
+        "currentShares": 37824895,
+        "change": 212376,
+        "change_p": 0.5646
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.0488,
+        "totalAssets": 0.1126,
+        "currentShares": 30339696,
+        "change": -248162,
+        "change_p": -0.8113
+      },
+      "2": {
+        "name": "American Funds American Balanced A",
+        "date": "2026-03-31",
+        "totalShares": 1.1548,
+        "totalAssets": 0.3427,
+        "currentShares": 17101351,
+        "change": 3633423,
+        "change_p": 26.9783
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0341,
+        "totalAssets": 0.1123,
+        "currentShares": 15314069,
+        "change": -8340,
+        "change_p": -0.0544
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.0221,
+        "totalAssets": 0.1256,
+        "currentShares": 15135512,
+        "change": 24952,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "Vanguard Dividend Growth Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.9985,
+        "totalAssets": 2.2987,
+        "currentShares": 14785985,
+        "change": 2366852,
+        "change_p": 19.0581
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.932,
+        "totalAssets": 0.1121,
+        "currentShares": 13802267,
+        "change": -33957,
+        "change_p": -0.2454
+      },
+      "7": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8586,
+        "totalAssets": 0.2411,
+        "currentShares": 12715006,
+        "change": 3301164,
+        "change_p": 35.0671
+      },
+      "8": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.8586,
+        "totalAssets": 0.2192,
+        "currentShares": 12715006,
+        "change": 0,
+        "change_p": 0
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.7436,
+        "totalAssets": 0.2577,
+        "currentShares": 11012161,
+        "change": -58784,
+        "change_p": -0.531
+      },
+      "10": {
+        "name": "iShares MSCI USA Quality Factor ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7096,
+        "totalAssets": 1.1941,
+        "currentShares": 10508832,
+        "change": -6507,
+        "change_p": -0.0619
+      },
+      "11": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6333,
+        "totalAssets": 0.287,
+        "currentShares": 9378206,
+        "change": 3795096,
+        "change_p": 67.9746
+      },
+      "12": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6333,
+        "totalAssets": 0.2484,
+        "currentShares": 9378206,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "FvS SICAV Multiple Opportunities F",
+        "date": "2025-12-31",
+        "totalShares": 0.4727,
+        "totalAssets": 1.5441,
+        "currentShares": 7000000,
+        "change": 1784800,
+        "change_p": 34.223
+      },
+      "14": {
+        "name": "Oakmark Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.4708,
+        "totalAssets": 1.7286,
+        "currentShares": 6971500,
+        "change": 1036500,
+        "change_p": 17.4642
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.4533,
+        "totalAssets": 0.1124,
+        "currentShares": 6712633,
+        "change": -22350,
+        "change_p": -0.3318
+      },
+      "16": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4505,
+        "totalAssets": 0.3002,
+        "currentShares": 6671332,
+        "change": 65401,
+        "change_p": 0.99
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4295,
+        "totalAssets": 0.1112,
+        "currentShares": 6360333,
+        "change": 20400,
+        "change_p": 0.3218
+      },
+      "18": {
+        "name": "State Street® CnsmrDiscSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4249,
+        "totalAssets": 1.5653,
+        "currentShares": 6291561,
+        "change": -82701,
+        "change_p": -1.2974
+      },
+      "19": {
+        "name": "Fundsmith Equity I Acc",
+        "date": "2025-12-31",
+        "totalShares": 0.381,
+        "totalAssets": 1.625,
+        "currentShares": 5642800,
+        "change": -338515,
+        "change_p": -5.6595
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 29.596,
+    "ForwardPE": 23.0947,
+    "PriceSalesTTM": 1.4225,
+    "PriceBookMRQ": 4.7065,
+    "EnterpriseValue": 69435121337,
+    "EnterpriseValueRevenue": 1.4925,
+    "EnterpriseValueEbitda": 19.2983
+  },
+  "Highlights": {
+    "MarketCapitalization": 66180841472,
+    "MarketCapitalizationMln": 66180.8415,
+    "EBITDA": 3864000000,
+    "PERatio": 29.596,
+    "PEGRatio": 1.383,
+    "WallStreetTargetPrice": 61.6849,
+    "BookValue": 9.517,
+    "DividendShare": 1.62,
+    "DividendYield": 0.0362,
+    "EarningsShare": 1.51,
+    "EPSEstimateCurrentYear": 1.4998,
+    "EPSEstimateNextYear": 1.8759,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 0.2817,
+    "MostRecentQuarter": "2026-02-28",
+    "ProfitMargin": 0.0484,
+    "OperatingMarginTTM": 0.0694,
+    "ReturnOnAssetsTTM": 0.052,
+    "ReturnOnEquityTTM": 0.1602,
+    "RevenueTTM": 46522998784,
+    "RevenuePerShareTTM": 31.469,
+    "QuarterlyRevenueGrowthYOY": 0.001,
+    "GrossProfitTTM": 19036999680,
+    "DilutedEpsTTM": 1.51,
+    "QuarterlyEarningsGrowthYOY": -0.348
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 21.12,
+    "TotalEsgPercentile": 15.26,
+    "EnvironmentScore": 5.55,
+    "EnvironmentScorePercentile": 6,
+    "SocialScore": 9.56,
+    "SocialScorePercentile": 6,
+    "GovernanceScore": 13.01,
+    "GovernanceScorePercentile": 6,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NKE",
+    "Type": "Common Stock",
+    "Name": "Nike Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000C5HS04",
+    "ISIN": "US6541061031",
+    "LEI": "787RXPR0UX0O0XUXPZ81",
+    "PrimaryTicker": "NKE.US",
+    "CUSIP": "654106103",
+    "CIK": "0000320187",
+    "EmployerIdNumber": "93-0584541",
+    "FiscalYearEnd": "May",
+    "IPODate": "1980-12-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Cyclical",
+    "Industry": "Footwear & Accessories",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Consumer Durables & Apparel",
+    "GicIndustry": "Textiles, Apparel & Luxury Goods",
+    "GicSubIndustry": "Footwear",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "NIKE, Inc., together with its subsidiaries, designs, develops, markets, and sells athletic and casual footwear, apparel, equipment, accessories, and services for men, women, and kids in North America, Europe, the Middle East, Africa, Greater China, the Asia Pacific, and Latin America. The company offers its products under the NIKE, Jordan, Jumpman, Converse, Chuck Taylor, All Star, One Star, Star Chevron, and Jack Purcell trademarks. It also provides a line of performance equipment and accessories, including bags, socks, sport balls, eyewear, timepieces, digital devices, bats, gloves, protective equipment, and other equipment for sports activities, as well as various plastic products to other manufacturers; distributes and licenses casual sneakers, apparel, and accessories; and markets apparel with licensed college and professional team and league logos. In addition, the company offers consumer services and experiences, including sport focused events and activations; fitness and activity apps; sport, fitness, and wellness content; and digital services and features in retail stores. It sells its products to footwear stores; sporting goods stores; athletic specialty stores; department stores; skate, tennis, and golf shops; and other wholesale accounts through NIKE-owned retail stores, independent distributors, licensees, sales representatives, and digital platforms. The company was formerly known as Blue Ribbon Sports, Inc. and changed its name to NIKE, Inc. in May 1971. NIKE, Inc. was founded in 1964 and is headquartered in Beaverton, Oregon.",
+    "Address": "One Bowerman Drive, Beaverton, OR, United States, 97005-6453",
+    "AddressData": {
+      "Street": "One Bowerman Drive",
+      "City": "Beaverton",
+      "State": "OR",
+      "Country": "United States",
+      "ZIP": "97005-6453"
+    },
+    "Listings": {
+      "0": {
+        "Code": "NIKE34",
+        "Exchange": "SA",
+        "Name": "NIKE Inc"
+      },
+      "1": {
+        "Code": "NKE",
+        "Exchange": "BA",
+        "Name": "NIKE Inc."
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Mark G. Parker",
+        "Title": "Executive Chairman",
+        "YearBorn": "1956"
+      },
+      "1": {
+        "Name": "Mr. Elliott J. Hill",
+        "Title": "CEO, President & Director",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Matthew  Friend",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1979"
+      },
+      "3": {
+        "Name": "Mr. Robert  Leinwand",
+        "Title": "EVP & Chief Legal Officer",
+        "YearBorn": "NA"
+      },
+      "4": {
+        "Name": "Ms. Ann M. Miller",
+        "Title": "Executive VP & Global Sports Marketing",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Mr. Craig Anthony Williams",
+        "Title": "Full-Time Non-Executive Employee",
+        "YearBorn": "1970"
+      },
+      "6": {
+        "Name": "Mr. Philip H. Knight",
+        "Title": "Co-Founder & Chairman Emeritus",
+        "YearBorn": "1938"
+      },
+      "7": {
+        "Name": "Ms. Johanna  Nielsen",
+        "Title": "VP of Controlling & Principal Accounting Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Mr. Michael  Gonda",
+        "Title": "Executive VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Nicole Hubbard Graham",
+        "Title": "Executive VP & Chief Marketing Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "503 671 6453",
+    "WebURL": "https://www.nike.com",
+    "LogoURL": "/img/logos/US/nke.png",
+    "FullTimeEmployees": 77800,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 1199499281,
+    "SharesFloat": 1174106475,
+    "PercentInsiders": 1.4749999999999999,
+    "PercentInstitutions": 83.087,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0483
+  }
+}

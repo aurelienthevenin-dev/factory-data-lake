@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.8545,
+        "totalAssets": 0.0825,
+        "currentShares": 58212397,
+        "change": 286499,
+        "change_p": 0.4946
+      },
+      "1": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 8.3135,
+        "totalAssets": 0.1171,
+        "currentShares": 37648065,
+        "change": 911964,
+        "change_p": 2.4825
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.701,
+        "totalAssets": 0.0548,
+        "currentShares": 34874266,
+        "change": 934180,
+        "change_p": 2.7524
+      },
+      "3": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7685,
+        "totalAssets": 0.2592,
+        "currentShares": 17065926,
+        "change": 561898,
+        "change_p": 3.4046
+      },
+      "4": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 3.7089,
+        "totalAssets": 0.0837,
+        "currentShares": 16796000,
+        "change": 2406077,
+        "change_p": 16.7206
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2743,
+        "totalAssets": 0.0619,
+        "currentShares": 10299351,
+        "change": 9478,
+        "change_p": 0.0921
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.8108,
+        "totalAssets": 0.0445,
+        "currentShares": 8200438,
+        "change": -1244111,
+        "change_p": -13.1728
+      },
+      "7": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3363,
+        "totalAssets": 0.1354,
+        "currentShares": 6051511,
+        "change": -1343900,
+        "change_p": -18.1721
+      },
+      "8": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3281,
+        "totalAssets": 0.0629,
+        "currentShares": 6014348,
+        "change": 155154,
+        "change_p": 2.648
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2752,
+        "totalAssets": 0.0692,
+        "currentShares": 5774695,
+        "change": 3143932,
+        "change_p": 119.5065
+      },
+      "10": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2187,
+        "totalAssets": 0.0336,
+        "currentShares": 5518940,
+        "change": -1007828,
+        "change_p": -15.4415
+      },
+      "11": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1189,
+        "totalAssets": 0.0581,
+        "currentShares": 5067110,
+        "change": -160842,
+        "change_p": -3.0766
+      },
+      "12": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1046,
+        "totalAssets": 0.1026,
+        "currentShares": 5002232,
+        "change": -48919,
+        "change_p": -0.9685
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.032,
+        "totalAssets": 0.0126,
+        "currentShares": 4673498,
+        "change": 2240541,
+        "change_p": 92.0913
+      },
+      "14": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.0171,
+        "totalAssets": 0.0612,
+        "currentShares": 4606090,
+        "change": 19241,
+        "change_p": 0.4195
+      },
+      "15": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.907,
+        "totalAssets": 0.0701,
+        "currentShares": 4107506,
+        "change": -302505,
+        "change_p": -6.8595
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8634,
+        "totalAssets": 0.0553,
+        "currentShares": 3910163,
+        "change": 360781,
+        "change_p": 10.1646
+      },
+      "17": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8501,
+        "totalAssets": 0.075,
+        "currentShares": 3849613,
+        "change": -881858,
+        "change_p": -18.6381
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.7846,
+        "totalAssets": 0.0499,
+        "currentShares": 3553205,
+        "change": -1624745,
+        "change_p": -31.3782
+      },
+      "19": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7664,
+        "totalAssets": 0.0912,
+        "currentShares": 3470646,
+        "change": 1867708,
+        "change_p": 116.5178
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1762,
+        "totalAssets": 0.0873,
+        "currentShares": 14383806,
+        "change": 64967,
+        "change_p": 0.4537
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5463,
+        "totalAssets": 0.0982,
+        "currentShares": 11530844,
+        "change": -156839,
+        "change_p": -1.3419
+      },
+      "2": {
+        "name": "Schwab US Dividend Equity ETF™",
+        "date": "2026-03-31",
+        "totalShares": 2.2407,
+        "totalAssets": 1.4305,
+        "currentShares": 10147071,
+        "change": 16836,
+        "change_p": 0.1662
+      },
+      "3": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.16,
+        "totalAssets": 0.5966,
+        "currentShares": 9781751,
+        "change": -60017,
+        "change_p": -0.6098
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2853,
+        "totalAssets": 0.098,
+        "currentShares": 5820420,
+        "change": -3168,
+        "change_p": -0.0544
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.277,
+        "totalAssets": 0.0878,
+        "currentShares": 5782785,
+        "change": 9525,
+        "change_p": 0.165
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.157,
+        "totalAssets": 0.0977,
+        "currentShares": 5239430,
+        "change": -12887,
+        "change_p": -0.2454
+      },
+      "7": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0462,
+        "totalAssets": 3.7053,
+        "currentShares": 4737562,
+        "change": -2128,
+        "change_p": -0.0449
+      },
+      "8": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9241,
+        "totalAssets": 0.2247,
+        "currentShares": 4185002,
+        "change": -43350,
+        "change_p": -1.0252
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P® Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8542,
+        "totalAssets": 2.2672,
+        "currentShares": 3868311,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6504,
+        "totalAssets": 1.0275,
+        "currentShares": 2945461,
+        "change": 119284,
+        "change_p": 4.2207
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5633,
+        "totalAssets": 0.098,
+        "currentShares": 2551126,
+        "change": -21947,
+        "change_p": -0.8529
+      },
+      "12": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5608,
+        "totalAssets": 1.381,
+        "currentShares": 2539696,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "Putnam US Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5491,
+        "totalAssets": 0.586,
+        "currentShares": 2486509,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5337,
+        "totalAssets": 0.097,
+        "currentShares": 2417092,
+        "change": -5200,
+        "change_p": -0.2147
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4516,
+        "totalAssets": 0.0979,
+        "currentShares": 2045149,
+        "change": 4582,
+        "change_p": 0.2245
+      },
+      "16": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4379,
+        "totalAssets": 0.1697,
+        "currentShares": 1983000,
+        "change": 349152,
+        "change_p": 21.3699
+      },
+      "17": {
+        "name": "Strategic Advisers Fidelity US TtlStk",
+        "date": "2026-02-28",
+        "totalShares": 0.4159,
+        "totalAssets": 0.0971,
+        "currentShares": 1883620,
+        "change": 37086,
+        "change_p": 2.0084
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.3994,
+        "totalAssets": 0.0763,
+        "currentShares": 1808535,
+        "change": -14672,
+        "change_p": -0.8047
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.3994,
+        "totalAssets": 0.0763,
+        "currentShares": 1808535,
+        "change": -14672,
+        "change_p": -0.8047
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 15.8796,
+    "ForwardPE": 16.2602,
+    "PriceSalesTTM": 0.5587,
+    "PriceBookMRQ": 3.6467,
+    "EnterpriseValue": 73750212020,
+    "EnterpriseValueRevenue": 0.7039,
+    "EnterpriseValueEbitda": 8.8366
+  },
+  "Highlights": {
+    "MarketCapitalization": 58536112128,
+    "MarketCapitalizationMln": 58536.1121,
+    "EBITDA": 8072000000,
+    "PERatio": 15.8796,
+    "PEGRatio": 3.698,
+    "WallStreetTargetPrice": 125.1875,
+    "BookValue": 35.697,
+    "DividendShare": 4.52,
+    "DividendYield": 0.0347,
+    "EarningsShare": 8.14,
+    "EPSEstimateCurrentYear": 7.3097,
+    "EPSEstimateNextYear": 7.6421,
+    "EPSEstimateNextQuarter": 0,
+    "EPSEstimateCurrentQuarter": 2.1598,
+    "MostRecentQuarter": "2026-01-31",
+    "ProfitMargin": 0.0354,
+    "OperatingMarginTTM": 0.0491,
+    "ReturnOnAssetsTTM": 0.0526,
+    "ReturnOnEquityTTM": 0.2403,
+    "RevenueTTM": 104779997184,
+    "RevenuePerShareTTM": 230.742,
+    "QuarterlyRevenueGrowthYOY": -0.015,
+    "GrossProfitTTM": 29269000192,
+    "DilutedEpsTTM": 8.14,
+    "QuarterlyEarningsGrowthYOY": -0.05
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 18.87,
+    "TotalEsgPercentile": 12.98,
+    "EnvironmentScore": 8.51,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 13.73,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 10.63,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "TGT",
+    "Type": "Common Stock",
+    "Name": "Target Corporation",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000H8TVT2",
+    "ISIN": "US87612E1064",
+    "LEI": "8WDDFXB5T1Z6J0XC1L66",
+    "PrimaryTicker": "TGT.US",
+    "CUSIP": "87612E106",
+    "CIK": "0000027419",
+    "EmployerIdNumber": "41-0215170",
+    "FiscalYearEnd": "January",
+    "IPODate": "1983-04-06",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Discount Stores",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Consumer Staples Distribution & Retail",
+    "GicIndustry": "Consumer Staples Distribution & Retail",
+    "GicSubIndustry": "Consumer Staples Merchandise Retail",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Target Corporation operates as a general merchandise retailer in the United States. It offers apparel for women, men, young adults, kids, toddlers, and babies, as well as jewelry, accessories, and shoes; and beauty products, such as skin and bath care, cosmetics, hair care, oral care, deodorant, and shaving products. The company also provides food and beverage products comprising dry and perishable grocery, including snacks, candy, beverages, deli, bakery, meat, produce, and food service; electronics which includes video games and consoles, toys, sporting goods, entertainment, and luggage; bed and bath, home décor, school/office supplies, storage, small appliances, kitchenware, greeting cards, party supplies, furniture, lighting, home improvement, and seasonal merchandise; and household essentials, such as household cleaning, paper products, over-the-counter healthcare, vitamins and supplements, baby gear, and pet supplies. In addition, it sells merchandise through periodic design and creative partnerships, and shop-in-shop experience; and in-store amenities. The company sells its products through its stores; and digital channels, including Target.com. Target Corporation was incorporated in 1902 and is headquartered in Minneapolis, Minnesota.",
+    "Address": "1000 Nicollet Mall, Minneapolis, MN, United States, 55403",
+    "AddressData": {
+      "Street": "1000 Nicollet Mall",
+      "City": "Minneapolis",
+      "State": "MN",
+      "Country": "United States",
+      "ZIP": "55403"
+    },
+    "Listings": {
+      "0": {
+        "Code": "TGTB34",
+        "Exchange": "SA",
+        "Name": "Target Corporation"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Brian C. Cornell",
+        "Title": "Executive Chair of the Board",
+        "YearBorn": "1959"
+      },
+      "1": {
+        "Name": "Mr. Michael J. Fiddelke",
+        "Title": "CEO & Director",
+        "YearBorn": "1977"
+      },
+      "2": {
+        "Name": "Mr. James  Lee",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Ms. Lisa R. Roath",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1978"
+      },
+      "4": {
+        "Name": "Mr. Matthew A. Liegel",
+        "Title": "Senior VP, Chief Accounting Officer & Controller",
+        "YearBorn": "1978"
+      },
+      "5": {
+        "Name": "Mr. Pratabkumar  Vemana",
+        "Title": "Executive VP and Chief Information & Product Officer",
+        "YearBorn": "1973"
+      },
+      "6": {
+        "Name": "Mr. John  Hulbert",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Ms. Melissa K. Kremer",
+        "Title": "Executive VP & Chief HR Officer",
+        "YearBorn": "1978"
+      },
+      "8": {
+        "Name": "Cynthia  Ho",
+        "Title": "Senior VP of Global Sourcing, PSQA for Apparel & Accessories and Essentials and Beauty",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Todd  Waterbury",
+        "Title": "Senior VP & Chief Creative Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "612 304 6073",
+    "WebURL": "https://corporate.target.com",
+    "LogoURL": "/img/logos/US/TGT.png",
+    "FullTimeEmployees": 415000,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 452855589,
+    "SharesFloat": 451352108,
+    "PercentInsiders": 0.306,
+    "PercentInstitutions": 86.69200000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0416
+  }
+}

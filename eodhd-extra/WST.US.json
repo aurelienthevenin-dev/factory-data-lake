@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 13.2339,
+        "totalAssets": 0.0381,
+        "currentShares": 9539173,
+        "change": -165775,
+        "change_p": -1.7081
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.9563,
+        "totalAssets": 0.0297,
+        "currentShares": 6455861,
+        "change": -149061,
+        "change_p": -2.2568
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.4504,
+        "totalAssets": 0.0292,
+        "currentShares": 3207911,
+        "change": -63955,
+        "change_p": -1.9547
+      },
+      "3": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0298,
+        "totalAssets": 0.1367,
+        "currentShares": 2904709,
+        "change": -301672,
+        "change_p": -9.4085
+      },
+      "4": {
+        "name": "Artisan Partners Limited Partnership",
+        "date": "2025-12-31",
+        "totalShares": 3.9544,
+        "totalAssets": 1.1742,
+        "currentShares": 2850401,
+        "change": 79481,
+        "change_p": 2.8684
+      },
+      "5": {
+        "name": "T. Rowe Price Investment Management,Inc.",
+        "date": "2025-12-31",
+        "totalShares": 2.7297,
+        "totalAssets": 0.2141,
+        "currentShares": 1967638,
+        "change": 1266223,
+        "change_p": 180.5241
+      },
+      "6": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 2.6964,
+        "totalAssets": 0.7461,
+        "currentShares": 1943606,
+        "change": -554476,
+        "change_p": -22.1961
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.593,
+        "totalAssets": 0.0316,
+        "currentShares": 1869086,
+        "change": 11962,
+        "change_p": 0.6441
+      },
+      "8": {
+        "name": "Generation Investment Management LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.1668,
+        "totalAssets": 2.9807,
+        "currentShares": 1561869,
+        "change": 585855,
+        "change_p": 60.0253
+      },
+      "9": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.0513,
+        "totalAssets": 0.0235,
+        "currentShares": 1478629,
+        "change": -6468,
+        "change_p": -0.4355
+      },
+      "10": {
+        "name": "APG Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 1.6634,
+        "totalAssets": 0.7972,
+        "currentShares": 1199005,
+        "change": -1361828,
+        "change_p": -53.1791
+      },
+      "11": {
+        "name": "Apg All Pensions Group",
+        "date": "2025-12-31",
+        "totalShares": 1.6634,
+        "totalAssets": 0.7972,
+        "currentShares": 1199005,
+        "change": -214693,
+        "change_p": -15.1866
+      },
+      "12": {
+        "name": "Longview Partners (Guernsey) Limited",
+        "date": "2025-12-31",
+        "totalShares": 1.5691,
+        "totalAssets": 3.2497,
+        "currentShares": 1131026,
+        "change": 778887,
+        "change_p": 221.1874
+      },
+      "13": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.3717,
+        "totalAssets": 0.0291,
+        "currentShares": 988737,
+        "change": 70945,
+        "change_p": 7.73
+      },
+      "14": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.3401,
+        "totalAssets": 0.0632,
+        "currentShares": 965931,
+        "change": -138204,
+        "change_p": -12.5169
+      },
+      "15": {
+        "name": "Kayne Anderson Rudnick Investment Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.3251,
+        "totalAssets": 0.7054,
+        "currentShares": 955149,
+        "change": -82945,
+        "change_p": -7.9901
+      },
+      "16": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2281,
+        "totalAssets": 0.0504,
+        "currentShares": 885236,
+        "change": -150537,
+        "change_p": -14.5338
+      },
+      "17": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2226,
+        "totalAssets": 0.0364,
+        "currentShares": 881285,
+        "change": -78240,
+        "change_p": -8.154
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0334,
+        "totalAssets": 0.025,
+        "currentShares": 744891,
+        "change": -5039,
+        "change_p": -0.6719
+      },
+      "19": {
+        "name": "Van Eck Associates Corporation",
+        "date": "2025-12-31",
+        "totalShares": 0.9934,
+        "totalAssets": 0.1628,
+        "currentShares": 716087,
+        "change": -708792,
+        "change_p": -49.744
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1807,
+        "totalAssets": 0.0288,
+        "currentShares": 2292722,
+        "change": 17149,
+        "change_p": 0.7536
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5427,
+        "totalAssets": 0.0323,
+        "currentShares": 1832807,
+        "change": -17514,
+        "change_p": -0.9465
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1585,
+        "totalAssets": 0.1962,
+        "currentShares": 1555862,
+        "change": -7205,
+        "change_p": -0.461
+      },
+      "3": {
+        "name": "T. Rowe Price Mid-Cap Growth",
+        "date": "2026-03-31",
+        "totalShares": 1.4715,
+        "totalAssets": 1.1795,
+        "currentShares": 1060700,
+        "change": 357800,
+        "change_p": 50.9034
+      },
+      "4": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.361,
+        "totalAssets": 0.0774,
+        "currentShares": 981012,
+        "change": -25011,
+        "change_p": -2.4861
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.283,
+        "totalAssets": 0.0322,
+        "currentShares": 924832,
+        "change": -504,
+        "change_p": -0.0545
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2702,
+        "totalAssets": 0.0311,
+        "currentShares": 915568,
+        "change": 1512,
+        "change_p": 0.1654
+      },
+      "7": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.161,
+        "totalAssets": 0.0323,
+        "currentShares": 836886,
+        "change": -2058,
+        "change_p": -0.2453
+      },
+      "8": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0108,
+        "totalAssets": 0.2141,
+        "currentShares": 728585,
+        "change": 2096,
+        "change_p": 0.2885
+      },
+      "9": {
+        "name": "Findlay Park American I USD Dist",
+        "date": "2026-01-31",
+        "totalShares": 0.9156,
+        "totalAssets": 1.8539,
+        "currentShares": 660006,
+        "change": 660006,
+        "change_p": 0
+      },
+      "10": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.8987,
+        "totalAssets": 1.4702,
+        "currentShares": 647827,
+        "change": -308,
+        "change_p": -0.0475
+      },
+      "11": {
+        "name": "VanEck Morningstar Wide Moat ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8728,
+        "totalAssets": 1.3557,
+        "currentShares": 629104,
+        "change": -262,
+        "change_p": -0.0416
+      },
+      "12": {
+        "name": "VanEck Morningstar Wide Moat",
+        "date": "2026-03-31",
+        "totalShares": 0.872,
+        "totalAssets": 1.3563,
+        "currentShares": 628580,
+        "change": -11679,
+        "change_p": -1.8241
+      },
+      "13": {
+        "name": "American Funds AMCAP A",
+        "date": "2026-03-31",
+        "totalShares": 0.7906,
+        "totalAssets": 0.1632,
+        "currentShares": 569887,
+        "change": 569887,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.76,
+        "totalAssets": 0.4699,
+        "currentShares": 547804,
+        "change": -49547,
+        "change_p": -8.2945
+      },
+      "15": {
+        "name": "State Street®HlthCrSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7295,
+        "totalAssets": 0.3394,
+        "currentShares": 525823,
+        "change": 1600,
+        "change_p": 0.3052
+      },
+      "16": {
+        "name": "T. Rowe Price US Mid-Cap Growth Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.7192,
+        "totalAssets": 0.5663,
+        "currentShares": 518400,
+        "change": 184500,
+        "change_p": 55.2561
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5626,
+        "totalAssets": 0.0322,
+        "currentShares": 405511,
+        "change": -2394,
+        "change_p": -0.5869
+      },
+      "18": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5588,
+        "totalAssets": 0.086,
+        "currentShares": 402817,
+        "change": 6350,
+        "change_p": 1.6016
+      },
+      "19": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5328,
+        "totalAssets": 0.0319,
+        "currentShares": 384029,
+        "change": 520,
+        "change_p": 0.1356
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 41.3171,
+    "ForwardPE": 38.9105,
+    "PriceSalesTTM": 6.7151,
+    "PriceBookMRQ": 7.3427,
+    "EnterpriseValue": 21424267685,
+    "EnterpriseValueRevenue": 6.7533,
+    "EnterpriseValueEbitda": 25.6183
+  },
+  "Highlights": {
+    "MarketCapitalization": 21629466624,
+    "MarketCapitalizationMln": 21629.4666,
+    "EBITDA": 885400000,
+    "PERatio": 41.3171,
+    "PEGRatio": 3.7774,
+    "WallStreetTargetPrice": 324.3333,
+    "BookValue": 44.111,
+    "DividendShare": 0.64,
+    "DividendYield": 0.0021,
+    "EarningsShare": 7.41,
+    "EPSEstimateCurrentYear": 8.1471,
+    "EPSEstimateNextYear": 9.0521,
+    "EPSEstimateNextQuarter": 1.9986,
+    "EPSEstimateCurrentQuarter": 1.6763,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.1685,
+    "OperatingMarginTTM": 0.2096,
+    "ReturnOnAssetsTTM": 0.1147,
+    "ReturnOnEquityTTM": 0.1913,
+    "RevenueTTM": 3220999936,
+    "RevenuePerShareTTM": 44.628,
+    "QuarterlyRevenueGrowthYOY": 0.21,
+    "GrossProfitTTM": 1168499968,
+    "DilutedEpsTTM": 7.41,
+    "QuarterlyEarningsGrowthYOY": 0.561
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "WST",
+    "Type": "Common Stock",
+    "Name": "West Pharmaceutical Services Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BX24N8",
+    "ISIN": "US9553061055",
+    "LEI": "5493007NKRGM1RJQ1P16",
+    "PrimaryTicker": "WST.US",
+    "CUSIP": "953348109",
+    "CIK": "0000105770",
+    "EmployerIdNumber": "23-1210010",
+    "FiscalYearEnd": "December",
+    "IPODate": "1978-01-13",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Healthcare",
+    "Industry": "Medical Instruments & Supplies",
+    "GicSector": "Health Care",
+    "GicGroup": "Health Care Equipment & Services",
+    "GicIndustry": "Health Care Equipment & Supplies",
+    "GicSubIndustry": "Health Care Supplies",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "West Pharmaceutical Services, Inc. designs, manufactures, and sells containment and delivery systems for injectable drugs and healthcare products in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates in two segments, Proprietary Products and Contract-Manufactured Products. The Proprietary Products segment offers stoppers and seals for injectable packaging systems; syringe and cartridge components, including custom solutions for the needs of injectable drug applications, as well as administration systems that enhance the safe delivery of drugs through advanced reconstitution, mixing, and transfer technologies; and films, coatings, washing, and vision inspection and sterilization processes and services to enhance the quality of packaging products. This segment also provides drug containment solutions in the form of vials, syringes, and cartridges; and self-injection devices; and a range of integrated solutions, including analytical lab services, pre-approval primary packaging support and engineering development, regulatory expertise, and after-sales technical support. This segment serves biologic, generic, and pharmaceutical drug companies. The Contract-Manufactured Products segment is involved in the design, manufacture, and automated assembly of devices used in surgical, diagnostic, ophthalmic, injectable, and other drug delivery systems, as well as consumer products. This segment primarily serves pharmaceutical, diagnostic, and medical device companies. It sells and distributes its products through its sales force and distribution network, contract sales agents, and regional distributors. West Pharmaceutical Services, Inc. was founded in 1923 and is headquartered in Exton, Pennsylvania.",
+    "Address": "530 Herman O. West Drive, Exton, PA, United States, 19341-1147",
+    "AddressData": {
+      "Street": "530 Herman O. West Drive",
+      "City": "Exton",
+      "State": "PA",
+      "Country": "United States",
+      "ZIP": "19341-1147"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Eric M. Green",
+        "Title": "Non-Independent Chair of the Board, President & CEO",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Mr. Robert W. McMahon C.M.A.",
+        "Title": "Senior VP & CFO",
+        "YearBorn": "1969"
+      },
+      "2": {
+        "Name": "Ms. Annette F. Favorite",
+        "Title": "Chief HR Officer & Senior VP",
+        "YearBorn": "1965"
+      },
+      "3": {
+        "Name": "Mr. Shane A. Campbell",
+        "Title": "SVP & Chief Proprietary Segment Officer",
+        "YearBorn": "1981"
+      },
+      "4": {
+        "Name": "Mr. Chad R. Winters",
+        "Title": "VP of Finance & Chief Accounting Officer",
+        "YearBorn": "1979"
+      },
+      "5": {
+        "Name": "Dr. Devesh  Mathur",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Mr. John P. Sweeney C.F.A.",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Norman D. Finch Jr.",
+        "Title": "Senior VP, General Counsel & Corporate Secretary",
+        "YearBorn": "1965"
+      },
+      "8": {
+        "Name": "Ms. Michele  Polinsky",
+        "Title": "Vice President of Global Communications",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Rudy J. Poussot",
+        "Title": "Senior Vice President of Strategy & Corporate Development",
+        "YearBorn": "1970"
+      }
+    },
+    "Phone": "610 594 2900",
+    "WebURL": "https://www.westpharma.com",
+    "LogoURL": "/img/logos/US/wst.png",
+    "FullTimeEmployees": 10800,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 70647595,
+    "SharesFloat": 70399446,
+    "PercentInsiders": 0.623,
+    "PercentInstitutions": 97.628,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0438
+  }
+}

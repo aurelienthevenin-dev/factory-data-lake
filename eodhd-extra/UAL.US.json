@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5138,
+        "totalAssets": 0.0606,
+        "currentShares": 37379569,
+        "change": 55210,
+        "change_p": 0.1479
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.2985,
+        "totalAssets": 0.0345,
+        "currentShares": 20448142,
+        "change": -667523,
+        "change_p": -3.1613
+      },
+      "2": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 5.606,
+        "totalAssets": 0.319,
+        "currentShares": 18199969,
+        "change": -3815497,
+        "change_p": -17.331
+      },
+      "3": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.057,
+        "totalAssets": 0.0936,
+        "currentShares": 16417564,
+        "change": 1857987,
+        "change_p": 12.7613
+      },
+      "4": {
+        "name": "PRIMECAP Management Company",
+        "date": "2025-12-31",
+        "totalShares": 4.9218,
+        "totalAssets": 1.3524,
+        "currentShares": 15978490,
+        "change": -2024470,
+        "change_p": -11.2452
+      },
+      "5": {
+        "name": "Sanders Capital, LLC",
+        "date": "2025-12-31",
+        "totalShares": 4.6767,
+        "totalAssets": 1.9555,
+        "currentShares": 15182819,
+        "change": 409234,
+        "change_p": 2.77
+      },
+      "6": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.5291,
+        "totalAssets": 0.0383,
+        "currentShares": 11457238,
+        "change": -113855,
+        "change_p": -0.984
+      },
+      "7": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.7761,
+        "totalAssets": 0.0627,
+        "currentShares": 9012731,
+        "change": 68565,
+        "change_p": 0.7666
+      },
+      "8": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.238,
+        "totalAssets": 0.1105,
+        "currentShares": 7265530,
+        "change": 22464,
+        "change_p": 0.3101
+      },
+      "9": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.6863,
+        "totalAssets": 0.1284,
+        "currentShares": 5474521,
+        "change": 13627,
+        "change_p": 0.2495
+      },
+      "10": {
+        "name": "Par Capital Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.5077,
+        "totalAssets": 14.4675,
+        "currentShares": 4894850,
+        "change": -74000,
+        "change_p": -1.4893
+      },
+      "11": {
+        "name": "Citadel Advisors Llc",
+        "date": "2025-12-31",
+        "totalShares": 1.3557,
+        "totalAssets": 0.0739,
+        "currentShares": 4401311,
+        "change": 61955,
+        "change_p": 1.4277
+      },
+      "12": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.2291,
+        "totalAssets": 0.0607,
+        "currentShares": 3990254,
+        "change": -808169,
+        "change_p": -16.8424
+      },
+      "13": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 1.2125,
+        "totalAssets": 0.0595,
+        "currentShares": 3936425,
+        "change": 1009469,
+        "change_p": 34.4887
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.1213,
+        "totalAssets": 0.0213,
+        "currentShares": 3640392,
+        "change": -39482,
+        "change_p": -1.0729
+      },
+      "15": {
+        "name": "Newport Trust Co.",
+        "date": "2025-12-31",
+        "totalShares": 1.0062,
+        "totalAssets": 0.874,
+        "currentShares": 3266669,
+        "change": -64192,
+        "change_p": -1.9272
+      },
+      "16": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0039,
+        "totalAssets": 0.0094,
+        "currentShares": 3259226,
+        "change": 1557688,
+        "change_p": 91.5459
+      },
+      "17": {
+        "name": "Senator Investment Group LP",
+        "date": "2025-12-31",
+        "totalShares": 0.9637,
+        "totalAssets": 14.0253,
+        "currentShares": 3128629,
+        "change": 33986,
+        "change_p": 1.0982
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9133,
+        "totalAssets": 0.0407,
+        "currentShares": 2965089,
+        "change": -570843,
+        "change_p": -16.1441
+      },
+      "19": {
+        "name": "AQR Capital Management LLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9021,
+        "totalAssets": 0.1708,
+        "currentShares": 2928657,
+        "change": 1060371,
+        "change_p": 56.7564
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 3.4242,
+        "totalAssets": 0.3341,
+        "currentShares": 11116788,
+        "change": 0,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 3.4242,
+        "totalAssets": 0.37,
+        "currentShares": 11116788,
+        "change": -3089260,
+        "change_p": -21.7461
+      },
+      "2": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.2073,
+        "totalAssets": 0.048,
+        "currentShares": 10412404,
+        "change": 52499,
+        "change_p": 0.5068
+      },
+      "3": {
+        "name": "Vanguard PRIMECAP Inv",
+        "date": "2025-12-31",
+        "totalShares": 2.7437,
+        "totalAssets": 1.3097,
+        "currentShares": 8907403,
+        "change": -1115000,
+        "change_p": -11.1251
+      },
+      "4": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5367,
+        "totalAssets": 0.0533,
+        "currentShares": 8235289,
+        "change": -91802,
+        "change_p": -1.1024
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.1806,
+        "totalAssets": 0.328,
+        "currentShares": 7079358,
+        "change": -43332,
+        "change_p": -0.6084
+      },
+      "6": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.3247,
+        "totalAssets": 0.2973,
+        "currentShares": 4300493,
+        "change": 0,
+        "change_p": 0
+      },
+      "7": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2807,
+        "totalAssets": 0.0532,
+        "currentShares": 4157944,
+        "change": -2268,
+        "change_p": -0.0545
+      },
+      "8": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2691,
+        "totalAssets": 0.0585,
+        "currentShares": 4119973,
+        "change": 6793,
+        "change_p": 0.1652
+      },
+      "9": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1593,
+        "totalAssets": 0.0533,
+        "currentShares": 3763625,
+        "change": -9212,
+        "change_p": -0.2442
+      },
+      "10": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 1.0328,
+        "totalAssets": 0.3277,
+        "currentShares": 3353126,
+        "change": 40500,
+        "change_p": 1.2226
+      },
+      "11": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 0.9917,
+        "totalAssets": 0.1926,
+        "currentShares": 3219693,
+        "change": -1080800,
+        "change_p": -25.132
+      },
+      "12": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9329,
+        "totalAssets": 0.1236,
+        "currentShares": 3028731,
+        "change": -22697,
+        "change_p": -0.7438
+      },
+      "13": {
+        "name": "Vanguard Capital Opportunity Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.8688,
+        "totalAssets": 1.2169,
+        "currentShares": 2820443,
+        "change": -289630,
+        "change_p": -9.3126
+      },
+      "14": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.8205,
+        "totalAssets": 0.1693,
+        "currentShares": 2663816,
+        "change": 0,
+        "change_p": 0
+      },
+      "15": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 0.7775,
+        "totalAssets": 0.3253,
+        "currentShares": 2524009,
+        "change": 35500,
+        "change_p": 1.4266
+      },
+      "16": {
+        "name": "Fidelity Blue Chip Growth",
+        "date": "2026-02-28",
+        "totalShares": 0.7358,
+        "totalAssets": 0.2916,
+        "currentShares": 2388797,
+        "change": 87200,
+        "change_p": 3.7887
+      },
+      "17": {
+        "name": "Vanguard Windsor II Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.6888,
+        "totalAssets": 0.3941,
+        "currentShares": 2236237,
+        "change": -63400,
+        "change_p": -2.757
+      },
+      "18": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6566,
+        "totalAssets": 0.5649,
+        "currentShares": 2131681,
+        "change": 86337,
+        "change_p": 4.2211
+      },
+      "19": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5898,
+        "totalAssets": 0.2067,
+        "currentShares": 1914681,
+        "change": 5633,
+        "change_p": 0.2951
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 8.1651,
+    "ForwardPE": 8.1433,
+    "PriceSalesTTM": 0.4992,
+    "PriceBookMRQ": 1.8655,
+    "EnterpriseValue": 46420987680,
+    "EnterpriseValueRevenue": 0.7677,
+    "EnterpriseValueEbitda": 7.9624
+  },
+  "Highlights": {
+    "MarketCapitalization": 30184984576,
+    "MarketCapitalizationMln": 30184.9846,
+    "EBITDA": 7888999936,
+    "PERatio": 8.1651,
+    "PEGRatio": 6.5026,
+    "WallStreetTargetPrice": 129.25,
+    "BookValue": 48.58,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 11.39,
+    "EPSEstimateCurrentYear": 9.2594,
+    "EPSEstimateNextYear": 14.1243,
+    "EPSEstimateNextQuarter": 1.9958,
+    "EPSEstimateCurrentQuarter": 1.0924,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.0606,
+    "OperatingMarginTTM": 0.0416,
+    "ReturnOnAssetsTTM": 0.0414,
+    "ReturnOnEquityTTM": 0.2573,
+    "RevenueTTM": 60465000448,
+    "RevenuePerShareTTM": 186.996,
+    "QuarterlyRevenueGrowthYOY": 0.106,
+    "GrossProfitTTM": 20437999616,
+    "DilutedEpsTTM": 11.39,
+    "QuarterlyEarningsGrowthYOY": 0.844
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 34.87,
+    "TotalEsgPercentile": 67,
+    "EnvironmentScore": 17.91,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 20.13,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 10.83,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "UAL",
+    "Type": "Common Stock",
+    "Name": "United Airlines Holdings Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000M65M61",
+    "ISIN": "US9100471096",
+    "LEI": "98450079DA0B78DD6764",
+    "PrimaryTicker": "UAL.US",
+    "CUSIP": "902549104",
+    "CIK": "0000100517",
+    "EmployerIdNumber": "36-2675207",
+    "FiscalYearEnd": "December",
+    "IPODate": "2006-02-06",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Industrials",
+    "Industry": "Airlines",
+    "GicSector": "Industrials",
+    "GicGroup": "Transportation",
+    "GicIndustry": "Passenger Airlines",
+    "GicSubIndustry": "Passenger Airlines",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "United Airlines Holdings, Inc., through its subsidiaries, provides air transportation services in the United States, Canada, Atlantic, the Pacific, and Latin America. It transports people and cargo through its mainline and regional fleets. The company also offers ground handling, flight academy, frequent flyer award non-travel redemptions, and maintenance services for third parties. In addition, it provides freight and mail transportation services to commercial businesses, freight forwarders, logistics firms, and national postal services, as well as loyalty programs. The company distributes its products through direct channels, such as the Company's website and the Company's mobile app; and traditional travel agencies, online travel agencies, and other intermediaries. The company was formerly known as United Continental Holdings, Inc. and changed its name to United Airlines Holdings, Inc. in June 2019. United Airlines Holdings, Inc. was incorporated in 1968 and is based in Chicago, Illinois.",
+    "Address": "233 South Wacker Drive, Chicago, IL, United States, 60606",
+    "AddressData": {
+      "Street": "233 South Wacker Drive",
+      "City": "Chicago",
+      "State": "IL",
+      "Country": "United States",
+      "ZIP": "60606"
+    },
+    "Listings": {
+      "0": {
+        "Code": "UAL1",
+        "Exchange": "F",
+        "Name": "United Airlines Holdings Inc"
+      },
+      "1": {
+        "Code": "UAL1",
+        "Exchange": "BE",
+        "Name": "UNITED CONTL"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. J. Scott Kirby",
+        "Title": "CEO & Director",
+        "YearBorn": "1967"
+      },
+      "1": {
+        "Name": "Mr. Brett J. Hart J.D.",
+        "Title": "President",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Michael D. Leskinen CFA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1980"
+      },
+      "3": {
+        "Name": "Mr. Torbjorn J. Enqvist",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1972"
+      },
+      "4": {
+        "Name": "Mr. Andrew P. Nocella",
+        "Title": "Executive VP & Chief Commercial Officer",
+        "YearBorn": "1970"
+      },
+      "5": {
+        "Name": "Ms. Brigitte  Bokemeier",
+        "Title": "VP, Principal Accounting Officer & Controller",
+        "YearBorn": "1978"
+      },
+      "6": {
+        "Name": "Mr. Jason  Birnbaum",
+        "Title": "Chief Information Officer",
+        "YearBorn": "1972"
+      },
+      "7": {
+        "Name": "Ms. Kristina Munoz Edwards",
+        "Title": "Managing Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Josh  Earnest",
+        "Title": "Executive VP of Communications & Advertising",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Doreen  Burse",
+        "Title": "Senior Vice President of Worldwide Sales",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "872 825 4000",
+    "WebURL": "https://www.united.com",
+    "LogoURL": "/img/logos/US/ual.png",
+    "FullTimeEmployees": 115600,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 324569728,
+    "SharesFloat": 323940500,
+    "PercentInsiders": 0.629,
+    "PercentInstitutions": 90.673,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0474
+  }
+}

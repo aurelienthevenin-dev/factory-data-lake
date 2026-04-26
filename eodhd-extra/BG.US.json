@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Glencore PLC",
+        "date": "2025-09-30",
+        "totalShares": 16.9269,
+        "totalAssets": 67.248,
+        "currentShares": 32806103,
+        "change": 32806103,
+        "change_p": 0
+      },
+      "1": {
+        "name": "Canada Pension Plan Investment Board",
+        "date": "2025-12-31",
+        "totalShares": 13.5428,
+        "totalAssets": 1.5638,
+        "currentShares": 26247358,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.0656,
+        "totalAssets": 0.0227,
+        "currentShares": 17570009,
+        "change": 777805,
+        "change_p": 4.6319
+      },
+      "3": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 8.5663,
+        "totalAssets": 0.2011,
+        "currentShares": 16602320,
+        "change": 402320,
+        "change_p": 2.4835
+      },
+      "4": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.1459,
+        "totalAssets": 0.0225,
+        "currentShares": 15787532,
+        "change": -256685,
+        "change_p": -1.5999
+      },
+      "5": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.5712,
+        "totalAssets": 0.0195,
+        "currentShares": 6921322,
+        "change": 85873,
+        "change_p": 1.2563
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.8007,
+        "totalAssets": 0.0191,
+        "currentShares": 3490002,
+        "change": -158762,
+        "change_p": -4.3511
+      },
+      "7": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6655,
+        "totalAssets": 0.0147,
+        "currentShares": 3227889,
+        "change": -1144389,
+        "change_p": -26.1737
+      },
+      "8": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.5863,
+        "totalAssets": 0.0394,
+        "currentShares": 3074418,
+        "change": -65061,
+        "change_p": -2.0724
+      },
+      "9": {
+        "name": "Fidelity International Ltd",
+        "date": "2025-12-31",
+        "totalShares": 1.2518,
+        "totalAssets": 0.1618,
+        "currentShares": 2426049,
+        "change": 179850,
+        "change_p": 8.0069
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1864,
+        "totalAssets": 0.0239,
+        "currentShares": 2299447,
+        "change": 65774,
+        "change_p": 2.9447
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1589,
+        "totalAssets": 0.042,
+        "currentShares": 2246136,
+        "change": -849915,
+        "change_p": -27.4516
+      },
+      "12": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9513,
+        "totalAssets": 0.0255,
+        "currentShares": 1843709,
+        "change": 13551,
+        "change_p": 0.7404
+      },
+      "13": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 0.9055,
+        "totalAssets": 0.0043,
+        "currentShares": 1754938,
+        "change": 840019,
+        "change_p": 91.8135
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 0.9055,
+        "totalAssets": 0.0086,
+        "currentShares": 1754884,
+        "change": -321028,
+        "change_p": -15.4644
+      },
+      "15": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.8839,
+        "totalAssets": 0.0163,
+        "currentShares": 1713174,
+        "change": -147564,
+        "change_p": -7.9304
+      },
+      "16": {
+        "name": "Deutsche Bank AG",
+        "date": "2025-12-31",
+        "totalShares": 0.8264,
+        "totalAssets": 0.0465,
+        "currentShares": 1601718,
+        "change": 99513,
+        "change_p": 6.6245
+      },
+      "17": {
+        "name": "LSV Asset Management",
+        "date": "2025-12-31",
+        "totalShares": 0.6911,
+        "totalAssets": 0.2602,
+        "currentShares": 1339340,
+        "change": -733032,
+        "change_p": -35.3716
+      },
+      "18": {
+        "name": "UBS Group AG",
+        "date": "2025-09-30",
+        "totalShares": 0.6784,
+        "totalAssets": 0.0167,
+        "currentShares": 1314716,
+        "change": 375760,
+        "change_p": 40.0189
+      },
+      "19": {
+        "name": "Merewether Investment Management, LP",
+        "date": "2025-12-31",
+        "totalShares": 0.5844,
+        "totalAssets": 2.3205,
+        "currentShares": 1132700,
+        "change": 211000,
+        "change_p": 22.8925
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "American Funds Income Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 3.4058,
+        "totalAssets": 0.593,
+        "currentShares": 6600737,
+        "change": 3153940,
+        "change_p": 91.5035
+      },
+      "1": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.5409,
+        "totalAssets": 0.0314,
+        "currentShares": 4924540,
+        "change": 30031,
+        "change_p": 0.6136
+      },
+      "2": {
+        "name": "American Funds Fundamental Invs A",
+        "date": "2026-03-31",
+        "totalShares": 2.3476,
+        "totalAssets": 0.376,
+        "currentShares": 4549819,
+        "change": 0,
+        "change_p": 0
+      },
+      "3": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 2.3476,
+        "totalAssets": 0.2505,
+        "currentShares": 4549819,
+        "change": 0,
+        "change_p": 0
+      },
+      "4": {
+        "name": "Capital Group New Perspective Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.9207,
+        "totalAssets": 0.2038,
+        "currentShares": 3722586,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "American Funds New Perspective A",
+        "date": "2026-03-31",
+        "totalShares": 1.9207,
+        "totalAssets": 0.31,
+        "currentShares": 3722586,
+        "change": 0,
+        "change_p": 0
+      },
+      "6": {
+        "name": "Vanguard Small Cap Index",
+        "date": "2026-03-31",
+        "totalShares": 1.8443,
+        "totalAssets": 0.2737,
+        "currentShares": 3574371,
+        "change": 61236,
+        "change_p": 1.7431
+      },
+      "7": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.7788,
+        "totalAssets": 0.0308,
+        "currentShares": 3447486,
+        "change": -34056,
+        "change_p": -0.9782
+      },
+      "8": {
+        "name": "Vanguard Small Cap Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 1.1736,
+        "totalAssets": 0.4763,
+        "currentShares": 2274481,
+        "change": 18367,
+        "change_p": 0.8141
+      },
+      "9": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8978,
+        "totalAssets": 0.0307,
+        "currentShares": 1739946,
+        "change": -948,
+        "change_p": -0.0545
+      },
+      "10": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 0.8888,
+        "totalAssets": 0.0277,
+        "currentShares": 1722542,
+        "change": 2846,
+        "change_p": 0.1655
+      },
+      "11": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8124,
+        "totalAssets": 0.0308,
+        "currentShares": 1574527,
+        "change": -3871,
+        "change_p": -0.2452
+      },
+      "12": {
+        "name": "iShares Select Dividend ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.8055,
+        "totalAssets": 0.8909,
+        "currentShares": 1561083,
+        "change": 0,
+        "change_p": 0
+      },
+      "13": {
+        "name": "American Funds Capital World Gr&Inc A",
+        "date": "2026-03-31",
+        "totalShares": 0.7719,
+        "totalAssets": 0.1376,
+        "currentShares": 1496075,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Capital Group World Growth & Inc Cmp",
+        "date": "2025-12-31",
+        "totalShares": 0.7719,
+        "totalAssets": 0.0936,
+        "currentShares": 1496075,
+        "change": 300000,
+        "change_p": 25.082
+      },
+      "15": {
+        "name": "State Street®CnsmrStpSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7307,
+        "totalAssets": 1.1624,
+        "currentShares": 1416153,
+        "change": -665,
+        "change_p": -0.0469
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.73,
+        "totalAssets": 0.211,
+        "currentShares": 1414890,
+        "change": 4192,
+        "change_p": 0.2972
+      },
+      "17": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.6898,
+        "totalAssets": 0.0853,
+        "currentShares": 1336864,
+        "change": 0,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.6898,
+        "totalAssets": 0.0572,
+        "currentShares": 1336864,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "FlexShares Mstar Glbl Upstrm Nat Res ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5049,
+        "totalAssets": 1.6533,
+        "currentShares": 978644,
+        "change": 3916,
+        "change_p": 0.4018
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 25.3347,
+    "ForwardPE": 14.5349,
+    "PriceSalesTTM": 0.3442,
+    "PriceBookMRQ": 1.5406,
+    "EnterpriseValue": 37857920209,
+    "EnterpriseValueRevenue": 0.5425,
+    "EnterpriseValueEbitda": 15.4777
+  },
+  "Highlights": {
+    "MarketCapitalization": 24206921728,
+    "MarketCapitalizationMln": 24206.9217,
+    "EBITDA": 2095000064,
+    "PERatio": 25.3347,
+    "PEGRatio": 1.7053,
+    "WallStreetTargetPrice": 135,
+    "BookValue": 82.23,
+    "DividendShare": 2.8,
+    "DividendYield": 0.0221,
+    "EarningsShare": 4.93,
+    "EPSEstimateCurrentYear": 8.3894,
+    "EPSEstimateNextYear": 10.4965,
+    "EPSEstimateNextQuarter": 1.8403,
+    "EPSEstimateCurrentQuarter": 1.8153,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0116,
+    "OperatingMarginTTM": 0.0126,
+    "ReturnOnAssetsTTM": 0.0251,
+    "ReturnOnEquityTTM": 0.0596,
+    "RevenueTTM": 70328999936,
+    "RevenuePerShareTTM": 426.126,
+    "QuarterlyRevenueGrowthYOY": 0.755,
+    "GrossProfitTTM": 3408999936,
+    "DilutedEpsTTM": 4.93,
+    "QuarterlyEarningsGrowthYOY": -0.888
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 32.85,
+    "TotalEsgPercentile": 71.88,
+    "EnvironmentScore": 10.68,
+    "EnvironmentScorePercentile": 0,
+    "SocialScore": 13.14,
+    "SocialScorePercentile": 0,
+    "GovernanceScore": 4.03,
+    "GovernanceScorePercentile": 0,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BG",
+    "Type": "Common Stock",
+    "Name": "Bunge Limited",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000DGPR66",
+    "ISIN": "CH1300646267",
+    "LEI": null,
+    "PrimaryTicker": "BG.US",
+    "CUSIP": "G16962105",
+    "CIK": "0001144519",
+    "EmployerIdNumber": "98-0231912",
+    "FiscalYearEnd": "December",
+    "IPODate": "2001-08-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Consumer Defensive",
+    "Industry": "Farm Products",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Agricultural Products & Services",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Soybean Processing and Refining, Softseed Processing and Refining, Other Oilseeds Processing and Refining, and Grain Merchandising and Milling. The Soybean Processing and Refining segment is involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of soybeans and soybean related products, as well as biodiesel and fertilizer production and distribution for the food, animal feed and biofuel industries. The Softseed Processing and Refining segment is involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of softseeds and softseed related products, as well as biodiesel production and distribution. The Other Oilseeds Processing and Refining Segment is involved in products of a specialty nature, including the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of these related products. The Grain Merchandising and Milling segment is involved in the purchase, storage, transportation, distribution, and marketing of commodities primarily consisting of corn, wheat, barley, cotton, pulses, and sugar; milling of wheat and sugar; and related services including ocean freight and financial services. Bunge Global SA was founded in 1818 and is headquartered in Chesterfield, Missouri.",
+    "Address": "1391 Timberlake Manor Parkway, Chesterfield, MO, United States, 63017",
+    "AddressData": {
+      "Street": "1391 Timberlake Manor Parkway",
+      "City": "Chesterfield",
+      "State": "MO",
+      "Country": "United States",
+      "ZIP": "63017"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BU3",
+        "Exchange": "F",
+        "Name": "Bunge Limited"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Gregory A. Heckman",
+        "Title": "CEO & Director",
+        "YearBorn": "1962"
+      },
+      "1": {
+        "Name": "Mr. John W. Neppl CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1966"
+      },
+      "2": {
+        "Name": "Mr. Julio  Garros",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Joseph A. Podwika J.D.",
+        "Title": "Executive VP, Chief Legal Officer & Assistant Secretary",
+        "YearBorn": "1963"
+      },
+      "4": {
+        "Name": "Mr. Christos  Dimopoulos",
+        "Title": "Executive VP of Global Markets & Chief Sustainability Officer",
+        "YearBorn": "1974"
+      },
+      "5": {
+        "Name": "Mr. Jerry Matthews Simmons Jr.",
+        "Title": "Principal Accounting Officer & Controller",
+        "YearBorn": "1965"
+      },
+      "6": {
+        "Name": "Mr. Mark  Haden",
+        "Title": "VP of Investor Relations",
+        "YearBorn": "1965"
+      },
+      "7": {
+        "Name": "Ms. Kellie  Sears",
+        "Title": "Chief Human Resources Officer",
+        "YearBorn": "1970"
+      },
+      "8": {
+        "Name": "Mr. Pierre  Mauger",
+        "Title": "Chief Transformation Officer",
+        "YearBorn": "1972"
+      },
+      "9": {
+        "Name": "Mr. Robert  Wagner",
+        "Title": "Chief Risk Officer",
+        "YearBorn": "1978"
+      }
+    },
+    "Phone": "(314) 292-2000",
+    "WebURL": "https://www.bunge.com",
+    "LogoURL": "/img/logos/US/BG.png",
+    "FullTimeEmployees": 34000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 193810410,
+    "SharesFloat": 159244427,
+    "PercentInsiders": 18.2,
+    "PercentInstitutions": 76.993,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0435
+  }
+}

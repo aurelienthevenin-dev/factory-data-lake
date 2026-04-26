@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 12.4739,
+        "totalAssets": 0.0672,
+        "currentShares": 28407540,
+        "change": 144038,
+        "change_p": 0.5096
+      },
+      "1": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 10.6786,
+        "totalAssets": 3.1154,
+        "currentShares": 24318893,
+        "change": 0,
+        "change_p": 0
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.1117,
+        "totalAssets": 0.0438,
+        "currentShares": 18473294,
+        "change": -696459,
+        "change_p": -3.6331
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.3412,
+        "totalAssets": 0.0574,
+        "currentShares": 12163867,
+        "change": -337912,
+        "change_p": -2.7029
+      },
+      "4": {
+        "name": "Berkshire Hathaway Inc",
+        "date": "2025-09-30",
+        "totalShares": 2.8137,
+        "totalAssets": 0.3246,
+        "currentShares": 6407749,
+        "change": -206363,
+        "change_p": -3.12
+      },
+      "5": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5919,
+        "totalAssets": 0.0592,
+        "currentShares": 5902758,
+        "change": -125901,
+        "change_p": -2.0884
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.6736,
+        "totalAssets": 0.0313,
+        "currentShares": 3811477,
+        "change": -58633,
+        "change_p": -1.515
+      },
+      "7": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6395,
+        "totalAssets": 0.0652,
+        "currentShares": 3733688,
+        "change": 29368,
+        "change_p": 0.7928
+      },
+      "8": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3522,
+        "totalAssets": 0.0534,
+        "currentShares": 3079540,
+        "change": -39642,
+        "change_p": -1.2709
+      },
+      "9": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.3394,
+        "totalAssets": 0.0677,
+        "currentShares": 3050218,
+        "change": 7457,
+        "change_p": 0.2451
+      },
+      "10": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.2871,
+        "totalAssets": 0.0119,
+        "currentShares": 2931116,
+        "change": 1365655,
+        "change_p": 87.2366
+      },
+      "11": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1049,
+        "totalAssets": 0.0861,
+        "currentShares": 2516326,
+        "change": -133334,
+        "change_p": -5.0321
+      },
+      "12": {
+        "name": "HSBC Holdings PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9942,
+        "totalAssets": 0.0993,
+        "currentShares": 2264178,
+        "change": 1382695,
+        "change_p": 156.8601
+      },
+      "13": {
+        "name": "Nordea Investment Mgmt Bank Demark A/s",
+        "date": "2025-12-31",
+        "totalShares": 0.9234,
+        "totalAssets": 0.2942,
+        "currentShares": 2103000,
+        "change": 210577,
+        "change_p": 11.1274
+      },
+      "14": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.843,
+        "totalAssets": 0.0487,
+        "currentShares": 1919883,
+        "change": 56565,
+        "change_p": 3.0357
+      },
+      "15": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8233,
+        "totalAssets": 0.0156,
+        "currentShares": 1875019,
+        "change": 182997,
+        "change_p": 10.8153
+      },
+      "16": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.8118,
+        "totalAssets": 0.0395,
+        "currentShares": 1848775,
+        "change": -211339,
+        "change_p": -10.2586
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.7656,
+        "totalAssets": 0.0349,
+        "currentShares": 1743629,
+        "change": 399984,
+        "change_p": 29.7686
+      },
+      "18": {
+        "name": "Slate Path Capital LP",
+        "date": "2025-12-31",
+        "totalShares": 0.7307,
+        "totalAssets": 3.661,
+        "currentShares": 1664170,
+        "change": 126870,
+        "change_p": 8.2528
+      },
+      "19": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.7247,
+        "totalAssets": 0.0597,
+        "currentShares": 1650305,
+        "change": 19319,
+        "change_p": 1.1845
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.0179,
+        "totalAssets": 0.0582,
+        "currentShares": 6872790,
+        "change": 2079,
+        "change_p": 0.0303
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5591,
+        "totalAssets": 0.0693,
+        "currentShares": 5828011,
+        "change": -55788,
+        "change_p": -0.9482
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0526,
+        "totalAssets": 0.3978,
+        "currentShares": 4674467,
+        "change": -51017,
+        "change_p": -1.0796
+      },
+      "3": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2915,
+        "totalAssets": 0.0691,
+        "currentShares": 2941239,
+        "change": -1596,
+        "change_p": -0.0542
+      },
+      "4": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2789,
+        "totalAssets": 0.0688,
+        "currentShares": 2912519,
+        "change": 4802,
+        "change_p": 0.1651
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1646,
+        "totalAssets": 0.069,
+        "currentShares": 2652223,
+        "change": -6517,
+        "change_p": -0.2451
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8781,
+        "totalAssets": 0.1498,
+        "currentShares": 1999846,
+        "change": -24308,
+        "change_p": -1.2009
+      },
+      "7": {
+        "name": "State Street®MatSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7519,
+        "totalAssets": 4.3879,
+        "currentShares": 1712327,
+        "change": 71150,
+        "change_p": 4.3353
+      },
+      "8": {
+        "name": "Global X US Infrastructure Dev ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7005,
+        "totalAssets": 2.3192,
+        "currentShares": 1595241,
+        "change": 980,
+        "change_p": 0.0615
+      },
+      "9": {
+        "name": "Vanguard Mid-Cap Value ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6181,
+        "totalAssets": 0.6851,
+        "currentShares": 1407570,
+        "change": 50580,
+        "change_p": 3.7274
+      },
+      "10": {
+        "name": "Capital Group Fundamental Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5804,
+        "totalAssets": 0.1333,
+        "currentShares": 1321823,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5662,
+        "totalAssets": 0.0691,
+        "currentShares": 1289553,
+        "change": -6078,
+        "change_p": -0.4691
+      },
+      "12": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5627,
+        "totalAssets": 0.1846,
+        "currentShares": 1281408,
+        "change": 20224,
+        "change_p": 1.6036
+      },
+      "13": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5364,
+        "totalAssets": 0.0684,
+        "currentShares": 1221649,
+        "change": 1700,
+        "change_p": 0.1394
+      },
+      "14": {
+        "name": "Stt Strt®SPDR®S&P®Mtls &MngETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5154,
+        "totalAssets": 4.4961,
+        "currentShares": 1173852,
+        "change": 11488,
+        "change_p": 0.9883
+      },
+      "15": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4539,
+        "totalAssets": 0.069,
+        "currentShares": 1033633,
+        "change": 5900,
+        "change_p": 0.5741
+      },
+      "16": {
+        "name": "Invesco S&P 500® Equal Weight ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4438,
+        "totalAssets": 0.2004,
+        "currentShares": 1010686,
+        "change": 3013,
+        "change_p": 0.299
+      },
+      "17": {
+        "name": "ProShares S&P 500 Dividend Aristocrats",
+        "date": "2026-03-31",
+        "totalShares": 0.4027,
+        "totalAssets": 1.4043,
+        "currentShares": 917158,
+        "change": -436,
+        "change_p": -0.0475
+      },
+      "18": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.4012,
+        "totalAssets": 0.0643,
+        "currentShares": 913607,
+        "change": -7434,
+        "change_p": -0.8071
+      },
+      "19": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.4012,
+        "totalAssets": 0.0643,
+        "currentShares": 913607,
+        "change": -7434,
+        "change_p": -0.8071
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 28.496,
+    "ForwardPE": 17.8571,
+    "PriceSalesTTM": 1.5019,
+    "PriceBookMRQ": 2.3164,
+    "EnterpriseValue": 52918305389,
+    "EnterpriseValueRevenue": 1.6286,
+    "EnterpriseValueEbitda": 12.5458
+  },
+  "Highlights": {
+    "MarketCapitalization": 48801472512,
+    "MarketCapitalizationMln": 48801.4725,
+    "EBITDA": 4139000064,
+    "PERatio": 28.496,
+    "PEGRatio": 5.2129,
+    "WallStreetTargetPrice": 192.5515,
+    "BookValue": 91.704,
+    "DividendShare": 2.21,
+    "DividendYield": 0.0104,
+    "EarningsShare": 7.52,
+    "EPSEstimateCurrentYear": 12.9773,
+    "EPSEstimateNextYear": 14.1225,
+    "EPSEstimateNextQuarter": 2.6517,
+    "EPSEstimateCurrentQuarter": 1.7699,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0537,
+    "OperatingMarginTTM": 0.0687,
+    "ReturnOnAssetsTTM": 0.0481,
+    "ReturnOnEquityTTM": 0.0936,
+    "RevenueTTM": 32494000128,
+    "RevenuePerShareTTM": 140.85,
+    "QuarterlyRevenueGrowthYOY": 0.086,
+    "GrossProfitTTM": 3908000000,
+    "DilutedEpsTTM": 7.52,
+    "QuarterlyEarningsGrowthYOY": 0.342
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 38.15,
+    "TotalEsgPercentile": 80.78,
+    "EnvironmentScore": 16.03,
+    "EnvironmentScorePercentile": 3,
+    "SocialScore": 12.79,
+    "SocialScorePercentile": 3,
+    "GovernanceScore": 10.82,
+    "GovernanceScorePercentile": 3,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "NUE",
+    "Type": "Common Stock",
+    "Name": "Nucor Corp",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BQ8KV2",
+    "ISIN": "US6703461052",
+    "LEI": "549300GGJCRSI2TIEJ46",
+    "PrimaryTicker": "NUE.US",
+    "CUSIP": "670346105",
+    "CIK": "0000073309",
+    "EmployerIdNumber": "13-1860817",
+    "FiscalYearEnd": "December",
+    "IPODate": "1983-09-01",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Basic Materials",
+    "Industry": "Steel",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Metals & Mining",
+    "GicSubIndustry": "Steel",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Nucor Corporation engages in the manufacture and sale of steel and steel products. The company operates in three segments: Steel Mills, Steel Products, and Raw Materials. The Steel Mills segment produces hot-rolled, cold-rolled, and galvanized sheet steel products; plate steel products; wide-flange beams, beam blanks, and H-piling and sheet piling structural steel products; and bar steel products, such as blooms, billets, concrete reinforcing and merchant bars, and engineered special bar quality products. This segment sells its products to steel service centers, fabricators, and manufacturers in the United States, Canada, and Mexico, as well as engages in the steel trading and rebar distribution businesses. The Steel Products segment offers steel joists and joist girders, steel decks, and galvanized torque tubes for use in solar arrays, hollow structural section steel tubing, electrical conduit, fabricated concrete reinforcing steel, cold finished steel, steel fasteners, steel grating and expanded metal, wire and wire mesh, metal building systems, insulated metal panels, steel racking, overhead doors, and utility towers and structures for communications and energy transmission. This segment is also involved in the piling distribution business. The Raw Materials segment produces direct reduced iron (DRI); brokers ferrous and nonferrous metals, pig iron, hot briquetted iron, and DRI; supplies ferro-alloys; processes ferrous and nonferrous scrap metal; and engages in the natural gas production and industrial gas business. This segment sells its ferrous scrap to electric arc furnace steel mills and foundries for manufacturing process; and nonferrous scrap metal to aluminum can producers, secondary aluminum smelters, steel mills and other processors, and consumers of various nonferrous metals. Nucor Corporation was founded in 1905 and is based in Charlotte, North Carolina.",
+    "Address": "1915 Rexford Road, Charlotte, NC, United States, 28211",
+    "AddressData": {
+      "Street": "1915 Rexford Road",
+      "City": "Charlotte",
+      "State": "NC",
+      "Country": "United States",
+      "ZIP": "28211"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Leon J. Topalian",
+        "Title": "Chairman of the Board & CEO",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Mr. Stephen D. Laxton",
+        "Title": "President & COO",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. K. Rex Query",
+        "Title": "Executive Vice President of Strategy",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. David A. Sumoski",
+        "Title": "Executive Vice President",
+        "YearBorn": "1967"
+      },
+      "4": {
+        "Name": "Mr. Daniel R. Needham",
+        "Title": "Executive Vice President of Commercial",
+        "YearBorn": "1966"
+      },
+      "5": {
+        "Name": "Mr. John L. Sullivan",
+        "Title": "Executive VP, CFO & Treasurer",
+        "YearBorn": "1974"
+      },
+      "6": {
+        "Name": "Chris  Jacobi",
+        "Title": "Director of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Douglas R. Wilner",
+        "Title": "President of Corporate Legal Affairs & General Counsel",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Ms. Elizabeth  Bledsoe",
+        "Title": "President of Human Resources & Talent",
+        "YearBorn": "1973"
+      },
+      "9": {
+        "Name": "Mr. D. Chad Utermark",
+        "Title": "Executive Vice President of New Markets & Innovation",
+        "YearBorn": "1969"
+      }
+    },
+    "Phone": "704 366 7000",
+    "WebURL": "https://www.nucor.com",
+    "LogoURL": "/img/logos/US/NUE.png",
+    "FullTimeEmployees": 33000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 227735644,
+    "SharesFloat": 219804781,
+    "PercentInsiders": 3.199,
+    "PercentInstitutions": 79.31200000000001,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0256
+  }
+}

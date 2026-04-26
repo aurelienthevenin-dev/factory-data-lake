@@ -1,0 +1,597 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.9691,
+        "totalAssets": 0.3852,
+        "currentShares": 46385185,
+        "change": 442164,
+        "change_p": 0.9624
+      },
+      "1": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 7.523,
+        "totalAssets": 0.5792,
+        "currentShares": 35003346,
+        "change": -945671,
+        "change_p": -2.6306
+      },
+      "2": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.3684,
+        "totalAssets": 0.2864,
+        "currentShares": 34284378,
+        "change": 456457,
+        "change_p": 1.3493
+      },
+      "3": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 3.7463,
+        "totalAssets": 7.8428,
+        "currentShares": 17431190,
+        "change": -87214,
+        "change_p": -0.4978
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.2804,
+        "totalAssets": 0.3748,
+        "currentShares": 10610182,
+        "change": 94524,
+        "change_p": 0.8989
+      },
+      "5": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0403,
+        "totalAssets": 1.8562,
+        "currentShares": 9493266,
+        "change": 54069,
+        "change_p": 0.5728
+      },
+      "6": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.5554,
+        "totalAssets": 0.2091,
+        "currentShares": 7237293,
+        "change": -50852,
+        "change_p": -0.6977
+      },
+      "7": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.5151,
+        "totalAssets": 0.1008,
+        "currentShares": 7049620,
+        "change": 3812406,
+        "change_p": 117.7681
+      },
+      "8": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.4642,
+        "totalAssets": 0.3478,
+        "currentShares": 6812530,
+        "change": 4956952,
+        "change_p": 267.1379
+      },
+      "9": {
+        "name": "Gates Bill & Melinda Foundation",
+        "date": "2025-12-31",
+        "totalShares": 1.3655,
+        "totalAssets": 10.2935,
+        "currentShares": 6353614,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.3406,
+        "totalAssets": 0.3807,
+        "currentShares": 6237671,
+        "change": -214903,
+        "change_p": -3.3305
+      },
+      "11": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.2569,
+        "totalAssets": 0.1893,
+        "currentShares": 5848128,
+        "change": 735368,
+        "change_p": 14.383
+      },
+      "12": {
+        "name": "UBS Asset Mgmt Americas Inc",
+        "date": "2025-09-30",
+        "totalShares": 0.8767,
+        "totalAssets": 0.4226,
+        "currentShares": 4079115,
+        "change": -149657,
+        "change_p": -3.539
+      },
+      "13": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.8728,
+        "totalAssets": 0.1186,
+        "currentShares": 4061103,
+        "change": 928278,
+        "change_p": 29.6307
+      },
+      "14": {
+        "name": "Capital World Investors",
+        "date": "2025-12-31",
+        "totalShares": 0.8616,
+        "totalAssets": 0.3124,
+        "currentShares": 4009003,
+        "change": -579278,
+        "change_p": -12.6252
+      },
+      "15": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.8296,
+        "totalAssets": 0.3875,
+        "currentShares": 3859902,
+        "change": -1368156,
+        "change_p": -26.1695
+      },
+      "16": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7638,
+        "totalAssets": 0.3042,
+        "currentShares": 3553930,
+        "change": 609023,
+        "change_p": 20.6806
+      },
+      "17": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.719,
+        "totalAssets": 0.2978,
+        "currentShares": 3345375,
+        "change": 6546,
+        "change_p": 0.1961
+      },
+      "18": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6748,
+        "totalAssets": 0.2206,
+        "currentShares": 3139546,
+        "change": 159103,
+        "change_p": 5.3382
+      },
+      "19": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 0.6368,
+        "totalAssets": 0.2227,
+        "currentShares": 2962896,
+        "change": -319824,
+        "change_p": -9.7427
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1764,
+        "totalAssets": 0.5244,
+        "currentShares": 14779232,
+        "change": -23635,
+        "change_p": -0.1597
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.5461,
+        "totalAssets": 0.5898,
+        "currentShares": 11846826,
+        "change": -191495,
+        "change_p": -1.5907
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2853,
+        "totalAssets": 0.5884,
+        "currentShares": 5980506,
+        "change": -3252,
+        "change_p": -0.0543
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.28,
+        "totalAssets": 0.5906,
+        "currentShares": 5955631,
+        "change": 9816,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street®SPDR®DowJonesIndstrAvgETFTr",
+        "date": "2026-03-31",
+        "totalShares": 1.1864,
+        "totalAssets": 9.3883,
+        "currentShares": 5519968,
+        "change": -15385,
+        "change_p": -0.2779
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1592,
+        "totalAssets": 0.5877,
+        "currentShares": 5393784,
+        "change": -13279,
+        "change_p": -0.2456
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9242,
+        "totalAssets": 1.3497,
+        "currentShares": 4299998,
+        "change": -58693,
+        "change_p": -1.3466
+      },
+      "7": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5784,
+        "totalAssets": 0.9561,
+        "currentShares": 2691060,
+        "change": 114016,
+        "change_p": 4.4243
+      },
+      "8": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5634,
+        "totalAssets": 0.5885,
+        "currentShares": 2621454,
+        "change": -29384,
+        "change_p": -1.1085
+      },
+      "9": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5599,
+        "totalAssets": 1.5724,
+        "currentShares": 2605197,
+        "change": -20,
+        "change_p": -0.0008
+      },
+      "10": {
+        "name": "State Street® IndstrlSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5557,
+        "totalAssets": 6.5178,
+        "currentShares": 2585501,
+        "change": -17904,
+        "change_p": -0.6877
+      },
+      "11": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5539,
+        "totalAssets": 0.709,
+        "currentShares": 2577044,
+        "change": 85391,
+        "change_p": 3.4271
+      },
+      "12": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5338,
+        "totalAssets": 0.5824,
+        "currentShares": 2483757,
+        "change": -10920,
+        "change_p": -0.4377
+      },
+      "13": {
+        "name": "American Funds Growth Fund of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.4689,
+        "totalAssets": 0.5045,
+        "currentShares": 2181699,
+        "change": 381585,
+        "change_p": 21.1978
+      },
+      "14": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4517,
+        "totalAssets": 0.5877,
+        "currentShares": 2101540,
+        "change": -17,
+        "change_p": -0.0008
+      },
+      "15": {
+        "name": "Equity Index Fund E",
+        "date": "2025-12-31",
+        "totalShares": 0.399,
+        "totalAssets": 0.4588,
+        "currentShares": 1856488,
+        "change": -23349,
+        "change_p": -1.2421
+      },
+      "16": {
+        "name": "Equity Index Fund A",
+        "date": "2025-12-31",
+        "totalShares": 0.399,
+        "totalAssets": 0.4588,
+        "currentShares": 1856488,
+        "change": -23349,
+        "change_p": -1.2421
+      },
+      "17": {
+        "name": "Equity Index Non-Lendable Fund B",
+        "date": "2025-12-31",
+        "totalShares": 0.399,
+        "totalAssets": 0.4588,
+        "currentShares": 1856488,
+        "change": 1856488,
+        "change_p": 0
+      },
+      "18": {
+        "name": "Vanguard High Dividend Yield ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.3896,
+        "totalAssets": 1.4412,
+        "currentShares": 1812933,
+        "change": -71571,
+        "change_p": -3.7979
+      },
+      "19": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.3869,
+        "totalAssets": 0.3069,
+        "currentShares": 1800114,
+        "change": -856469,
+        "change_p": -32.2395
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 44.238,
+    "ForwardPE": 36.3636,
+    "PriceSalesTTM": 5.7192,
+    "PriceBookMRQ": 18.23,
+    "EnterpriseValue": 419906062552,
+    "EnterpriseValueRevenue": 6.2433,
+    "EnterpriseValueEbitda": 29.4985
+  },
+  "Highlights": {
+    "MarketCapitalization": 386556035072,
+    "MarketCapitalizationMln": 386556.0351,
+    "EBITDA": 13960999936,
+    "PERatio": 44.238,
+    "PEGRatio": 2.2435,
+    "WallStreetTargetPrice": 768.1369,
+    "BookValue": 45.817,
+    "DividendShare": 5.94,
+    "DividendYield": 0.0071,
+    "EarningsShare": 18.78,
+    "EPSEstimateCurrentYear": 22.9855,
+    "EPSEstimateNextYear": 27.9036,
+    "EPSEstimateNextQuarter": 4.4985,
+    "EPSEstimateCurrentQuarter": 4.7121,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1314,
+    "OperatingMarginTTM": 0.1603,
+    "ReturnOnAssetsTTM": 0.0789,
+    "ReturnOnEquityTTM": 0.4353,
+    "RevenueTTM": 67589001216,
+    "RevenuePerShareTTM": 143.806,
+    "QuarterlyRevenueGrowthYOY": 0.18,
+    "GrossProfitTTM": 19462000640,
+    "DilutedEpsTTM": 18.78,
+    "QuarterlyEarningsGrowthYOY": -0.114
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 40.85,
+    "TotalEsgPercentile": 86.14,
+    "EnvironmentScore": 13.72,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 21.74,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 8.39,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 4,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "CAT",
+    "Type": "Common Stock",
+    "Name": "Caterpillar Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BF0K17",
+    "ISIN": "US1491231015",
+    "LEI": "WRJR7GS4GTRECRRTVX92",
+    "PrimaryTicker": "CAT.US",
+    "CUSIP": "149123101",
+    "CIK": "0000018230",
+    "EmployerIdNumber": "37-0602744",
+    "FiscalYearEnd": "December",
+    "IPODate": "1962-01-02",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Industrials",
+    "Industry": "Farm & Heavy Construction Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Construction Machinery & Heavy Transportation Equipment",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Caterpillar Inc. provides construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives in the United States and internationally. The Construction Industries segment offers asphalt pavers, cold planers, compactors, forestry machines, material handlers, motor graders, pipelayers, road reclaimers, telehandlers, track-type tractors, and track and wheel excavators; backhoe, compact track, skid steer, track-type, and wheel loaders; and related parts and work tools. Its Resource Industries segment provides electric rope and hydraulic shovels, draglines, rotary drills, hard rock vehicles, mining trucks, wheel loaders, off-highway and articulated trucks, wide-body trucks, wheel tractor scrapers and dozers, and landfill and soil compactors; machinery components, and wear and maintenance components; and technology products and services for fleet management, equipment management analytics, autonomous machine capabilities, safety services, and mining performance solutions. The Energy & Transportation segment offers reciprocating engine powered generator sets; reciprocating engines, drivetrain, and integrated systems and solutions; centrifugal gas compressors and related services; and diesel-electric locomotive components, and other rail-related products. Its Financial Products segment provides operating and finance leases, revolving charge accounts, installment sale contracts, repair/rebuild financing, working capital loans, and wholesale financing; and insurance and risk management products and services. The All Other segment offers parts distribution; logistics and distribution services; electronics and control systems; dealer portfolio management; brand management and marketing strategy; and digital investment services. It also provides mining software solutions. The company was formerly known as Caterpillar Tractor Co. Caterpillar Inc. was incorporated in 1925 and is headquartered in Irving, Texas.",
+    "Address": "5205 N. O'Connor Boulevard, Irving, TX, United States, 75039",
+    "AddressData": {
+      "Street": "5205 N. O'Connor Boulevard",
+      "City": "Irving",
+      "State": "TX",
+      "Country": "United States",
+      "ZIP": "75039"
+    },
+    "Listings": {
+      "0": {
+        "Code": "CAT",
+        "Exchange": "BA",
+        "Name": "Caterpillar Inc. CEDEAR"
+      },
+      "1": {
+        "Code": "CATP34",
+        "Exchange": "SA",
+        "Name": "Caterpillar Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Joseph E. Creed CPA",
+        "Title": "Chairman & CEO",
+        "YearBorn": "1976"
+      },
+      "1": {
+        "Name": "Mr. Andrew R. J. Bonfield",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1962"
+      },
+      "2": {
+        "Name": "Ms. Denise C. Johnson",
+        "Title": "Group President of Resource Industries",
+        "YearBorn": "1966"
+      },
+      "3": {
+        "Name": "Mr. Bob  De Lange",
+        "Title": "Group President of Services, Distribution & Digital",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. William E. Schaupp",
+        "Title": "VP & Chief Accounting Officer",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Ms. Jaime  Mineart",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "NA"
+      },
+      "6": {
+        "Name": "Ms. Jamie L. Engstrom",
+        "Title": "Senior VP & Chief Information Officer",
+        "YearBorn": "1978"
+      },
+      "7": {
+        "Name": "Alex  Kapper",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Derek R. Owens",
+        "Title": "Chief Legal Officer & General Counsel",
+        "YearBorn": "1975"
+      },
+      "9": {
+        "Name": "Erick W. Lee",
+        "Title": "Chief Compliance Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "972 891 7700",
+    "WebURL": "https://www.caterpillar.com",
+    "LogoURL": "/img/logos/US/Cat.png",
+    "FullTimeEmployees": 118000,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 465287332,
+    "SharesFloat": 463858900,
+    "PercentInsiders": 0.219,
+    "PercentInstitutions": 72.949,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0164
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.0514,
+        "totalAssets": 0.2182,
+        "currentShares": 14062677,
+        "change": 221123,
+        "change_p": 1.5975
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 6.4846,
+        "totalAssets": 0.2056,
+        "currentShares": 10074849,
+        "change": -39822,
+        "change_p": -0.3937
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.0104,
+        "totalAssets": 0.2519,
+        "currentShares": 6230793,
+        "change": -42421,
+        "change_p": -0.6762
+      },
+      "3": {
+        "name": "CI Private Wealth LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.6085,
+        "totalAssets": 0.1673,
+        "currentShares": 5606284,
+        "change": 5502502,
+        "change_p": 5301.9811
+      },
+      "4": {
+        "name": "Temasek Holdings Ltd.",
+        "date": "2025-12-31",
+        "totalShares": 3.278,
+        "totalAssets": 17.2639,
+        "currentShares": 5092825,
+        "change": 0,
+        "change_p": 0
+      },
+      "5": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.2559,
+        "totalAssets": 0.4,
+        "currentShares": 5058502,
+        "change": 227197,
+        "change_p": 4.7026
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 2.4709,
+        "totalAssets": 0.7585,
+        "currentShares": 3838937,
+        "change": 12019,
+        "change_p": 0.3141
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.2569,
+        "totalAssets": 0.2475,
+        "currentShares": 3506425,
+        "change": -134198,
+        "change_p": -3.6861
+      },
+      "8": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.0387,
+        "totalAssets": 0.2082,
+        "currentShares": 3167460,
+        "change": 27640,
+        "change_p": 0.8803
+      },
+      "9": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.6493,
+        "totalAssets": 0.2934,
+        "currentShares": 2562438,
+        "change": 42536,
+        "change_p": 1.688
+      },
+      "10": {
+        "name": "Wells Fargo & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.6263,
+        "totalAssets": 0.5601,
+        "currentShares": 2526735,
+        "change": 34993,
+        "change_p": 1.4044
+      },
+      "11": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.3157,
+        "totalAssets": 0.0714,
+        "currentShares": 2044208,
+        "change": 838526,
+        "change_p": 69.5479
+      },
+      "12": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.2825,
+        "totalAssets": 0.1087,
+        "currentShares": 1992618,
+        "change": -68640,
+        "change_p": -3.33
+      },
+      "13": {
+        "name": "Capital Research & Mgmt Co - Division 3",
+        "date": "2025-12-31",
+        "totalShares": 1.2723,
+        "totalAssets": 0.3317,
+        "currentShares": 1976762,
+        "change": 135674,
+        "change_p": 7.3692
+      },
+      "14": {
+        "name": "Fisher Asset Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.1742,
+        "totalAssets": 0.6665,
+        "currentShares": 1824359,
+        "change": -77808,
+        "change_p": -4.0905
+      },
+      "15": {
+        "name": "Franklin Resources Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1696,
+        "totalAssets": 0.5283,
+        "currentShares": 1817154,
+        "change": -188204,
+        "change_p": -9.3851
+      },
+      "16": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1131,
+        "totalAssets": 0.4631,
+        "currentShares": 1729300,
+        "change": -209504,
+        "change_p": -10.8058
+      },
+      "17": {
+        "name": "Oak Harvest Investment Services",
+        "date": "2025-12-31",
+        "totalShares": 1.0267,
+        "totalAssets": 1.0098,
+        "currentShares": 1595153,
+        "change": 1582159,
+        "change_p": 12176.0736
+      },
+      "18": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.99,
+        "totalAssets": 0.2294,
+        "currentShares": 1538040,
+        "change": -9864,
+        "change_p": -0.6372
+      },
+      "19": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 0.934,
+        "totalAssets": 0.2722,
+        "currentShares": 1451122,
+        "change": 968245,
+        "change_p": 200.5159
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8624,
+        "totalAssets": 0.2142,
+        "currentShares": 4447191,
+        "change": 29905,
+        "change_p": 0.677
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3645,
+        "totalAssets": 0.2483,
+        "currentShares": 3673541,
+        "change": -38654,
+        "change_p": -1.0413
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1937,
+        "totalAssets": 0.2477,
+        "currentShares": 1854569,
+        "change": -1008,
+        "change_p": -0.0543
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1819,
+        "totalAssets": 0.2606,
+        "currentShares": 1836276,
+        "change": 3026,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "Capital Group Wash Mutual Invtrs Comp",
+        "date": "2025-12-31",
+        "totalShares": 1.1601,
+        "totalAssets": 0.9265,
+        "currentShares": 1802321,
+        "change": -1052931,
+        "change_p": -36.877
+      },
+      "5": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0761,
+        "totalAssets": 0.2473,
+        "currentShares": 1671912,
+        "change": -4116,
+        "change_p": -0.2456
+      },
+      "6": {
+        "name": "American Funds Washington Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.9953,
+        "totalAssets": 0.7458,
+        "currentShares": 1546315,
+        "change": -256006,
+        "change_p": -14.2042
+      },
+      "7": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8327,
+        "totalAssets": 0.5513,
+        "currentShares": 1293775,
+        "change": -7447,
+        "change_p": -0.5723
+      },
+      "8": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.6726,
+        "totalAssets": 0.6058,
+        "currentShares": 1044999,
+        "change": 445807,
+        "change_p": 74.4014
+      },
+      "9": {
+        "name": "State Street®FinSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.635,
+        "totalAssets": 1.9658,
+        "currentShares": 986495,
+        "change": 1683,
+        "change_p": 0.1709
+      },
+      "10": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5309,
+        "totalAssets": 0.7257,
+        "currentShares": 824765,
+        "change": 162332,
+        "change_p": 24.5054
+      },
+      "11": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5232,
+        "totalAssets": 0.2477,
+        "currentShares": 812909,
+        "change": -4534,
+        "change_p": -0.5547
+      },
+      "12": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.52,
+        "totalAssets": 0.6619,
+        "currentShares": 807899,
+        "change": 12745,
+        "change_p": 1.6028
+      },
+      "13": {
+        "name": "MFS Large Cap Value Equity",
+        "date": "2025-12-31",
+        "totalShares": 0.5084,
+        "totalAssets": 1.5401,
+        "currentShares": 789881,
+        "change": -32279,
+        "change_p": -3.9261
+      },
+      "14": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.5009,
+        "totalAssets": 0.6945,
+        "currentShares": 778149,
+        "change": 778149,
+        "change_p": 0
+      },
+      "15": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4958,
+        "totalAssets": 0.2452,
+        "currentShares": 770245,
+        "change": 1070,
+        "change_p": 0.1391
+      },
+      "16": {
+        "name": "MFS Value A",
+        "date": "2026-02-28",
+        "totalShares": 0.4882,
+        "totalAssets": 1.4414,
+        "currentShares": 758464,
+        "change": -19693,
+        "change_p": -2.5307
+      },
+      "17": {
+        "name": "Capital Group Growth Fnd of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4561,
+        "totalAssets": 0.2258,
+        "currentShares": 708642,
+        "change": -513447,
+        "change_p": -42.0139
+      },
+      "18": {
+        "name": "Capital Group American Mutual Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.4264,
+        "totalAssets": 0.6358,
+        "currentShares": 662433,
+        "change": 0,
+        "change_p": 0
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4195,
+        "totalAssets": 0.2474,
+        "currentShares": 651708,
+        "change": 3737,
+        "change_p": 0.5767
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 26.315,
+    "ForwardPE": 19.802,
+    "PriceSalesTTM": 6.3325,
+    "PriceBookMRQ": 2.9286,
+    "EnterpriseValue": 163090727476,
+    "EnterpriseValueRevenue": 6.4128,
+    "EnterpriseValueEbitda": 17.3065
+  },
+  "Highlights": {
+    "MarketCapitalization": 162351710208,
+    "MarketCapitalizationMln": 162351.7102,
+    "EBITDA": 10242499584,
+    "PERatio": 26.315,
+    "PEGRatio": 1.337,
+    "WallStreetTargetPrice": 1255,
+    "BookValue": 360.407,
+    "DividendShare": 21.36,
+    "DividendYield": 0.0203,
+    "EarningsShare": 39.71,
+    "EPSEstimateCurrentYear": 53.1024,
+    "EPSEstimateNextYear": 60.6581,
+    "EPSEstimateNextQuarter": 12.4907,
+    "EPSEstimateCurrentQuarter": 11.4803,
+    "MostRecentQuarter": "2026-03-31",
+    "ProfitMargin": 0.244,
+    "OperatingMarginTTM": 0.3564,
+    "ReturnOnAssetsTTM": 0.0347,
+    "ReturnOnEquityTTM": 0.1072,
+    "RevenueTTM": 25638000640,
+    "RevenuePerShareTTM": 165.343,
+    "QuarterlyRevenueGrowthYOY": 0.27,
+    "GrossProfitTTM": 12021999616,
+    "DilutedEpsTTM": 39.71,
+    "QuarterlyEarningsGrowthYOY": 0.459
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 22.4,
+    "TotalEsgPercentile": 34.02,
+    "EnvironmentScore": 1.97,
+    "EnvironmentScorePercentile": 4,
+    "SocialScore": 10.38,
+    "SocialScorePercentile": 4,
+    "GovernanceScore": 12.06,
+    "GovernanceScorePercentile": 4,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BLK",
+    "Type": "Common Stock",
+    "Name": "BlackRock Inc",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG01PSW2WN4",
+    "ISIN": "US09290D1019",
+    "LEI": null,
+    "PrimaryTicker": "BLK.US",
+    "CUSIP": "09247X101",
+    "CIK": "0001364742",
+    "EmployerIdNumber": "32-0174431",
+    "FiscalYearEnd": "December",
+    "IPODate": "1999-10-01",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "GicSector": "Financials",
+    "GicGroup": "Financial Services",
+    "GicIndustry": "Capital Markets",
+    "GicSubIndustry": "Asset Management & Custody Banks",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "BlackRock, Inc. is a publicly owned investment manager. The firm primarily provides its services to institutional, intermediary, and individual investors including corporate, public, union, and industry pension plans, insurance companies, third-party mutual funds, endowments, public institutions, governments, foundations, charities, sovereign wealth funds, corporations, official institutions, and banks. It also provides global risk management and advisory services. The firm manages separate client-focused equity, fixed income, and balanced portfolios. It also launches and manages open-end and closed-end mutual funds, offshore funds, unit trusts, and alternative investment vehicles including structured funds. The firm launches equity, fixed income, balanced, and real estate mutual funds. It also launches equity, fixed income, balanced, currency, commodity, and multi-asset exchange traded funds. The firm also launches and manages hedge funds. It invests in the public equity, fixed income, real estate, currency, commodity, and alternative markets across the globe. The firm primarily invests in growth and value stocks of small-cap, mid-cap, SMID-cap, large-cap, and multi-cap companies. It also invests in dividend-paying equity securities. The firm invests in investment grade municipal securities, government securities including securities issued or guaranteed by a government or a government agency or instrumentality, corporate bonds, and asset-backed and mortgage-backed securities. It employs fundamental and quantitative analysis with a focus on bottom-up and top-down approach to make its investments. The firm employs liquidity, asset allocation, balanced, real estate, and alternative strategies to make its investments. In real estate sector, it seeks to invest in Poland and Germany. The firm benchmarks the performance of its portfolios against various S&P, Russell, Barclays, MSCI, Citigroup, and Merrill Lynch indices. BlackRock, Inc. was founded in 1988 and is based in New York, New York with additional offices in A",
+    "Address": "50 Hudson Yards, New York, NY, United States, 10001",
+    "AddressData": {
+      "Street": "50 Hudson Yards",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10001"
+    },
+    "Listings": {
+      "0": {
+        "Code": "BLAK34",
+        "Exchange": "SA",
+        "Name": "BlackRock Inc"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Laurence Douglas Fink",
+        "Title": "Founder, CEO & Chairman",
+        "YearBorn": "1952"
+      },
+      "1": {
+        "Name": "Mr. Robert Steven Kapito",
+        "Title": "President & Member of Board of Directors",
+        "YearBorn": "1956"
+      },
+      "2": {
+        "Name": "Mr. Martin S. Small",
+        "Title": "Senior MD, CFO & Global Head of Corporate Strategy",
+        "YearBorn": "1976"
+      },
+      "3": {
+        "Name": "Mr. Robert Lawrence Goldstein",
+        "Title": "Senior MD & COO",
+        "YearBorn": "1974"
+      },
+      "4": {
+        "Name": "Mr. Adebayo O. Ogunlesi J.D.",
+        "Title": "Chairman & CEO Global Infrastructure Partners, Senior MD & Member of Board of Director",
+        "YearBorn": "1954"
+      },
+      "5": {
+        "Name": "Dr. Bennett W. Golub Ph.D.",
+        "Title": "Co-Founder",
+        "YearBorn": "1958"
+      },
+      "6": {
+        "Name": "Mr. Mark  McKenna",
+        "Title": "Founder, MD, Global Head of Event Driven Equity Strategies & Portfolio Manager",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. Marc David Comerchero CPA",
+        "Title": "MD & Chief Accounting Officer",
+        "YearBorn": "1973"
+      },
+      "8": {
+        "Name": "Mr. Pablo A. Goldberg",
+        "Title": "MD, Head of Research, Portfolio Manager & Senior Strategist",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Derek N. Stein",
+        "Title": "Senior MD and Global Head of Technology & Operations",
+        "YearBorn": "1962"
+      }
+    },
+    "Phone": "212 810 5300",
+    "WebURL": "https://www.blackrock.com",
+    "LogoURL": "/img/logos/US/blk.png",
+    "FullTimeEmployees": 24900,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 155364965,
+    "SharesFloat": 144281130,
+    "PercentInsiders": 1.9480000000000002,
+    "PercentInstitutions": 82.922,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0126
+  }
+}

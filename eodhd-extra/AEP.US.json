@@ -1,0 +1,586 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 9.6579,
+        "totalAssets": 0.0878,
+        "currentShares": 52496895,
+        "change": 828588,
+        "change_p": 1.6037
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 8.4423,
+        "totalAssets": 0.0904,
+        "currentShares": 45889073,
+        "change": 1022854,
+        "change_p": 2.2798
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 5.321,
+        "totalAssets": 0.1128,
+        "currentShares": 28922911,
+        "change": 406445,
+        "change_p": 1.4253
+      },
+      "3": {
+        "name": "GQG Partners LLC",
+        "date": "2025-12-31",
+        "totalShares": 3.1096,
+        "totalAssets": 3.2101,
+        "currentShares": 16902872,
+        "change": -2006111,
+        "change_p": -10.6093
+      },
+      "4": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 2.6932,
+        "totalAssets": 0.2958,
+        "currentShares": 14639127,
+        "change": -1958760,
+        "change_p": -11.8013
+      },
+      "5": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 2.6473,
+        "totalAssets": 0.098,
+        "currentShares": 14389979,
+        "change": 355708,
+        "change_p": 2.5346
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5432,
+        "totalAssets": 0.098,
+        "currentShares": 13823744,
+        "change": 83285,
+        "change_p": 0.6061
+      },
+      "7": {
+        "name": "Barclays PLC",
+        "date": "2025-09-30",
+        "totalShares": 1.9444,
+        "totalAssets": 0.2578,
+        "currentShares": 10568934,
+        "change": 3732241,
+        "change_p": 54.5913
+      },
+      "8": {
+        "name": "Dodge & Cox",
+        "date": "2025-12-31",
+        "totalShares": 1.7188,
+        "totalAssets": 0.5815,
+        "currentShares": 9342540,
+        "change": -180976,
+        "change_p": -1.9003
+      },
+      "9": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.3568,
+        "totalAssets": 0.1307,
+        "currentShares": 7375217,
+        "change": -426994,
+        "change_p": -5.4727
+      },
+      "10": {
+        "name": "Royal Bank of Canada",
+        "date": "2025-09-30",
+        "totalShares": 1.2695,
+        "totalAssets": 0.1272,
+        "currentShares": 6900403,
+        "change": -6004179,
+        "change_p": -46.5275
+      },
+      "11": {
+        "name": "Victory Capital Management Inc.",
+        "date": "2025-12-31",
+        "totalShares": 1.1621,
+        "totalAssets": 0.4111,
+        "currentShares": 6316688,
+        "change": 937346,
+        "change_p": 17.4249
+      },
+      "12": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.1194,
+        "totalAssets": 0.1573,
+        "currentShares": 6084813,
+        "change": 1285279,
+        "change_p": 26.7792
+      },
+      "13": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.0767,
+        "totalAssets": 0.0447,
+        "currentShares": 5852444,
+        "change": 417630,
+        "change_p": 7.6843
+      },
+      "14": {
+        "name": "Nuveen, LLC",
+        "date": "2025-12-31",
+        "totalShares": 1.0628,
+        "totalAssets": 0.1744,
+        "currentShares": 5776865,
+        "change": 139590,
+        "change_p": 2.4762
+      },
+      "15": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 1.0266,
+        "totalAssets": 0.0188,
+        "currentShares": 5580302,
+        "change": 2875412,
+        "change_p": 106.3042
+      },
+      "16": {
+        "name": "AllianceBernstein L.P.",
+        "date": "2025-09-30",
+        "totalShares": 0.961,
+        "totalAssets": 0.1851,
+        "currentShares": 5223848,
+        "change": 388540,
+        "change_p": 8.0355
+      },
+      "17": {
+        "name": "Legal & General Group PLC",
+        "date": "2025-12-31",
+        "totalShares": 0.9141,
+        "totalAssets": 0.1271,
+        "currentShares": 4968721,
+        "change": -160747,
+        "change_p": -3.1338
+      },
+      "18": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9026,
+        "totalAssets": 0.0288,
+        "currentShares": 4906128,
+        "change": 1054427,
+        "change_p": 27.3756
+      },
+      "19": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.8735,
+        "totalAssets": 0.0683,
+        "currentShares": 4747885,
+        "change": -7792,
+        "change_p": -0.1638
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 3.1604,
+        "totalAssets": 0.1128,
+        "currentShares": 17178720,
+        "change": 286829,
+        "change_p": 1.698
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.534,
+        "totalAssets": 0.1269,
+        "currentShares": 13774003,
+        "change": 5903,
+        "change_p": 0.0429
+      },
+      "2": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 2.0883,
+        "totalAssets": 0.401,
+        "currentShares": 11351421,
+        "change": -37969,
+        "change_p": -0.3334
+      },
+      "3": {
+        "name": "State Street®UtilSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.6951,
+        "totalAssets": 4.973,
+        "currentShares": 9214101,
+        "change": -7866,
+        "change_p": -0.0853
+      },
+      "4": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.2789,
+        "totalAssets": 0.1265,
+        "currentShares": 6951865,
+        "change": -3780,
+        "change_p": -0.0543
+      },
+      "5": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.2532,
+        "totalAssets": 0.1217,
+        "currentShares": 6811929,
+        "change": 11228,
+        "change_p": 0.1651
+      },
+      "6": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1539,
+        "totalAssets": 0.1264,
+        "currentShares": 6272101,
+        "change": -15435,
+        "change_p": -0.2455
+      },
+      "7": {
+        "name": "Dodge & Cox Stock I",
+        "date": "2025-12-31",
+        "totalShares": 1.05,
+        "totalAssets": 0.5499,
+        "currentShares": 5707400,
+        "change": -192600,
+        "change_p": -3.2644
+      },
+      "8": {
+        "name": "Vanguard Equity-Income Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.977,
+        "totalAssets": 0.9795,
+        "currentShares": 5310450,
+        "change": -79536,
+        "change_p": -1.4756
+      },
+      "9": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.9196,
+        "totalAssets": 0.2903,
+        "currentShares": 4998770,
+        "change": 26274,
+        "change_p": 0.5284
+      },
+      "10": {
+        "name": "Vanguard Utilities ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6769,
+        "totalAssets": 4.4469,
+        "currentShares": 3679137,
+        "change": 41551,
+        "change_p": 1.1423
+      },
+      "11": {
+        "name": "Allspring Special US Mid Cap Value Eq",
+        "date": "2026-03-31",
+        "totalShares": 0.6079,
+        "totalAssets": 3.3702,
+        "currentShares": 3304300,
+        "change": -138600,
+        "change_p": -4.0257
+      },
+      "12": {
+        "name": "Allspring Mid Value SMA",
+        "date": "2026-03-31",
+        "totalShares": 0.6079,
+        "totalAssets": 3.3702,
+        "currentShares": 3304300,
+        "change": -138600,
+        "change_p": -4.0257
+      },
+      "13": {
+        "name": "Allspring Special Mid Cap Value Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.6079,
+        "totalAssets": 3.3758,
+        "currentShares": 3304300,
+        "change": 0,
+        "change_p": 0
+      },
+      "14": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5606,
+        "totalAssets": 0.1266,
+        "currentShares": 3047317,
+        "change": 15936,
+        "change_p": 0.5257
+      },
+      "15": {
+        "name": "Vanguard Dividend Appreciation ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5571,
+        "totalAssets": 0.3382,
+        "currentShares": 3028344,
+        "change": 3028344,
+        "change_p": 0
+      },
+      "16": {
+        "name": "Columbia Dividend Value",
+        "date": "2025-12-31",
+        "totalShares": 0.5341,
+        "totalAssets": 0.7389,
+        "currentShares": 2903180,
+        "change": -49075,
+        "change_p": -1.6623
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.5312,
+        "totalAssets": 0.1253,
+        "currentShares": 2887177,
+        "change": 33800,
+        "change_p": 1.1846
+      },
+      "18": {
+        "name": "Columbia Dividend Income Inst",
+        "date": "2026-03-31",
+        "totalShares": 0.5237,
+        "totalAssets": 0.8206,
+        "currentShares": 2846822,
+        "change": -20368,
+        "change_p": -0.7104
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4494,
+        "totalAssets": 0.1264,
+        "currentShares": 2442900,
+        "change": 39200,
+        "change_p": 1.6308
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 20.2907,
+    "ForwardPE": 21.2766,
+    "PriceSalesTTM": 3.3477,
+    "PriceBookMRQ": 2.358,
+    "EnterpriseValue": 122325307660,
+    "EnterpriseValueRevenue": 5.6005,
+    "EnterpriseValueEbitda": 13.2607
+  },
+  "Highlights": {
+    "MarketCapitalization": 73234300928,
+    "MarketCapitalizationMln": 73234.3009,
+    "EBITDA": 8956999680,
+    "PERatio": 20.2907,
+    "PEGRatio": 2.8363,
+    "WallStreetTargetPrice": 141.381,
+    "BookValue": 57.571,
+    "DividendShare": 3.74,
+    "DividendYield": 0.0277,
+    "EarningsShare": 6.64,
+    "EPSEstimateCurrentYear": 6.3658,
+    "EPSEstimateNextYear": 6.8758,
+    "EPSEstimateNextQuarter": 1.5824,
+    "EPSEstimateCurrentQuarter": 1.1406,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1636,
+    "OperatingMarginTTM": 0.2284,
+    "ReturnOnAssetsTTM": 0.0317,
+    "ReturnOnEquityTTM": 0.1249,
+    "RevenueTTM": 21876000768,
+    "RevenuePerShareTTM": 40.925,
+    "QuarterlyRevenueGrowthYOY": 0.132,
+    "GrossProfitTTM": 10396000256,
+    "DilutedEpsTTM": 6.64,
+    "QuarterlyEarningsGrowthYOY": -0.126
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 33.5,
+    "TotalEsgPercentile": 72.84,
+    "EnvironmentScore": 18.83,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 9.53,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 4.15,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "Yes"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "Yes"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "AEP",
+    "Type": "Common Stock",
+    "Name": "American Electric Power Co Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BB9KF2",
+    "ISIN": "US0255371017",
+    "LEI": "1B4S6S7G0TW5EE83BO58",
+    "PrimaryTicker": "AEP.US",
+    "CUSIP": "025537101",
+    "CIK": "0000004904",
+    "EmployerIdNumber": "13-4922640",
+    "FiscalYearEnd": "December",
+    "IPODate": "1970-01-02",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Regulated Electric",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "HomeCategory": "Domestic Primary",
+    "IsDelisted": false,
+    "Description": "American Electric Power Company, Inc., an electric public utility holding company, engages in the generation, transmission, and distribution of electricity for sale to retail and wholesale customers in the United States. It operates through Vertically Integrated Utilities, Transmission and Distribution Utilities, AEP Transmission Holdco, and Generation & Marketing segments. The company generates electricity using coal and lignite, nuclear, natural gas, renewable, hydro, solar, wind, and other energy sources; owns, operates, maintains, and invests in transmission infrastructure; and engages in the retail supply, and wholesale energy trading and marketing businesses. It operates approximately 252,000 circuit miles of distribution lines; 38,000 circuit miles of transmission lines; and 25,000 MWs of regulated owned generating capacity. American Electric Power Company, Inc. was incorporated in 1906 and is headquartered in Columbus, Ohio.",
+    "Address": "1 Riverside Plaza, Columbus, OH, United States, 43215-2373",
+    "AddressData": {
+      "Street": "1 Riverside Plaza",
+      "City": "Columbus",
+      "State": "OH",
+      "Country": "United States",
+      "ZIP": "43215-2373"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. William J. Fehrman",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Trevor Ian Mihalik CPA",
+        "Title": "Executive VP & CFO",
+        "YearBorn": "1967"
+      },
+      "2": {
+        "Name": "Mr. Robert B. Berntsen",
+        "Title": "Executive VP, General Counsel & Secretary",
+        "YearBorn": "1970"
+      },
+      "3": {
+        "Name": "Ms. Alicia R. Knapp",
+        "Title": "President of Nuclear Development",
+        "YearBorn": "1979"
+      },
+      "4": {
+        "Name": "Mr. Douglas A. Cannon",
+        "Title": "President of AEP Transmission",
+        "YearBorn": "1976"
+      },
+      "5": {
+        "Name": "Ms. Kate  Dixon",
+        "Title": "Senior VP, Controller & Chief Accounting Officer",
+        "YearBorn": "1986"
+      },
+      "6": {
+        "Name": "Mr. Johannes G. Eckert",
+        "Title": "Executive VP and Chief Information & Technology Officer",
+        "YearBorn": "1968"
+      },
+      "7": {
+        "Name": "Ms. Darcy  Reese",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Mr. Chris  Brathwaite",
+        "Title": "VP & Chief Communications Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Phillip R. Ulrich",
+        "Title": "Executive VP & Chief Human Resources Officer",
+        "YearBorn": "1972"
+      }
+    },
+    "Phone": "614 716 1000",
+    "WebURL": "https://www.aep.com",
+    "LogoURL": "/img/logos/US/aep.png",
+    "FullTimeEmployees": 17581,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 543563480,
+    "SharesFloat": 540066407,
+    "PercentInsiders": 0.02,
+    "PercentInstitutions": 85.013,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0353
+  }
+}

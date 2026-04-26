@@ -1,0 +1,592 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.5578,
+        "totalAssets": 0.126,
+        "currentShares": 99283317,
+        "change": 580678,
+        "change_p": 0.5883
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6882,
+        "totalAssets": 0.0948,
+        "currentShares": 66042571,
+        "change": 2601763,
+        "change_p": 4.1011
+      },
+      "2": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 4.3083,
+        "totalAssets": 0.1053,
+        "currentShares": 37008856,
+        "change": 439883,
+        "change_p": 1.2029
+      },
+      "3": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 3.4809,
+        "totalAssets": 0.0735,
+        "currentShares": 29901638,
+        "change": 17580711,
+        "change_p": 142.6898
+      },
+      "4": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.3762,
+        "totalAssets": 0.1099,
+        "currentShares": 20411824,
+        "change": 517067,
+        "change_p": 2.599
+      },
+      "5": {
+        "name": "Bank of America Corp",
+        "date": "2025-09-30",
+        "totalShares": 2.3698,
+        "totalAssets": 0.1133,
+        "currentShares": 20356606,
+        "change": -447800,
+        "change_p": -2.1524
+      },
+      "6": {
+        "name": "Capital Research Global Investors",
+        "date": "2025-12-31",
+        "totalShares": 1.9663,
+        "totalAssets": 0.273,
+        "currentShares": 16890802,
+        "change": 5831873,
+        "change_p": 52.7345
+      },
+      "7": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.7926,
+        "totalAssets": 0.0765,
+        "currentShares": 15398855,
+        "change": 566452,
+        "change_p": 3.819
+      },
+      "8": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.6822,
+        "totalAssets": 0.0645,
+        "currentShares": 14450509,
+        "change": 6898165,
+        "change_p": 91.3381
+      },
+      "9": {
+        "name": "State Farm Mutual Automobile Ins Co",
+        "date": "2025-12-31",
+        "totalShares": 1.6204,
+        "totalAssets": 0.9573,
+        "currentShares": 13919847,
+        "change": 0,
+        "change_p": 0
+      },
+      "10": {
+        "name": "Wellington Management Company LLP",
+        "date": "2025-12-31",
+        "totalShares": 1.4636,
+        "totalAssets": 0.1929,
+        "currentShares": 12572185,
+        "change": -3985304,
+        "change_p": -24.0695
+      },
+      "11": {
+        "name": "Ameriprise Financial Inc",
+        "date": "2025-09-30",
+        "totalShares": 1.2349,
+        "totalAssets": 0.2011,
+        "currentShares": 10608127,
+        "change": -3155021,
+        "change_p": -22.9237
+      },
+      "12": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 1.2251,
+        "totalAssets": 0.0986,
+        "currentShares": 10523469,
+        "change": 351658,
+        "change_p": 3.4572
+      },
+      "13": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 1.1394,
+        "totalAssets": 0.1027,
+        "currentShares": 9787781,
+        "change": -604052,
+        "change_p": -5.8128
+      },
+      "14": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 1.0808,
+        "totalAssets": 0.0815,
+        "currentShares": 9284156,
+        "change": -1553920,
+        "change_p": -14.3376
+      },
+      "15": {
+        "name": "WCM Investment Management",
+        "date": "2025-12-31",
+        "totalShares": 0.9575,
+        "totalAssets": 1.5048,
+        "currentShares": 8224770,
+        "change": -209459,
+        "change_p": -2.4834
+      },
+      "16": {
+        "name": "Dimensional Fund Advisors, Inc.",
+        "date": "2025-12-31",
+        "totalShares": 0.7113,
+        "totalAssets": 0.1123,
+        "currentShares": 6110225,
+        "change": -1523907,
+        "change_p": -19.9618
+      },
+      "17": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6787,
+        "totalAssets": 0.0626,
+        "currentShares": 5830152,
+        "change": 925233,
+        "change_p": 18.8634
+      },
+      "18": {
+        "name": "London Company of Virginia",
+        "date": "2025-12-31",
+        "totalShares": 0.6779,
+        "totalAssets": 2.9418,
+        "currentShares": 5823446,
+        "change": -131933,
+        "change_p": -2.2154
+      },
+      "19": {
+        "name": "Bank of New York Mellon Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.676,
+        "totalAssets": 0.0855,
+        "currentShares": 5807173,
+        "change": -302292,
+        "change_p": -4.9479
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.8552,
+        "totalAssets": 0.167,
+        "currentShares": 24526939,
+        "change": 122869,
+        "change_p": 0.5035
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3144,
+        "totalAssets": 0.19,
+        "currentShares": 19881384,
+        "change": -184087,
+        "change_p": -0.9174
+      },
+      "2": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1682,
+        "totalAssets": 0.1895,
+        "currentShares": 10035388,
+        "change": -5460,
+        "change_p": -0.0544
+      },
+      "3": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1559,
+        "totalAssets": 0.1993,
+        "currentShares": 9928992,
+        "change": 16367,
+        "change_p": 0.1651
+      },
+      "4": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0558,
+        "totalAssets": 0.1897,
+        "currentShares": 9069461,
+        "change": -22246,
+        "change_p": -0.2447
+      },
+      "5": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 0.9709,
+        "totalAssets": 0.5707,
+        "currentShares": 8340237,
+        "change": -8431004,
+        "change_p": -50.2706
+      },
+      "6": {
+        "name": "Vanguard Value Index Inv",
+        "date": "2026-03-31",
+        "totalShares": 0.8308,
+        "totalAssets": 0.4299,
+        "currentShares": 7136538,
+        "change": -56935,
+        "change_p": -0.7915
+      },
+      "7": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6819,
+        "totalAssets": 0.9447,
+        "currentShares": 5857802,
+        "change": 15549,
+        "change_p": 0.2661
+      },
+      "8": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6789,
+        "totalAssets": 0.6516,
+        "currentShares": 5831830,
+        "change": -6631,
+        "change_p": -0.1136
+      },
+      "9": {
+        "name": "American Funds Invmt Co of Amer A",
+        "date": "2026-03-31",
+        "totalShares": 0.6647,
+        "totalAssets": 0.468,
+        "currentShares": 5709991,
+        "change": 709991,
+        "change_p": 14.1998
+      },
+      "10": {
+        "name": "Capital Group Investment Co of Amer Comp",
+        "date": "2025-12-31",
+        "totalShares": 0.5821,
+        "totalAssets": 0.2488,
+        "currentShares": 5000000,
+        "change": 2436802,
+        "change_p": 95.0688
+      },
+      "11": {
+        "name": "American Funds American Mutual A",
+        "date": "2026-03-31",
+        "totalShares": 0.5821,
+        "totalAssets": 0.622,
+        "currentShares": 5000000,
+        "change": 1810607,
+        "change_p": 56.7696
+      },
+      "12": {
+        "name": "JPMorgan Equity Income I",
+        "date": "2026-02-28",
+        "totalShares": 0.5573,
+        "totalAssets": 1.6367,
+        "currentShares": 4787315,
+        "change": -902948,
+        "change_p": -15.8683
+      },
+      "13": {
+        "name": "Fidelity Growth Compy Commingled Pl S",
+        "date": "2026-02-28",
+        "totalShares": 0.5497,
+        "totalAssets": 0.6528,
+        "currentShares": 4721625,
+        "change": 458500,
+        "change_p": 10.755
+      },
+      "14": {
+        "name": "JPM US Equity Income-Composite",
+        "date": "2026-03-31",
+        "totalShares": 0.5155,
+        "totalAssets": 1.4605,
+        "currentShares": 4428168,
+        "change": -1312955,
+        "change_p": -22.8693
+      },
+      "15": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5121,
+        "totalAssets": 0.1895,
+        "currentShares": 4398696,
+        "change": -21281,
+        "change_p": -0.4815
+      },
+      "16": {
+        "name": "Vanguard Wellington Inv",
+        "date": "2025-12-31",
+        "totalShares": 0.4917,
+        "totalAssets": 0.3084,
+        "currentShares": 4224028,
+        "change": -5690911,
+        "change_p": -57.3973
+      },
+      "17": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4852,
+        "totalAssets": 0.1876,
+        "currentShares": 4167618,
+        "change": 8600,
+        "change_p": 0.2068
+      },
+      "18": {
+        "name": "Fidelity Growth Company Fund",
+        "date": "2026-02-28",
+        "totalShares": 0.428,
+        "totalAssets": 0.6703,
+        "currentShares": 3676628,
+        "change": 525400,
+        "change_p": 16.6729
+      },
+      "19": {
+        "name": "Vanguard Institutional 500 Index Trust",
+        "date": "2026-03-31",
+        "totalShares": 0.4105,
+        "totalAssets": 0.1893,
+        "currentShares": 3526310,
+        "change": 22665,
+        "change_p": 0.6469
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 92.5737,
+    "ForwardPE": 54.6448,
+    "PriceSalesTTM": 9.6674,
+    "PriceBookMRQ": 12.3319,
+    "EnterpriseValue": 153454014871,
+    "EnterpriseValueRevenue": 9.8185,
+    "EnterpriseValueEbitda": 41.0854
+  },
+  "Highlights": {
+    "MarketCapitalization": 151092117504,
+    "MarketCapitalizationMln": 151092.1175,
+    "EBITDA": 3671000064,
+    "PERatio": 92.5737,
+    "PEGRatio": 1.8924,
+    "WallStreetTargetPrice": 142.3572,
+    "BookValue": 13.777,
+    "DividendShare": 1.12,
+    "DividendYield": 0.0066,
+    "EarningsShare": 1.9,
+    "EPSEstimateCurrentYear": 3.1317,
+    "EPSEstimateNextYear": 3.9385,
+    "EPSEstimateNextQuarter": 0.6758,
+    "EPSEstimateCurrentQuarter": 0.7054,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.1021,
+    "OperatingMarginTTM": 0.1656,
+    "ReturnOnAssetsTTM": 0.0495,
+    "ReturnOnEquityTTM": 0.149,
+    "RevenueTTM": 15628999680,
+    "RevenuePerShareTTM": 18.28,
+    "QuarterlyRevenueGrowthYOY": 0.204,
+    "GrossProfitTTM": 5624000000,
+    "DilutedEpsTTM": 1.9,
+    "QuarterlyEarningsGrowthYOY": 0.774
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 24.22,
+    "TotalEsgPercentile": 24.32,
+    "EnvironmentScore": 12.41,
+    "EnvironmentScorePercentile": 5,
+    "SocialScore": 9.2,
+    "SocialScorePercentile": 5,
+    "GovernanceScore": 11.61,
+    "GovernanceScorePercentile": 5,
+    "ControversyLevel": 2,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "Yes"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "GLW",
+    "Type": "Common Stock",
+    "Name": "Corning Incorporated",
+    "Exchange": "NYSE",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG000BKFZM4",
+    "ISIN": "US2193501051",
+    "LEI": "549300X2937PB0CJ7I56",
+    "PrimaryTicker": "GLW.US",
+    "CUSIP": "219319209",
+    "CIK": "0000024741",
+    "EmployerIdNumber": "16-0393470",
+    "FiscalYearEnd": "December",
+    "IPODate": "1981-12-31",
+    "InternationalDomestic": "Domestic",
+    "Sector": "Technology",
+    "Industry": "Electronic Components",
+    "GicSector": "Information Technology",
+    "GicGroup": "Technology Hardware & Equipment",
+    "GicIndustry": "Electronic Equipment, Instruments & Components",
+    "GicSubIndustry": "Electronic Components",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Corning Incorporated operates in optical communications, display, specialty materials, automotive, and life sciences businesses in the United States, Canada, Mexico, Japan, Taiwan, China, South Korea, Germany, and internationally. The company provides optical fibers and cables; and hardware and equipment products, such as cable assemblies, fiber optic hardware and connectors, optical components and couplers, closures, network interface devices, and other accessories for the telecommunications industry, businesses, governments, and individuals. It also offers glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting diodes that are used in televisions, notebook computers, desktop monitors, tablets, and handheld devices. In addition, it manufactures products that offer material formulations for glass, glass ceramics, crystals, precision metrology instruments, and software, as well as glass wafers and substrates, tinted sunglasses, and radiation shielding products for markets, such as mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telecommunications components. Further, the company provides ceramic substrates and filter products for emissions control in mobile, gasoline, and diesel applications, as well as technical glass and optic products and solutions for the interior and exterior of vehicles. Additionally, it offers laboratory products, including plastic vessels, liquid handling plastics, specialty surfaces, cell culture media, and serum, as well as general labware, and glassware and equipment under the Corning, Falcon, PYREX, and Axygen brands. It also offers polysilicon products and pharmaceutical glass tubing and vials. The company was formerly known as Corning Glass Works and changed its name to Corning Incorporated in April 1989. Corning Incorporated was founded in 1851 and is headquartered in Corning, New York.",
+    "Address": "One Riverfront Plaza, Corning, NY, United States, 14831",
+    "AddressData": {
+      "Street": "One Riverfront Plaza",
+      "City": "Corning",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "14831"
+    },
+    "Listings": {
+      "0": {
+        "Code": "GLW",
+        "Exchange": "F",
+        "Name": "Corning Incorporated"
+      }
+    },
+    "Officers": {
+      "0": {
+        "Name": "Mr. Wendell P. Weeks",
+        "Title": "Chairman, President & CEO",
+        "YearBorn": "1960"
+      },
+      "1": {
+        "Name": "Mr. Lewis A. Steverson J.D.",
+        "Title": "Vice Chairman, EVP & Chief Legal and Administrative Officer",
+        "YearBorn": "1964"
+      },
+      "2": {
+        "Name": "Mr. Edward A. Schlesinger",
+        "Title": "Executive Vice President & Chief Financial Officer",
+        "YearBorn": "1968"
+      },
+      "3": {
+        "Name": "Mr. Avery H. Nelson III",
+        "Title": "Executive VP & COO",
+        "YearBorn": "1969"
+      },
+      "4": {
+        "Name": "Mr. John Z. Zhang",
+        "Title": "EVP & Chief Corporate Development Officer",
+        "YearBorn": "1973"
+      },
+      "5": {
+        "Name": "Dr. Jaymin  Amin",
+        "Title": "Senior VP & CTO",
+        "YearBorn": "1969"
+      },
+      "6": {
+        "Name": "Ms. Soumya  Seetharam",
+        "Title": "Senior VP and Chief Digital & Information Officer",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Ms. Ann H. S. Nicholson",
+        "Title": "Vice President of Investor Relations",
+        "YearBorn": "NA"
+      },
+      "8": {
+        "Name": "Kevin G. Corliss",
+        "Title": "VP of Global Employee Relations & Chief Compliance Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Ms. Michelle L. Gullo",
+        "Title": "Senior VP & Chief Human Resources Officer",
+        "YearBorn": "1967"
+      }
+    },
+    "Phone": "607-974-9000",
+    "WebURL": "https://www.corning.com",
+    "LogoURL": "/img/logos/US/GLW.png",
+    "FullTimeEmployees": 67200,
+    "UpdatedAt": "2026-04-24"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 859014837,
+    "SharesFloat": 787004380,
+    "PercentInsiders": 8.166,
+    "PercentInstitutions": 75.36,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0201
+  }
+}

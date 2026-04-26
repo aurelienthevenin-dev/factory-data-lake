@@ -1,0 +1,512 @@
+{
+  "Holders": {
+    "Institutions": {
+      "0": {
+        "name": "Vanguard Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 11.8448,
+        "totalAssets": 0.0826,
+        "currentShares": 41912928,
+        "change": 10701,
+        "change_p": 0.0255
+      },
+      "1": {
+        "name": "BlackRock Inc",
+        "date": "2025-09-30",
+        "totalShares": 7.6955,
+        "totalAssets": 0.0679,
+        "currentShares": 27230765,
+        "change": 6503193,
+        "change_p": 31.3746
+      },
+      "2": {
+        "name": "FMR Inc",
+        "date": "2025-12-31",
+        "totalShares": 5.1438,
+        "totalAssets": 0.1262,
+        "currentShares": 18201356,
+        "change": 1858769,
+        "change_p": 11.3738
+      },
+      "3": {
+        "name": "State Street Corp",
+        "date": "2025-09-30",
+        "totalShares": 3.8809,
+        "totalAssets": 0.0678,
+        "currentShares": 13732777,
+        "change": 7091075,
+        "change_p": 106.7659
+      },
+      "4": {
+        "name": "T. Rowe Price Associates, Inc.",
+        "date": "2025-09-30",
+        "totalShares": 3.8058,
+        "totalAssets": 0.2052,
+        "currentShares": 13466821,
+        "change": 7434591,
+        "change_p": 123.2478
+      },
+      "5": {
+        "name": "JPMorgan Chase & Co",
+        "date": "2025-09-30",
+        "totalShares": 2.9846,
+        "totalAssets": 0.0451,
+        "currentShares": 10561176,
+        "change": 5400376,
+        "change_p": 104.6422
+      },
+      "6": {
+        "name": "Geode Capital Management, LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.5593,
+        "totalAssets": 0.0757,
+        "currentShares": 9056086,
+        "change": 197816,
+        "change_p": 2.2331
+      },
+      "7": {
+        "name": "HHG PLC",
+        "date": "2025-09-30",
+        "totalShares": 2.2832,
+        "totalAssets": 0.5252,
+        "currentShares": 8078980,
+        "change": -280844,
+        "change_p": -3.3594
+      },
+      "8": {
+        "name": "Jennison Associates LLC",
+        "date": "2025-12-31",
+        "totalShares": 2.1546,
+        "totalAssets": 0.6225,
+        "currentShares": 7623993,
+        "change": 2316994,
+        "change_p": 43.6592
+      },
+      "9": {
+        "name": "The Goldman Sachs Group Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.3462,
+        "totalAssets": 0.0795,
+        "currentShares": 4763430,
+        "change": -1350364,
+        "change_p": -22.0872
+      },
+      "10": {
+        "name": "Amvescap Plc.",
+        "date": "2025-09-30",
+        "totalShares": 1.1518,
+        "totalAssets": 0.0914,
+        "currentShares": 4075721,
+        "change": 2216402,
+        "change_p": 119.205
+      },
+      "11": {
+        "name": "Baillie Gifford & Co Limited.",
+        "date": "2025-12-31",
+        "totalShares": 1.1195,
+        "totalAssets": 0.4477,
+        "currentShares": 3961509,
+        "change": -7451970,
+        "change_p": -65.291
+      },
+      "12": {
+        "name": "Massachusetts Financial Services Company",
+        "date": "2025-12-31",
+        "totalShares": 1.0816,
+        "totalAssets": 0.1678,
+        "currentShares": 3827106,
+        "change": -462464,
+        "change_p": -10.7811
+      },
+      "13": {
+        "name": "American Century Companies Inc",
+        "date": "2025-12-31",
+        "totalShares": 1.0312,
+        "totalAssets": 0.2494,
+        "currentShares": 3648860,
+        "change": -54796,
+        "change_p": -1.4795
+      },
+      "14": {
+        "name": "Morgan Stanley - Brokerage Accounts",
+        "date": "2025-09-30",
+        "totalShares": 1.024,
+        "totalAssets": 0.0312,
+        "currentShares": 3623383,
+        "change": 710675,
+        "change_p": 24.3991
+      },
+      "15": {
+        "name": "Brown Advisory Holdings Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.9778,
+        "totalAssets": 0.6565,
+        "currentShares": 3460038,
+        "change": -1312736,
+        "change_p": -27.5047
+      },
+      "16": {
+        "name": "NORGES BANK",
+        "date": "2025-12-31",
+        "totalShares": 0.9756,
+        "totalAssets": 0.0502,
+        "currentShares": 3452172,
+        "change": 863561,
+        "change_p": 33.36
+      },
+      "17": {
+        "name": "Northern Trust Corp",
+        "date": "2025-09-30",
+        "totalShares": 0.7651,
+        "totalAssets": 0.0493,
+        "currentShares": 2707291,
+        "change": 840633,
+        "change_p": 45.0341
+      },
+      "18": {
+        "name": "Charles Schwab Investment Management Inc",
+        "date": "2025-12-31",
+        "totalShares": 0.6759,
+        "totalAssets": 0.0505,
+        "currentShares": 2391601,
+        "change": 80781,
+        "change_p": 3.4958
+      },
+      "19": {
+        "name": "Amundi",
+        "date": "2025-12-31",
+        "totalShares": 0.6669,
+        "totalAssets": 0.0872,
+        "currentShares": 2359682,
+        "change": 979295,
+        "change_p": 70.9435
+      }
+    },
+    "Funds": {
+      "0": {
+        "name": "Vanguard Total Stock Mkt Idx Inv",
+        "date": "2026-03-31",
+        "totalShares": 2.9473,
+        "totalAssets": 0.0617,
+        "currentShares": 10429045,
+        "change": 131171,
+        "change_p": 1.2738
+      },
+      "1": {
+        "name": "Vanguard 500 Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 2.3627,
+        "totalAssets": 0.0694,
+        "currentShares": 8360396,
+        "change": -10475,
+        "change_p": -0.1251
+      },
+      "2": {
+        "name": "Vanguard Mid Cap Index Institutional",
+        "date": "2026-03-31",
+        "totalShares": 2.0041,
+        "totalAssets": 0.4213,
+        "currentShares": 7091623,
+        "change": 18110,
+        "change_p": 0.256
+      },
+      "3": {
+        "name": "Invesco QQQ Trust",
+        "date": "2026-03-31",
+        "totalShares": 1.9483,
+        "totalAssets": 0.2193,
+        "currentShares": 6894133,
+        "change": -23048,
+        "change_p": -0.3332
+      },
+      "4": {
+        "name": "Fidelity Select Technology",
+        "date": "2026-02-28",
+        "totalShares": 1.2399,
+        "totalAssets": 1.7976,
+        "currentShares": 4387471,
+        "change": -463900,
+        "change_p": -9.5622
+      },
+      "5": {
+        "name": "iShares Core S&P 500 ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.1924,
+        "totalAssets": 0.0692,
+        "currentShares": 4219191,
+        "change": -2292,
+        "change_p": -0.0543
+      },
+      "6": {
+        "name": "Fidelity 500 Index",
+        "date": "2026-02-28",
+        "totalShares": 1.1705,
+        "totalAssets": 0.0619,
+        "currentShares": 4141671,
+        "change": 6828,
+        "change_p": 0.1651
+      },
+      "7": {
+        "name": "Vanguard Growth Index Investor",
+        "date": "2026-03-31",
+        "totalShares": 1.0981,
+        "totalAssets": 0.1443,
+        "currentShares": 3885781,
+        "change": 4289,
+        "change_p": 0.1105
+      },
+      "8": {
+        "name": "State Street® SPDR® S&P 500® ETF",
+        "date": "2026-03-31",
+        "totalShares": 1.0786,
+        "totalAssets": 0.0693,
+        "currentShares": 3816789,
+        "change": -9359,
+        "change_p": -0.2446
+      },
+      "9": {
+        "name": "Janus Concentrated Growth CF",
+        "date": "2025-12-31",
+        "totalShares": 0.9365,
+        "totalAssets": 1.8834,
+        "currentShares": 3313806,
+        "change": -930440,
+        "change_p": -21.9224
+      },
+      "10": {
+        "name": "Janus Henderson Forty S",
+        "date": "2026-01-31",
+        "totalShares": 0.9365,
+        "totalAssets": 1.8502,
+        "currentShares": 3313806,
+        "change": 0,
+        "change_p": 0
+      },
+      "11": {
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.7056,
+        "totalAssets": 1.0088,
+        "currentShares": 2496890,
+        "change": -205272,
+        "change_p": -7.5966
+      },
+      "12": {
+        "name": "State Street®TechSelSectSPDR®ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6961,
+        "totalAssets": 0.3449,
+        "currentShares": 2463024,
+        "change": 6585,
+        "change_p": 0.2681
+      },
+      "13": {
+        "name": "Vanguard Information Technology ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.6921,
+        "totalAssets": 0.2376,
+        "currentShares": 2448880,
+        "change": -2705,
+        "change_p": -0.1103
+      },
+      "14": {
+        "name": "Vanguard US Growth Investor",
+        "date": "2025-12-31",
+        "totalShares": 0.6282,
+        "totalAssets": 0.6256,
+        "currentShares": 2222901,
+        "change": 334711,
+        "change_p": 17.7266
+      },
+      "15": {
+        "name": "iShares Russell Mid-Cap Growth ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.5909,
+        "totalAssets": 1.3255,
+        "currentShares": 2091053,
+        "change": -3595,
+        "change_p": -0.1716
+      },
+      "16": {
+        "name": "Fidelity Select Software & IT Svcs Port",
+        "date": "2026-02-28",
+        "totalShares": 0.5744,
+        "totalAssets": 3.4058,
+        "currentShares": 2032413,
+        "change": 31200,
+        "change_p": 1.5591
+      },
+      "17": {
+        "name": "Vanguard Institutional Index I",
+        "date": "2026-03-31",
+        "totalShares": 0.5227,
+        "totalAssets": 0.0692,
+        "currentShares": 1849540,
+        "change": 7247,
+        "change_p": 0.3934
+      },
+      "18": {
+        "name": "State St S&P 500® Indx SL Cl III",
+        "date": "2026-03-31",
+        "totalShares": 0.4952,
+        "totalAssets": 0.0685,
+        "currentShares": 1752332,
+        "change": 17500,
+        "change_p": 1.0087
+      },
+      "19": {
+        "name": "First Trust NASDAQ Cybersecurity ETF",
+        "date": "2026-03-31",
+        "totalShares": 0.4703,
+        "totalAssets": 2.0705,
+        "currentShares": 1664044,
+        "change": 7150,
+        "change_p": 0.4315
+      }
+    }
+  },
+  "Valuation": {
+    "TrailingPE": 417.6774,
+    "ForwardPE": 60.6061,
+    "PriceSalesTTM": 13.3687,
+    "PriceBookMRQ": 12.276,
+    "EnterpriseValue": 42620839078,
+    "EnterpriseValueRevenue": 12.4362,
+    "EnterpriseValueEbitda": 219.8809
+  },
+  "Highlights": {
+    "MarketCapitalization": 45816668160,
+    "MarketCapitalizationMln": 45816.6682,
+    "EBITDA": 7529000,
+    "PERatio": 417.6774,
+    "PEGRatio": 0.9727,
+    "WallStreetTargetPrice": 177.1056,
+    "BookValue": 10.587,
+    "DividendShare": null,
+    "DividendYield": null,
+    "EarningsShare": 0.31,
+    "EPSEstimateCurrentYear": 2.1619,
+    "EPSEstimateNextYear": 2.6297,
+    "EPSEstimateNextQuarter": 0.5238,
+    "EPSEstimateCurrentQuarter": 0.5549,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0314,
+    "OperatingMarginTTM": 0.01,
+    "ReturnOnAssetsTTM": -0.0043,
+    "ReturnOnEquityTTM": 0.0334,
+    "RevenueTTM": 3427158016,
+    "RevenuePerShareTTM": 9.868,
+    "QuarterlyRevenueGrowthYOY": 0.292,
+    "GrossProfitTTM": 2740896000,
+    "DilutedEpsTTM": 0.31,
+    "QuarterlyEarningsGrowthYOY": -0.033
+  },
+  "ESGScores": "NA",
+  "General": {
+    "Code": "DDOG",
+    "Type": "Common Stock",
+    "Name": "Datadog Inc",
+    "Exchange": "NASDAQ",
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencySymbol": "$",
+    "CountryName": "USA",
+    "CountryISO": "US",
+    "OpenFigi": "BBG003NJHZT9",
+    "ISIN": "US23804L1035",
+    "LEI": "549300F6JNO0KRPO1K63",
+    "PrimaryTicker": "DDOG.US",
+    "CUSIP": "23804L103",
+    "CIK": "0001561550",
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "2019-09-19",
+    "InternationalDomestic": null,
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "HomeCategory": "Domestic",
+    "IsDelisted": false,
+    "Description": "Datadog, Inc. operates an observability and security platform for cloud applications in the United States and internationally. The company's products comprise infrastructure and application performance monitoring, log management, observability pipelines, synthetics, real user monitoring, product analytics, continuous profiler, database monitoring, data observability, LLM observability, error tracking, network monitoring, incident response, workflow automation and App builder, event management, bits AI SRE, cloud cost management, cloud security, code security, cloud SIEM, threat management, sensitive data scanner, and CI visibility. Datadog, Inc. was incorporated in 2010 and is headquartered in New York, New York.",
+    "Address": "620 8th Avenue, New York, NY, United States, 10018",
+    "AddressData": {
+      "Street": "620 8th Avenue",
+      "City": "New York",
+      "State": "NY",
+      "Country": "United States",
+      "ZIP": "10018"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Mr. Olivier  Pomel",
+        "Title": "Co-Founder, CEO & Director",
+        "YearBorn": "1978"
+      },
+      "1": {
+        "Name": "Mr. Alexis  Le-Quoc",
+        "Title": "Co-Founder, CTO & Director",
+        "YearBorn": "1976"
+      },
+      "2": {
+        "Name": "Mr. David M. Obstler",
+        "Title": "Chief Financial Officer",
+        "YearBorn": "1960"
+      },
+      "3": {
+        "Name": "Mr. Adam  Blitzer",
+        "Title": "Chief Operating Officer",
+        "YearBorn": "1982"
+      },
+      "4": {
+        "Name": "Dr. Yanbing  Li Ph.D.",
+        "Title": "Chief Product Officer",
+        "YearBorn": "1972"
+      },
+      "5": {
+        "Name": "Ms. Kerry S. Acocella J.D.",
+        "Title": "General Counsel & Secretary",
+        "YearBorn": "1982"
+      },
+      "6": {
+        "Name": "Ms. Sara  Varni",
+        "Title": "Chief Marketing Officer",
+        "YearBorn": "NA"
+      },
+      "7": {
+        "Name": "Mr. David C. Galloreese",
+        "Title": "Chief People Officer",
+        "YearBorn": "1980"
+      },
+      "8": {
+        "Name": "Mr. Emilio  Escobar",
+        "Title": "Chief Information Security Officer",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Sean Michael Walters",
+        "Title": "Chief Revenue Officer",
+        "YearBorn": "1973"
+      }
+    },
+    "Phone": "866 329 4466",
+    "WebURL": "https://www.datadoghq.com",
+    "LogoURL": "/img/logos/US/DDOG.png",
+    "FullTimeEmployees": 8100,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 328483364,
+    "SharesFloat": 325032838,
+    "PercentInsiders": 0.7250000000000001,
+    "PercentInstitutions": 91.347,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": 0.0447
+  }
+}

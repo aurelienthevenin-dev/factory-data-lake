@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 33.7391,
+    "ForwardPE": 23.4742,
+    "PriceSalesTTM": 0.8052,
+    "PriceBookMRQ": 1.445,
+    "EnterpriseValue": 68415799770,
+    "EnterpriseValueRevenue": 1.1468,
+    "EnterpriseValueEbitda": 9.008
+  },
+  "Highlights": {
+    "MarketCapitalization": 48036548608,
+    "MarketCapitalizationMln": 48036.5486,
+    "EBITDA": 6053000192,
+    "PERatio": 33.7391,
+    "PEGRatio": 0.8216,
+    "WallStreetTargetPrice": 51.6429,
+    "BookValue": 37.536,
+    "DividendShare": 2.25,
+    "DividendYield": 0.0415,
+    "EarningsShare": 1.61,
+    "EPSEstimateCurrentYear": 2.5125,
+    "EPSEstimateNextYear": 3.0049,
+    "EPSEstimateNextQuarter": 0.715,
+    "EPSEstimateCurrentQuarter": 0.395,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0271,
+    "OperatingMarginTTM": -0.0272,
+    "ReturnOnAssetsTTM": 0.0197,
+    "ReturnOnEquityTTM": 0.0433,
+    "RevenueTTM": 59656998912,
+    "RevenuePerShareTTM": 66.899,
+    "QuarterlyRevenueGrowthYOY": -0.056,
+    "GrossProfitTTM": 14129999872,
+    "DilutedEpsTTM": 1.61,
+    "QuarterlyEarningsGrowthYOY": -0.406
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 25.97,
+    "TotalEsgPercentile": 49.58,
+    "EnvironmentScore": 12.73,
+    "EnvironmentScorePercentile": 1,
+    "SocialScore": 7.21,
+    "SocialScorePercentile": 1,
+    "GovernanceScore": 8.03,
+    "GovernanceScorePercentile": 1,
+    "ControversyLevel": 3,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "Yes"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "No"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "Yes"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "BAS",
+    "Type": "Common Stock",
+    "Name": "BASF SE",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE000BASF111",
+    "LEI": "529900PM64WH8AF1E917",
+    "PrimaryTicker": "BAS.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Basic Materials",
+    "Industry": "Chemicals",
+    "GicSector": "Materials",
+    "GicGroup": "Materials",
+    "GicIndustry": "Chemicals",
+    "GicSubIndustry": "Commodity Chemicals",
+    "Description": "BASF SE operates as a chemical company worldwide. It operates through six segments: Chemicals, Materials, Industrial Solutions, Surface Technologies, Nutrition & Care, and Agricultural Solutions. The Chemicals segment provides petrochemicals and intermediates. The Materials segment offers advanced materials and their precursors for applications and systems comprising isocyanates, polyamides, and inorganic basic products, as well as specialties for the plastics and plastics processing industries. The Industrial Solutions segment develops and markets ingredients and additives for industrial applications, such as polymer dispersions, resins, additives, chemical and refining catalysts, electronic materials, and antioxidants for automotive, petrochemical and petroleum processing, plastics and electronics, construction, electronics, paper coatings, and energy and resources industries. The Surface Technologies segment provides catalysts, battery materials, automotive OEM and refinish coatings, surface treatment, and precious and base metal services for the automotive and chemical industries. The Nutrition & Care segment offers ingredients for consumer applications in the areas of nutrition, home, and personal care applications; and serves the food and feed producers, pharmaceutical, cosmetics, detergents, and cleaner industries, as well as the consumer goods sector. The Agricultural Solutions segment provides seeds and traits, and seed treatment products; fungicides, herbicides, insecticides, and biological crop protection products; and digital solutions. The company engages in engineering and other; rental and leasing; and renewable energy trading, commodity trading activities. BASF SE was founded in 1865 and is headquartered in Ludwigshafen am Rhein, Germany.",
+    "Address": "Carl-Bosch-Strasse 38, Ludwigshafen am Rhein, Germany, 67056",
+    "AddressData": {
+      "Street": "Carl-Bosch-Strasse 38",
+      "City": "Ludwigshafen am Rhein",
+      "Country": "Germany",
+      "ZIP": "67056"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Markus  Kamieth",
+        "Title": "CEO & Chairman of the Board of Executive Directors",
+        "YearBorn": "1970"
+      },
+      "1": {
+        "Name": "Dr. Dirk  Elvermann",
+        "Title": "Member of the Board of Executive Directors, CFO & Chief Digital Officer",
+        "YearBorn": "1971"
+      },
+      "2": {
+        "Name": "Mr. Michael  Heinz",
+        "Title": "Member of the Board of Executive Directors",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Anup  Kothari",
+        "Title": "Member of the Board of Executive Director & President of the Nutrition and Health Division",
+        "YearBorn": "1968"
+      },
+      "4": {
+        "Name": "Dr. Stephan  Kothrade",
+        "Title": "CTO & Member of the Board of Executive Directors",
+        "YearBorn": "1967"
+      },
+      "5": {
+        "Name": "Dr. Katja  Scharpwinkel",
+        "Title": "Member of the Board of Executive Director",
+        "YearBorn": "1969"
+      },
+      "6": {
+        "Name": "Mr. Christian-Matthias  Jutzi",
+        "Title": "Senior VP of Mobile Emissions Catalysts & President of Corporate Finance",
+        "YearBorn": "1977"
+      },
+      "7": {
+        "Name": "Dr. Stefanie  Wettberg",
+        "Title": "Senior Vice President of Investor Relations",
+        "YearBorn": "1973"
+      },
+      "8": {
+        "Name": "Ms. Silke  Wischeropp",
+        "Title": "General Counsel & Chief Compliance Officer",
+        "YearBorn": "1980"
+      },
+      "9": {
+        "Name": "Dr. Michael  Stumpp",
+        "Title": "Managing Director of BASF Mexicana",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "49 621 60 0",
+    "WebURL": "https://www.basf.com",
+    "LogoURL": "/img/logos/XETRA/BAS.png",
+    "FullTimeEmployees": 106256,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 884325217,
+    "SharesFloat": 892441673,
+    "PercentInsiders": 0.012,
+    "PercentInstitutions": 35.113,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}

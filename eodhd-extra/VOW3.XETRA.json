@@ -1,0 +1,217 @@
+{
+  "Holders": "NA",
+  "Valuation": {
+    "TrailingPE": 6.5222,
+    "ForwardPE": 3.9401,
+    "PriceSalesTTM": 0.135,
+    "PriceBookMRQ": 0.2308,
+    "EnterpriseValue": 166946726082,
+    "EnterpriseValueRevenue": 0.5186,
+    "EnterpriseValueEbitda": 3.3399
+  },
+  "Highlights": {
+    "MarketCapitalization": 43452272640,
+    "MarketCapitalizationMln": 43452.2726,
+    "EBITDA": 24291999744,
+    "PERatio": 6.5222,
+    "PEGRatio": 0.7164,
+    "WallStreetTargetPrice": 112.7182,
+    "BookValue": 347.105,
+    "DividendShare": 5.26,
+    "DividendYield": 0.0595,
+    "EarningsShare": 13.29,
+    "EPSEstimateCurrentYear": 20.0709,
+    "EPSEstimateNextYear": 25.3244,
+    "EPSEstimateNextQuarter": 6.8336,
+    "EPSEstimateCurrentQuarter": 5.17,
+    "MostRecentQuarter": "2025-12-31",
+    "ProfitMargin": 0.0228,
+    "OperatingMarginTTM": 0.0556,
+    "ReturnOnAssetsTTM": 0.0129,
+    "ReturnOnEquityTTM": 0.0345,
+    "RevenueTTM": 321912995840,
+    "RevenuePerShareTTM": 642.162,
+    "QuarterlyRevenueGrowthYOY": -0.047,
+    "GrossProfitTTM": 45345001472,
+    "DilutedEpsTTM": 13.29,
+    "QuarterlyEarningsGrowthYOY": -0.019
+  },
+  "ESGScores": {
+    "Disclaimer": "The ESG data currently in a very early Beta stage and not intended for any production use. It will be removed from the feed on December 31, 2020.",
+    "RatingDate": "2019-01-01",
+    "TotalEsg": 44.57,
+    "TotalEsgPercentile": 90.54,
+    "EnvironmentScore": 17.65,
+    "EnvironmentScorePercentile": 7,
+    "SocialScore": 14.87,
+    "SocialScorePercentile": 7,
+    "GovernanceScore": 21.54,
+    "GovernanceScorePercentile": 7,
+    "ControversyLevel": 5,
+    "ActivitiesInvolvement": {
+      "0": {
+        "Activity": "adult",
+        "Involvement": "No"
+      },
+      "1": {
+        "Activity": "alcoholic",
+        "Involvement": "No"
+      },
+      "2": {
+        "Activity": "animalTesting",
+        "Involvement": "No"
+      },
+      "3": {
+        "Activity": "catholic",
+        "Involvement": "No"
+      },
+      "4": {
+        "Activity": "controversialWeapons",
+        "Involvement": "No"
+      },
+      "5": {
+        "Activity": "smallArms",
+        "Involvement": "No"
+      },
+      "6": {
+        "Activity": "furLeather",
+        "Involvement": "No"
+      },
+      "7": {
+        "Activity": "gambling",
+        "Involvement": "No"
+      },
+      "8": {
+        "Activity": "gmo",
+        "Involvement": "No"
+      },
+      "9": {
+        "Activity": "militaryContract",
+        "Involvement": "Yes"
+      },
+      "10": {
+        "Activity": "nuclear",
+        "Involvement": "No"
+      },
+      "11": {
+        "Activity": "pesticides",
+        "Involvement": "No"
+      },
+      "12": {
+        "Activity": "palmOil",
+        "Involvement": "No"
+      },
+      "13": {
+        "Activity": "coal",
+        "Involvement": "No"
+      },
+      "14": {
+        "Activity": "tobacco",
+        "Involvement": "No"
+      }
+    }
+  },
+  "General": {
+    "Code": "VOW3",
+    "Type": "Common Stock",
+    "Name": "Volkswagen AG VZO O.N.",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "€",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0007664039",
+    "LEI": "529900NNUPAGGOMPXZ31",
+    "PrimaryTicker": "VOW.XETRA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Consumer Cyclical",
+    "Industry": "Auto Manufacturers",
+    "GicSector": "Consumer Discretionary",
+    "GicGroup": "Automobiles & Components",
+    "GicIndustry": "Automobiles",
+    "GicSubIndustry": "Automobile Manufacturers",
+    "Description": "Volkswagen AG manufactures automobiles and commercial vehicles in Europe, Germany, North America, South America, the Asia-Pacific, and internationally. It operates through three segments: Passenger Cars and Light Commercial Vehicles; Commercial Vehicles; and Financial Services. The Passenger Cars and Light Commercial Vehicles segment develops vehicles, engines and motors, vehicle software, and vehicle batteries; produces and sells passenger cars and light commercial vehicles, and the parts. This segment also offers compact cars, luxury vehicles, and motorcycles, as well as mobility solutions. The Commercial Vehicles segment engages in the development of vehicles, engines, and motors; production and sale of trucks and buses, parts, and related services. The Financial Services segment engages in the dealership and customer financing, leasing, direct banking, and insurance activities; and provision of fleet management, and mobility services. In addition, the company is involved in the large-bore diesel engines, turbomachinery, and propulsion components businesses. It sells its products under the Volkswagen Passenger Cars, \"koda, SEAT/CUPRA, Volkswagen Commercial Vehicles, Audi, Lamborghini, Bentley, Ducati, Porsche, Scania, MAN, Volkswagen Truck & Bus, TRATON, and Bugatti Rimac, and international commercial vehicles brands to individual, corporate, and fleet customers. The company was founded in 1937 and is headquartered in Wolfsburg, Germany. Volkswagen AG operates as a subsidiary of Porsche Automobil Holding SE.",
+    "Address": "Berliner Ring 2, Wolfsburg, Germany, 38440",
+    "AddressData": {
+      "Street": "Berliner Ring 2",
+      "City": "Wolfsburg",
+      "Country": "Germany",
+      "ZIP": "38440"
+    },
+    "Listings": {},
+    "Officers": {
+      "0": {
+        "Name": "Dr. Oliver  Blume Ph.D.",
+        "Title": "CEO & Chairman of the Board of Management",
+        "YearBorn": "1968"
+      },
+      "1": {
+        "Name": "Dr. Arno  Antlitz",
+        "Title": "CFO, COO & Member of the Board of Management",
+        "YearBorn": "1970"
+      },
+      "2": {
+        "Name": "Mr. Thomas Schmall-Reichsgraf von und zu Westerholt",
+        "Title": "Member of the Management Board & Head of Technology",
+        "YearBorn": "1964"
+      },
+      "3": {
+        "Name": "Mr. Thomas  Schafer",
+        "Title": "CEO of the Passenger Cars Brand, CEO & COO of Volkswagen Brand and Member of Management Board",
+        "YearBorn": "1970"
+      },
+      "4": {
+        "Name": "Mr. Ralf  Brandstatter",
+        "Title": "Member of Board of Management",
+        "YearBorn": "1968"
+      },
+      "5": {
+        "Name": "Dr. Manfred  Doss Ph.D.",
+        "Title": "Member of Management Board & Head of Integrity and Legal Affairs",
+        "YearBorn": "1958"
+      },
+      "6": {
+        "Name": "Ms. Hauke  Stars",
+        "Title": "Member of Management Board",
+        "YearBorn": "1967"
+      },
+      "7": {
+        "Name": "Dr. Gernot  Dollner",
+        "Title": "Member of Management Board",
+        "YearBorn": "1969"
+      },
+      "8": {
+        "Name": "Mr. Rolf  Woller",
+        "Title": "Head of Group Treasury & Investor Relations",
+        "YearBorn": "NA"
+      },
+      "9": {
+        "Name": "Mr. Kurt  Michels",
+        "Title": "Group Chief Integrity and Compliance Officer",
+        "YearBorn": "NA"
+      }
+    },
+    "Phone": "49 5361 9 0",
+    "WebURL": "https://www.volkswagen-group.com",
+    "LogoURL": "/img/logos/XETRA/VOW3.png",
+    "FullTimeEmployees": 556958,
+    "UpdatedAt": "2026-04-25"
+  },
+  "SharesStats": {
+    "SharesOutstanding": 206205445,
+    "SharesFloat": 234681377,
+    "PercentInsiders": 0,
+    "PercentInstitutions": 29.012999999999998,
+    "SharesShort": null,
+    "SharesShortPriorMonth": null,
+    "ShortRatio": null,
+    "ShortPercentOutstanding": null,
+    "ShortPercentFloat": null
+  }
+}
