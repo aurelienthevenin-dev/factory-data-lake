@@ -42,8 +42,8 @@
     "operatingMarginTTM": 0.3205,
     "returnOnEquityTTM": 0.0774,
     "netDebtToEbitda": null,
-    "shortInterestPct": null,
-    "daysToCover": null,
+    "shortInterestPct": 0.01,
+    "daysToCover": 0.01,
     "nextEarningsDate": "2026-06-30",
     "daysToEarnings": 67
   },
