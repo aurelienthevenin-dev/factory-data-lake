@@ -1,0 +1,1728 @@
+{
+  "timestamp": "2026-05-10T06:40:04.180Z",
+  "summary": {
+    "pivots": 283,
+    "totalPairs": 25290,
+    "flaggedPairs": 419,
+    "blockOnlyPairs": 163,
+    "contaminationPct": 1.66,
+    "blockPct": 0.64,
+    "contaminatedPivots": 225,
+    "pivotContaminationPct": 79.5,
+    "verdict": "OPTION_B"
+  },
+  "topOffenders": [
+    [
+      "VRTX.US",
+      124
+    ],
+    [
+      "ISRG.US",
+      81
+    ],
+    [
+      "MNST.US",
+      28
+    ],
+    [
+      "FTNT.US",
+      27
+    ],
+    [
+      "CTVA.US",
+      22
+    ],
+    [
+      "GEV.US",
+      17
+    ],
+    [
+      "AFL.US",
+      16
+    ],
+    [
+      "COF.US",
+      14
+    ],
+    [
+      "WELL.US",
+      14
+    ],
+    [
+      "MPWR.US",
+      14
+    ],
+    [
+      "CME.US",
+      13
+    ],
+    [
+      "TPR.US",
+      13
+    ],
+    [
+      "ANET.US",
+      7
+    ],
+    [
+      "RF.US",
+      6
+    ],
+    [
+      "HIG.US",
+      5
+    ]
+  ],
+  "ruleHits": {
+    "balance_sheet:debt_completeness": 263,
+    "balance_sheet:debt_time_series": 163,
+    "balance_sheet:net_debt": 56
+  },
+  "flaggedDetail": [
+    {
+      "pivot": "2020-10-29",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-10-29",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-10-29",
+      "ticker": "SCHW.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2020-10-29",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-05",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-05",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-05",
+      "ticker": "SCHW.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2020-11-05",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-12",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-12",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-12",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-19",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-19",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-19",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-26",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-26",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-11-26",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-03",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-03",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-03",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-10",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-10",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-10",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-17",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-17",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-17",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-24",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-24",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-24",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-31",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-31",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2020-12-31",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-07",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-07",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-07",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-14",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-14",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-14",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-21",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-21",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-21",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-28",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-28",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-01-28",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-04",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-04",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-04",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-11",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-11",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-18",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-18",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-25",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-02-25",
+      "ticker": "MNST.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-03-04",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-03-11",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-03-18",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-03-25",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-01",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-08",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-15",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-22",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-22",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-29",
+      "ticker": "FTNT.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:net_debt(INFO)",
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-04-29",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-05-06",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-05-06",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-05-13",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-05-13",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-05-20",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-05-20",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-05-27",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-05-27",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-06-03",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-06-03",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-06-10",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-06-10",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-06-17",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-06-17",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-06-24",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-06-24",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-07-01",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-07-01",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-07-08",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-07-08",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-07-15",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-07-15",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-07-22",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-07-22",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-07-29",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-07-29",
+      "ticker": "CME.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-05",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-08-05",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-05",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-12",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-08-12",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-12",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-19",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-08-19",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-19",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-26",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-08-26",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-08-26",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-02",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-09-02",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-02",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-09",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-09-09",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-09",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-16",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-09-16",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-16",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-23",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-09-23",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-23",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-30",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-09-30",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-09-30",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-07",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-10-07",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-07",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-14",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-10-14",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-14",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-21",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-10-21",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-21",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-28",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-10-28",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-10-28",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-11-04",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-11-04",
+      "ticker": "COF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-11-04",
+      "ticker": "WELL.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2021-11-11",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-11-18",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-11-25",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-02",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-02",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-09",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-09",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-16",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-16",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-23",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-23",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-30",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2021-12-30",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-01-06",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-01-06",
+      "ticker": "ISRG.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-01-13",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-01-20",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-01-27",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-02-03",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-02-24",
+      "ticker": "RF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-03-03",
+      "ticker": "RF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-03-03",
+      "ticker": "SPG.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-03-10",
+      "ticker": "RF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-03-17",
+      "ticker": "RF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-03-24",
+      "ticker": "RF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-03-31",
+      "ticker": "RF.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-04-28",
+      "ticker": "HIG.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-05-05",
+      "ticker": "HIG.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-05-12",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-05-19",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-05-26",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-05-26",
+      "ticker": "HIG.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-06-02",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-06-02",
+      "ticker": "HIG.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-06-09",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-06-16",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-06-16",
+      "ticker": "ISRG.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-06-23",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-06-30",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-07-07",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-07-14",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-07-21",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-07-28",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-04",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-04",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-11",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-11",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-18",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-25",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-08-25",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-09-01",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-09-08",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-09-08",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-09-15",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-09-22",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-09-29",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-10-06",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-10-06",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-10-13",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-10-20",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-10-27",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-10-27",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-11-03",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-11-03",
+      "ticker": "ANET.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-11-10",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-11-10",
+      "ticker": "CPRT.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    },
+    {
+      "pivot": "2022-11-17",
+      "ticker": "VRTX.US",
+      "status": "WARNING",
+      "rules": [
+        "balance_sheet:debt_completeness(WARN)"
+      ]
+    },
+    {
+      "pivot": "2022-11-17",
+      "ticker": "CPRT.US",
+      "status": "BLOCKED",
+      "rules": [
+        "balance_sheet:debt_time_series(BLOCK)"
+      ]
+    }
+  ]
+}
