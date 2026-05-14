@@ -1,0 +1,189 @@
+{
+  "date": "2026-05-14",
+  "regime": "neutral",
+  "regimeVeto": false,
+  "benchmarks": {
+    "spy": null,
+    "eu": null
+  },
+  "sectorMedians": {
+    "Technology": 22.2,
+    "Healthcare": 17.3,
+    "Financial Services": 13.5,
+    "Consumer Cyclical": 19.3,
+    "Consumer Defensive": 15.3,
+    "Industrials": 24,
+    "Energy": 13.2,
+    "Utilities": 19.3,
+    "Basic Materials": 21.2,
+    "Communication Services": 18.2,
+    "Real Estate": 33.7
+  },
+  "tickers": [
+    {
+      "ticker": "AMZN.US",
+      "name": "Amazon.com Inc",
+      "region": "US",
+      "score": 75,
+      "summary": "Mixed TA + EPS YoY ↑36.2% + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 14,
+        "upside": 18,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 2,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 267.22,
+        "targetMeanPrice": 311.5515,
+        "forwardPE": 32.1543,
+        "epsRevision3M": 36.156351791530945,
+        "nAnalysts": 70,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 62.90402521052625,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 263.84800000000007
+      },
+      "rank": 1
+    },
+    {
+      "ticker": "AAPL.US",
+      "name": "Apple Inc",
+      "region": "US",
+      "score": 40,
+      "summary": "Mixed TA + EPS YoY ↑28.8% + High Quality + Distressed ROE✗ + Vol ↑70%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 14,
+        "upside": 2,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 6,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 298.21,
+        "targetMeanPrice": 305.2809,
+        "forwardPE": 33.4448,
+        "epsRevision3M": 28.816199376947033,
+        "nAnalysts": 48,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 74.82598069440198,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 279.843235
+      },
+      "rank": 2
+    },
+    {
+      "ticker": "MCD.US",
+      "name": "McDonald’s Corporation",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY ↑5.8% + Vol ↓73%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 274.97,
+        "targetMeanPrice": 331.2121,
+        "forwardPE": 20.79,
+        "epsRevision3M": 5.775862068965517,
+        "nAnalysts": 36,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 26.12695548076327,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 289.39700000000005
+      },
+      "rank": 3
+    },
+    {
+      "ticker": "MSFT.US",
+      "name": "Microsoft Corporation",
+      "region": "US",
+      "score": 11,
+      "summary": "Mixed TA + EPS YoY ↑29.8% + High Quality + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 409.43,
+        "targetMeanPrice": 561.5561,
+        "forwardPE": 21.4592,
+        "epsRevision3M": 29.829984544049488,
+        "nAnalysts": 61,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 50.32053344736475,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 417.4489999999999
+      },
+      "rank": 4
+    },
+    {
+      "ticker": "TSLA.US",
+      "name": "Tesla Inc",
+      "region": "US",
+      "score": 0,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY ↓25.8%✗ + Vol ↑62%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": -10,
+        "upside": -6,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 443.3,
+        "targetMeanPrice": 412.2537,
+        "forwardPE": 208.3333,
+        "epsRevision3M": -25.837320574162682,
+        "nAnalysts": 47,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 69.02346177177841,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 400.2390000000001
+      },
+      "rank": 5
+    }
+  ]
+}
