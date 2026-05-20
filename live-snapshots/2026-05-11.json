@@ -7,41 +7,272 @@
     "eu": null
   },
   "sectorMedians": {
-    "Technology": 22.2,
-    "Healthcare": 17.3,
-    "Financial Services": 13.5,
-    "Consumer Cyclical": 19.3,
-    "Consumer Defensive": 15.3,
-    "Industrials": 24,
+    "Technology": 22.5225,
+    "Healthcare": 15.4083,
+    "Financial Services": 15.4799,
+    "Consumer Cyclical": 21.1864,
+    "Consumer Defensive": 20.5339,
+    "Industrials": 21.1864,
     "Energy": 13.2,
     "Utilities": 19.3,
     "Basic Materials": 21.2,
-    "Communication Services": 18.2,
+    "Communication Services": 18.4502,
     "Real Estate": 33.7
   },
   "tickers": [
     {
-      "ticker": "AMZN.US",
-      "name": "Amazon.com Inc",
+      "ticker": "AMAT.US",
+      "name": "AMAT.US",
       "region": "US",
-      "score": 74,
-      "summary": "Mixed TA + EPS YoY ↑36.2% + High ROE",
+      "score": 54,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 443.62,
+        "targetMeanPrice": null,
+        "forwardPE": 40,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 66.48348894935495,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 402.9885
+      },
+      "rank": 1
+    },
+    {
+      "ticker": "AVGO.US",
+      "name": "AVGO.US",
+      "region": "US",
+      "score": 54,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↑60%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 428.43,
+        "targetMeanPrice": null,
+        "forwardPE": 38.61,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 64.95281901365239,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 412.60699999999997
+      },
+      "rank": 2
+    },
+    {
+      "ticker": "COST.US",
+      "name": "COST.US",
+      "region": "US",
+      "score": 54,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 999.47,
+        "targetMeanPrice": null,
+        "forwardPE": 45.6621,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 48.58202840852647,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 1002.0860000000002
+      },
+      "rank": 3
+    },
+    {
+      "ticker": "GE.US",
+      "name": "GE.US",
+      "region": "US",
+      "score": 54,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 300.77,
+        "targetMeanPrice": null,
+        "forwardPE": 40,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 53.27848213374939,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 293.7629999999999
+      },
+      "rank": 4
+    },
+    {
+      "ticker": "LRCX.US",
+      "name": "LRCX.US",
+      "region": "US",
+      "score": 54,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 296.05,
+        "targetMeanPrice": null,
+        "forwardPE": 37.594,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 66.5142523496639,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 268.0870000000001
+      },
+      "rank": 5
+    },
+    {
+      "ticker": "TXN.US",
+      "name": "TXN.US",
+      "region": "US",
+      "score": 54,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 297.76,
+        "targetMeanPrice": null,
+        "forwardPE": 37.8788,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 79.17119785495869,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 261.928
+      },
+      "rank": 6
+    },
+    {
+      "ticker": "WMT.US",
+      "name": "WMT.US",
+      "region": "US",
+      "score": 54,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↑63%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 127.59,
+        "targetMeanPrice": null,
+        "forwardPE": 44.0529,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 47.95092697330416,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 128.88599999999997
+      },
+      "rank": 7
+    },
+    {
+      "ticker": "AMZN.US",
+      "name": "AMZN.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
       "components": {
         "taComposite": 0,
         "relativePe": 8,
-        "earningsRevision": 14,
-        "upside": 17,
+        "earningsRevision": 8,
+        "upside": 8,
         "analystHistory": 0,
         "momentum": 0,
-        "quality": 2,
+        "quality": 3,
         "roeBonus": 5
       },
       "inputs": {
         "currentPrice": 268.99,
-        "targetMeanPrice": 311.5515,
+        "targetMeanPrice": null,
         "forwardPE": 32.1543,
-        "epsRevision3M": 36.156351791530945,
-        "nAnalysts": 70,
+        "epsRevision3M": null,
+        "nAnalysts": null,
         "sector": "Consumer Cyclical",
         "currency": "USD"
       },
@@ -51,47 +282,1862 @@
         "aboveSma200": true,
         "bbMid": 261.05049999999994
       },
-      "rank": 1
+      "rank": 8
     },
     {
-      "ticker": "AAPL.US",
-      "name": "Apple Inc",
+      "ticker": "CAT.US",
+      "name": "CAT.US",
       "region": "US",
-      "score": 45,
-      "summary": "Mixed TA + EPS YoY ↑28.8% + High Quality + Distressed ROE✗ + Vol ↑65%",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
       "components": {
         "taComposite": 0,
         "relativePe": 8,
-        "earningsRevision": 14,
-        "upside": 5,
+        "earningsRevision": 8,
+        "upside": 8,
         "analystHistory": 0,
         "momentum": 0,
-        "quality": 6,
-        "roeBonus": -5
+        "quality": 3,
+        "roeBonus": 5
       },
       "inputs": {
-        "currentPrice": 292.68,
-        "targetMeanPrice": 305.2809,
-        "forwardPE": 33.4448,
-        "epsRevision3M": 28.816199376947033,
-        "nAnalysts": 48,
+        "currentPrice": 926.79,
+        "targetMeanPrice": null,
+        "forwardPE": 37.4532,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 70.80553045452797,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 843.4100000000001
+      },
+      "rank": 9
+    },
+    {
+      "ticker": "CL.US",
+      "name": "CL.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 86.74,
+        "targetMeanPrice": null,
+        "forwardPE": 22.7273,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 52.87855840275648,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 85.08
+      },
+      "rank": 10
+    },
+    {
+      "ticker": "DE.US",
+      "name": "DE.US",
+      "region": "US",
+      "score": 51,
+      "summary": "TA Confluence + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 588.74,
+        "targetMeanPrice": null,
+        "forwardPE": 32.3625,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 52.86283118225289,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 580.6185
+      },
+      "rank": 11
+    },
+    {
+      "ticker": "GEV.US",
+      "name": "GEV.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 1073.08,
+        "targetMeanPrice": null,
+        "forwardPE": 37.1747,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 56.79271281816376,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 1061.395505
+      },
+      "rank": 12
+    },
+    {
+      "ticker": "GOOG.US",
+      "name": "GOOG.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↑72%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 386.77,
+        "targetMeanPrice": null,
+        "forwardPE": 28.169,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 72.54009458960016,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 358.37750000000005
+      },
+      "rank": 13
+    },
+    {
+      "ticker": "GOOGL.US",
+      "name": "GOOGL.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↑71%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 388.64,
+        "targetMeanPrice": null,
+        "forwardPE": 28.4091,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 71.59278649415465,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 360.8875
+      },
+      "rank": 14
+    },
+    {
+      "ticker": "KO.US",
+      "name": "KO.US",
+      "region": "US",
+      "score": 51,
+      "summary": "TA Confluence + EPS YoY N/A + High ROE + Vol ↓63%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 78.66,
+        "targetMeanPrice": null,
+        "forwardPE": 24.0964,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 57.90405347842098,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 77.06300000000002
+      },
+      "rank": 15
+    },
+    {
+      "ticker": "LIN.US",
+      "name": "LIN.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 504.4,
+        "targetMeanPrice": null,
+        "forwardPE": 27.5482,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Basic Materials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 53.70868636069244,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 500.84700000000004
+      },
+      "rank": 16
+    },
+    {
+      "ticker": "MRK.US",
+      "name": "MRK.US",
+      "region": "US",
+      "score": 51,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↓64%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 111.28,
+        "targetMeanPrice": null,
+        "forwardPE": 22.0264,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 41.356833871876724,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 113.43950000000002
+      },
+      "rank": 17
+    },
+    {
+      "ticker": "JNJ.US",
+      "name": "JNJ.US",
+      "region": "US",
+      "score": 48,
+      "summary": "Growth Premium + EPS YoY N/A + High ROE + Vol ↓68%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 221.43,
+        "targetMeanPrice": null,
+        "forwardPE": 19.1205,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 33.137499509706316,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 228.28699999999998
+      },
+      "rank": 18
+    },
+    {
+      "ticker": "MS.US",
+      "name": "MS.US",
+      "region": "US",
+      "score": 48,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A + High ROE + Vol ↓60%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 191.1,
+        "targetMeanPrice": null,
+        "forwardPE": 16.4745,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 59.583129146232174,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 189.61150000000004
+      },
+      "rank": 19
+    },
+    {
+      "ticker": "AMD.US",
+      "name": "AMD.US",
+      "region": "US",
+      "score": 43,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + Vol ↑74%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 458.79,
+        "targetMeanPrice": null,
+        "forwardPE": 64.9351,
+        "epsRevision3M": null,
+        "nAnalysts": null,
         "sector": "Technology",
         "currency": "USD"
       },
       "technicals": {
-        "rsi14": 72.36083638878618,
+        "rsi14": 81.0900389574153,
         "aboveSma50": true,
         "aboveSma200": true,
-        "bbMid": 274.645935
+        "bbMid": 336.82450000000006
       },
-      "rank": 2
+      "rank": 20
+    },
+    {
+      "ticker": "CSCO.US",
+      "name": "CSCO.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↑70%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 98.72,
+        "targetMeanPrice": null,
+        "forwardPE": 20.9205,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 75.28747318909349,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 89.7295
+      },
+      "rank": 21
+    },
+    {
+      "ticker": "GD.US",
+      "name": "GD.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↓63%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 344.03,
+        "targetMeanPrice": null,
+        "forwardPE": 21.1864,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 53.943438379120494,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 334.9599999999999
+      },
+      "rank": 22
+    },
+    {
+      "ticker": "GILD.US",
+      "name": "GILD.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 133.52,
+        "targetMeanPrice": null,
+        "forwardPE": 15.0376,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 47.050755492297974,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 133.6115
+      },
+      "rank": 23
+    },
+    {
+      "ticker": "HON.US",
+      "name": "HON.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 219.11,
+        "targetMeanPrice": null,
+        "forwardPE": 20.1613,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 49.210143051956805,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 218.686
+      },
+      "rank": 24
+    },
+    {
+      "ticker": "QCOM.US",
+      "name": "QCOM.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↑67%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 237.53,
+        "targetMeanPrice": null,
+        "forwardPE": 20.5761,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 88.3870926767857,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 162.40150000000003
+      },
+      "rank": 25
+    },
+    {
+      "ticker": "SBUX.US",
+      "name": "SBUX.US",
+      "region": "US",
+      "score": 42,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 105.74,
+        "targetMeanPrice": null,
+        "forwardPE": 45.045,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 64.32737854798202,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 101.64150000000001
+      },
+      "rank": 26
+    },
+    {
+      "ticker": "TSLA.US",
+      "name": "TSLA.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + Vol ↑67%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 445,
+        "targetMeanPrice": null,
+        "forwardPE": 208.3333,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 74.06128951628804,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 391.3905000000001
+      },
+      "rank": 27
+    },
+    {
+      "ticker": "UNP.US",
+      "name": "UNP.US",
+      "region": "US",
+      "score": 42,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↓60%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 263.35,
+        "targetMeanPrice": null,
+        "forwardPE": 21.0084,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 55.96388799477073,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 261.04200000000003
+      },
+      "rank": 28
+    },
+    {
+      "ticker": "BLK.US",
+      "name": "BLK.US",
+      "region": "US",
+      "score": 40,
+      "summary": "TA Confluence + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 1081.3199,
+        "targetMeanPrice": null,
+        "forwardPE": 20.3666,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 61.82177254101164,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 1055.7165
+      },
+      "rank": 29
+    },
+    {
+      "ticker": "MDLZ.US",
+      "name": "MDLZ.US",
+      "region": "US",
+      "score": 40,
+      "summary": "TA Confluence + EPS YoY N/A + Vol ↑69%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 61.41,
+        "targetMeanPrice": null,
+        "forwardPE": 20.3252,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 63.981530534610904,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 59.11249999999999
+      },
+      "rank": 30
+    },
+    {
+      "ticker": "PM.US",
+      "name": "PM.US",
+      "region": "US",
+      "score": 38,
+      "summary": "TA Confluence + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 182.11,
+        "targetMeanPrice": null,
+        "forwardPE": 20.2429,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 69.60117796188968,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 164.65850000000006
+      },
+      "rank": 31
+    },
+    {
+      "ticker": "BK.US",
+      "name": "BK.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 132.49,
+        "targetMeanPrice": null,
+        "forwardPE": 15.4799,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 55.887582920543174,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 133.552
+      },
+      "rank": 32
+    },
+    {
+      "ticker": "CVX.US",
+      "name": "CVX.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Growth Premium + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 184.74,
+        "targetMeanPrice": null,
+        "forwardPE": 14.2248,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Energy",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 43.545141646173455,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 187.03349999999995
+      },
+      "rank": 33
+    },
+    {
+      "ticker": "GS.US",
+      "name": "GS.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 944.86,
+        "targetMeanPrice": null,
+        "forwardPE": 15.9236,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 60.33718431841311,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 924.0285
+      },
+      "rank": 34
+    },
+    {
+      "ticker": "NEE.US",
+      "name": "NEE.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 94.84,
+        "targetMeanPrice": null,
+        "forwardPE": 23.4192,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Utilities",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 52.68129965890287,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 93.96399999999998
+      },
+      "rank": 35
+    },
+    {
+      "ticker": "SO.US",
+      "name": "SO.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Growth Premium + EPS YoY N/A + Vol ↓62%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 93.1,
+        "targetMeanPrice": null,
+        "forwardPE": 20.0803,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Utilities",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.10769262854683,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 94.127
+      },
+      "rank": 36
+    },
+    {
+      "ticker": "UNH.US",
+      "name": "UNH.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 384.44,
+        "targetMeanPrice": null,
+        "forwardPE": 20.79,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 81.62304494429172,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 353.464
+      },
+      "rank": 37
+    },
+    {
+      "ticker": "XOM.US",
+      "name": "XOM.US",
+      "region": "US",
+      "score": 37,
+      "summary": "Growth Premium + EPS YoY N/A + Vol ↑63%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 149.68,
+        "targetMeanPrice": null,
+        "forwardPE": 14.1643,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Energy",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 46.63884003355268,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 150.012
+      },
+      "rank": 38
+    },
+    {
+      "ticker": "AAPL.US",
+      "name": "AAPL.US",
+      "region": "US",
+      "score": 35,
+      "summary": "Mixed TA + EPS YoY N/A + Distressed ROE✗ + Vol ↑65%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 292.68,
+        "targetMeanPrice": null,
+        "forwardPE": 33.4448,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 71.9401343692281,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 274.8855
+      },
+      "rank": 39
+    },
+    {
+      "ticker": "LLY.US",
+      "name": "LLY.US",
+      "region": "US",
+      "score": 35,
+      "summary": "TA Confluence + EPS YoY N/A + Distressed ROE✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 8,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 966.99,
+        "targetMeanPrice": null,
+        "forwardPE": 26.3158,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 55.78164965554841,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 926.5110000000001
+      },
+      "rank": 40
+    },
+    {
+      "ticker": "INTC.US",
+      "name": "INTC.US",
+      "region": "US",
+      "score": 34,
+      "summary": "Mixed TA + Strong Pricing Power + EPS YoY N/A + Negative ROE✗ + Vol ↑64%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 10,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 129.44,
+        "targetMeanPrice": null,
+        "forwardPE": 156.25,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 86.10933653704082,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 87.579
+      },
+      "rank": 41
+    },
+    {
+      "ticker": "NVDA.US",
+      "name": "NVDA.US",
+      "region": "US",
+      "score": 32,
+      "summary": "TA Confluence + Growth Premium + EPS YoY N/A + Distressed ROE✗ + Vol ↑69%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 6,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 219.44,
+        "targetMeanPrice": null,
+        "forwardPE": 26.5252,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 68.46474283995167,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 204.688
+      },
+      "rank": 42
+    },
+    {
+      "ticker": "BMY.US",
+      "name": "BMY.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE + Vol ↓67%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 55.67,
+        "targetMeanPrice": null,
+        "forwardPE": 8.8968,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 38.24005075370063,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 58.07950000000002
+      },
+      "rank": 43
+    },
+    {
+      "ticker": "C.US",
+      "name": "C.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Mixed TA + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 125.85,
+        "targetMeanPrice": null,
+        "forwardPE": 11.8906,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 51.437355654075596,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 128.8085
+      },
+      "rank": 44
+    },
+    {
+      "ticker": "COP.US",
+      "name": "COP.US",
+      "region": "US",
+      "score": 30,
+      "summary": "EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 115.55,
+        "targetMeanPrice": null,
+        "forwardPE": 12.0919,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Energy",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 40.38778538307049,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 120.77050000000001
+      },
+      "rank": 45
+    },
+    {
+      "ticker": "DUK.US",
+      "name": "DUK.US",
+      "region": "US",
+      "score": 30,
+      "summary": "EPS YoY N/A + Vol ↓76%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 124.9,
+        "targetMeanPrice": null,
+        "forwardPE": 18.5185,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Utilities",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 40.2740880818183,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 127.12849999999999
+      },
+      "rank": 46
+    },
+    {
+      "ticker": "EMR.US",
+      "name": "EMR.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Mixed TA + EPS YoY N/A + Vol ↓63%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 139.43,
+        "targetMeanPrice": null,
+        "forwardPE": 21.692,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 49.14881507038051,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 141.392
+      },
+      "rank": 47
+    },
+    {
+      "ticker": "FDX.US",
+      "name": "FDX.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 378.9,
+        "targetMeanPrice": null,
+        "forwardPE": 17.1233,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 51.0138961024519,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 382.90549999999996
+      },
+      "rank": 48
+    },
+    {
+      "ticker": "MU.US",
+      "name": "MU.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + High ROE + Vol ↑67%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 795.33,
+        "targetMeanPrice": null,
+        "forwardPE": 7.6046,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 85.83649024052791,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 543.8299999999999
+      },
+      "rank": 49
+    },
+    {
+      "ticker": "UPS.US",
+      "name": "UPS.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 100,
+        "targetMeanPrice": null,
+        "forwardPE": 14.0845,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.4435267432963,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 104.10299999999998
+      },
+      "rank": 50
+    },
+    {
+      "ticker": "VZ.US",
+      "name": "VZ.US",
+      "region": "US",
+      "score": 30,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": 5
+      },
+      "inputs": {
+        "currentPrice": 47.23,
+        "targetMeanPrice": null,
+        "forwardPE": 9.5238,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 47.93127428861791,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 46.85550000000001
+      },
+      "rank": 51
+    },
+    {
+      "ticker": "AMGN.US",
+      "name": "AMGN.US",
+      "region": "US",
+      "score": 26,
+      "summary": "EPS YoY N/A + Distressed ROE✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 329.59,
+        "targetMeanPrice": null,
+        "forwardPE": 14.9031,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 39.30708746955312,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 340.337
+      },
+      "rank": 52
+    },
+    {
+      "ticker": "SPG.US",
+      "name": "SPG.US",
+      "region": "US",
+      "score": 26,
+      "summary": "Mixed TA + EPS YoY N/A + Distressed ROE✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 201,
+        "targetMeanPrice": null,
+        "forwardPE": 29.7619,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Real Estate",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 51.93064397461933,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 202.755
+      },
+      "rank": 53
+    },
+    {
+      "ticker": "PFE.US",
+      "name": "PFE.US",
+      "region": "US",
+      "score": 19,
+      "summary": "Value Trap?✗ + EPS YoY N/A + Vol ↓67%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 25.81,
+        "targetMeanPrice": null,
+        "forwardPE": 8.7489,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 37.42755609018089,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 26.709500000000002
+      },
+      "rank": 54
+    },
+    {
+      "ticker": "USB.US",
+      "name": "USB.US",
+      "region": "US",
+      "score": 19,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + Vol ↓65%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 1,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 54.49,
+        "targetMeanPrice": null,
+        "forwardPE": 11.0011,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 43.86338301697625,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 56.05799999999999
+      },
+      "rank": 55
+    },
+    {
+      "ticker": "BA.US",
+      "name": "BA.US",
+      "region": "US",
+      "score": 18,
+      "summary": "TA Confluence + Extreme PE✗ + EPS YoY N/A + Distressed ROE✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -3,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 3,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 238.21,
+        "targetMeanPrice": null,
+        "forwardPE": 909.0909,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 63.13711673874887,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 227.84250000000003
+      },
+      "rank": 56
+    },
+    {
+      "ticker": "CVS.US",
+      "name": "CVS.US",
+      "region": "US",
+      "score": 18,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 92.22,
+        "targetMeanPrice": null,
+        "forwardPE": 12.7389,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 76.27547476596011,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 81.109
+      },
+      "rank": 57
+    },
+    {
+      "ticker": "GM.US",
+      "name": "GM.US",
+      "region": "US",
+      "score": 18,
+      "summary": "Value Trap?✗ + EPS YoY N/A + Vol ↓64%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 75.29,
+        "targetMeanPrice": null,
+        "forwardPE": 6.3492,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 43.548440724205804,
+        "aboveSma50": false,
+        "aboveSma200": true,
+        "bbMid": 78.05050000000001
+      },
+      "rank": 58
+    },
+    {
+      "ticker": "MO.US",
+      "name": "MO.US",
+      "region": "US",
+      "score": 18,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + Vol ↓64%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 8,
+        "upside": 8,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 68.61,
+        "targetMeanPrice": null,
+        "forwardPE": 12.1655,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 51.308318888160564,
+        "aboveSma50": true,
+        "aboveSma200": true,
+        "bbMid": 67.948
+      },
+      "rank": 59
+    },
+    {
+      "ticker": "AXP.US",
+      "name": "AXP.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↓65%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 312.32,
+        "targetMeanPrice": null,
+        "forwardPE": 17.9856,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.629908760392695,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 321.794
+      },
+      "rank": 60
+    },
+    {
+      "ticker": "BRK-B.US",
+      "name": "BRK-B.US",
+      "region": "US",
+      "score": 16,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 479.55,
+        "targetMeanPrice": null,
+        "forwardPE": 22.5734,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 55.53598476833808,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 472.7290000000001
+      },
+      "rank": 61
+    },
+    {
+      "ticker": "DHR.US",
+      "name": "DHR.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A + Vol ↓73%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 166.52,
+        "targetMeanPrice": null,
+        "forwardPE": 20.202,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 25.887194353693204,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 182.23049999999998
+      },
+      "rank": 62
+    },
+    {
+      "ticker": "ISRG.US",
+      "name": "ISRG.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↓64%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 420.06,
+        "targetMeanPrice": null,
+        "forwardPE": 43.4783,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 29.838933284706002,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 460.51699999999994
+      },
+      "rank": 63
+    },
+    {
+      "ticker": "JPM.US",
+      "name": "JPM.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A + High ROE + Vol ↓62%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 300,
+        "targetMeanPrice": null,
+        "forwardPE": 13.7931,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 42.58527809702641,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 309.9309999999999
+      },
+      "rank": 64
     },
     {
       "ticker": "MCD.US",
-      "name": "McDonald’s Corporation",
+      "name": "MCD.US",
       "region": "US",
       "score": 16,
-      "summary": "Growth Premium + EPS YoY ↑5.6% + Vol ↓65%✗",
+      "summary": "Growth Premium + EPS YoY N/A + Vol ↓65%✗",
       "components": {
         "taComposite": 0,
         "relativePe": 5,
@@ -104,27 +2150,621 @@
       },
       "inputs": {
         "currentPrice": 274.6,
-        "targetMeanPrice": 333.9697,
+        "targetMeanPrice": null,
         "forwardPE": 20.79,
-        "epsRevision3M": 5.641025641025626,
-        "nAnalysts": 36,
+        "epsRevision3M": null,
+        "nAnalysts": null,
         "sector": "Consumer Cyclical",
         "currency": "USD"
       },
       "technicals": {
-        "rsi14": 24.51959123884751,
+        "rsi14": 24.494099822080827,
         "aboveSma50": false,
         "aboveSma200": false,
         "bbMid": 293.9435000000001
       },
-      "rank": 3
+      "rank": 65
+    },
+    {
+      "ticker": "META.US",
+      "name": "META.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 598.86,
+        "targetMeanPrice": null,
+        "forwardPE": 19.5695,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 39.1593619831007,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 647.0714999999999
+      },
+      "rank": 66
+    },
+    {
+      "ticker": "NFLX.US",
+      "name": "NFLX.US",
+      "region": "US",
+      "score": 16,
+      "summary": "EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 85.45,
+        "targetMeanPrice": null,
+        "forwardPE": 27.3224,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 30.142650915695242,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 93.74000000000001
+      },
+      "rank": 67
+    },
+    {
+      "ticker": "NKE.US",
+      "name": "NKE.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 42.39,
+        "targetMeanPrice": null,
+        "forwardPE": 22.7273,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 32.05486522597482,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 44.684000000000005
+      },
+      "rank": 68
+    },
+    {
+      "ticker": "ORCL.US",
+      "name": "ORCL.US",
+      "region": "US",
+      "score": 16,
+      "summary": "TA Confluence + Growth Premium + EPS YoY N/A + High ROE + Vol ↑61%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 193.84,
+        "targetMeanPrice": null,
+        "forwardPE": 24.3902,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 67.10160564874165,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 178.102
+      },
+      "rank": 69
+    },
+    {
+      "ticker": "PEP.US",
+      "name": "PEP.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A + High ROE + Vol ↓62%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 149.41,
+        "targetMeanPrice": null,
+        "forwardPE": 17.9856,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 36.42106008906023,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 155.54749999999999
+      },
+      "rank": 70
+    },
+    {
+      "ticker": "PLTR.US",
+      "name": "PLTR.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↑60%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 136.89,
+        "targetMeanPrice": null,
+        "forwardPE": 97.0874,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.80744068129791,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 141.452
+      },
+      "rank": 71
+    },
+    {
+      "ticker": "PG.US",
+      "name": "PG.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 143.36,
+        "targetMeanPrice": null,
+        "forwardPE": 20.5339,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Defensive",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 43.96736945575272,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 145.58950000000002
+      },
+      "rank": 72
+    },
+    {
+      "ticker": "RTX.US",
+      "name": "RTX.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A + Vol ↓61%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 178.61,
+        "targetMeanPrice": null,
+        "forwardPE": 25.4453,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 41.59687564478685,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 181.84
+      },
+      "rank": 73
+    },
+    {
+      "ticker": "SCHW.US",
+      "name": "SCHW.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A + High ROE + Vol ↓68%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 87.83,
+        "targetMeanPrice": null,
+        "forwardPE": 14.7929,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 36.00865606129049,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 91.785
+      },
+      "rank": 74
+    },
+    {
+      "ticker": "TMUS.US",
+      "name": "TMUS.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 190.85,
+        "targetMeanPrice": null,
+        "forwardPE": 18.4502,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 42.85356778660429,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 193.06449999999998
+      },
+      "rank": 75
+    },
+    {
+      "ticker": "TMO.US",
+      "name": "TMO.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Growth Premium + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 452.6,
+        "targetMeanPrice": null,
+        "forwardPE": 18.6567,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 35.68747076201316,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 487.47650000000004
+      },
+      "rank": 76
+    },
+    {
+      "ticker": "UBER.US",
+      "name": "UBER.US",
+      "region": "US",
+      "score": 16,
+      "summary": "TA Confluence + Growth Premium + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 76.15,
+        "targetMeanPrice": null,
+        "forwardPE": 22.5225,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 53.20273647035656,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 75.62100000000001
+      },
+      "rank": 77
+    },
+    {
+      "ticker": "V.US",
+      "name": "V.US",
+      "region": "US",
+      "score": 16,
+      "summary": "TA Confluence + Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↓64%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 323.86,
+        "targetMeanPrice": null,
+        "forwardPE": 24.5098,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 57.43941055317682,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 317.808
+      },
+      "rank": 78
+    },
+    {
+      "ticker": "ABT.US",
+      "name": "ABT.US",
+      "region": "US",
+      "score": 11,
+      "summary": "EPS YoY N/A + Vol ↓67%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 82.56,
+        "targetMeanPrice": null,
+        "forwardPE": 15.4083,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 20.626852151556264,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 91.60299999999998
+      },
+      "rank": 79
+    },
+    {
+      "ticker": "BAC.US",
+      "name": "BAC.US",
+      "region": "US",
+      "score": 11,
+      "summary": "Mixed TA + EPS YoY N/A + Vol ↓61%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 50.55,
+        "targetMeanPrice": null,
+        "forwardPE": 11.5741,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 40.83647576677774,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 52.927499999999995
+      },
+      "rank": 80
+    },
+    {
+      "ticker": "DIS.US",
+      "name": "DIS.US",
+      "region": "US",
+      "score": 11,
+      "summary": "TA Confluence + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 104.72,
+        "targetMeanPrice": null,
+        "forwardPE": 16.1812,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 53.90567937871868,
+        "aboveSma50": true,
+        "aboveSma200": false,
+        "bbMid": 104.03399999999999
+      },
+      "rank": 81
+    },
+    {
+      "ticker": "IBM.US",
+      "name": "IBM.US",
+      "region": "US",
+      "score": 11,
+      "summary": "EPS YoY N/A + High ROE + Vol ↓63%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 223.55,
+        "targetMeanPrice": null,
+        "forwardPE": 18.622,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 38.09564974065152,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 236.70450000000005
+      },
+      "rank": 82
+    },
+    {
+      "ticker": "LOW.US",
+      "name": "LOW.US",
+      "region": "US",
+      "score": 11,
+      "summary": "EPS YoY N/A + Vol ↓60%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 226.06,
+        "targetMeanPrice": null,
+        "forwardPE": 18.018,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 39.035133693846554,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 239.209
+      },
+      "rank": 83
     },
     {
       "ticker": "MSFT.US",
-      "name": "Microsoft Corporation",
+      "name": "MSFT.US",
       "region": "US",
       "score": 11,
-      "summary": "Mixed TA + EPS YoY ↑29.8% + High Quality + High ROE + Vol ↑61%",
+      "summary": "Mixed TA + EPS YoY N/A + High ROE + Vol ↑61%",
       "components": {
         "taComposite": 0,
         "relativePe": 2,
@@ -137,53 +2777,581 @@
       },
       "inputs": {
         "currentPrice": 412.66,
-        "targetMeanPrice": 561.5561,
+        "targetMeanPrice": null,
         "forwardPE": 21.4592,
-        "epsRevision3M": 29.829984544049488,
-        "nAnalysts": 61,
+        "epsRevision3M": null,
+        "nAnalysts": null,
         "sector": "Technology",
         "currency": "USD"
       },
       "technicals": {
-        "rsi14": 52.23352945861582,
+        "rsi14": 52.22323191660561,
         "aboveSma50": true,
         "aboveSma200": false,
         "bbMid": 417.558
       },
-      "rank": 4
+      "rank": 84
     },
     {
-      "ticker": "TSLA.US",
-      "name": "Tesla Inc",
+      "ticker": "NOW.US",
+      "name": "NOW.US",
       "region": "US",
-      "score": 0,
-      "summary": "Mixed TA + Strong Pricing Power + EPS YoY ↓25.8%✗ + Vol ↑67%",
+      "score": 11,
+      "summary": "Mixed TA + EPS YoY N/A + High ROE",
       "components": {
         "taComposite": 0,
-        "relativePe": 10,
-        "earningsRevision": -10,
-        "upside": -6,
+        "relativePe": 2,
+        "earningsRevision": 5,
+        "upside": 0,
         "analystHistory": 0,
         "momentum": 0,
-        "quality": 1,
+        "quality": 0,
         "roeBonus": 0
       },
       "inputs": {
-        "currentPrice": 445,
-        "targetMeanPrice": 412.2537,
-        "forwardPE": 208.3333,
-        "epsRevision3M": -25.837320574162682,
-        "nAnalysts": 47,
+        "currentPrice": 91.49,
+        "targetMeanPrice": null,
+        "forwardPE": 21.7391,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.979628851896464,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 92.5775
+      },
+      "rank": 85
+    },
+    {
+      "ticker": "HD.US",
+      "name": "HD.US",
+      "region": "US",
+      "score": 8,
+      "summary": "Growth Premium + EPS YoY N/A + Distressed ROE✗ + Vol ↓63%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 311.4,
+        "targetMeanPrice": null,
+        "forwardPE": 21.1864,
+        "epsRevision3M": null,
+        "nAnalysts": null,
         "sector": "Consumer Cyclical",
         "currency": "USD"
       },
       "technicals": {
-        "rsi14": 74.06128951628804,
-        "aboveSma50": true,
-        "aboveSma200": true,
-        "bbMid": 391.3905000000001
+        "rsi14": 36.229644765683666,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 330.893
       },
-      "rank": 5
+      "rank": 86
+    },
+    {
+      "ticker": "MA.US",
+      "name": "MA.US",
+      "region": "US",
+      "score": 8,
+      "summary": "Strong Pricing Power + EPS YoY N/A + Distressed ROE✗ + Vol ↓65%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 497.81,
+        "targetMeanPrice": null,
+        "forwardPE": 25.3165,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 46.307228937091814,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 507.1635
+      },
+      "rank": 87
+    },
+    {
+      "ticker": "ABBV.US",
+      "name": "ABBV.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + High ROE + Vol ↓65%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 202.78,
+        "targetMeanPrice": null,
+        "forwardPE": 14.1443,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.61054110318019,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 204.41300000000004
+      },
+      "rank": 88
+    },
+    {
+      "ticker": "ACN.US",
+      "name": "ACN.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE + Vol ↓62%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 172.35,
+        "targetMeanPrice": null,
+        "forwardPE": 12.0482,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 34.92342203381514,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 183.62100000000004
+      },
+      "rank": 89
+    },
+    {
+      "ticker": "ADBE.US",
+      "name": "ADBE.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 246.15,
+        "targetMeanPrice": null,
+        "forwardPE": 10.7759,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 48.33107372530812,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 247.37499999999994
+      },
+      "rank": 90
+    },
+    {
+      "ticker": "AMT.US",
+      "name": "AMT.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 177.47,
+        "targetMeanPrice": null,
+        "forwardPE": 26.738,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Real Estate",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 48.05958260096903,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 178.67249999999999
+      },
+      "rank": 91
+    },
+    {
+      "ticker": "BKNG.US",
+      "name": "BKNG.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + Distressed ROE✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": -5
+      },
+      "inputs": {
+        "currentPrice": 157.8,
+        "targetMeanPrice": null,
+        "forwardPE": 15.8228,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Consumer Cyclical",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 10.118371754254625,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 176.10400000000004
+      },
+      "rank": 92
+    },
+    {
+      "ticker": "CMCSA.US",
+      "name": "CMCSA.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 25.03,
+        "targetMeanPrice": null,
+        "forwardPE": 7.57,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 30.874130782256714,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 27.777499999999996
+      },
+      "rank": 93
+    },
+    {
+      "ticker": "COF.US",
+      "name": "COF.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + Vol ↓66%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 183.93,
+        "targetMeanPrice": null,
+        "forwardPE": 9.6432,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 38.28231318206022,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 195.246
+      },
+      "rank": 94
+    },
+    {
+      "ticker": "CRM.US",
+      "name": "CRM.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 177.49,
+        "targetMeanPrice": null,
+        "forwardPE": 13.8122,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 45.072777818055236,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 181.46450000000004
+      },
+      "rank": 95
+    },
+    {
+      "ticker": "INTU.US",
+      "name": "INTU.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Mixed TA + Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 393.29,
+        "targetMeanPrice": null,
+        "forwardPE": 14.9254,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 46.980788438052954,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 394.8825
+      },
+      "rank": 96
+    },
+    {
+      "ticker": "LMT.US",
+      "name": "LMT.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE + Vol ↓80%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 512.25,
+        "targetMeanPrice": null,
+        "forwardPE": 16.8067,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 30.069875915153972,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 540.648
+      },
+      "rank": 97
+    },
+    {
+      "ticker": "MDT.US",
+      "name": "MDT.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + Vol ↓78%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 74.54,
+        "targetMeanPrice": null,
+        "forwardPE": 12.4844,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Healthcare",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 22.81332575224532,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 81.59449999999998
+      },
+      "rank": 98
+    },
+    {
+      "ticker": "MMM.US",
+      "name": "MMM.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE + Vol ↓61%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 143.34,
+        "targetMeanPrice": null,
+        "forwardPE": 16.5563,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Industrials",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 43.299848298457505,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 146.568
+      },
+      "rank": 99
+    },
+    {
+      "ticker": "T.US",
+      "name": "T.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 24.87,
+        "targetMeanPrice": null,
+        "forwardPE": 10.8932,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 33.21182255055621,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 25.863999999999997
+      },
+      "rank": 100
+    },
+    {
+      "ticker": "WFC.US",
+      "name": "WFC.US",
+      "region": "US",
+      "score": 0,
+      "summary": "Value Trap?✗ + EPS YoY N/A + Vol ↓70%✗",
+      "components": {
+        "taComposite": 0,
+        "relativePe": -5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 73.58,
+        "targetMeanPrice": null,
+        "forwardPE": 10.7411,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Financial Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 30.38554039158845,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 80.15800000000002
+      },
+      "rank": 101
     }
   ]
 }
