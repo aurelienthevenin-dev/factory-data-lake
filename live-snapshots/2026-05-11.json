@@ -2331,39 +2331,6 @@
       "rank": 70
     },
     {
-      "ticker": "PLTR.US",
-      "name": "PLTR.US",
-      "region": "US",
-      "score": 16,
-      "summary": "Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↑60%",
-      "components": {
-        "taComposite": 0,
-        "relativePe": 5,
-        "earningsRevision": 5,
-        "upside": 0,
-        "analystHistory": 0,
-        "momentum": 0,
-        "quality": 0,
-        "roeBonus": 0
-      },
-      "inputs": {
-        "currentPrice": 136.89,
-        "targetMeanPrice": null,
-        "forwardPE": 97.0874,
-        "epsRevision3M": null,
-        "nAnalysts": null,
-        "sector": "Technology",
-        "currency": "USD"
-      },
-      "technicals": {
-        "rsi14": 44.80744068129791,
-        "aboveSma50": false,
-        "aboveSma200": false,
-        "bbMid": 141.452
-      },
-      "rank": 71
-    },
-    {
       "ticker": "PG.US",
       "name": "PG.US",
       "region": "US",
@@ -2393,6 +2360,39 @@
         "aboveSma50": false,
         "aboveSma200": false,
         "bbMid": 145.58950000000002
+      },
+      "rank": 71
+    },
+    {
+      "ticker": "PLTR.US",
+      "name": "PLTR.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Strong Pricing Power + EPS YoY N/A + High ROE + Vol ↑60%",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 136.89,
+        "targetMeanPrice": null,
+        "forwardPE": 97.0874,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Technology",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 44.80744068129791,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 141.452
       },
       "rank": 72
     },
@@ -2463,39 +2463,6 @@
       "rank": 74
     },
     {
-      "ticker": "TMUS.US",
-      "name": "TMUS.US",
-      "region": "US",
-      "score": 16,
-      "summary": "Mixed TA + Growth Premium + EPS YoY N/A + High ROE",
-      "components": {
-        "taComposite": 0,
-        "relativePe": 5,
-        "earningsRevision": 5,
-        "upside": 0,
-        "analystHistory": 0,
-        "momentum": 0,
-        "quality": 0,
-        "roeBonus": 0
-      },
-      "inputs": {
-        "currentPrice": 190.85,
-        "targetMeanPrice": null,
-        "forwardPE": 18.4502,
-        "epsRevision3M": null,
-        "nAnalysts": null,
-        "sector": "Communication Services",
-        "currency": "USD"
-      },
-      "technicals": {
-        "rsi14": 42.85356778660429,
-        "aboveSma50": false,
-        "aboveSma200": false,
-        "bbMid": 193.06449999999998
-      },
-      "rank": 75
-    },
-    {
       "ticker": "TMO.US",
       "name": "TMO.US",
       "region": "US",
@@ -2525,6 +2492,39 @@
         "aboveSma50": false,
         "aboveSma200": false,
         "bbMid": 487.47650000000004
+      },
+      "rank": 75
+    },
+    {
+      "ticker": "TMUS.US",
+      "name": "TMUS.US",
+      "region": "US",
+      "score": 16,
+      "summary": "Mixed TA + Growth Premium + EPS YoY N/A + High ROE",
+      "components": {
+        "taComposite": 0,
+        "relativePe": 5,
+        "earningsRevision": 5,
+        "upside": 0,
+        "analystHistory": 0,
+        "momentum": 0,
+        "quality": 0,
+        "roeBonus": 0
+      },
+      "inputs": {
+        "currentPrice": 190.85,
+        "targetMeanPrice": null,
+        "forwardPE": 18.4502,
+        "epsRevision3M": null,
+        "nAnalysts": null,
+        "sector": "Communication Services",
+        "currency": "USD"
+      },
+      "technicals": {
+        "rsi14": 42.85356778660429,
+        "aboveSma50": false,
+        "aboveSma200": false,
+        "bbMid": 193.06449999999998
       },
       "rank": 76
     },
