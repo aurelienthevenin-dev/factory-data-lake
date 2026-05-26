@@ -2,210 +2,53 @@
   "ticker": "EXW1.DE",
   "name": "iShares Core EURO STOXX 50 UCITS ETF (DE)",
   "fundamentals": {
-    "currency": "EUR",
+    "beta": 1.05,
     "isETF": true,
+    "roaTTM": null,
     "sector": null,
-    "trailingPE": null,
-    "forwardPE": 14.90627,
-    "trailingEps": null,
-    "forwardEps": 15.678990957414122,
-    "epsRevision3M": null,
+    "currency": "EUR",
     "epsTrend": null,
-    "pegRatio": null,
-    "dividendYield": 2.56,
-    "dividendRate": null,
-    "beta": 1.06,
-    "marketCap": null,
-    "fiftyTwoWeekHigh": 62.4396,
-    "fiftyTwoWeekLow": 50.341,
-    "targetMeanPrice": null,
-    "targetHighPrice": null,
-    "targetLowPrice": null,
-    "recommendationKey": null,
-    "numberOfAnalystOpinions": null,
-    "longBusinessSummary": "NA",
-    "insiderNetShares": null,
-    "insiderClusterFlag": null,
     "fcfYield": null,
-    "grossMarginTTM": null,
-    "grossMarginDelta1Y": null,
-    "operatingMarginTTM": null,
-    "returnOnEquityTTM": null,
-    "netDebtToEbitda": null,
-    "shortInterestPct": null,
+    "pegRatio": null,
+    "revDecel": null,
+    "forwardPE": 15.29464,
+    "marketCap": null,
+    "updatedAt": "2026-05-20T08:04:19.545Z",
+    "forwardEps": 15.885785750418027,
+    "trailingPE": null,
     "daysToCover": null,
-    "nextEarningsDate": null,
-    "daysToEarnings": null
+    "sbcBurnRate": null,
+    "trailingEps": null,
+    "buybackYield": null,
+    "dividendRate": null,
+    "profitMargin": null,
+    "quarterlyEps": null,
+    "dividendYield": 2.4,
+    "epsRevision3M": null,
+    "fcfConversion": null,
+    "analystSellPct": null,
+    "grossMarginTTM": null,
+    "targetLowPrice": null,
+    "fiftyTwoWeekLow": 51.6249,
+    "netDebtToEbitda": null,
+    "percentInsiders": null,
+    "targetHighPrice": null,
+    "targetMeanPrice": null,
+    "fiftyTwoWeekHigh": 62.4396,
+    "grossMarginTrend": null,
+    "insiderNetShares": null,
+    "shortInterestPct": null,
+    "recommendationKey": null,
+    "returnOnEquityTTM": null,
+    "grossMarginDelta1Y": null,
+    "insiderClusterFlag": null,
+    "netDebtEbitdaDelta": null,
+    "operatingMarginTTM": null,
+    "longBusinessSummary": "NA",
+    "percentInstitutions": null,
+    "numberOfAnalystOpinions": null
   },
   "bars": [
-    {
-      "date": "2020-04-24",
-      "open": 28.275,
-      "high": 28.6,
-      "low": 28.115,
-      "close": 24.088,
-      "volume": 422454
-    },
-    {
-      "date": "2020-04-27",
-      "open": 28.81,
-      "high": 28.955,
-      "low": 28.645,
-      "close": 24.6848,
-      "volume": 292169
-    },
-    {
-      "date": "2020-04-28",
-      "open": 28.985,
-      "high": 29.66,
-      "low": 28.955,
-      "close": 25.1025,
-      "volume": 1248091
-    },
-    {
-      "date": "2020-04-29",
-      "open": 29.525,
-      "high": 30.16,
-      "low": 29.38,
-      "close": 25.6567,
-      "volume": 375341
-    },
-    {
-      "date": "2020-04-30",
-      "open": 30.285,
-      "high": 30.39,
-      "low": 29.33,
-      "close": 25.094,
-      "volume": 1053311
-    },
-    {
-      "date": "2020-05-04",
-      "open": 28.505,
-      "high": 28.595,
-      "low": 28.23,
-      "close": 24.1989,
-      "volume": 660317
-    },
-    {
-      "date": "2020-05-05",
-      "open": 28.81,
-      "high": 29.025,
-      "low": 28.565,
-      "close": 24.7232,
-      "volume": 619388
-    },
-    {
-      "date": "2020-05-06",
-      "open": 28.93,
-      "high": 28.995,
-      "low": 28.63,
-      "close": 24.4461,
-      "volume": 452879
-    },
-    {
-      "date": "2020-05-07",
-      "open": 28.75,
-      "high": 29.115,
-      "low": 28.75,
-      "close": 24.7999,
-      "volume": 198365
-    },
-    {
-      "date": "2020-05-08",
-      "open": 29.36,
-      "high": 29.385,
-      "low": 29.16,
-      "close": 25.0301,
-      "volume": 198253
-    },
-    {
-      "date": "2020-05-11",
-      "open": 29.49,
-      "high": 29.575,
-      "low": 28.925,
-      "close": 24.8425,
-      "volume": 278036
-    },
-    {
-      "date": "2020-05-12",
-      "open": 29.065,
-      "high": 29.25,
-      "low": 29.035,
-      "close": 24.8638,
-      "volume": 172073
-    },
-    {
-      "date": "2020-05-13",
-      "open": 28.76,
-      "high": 28.835,
-      "low": 28.335,
-      "close": 24.169,
-      "volume": 885269
-    },
-    {
-      "date": "2020-05-14",
-      "open": 28.08,
-      "high": 28.215,
-      "low": 27.365,
-      "close": 23.8067,
-      "volume": 796619
-    },
-    {
-      "date": "2020-05-15",
-      "open": 28.27,
-      "high": 28.305,
-      "low": 27.885,
-      "close": 23.8579,
-      "volume": 213079
-    },
-    {
-      "date": "2020-05-18",
-      "open": 28.635,
-      "high": 29.57,
-      "low": 28.57,
-      "close": 25.1366,
-      "volume": 387194
-    },
-    {
-      "date": "2020-05-19",
-      "open": 29.76,
-      "high": 29.775,
-      "low": 29.11,
-      "close": 25.0258,
-      "volume": 1216438
-    },
-    {
-      "date": "2020-05-20",
-      "open": 29.275,
-      "high": 29.82,
-      "low": 29.11,
-      "close": 25.3881,
-      "volume": 322082
-    },
-    {
-      "date": "2020-05-21",
-      "open": 29.43,
-      "high": 29.735,
-      "low": 29.36,
-      "close": 25.094,
-      "volume": 135870
-    },
-    {
-      "date": "2020-05-22",
-      "open": 29,
-      "high": 29.595,
-      "low": 28.905,
-      "close": 25.0898,
-      "volume": 263445
-    },
-    {
-      "date": "2020-05-25",
-      "open": 29.655,
-      "high": 30.09,
-      "low": 29.51,
-      "close": 25.6524,
-      "volume": 272277
-    },
     {
       "date": "2020-05-26",
       "open": 30.395,
@@ -12253,6 +12096,174 @@
       "low": 59.22,
       "close": 59.69,
       "volume": 2734786
+    },
+    {
+      "date": "2026-04-24",
+      "open": 59.58,
+      "high": 59.99,
+      "low": 59.22,
+      "close": 59.62,
+      "volume": 1565938
+    },
+    {
+      "date": "2026-04-27",
+      "open": 59.72,
+      "high": 60.11,
+      "low": 59.31,
+      "close": 59.39,
+      "volume": 290195
+    },
+    {
+      "date": "2026-04-28",
+      "open": 59.39,
+      "high": 59.68,
+      "low": 59.04,
+      "close": 59.13,
+      "volume": 240845
+    },
+    {
+      "date": "2026-04-29",
+      "open": 59.32,
+      "high": 59.33,
+      "low": 58.81,
+      "close": 58.99,
+      "volume": 622953
+    },
+    {
+      "date": "2026-04-30",
+      "open": 58.51,
+      "high": 59.76,
+      "low": 58.48,
+      "close": 59.71,
+      "volume": 513222
+    },
+    {
+      "date": "2026-05-04",
+      "open": 59.68,
+      "high": 59.78,
+      "low": 58.5,
+      "close": 58.51,
+      "volume": 2203009
+    },
+    {
+      "date": "2026-05-05",
+      "open": 58.78,
+      "high": 59.75,
+      "low": 58.77,
+      "close": 59.75,
+      "volume": 326565
+    },
+    {
+      "date": "2026-05-06",
+      "open": 60.44,
+      "high": 61.73,
+      "low": 60.38,
+      "close": 61.32,
+      "volume": 3755447
+    },
+    {
+      "date": "2026-05-07",
+      "open": 61.49,
+      "high": 61.75,
+      "low": 60.75,
+      "close": 60.76,
+      "volume": 291743
+    },
+    {
+      "date": "2026-05-08",
+      "open": 60.32,
+      "high": 60.6,
+      "low": 60.17,
+      "close": 60.29,
+      "volume": 305131
+    },
+    {
+      "date": "2026-05-11",
+      "open": 60.34,
+      "high": 60.34,
+      "low": 59.95,
+      "close": 60.17,
+      "volume": 203431
+    },
+    {
+      "date": "2026-05-12",
+      "open": 59.44,
+      "high": 59.79,
+      "low": 59.29,
+      "close": 59.35,
+      "volume": 2337891
+    },
+    {
+      "date": "2026-05-13",
+      "open": 59.82,
+      "high": 59.91,
+      "low": 59.3,
+      "close": 59.91,
+      "volume": 1012024
+    },
+    {
+      "date": "2026-05-14",
+      "open": 60.34,
+      "high": 60.69,
+      "low": 60.13,
+      "close": 60.62,
+      "volume": 1631341
+    },
+    {
+      "date": "2026-05-15",
+      "open": 59.99,
+      "high": 60.09,
+      "low": 59.38,
+      "close": 59.54,
+      "volume": 511603
+    },
+    {
+      "date": "2026-05-18",
+      "open": 59.06,
+      "high": 60.16,
+      "low": 58.99,
+      "close": 59.89,
+      "volume": 2354427
+    },
+    {
+      "date": "2026-05-19",
+      "open": 59.99,
+      "high": 60.49,
+      "low": 59.8,
+      "close": 59.84,
+      "volume": 1370459
+    },
+    {
+      "date": "2026-05-20",
+      "open": 59.86,
+      "high": 61.55,
+      "low": 59.8,
+      "close": 61.14,
+      "volume": 1804308
+    },
+    {
+      "date": "2026-05-21",
+      "open": 61.02,
+      "high": 61.49,
+      "low": 60.63,
+      "close": 61,
+      "volume": 1007959
+    },
+    {
+      "date": "2026-05-22",
+      "open": 61.48,
+      "high": 61.78,
+      "low": 61.32,
+      "close": 61.61,
+      "volume": 486022
+    },
+    {
+      "date": "2026-05-25",
+      "open": 62.32,
+      "high": 62.91,
+      "low": 62.07,
+      "close": 62.83,
+      "volume": 201014
     }
   ],
   "monthly": [
@@ -13442,7 +13453,11 @@
     },
     {
       "date": "2026-04-01T00:00:00.000Z",
-      "adjClose": 59.69
+      "adjClose": 59.71
+    },
+    {
+      "date": "2026-05-04T00:00:00.000Z",
+      "adjClose": 62.83
     }
   ]
 }
