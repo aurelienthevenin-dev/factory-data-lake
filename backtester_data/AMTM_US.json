@@ -2,86 +2,88 @@
   "ticker": "AMTM.US",
   "name": "Amentum Holdings Inc.",
   "fundamentals": {
-    "beta": null,
-    "isETF": false,
-    "roaTTM": 0.0286,
-    "sector": "Industrials",
     "currency": "USD",
-    "epsTrend": {
-      "current": 2.4176,
-      "days7Ago": 0,
-      "days30Ago": 2.4076,
-      "days60Ago": 2.4076,
-      "days90Ago": 2.4076
-    },
-    "fcfYield": 7.928861862328368,
-    "pegRatio": null,
-    "revDecel": 4.86766070262978,
-    "forwardPE": 9.5602,
-    "marketCap": 5675467776,
-    "updatedAt": "2026-05-26T09:34:21.351Z",
-    "forwardEps": 2.4176,
-    "trailingPE": 38.7167,
-    "daysToCover": null,
-    "sbcBurnRate": 0.19716921343567356,
+    "isETF": false,
+    "sector": "Industrials",
+    "trailingPE": 37,
+    "forwardPE": 8.0451,
     "trailingEps": 0.6,
-    "buybackYield": null,
+    "forwardEps": 2.4239,
+    "epsRevision3M": null,
+    "epsTrend": {
+      "current": 2.4239,
+      "days7Ago": 2.4239,
+      "days30Ago": 2.4263,
+      "days60Ago": 2.4176,
+      "days90Ago": 0
+    },
+    "pegRatio": null,
+    "dividendYield": null,
     "dividendRate": null,
+    "exDividendDate": null,
+    "beta": null,
+    "marketCap": 5423822336,
+    "fiftyTwoWeekHigh": 38.11,
+    "fiftyTwoWeekLow": 19.802,
+    "targetMeanPrice": 31.75,
+    "targetHighPrice": null,
+    "targetLowPrice": null,
+    "recommendationKey": "hold",
+    "numberOfAnalystOpinions": 9,
+    "longBusinessSummary": "Amentum Holdings, Inc. engages in the provision of engineering and technology solutions in the United States and internationally. It operates through two segments, Digital Solutions and Global Engineering Solutions. The company offers digital and data-driven solutions, including intelligence analytics, space system development, cybersecurity, and IT to the federal government and commercial clients. It also provides large-scale environmental remediation, nuclear power solutions, platform engineering, sustainment, and supply chain management for the U.S. government and allied nations. The company was incorporated in 2023 and is headquartered in Chantilly, Virginia.",
+    "insiderNetShares": null,
+    "insiderClusterFlag": null,
+    "fcfYield": 8.29673193779185,
+    "buybackYield": null,
+    "grossMarginTTM": 0.0790789381029505,
+    "grossMarginDelta1Y": 0.010987748576203077,
+    "operatingMarginTTM": 0.0411,
+    "returnOnEquityTTM": 0.0289,
+    "netDebtToEbitda": 3.506012024048096,
+    "shortInterestPct": null,
+    "daysToCover": null,
+    "percentInstitutions": 106.77600000000001,
+    "percentInsiders": 1.174,
     "profitMargin": 0.0104,
+    "roaTTM": 0.0286,
+    "negativeEquity": false,
     "quarterlyEps": [
       {
-        "eps": 0.47,
-        "quarter": "2024-09-30"
+        "quarter": "2024-09-30",
+        "eps": 0.47
       },
       {
-        "eps": 0.51,
-        "quarter": "2024-12-31"
+        "quarter": "2024-12-31",
+        "eps": 0.51
       },
       {
-        "eps": 0.02,
-        "quarter": "2025-03-31"
+        "quarter": "2025-03-31",
+        "eps": 0.53
       },
       {
-        "eps": 0.04,
-        "quarter": "2025-06-30"
+        "quarter": "2025-06-30",
+        "eps": 0.56
       },
       {
-        "eps": 0.63,
-        "quarter": "2025-09-30"
+        "quarter": "2025-09-30",
+        "eps": 0.63
       },
       {
-        "eps": 0.54,
-        "quarter": "2025-12-31"
+        "quarter": "2025-12-31",
+        "eps": 0.54
       },
       {
-        "eps": 0.61,
-        "quarter": "2026-03-31"
+        "quarter": "2026-03-31",
+        "eps": 0.61
       }
     ],
-    "dividendYield": null,
-    "epsRevision3M": null,
-    "fcfConversion": 304.05405405405406,
     "analystSellPct": 11.11111111111111,
-    "grossMarginTTM": 0.0790789381029505,
-    "targetLowPrice": null,
-    "fiftyTwoWeekLow": 19.11,
-    "netDebtToEbitda": 3.506012024048096,
-    "percentInsiders": 2.17,
-    "targetHighPrice": null,
-    "targetMeanPrice": 34.8182,
-    "fiftyTwoWeekHigh": 38.11,
+    "revDecel": 4.86766070262978,
+    "netDebtEbitdaDelta": -0.9717242548684406,
     "grossMarginTrend": 0.7820312719786395,
-    "insiderNetShares": null,
-    "shortInterestPct": null,
-    "recommendationKey": "hold",
-    "returnOnEquityTTM": 0.0289,
-    "grossMarginDelta1Y": 0.010987748576203077,
-    "insiderClusterFlag": null,
-    "netDebtEbitdaDelta": -1.0803630830366453,
-    "operatingMarginTTM": 0.0411,
-    "longBusinessSummary": "Amentum Holdings, Inc. engages in the provision of engineering and technology solutions in the United States and internationally. It operates through two segments, Digital Solutions and Global Engineering Solutions. The company offers digital and data-driven solutions, including intelligence analytics, space system development, cybersecurity, and IT to the federal government and commercial clients. It also provides large-scale environmental remediation, nuclear power solutions, platform engineering, sustainment, and supply chain management for the U.S. government and allied nations. The company was incorporated in 2023 and is headquartered in Chantilly, Virginia.",
-    "percentInstitutions": 107.732,
-    "numberOfAnalystOpinions": 9
+    "sbcBurnRate": 0.19716921343567356,
+    "fcfConversion": 304.05405405405406,
+    "updatedAt": "2026-08-03T17:35:54.122Z"
   },
   "bars": [
     {
@@ -3419,6 +3421,382 @@
       "low": 22.97,
       "close": 23.23,
       "volume": 1466300
+    },
+    {
+      "date": "2026-05-26",
+      "open": 23.23,
+      "high": 23.46,
+      "low": 22.7449,
+      "close": 22.91,
+      "volume": 2750559
+    },
+    {
+      "date": "2026-05-27",
+      "open": 22.95,
+      "high": 23.2,
+      "low": 22.665,
+      "close": 23.11,
+      "volume": 2003800
+    },
+    {
+      "date": "2026-05-28",
+      "open": 23.1,
+      "high": 24.22,
+      "low": 22.88,
+      "close": 23.84,
+      "volume": 2097800
+    },
+    {
+      "date": "2026-05-29",
+      "open": 23.81,
+      "high": 23.83,
+      "low": 22.94,
+      "close": 23.23,
+      "volume": 2901800
+    },
+    {
+      "date": "2026-06-01",
+      "open": 23.61,
+      "high": 24.526,
+      "low": 23.51,
+      "close": 24.07,
+      "volume": 1931700
+    },
+    {
+      "date": "2026-06-02",
+      "open": 23.61,
+      "high": 23.83,
+      "low": 22.96,
+      "close": 23.36,
+      "volume": 1788500
+    },
+    {
+      "date": "2026-06-03",
+      "open": 23,
+      "high": 23.275,
+      "low": 22.67,
+      "close": 23.15,
+      "volume": 1823300
+    },
+    {
+      "date": "2026-06-04",
+      "open": 23.61,
+      "high": 24.1,
+      "low": 23.12,
+      "close": 23.29,
+      "volume": 1441200
+    },
+    {
+      "date": "2026-06-05",
+      "open": 23.25,
+      "high": 23.31,
+      "low": 22.54,
+      "close": 22.8,
+      "volume": 1629600
+    },
+    {
+      "date": "2026-06-08",
+      "open": 22.68,
+      "high": 23.15,
+      "low": 22.41,
+      "close": 22.61,
+      "volume": 2609800
+    },
+    {
+      "date": "2026-06-09",
+      "open": 22.7,
+      "high": 23,
+      "low": 21.87,
+      "close": 22.51,
+      "volume": 1576400
+    },
+    {
+      "date": "2026-06-10",
+      "open": 22.46,
+      "high": 22.55,
+      "low": 21.87,
+      "close": 22,
+      "volume": 963700
+    },
+    {
+      "date": "2026-06-11",
+      "open": 21.9,
+      "high": 22.22,
+      "low": 21.74,
+      "close": 22.08,
+      "volume": 2221300
+    },
+    {
+      "date": "2026-06-12",
+      "open": 22.31,
+      "high": 22.98,
+      "low": 21.89,
+      "close": 22.86,
+      "volume": 1080400
+    },
+    {
+      "date": "2026-06-15",
+      "open": 23.26,
+      "high": 23.454,
+      "low": 22.2,
+      "close": 22.42,
+      "volume": 1612100
+    },
+    {
+      "date": "2026-06-16",
+      "open": 22.4,
+      "high": 22.565,
+      "low": 21.94,
+      "close": 22.16,
+      "volume": 1584100
+    },
+    {
+      "date": "2026-06-17",
+      "open": 22.18,
+      "high": 22.6,
+      "low": 21.38,
+      "close": 21.5,
+      "volume": 1986000
+    },
+    {
+      "date": "2026-06-18",
+      "open": 21.4,
+      "high": 21.67,
+      "low": 20.99,
+      "close": 21.66,
+      "volume": 3296500
+    },
+    {
+      "date": "2026-06-22",
+      "open": 21.36,
+      "high": 21.4,
+      "low": 20.774,
+      "close": 21.06,
+      "volume": 1761700
+    },
+    {
+      "date": "2026-06-23",
+      "open": 21,
+      "high": 21.27,
+      "low": 20.77,
+      "close": 20.96,
+      "volume": 1867500
+    },
+    {
+      "date": "2026-06-24",
+      "open": 20.88,
+      "high": 21.07,
+      "low": 20.34,
+      "close": 20.38,
+      "volume": 2080200
+    },
+    {
+      "date": "2026-06-25",
+      "open": 20.31,
+      "high": 20.57,
+      "low": 19.95,
+      "close": 20.09,
+      "volume": 2678400
+    },
+    {
+      "date": "2026-06-26",
+      "open": 19.91,
+      "high": 20.3,
+      "low": 19.802,
+      "close": 20.25,
+      "volume": 2445400
+    },
+    {
+      "date": "2026-06-29",
+      "open": 20.295,
+      "high": 20.57,
+      "low": 19.99,
+      "close": 20.23,
+      "volume": 2511600
+    },
+    {
+      "date": "2026-06-30",
+      "open": 20.5,
+      "high": 21.23,
+      "low": 20.165,
+      "close": 20.67,
+      "volume": 2281600
+    },
+    {
+      "date": "2026-07-01",
+      "open": 20.87,
+      "high": 21.27,
+      "low": 20.19,
+      "close": 20.2,
+      "volume": 2337200
+    },
+    {
+      "date": "2026-07-02",
+      "open": 20.51,
+      "high": 21.26,
+      "low": 20.46,
+      "close": 21.24,
+      "volume": 2430100
+    },
+    {
+      "date": "2026-07-06",
+      "open": 21.26,
+      "high": 22.27,
+      "low": 21.14,
+      "close": 22.25,
+      "volume": 2391200
+    },
+    {
+      "date": "2026-07-07",
+      "open": 22.4,
+      "high": 22.72,
+      "low": 21.15,
+      "close": 21.18,
+      "volume": 2150300
+    },
+    {
+      "date": "2026-07-08",
+      "open": 20.95,
+      "high": 21.024,
+      "low": 20.59,
+      "close": 20.88,
+      "volume": 1618800
+    },
+    {
+      "date": "2026-07-09",
+      "open": 20.61,
+      "high": 21.34,
+      "low": 20.45,
+      "close": 21.3,
+      "volume": 1748700
+    },
+    {
+      "date": "2026-07-10",
+      "open": 21.5,
+      "high": 21.85,
+      "low": 20.76,
+      "close": 21.01,
+      "volume": 1608700
+    },
+    {
+      "date": "2026-07-13",
+      "open": 21.21,
+      "high": 21.28,
+      "low": 20.21,
+      "close": 20.43,
+      "volume": 1553800
+    },
+    {
+      "date": "2026-07-14",
+      "open": 20.25,
+      "high": 21,
+      "low": 20.145,
+      "close": 20.49,
+      "volume": 1557800
+    },
+    {
+      "date": "2026-07-15",
+      "open": 20.55,
+      "high": 21.34,
+      "low": 20.55,
+      "close": 20.76,
+      "volume": 1736900
+    },
+    {
+      "date": "2026-07-16",
+      "open": 20.89,
+      "high": 21.025,
+      "low": 20.51,
+      "close": 20.77,
+      "volume": 1488700
+    },
+    {
+      "date": "2026-07-17",
+      "open": 20.8,
+      "high": 21.28,
+      "low": 20.5,
+      "close": 20.68,
+      "volume": 1190000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 20.85,
+      "high": 21.65,
+      "low": 20.675,
+      "close": 21.16,
+      "volume": 2193800
+    },
+    {
+      "date": "2026-07-21",
+      "open": 21.14,
+      "high": 21.22,
+      "low": 20.824,
+      "close": 20.98,
+      "volume": 1530200
+    },
+    {
+      "date": "2026-07-22",
+      "open": 21.17,
+      "high": 21.69,
+      "low": 21.02,
+      "close": 21.42,
+      "volume": 1749600
+    },
+    {
+      "date": "2026-07-23",
+      "open": 21.26,
+      "high": 22.301,
+      "low": 21.25,
+      "close": 22.01,
+      "volume": 2081300
+    },
+    {
+      "date": "2026-07-24",
+      "open": 22.25,
+      "high": 23.181,
+      "low": 22.25,
+      "close": 22.55,
+      "volume": 2241000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 22.58,
+      "high": 23.04,
+      "low": 22.49,
+      "close": 22.87,
+      "volume": 1602600
+    },
+    {
+      "date": "2026-07-28",
+      "open": 22.8,
+      "high": 23.47,
+      "low": 22.75,
+      "close": 23.46,
+      "volume": 1543400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 23.28,
+      "high": 23.333,
+      "low": 21.72,
+      "close": 21.8,
+      "volume": 2608900
+    },
+    {
+      "date": "2026-07-30",
+      "open": 21.5,
+      "high": 21.81,
+      "low": 21.26,
+      "close": 21.73,
+      "volume": 1392100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 21.73,
+      "high": 22.345,
+      "low": 21.485,
+      "close": 22.2,
+      "volume": 1392200
     }
   ],
   "monthly": [
@@ -3505,6 +3883,14 @@
     {
       "date": "2026-05-01T00:00:00.000Z",
       "adjClose": 23.23
+    },
+    {
+      "date": "2026-06-01T00:00:00.000Z",
+      "adjClose": 20.67
+    },
+    {
+      "date": "2026-07-01T00:00:00.000Z",
+      "adjClose": 22.2
     }
   ]
 }

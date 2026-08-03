@@ -2,94 +2,92 @@
   "ticker": "FTRE.US",
   "name": "Fortrea Holdings Inc.",
   "fundamentals": {
-    "beta": 1.907,
-    "isETF": false,
-    "roaTTM": -0.0005,
-    "sector": "Healthcare",
     "currency": "USD",
-    "epsTrend": {
-      "current": 0.8065,
-      "days7Ago": 0.8136,
-      "days30Ago": 0.7089,
-      "days60Ago": 0.7229,
-      "days90Ago": 0.7819
-    },
-    "fcfYield": 15.227004178289945,
-    "pegRatio": 0.3442,
-    "revDecel": 2.964350517594102,
-    "forwardPE": 7.8678,
-    "marketCap": 1250410112,
-    "updatedAt": "2026-05-26T09:34:37.152Z",
-    "forwardEps": 0.8065,
+    "isETF": false,
+    "sector": "Healthcare",
     "trailingPE": 0,
-    "daysToCover": null,
-    "sbcBurnRate": 2.6286642545964707,
-    "trailingEps": -4.81,
-    "buybackYield": null,
+    "forwardPE": 14.9701,
+    "trailingEps": -0.83,
+    "forwardEps": 0.8452,
+    "epsRevision3M": -3.2258064516129057,
+    "epsTrend": {
+      "current": 0.8452,
+      "days7Ago": 0.8058,
+      "days30Ago": 0.8067,
+      "days60Ago": 0.8065,
+      "days90Ago": 0.7072
+    },
+    "pegRatio": 0.3442,
+    "dividendYield": null,
     "dividendRate": null,
-    "profitMargin": -0.165,
+    "exDividendDate": null,
+    "beta": 2.009,
+    "marketCap": 1823067008,
+    "fiftyTwoWeekHigh": 21.39,
+    "fiftyTwoWeekLow": 5.82,
+    "targetMeanPrice": 20.1818,
+    "targetHighPrice": null,
+    "targetLowPrice": null,
+    "recommendationKey": "hold",
+    "numberOfAnalystOpinions": 12,
+    "longBusinessSummary": "Fortrea Holdings Inc., a contract research organization, provides biopharmaceutical product and medical device development solutions to pharmaceutical, biotechnology, and medical device customers worldwide. It offers clinical pharmacology, such as clinical research units, external partnerships, project management, study design and monitoring, bioanalytics and biomarkers, pharmacokinetics, modeling and simulation, and biometrics; and clinical development, including phase I through IV clinical and real-world evidence studies, regulatory affairs, protocol design, operational planning, study and site start-up, patient recruitment, project management, comprehensive site and medical monitoring, data management and biostatistics, pharmacovigilance, medical writing, and mobile clinical services. The company also provides consulting services comprising product development and regulatory, market access and health economics, and outcomes research, as well as RWE services. Fortrea Holdings Inc. was incorporated in 2023 and is headquartered in Durham, North Carolina.",
+    "insiderNetShares": null,
+    "insiderClusterFlag": null,
+    "fcfYield": 8.260804421293109,
+    "buybackYield": null,
+    "grossMarginTTM": 0.17108163646553334,
+    "grossMarginDelta1Y": -0.019004333902127163,
+    "operatingMarginTTM": 0.0258,
+    "returnOnEquityTTM": -0.153,
+    "netDebtToEbitda": null,
+    "shortInterestPct": null,
+    "daysToCover": null,
+    "percentInstitutions": 110.422,
+    "percentInsiders": 1.013,
+    "profitMargin": -0.0318,
+    "roaTTM": 0.0058,
+    "negativeEquity": null,
     "quarterlyEps": [
       {
-        "eps": -0.03,
-        "quarter": "2024-06-30"
+        "quarter": "2024-09-30",
+        "eps": 0.23
       },
       {
-        "eps": 0.23,
-        "quarter": "2024-09-30"
+        "quarter": "2024-12-31",
+        "eps": 0.18
       },
       {
-        "eps": 0.18,
-        "quarter": "2024-12-31"
+        "quarter": "2025-03-31",
+        "eps": 0.02
       },
       {
-        "eps": 0.02,
-        "quarter": "2025-03-31"
+        "quarter": "2025-06-30",
+        "eps": 0.19
       },
       {
-        "eps": 0.19,
-        "quarter": "2025-06-30"
+        "quarter": "2025-09-30",
+        "eps": 0.12
       },
       {
-        "eps": 0.12,
-        "quarter": "2025-09-30"
+        "quarter": "2025-12-31",
+        "eps": 0.09
       },
       {
-        "eps": 0.09,
-        "quarter": "2025-12-31"
+        "quarter": "2026-03-31",
+        "eps": 0.16
       },
       {
-        "eps": 0.16,
-        "quarter": "2026-03-31"
+        "quarter": "2026-06-30",
+        "eps": 0.23
       }
     ],
-    "dividendYield": null,
-    "epsRevision3M": 40.00000000000001,
-    "fcfConversion": null,
     "analystSellPct": 8.333333333333332,
-    "grossMarginTTM": 0.1597135051318024,
-    "targetLowPrice": null,
-    "fiftyTwoWeekLow": 3.97,
-    "netDebtToEbitda": -1.0314735336194563,
-    "percentInsiders": 0.8170000000000001,
-    "targetHighPrice": null,
-    "targetMeanPrice": 16.2091,
-    "fiftyTwoWeekHigh": 18.67,
-    "grossMarginTrend": -4.200587002671556,
-    "insiderNetShares": null,
-    "shortInterestPct": null,
-    "recommendationKey": "hold",
-    "returnOnEquityTTM": -0.6455,
-    "grossMarginDelta1Y": -0.04240147848452169,
-    "insiderClusterFlag": {
-      "sales": 80014.04000000001,
-      "purchases": 0,
-      "distinctBuyers": 0
-    },
+    "revDecel": -2.2468389118729157,
     "netDebtEbitdaDelta": null,
-    "operatingMarginTTM": 0.0052,
-    "longBusinessSummary": "Fortrea Holdings Inc., a contract research organization, provides biopharmaceutical product and medical device development solutions to pharmaceutical, biotechnology, and medical device customers worldwide. It offers clinical pharmacology, such as clinical research units, external partnerships, project management, study design and monitoring, bioanalytics and biomarkers, pharmacokinetics, modeling and simulation, and biometrics; and clinical development, including phase I through IV clinical and real-world evidence studies, regulatory affairs, protocol design, operational planning, study and site start-up, patient recruitment, project management, comprehensive site and medical monitoring, data management and biostatistics, pharmacovigilance, medical writing, and mobile clinical services. The company also provides consulting services comprising product development and regulatory, market access and health economics, and outcomes research, as well as RWE services. Fortrea Holdings Inc. was incorporated in 2023 and is headquartered in Durham, North Carolina.",
-    "percentInstitutions": 109.988,
-    "numberOfAnalystOpinions": 12
+    "grossMarginTrend": -1.9127303184260427,
+    "sbcBurnRate": 2.2828320567905847,
+    "fcfConversion": null,
+    "updatedAt": "2026-08-03T17:36:00.003Z"
   },
   "bars": [
     {
@@ -5979,6 +5977,382 @@
       "low": 13,
       "close": 13.22,
       "volume": 924100
+    },
+    {
+      "date": "2026-05-26",
+      "open": 13.4,
+      "high": 13.54,
+      "low": 13,
+      "close": 13.22,
+      "volume": 1136100
+    },
+    {
+      "date": "2026-05-27",
+      "open": 13.19,
+      "high": 13.66,
+      "low": 13.11,
+      "close": 13.42,
+      "volume": 944300
+    },
+    {
+      "date": "2026-05-28",
+      "open": 13.37,
+      "high": 15.09,
+      "low": 13.25,
+      "close": 15,
+      "volume": 1331900
+    },
+    {
+      "date": "2026-05-29",
+      "open": 15.06,
+      "high": 15.609,
+      "low": 14.64,
+      "close": 15.39,
+      "volume": 2042400
+    },
+    {
+      "date": "2026-06-01",
+      "open": 15.25,
+      "high": 16.075,
+      "low": 14.765,
+      "close": 15.76,
+      "volume": 1714400
+    },
+    {
+      "date": "2026-06-02",
+      "open": 15.35,
+      "high": 15.7,
+      "low": 15,
+      "close": 15.36,
+      "volume": 1372400
+    },
+    {
+      "date": "2026-06-03",
+      "open": 15.36,
+      "high": 15.65,
+      "low": 14.47,
+      "close": 15.63,
+      "volume": 1021800
+    },
+    {
+      "date": "2026-06-04",
+      "open": 15.68,
+      "high": 17.556,
+      "low": 15.549,
+      "close": 17.25,
+      "volume": 2990500
+    },
+    {
+      "date": "2026-06-05",
+      "open": 17.03,
+      "high": 17.49,
+      "low": 15.99,
+      "close": 16.08,
+      "volume": 1033200
+    },
+    {
+      "date": "2026-06-08",
+      "open": 16.42,
+      "high": 17.2,
+      "low": 16.22,
+      "close": 16.57,
+      "volume": 1186800
+    },
+    {
+      "date": "2026-06-09",
+      "open": 17,
+      "high": 17.34,
+      "low": 16.08,
+      "close": 16.88,
+      "volume": 867200
+    },
+    {
+      "date": "2026-06-10",
+      "open": 16.91,
+      "high": 17.24,
+      "low": 16.32,
+      "close": 16.34,
+      "volume": 1051900
+    },
+    {
+      "date": "2026-06-11",
+      "open": 16.49,
+      "high": 17.07,
+      "low": 16.145,
+      "close": 16.87,
+      "volume": 1240700
+    },
+    {
+      "date": "2026-06-12",
+      "open": 16.75,
+      "high": 16.95,
+      "low": 16.395,
+      "close": 16.48,
+      "volume": 964700
+    },
+    {
+      "date": "2026-06-15",
+      "open": 16.71,
+      "high": 17.081,
+      "low": 16.38,
+      "close": 16.63,
+      "volume": 948700
+    },
+    {
+      "date": "2026-06-16",
+      "open": 16.67,
+      "high": 16.69,
+      "low": 15.9,
+      "close": 15.98,
+      "volume": 1472700
+    },
+    {
+      "date": "2026-06-17",
+      "open": 15.9,
+      "high": 16.04,
+      "low": 15.225,
+      "close": 15.32,
+      "volume": 1087200
+    },
+    {
+      "date": "2026-06-18",
+      "open": 15.76,
+      "high": 16.05,
+      "low": 14.88,
+      "close": 15.31,
+      "volume": 3008100
+    },
+    {
+      "date": "2026-06-22",
+      "open": 15.69,
+      "high": 15.99,
+      "low": 15.195,
+      "close": 15.56,
+      "volume": 1727300
+    },
+    {
+      "date": "2026-06-23",
+      "open": 15.37,
+      "high": 16.52,
+      "low": 15.25,
+      "close": 16.46,
+      "volume": 1167900
+    },
+    {
+      "date": "2026-06-24",
+      "open": 16.83,
+      "high": 17.778,
+      "low": 16.75,
+      "close": 17.02,
+      "volume": 2467900
+    },
+    {
+      "date": "2026-06-25",
+      "open": 17.08,
+      "high": 18.16,
+      "low": 16.99,
+      "close": 17.71,
+      "volume": 1918200
+    },
+    {
+      "date": "2026-06-26",
+      "open": 16.97,
+      "high": 17.85,
+      "low": 16.515,
+      "close": 17.65,
+      "volume": 3629700
+    },
+    {
+      "date": "2026-06-29",
+      "open": 17.52,
+      "high": 17.8,
+      "low": 17.085,
+      "close": 17.52,
+      "volume": 1209500
+    },
+    {
+      "date": "2026-06-30",
+      "open": 17.53,
+      "high": 17.75,
+      "low": 17.24,
+      "close": 17.4,
+      "volume": 1080900
+    },
+    {
+      "date": "2026-07-01",
+      "open": 17.7,
+      "high": 18.34,
+      "low": 17.38,
+      "close": 17.58,
+      "volume": 1574800
+    },
+    {
+      "date": "2026-07-02",
+      "open": 17.72,
+      "high": 18.05,
+      "low": 17.23,
+      "close": 17.28,
+      "volume": 1372000
+    },
+    {
+      "date": "2026-07-06",
+      "open": 17.405,
+      "high": 17.98,
+      "low": 16.9,
+      "close": 17.85,
+      "volume": 923700
+    },
+    {
+      "date": "2026-07-07",
+      "open": 18.085,
+      "high": 18.31,
+      "low": 16.88,
+      "close": 17.48,
+      "volume": 1229200
+    },
+    {
+      "date": "2026-07-08",
+      "open": 17.11,
+      "high": 17.18,
+      "low": 16.554,
+      "close": 17.02,
+      "volume": 847400
+    },
+    {
+      "date": "2026-07-09",
+      "open": 16.93,
+      "high": 17.87,
+      "low": 16.76,
+      "close": 17.67,
+      "volume": 971800
+    },
+    {
+      "date": "2026-07-10",
+      "open": 17.66,
+      "high": 18.06,
+      "low": 17.47,
+      "close": 17.76,
+      "volume": 832100
+    },
+    {
+      "date": "2026-07-13",
+      "open": 17.58,
+      "high": 17.99,
+      "low": 17.445,
+      "close": 17.86,
+      "volume": 802800
+    },
+    {
+      "date": "2026-07-14",
+      "open": 18.02,
+      "high": 18.29,
+      "low": 17.67,
+      "close": 18.03,
+      "volume": 736300
+    },
+    {
+      "date": "2026-07-15",
+      "open": 18.12,
+      "high": 18.16,
+      "low": 17.391,
+      "close": 17.91,
+      "volume": 974000
+    },
+    {
+      "date": "2026-07-16",
+      "open": 17.9,
+      "high": 18.12,
+      "low": 17.6,
+      "close": 17.92,
+      "volume": 1682900
+    },
+    {
+      "date": "2026-07-17",
+      "open": 17.73,
+      "high": 18.115,
+      "low": 17.52,
+      "close": 17.76,
+      "volume": 938500
+    },
+    {
+      "date": "2026-07-20",
+      "open": 17.64,
+      "high": 17.84,
+      "low": 17.49,
+      "close": 17.73,
+      "volume": 680700
+    },
+    {
+      "date": "2026-07-21",
+      "open": 17.76,
+      "high": 18.33,
+      "low": 17.61,
+      "close": 17.91,
+      "volume": 1533300
+    },
+    {
+      "date": "2026-07-22",
+      "open": 17.7,
+      "high": 18.59,
+      "low": 17.37,
+      "close": 18.49,
+      "volume": 1159100
+    },
+    {
+      "date": "2026-07-23",
+      "open": 19.18,
+      "high": 20.19,
+      "low": 19.015,
+      "close": 19.5,
+      "volume": 1705200
+    },
+    {
+      "date": "2026-07-24",
+      "open": 19.77,
+      "high": 20.09,
+      "low": 19.24,
+      "close": 19.52,
+      "volume": 1343500
+    },
+    {
+      "date": "2026-07-27",
+      "open": 19.44,
+      "high": 19.81,
+      "low": 19,
+      "close": 19.2,
+      "volume": 1433200
+    },
+    {
+      "date": "2026-07-28",
+      "open": 20.25,
+      "high": 21.12,
+      "low": 19.885,
+      "close": 20.7,
+      "volume": 3237900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 19.59,
+      "high": 21.39,
+      "low": 19.5,
+      "close": 20.4,
+      "volume": 3155700
+    },
+    {
+      "date": "2026-07-30",
+      "open": 20.48,
+      "high": 20.83,
+      "low": 18.93,
+      "close": 19.08,
+      "volume": 1949400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 18.8,
+      "high": 19.38,
+      "low": 18.21,
+      "close": 19.17,
+      "volume": 1914100
     }
   ],
   "monthly": [
@@ -6124,7 +6498,15 @@
     },
     {
       "date": "2026-05-01T00:00:00.000Z",
-      "adjClose": 13.22
+      "adjClose": 15.39
+    },
+    {
+      "date": "2026-06-01T00:00:00.000Z",
+      "adjClose": 17.4
+    },
+    {
+      "date": "2026-07-01T00:00:00.000Z",
+      "adjClose": 19.17
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "VSCO.US",
-  "name": "Victoria's Secret & Co",
+  "name": "VSCO.US",
   "fundamentals": {
     "beta": 2.246,
     "isETF": false,
@@ -9819,6 +9819,46 @@
       "low": 50.05,
       "close": 52.45,
       "volume": 2011900
+    },
+    {
+      "date": "2026-05-26",
+      "open": 55,
+      "high": 55.97,
+      "low": 54.135,
+      "close": 55.92,
+      "volume": 2449000
+    },
+    {
+      "date": "2026-05-27",
+      "open": 57,
+      "high": 58.5,
+      "low": 56.16,
+      "close": 57.18,
+      "volume": 2858747
+    },
+    {
+      "date": "2026-05-28",
+      "open": 56.63,
+      "high": 60.65,
+      "low": 56.63,
+      "close": 59.6,
+      "volume": 3172880
+    },
+    {
+      "date": "2026-05-29",
+      "open": 58.5,
+      "high": 58.5,
+      "low": 55,
+      "close": 55,
+      "volume": 3712845
+    },
+    {
+      "date": "2026-06-01",
+      "open": 52.26,
+      "high": 55.84,
+      "low": 51.0592,
+      "close": 54.3,
+      "volume": 4238635
     }
   ],
   "monthly": [
@@ -10056,7 +10096,11 @@
     },
     {
       "date": "2026-05-01T00:00:00.000Z",
-      "adjClose": 52.45
+      "adjClose": 55
+    },
+    {
+      "date": "2026-06-01T00:00:00.000Z",
+      "adjClose": 54.3
     }
   ]
 }

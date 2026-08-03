@@ -2,90 +2,92 @@
   "ticker": "KD.US",
   "name": "Kyndryl Holdings Inc",
   "fundamentals": {
-    "beta": 1.789,
-    "isETF": false,
-    "roaTTM": 0.0384,
-    "sector": "Technology",
     "currency": "USD",
-    "epsTrend": {
-      "current": 1.8798,
-      "days7Ago": 1.9217,
-      "days30Ago": 2.2496,
-      "days60Ago": 2.2569,
-      "days90Ago": 2.2569
-    },
-    "fcfYield": 12.271062964862512,
-    "pegRatio": null,
-    "revDecel": -3.887370670265407,
-    "forwardPE": 5.7703,
-    "marketCap": 2770746112,
-    "updatedAt": "2026-05-26T09:34:43.710Z",
-    "forwardEps": 1.7422,
-    "trailingPE": 14.4588,
-    "daysToCover": null,
-    "sbcBurnRate": 0.4836999734958919,
+    "isETF": false,
+    "sector": "Technology",
+    "trailingPE": 15.9412,
+    "forwardPE": 5.4318,
     "trailingEps": 0.85,
-    "buybackYield": 14.364361941221413,
+    "forwardEps": 1.7422,
+    "epsRevision3M": 23.931623931623953,
+    "epsTrend": {
+      "current": 1.8931,
+      "days7Ago": 1.8798,
+      "days30Ago": 1.8798,
+      "days60Ago": 1.8798,
+      "days90Ago": 2.2368
+    },
+    "pegRatio": null,
+    "dividendYield": null,
     "dividendRate": null,
+    "exDividendDate": null,
+    "beta": 1.737,
+    "marketCap": 2988008192,
+    "fiftyTwoWeekHigh": 33.9,
+    "fiftyTwoWeekLow": 10.1,
+    "targetMeanPrice": 13.6,
+    "targetHighPrice": null,
+    "targetLowPrice": null,
+    "recommendationKey": "strong_buy",
+    "numberOfAnalystOpinions": 6,
+    "longBusinessSummary": "Kyndryl Holdings, Inc. operates as a technology services company and IT infrastructure services provider in the United States, Japan, and internationally. It offers cloud services; core enterprise services; application, data, and artificial intelligence services; digital workplace services; security and resiliency services; and network services and edge services. The company serves financial, healthcare, public, technology, media and telecom, retail, travel and logistics, and automotive manufacturer industries. Kyndryl Holdings, Inc. was incorporated in 2020 and is headquartered in New York, New York.",
+    "insiderNetShares": null,
+    "insiderClusterFlag": null,
+    "fcfYield": 11.378817531702405,
+    "buybackYield": 13.319909934169283,
+    "grossMarginTTM": 0.21793002915451895,
+    "grossMarginDelta1Y": 0.006666165170989696,
+    "operatingMarginTTM": 0.0411,
+    "returnOnEquityTTM": 0.1509,
+    "netDebtToEbitda": 1.7104105571847508,
+    "shortInterestPct": null,
+    "daysToCover": null,
+    "percentInstitutions": 82.588,
+    "percentInsiders": 1.965,
     "profitMargin": 0.0131,
+    "roaTTM": 0.0333,
+    "negativeEquity": false,
     "quarterlyEps": [
       {
-        "eps": 0.13,
-        "quarter": "2024-06-30"
+        "quarter": "2024-06-30",
+        "eps": 0.13
       },
       {
-        "eps": 0.01,
-        "quarter": "2024-09-30"
+        "quarter": "2024-09-30",
+        "eps": 0.01
       },
       {
-        "eps": 0.51,
-        "quarter": "2024-12-31"
+        "quarter": "2024-12-31",
+        "eps": 0.51
       },
       {
-        "eps": 0.52,
-        "quarter": "2025-03-31"
+        "quarter": "2025-03-31",
+        "eps": 0.52
       },
       {
-        "eps": 0.37,
-        "quarter": "2025-06-30"
+        "quarter": "2025-06-30",
+        "eps": 0.37
       },
       {
-        "eps": 0.38,
-        "quarter": "2025-09-30"
+        "quarter": "2025-09-30",
+        "eps": 0.38
       },
       {
-        "eps": 0.52,
-        "quarter": "2025-12-31"
+        "quarter": "2025-12-31",
+        "eps": 0.52
       },
       {
-        "eps": 0.18,
-        "quarter": "2026-03-31"
+        "quarter": "2026-03-31",
+        "eps": 0.18
       }
     ],
-    "dividendYield": null,
-    "epsRevision3M": 23.931623931623953,
-    "fcfConversion": 171.7171717171717,
     "analystSellPct": 0,
-    "grossMarginTTM": 0.21793002915451895,
-    "targetLowPrice": null,
-    "fiftyTwoWeekLow": 10.1,
-    "netDebtToEbitda": null,
-    "percentInsiders": 1.514,
-    "targetHighPrice": null,
-    "targetMeanPrice": 14.1,
-    "fiftyTwoWeekHigh": 44.2,
+    "revDecel": -3.887370670265407,
+    "netDebtEbitdaDelta": -0.20181119297572114,
     "grossMarginTrend": 0.6679189366666662,
-    "insiderNetShares": null,
-    "shortInterestPct": null,
-    "recommendationKey": "strong_buy",
-    "returnOnEquityTTM": 0.1499,
-    "grossMarginDelta1Y": 0.006666165170989696,
-    "insiderClusterFlag": null,
-    "netDebtEbitdaDelta": null,
-    "operatingMarginTTM": 0.0454,
-    "longBusinessSummary": "Kyndryl Holdings, Inc. operates as a technology services company and IT infrastructure services provider in the United States, Japan, and internationally. The company offers cloud services; core enterprise and zCloud services; application, data, and artificial intelligence services; digital workplace services; security and resiliency services; and network services and edge services. It serves financial, healthcare, public, technology, media and telecom, retail, travel, and automotive industries. The company has a strategic alliance with the University of Liverpool for the development of AI-based healthcare technologies. Kyndryl Holdings, Inc. was incorporated in 2020 and is headquartered in New York, New York.",
-    "percentInstitutions": 81.688,
-    "numberOfAnalystOpinions": 6
+    "sbcBurnRate": 0.4836999734958919,
+    "fcfConversion": 171.7171717171717,
+    "updatedAt": "2026-08-03T17:36:04.088Z"
   },
   "bars": [
     {
@@ -9287,6 +9289,382 @@
       "low": 12.16,
       "close": 12.29,
       "volume": 2626800
+    },
+    {
+      "date": "2026-05-26",
+      "open": 12.17,
+      "high": 12.345,
+      "low": 12.02,
+      "close": 12.03,
+      "volume": 4657300
+    },
+    {
+      "date": "2026-05-27",
+      "open": 11.9,
+      "high": 12.07,
+      "low": 11.61,
+      "close": 11.77,
+      "volume": 3676700
+    },
+    {
+      "date": "2026-05-28",
+      "open": 11.86,
+      "high": 12.06,
+      "low": 11.758,
+      "close": 11.78,
+      "volume": 2937000
+    },
+    {
+      "date": "2026-05-29",
+      "open": 11.87,
+      "high": 12.59,
+      "low": 11.73,
+      "close": 12.47,
+      "volume": 7148000
+    },
+    {
+      "date": "2026-06-01",
+      "open": 12.74,
+      "high": 13.01,
+      "low": 12.39,
+      "close": 12.89,
+      "volume": 4683400
+    },
+    {
+      "date": "2026-06-02",
+      "open": 12.57,
+      "high": 12.82,
+      "low": 12.41,
+      "close": 12.6,
+      "volume": 3900000
+    },
+    {
+      "date": "2026-06-03",
+      "open": 12.41,
+      "high": 12.49,
+      "low": 12,
+      "close": 12.28,
+      "volume": 3767200
+    },
+    {
+      "date": "2026-06-04",
+      "open": 12.51,
+      "high": 12.635,
+      "low": 12.115,
+      "close": 12.14,
+      "volume": 3043100
+    },
+    {
+      "date": "2026-06-05",
+      "open": 12.3,
+      "high": 12.365,
+      "low": 11.501,
+      "close": 11.62,
+      "volume": 4141700
+    },
+    {
+      "date": "2026-06-08",
+      "open": 11.715,
+      "high": 11.86,
+      "low": 11.48,
+      "close": 11.56,
+      "volume": 2656100
+    },
+    {
+      "date": "2026-06-09",
+      "open": 11.5,
+      "high": 11.805,
+      "low": 11.16,
+      "close": 11.53,
+      "volume": 3825000
+    },
+    {
+      "date": "2026-06-10",
+      "open": 11.3,
+      "high": 11.73,
+      "low": 11.16,
+      "close": 11.25,
+      "volume": 3758600
+    },
+    {
+      "date": "2026-06-11",
+      "open": 11.12,
+      "high": 11.29,
+      "low": 10.98,
+      "close": 11.28,
+      "volume": 3465200
+    },
+    {
+      "date": "2026-06-12",
+      "open": 11.3,
+      "high": 11.71,
+      "low": 11.11,
+      "close": 11.7,
+      "volume": 3471100
+    },
+    {
+      "date": "2026-06-15",
+      "open": 11.85,
+      "high": 11.9,
+      "low": 11.405,
+      "close": 11.57,
+      "volume": 3863700
+    },
+    {
+      "date": "2026-06-16",
+      "open": 11.58,
+      "high": 12.47,
+      "low": 11.58,
+      "close": 12.03,
+      "volume": 4869300
+    },
+    {
+      "date": "2026-06-17",
+      "open": 12.14,
+      "high": 12.295,
+      "low": 11.37,
+      "close": 11.45,
+      "volume": 5620500
+    },
+    {
+      "date": "2026-06-18",
+      "open": 11.19,
+      "high": 11.29,
+      "low": 10.88,
+      "close": 11,
+      "volume": 8010400
+    },
+    {
+      "date": "2026-06-22",
+      "open": 10.94,
+      "high": 11.19,
+      "low": 10.36,
+      "close": 10.62,
+      "volume": 5007700
+    },
+    {
+      "date": "2026-06-23",
+      "open": 10.69,
+      "high": 11.26,
+      "low": 10.639,
+      "close": 11.13,
+      "volume": 5281400
+    },
+    {
+      "date": "2026-06-24",
+      "open": 11.12,
+      "high": 11.34,
+      "low": 10.915,
+      "close": 11.1,
+      "volume": 4097500
+    },
+    {
+      "date": "2026-06-25",
+      "open": 11,
+      "high": 11.075,
+      "low": 10.685,
+      "close": 10.79,
+      "volume": 3589400
+    },
+    {
+      "date": "2026-06-26",
+      "open": 10.7,
+      "high": 11.37,
+      "low": 10.7,
+      "close": 11.32,
+      "volume": 6579400
+    },
+    {
+      "date": "2026-06-29",
+      "open": 11.57,
+      "high": 11.79,
+      "low": 11.2,
+      "close": 11.22,
+      "volume": 5616500
+    },
+    {
+      "date": "2026-06-30",
+      "open": 11.1,
+      "high": 11.335,
+      "low": 10.725,
+      "close": 11.31,
+      "volume": 5163400
+    },
+    {
+      "date": "2026-07-01",
+      "open": 11.48,
+      "high": 12.28,
+      "low": 11.48,
+      "close": 12,
+      "volume": 5470500
+    },
+    {
+      "date": "2026-07-02",
+      "open": 12.06,
+      "high": 12.54,
+      "low": 12.06,
+      "close": 12.25,
+      "volume": 3957100
+    },
+    {
+      "date": "2026-07-06",
+      "open": 11.88,
+      "high": 12.485,
+      "low": 11.816,
+      "close": 12.28,
+      "volume": 5009500
+    },
+    {
+      "date": "2026-07-07",
+      "open": 12.63,
+      "high": 12.84,
+      "low": 12.35,
+      "close": 12.39,
+      "volume": 3507900
+    },
+    {
+      "date": "2026-07-08",
+      "open": 12.18,
+      "high": 12.23,
+      "low": 11.875,
+      "close": 11.97,
+      "volume": 2543700
+    },
+    {
+      "date": "2026-07-09",
+      "open": 11.7,
+      "high": 12.16,
+      "low": 11.4,
+      "close": 12.07,
+      "volume": 2493500
+    },
+    {
+      "date": "2026-07-10",
+      "open": 12.36,
+      "high": 12.48,
+      "low": 11.875,
+      "close": 11.97,
+      "volume": 1919300
+    },
+    {
+      "date": "2026-07-13",
+      "open": 12.26,
+      "high": 12.55,
+      "low": 12.18,
+      "close": 12.32,
+      "volume": 2419400
+    },
+    {
+      "date": "2026-07-14",
+      "open": 11.49,
+      "high": 11.765,
+      "low": 10.9,
+      "close": 11.61,
+      "volume": 6423200
+    },
+    {
+      "date": "2026-07-15",
+      "open": 11.98,
+      "high": 12.165,
+      "low": 11.575,
+      "close": 11.72,
+      "volume": 3327500
+    },
+    {
+      "date": "2026-07-16",
+      "open": 11.9,
+      "high": 12.04,
+      "low": 11.59,
+      "close": 12.02,
+      "volume": 5057500
+    },
+    {
+      "date": "2026-07-17",
+      "open": 12.04,
+      "high": 12.305,
+      "low": 11.75,
+      "close": 12.15,
+      "volume": 3131200
+    },
+    {
+      "date": "2026-07-20",
+      "open": 12,
+      "high": 12.36,
+      "low": 11.745,
+      "close": 12.22,
+      "volume": 3109600
+    },
+    {
+      "date": "2026-07-21",
+      "open": 11.88,
+      "high": 12.24,
+      "low": 11.83,
+      "close": 12.19,
+      "volume": 2942500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 12.23,
+      "high": 12.35,
+      "low": 11.55,
+      "close": 11.65,
+      "volume": 3618200
+    },
+    {
+      "date": "2026-07-23",
+      "open": 11.61,
+      "high": 11.755,
+      "low": 11.425,
+      "close": 11.66,
+      "volume": 3264400
+    },
+    {
+      "date": "2026-07-24",
+      "open": 11.91,
+      "high": 12.26,
+      "low": 11.83,
+      "close": 12.05,
+      "volume": 5406200
+    },
+    {
+      "date": "2026-07-27",
+      "open": 12.33,
+      "high": 12.945,
+      "low": 12.245,
+      "close": 12.76,
+      "volume": 4665200
+    },
+    {
+      "date": "2026-07-28",
+      "open": 12.81,
+      "high": 13.52,
+      "low": 12.81,
+      "close": 13.35,
+      "volume": 5839400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 13.46,
+      "high": 14.12,
+      "low": 13.255,
+      "close": 14.01,
+      "volume": 6151100
+    },
+    {
+      "date": "2026-07-30",
+      "open": 13.78,
+      "high": 13.78,
+      "low": 13.125,
+      "close": 13.51,
+      "volume": 4425500
+    },
+    {
+      "date": "2026-07-31",
+      "open": 13.3,
+      "high": 13.71,
+      "low": 13.24,
+      "close": 13.55,
+      "volume": 3403400
     }
   ],
   "monthly": [
@@ -9512,7 +9890,15 @@
     },
     {
       "date": "2026-05-01T00:00:00.000Z",
-      "adjClose": 12.29
+      "adjClose": 12.47
+    },
+    {
+      "date": "2026-06-01T00:00:00.000Z",
+      "adjClose": 11.31
+    },
+    {
+      "date": "2026-07-01T00:00:00.000Z",
+      "adjClose": 13.55
     }
   ]
 }
