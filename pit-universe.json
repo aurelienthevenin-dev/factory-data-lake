@@ -1,4 +1,14 @@
 {
+  "_meta": {
+    "source": "EODHD HistoricalTickerComponents",
+    "membershipCoverage": {
+      "US": "pit",
+      "EU": "unknown",
+      "CH": "unknown"
+    },
+    "liquiditySource": "backtester_data dated OHLCV",
+    "generatedAt": null
+  },
   "GSPC.INDX": [
     {
       "code": "A",
