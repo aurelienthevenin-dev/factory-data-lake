@@ -1,23 +1,19 @@
 {
   "source": "EODHD /api/calendar/splits",
   "historyFrom": "2015-01-01",
-  "historyThrough": "2026-08-03",
-  "verifiedAt": "2026-08-03T20:56:00.000Z",
+  "historyThrough": "2026-08-21",
+  "verifiedAt": "2026-08-24T05:44:54.567Z",
   "coverageMode": "calendar endpoint filtered to the complete backtest universe",
   "universeSize": 647,
   "actionTickers": 156,
-  "eventCount": 205,
+  "eventCount": 206,
   "tailAudit": {
-    "from": "2026-05-09",
-    "to": "2026-08-03",
-    "calendarRows": 1458,
-    "matchedEvents": 5,
+    "from": "2026-08-03",
+    "to": "2026-08-21",
+    "calendarRows": 271,
+    "matchedEvents": 1,
     "matchedTickers": [
-      "AI.PA",
-      "CRWD.US",
-      "DD.US",
-      "HON.US",
-      "KLAC.US"
+      "MNST.US"
     ]
   }
 }
