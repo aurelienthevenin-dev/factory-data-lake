@@ -1,19 +1,19 @@
 {
   "source": "EODHD /api/calendar/splits",
   "historyFrom": "2015-01-01",
-  "historyThrough": "2026-08-21",
-  "verifiedAt": "2026-08-24T05:44:54.567Z",
+  "historyThrough": "2026-09-09",
+  "verifiedAt": "2026-09-09T15:59:55.124Z",
   "coverageMode": "calendar endpoint filtered to the complete backtest universe",
-  "universeSize": 647,
+  "universeSize": 646,
   "actionTickers": 156,
-  "eventCount": 206,
+  "eventCount": 207,
   "tailAudit": {
-    "from": "2026-08-03",
-    "to": "2026-08-21",
-    "calendarRows": 271,
+    "from": "2026-08-22",
+    "to": "2026-09-09",
+    "calendarRows": 303,
     "matchedEvents": 1,
     "matchedTickers": [
-      "MNST.US"
+      "APH.US"
     ]
   }
 }
