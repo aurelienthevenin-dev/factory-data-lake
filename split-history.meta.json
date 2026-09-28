@@ -1,19 +1,17 @@
 {
   "source": "EODHD /api/calendar/splits",
   "historyFrom": "2015-01-01",
-  "historyThrough": "2026-09-09",
-  "verifiedAt": "2026-09-09T15:59:55.124Z",
+  "historyThrough": "2026-09-28",
+  "verifiedAt": "2026-09-28T19:33:32.167Z",
   "coverageMode": "calendar endpoint filtered to the complete backtest universe",
   "universeSize": 646,
   "actionTickers": 156,
   "eventCount": 207,
   "tailAudit": {
-    "from": "2026-08-22",
-    "to": "2026-09-09",
-    "calendarRows": 303,
-    "matchedEvents": 1,
-    "matchedTickers": [
-      "APH.US"
-    ]
+    "from": "2026-09-10",
+    "to": "2026-09-28",
+    "calendarRows": 184,
+    "matchedEvents": 0,
+    "matchedTickers": []
   }
 }
