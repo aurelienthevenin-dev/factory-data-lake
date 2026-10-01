@@ -322,18 +322,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "ALC.SW",
-      "quarter": "2020-06-30",
-      "action": "exclude",
-      "vendorValue": -0.21,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": -0.8629856850715747,
-      "localMedian": 0.47,
-      "estimate": -0.18,
-      "splitFactor": 1
-    },
-    {
       "ticker": "ALGN.US",
       "quarter": "2017-12-31",
       "action": "exclude",
@@ -380,18 +368,6 @@
       "localMedian": 0.5650000000000001,
       "estimate": 0.19,
       "splitFactor": 5
-    },
-    {
-      "ticker": "AMD.US",
-      "quarter": "2022-03-31",
-      "action": "exclude",
-      "vendorValue": 1.13,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.56,
-      "localMedian": 0.52,
-      "estimate": 0.92,
-      "splitFactor": 1
     },
     {
       "ticker": "APA.US",
@@ -811,18 +787,6 @@
       "witness": 1.7671999999999999,
       "localMedian": 1.7671999999999999,
       "estimate": 48.23,
-      "splitFactor": 0.04
-    },
-    {
-      "ticker": "BKNG.US",
-      "quarter": "2021-09-30",
-      "action": "exclude",
-      "vendorValue": 1.51,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.7440000000000001,
-      "localMedian": 0.49,
-      "estimate": 1.32,
       "splitFactor": 0.04
     },
     {
@@ -1471,18 +1435,6 @@
       "witness": 0.1722538477756694,
       "localMedian": 0.1722538477756694,
       "estimate": 0.28,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "EA.US",
-      "quarter": "2021-12-31",
-      "action": "exclude",
-      "vendorValue": 3.17,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.23157894736842105,
-      "localMedian": 0.72,
-      "estimate": 3.24,
       "splitFactor": 1
     },
     {
@@ -3083,18 +3035,6 @@
     },
     {
       "ticker": "PANW.US",
-      "quarter": "2025-10-31",
-      "action": "exclude",
-      "vendorValue": 0.93,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.47,
-      "localMedian": 0.39,
-      "estimate": 0.89,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "PANW.US",
       "quarter": "2023-01-31",
       "action": "restate",
       "vendorValue": 0.53,
@@ -3475,18 +3415,6 @@
       "witness": -5.66,
       "localMedian": 0.4,
       "estimate": 0.63,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "PSX.US",
-      "quarter": "2025-03-31",
-      "action": "exclude",
-      "vendorValue": -0.9,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 1.18,
-      "localMedian": 1.9,
-      "estimate": -0.72,
       "splitFactor": 1
     },
     {
@@ -4642,18 +4570,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "UAL.US",
-      "quarter": "2021-03-31",
-      "action": "exclude",
-      "vendorValue": -7.5,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": -4.29,
-      "localMedian": -2.57,
-      "estimate": -7.12,
-      "splitFactor": 1
-    },
-    {
       "ticker": "UBSG.SW",
       "quarter": "2025-12-31",
       "action": "exclude",
@@ -5000,18 +4916,6 @@
       "localMedian": 0.775,
       "estimate": 1.61,
       "splitFactor": 0.5
-    },
-    {
-      "ticker": "WYNN.US",
-      "quarter": "2023-09-30",
-      "action": "exclude",
-      "vendorValue": 0.99,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": -1.03,
-      "localMedian": -1.2,
-      "estimate": 0.8,
-      "splitFactor": 1
     },
     {
       "ticker": "ZURN.SW",
