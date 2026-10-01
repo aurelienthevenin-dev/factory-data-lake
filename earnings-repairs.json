@@ -22,66 +22,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "ABBN.SW",
-      "quarter": "2017-12-31",
-      "action": "exclude",
-      "vendorValue": 0.33,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.18270571827057183,
-      "localMedian": 0.18270571827057183,
-      "estimate": 0.31,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ABBN.SW",
-      "quarter": "2018-12-31",
-      "action": "exclude",
-      "vendorValue": 0.3,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.14840823970037453,
-      "localMedian": 0.14840823970037453,
-      "estimate": 0.32,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ABBN.SW",
-      "quarter": "2022-06-30",
-      "action": "exclude",
-      "vendorValue": 0.39,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.19760166840458812,
-      "localMedian": 0.19760166840458812,
-      "estimate": 0.41,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ABBN.SW",
-      "quarter": "2022-09-30",
-      "action": "exclude",
-      "vendorValue": 0.35,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.19057702488088937,
-      "localMedian": 0.19057702488088937,
-      "estimate": 0.36,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ABI.BR",
-      "quarter": "2025-09-30",
-      "action": "exclude",
-      "vendorValue": 0.99,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.5285857572718154,
-      "localMedian": 0.5285857572718154,
-      "estimate": 0.96,
-      "splitFactor": 1
-    },
-    {
       "ticker": "ADYEN.AS",
       "quarter": "2017-12-31",
       "action": "exclude",
@@ -91,18 +31,6 @@
       "witness": 1.1631438666088143,
       "localMedian": 1.1631438666088143,
       "estimate": 0,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ADYEN.AS",
-      "quarter": "2020-06-30",
-      "action": "exclude",
-      "vendorValue": 5.09,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 2.554976587669071,
-      "localMedian": 2.554976587669071,
-      "estimate": 4.38,
       "splitFactor": 1
     },
     {
@@ -143,18 +71,6 @@
     },
     {
       "ticker": "AIR.PA",
-      "quarter": "2017-12-31",
-      "action": "exclude",
-      "vendorValue": 2.29,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.2347187527366073,
-      "localMedian": 1.2347187527366073,
-      "estimate": 1.91,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "AIR.PA",
       "quarter": "2023-03-31",
       "action": "exclude",
       "vendorValue": 1.08,
@@ -175,138 +91,6 @@
       "witness": 0.0511766601676573,
       "localMedian": -0.06,
       "estimate": 0.39,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2020-12-31",
-      "action": "exclude",
-      "vendorValue": 0.41,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.19293257514216083,
-      "localMedian": 0.19293257514216083,
-      "estimate": 0.41,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2021-06-30",
-      "action": "exclude",
-      "vendorValue": 0.56,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.3061638280616383,
-      "localMedian": 0.3061638280616383,
-      "estimate": 0.45,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2021-12-31",
-      "action": "exclude",
-      "vendorValue": 0.56,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.28126264670174017,
-      "localMedian": 0.28126264670174017,
-      "estimate": 0.5,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2022-03-31",
-      "action": "exclude",
-      "vendorValue": 0.68,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.340080971659919,
-      "localMedian": 0.340080971659919,
-      "estimate": 0.53,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2022-06-30",
-      "action": "exclude",
-      "vendorValue": 0.63,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.29941331175399555,
-      "localMedian": 0.29941331175399555,
-      "estimate": 0.56,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2022-09-30",
-      "action": "exclude",
-      "vendorValue": 0.5,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.234485546796038,
-      "localMedian": 0.234485546796038,
-      "estimate": 0.49,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2023-03-31",
-      "action": "exclude",
-      "vendorValue": 0.7,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.3511604439959637,
-      "localMedian": 0.3511604439959637,
-      "estimate": 0.61,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2023-06-30",
-      "action": "exclude",
-      "vendorValue": 0.69,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.34093201533185397,
-      "localMedian": 0.34093201533185397,
-      "estimate": 0.65,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2025-06-30",
-      "action": "exclude",
-      "vendorValue": 0.76,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.3534846354689697,
-      "localMedian": 0.3534846354689697,
-      "estimate": 0.71,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2025-12-31",
-      "action": "exclude",
-      "vendorValue": 0.78,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.44437614462725983,
-      "localMedian": 0.44437614462725983,
-      "estimate": 0.79,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ALC.SW",
-      "quarter": "2026-03-31",
-      "action": "exclude",
-      "vendorValue": 0.85,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.37714580987352103,
-      "localMedian": 0.37714580987352103,
-      "estimate": 0.82,
       "splitFactor": 1
     },
     {
@@ -562,114 +346,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "BAS.XETRA",
-      "quarter": "2022-03-31",
-      "action": "exclude",
-      "vendorValue": 2.7,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.3375177226575392,
-      "localMedian": 1.3375177226575392,
-      "estimate": 2.4,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAS.XETRA",
-      "quarter": "2022-09-30",
-      "action": "exclude",
-      "vendorValue": 1.77,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.0140725409548796,
-      "localMedian": 1.0140725409548796,
-      "estimate": 1.42,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAS.XETRA",
-      "quarter": "2024-06-30",
-      "action": "exclude",
-      "vendorValue": 0.93,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.48178073329716614,
-      "localMedian": 0.48178073329716614,
-      "estimate": 0.8,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAYN.XETRA",
-      "quarter": "2018-06-30",
-      "action": "exclude",
-      "vendorValue": 1.54,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.8671056798698249,
-      "localMedian": 0.8671056798698249,
-      "estimate": 1.58,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAYN.XETRA",
-      "quarter": "2019-03-31",
-      "action": "exclude",
-      "vendorValue": 2.55,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.266132734785492,
-      "localMedian": 1.266132734785492,
-      "estimate": 2.47,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAYN.XETRA",
-      "quarter": "2020-03-31",
-      "action": "exclude",
-      "vendorValue": 2.67,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.5156450397996784,
-      "localMedian": 1.5156450397996784,
-      "estimate": 2.62,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAYN.XETRA",
-      "quarter": "2022-09-30",
-      "action": "exclude",
-      "vendorValue": 1.13,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.5557704444127766,
-      "localMedian": 0.5557704444127766,
-      "estimate": 1.18,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAYN.XETRA",
-      "quarter": "2022-12-31",
-      "action": "exclude",
-      "vendorValue": 1.35,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.6219309970103543,
-      "localMedian": 0.6219309970103543,
-      "estimate": 1.25,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BAYN.XETRA",
-      "quarter": "2025-03-31",
-      "action": "exclude",
-      "vendorValue": 2.49,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.3222450683007267,
-      "localMedian": 1.3222450683007267,
-      "estimate": 2.28,
-      "splitFactor": 1
-    },
-    {
       "ticker": "BIO.US",
       "quarter": "2018-12-31",
       "action": "exclude",
@@ -815,18 +491,6 @@
     },
     {
       "ticker": "BN.PA",
-      "quarter": "2021-09-30",
-      "action": "exclude",
-      "vendorValue": 1.65,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.7440685669239401,
-      "localMedian": 0.7440685669239401,
-      "estimate": 1.65,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "BN.PA",
       "quarter": "2019-09-30",
       "action": "exclude",
       "vendorValue": 0.78,
@@ -847,6 +511,18 @@
       "witness": 0.7440685669239401,
       "localMedian": 0,
       "estimate": 1.91,
+      "splitFactor": 1
+    },
+    {
+      "ticker": "BN.PA",
+      "quarter": "2021-09-30",
+      "action": "exclude",
+      "vendorValue": 1.65,
+      "repairedValue": null,
+      "verdict": "ungrounded-unexplained",
+      "witness": 0.7440685669239401,
+      "localMedian": 0,
+      "estimate": 1.65,
       "splitFactor": 1
     },
     {
@@ -1003,18 +679,6 @@
       "witness": 0.3,
       "localMedian": 0.3,
       "estimate": null,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "CS.PA",
-      "quarter": "2022-12-31",
-      "action": "exclude",
-      "vendorValue": 1.0618,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.5187061513791175,
-      "localMedian": 0.5187061513791175,
-      "estimate": 1.49,
       "splitFactor": 1
     },
     {
@@ -1423,18 +1087,6 @@
       "witness": 0.28388746803069054,
       "localMedian": 0.28388746803069054,
       "estimate": 0.21,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "DTE.XETRA",
-      "quarter": "2020-09-30",
-      "action": "exclude",
-      "vendorValue": 0.32,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.1722538477756694,
-      "localMedian": 0.1722538477756694,
-      "estimate": 0.28,
       "splitFactor": 1
     },
     {
@@ -2038,18 +1690,6 @@
       "splitFactor": 4.98413487567387
     },
     {
-      "ticker": "GIVN.SW",
-      "quarter": "2025-06-30",
-      "action": "exclude",
-      "vendorValue": 63.85,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 31.92613844726794,
-      "localMedian": 31.92613844726794,
-      "estimate": 62.59,
-      "splitFactor": 1
-    },
-    {
       "ticker": "HAS.US",
       "quarter": "2021-06-30",
       "action": "exclude",
@@ -2107,78 +1747,6 @@
       "witness": -0.57,
       "localMedian": -0.45,
       "estimate": 0.08,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "IFX.XETRA",
-      "quarter": "2018-09-30",
-      "action": "exclude",
-      "vendorValue": 0.28,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.1246684350132626,
-      "localMedian": 0.1246684350132626,
-      "estimate": 0.28,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "IFX.XETRA",
-      "quarter": "2024-12-31",
-      "action": "exclude",
-      "vendorValue": 0.33,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.18850574712643678,
-      "localMedian": 0.18850574712643678,
-      "estimate": 0.2531,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "IFX.XETRA",
-      "quarter": "2025-03-31",
-      "action": "exclude",
-      "vendorValue": 0.36,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.17777777777777778,
-      "localMedian": 0.17777777777777778,
-      "estimate": 0.327,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "IFX.XETRA",
-      "quarter": "2025-09-30",
-      "action": "exclude",
-      "vendorValue": 0.34,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.17709923664122137,
-      "localMedian": 0.17709923664122137,
-      "estimate": 0.43,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "IFX.XETRA",
-      "quarter": "2025-12-31",
-      "action": "exclude",
-      "vendorValue": 0.35,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.1952707856598017,
-      "localMedian": 0.1952707856598017,
-      "estimate": 0.33,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "INGA.AS",
-      "quarter": "2018-09-30",
-      "action": "exclude",
-      "vendorValue": 0.39,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.2,
-      "localMedian": 0.2,
-      "estimate": 0.35,
       "splitFactor": 1
     },
     {
@@ -2671,90 +2239,6 @@
       "witness": 0.4499999999999993,
       "localMedian": 1.56,
       "estimate": -1.24,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NESN.SW",
-      "quarter": "2019-03-31",
-      "action": "exclude",
-      "vendorValue": 1.91,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.0142297205180641,
-      "localMedian": 1.0142297205180641,
-      "estimate": 1.91,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NOVN.SW",
-      "quarter": "2018-09-30",
-      "action": "exclude",
-      "vendorValue": 1.32,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.6941830624465355,
-      "localMedian": 0.6941830624465355,
-      "estimate": 1.29,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NOVN.SW",
-      "quarter": "2020-09-30",
-      "action": "exclude",
-      "vendorValue": 1.52,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.8405734144222415,
-      "localMedian": 0.8405734144222415,
-      "estimate": 1.46,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NOVN.SW",
-      "quarter": "2022-06-30",
-      "action": "exclude",
-      "vendorValue": 1.56,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.7661691542288557,
-      "localMedian": 0.7661691542288557,
-      "estimate": 1.49,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NOVN.SW",
-      "quarter": "2022-09-30",
-      "action": "exclude",
-      "vendorValue": 1.58,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.7215596330275229,
-      "localMedian": 0.7215596330275229,
-      "estimate": 1.54,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NOVN.SW",
-      "quarter": "2022-12-31",
-      "action": "exclude",
-      "vendorValue": 1.52,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.6818604651162791,
-      "localMedian": 0.6818604651162791,
-      "estimate": 1.41,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "NOVN.SW",
-      "quarter": "2023-09-30",
-      "action": "exclude",
-      "vendorValue": 1.74,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.8486746987951808,
-      "localMedian": 0.8486746987951808,
-      "estimate": 1.68,
       "splitFactor": 1
     },
     {
@@ -3311,30 +2795,6 @@
     },
     {
       "ticker": "PHIA.AS",
-      "quarter": "2019-09-30",
-      "action": "exclude",
-      "vendorValue": 0.42,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.21187581514052173,
-      "localMedian": 0.21187581514052173,
-      "estimate": 0.45,
-      "splitFactor": 0.9072190062796345
-    },
-    {
-      "ticker": "PHIA.AS",
-      "quarter": "2025-09-30",
-      "action": "exclude",
-      "vendorValue": 0.36,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.19090226219180698,
-      "localMedian": 0.19090226219180698,
-      "estimate": 0.31,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "PHIA.AS",
       "quarter": "2025-03-31",
       "action": "exclude",
       "vendorValue": 0.25,
@@ -3802,90 +3262,6 @@
       "splitFactor": 0.6293266205160478
     },
     {
-      "ticker": "SAN.PA",
-      "quarter": "2018-06-30",
-      "action": "exclude",
-      "vendorValue": 1.25,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.6107481087247051,
-      "localMedian": 0.6107481087247051,
-      "estimate": 1.22,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "SAN.PA",
-      "quarter": "2022-06-30",
-      "action": "exclude",
-      "vendorValue": 1.73,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.9393980337399794,
-      "localMedian": 0.9393980337399794,
-      "estimate": 1.65,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "SAN.PA",
-      "quarter": "2024-03-31",
-      "action": "exclude",
-      "vendorValue": 1.78,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.9072709801409353,
-      "localMedian": 0.9072709801409353,
-      "estimate": 1.71,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "SAN.PA",
-      "quarter": "2024-06-30",
-      "action": "exclude",
-      "vendorValue": 1.73,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.8897593732512591,
-      "localMedian": 0.8897593732512591,
-      "estimate": 1.64,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "SAP.XETRA",
-      "quarter": "2019-06-30",
-      "action": "exclude",
-      "vendorValue": 1.09,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.4765494137353434,
-      "localMedian": 0.4765494137353434,
-      "estimate": 1.11,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "SAP.XETRA",
-      "quarter": "2022-09-30",
-      "action": "exclude",
-      "vendorValue": 1.12,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.5703324808184144,
-      "localMedian": 0.5703324808184144,
-      "estimate": 1.23,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "SAP.XETRA",
-      "quarter": "2022-12-31",
-      "action": "exclude",
-      "vendorValue": 1,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.4616040955631399,
-      "localMedian": 0.4616040955631399,
-      "estimate": 1.34,
-      "splitFactor": 1
-    },
-    {
       "ticker": "SEDG.US",
       "quarter": "2022-12-31",
       "action": "exclude",
@@ -4016,18 +3392,6 @@
       "localMedian": 1.664,
       "estimate": 53.8,
       "splitFactor": 0.03764182033121106
-    },
-    {
-      "ticker": "SGSN.SW",
-      "quarter": "2025-06-30",
-      "action": "exclude",
-      "vendorValue": 1.63,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.8219895287958116,
-      "localMedian": 0.8219895287958116,
-      "estimate": 1.63,
-      "splitFactor": 0.9664395744538041
     },
     {
       "ticker": "SGSN.SW",
@@ -4498,42 +3862,6 @@
       "splitFactor": 0.3333333333333333
     },
     {
-      "ticker": "TTE.PA",
-      "quarter": "2022-03-31",
-      "action": "exclude",
-      "vendorValue": 3.4,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.8913542463657231,
-      "localMedian": 1.8913542463657231,
-      "estimate": 3.05,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "TTE.PA",
-      "quarter": "2022-12-31",
-      "action": "exclude",
-      "vendorValue": 2.97,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 1.2942109436954798,
-      "localMedian": 1.2942109436954798,
-      "estimate": 2.95,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "TTE.PA",
-      "quarter": "2024-09-30",
-      "action": "exclude",
-      "vendorValue": 1.74,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.9699999809721015,
-      "localMedian": 0.9699999809721015,
-      "estimate": 1.85,
-      "splitFactor": 1
-    },
-    {
       "ticker": "TTWO.US",
       "quarter": "2018-09-30",
       "action": "exclude",
@@ -4567,18 +3895,6 @@
       "witness": -21.27,
       "localMedian": -17.02,
       "estimate": 0.69,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "UBSG.SW",
-      "quarter": "2025-12-31",
-      "action": "exclude",
-      "vendorValue": 0.52,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 0.2952738327401269,
-      "localMedian": 0.2952738327401269,
-      "estimate": 0.47,
       "splitFactor": 1
     },
     {
@@ -4919,18 +4235,6 @@
     },
     {
       "ticker": "ZURN.SW",
-      "quarter": "2023-06-30",
-      "action": "exclude",
-      "vendorValue": 16.96,
-      "repairedValue": null,
-      "verdict": "annual-on-half-year-row",
-      "witness": 8.479997822151443,
-      "localMedian": 8.479997822151443,
-      "estimate": 20.42,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ZURN.SW",
       "quarter": "2024-12-31",
       "action": "exclude",
       "vendorValue": 19.32,
@@ -4951,6 +4255,18 @@
       "witness": 10.669999373376871,
       "localMedian": 10.669999373376871,
       "estimate": 9.34,
+      "splitFactor": 1
+    },
+    {
+      "ticker": "ZURN.SW",
+      "quarter": "2023-06-30",
+      "action": "exclude",
+      "vendorValue": 16.96,
+      "repairedValue": null,
+      "verdict": "ungrounded-unexplained",
+      "witness": 8.479997822151443,
+      "localMedian": 5.18,
+      "estimate": 20.42,
       "splitFactor": 1
     }
   ]
