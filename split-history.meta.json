@@ -1,17 +1,93 @@
 {
   "source": "EODHD /api/calendar/splits",
   "historyFrom": "2015-01-01",
-  "historyThrough": "2026-09-28",
-  "verifiedAt": "2026-09-28T19:33:32.167Z",
+  "historyThrough": "2026-10-01",
+  "verifiedAt": "2026-10-01T17:21:48.259Z",
   "coverageMode": "calendar endpoint filtered to the complete backtest universe",
   "universeSize": 646,
-  "actionTickers": 156,
-  "eventCount": 207,
+  "actionTickers": 160,
+  "eventCount": 214,
   "tailAudit": {
-    "from": "2026-09-10",
-    "to": "2026-09-28",
-    "calendarRows": 184,
+    "from": "2026-09-29",
+    "to": "2026-10-01",
+    "calendarRows": 84,
     "matchedEvents": 0,
     "matchedTickers": []
+  },
+  "tickerAudit": {
+    "at": "2026-10-01",
+    "calls": 640,
+    "added": [
+      {
+        "ticker": "AVB.US",
+        "date": "2026-08-17",
+        "split": "2.793000/1.000000"
+      },
+      {
+        "ticker": "EXE.US",
+        "date": "2020-04-15",
+        "split": "1.000000/200.000000"
+      },
+      {
+        "ticker": "FDX.US",
+        "date": "2026-06-01",
+        "split": "1241.000000/1000.000000"
+      },
+      {
+        "ticker": "HON.US",
+        "date": "2016-10-03",
+        "split": "10000.000000/9947.000000"
+      },
+      {
+        "ticker": "HON.US",
+        "date": "2018-10-01",
+        "split": "1011.000000/1000.000000"
+      },
+      {
+        "ticker": "HON.US",
+        "date": "2018-10-29",
+        "split": "1032.000000/1000.000000"
+      },
+      {
+        "ticker": "HON.US",
+        "date": "2025-10-30",
+        "split": "1061.000000/1000.000000"
+      },
+      {
+        "ticker": "LH.US",
+        "date": "2023-07-03",
+        "split": "1164.000000/1000.000000"
+      },
+      {
+        "ticker": "SPGI.US",
+        "date": "2026-07-01",
+        "split": "1057.000000/1000.000000"
+      }
+    ],
+    "rejected": [
+      {
+        "ticker": "NOVN.SW",
+        "date": "2023-10-04",
+        "split": "6.000000/5.000000",
+        "observed": 0.9999998125663287
+      },
+      {
+        "ticker": "HON.US",
+        "date": "2026-06-29",
+        "split": "1.000000/2.000000",
+        "observed": 1.0487673725537
+      }
+    ],
+    "mismatched": [],
+    "unverifiable": 3,
+    "skipped": [
+      "ENEL_MI.US",
+      "ENI_MI.US",
+      "ISP_MI.US",
+      "RACE_MI.US",
+      "STLAM_MI.US",
+      "UCG_MI.US"
+    ],
+    "failed": []
   }
 }
