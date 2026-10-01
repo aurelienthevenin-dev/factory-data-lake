@@ -995,18 +995,6 @@
     },
     {
       "ticker": "CVNA.US",
-      "quarter": "2024-06-30",
-      "action": "restate",
-      "vendorValue": 0.08,
-      "repairedValue": 0.016,
-      "verdict": "unadjusted-split",
-      "witness": 0.028023196979722102,
-      "localMedian": 0.028023196979722102,
-      "estimate": -0.02,
-      "splitFactor": 0.2
-    },
-    {
-      "ticker": "CVNA.US",
       "quarter": "2024-09-30",
       "action": "restate",
       "vendorValue": 0.64,
@@ -3272,18 +3260,6 @@
       "localMedian": -0.04,
       "estimate": 0.51,
       "splitFactor": 1
-    },
-    {
-      "ticker": "TSLA.US",
-      "quarter": "2020-06-30",
-      "action": "restate",
-      "vendorValue": 0.15,
-      "repairedValue": 0.01,
-      "verdict": "unadjusted-split",
-      "witness": 0.03333333333333333,
-      "localMedian": 0.03333333333333333,
-      "estimate": -0.01,
-      "splitFactor": 0.06666666666666667
     },
     {
       "ticker": "TSN.US",
