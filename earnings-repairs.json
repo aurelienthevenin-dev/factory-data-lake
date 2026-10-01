@@ -10,6 +10,18 @@
   "from": "2017-10-01",
   "repairs": [
     {
+      "ticker": "AAPL.US",
+      "quarter": "2017-12-31",
+      "action": "restate",
+      "vendorValue": 0.9725,
+      "repairedValue": 0.243125,
+      "verdict": "unadjusted-split",
+      "witness": 0.9725,
+      "localMedian": 0.9725,
+      "estimate": 0.965,
+      "splitFactor": 0.25
+    },
+    {
       "ticker": "AAP.US",
       "quarter": "2023-12-31",
       "action": "exclude",
@@ -55,18 +67,6 @@
       "witness": 0.39408866995073893,
       "localMedian": -0.22,
       "estimate": 0.44,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "ADM.US",
-      "quarter": "2021-03-31",
-      "action": "exclude",
-      "vendorValue": 1.39,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 1.22,
-      "localMedian": 0.64,
-      "estimate": 1.06,
       "splitFactor": 1
     },
     {
@@ -119,6 +119,18 @@
     },
     {
       "ticker": "AMCR.US",
+      "quarter": "2019-06-30",
+      "action": "restate",
+      "vendorValue": 0.3,
+      "repairedValue": 1.5,
+      "verdict": "unadjusted-split",
+      "witness": 0.305,
+      "localMedian": 0.305,
+      "estimate": 1.05,
+      "splitFactor": 5
+    },
+    {
+      "ticker": "AMCR.US",
       "quarter": "2025-09-30",
       "action": "restate",
       "vendorValue": 0.19,
@@ -128,30 +140,6 @@
       "localMedian": 0.5650000000000001,
       "estimate": 0.19,
       "splitFactor": 5
-    },
-    {
-      "ticker": "AMCR.US",
-      "quarter": "2020-06-30",
-      "action": "exclude",
-      "vendorValue": 0.95,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.5650000000000001,
-      "localMedian": 0.3,
-      "estimate": 0.95,
-      "splitFactor": 5
-    },
-    {
-      "ticker": "AMT.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 2.71,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 1.86,
-      "localMedian": 0.78,
-      "estimate": 2.65,
-      "splitFactor": 1
     },
     {
       "ticker": "APA.US",
@@ -610,18 +598,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "AVB.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 2.86,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 1.0978969900193747,
-      "localMedian": 1.18,
-      "estimate": 2.8,
-      "splitFactor": 1
-    },
-    {
       "ticker": "AXON.US",
       "quarter": "2023-06-30",
       "action": "exclude",
@@ -743,6 +719,18 @@
     },
     {
       "ticker": "BKNG.US",
+      "quarter": "2024-09-30",
+      "action": "restate",
+      "vendorValue": 83.89,
+      "repairedValue": 3.3556,
+      "verdict": "unadjusted-split",
+      "witness": 2.9736000000000002,
+      "localMedian": 2.9736000000000002,
+      "estimate": 77.52,
+      "splitFactor": 0.04
+    },
+    {
+      "ticker": "BKNG.US",
       "quarter": "2024-12-31",
       "action": "restate",
       "vendorValue": 41.55,
@@ -763,18 +751,6 @@
       "witness": 1.7671999999999999,
       "localMedian": 1.7671999999999999,
       "estimate": 48.23,
-      "splitFactor": 0.04
-    },
-    {
-      "ticker": "BKNG.US",
-      "quarter": "2021-09-30",
-      "action": "restate",
-      "vendorValue": 1.51,
-      "repairedValue": 0.0604,
-      "verdict": "unadjusted-split",
-      "witness": 0.7440000000000001,
-      "localMedian": 0.7440000000000001,
-      "estimate": 1.32,
       "splitFactor": 0.04
     },
     {
@@ -814,30 +790,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "BXP.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.78,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.43,
-      "localMedian": 0.56,
-      "estimate": 1.71,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "CFR.SW",
-      "quarter": "2020-03-31",
-      "action": "exclude",
-      "vendorValue": 1.22,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.11392479419332395,
-      "localMedian": 0,
-      "estimate": 0.9,
-      "splitFactor": 1
-    },
-    {
       "ticker": "CINF.US",
       "quarter": "2023-09-30",
       "action": "exclude",
@@ -862,18 +814,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "CNC.US",
-      "quarter": "2018-03-31",
-      "action": "restate",
-      "vendorValue": 1.09,
-      "repairedValue": 0.545,
-      "verdict": "unadjusted-split",
-      "witness": 0.96,
-      "localMedian": 0.96,
-      "estimate": 0.97,
-      "splitFactor": 0.5
-    },
-    {
       "ticker": "COIN.US",
       "quarter": "2020-06-30",
       "action": "exclude",
@@ -881,18 +821,6 @@
       "repairedValue": null,
       "verdict": "ungrounded-unexplained",
       "witness": 0,
-      "localMedian": -0.1503,
-      "estimate": 0,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "COIN.US",
-      "quarter": "2020-09-30",
-      "action": "exclude",
-      "vendorValue": 0.605,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.23,
       "localMedian": -0.1503,
       "estimate": 0,
       "splitFactor": 1
@@ -922,16 +850,16 @@
       "splitFactor": 1
     },
     {
-      "ticker": "CPT.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.68,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.18,
-      "localMedian": 0.31,
-      "estimate": 1.67,
-      "splitFactor": 1
+      "ticker": "CPRT.US",
+      "quarter": "2018-07-31",
+      "action": "restate",
+      "vendorValue": 0.21,
+      "repairedValue": 0.0525,
+      "verdict": "unadjusted-split",
+      "witness": 0.1125,
+      "localMedian": 0.1125,
+      "estimate": 0.24,
+      "splitFactor": 0.25
     },
     {
       "ticker": "CRWD.US",
@@ -959,50 +887,14 @@
     },
     {
       "ticker": "CRWD.US",
-      "quarter": "2021-01-31",
+      "quarter": "2020-04-30",
       "action": "restate",
-      "vendorValue": 0.03,
-      "repairedValue": 0.0075,
+      "vendorValue": 0.01,
+      "repairedValue": 0.0025,
       "verdict": "unadjusted-split",
-      "witness": -0.022499999999999992,
-      "localMedian": -0.022499999999999992,
-      "estimate": 0.02,
-      "splitFactor": 0.25
-    },
-    {
-      "ticker": "CRWD.US",
-      "quarter": "2021-04-30",
-      "action": "restate",
-      "vendorValue": 0.03,
-      "repairedValue": 0.0075,
-      "verdict": "unadjusted-split",
-      "witness": -0.095,
-      "localMedian": -0.095,
-      "estimate": 0.01,
-      "splitFactor": 0.25
-    },
-    {
-      "ticker": "CRWD.US",
-      "quarter": "2021-07-31",
-      "action": "restate",
-      "vendorValue": 0.03,
-      "repairedValue": 0.0075,
-      "verdict": "unadjusted-split",
-      "witness": -0.0625,
-      "localMedian": -0.0625,
-      "estimate": 0.02,
-      "splitFactor": 0.25
-    },
-    {
-      "ticker": "CRWD.US",
-      "quarter": "2021-10-31",
-      "action": "restate",
-      "vendorValue": 0.04,
-      "repairedValue": 0.01,
-      "verdict": "unadjusted-split",
-      "witness": -0.055,
-      "localMedian": -0.055,
-      "estimate": 0.02,
+      "witness": -0.0225,
+      "localMedian": -0.0225,
+      "estimate": -0.02,
       "splitFactor": 0.25
     },
     {
@@ -1016,18 +908,6 @@
       "localMedian": 0.3,
       "estimate": null,
       "splitFactor": 1
-    },
-    {
-      "ticker": "CTAS.US",
-      "quarter": "2018-05-31",
-      "action": "restate",
-      "vendorValue": 1.77,
-      "repairedValue": 0.4425,
-      "verdict": "unadjusted-split",
-      "witness": 0.4149999999999998,
-      "localMedian": 0.4149999999999998,
-      "estimate": 1.67,
-      "splitFactor": 0.25
     },
     {
       "ticker": "CTAS.US",
@@ -1127,6 +1007,30 @@
     },
     {
       "ticker": "CVNA.US",
+      "quarter": "2020-03-31",
+      "action": "restate",
+      "vendorValue": -0.24,
+      "repairedValue": -0.048,
+      "verdict": "unadjusted-split",
+      "witness": -0.238,
+      "localMedian": -0.238,
+      "estimate": -0.13,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2020-12-31",
+      "action": "restate",
+      "vendorValue": -0.87,
+      "repairedValue": -0.17400000000000002,
+      "verdict": "unadjusted-split",
+      "witness": -0.17307119533288703,
+      "localMedian": -0.17307119533288703,
+      "estimate": -0.47,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
       "quarter": "2021-12-31",
       "action": "restate",
       "vendorValue": -1.02,
@@ -1135,6 +1039,42 @@
       "witness": -0.20474125536295565,
       "localMedian": -0.20474125536295565,
       "estimate": -0.82,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2022-03-31",
+      "action": "restate",
+      "vendorValue": -0.58,
+      "repairedValue": -0.11599999999999999,
+      "verdict": "unadjusted-split",
+      "witness": -0.5771685443143348,
+      "localMedian": -0.5771685443143348,
+      "estimate": -0.32,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2023-09-30",
+      "action": "restate",
+      "vendorValue": -0.14,
+      "repairedValue": -0.028000000000000004,
+      "verdict": "unadjusted-split",
+      "witness": 1.4100000000000001,
+      "localMedian": 1.4100000000000001,
+      "estimate": -0.16,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2024-06-30",
+      "action": "restate",
+      "vendorValue": 0.08,
+      "repairedValue": 0.016,
+      "verdict": "unadjusted-split",
+      "witness": 0.028023196979722102,
+      "localMedian": 0.028023196979722102,
+      "estimate": -0.02,
       "splitFactor": 0.2
     },
     {
@@ -1151,6 +1091,18 @@
     },
     {
       "ticker": "CVNA.US",
+      "quarter": "2024-12-31",
+      "action": "restate",
+      "vendorValue": 0.608,
+      "repairedValue": 0.1216,
+      "verdict": "unadjusted-split",
+      "witness": 0.11297092071300381,
+      "localMedian": 0.11297092071300381,
+      "estimate": 0.17,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
       "quarter": "2025-03-31",
       "action": "restate",
       "vendorValue": 1.5288,
@@ -1163,14 +1115,14 @@
     },
     {
       "ticker": "CVNA.US",
-      "quarter": "2020-12-31",
-      "action": "exclude",
-      "vendorValue": -0.87,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": -0.17307119533288703,
-      "localMedian": -0.15800000000000003,
-      "estimate": -0.47,
+      "quarter": "2025-12-31",
+      "action": "restate",
+      "vendorValue": 4.22,
+      "repairedValue": 0.844,
+      "verdict": "unadjusted-split",
+      "witness": 0.7600145440356152,
+      "localMedian": 0.7600145440356152,
+      "estimate": 1.13,
       "splitFactor": 0.2
     },
     {
@@ -1187,26 +1139,62 @@
     },
     {
       "ticker": "CVNA.US",
-      "quarter": "2024-12-31",
-      "action": "exclude",
-      "vendorValue": 0.608,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.11297092071300381,
-      "localMedian": -1,
-      "estimate": 0.17,
+      "quarter": "2022-06-30",
+      "action": "restate",
+      "vendorValue": -0.47,
+      "repairedValue": -0.094,
+      "verdict": "unadjusted-split",
+      "witness": -0.47000000000000003,
+      "localMedian": -0.47000000000000003,
+      "estimate": -0.38,
       "splitFactor": 0.2
     },
     {
       "ticker": "CVNA.US",
-      "quarter": "2025-12-31",
-      "action": "exclude",
-      "vendorValue": 4.22,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.7600145440356152,
-      "localMedian": 0.608,
-      "estimate": 1.13,
+      "quarter": "2022-09-30",
+      "action": "restate",
+      "vendorValue": -0.53,
+      "repairedValue": -0.10600000000000001,
+      "verdict": "unadjusted-split",
+      "witness": -0.534,
+      "localMedian": -0.534,
+      "estimate": -0.39,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2024-03-31",
+      "action": "restate",
+      "vendorValue": 0.05,
+      "repairedValue": 0.010000000000000002,
+      "verdict": "unadjusted-split",
+      "witness": 0.048,
+      "localMedian": 0.048,
+      "estimate": -0.15,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2023-03-31",
+      "action": "restate",
+      "vendorValue": -0.3,
+      "repairedValue": -0.06,
+      "verdict": "unadjusted-split",
+      "witness": -0.30200000000000005,
+      "localMedian": -0.30200000000000005,
+      "estimate": -0.38,
+      "splitFactor": 0.2
+    },
+    {
+      "ticker": "CVNA.US",
+      "quarter": "2023-06-30",
+      "action": "restate",
+      "vendorValue": -0.19,
+      "repairedValue": -0.038000000000000006,
+      "verdict": "unadjusted-split",
+      "witness": -0.11000000000000001,
+      "localMedian": -0.11000000000000001,
+      "estimate": -0.21,
       "splitFactor": 0.2
     },
     {
@@ -1246,6 +1234,18 @@
       "splitFactor": 3
     },
     {
+      "ticker": "DD.US",
+      "quarter": "2026-03-31",
+      "action": "restate",
+      "vendorValue": 1.65,
+      "repairedValue": 4.949999999999999,
+      "verdict": "unadjusted-split",
+      "witness": 1.17,
+      "localMedian": 1.17,
+      "estimate": 1.45,
+      "splitFactor": 3
+    },
+    {
       "ticker": "DECK.US",
       "quarter": "2017-12-31",
       "action": "restate",
@@ -1259,26 +1259,110 @@
     },
     {
       "ticker": "DECK.US",
+      "quarter": "2020-03-31",
+      "action": "restate",
+      "vendorValue": 0.57,
+      "repairedValue": 0.09499999999999999,
+      "verdict": "unadjusted-split",
+      "witness": 0.09499999999999999,
+      "localMedian": 0.09499999999999999,
+      "estimate": 0.09,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
       "quarter": "2021-03-31",
-      "action": "exclude",
+      "action": "restate",
       "vendorValue": 1.18,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
+      "repairedValue": 0.19666666666666666,
+      "verdict": "unadjusted-split",
       "witness": 0.19666666666666666,
-      "localMedian": 0.57,
+      "localMedian": 0.19666666666666666,
       "estimate": 0.64,
       "splitFactor": 0.16666666666666666
     },
     {
       "ticker": "DECK.US",
       "quarter": "2022-03-31",
-      "action": "exclude",
+      "action": "restate",
       "vendorValue": 2.51,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
+      "repairedValue": 0.4183333333333333,
+      "verdict": "unadjusted-split",
       "witness": 0.4183333333333333,
-      "localMedian": 1.18,
+      "localMedian": 0.4183333333333333,
       "estimate": 1.32,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
+      "quarter": "2023-12-31",
+      "action": "restate",
+      "vendorValue": 2.52,
+      "repairedValue": 0.42,
+      "verdict": "unadjusted-split",
+      "witness": 2.52,
+      "localMedian": 2.52,
+      "estimate": 1.92,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
+      "quarter": "2018-03-31",
+      "action": "restate",
+      "vendorValue": 0.5,
+      "repairedValue": 0.08333333333333333,
+      "verdict": "unadjusted-split",
+      "witness": 0.11,
+      "localMedian": 0.11,
+      "estimate": 0.19,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
+      "quarter": "2020-09-30",
+      "action": "restate",
+      "vendorValue": 0.6,
+      "repairedValue": 0.09999999999999999,
+      "verdict": "unadjusted-split",
+      "witness": 0.5966666666666667,
+      "localMedian": 0.5966666666666667,
+      "estimate": 0.45,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
+      "quarter": "2018-09-30",
+      "action": "restate",
+      "vendorValue": 0.4,
+      "repairedValue": 0.06666666666666667,
+      "verdict": "unadjusted-split",
+      "witness": 0.41333333333333333,
+      "localMedian": 0.41333333333333333,
+      "estimate": 0.28,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
+      "quarter": "2019-03-31",
+      "action": "restate",
+      "vendorValue": 0.85,
+      "repairedValue": 0.14166666666666666,
+      "verdict": "unadjusted-split",
+      "witness": 0.13666666666666666,
+      "localMedian": 0.13666666666666666,
+      "estimate": 0.08,
+      "splitFactor": 0.16666666666666666
+    },
+    {
+      "ticker": "DECK.US",
+      "quarter": "2019-09-30",
+      "action": "restate",
+      "vendorValue": 0.45,
+      "repairedValue": 0.075,
+      "verdict": "unadjusted-split",
+      "witness": 0.45166666666666666,
+      "localMedian": 0.45166666666666666,
+      "estimate": 0.39,
       "splitFactor": 0.16666666666666666
     },
     {
@@ -1330,6 +1414,174 @@
       "splitFactor": 1
     },
     {
+      "ticker": "DXCM.US",
+      "quarter": "2018-03-31",
+      "action": "restate",
+      "vendorValue": -0.08,
+      "repairedValue": -0.02,
+      "verdict": "unadjusted-split",
+      "witness": -0.07,
+      "localMedian": -0.07,
+      "estimate": -0.09,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2018-06-30",
+      "action": "restate",
+      "vendorValue": -0.02,
+      "repairedValue": -0.005,
+      "verdict": "unadjusted-split",
+      "witness": 0.085,
+      "localMedian": 0.085,
+      "estimate": -0.04,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2018-09-30",
+      "action": "restate",
+      "vendorValue": 0.04,
+      "repairedValue": 0.01,
+      "verdict": "unadjusted-split",
+      "witness": 0.13,
+      "localMedian": 0.13,
+      "estimate": -0.02,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2018-12-31",
+      "action": "restate",
+      "vendorValue": 0.14,
+      "repairedValue": 0.035,
+      "verdict": "unadjusted-split",
+      "witness": -0.5075,
+      "localMedian": -0.5075,
+      "estimate": 0.04,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2019-09-30",
+      "action": "restate",
+      "vendorValue": 0.16,
+      "repairedValue": 0.04,
+      "verdict": "unadjusted-split",
+      "witness": 0.125,
+      "localMedian": 0.125,
+      "estimate": 0.05,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2019-12-31",
+      "action": "restate",
+      "vendorValue": 0.29,
+      "repairedValue": 0.0725,
+      "verdict": "unadjusted-split",
+      "witness": 0.25,
+      "localMedian": 0.25,
+      "estimate": 0.18,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2017-12-31",
+      "action": "restate",
+      "vendorValue": 0.03,
+      "repairedValue": 0.0075,
+      "verdict": "unadjusted-split",
+      "witness": -0.0275,
+      "localMedian": -0.0275,
+      "estimate": 0.01,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2020-06-30",
+      "action": "restate",
+      "vendorValue": 0.2,
+      "repairedValue": 0.05,
+      "verdict": "unadjusted-split",
+      "witness": 0.12,
+      "localMedian": 0.12,
+      "estimate": 0.09,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2020-09-30",
+      "action": "restate",
+      "vendorValue": 0.24,
+      "repairedValue": 0.06,
+      "verdict": "unadjusted-split",
+      "witness": 0.1825,
+      "localMedian": 0.1825,
+      "estimate": 0.16,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2020-03-31",
+      "action": "restate",
+      "vendorValue": 0.11,
+      "repairedValue": 0.0275,
+      "verdict": "unadjusted-split",
+      "witness": 0.0525,
+      "localMedian": 0.0525,
+      "estimate": 0.04,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2020-12-31",
+      "action": "restate",
+      "vendorValue": 0.23,
+      "repairedValue": 0.0575,
+      "verdict": "unadjusted-split",
+      "witness": 0.9725000000000001,
+      "localMedian": 0.9725000000000001,
+      "estimate": 0.23,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2021-06-30",
+      "action": "restate",
+      "vendorValue": 0.19,
+      "repairedValue": 0.0475,
+      "verdict": "unadjusted-split",
+      "witness": 0.19,
+      "localMedian": 0.19,
+      "estimate": 0.11,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2021-09-30",
+      "action": "restate",
+      "vendorValue": 0.22,
+      "repairedValue": 0.055,
+      "verdict": "unadjusted-split",
+      "witness": 0.21,
+      "localMedian": 0.21,
+      "estimate": 0.16,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "DXCM.US",
+      "quarter": "2021-12-31",
+      "action": "restate",
+      "vendorValue": 0.17,
+      "repairedValue": 0.0425,
+      "verdict": "unadjusted-split",
+      "witness": -0.010000000000000009,
+      "localMedian": -0.010000000000000009,
+      "estimate": 0.21,
+      "splitFactor": 0.25
+    },
+    {
       "ticker": "EL.PA",
       "quarter": "2018-03-31",
       "action": "exclude",
@@ -1366,30 +1618,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "EQIX.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 11.78,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 4.83,
-      "localMedian": 3.79,
-      "estimate": 10.14,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "EQR.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.02,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.29732102386695775,
-      "localMedian": 0.34,
-      "estimate": 1.01,
-      "splitFactor": 1
-    },
-    {
       "ticker": "EQT.US",
       "quarter": "2017-12-31",
       "action": "restate",
@@ -1399,18 +1627,6 @@
       "witness": 5.83,
       "localMedian": 5.83,
       "estimate": 0.01,
-      "splitFactor": 0.5443658138268916
-    },
-    {
-      "ticker": "EQT.US",
-      "quarter": "2018-03-31",
-      "action": "restate",
-      "vendorValue": 1.01,
-      "repairedValue": 0.5498094719651606,
-      "verdict": "unadjusted-split",
-      "witness": -5.99,
-      "localMedian": -5.99,
-      "estimate": 1.11,
       "splitFactor": 0.5443658138268916
     },
     {
@@ -1438,16 +1654,16 @@
       "splitFactor": 1
     },
     {
-      "ticker": "ESS.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 4.08,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.97,
-      "localMedian": 1.48,
-      "estimate": 4.03,
-      "splitFactor": 1
+      "ticker": "ETR.US",
+      "quarter": "2017-12-31",
+      "action": "restate",
+      "vendorValue": 0.38,
+      "repairedValue": 0.19,
+      "verdict": "unadjusted-split",
+      "witness": -1.33,
+      "localMedian": -1.33,
+      "estimate": 0.23,
+      "splitFactor": 0.5
     },
     {
       "ticker": "ETR.US",
@@ -1459,42 +1675,6 @@
       "witness": 1.46,
       "localMedian": 1.46,
       "estimate": 1.41,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "ETR.US",
-      "quarter": "2019-09-30",
-      "action": "restate",
-      "vendorValue": 1.26,
-      "repairedValue": 0.63,
-      "verdict": "unadjusted-split",
-      "witness": 0.91,
-      "localMedian": 0.91,
-      "estimate": 1.14,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "ETR.US",
-      "quarter": "2020-09-30",
-      "action": "restate",
-      "vendorValue": 1.22,
-      "repairedValue": 0.61,
-      "verdict": "unadjusted-split",
-      "witness": 1.295,
-      "localMedian": 1.295,
-      "estimate": 1.2,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "ETR.US",
-      "quarter": "2021-09-30",
-      "action": "restate",
-      "vendorValue": 1.23,
-      "repairedValue": 0.615,
-      "verdict": "unadjusted-split",
-      "witness": 1.315,
-      "localMedian": 1.315,
-      "estimate": 1.23,
       "splitFactor": 0.5
     },
     {
@@ -1523,18 +1703,6 @@
     },
     {
       "ticker": "ETR.US",
-      "quarter": "2023-06-30",
-      "action": "restate",
-      "vendorValue": 0.92,
-      "repairedValue": 0.46,
-      "verdict": "unadjusted-split",
-      "witness": 0.92,
-      "localMedian": 0.92,
-      "estimate": 0.84,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "ETR.US",
       "quarter": "2023-09-30",
       "action": "restate",
       "vendorValue": 1.64,
@@ -1544,30 +1712,6 @@
       "localMedian": 1.57,
       "estimate": 1.5,
       "splitFactor": 0.5
-    },
-    {
-      "ticker": "ETR.US",
-      "quarter": "2022-06-30",
-      "action": "restate",
-      "vendorValue": 0.89,
-      "repairedValue": 0.445,
-      "verdict": "unadjusted-split",
-      "witness": 0.39,
-      "localMedian": 0.39,
-      "estimate": 0.7,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "ETSY.US",
-      "quarter": "2020-09-30",
-      "action": "exclude",
-      "vendorValue": 0.93,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.667059706136359,
-      "localMedian": 0.25,
-      "estimate": 0.67,
-      "splitFactor": 1
     },
     {
       "ticker": "ETSY.US",
@@ -1580,6 +1724,18 @@
       "localMedian": 0.51,
       "estimate": 0.9,
       "splitFactor": 1
+    },
+    {
+      "ticker": "EXE.US",
+      "quarter": "2019-12-31",
+      "action": "restate",
+      "vendorValue": -0.18,
+      "repairedValue": -36,
+      "verdict": "unadjusted-split",
+      "witness": -35.53,
+      "localMedian": -35.53,
+      "estimate": 0,
+      "splitFactor": 200
     },
     {
       "ticker": "EXE.US",
@@ -1642,114 +1798,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "FTV.US",
-      "quarter": "2017-12-31",
-      "action": "restate",
-      "vendorValue": 0.82,
-      "repairedValue": 0.5171005792157097,
-      "verdict": "unadjusted-split",
-      "witness": 0.5990799393352735,
-      "localMedian": 0.5990799393352735,
-      "estimate": 0.78,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2018-06-30",
-      "action": "restate",
-      "vendorValue": 0.91,
-      "repairedValue": 0.5738555208369462,
-      "verdict": "unadjusted-split",
-      "witness": 0.5234066838402915,
-      "localMedian": 0.5234066838402915,
-      "estimate": 0.89,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2018-09-30",
-      "action": "restate",
-      "vendorValue": 0.86,
-      "repairedValue": 0.5423249977140371,
-      "verdict": "unadjusted-split",
-      "witness": 0.4035906959732369,
-      "localMedian": 0.4035906959732369,
-      "estimate": 0.86,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2018-12-31",
-      "action": "restate",
-      "vendorValue": 0.91,
-      "repairedValue": 0.5738555208369462,
-      "verdict": "unadjusted-split",
-      "witness": 3.890866553366987,
-      "localMedian": 3.890866553366987,
-      "estimate": 0.85,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2019-06-30",
-      "action": "restate",
-      "vendorValue": 0.9,
-      "repairedValue": 0.5675494162123644,
-      "verdict": "unadjusted-split",
-      "witness": 0.34664657121326303,
-      "localMedian": 0.34664657121326303,
-      "estimate": 0.89,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2019-09-30",
-      "action": "restate",
-      "vendorValue": 0.87,
-      "repairedValue": 0.5486311023386189,
-      "verdict": "unadjusted-split",
-      "witness": 0.4220045214770159,
-      "localMedian": 0.4220045214770159,
-      "estimate": 0.87,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2019-12-31",
-      "action": "restate",
-      "vendorValue": 1.03,
-      "repairedValue": 0.6495287763319282,
-      "verdict": "unadjusted-split",
-      "witness": 0.39186134137151474,
-      "localMedian": 0.39186134137151474,
-      "estimate": 0.97,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2018-03-31",
-      "action": "restate",
-      "vendorValue": 0.78,
-      "repairedValue": 0.4918761607173825,
-      "verdict": "unadjusted-split",
-      "witness": 0.46665174221905514,
-      "localMedian": 0.46665174221905514,
-      "estimate": 0.75,
-      "splitFactor": 0.6306104624581826
-    },
-    {
-      "ticker": "FTV.US",
-      "quarter": "2019-03-31",
-      "action": "restate",
-      "vendorValue": 0.69,
-      "repairedValue": 0.435121219096146,
-      "verdict": "unadjusted-split",
-      "witness": 0.3240391861341371,
-      "localMedian": 0.3240391861341371,
-      "estimate": 0.69,
-      "splitFactor": 0.6306104624581826
-    },
-    {
       "ticker": "F.US",
       "quarter": "2020-03-31",
       "action": "exclude",
@@ -1774,18 +1822,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "GEV.US",
-      "quarter": "2026-03-31",
-      "action": "exclude",
-      "vendorValue": 2.01,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 17.44,
-      "localMedian": 0.91,
-      "estimate": 1.67,
-      "splitFactor": 1
-    },
-    {
       "ticker": "GE.US",
       "quarter": "2020-03-31",
       "action": "restate",
@@ -1795,6 +1831,30 @@
       "witness": 3.495124581566302,
       "localMedian": 3.495124581566302,
       "estimate": 0.65,
+      "splitFactor": 4.98413487567387
+    },
+    {
+      "ticker": "GE.US",
+      "quarter": "2020-09-30",
+      "action": "restate",
+      "vendorValue": 0.48,
+      "repairedValue": 2.3923847403234575,
+      "verdict": "unadjusted-split",
+      "witness": -0.6790883768105649,
+      "localMedian": -0.6790883768105649,
+      "estimate": -0.23,
+      "splitFactor": 4.98413487567387
+    },
+    {
+      "ticker": "GE.US",
+      "quarter": "2020-12-31",
+      "action": "restate",
+      "vendorValue": 0.64,
+      "repairedValue": 3.1898463204312772,
+      "verdict": "unadjusted-split",
+      "witness": 1.364406922215722,
+      "localMedian": 1.364406922215722,
+      "estimate": 0.68,
       "splitFactor": 4.98413487567387
     },
     {
@@ -1823,6 +1883,18 @@
     },
     {
       "ticker": "GE.US",
+      "quarter": "2021-09-30",
+      "action": "restate",
+      "vendorValue": 0.57,
+      "repairedValue": 0.3551196098917632,
+      "verdict": "unadjusted-split",
+      "witness": 0.8619313647246608,
+      "localMedian": 0.8619313647246608,
+      "estimate": 0.44,
+      "splitFactor": 0.6230168594592338
+    },
+    {
+      "ticker": "GE.US",
       "quarter": "2022-06-30",
       "action": "restate",
       "vendorValue": 0.78,
@@ -1834,30 +1906,6 @@
       "splitFactor": 0.6230168594592338
     },
     {
-      "ticker": "GE.US",
-      "quarter": "2021-12-31",
-      "action": "restate",
-      "vendorValue": 0.92,
-      "repairedValue": 0.5731755107024952,
-      "verdict": "unadjusted-split",
-      "witness": -2.8332003192338386,
-      "localMedian": -2.8332003192338386,
-      "estimate": 0.82,
-      "splitFactor": 0.6230168594592338
-    },
-    {
-      "ticker": "GIVN.SW",
-      "quarter": "2025-06-30",
-      "action": "exclude",
-      "vendorValue": 63.85,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 31.92613844726794,
-      "localMedian": 0,
-      "estimate": 62.59,
-      "splitFactor": 1
-    },
-    {
       "ticker": "HAS.US",
       "quarter": "2021-06-30",
       "action": "exclude",
@@ -1867,18 +1915,6 @@
       "witness": -0.17,
       "localMedian": 0.02,
       "estimate": 0.47,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "HLT.US",
-      "quarter": "2022-12-31",
-      "action": "exclude",
-      "vendorValue": 1.59,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 1.2100000000000004,
-      "localMedian": 0.72,
-      "estimate": 1.22,
       "splitFactor": 1
     },
     {
@@ -1930,18 +1966,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "HPQ.US",
-      "quarter": "2021-07-31",
-      "action": "exclude",
-      "vendorValue": 1,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.92,
-      "localMedian": 0.49,
-      "estimate": 0.84,
-      "splitFactor": 1
-    },
-    {
       "ticker": "ILMN.US",
       "quarter": "2021-06-30",
       "action": "exclude",
@@ -1954,16 +1978,16 @@
       "splitFactor": 0.9727626459143969
     },
     {
-      "ticker": "IRM.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.44,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.34,
-      "localMedian": 0.48,
-      "estimate": 1.28,
-      "splitFactor": 1
+      "ticker": "ISRG.US",
+      "quarter": "2020-06-30",
+      "action": "restate",
+      "vendorValue": 0.37,
+      "repairedValue": 0.1233332048198797,
+      "verdict": "unadjusted-split",
+      "witness": 0.57,
+      "localMedian": 0.57,
+      "estimate": 0.16,
+      "splitFactor": 0.33333298599967487
     },
     {
       "ticker": "KKR.US",
@@ -1979,18 +2003,6 @@
     },
     {
       "ticker": "KKR.US",
-      "quarter": "2021-06-30",
-      "action": "exclude",
-      "vendorValue": 1.05,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 2.086445161601446,
-      "localMedian": 0.39,
-      "estimate": 0.86,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "KKR.US",
       "quarter": "2021-09-30",
       "action": "exclude",
       "vendorValue": 1.05,
@@ -1999,30 +2011,6 @@
       "witness": 1.8144458541288806,
       "localMedian": 0.48,
       "estimate": 0.95,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "LITE.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 2.64,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": -95.55,
-      "localMedian": 0.88,
-      "estimate": 2.62,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "LLY.US",
-      "quarter": "2025-09-30",
-      "action": "exclude",
-      "vendorValue": 7.02,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 6.21,
-      "localMedian": 1.18,
-      "estimate": 5.89,
       "splitFactor": 1
     },
     {
@@ -2062,18 +2050,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "MAA.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 2.08,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 1.0482676677228269,
-      "localMedian": 0.88,
-      "estimate": 2.08,
-      "splitFactor": 1
-    },
-    {
       "ticker": "MBG.XETRA",
       "quarter": "2025-09-30",
       "action": "exclude",
@@ -2108,42 +2084,6 @@
       "localMedian": 1.04,
       "estimate": 4.87,
       "splitFactor": 1
-    },
-    {
-      "ticker": "MGM.US",
-      "quarter": "2023-09-30",
-      "action": "exclude",
-      "vendorValue": 0.64,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.46,
-      "localMedian": -1.39,
-      "estimate": 0.49,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "MKC.US",
-      "quarter": "2017-11-30",
-      "action": "restate",
-      "vendorValue": 0.77,
-      "repairedValue": 0.385,
-      "verdict": "unadjusted-split",
-      "witness": 0.66,
-      "localMedian": 0.66,
-      "estimate": 0.76,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "MKC.US",
-      "quarter": "2018-11-30",
-      "action": "restate",
-      "vendorValue": 0.84,
-      "repairedValue": 0.42,
-      "verdict": "unadjusted-split",
-      "witness": 0.8,
-      "localMedian": 0.8,
-      "estimate": 0.85,
-      "splitFactor": 0.5
     },
     {
       "ticker": "MNST.US",
@@ -2275,6 +2215,18 @@
       "witness": 0.16298430605536104,
       "localMedian": 0.16298430605536104,
       "estimate": 0.63,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "MNST.US",
+      "quarter": "2020-12-31",
+      "action": "restate",
+      "vendorValue": 0.88,
+      "repairedValue": 0.22,
+      "verdict": "unadjusted-split",
+      "witness": 0.22076791607621882,
+      "localMedian": 0.22076791607621882,
+      "estimate": 0.57,
       "splitFactor": 0.25
     },
     {
@@ -2519,14 +2471,26 @@
     },
     {
       "ticker": "MNST.US",
-      "quarter": "2020-12-31",
-      "action": "exclude",
-      "vendorValue": 0.88,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.22076791607621882,
-      "localMedian": 0.1225,
-      "estimate": 0.57,
+      "quarter": "2017-12-31",
+      "action": "restate",
+      "vendorValue": 0.28,
+      "repairedValue": 0.07,
+      "verdict": "unadjusted-split",
+      "witness": 0.08752582447012013,
+      "localMedian": 0.08752582447012013,
+      "estimate": 0.37,
+      "splitFactor": 0.25
+    },
+    {
+      "ticker": "MNST.US",
+      "quarter": "2022-06-30",
+      "action": "restate",
+      "vendorValue": 0.26,
+      "repairedValue": 0.065,
+      "verdict": "unadjusted-split",
+      "witness": 0.1277834599512725,
+      "localMedian": 0.1277834599512725,
+      "estimate": 0.35,
       "splitFactor": 0.25
     },
     {
@@ -2590,99 +2554,27 @@
       "splitFactor": 1
     },
     {
-      "ticker": "NVDA.US",
-      "quarter": "2026-07-31",
-      "action": "exclude",
-      "vendorValue": 2.22,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 2.46,
-      "localMedian": 1.05,
-      "estimate": 2.09,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "O.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.09,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.37,
-      "localMedian": 0.22,
-      "estimate": 1.09,
-      "splitFactor": 1
+      "ticker": "ODFL.US",
+      "quarter": "2017-12-31",
+      "action": "restate",
+      "vendorValue": 0.8,
+      "repairedValue": 0.26666666666666666,
+      "verdict": "unadjusted-split",
+      "witness": 0.7966666666666666,
+      "localMedian": 0.7966666666666666,
+      "estimate": 0.37,
+      "splitFactor": 0.3333333333333333
     },
     {
       "ticker": "PCAR.US",
-      "quarter": "2019-03-31",
+      "quarter": "2020-06-30",
       "action": "restate",
-      "vendorValue": 1.21,
-      "repairedValue": 0.8066666666666666,
+      "vendorValue": 0.29,
+      "repairedValue": 0.1933333333333333,
       "verdict": "unadjusted-split",
-      "witness": 1.2066666666666666,
-      "localMedian": 1.2066666666666666,
-      "estimate": 1.1,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2019-06-30",
-      "action": "restate",
-      "vendorValue": 1.19,
-      "repairedValue": 0.7933333333333332,
-      "verdict": "unadjusted-split",
-      "witness": 1.1866666666666665,
-      "localMedian": 1.1866666666666665,
-      "estimate": 1.2,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2019-09-30",
-      "action": "restate",
-      "vendorValue": 1.17,
-      "repairedValue": 0.7799999999999999,
-      "verdict": "unadjusted-split",
-      "witness": 1.1666666666666665,
-      "localMedian": 1.1666666666666665,
-      "estimate": 1.09,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2021-03-31",
-      "action": "restate",
-      "vendorValue": 0.9,
-      "repairedValue": 0.6,
-      "verdict": "unadjusted-split",
-      "witness": 0.9,
-      "localMedian": 0.9,
-      "estimate": 0.84,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2021-06-30",
-      "action": "restate",
-      "vendorValue": 0.94,
-      "repairedValue": 0.6266666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 0.9466666666666665,
-      "localMedian": 0.9466666666666665,
-      "estimate": 0.92,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2022-06-30",
-      "action": "restate",
-      "vendorValue": 1.38,
-      "repairedValue": 0.9199999999999999,
-      "verdict": "unadjusted-split",
-      "witness": 1.37,
-      "localMedian": 1.37,
-      "estimate": 1.22,
+      "witness": 0.2866666666666666,
+      "localMedian": 0.2866666666666666,
+      "estimate": 0.21,
       "splitFactor": 0.6666666666666666
     },
     {
@@ -2698,150 +2590,6 @@
       "splitFactor": 0.6666666666666666
     },
     {
-      "ticker": "PCAR.US",
-      "quarter": "2018-06-30",
-      "action": "restate",
-      "vendorValue": 1.06,
-      "repairedValue": 0.7066666666666667,
-      "verdict": "unadjusted-split",
-      "witness": 1.06,
-      "localMedian": 1.06,
-      "estimate": 0.95,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2018-09-30",
-      "action": "restate",
-      "vendorValue": 1.03,
-      "repairedValue": 0.6866666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 1.0333333333333332,
-      "localMedian": 1.0333333333333332,
-      "estimate": 1.01,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2018-12-31",
-      "action": "restate",
-      "vendorValue": 1.1,
-      "repairedValue": 0.7333333333333334,
-      "verdict": "unadjusted-split",
-      "witness": 1.0999999999999999,
-      "localMedian": 1.0999999999999999,
-      "estimate": 1.02,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2019-12-31",
-      "action": "restate",
-      "vendorValue": 1.02,
-      "repairedValue": 0.6799999999999999,
-      "verdict": "unadjusted-split",
-      "witness": 1.02,
-      "localMedian": 1.02,
-      "estimate": 1.01,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2020-09-30",
-      "action": "restate",
-      "vendorValue": 0.74,
-      "repairedValue": 0.4933333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 0.74,
-      "localMedian": 0.74,
-      "estimate": 0.65,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2020-12-31",
-      "action": "restate",
-      "vendorValue": 0.78,
-      "repairedValue": 0.52,
-      "verdict": "unadjusted-split",
-      "witness": 0.7799999999999999,
-      "localMedian": 0.7799999999999999,
-      "estimate": 0.8,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2021-12-31",
-      "action": "restate",
-      "vendorValue": 0.98,
-      "repairedValue": 0.6533333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 0.9899999999999998,
-      "localMedian": 0.9899999999999998,
-      "estimate": 0.88,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2022-03-31",
-      "action": "restate",
-      "vendorValue": 1.15,
-      "repairedValue": 0.7666666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 1.15,
-      "localMedian": 1.15,
-      "estimate": 1.03,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2022-09-30",
-      "action": "restate",
-      "vendorValue": 1.47,
-      "repairedValue": 0.98,
-      "verdict": "unadjusted-split",
-      "witness": 1.47,
-      "localMedian": 1.47,
-      "estimate": 1.32,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2017-12-31",
-      "action": "restate",
-      "vendorValue": 0.79,
-      "repairedValue": 0.5266666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 1.1133333333333333,
-      "localMedian": 1.1133333333333333,
-      "estimate": 0.75,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2018-03-31",
-      "action": "restate",
-      "vendorValue": 0.97,
-      "repairedValue": 0.6466666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 0.9666666666666666,
-      "localMedian": 0.9666666666666666,
-      "estimate": 0.87,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "PCAR.US",
-      "quarter": "2021-09-30",
-      "action": "restate",
-      "vendorValue": 0.72,
-      "repairedValue": 0.48,
-      "verdict": "unadjusted-split",
-      "witness": 0.7266666666666667,
-      "localMedian": 0.7266666666666667,
-      "estimate": 0.81,
-      "splitFactor": 0.6666666666666666
-    },
-    {
       "ticker": "PENN.US",
       "quarter": "2019-12-31",
       "action": "exclude",
@@ -2851,30 +2599,6 @@
       "witness": -0.8029513888888888,
       "localMedian": -0.15,
       "estimate": 0.35,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "PKG.US",
-      "quarter": "2021-12-31",
-      "action": "exclude",
-      "vendorValue": 2.76,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 2.2800000000000002,
-      "localMedian": 1.33,
-      "estimate": 2.07,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "PLD.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.63,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 1.108893143637434,
-      "localMedian": 0.6,
-      "estimate": 1.53,
       "splitFactor": 1
     },
     {
@@ -2974,18 +2698,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "REG.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.21,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.63137915800841,
-      "localMedian": 0.56,
-      "estimate": 1.2,
-      "splitFactor": 1
-    },
-    {
       "ticker": "RI.PA",
       "quarter": "2020-06-30",
       "action": "exclude",
@@ -3011,110 +2723,14 @@
     },
     {
       "ticker": "RJF.US",
-      "quarter": "2019-09-30",
+      "quarter": "2020-06-30",
       "action": "restate",
-      "vendorValue": 1.33,
-      "repairedValue": 0.8866666666666667,
+      "vendorValue": 0.82,
+      "repairedValue": 0.5466666666666666,
       "verdict": "unadjusted-split",
-      "witness": 1.246666666666667,
-      "localMedian": 1.246666666666667,
-      "estimate": 1.27,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2021-06-30",
-      "action": "restate",
-      "vendorValue": 1.83,
-      "repairedValue": 1.22,
-      "verdict": "unadjusted-split",
-      "witness": 1.45,
-      "localMedian": 1.45,
-      "estimate": 1.57,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2018-12-31",
-      "action": "restate",
-      "vendorValue": 1.19,
-      "repairedValue": 0.7933333333333332,
-      "verdict": "unadjusted-split",
-      "witness": 1.1266666666666665,
-      "localMedian": 1.1266666666666665,
-      "estimate": 1.15,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2019-12-31",
-      "action": "restate",
-      "vendorValue": 1.26,
-      "repairedValue": 0.84,
-      "verdict": "unadjusted-split",
-      "witness": 1.2599999999999998,
-      "localMedian": 1.2599999999999998,
-      "estimate": 1.29,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2020-12-31",
-      "action": "restate",
-      "vendorValue": 1.49,
-      "repairedValue": 0.9933333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 1.48,
-      "localMedian": 1.48,
-      "estimate": 1.13,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2021-03-31",
-      "action": "restate",
-      "vendorValue": 1.67,
-      "repairedValue": 1.1133333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 1.68,
-      "localMedian": 1.68,
-      "estimate": 1.45,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2018-03-31",
-      "action": "restate",
-      "vendorValue": 1.09,
-      "repairedValue": 0.7266666666666667,
-      "verdict": "unadjusted-split",
-      "witness": 1.0866666666666664,
-      "localMedian": 1.0866666666666664,
-      "estimate": 1.08,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2019-03-31",
-      "action": "restate",
-      "vendorValue": 1.21,
-      "repairedValue": 0.8066666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 1.2066666666666666,
-      "localMedian": 1.2066666666666666,
-      "estimate": 1.09,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RJF.US",
-      "quarter": "2019-06-30",
-      "action": "restate",
-      "vendorValue": 1.2,
-      "repairedValue": 0.7999999999999999,
-      "verdict": "unadjusted-split",
-      "witness": 1.2,
-      "localMedian": 1.2,
-      "estimate": 1.22,
+      "witness": 0.82,
+      "localMedian": 0.82,
+      "estimate": 0.65,
       "splitFactor": 0.6666666666666666
     },
     {
@@ -3131,62 +2747,38 @@
     },
     {
       "ticker": "RJF.US",
-      "quarter": "2017-12-31",
+      "quarter": "2020-12-31",
       "action": "restate",
-      "vendorValue": 1.07,
-      "repairedValue": 0.7133333333333334,
+      "vendorValue": 1.49,
+      "repairedValue": 0.9933333333333333,
       "verdict": "unadjusted-split",
-      "witness": 0.5333333333333333,
-      "localMedian": 0.5333333333333333,
-      "estimate": 0.96,
+      "witness": 1.48,
+      "localMedian": 1.48,
+      "estimate": 1.13,
       "splitFactor": 0.6666666666666666
     },
     {
       "ticker": "RJF.US",
-      "quarter": "2018-06-30",
+      "quarter": "2021-06-30",
       "action": "restate",
-      "vendorValue": 1.03,
-      "repairedValue": 0.6866666666666666,
+      "vendorValue": 1.83,
+      "repairedValue": 1.22,
       "verdict": "unadjusted-split",
-      "witness": 1.0333333333333332,
-      "localMedian": 1.0333333333333332,
-      "estimate": 1.15,
+      "witness": 1.45,
+      "localMedian": 1.45,
+      "estimate": 1.57,
       "splitFactor": 0.6666666666666666
     },
     {
       "ticker": "RJF.US",
-      "quarter": "2018-09-30",
+      "quarter": "2021-03-31",
       "action": "restate",
-      "vendorValue": 1.12,
-      "repairedValue": 0.7466666666666667,
+      "vendorValue": 1.67,
+      "repairedValue": 1.1133333333333333,
       "verdict": "unadjusted-split",
-      "witness": 1.173333333333333,
-      "localMedian": 1.173333333333333,
-      "estimate": 1.21,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "ROL.US",
-      "quarter": "2019-06-30",
-      "action": "restate",
-      "vendorValue": 0.14,
-      "repairedValue": 0.09333333333333334,
-      "verdict": "unadjusted-split",
-      "witness": 0.13333333333333333,
-      "localMedian": 0.13333333333333333,
-      "estimate": 0.14,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "ROL.US",
-      "quarter": "2019-09-30",
-      "action": "restate",
-      "vendorValue": 0.15,
-      "repairedValue": 0.09999999999999999,
-      "verdict": "unadjusted-split",
-      "witness": 0.08666666666666667,
-      "localMedian": 0.08666666666666667,
-      "estimate": 0.15,
+      "witness": 1.68,
+      "localMedian": 1.68,
+      "estimate": 1.45,
       "splitFactor": 0.6666666666666666
     },
     {
@@ -3202,90 +2794,6 @@
       "splitFactor": 0.6666666666666666
     },
     {
-      "ticker": "ROL.US",
-      "quarter": "2020-09-30",
-      "action": "restate",
-      "vendorValue": 0.17,
-      "repairedValue": 0.11333333333333334,
-      "verdict": "unadjusted-split",
-      "witness": 0.16,
-      "localMedian": 0.16,
-      "estimate": 0.16,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "ROL.US",
-      "quarter": "2018-12-31",
-      "action": "restate",
-      "vendorValue": 0.11,
-      "repairedValue": 0.07333333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 0.10666666666666666,
-      "localMedian": 0.10666666666666666,
-      "estimate": 0.11,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "ROL.US",
-      "quarter": "2019-12-31",
-      "action": "restate",
-      "vendorValue": 0.11,
-      "repairedValue": 0.07333333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 0.10666666666666666,
-      "localMedian": 0.10666666666666666,
-      "estimate": 0.11,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "RTX.US",
-      "quarter": "2017-12-31",
-      "action": "restate",
-      "vendorValue": 1.6,
-      "repairedValue": 1.0069225928256766,
-      "verdict": "unadjusted-split",
-      "witness": 0.3146633102580239,
-      "localMedian": 0.3146633102580239,
-      "estimate": 1.56,
-      "splitFactor": 0.6293266205160478
-    },
-    {
-      "ticker": "RTX.US",
-      "quarter": "2018-03-31",
-      "action": "restate",
-      "vendorValue": 1.77,
-      "repairedValue": 1.1139081183134047,
-      "verdict": "unadjusted-split",
-      "witness": 1.0195091252359976,
-      "localMedian": 1.0195091252359976,
-      "estimate": 1.52,
-      "splitFactor": 0.6293266205160478
-    },
-    {
-      "ticker": "RTX.US",
-      "quarter": "2018-06-30",
-      "action": "restate",
-      "vendorValue": 1.97,
-      "repairedValue": 1.2397734424166142,
-      "verdict": "unadjusted-split",
-      "witness": 1.6110761485210825,
-      "localMedian": 1.6110761485210825,
-      "estimate": 1.85,
-      "splitFactor": 0.6293266205160478
-    },
-    {
-      "ticker": "RTX.US",
-      "quarter": "2018-09-30",
-      "action": "restate",
-      "vendorValue": 1.93,
-      "repairedValue": 1.2146003775959722,
-      "verdict": "unadjusted-split",
-      "witness": 0.9691629955947136,
-      "localMedian": 0.9691629955947136,
-      "estimate": 1.82,
-      "splitFactor": 0.6293266205160478
-    },
-    {
       "ticker": "RTX.US",
       "quarter": "2018-12-31",
       "action": "restate",
@@ -3295,18 +2803,6 @@
       "witness": 0.5223410950283197,
       "localMedian": 0.5223410950283197,
       "estimate": 1.53,
-      "splitFactor": 0.6293266205160478
-    },
-    {
-      "ticker": "RTX.US",
-      "quarter": "2019-03-31",
-      "action": "restate",
-      "vendorValue": 1.91,
-      "repairedValue": 1.2020138451856512,
-      "verdict": "unadjusted-split",
-      "witness": 1.56,
-      "localMedian": 1.56,
-      "estimate": 1.72,
       "splitFactor": 0.6293266205160478
     },
     {
@@ -3334,18 +2830,6 @@
       "splitFactor": 0.6293266205160478
     },
     {
-      "ticker": "RTX.US",
-      "quarter": "2019-12-31",
-      "action": "restate",
-      "vendorValue": 1.94,
-      "repairedValue": 1.2208936438011326,
-      "verdict": "unadjusted-split",
-      "witness": 1.32,
-      "localMedian": 1.32,
-      "estimate": 1.84,
-      "splitFactor": 0.6293266205160478
-    },
-    {
       "ticker": "SATS.US",
       "quarter": "2021-06-30",
       "action": "exclude",
@@ -3370,18 +2854,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "SBAC.US",
-      "quarter": "2024-12-31",
-      "action": "exclude",
-      "vendorValue": 2.3258,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 1.61,
-      "localMedian": 1.01,
-      "estimate": 2.2833,
-      "splitFactor": 1
-    },
-    {
       "ticker": "SEDG.US",
       "quarter": "2022-12-31",
       "action": "exclude",
@@ -3392,6 +2864,138 @@
       "localMedian": 1.1,
       "estimate": 1.59,
       "splitFactor": 1
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2017-12-31",
+      "action": "restate",
+      "vendorValue": 45.68,
+      "repairedValue": 1.719478352729721,
+      "verdict": "unadjusted-split",
+      "witness": 1.8475775313151004,
+      "localMedian": 1.8475775313151004,
+      "estimate": 2.04,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2018-06-30",
+      "action": "restate",
+      "vendorValue": 35.98,
+      "repairedValue": 1.3543526955169738,
+      "verdict": "unadjusted-split",
+      "witness": 1.4391890117393702,
+      "localMedian": 1.4391890117393702,
+      "estimate": 1.73,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2018-12-31",
+      "action": "restate",
+      "vendorValue": 48.3,
+      "repairedValue": 1.818099921997494,
+      "verdict": "unadjusted-split",
+      "witness": 1.9319877483703762,
+      "localMedian": 1.9319877483703762,
+      "estimate": 2.13,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2019-06-30",
+      "action": "restate",
+      "vendorValue": 49.78,
+      "repairedValue": 1.8738098160876866,
+      "verdict": "unadjusted-split",
+      "witness": 1.9912059472092747,
+      "localMedian": 1.9912059472092747,
+      "estimate": 1.76,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2020-12-31",
+      "action": "restate",
+      "vendorValue": 41.11,
+      "repairedValue": 1.5474552338160865,
+      "verdict": "unadjusted-split",
+      "witness": 1.6547868323952637,
+      "localMedian": 1.6547868323952637,
+      "estimate": 1.82,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2021-06-30",
+      "action": "restate",
+      "vendorValue": 36.31,
+      "repairedValue": 1.3667744962262736,
+      "verdict": "unadjusted-split",
+      "witness": 1.4566408362832095,
+      "localMedian": 1.4566408362832095,
+      "estimate": 1.5,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2022-06-30",
+      "action": "restate",
+      "vendorValue": 36.85,
+      "repairedValue": 1.3871010792051275,
+      "verdict": "unadjusted-split",
+      "witness": 1.472,
+      "localMedian": 1.472,
+      "estimate": 40.29,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2022-12-31",
+      "action": "restate",
+      "vendorValue": 47.15,
+      "repairedValue": 1.7748118286166013,
+      "verdict": "unadjusted-split",
+      "witness": 1.664,
+      "localMedian": 1.664,
+      "estimate": 53.8,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2019-12-31",
+      "action": "exclude",
+      "vendorValue": 37.35,
+      "repairedValue": null,
+      "verdict": "ungrounded-unexplained",
+      "witness": 1.4988628768210124,
+      "localMedian": 1.818099921997494,
+      "estimate": 1.89,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2020-06-30",
+      "action": "exclude",
+      "vendorValue": 22.74,
+      "repairedValue": null,
+      "verdict": "ungrounded-unexplained",
+      "witness": 0.9056733283971489,
+      "localMedian": 1.8738098160876866,
+      "estimate": 1.12,
+      "splitFactor": 0.03764182033121106
+    },
+    {
+      "ticker": "SGSN.SW",
+      "quarter": "2021-12-31",
+      "action": "exclude",
+      "vendorValue": 81.73,
+      "repairedValue": null,
+      "verdict": "ungrounded-unexplained",
+      "witness": 1.8185939229097503,
+      "localMedian": 1.5474552338160865,
+      "estimate": 2.01,
+      "splitFactor": 0.03764182033121106
     },
     {
       "ticker": "SLG.US",
@@ -3431,38 +3035,14 @@
     },
     {
       "ticker": "SMCI.US",
-      "quarter": "2019-09-30",
-      "action": "restate",
-      "vendorValue": 0.59,
-      "repairedValue": 0.059,
-      "verdict": "unadjusted-split",
-      "witness": 0.051000000000000004,
-      "localMedian": 0.051000000000000004,
-      "estimate": 0.63,
-      "splitFactor": 0.1
-    },
-    {
-      "ticker": "SMCI.US",
       "quarter": "2018-06-30",
-      "action": "exclude",
-      "vendorValue": 0.77,
-      "repairedValue": null,
-      "verdict": "ungrounded-unexplained",
-      "witness": 0.05,
-      "localMedian": 0.04,
-      "estimate": 0.55,
-      "splitFactor": 0.1
-    },
-    {
-      "ticker": "SMCI.US",
-      "quarter": "2017-12-31",
       "action": "restate",
-      "vendorValue": 0.51,
-      "repairedValue": 0.051000000000000004,
+      "vendorValue": 0.77,
+      "repairedValue": 0.07700000000000001,
       "verdict": "unadjusted-split",
-      "witness": -0.002,
-      "localMedian": -0.002,
-      "estimate": 0.46,
+      "witness": 0.05,
+      "localMedian": 0.05,
+      "estimate": 0.55,
       "splitFactor": 0.1
     },
     {
@@ -3490,18 +3070,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "SPG.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 3.29,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 1.49,
-      "localMedian": 1.36,
-      "estimate": 3.18,
-      "splitFactor": 1
-    },
-    {
       "ticker": "SREN.SW",
       "quarter": "2021-12-31",
       "action": "exclude",
@@ -3512,42 +3080,6 @@
       "localMedian": -0.65,
       "estimate": 1.96,
       "splitFactor": 1
-    },
-    {
-      "ticker": "SRE.US",
-      "quarter": "2017-12-31",
-      "action": "restate",
-      "vendorValue": 1.54,
-      "repairedValue": 0.77,
-      "verdict": "unadjusted-split",
-      "witness": -0.9,
-      "localMedian": -0.9,
-      "estimate": 1.41,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "SRE.US",
-      "quarter": "2018-12-31",
-      "action": "restate",
-      "vendorValue": 1.56,
-      "repairedValue": 0.78,
-      "verdict": "unadjusted-split",
-      "witness": 0.07,
-      "localMedian": 0.07,
-      "estimate": 1.46,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "SRE.US",
-      "quarter": "2019-12-31",
-      "action": "restate",
-      "vendorValue": 1.55,
-      "repairedValue": 0.775,
-      "verdict": "unadjusted-split",
-      "witness": 0.105,
-      "localMedian": 0.105,
-      "estimate": 1.48,
-      "splitFactor": 0.5
     },
     {
       "ticker": "SRE.US",
@@ -3563,30 +3095,6 @@
     },
     {
       "ticker": "SRE.US",
-      "quarter": "2020-12-31",
-      "action": "restate",
-      "vendorValue": 1.9,
-      "repairedValue": 0.95,
-      "verdict": "unadjusted-split",
-      "witness": 0.7250000000000005,
-      "localMedian": 0.7250000000000005,
-      "estimate": 1.56,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "SRE.US",
-      "quarter": "2021-03-31",
-      "action": "restate",
-      "vendorValue": 1.48,
-      "repairedValue": 0.74,
-      "verdict": "unadjusted-split",
-      "witness": 1.435,
-      "localMedian": 1.435,
-      "estimate": 1.35,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "SRE.US",
       "quarter": "2021-12-31",
       "action": "restate",
       "vendorValue": 2.16,
@@ -3595,18 +3103,6 @@
       "witness": 0.9649999999999999,
       "localMedian": 0.9649999999999999,
       "estimate": 2,
-      "splitFactor": 0.5
-    },
-    {
-      "ticker": "SRE.US",
-      "quarter": "2022-03-31",
-      "action": "restate",
-      "vendorValue": 1.46,
-      "repairedValue": 0.73,
-      "verdict": "unadjusted-split",
-      "witness": 0.965,
-      "localMedian": 0.965,
-      "estimate": 1.4,
       "splitFactor": 0.5
     },
     {
@@ -3643,18 +3139,6 @@
       "witness": -1.26,
       "localMedian": 0.43,
       "estimate": 0.36,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "TMO.US",
-      "quarter": "2021-03-31",
-      "action": "exclude",
-      "vendorValue": 7.21,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 5.88,
-      "localMedian": 2.94,
-      "estimate": 6.68,
       "splitFactor": 1
     },
     {
@@ -3704,6 +3188,78 @@
       "localMedian": -0.04,
       "estimate": 0.51,
       "splitFactor": 1
+    },
+    {
+      "ticker": "TSLA.US",
+      "quarter": "2020-06-30",
+      "action": "restate",
+      "vendorValue": 0.15,
+      "repairedValue": 0.01,
+      "verdict": "unadjusted-split",
+      "witness": 0.03333333333333333,
+      "localMedian": 0.03333333333333333,
+      "estimate": -0.01,
+      "splitFactor": 0.06666666666666667
+    },
+    {
+      "ticker": "TSLA.US",
+      "quarter": "2022-03-31",
+      "action": "restate",
+      "vendorValue": 1.07,
+      "repairedValue": 0.3566666666666667,
+      "verdict": "unadjusted-split",
+      "witness": 0.95,
+      "localMedian": 0.95,
+      "estimate": 0.75,
+      "splitFactor": 0.3333333333333333
+    },
+    {
+      "ticker": "TSLA.US",
+      "quarter": "2021-06-30",
+      "action": "restate",
+      "vendorValue": 0.48,
+      "repairedValue": 0.15999999999999998,
+      "verdict": "unadjusted-split",
+      "witness": 0.33999999999999997,
+      "localMedian": 0.33999999999999997,
+      "estimate": 0.32,
+      "splitFactor": 0.3333333333333333
+    },
+    {
+      "ticker": "TSLA.US",
+      "quarter": "2020-09-30",
+      "action": "restate",
+      "vendorValue": 0.25,
+      "repairedValue": 0.08333333333333333,
+      "verdict": "unadjusted-split",
+      "witness": 0.09,
+      "localMedian": 0.09,
+      "estimate": 0.2,
+      "splitFactor": 0.3333333333333333
+    },
+    {
+      "ticker": "TSLA.US",
+      "quarter": "2020-12-31",
+      "action": "restate",
+      "vendorValue": 0.27,
+      "repairedValue": 0.09,
+      "verdict": "unadjusted-split",
+      "witness": 0.07666666666666666,
+      "localMedian": 0.07666666666666666,
+      "estimate": 0.35,
+      "splitFactor": 0.3333333333333333
+    },
+    {
+      "ticker": "TSLA.US",
+      "quarter": "2021-03-31",
+      "action": "restate",
+      "vendorValue": 0.31,
+      "repairedValue": 0.10333333333333333,
+      "verdict": "unadjusted-split",
+      "witness": 0.13,
+      "localMedian": 0.13,
+      "estimate": 0.26,
+      "splitFactor": 0.3333333333333333
     },
     {
       "ticker": "TSN.US",
@@ -3766,66 +3322,6 @@
       "splitFactor": 1
     },
     {
-      "ticker": "UDR.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 0.64,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.21216274774345625,
-      "localMedian": 0.07,
-      "estimate": 0.63,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "VST.US",
-      "quarter": "2025-12-31",
-      "action": "exclude",
-      "vendorValue": 2.18,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.5400000000000003,
-      "localMedian": 0.94,
-      "estimate": 2.51,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "VTR.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 0.97,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.14,
-      "localMedian": 0.15,
-      "estimate": 0.96,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "WDC.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 3.47,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 8.23,
-      "localMedian": 1.66,
-      "estimate": 3.24,
-      "splitFactor": 1
-    },
-    {
-      "ticker": "WELL.US",
-      "quarter": "2026-06-30",
-      "action": "exclude",
-      "vendorValue": 1.6,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.32820769883232237,
-      "localMedian": 0.45,
-      "estimate": 1.55,
-      "splitFactor": 1
-    },
-    {
       "ticker": "WMT.US",
       "quarter": "2023-01-31",
       "action": "restate",
@@ -3847,18 +3343,6 @@
       "witness": 0.97,
       "localMedian": 0.97,
       "estimate": 1.69,
-      "splitFactor": 0.3333333333333333
-    },
-    {
-      "ticker": "WMT.US",
-      "quarter": "2022-07-31",
-      "action": "restate",
-      "vendorValue": 0.63,
-      "repairedValue": 0.21,
-      "verdict": "unadjusted-split",
-      "witness": 0.6266666666666666,
-      "localMedian": 0.6266666666666666,
-      "estimate": 0.59,
       "splitFactor": 0.3333333333333333
     },
     {
@@ -3887,66 +3371,6 @@
     },
     {
       "ticker": "WRB.US",
-      "quarter": "2023-12-31",
-      "action": "restate",
-      "vendorValue": 0.97,
-      "repairedValue": 0.6466666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 0.98,
-      "localMedian": 0.98,
-      "estimate": 0.92,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "WRB.US",
-      "quarter": "2024-03-31",
-      "action": "restate",
-      "vendorValue": 1.04,
-      "repairedValue": 0.6933333333333334,
-      "verdict": "unadjusted-split",
-      "witness": 1.09,
-      "localMedian": 1.09,
-      "estimate": 0.95,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "WRB.US",
-      "quarter": "2022-12-31",
-      "action": "restate",
-      "vendorValue": 0.77,
-      "repairedValue": 0.5133333333333333,
-      "verdict": "unadjusted-split",
-      "witness": 0.9100000000000001,
-      "localMedian": 0.9100000000000001,
-      "estimate": 0.73,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "WRB.US",
-      "quarter": "2023-06-30",
-      "action": "restate",
-      "vendorValue": 0.76,
-      "repairedValue": 0.5066666666666666,
-      "verdict": "unadjusted-split",
-      "witness": 0.87,
-      "localMedian": 0.87,
-      "estimate": 0.72,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "WRB.US",
-      "quarter": "2023-09-30",
-      "action": "restate",
-      "vendorValue": 0.9,
-      "repairedValue": 0.6,
-      "verdict": "unadjusted-split",
-      "witness": 0.82,
-      "localMedian": 0.82,
-      "estimate": 0.78,
-      "splitFactor": 0.6666666666666666
-    },
-    {
-      "ticker": "WRB.US",
       "quarter": "2022-09-30",
       "action": "restate",
       "vendorValue": 0.67,
@@ -3956,6 +3380,30 @@
       "localMedian": 0.5466666666666666,
       "estimate": 0.57,
       "splitFactor": 0.6666666666666666
+    },
+    {
+      "ticker": "WSM.US",
+      "quarter": "2020-07-31",
+      "action": "restate",
+      "vendorValue": 0.85,
+      "repairedValue": 0.425,
+      "verdict": "unadjusted-split",
+      "witness": 0.85,
+      "localMedian": 0.85,
+      "estimate": 0.47,
+      "splitFactor": 0.5
+    },
+    {
+      "ticker": "WSM.US",
+      "quarter": "2020-10-31",
+      "action": "restate",
+      "vendorValue": 1.28,
+      "repairedValue": 0.64,
+      "verdict": "unadjusted-split",
+      "witness": 1.27,
+      "localMedian": 1.27,
+      "estimate": 0.76,
+      "splitFactor": 0.5
     },
     {
       "ticker": "WSM.US",
@@ -3983,14 +3431,14 @@
     },
     {
       "ticker": "WSM.US",
-      "quarter": "2024-01-31",
+      "quarter": "2023-01-31",
       "action": "restate",
-      "vendorValue": 2.72,
-      "repairedValue": 1.36,
+      "vendorValue": 5.5,
+      "repairedValue": 2.75,
       "verdict": "unadjusted-split",
-      "witness": 2.7200000000000006,
-      "localMedian": 2.7200000000000006,
-      "estimate": 2.58,
+      "witness": 2.62,
+      "localMedian": 2.62,
+      "estimate": 5.46,
       "splitFactor": 0.5
     },
     {
@@ -4004,18 +3452,6 @@
       "localMedian": 1.99,
       "estimate": 2.71,
       "splitFactor": 0.5
-    },
-    {
-      "ticker": "ZBH.US",
-      "quarter": "2021-06-30",
-      "action": "exclude",
-      "vendorValue": 1.9,
-      "repairedValue": null,
-      "verdict": "consensus-definition",
-      "witness": 0.67,
-      "localMedian": 0.05,
-      "estimate": 1.86,
-      "splitFactor": 0.970873786407767
     },
     {
       "ticker": "ZURN.SW",
