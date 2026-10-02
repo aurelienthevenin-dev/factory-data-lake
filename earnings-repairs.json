@@ -6,7 +6,7 @@
     "eodhd-financials": "5911a9133490b09b479d59021e1e534c005ea8d0",
     "split-history.json": "8eeab43d921c90a940f8cc2767368b1a5262626c",
     "backtester_data": "dcf92953f4ccbb308f370602973988570c2d185b",
-    "code:utils/epsSeriesAudit.ts": "f4ea74d2ee4fb303c2b2abe489f335aa3837dfac",
+    "code:utils/epsSeriesAudit.ts": "1f134839536c52ac59d5ebb7309100bbf259b5fc",
     "code:utils/epsRepairs.ts": "7d200de1aed861cf175585079c7bcbe826451ca6",
     "code:utils/edgarEps.ts": "38ce8ad3d4f46800383dbdf058fd7c3260f29bfe",
     "code:utils/splitAdjustment.ts": "3569f81a34111d7c7b2933c34d71a16647ab9962"
@@ -83,18 +83,6 @@
       "witness": 0.305,
       "localMedian": 0.305,
       "estimate": 1.05,
-      "splitFactor": 5
-    },
-    {
-      "ticker": "AMCR.US",
-      "quarter": "2022-12-31",
-      "action": "restate",
-      "vendorValue": 0.95,
-      "repairedValue": 4.75,
-      "verdict": "unadjusted-split",
-      "witness": 1.535,
-      "localMedian": 1.535,
-      "estimate": 0.9,
       "splitFactor": 5
     },
     {
@@ -2423,18 +2411,6 @@
       "witness": 0.0925,
       "localMedian": 0.0925,
       "estimate": 0.26,
-      "splitFactor": 0.25
-    },
-    {
-      "ticker": "TECH.US",
-      "quarter": "2021-06-30",
-      "action": "restate",
-      "vendorValue": 0.47,
-      "repairedValue": 0.1175,
-      "verdict": "unadjusted-split",
-      "witness": 0.09250000000000003,
-      "localMedian": 0.09250000000000003,
-      "estimate": 0.43,
       "splitFactor": 0.25
     },
     {
